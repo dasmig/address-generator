@@ -635,8 +635,7 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
     {
         for (std::uint64_t s = 0; s < 10000; ++s)
         {
-            std::printf("DBG %llu %016llx
-", static_cast<unsigned long long>(s),
+            std::printf("DBG %llu %016llx\n", static_cast<unsigned long long>(s),
                         static_cast<unsigned long long>(dasmig::core::fnv1a64(gen.get_address(dasmig::address_request{}, s).to_json())));
         }
     }
