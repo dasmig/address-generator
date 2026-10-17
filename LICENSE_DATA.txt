@@ -1,0 +1,26 @@
+Third-party data in resources/. Each dataset, its columns and how it is built
+are described in doc/data.md.
+
+places.tsv
+  GeoNames (https://www.geonames.org/), cities500 and cities15000, via
+  city-generator. Creative Commons Attribution 4.0.
+
+postcodes.tsv
+  GeoNames postal codes (https://download.geonames.org/export/zip/),
+  Creative Commons Attribution 4.0. The Royal Mail full file (GB_full) is not
+  used.
+
+formats.tsv
+  Address Data Service of Google's libaddressinput
+  (https://github.com/google/libaddressinput): layouts, required fields and
+  postcode examples. Data under Creative Commons Attribution 4.0 according to
+  the project's README. The columns number_after, number_sep, unit_style and
+  zip_completion are curated.
+
+streets.tsv
+  Map data (c) OpenStreetMap contributors (https://www.openstreetmap.org/copyright),
+  extracted from Geofabrik country extracts. Open Database Licence 1.0; the
+  licence has not been reviewed for this library yet (see doc/data.md).
+
+street_types.tsv, street_names.tsv
+  Curated for this library.

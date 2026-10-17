@@ -1,0 +1,133 @@
+# Curated (see doc/data.md): name stems for the composed fallback. '*' is the generic fallback.
+country_code	name	weight
+*	Main	10
+*	Park	8
+*	Oak	6
+*	Maple	6
+*	Church	7
+*	Station	6
+*	Lake	5
+*	Hill	5
+*	Mill	4
+*	Washington	3
+*	Victoria	3
+*	Cedar	4
+*	Pine	4
+*	River	4
+*	Sunset	3
+US	Main	10
+US	Oak	8
+US	Maple	7
+US	Park	7
+US	Washington	6
+US	Lake	6
+US	Hill	5
+US	Elm	6
+US	Cedar	5
+US	Pine	5
+US	Walnut	4
+US	Sunset	4
+US	Lincoln	4
+US	Jefferson	3
+US	Church	5
+CA	Main	10
+CA	King	6
+CA	Queen	6
+CA	Maple	7
+CA	Oak	5
+CA	Victoria	4
+CA	Elm	4
+CA	Lakeshore	3
+CA	Parkview	3
+AU	High	8
+AU	Church	7
+AU	Park	6
+AU	Station	6
+AU	Victoria	5
+AU	Queen	5
+AU	King	5
+AU	Wattle	4
+AU	Banksia	3
+GB	High	10
+GB	Church	8
+GB	Station	8
+GB	Victoria	6
+GB	Mill	6
+GB	Park	6
+GB	Green	5
+GB	Manor	5
+GB	Queens	4
+GB	Kings	4
+GB	York	3
+FR	de la République	8
+FR	Victor Hugo	8
+FR	du Général de Gaulle	7
+FR	Pasteur	6
+FR	de la Gare	6
+FR	des Écoles	5
+FR	Jean Jaurès	6
+FR	du Moulin	4
+FR	de l'Église	5
+FR	Gambetta	4
+FR	de la Paix	4
+FR	des Lilas	3
+DE	Haupt	10
+DE	Bahnhof	8
+DE	Schul	8
+DE	Garten	6
+DE	Berg	6
+DE	Linden	6
+DE	Kirch	6
+DE	Wald	5
+DE	Dorf	5
+DE	Mühlen	4
+DE	Goethe	4
+DE	Schiller	4
+NL	Kerk	8
+NL	Molen	6
+NL	Dorp	6
+NL	School	6
+NL	Station	5
+NL	Nieuwe	4
+NL	Oude	4
+NL	Park	4
+ES	Mayor	10
+ES	de Cervantes	6
+ES	Real	6
+ES	de la Iglesia	6
+ES	del Sol	5
+ES	de San Juan	5
+ES	de la Paz	4
+ES	Nueva	4
+ES	de Colón	4
+ES	de Goya	3
+PT	de Camões	6
+PT	da Liberdade	8
+PT	25 de Abril	8
+PT	do Comércio	5
+PT	da Igreja	6
+PT	Direita	4
+PT	Nova	4
+PT	do Alecrim	3
+PT	de São João	4
+PT	da República	6
+BR	Sete de Setembro	6
+BR	Quinze de Novembro	6
+BR	Tiradentes	6
+BR	São Paulo	5
+BR	Getúlio Vargas	6
+BR	das Flores	5
+BR	Presidente Vargas	5
+BR	Santos Dumont	4
+BR	Duque de Caxias	4
+BR	Sete de Abril	3
+IT	Roma	8
+IT	Garibaldi	8
+IT	Mazzini	6
+IT	Dante Alighieri	6
+IT	Marconi	5
+IT	Verdi	5
+IT	XX Settembre	4
+IT	della Libertà	4
+IT	Cavour	5
+IT	Matteotti	4

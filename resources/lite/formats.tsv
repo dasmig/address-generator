@@ -1,0 +1,253 @@
+country_code	lines	lines_latin	require	region_style	zip_pattern	zip_completion	zip_examples	number_after	number_sep	unit_style	number_style
+AC	{A}|{C}|{Z}		AC	name			ASCN 1ZZ	1	space	none	
+AD	{A}|{Z} {C}		AC	code			AD100~AD501~AD700	0	space	none	
+AE	{A}|{S}	{A}|{S}	AS	code				1	space	none	
+AF	{A}|{C}|{Z}		AC	name	####		1001~2601~3801	1	space	none	
+AG	{A}|{C}		A	name				1	space	none	
+AI	{A}|{C}|{Z}		AC	name			2640	1	space	none	
+AL	{A}|{Z}|{C}		AC	name	####		1001~1017~3501	1	space	none	
+AM	{A}|{Z}|{C}|{S}	{A}|{Z}|{C}|{S}	AC	name			375010~0002~0010	1	space	none	
+AO	{A}|{C}		AC	name				1	space	none	
+AQ	{A}|{C}		AC	name				1	space	none	
+AR	{A}|{Z} {C}|{S}		AC	name	L####LLL		C1070AAM~C1000WAM~B1000TBU~X5187XAB	1	comma	piso	
+AS	{A}|{C} {S} {Z}		ACSZ	name			96799	1	space	none	
+AT	{A}|{Z} {C}		ACZ	name	####		1010~3741	1	space	whg	
+AU	{A}|{C} {S} {Z}		ACSZ	code	####		2060~3171~6430~4000~4006~3001	0	space	flat	
+AW	{A}|{C}		AC	name				1	space	none	
+AX	{A}|AX-{Z} {C}		ACZ	name			22150~22550~22240~22710~22270~22730~22430	1	space	none	
+AZ	{A}|AZ {Z} {C}		AC	name	####		1000	1	space	none	
+BA	{A}|{Z} {C}		AC	name	#####		71000	1	space	none	
+BB	{A}|{C}, {S} {Z}		AC	name			BB23026~BB22025	0	space	none	
+BD	{A}|{C} - {Z}		AC	name	####		1340~1000	0	space	none	
+BE	{A}|{Z} {C}		ACZ	name	####		4000~1000	1	space	app_fr	
+BF	{A}|{C} {X}		AC	name				1	space	none	
+BG	{A}|{Z} {C}		AC	name	####		1000~1700	1	space	none	
+BH	{A}|{C} {Z}		AC	name			317	1	space	none	
+BI	{A}|{C}		AC	name				1	space	none	
+BJ	{A}|{C}		AC	name				1	space	none	
+BL	{A}|{Z} {C} {X}		ACZ	name			97100	0	space	none	
+BM	{A}|{C} {Z}		AC	name	AA ##		FL 07~HM GX~HM 12	1	space	none	
+BN	{A}|{C} {Z}		AC	name	AA####		BT2328~KA1131~BA1511	1	space	none	
+BO	{A}|{C}		AC	name				1	comma	none	
+BQ	{A}|{C}		AC	name				1	space	none	
+BR	{A}|{D}|{C}-{S}|{Z}		ASCZ	code	#####-###		40301-110~70002-900	1	comma	ap_br	
+BS	{A}|{C}, {S}		AC	code				0	space	none	
+BT	{A}|{C} {Z}		AC	name	#####		11001~31101~35003	1	space	none	
+BV	{A}|{C}		AC	name				1	space	none	
+BW	{A}|{C}		AC	name				1	space	none	
+BY	{A}|{Z}, {C}|{S}		AC	name	######		223016~225860~220050	1	comma	none	
+BZ	{A}|{C}		AC	name				1	space	none	
+CA	{A}|{C} {S} {Z}		ACSZ	code	L#L #L#	_#L#	H3Z 2Y7~V8X 3X4~T0L 1K0~T0H 1A0~K1A 0B1	0	space	apt	
+CC	{A}|{C} {S} {Z}		AC	name			6799	1	space	none	
+CD	{A}|{C}		AC	name				1	space	none	
+CF	{A}|{C}		AC	name				1	space	none	
+CG	{A}|{C}		AC	name				1	space	none	
+CH	{A}|CH-{Z} {C}		ACZ	name	####		2544~1211~1556~3030	1	space	whg	
+CI	{X} {A} {C} {X}		AC	name				1	space	none	
+CK	{A}|{C}		AC	name				1	space	none	
+CL	{A}|{Z} {C}|{S}		AC	code	#######		8340457~8720019~1230000~8329100	1	comma	apt	
+CM	{A}|{C}		AC	name				1	space	none	
+CN	{Z}|{S}{C}{D}|{A}	{A}|{D}|{C}|{S}, {Z}	ACSZ	code	######		266033~317204~100096~100808	1	space	none	
+CO	{A}|{D}|{C}, {S}, {Z}		AS	name	######		111221~130001~760011	1	comma	apt	
+CR	{A}|{S}, {C}|{Z}		ACS	name	####		1000~2010~1001	1	comma	none	
+CU	{A}|{C} {S}|{Z}		AC	name	#####		10700	1	comma	none	
+CV	{A}|{Z} {C}|{S}		AC	name	####		7600	1	space	none	
+CW	{A}|{C}		AC	name				1	space	none	
+CX	{A}|{C} {S} {Z}		AC	name			6798	1	space	none	
+CY	{A}|{Z} {C}		AC	name	####		2008~3304~1900	0	space	none	
+CZ	{A}|{Z} {C}		ACZ	name	### ##		100 00~251 66~530 87~110 00~225 99	1	space	none	
+DE	{A}|{Z} {C}		ACZ	name	#####		26133~53225	1	space	whg	
+DJ	{A}|{C}		AC	name				1	space	none	
+DK	{A}|{Z} {C}		ACZ	name	####		8660~1566	1	space	none	
+DM	{A}|{C}		AC	name				1	space	none	
+DO	{A}|{Z} {C}		AC	name	#####		11903~10101	1	comma	none	
+DZ	{A}|{Z} {C}		AC	name	#####		40304~16027	1	space	none	
+EC	{A}|{Z}|{C}		AC	name	######		090105~092301	1	comma	none	
+EE	{A}|{Z} {C} {S}		ACZ	name	#####		69501~11212	1	space	none	
+EG	{A}|{C}|{S}|{Z}	{A}|{C}|{S}|{Z}	AC	name	#######		4460232~5734356	1	space	none	
+EH	{A}|{Z} {C}		AC	name	#####		70000~72000	1	space	none	
+ER	{A}|{C}		AC	name				1	space	none	
+ES	{A}|{Z} {C} {S}		ACSZ	code	#####		28039~28300~28070	1	comma	piso	
+ET	{A}|{Z} {C}		AC	name	####		1000	1	space	none	
+FI	{A}|FI-{Z} {C}		ACZ	name	#####		00550~00011	1	space	none	
+FJ	{A}|{C}		AC	name				1	space	none	
+FK	{A}|{C}|{Z}		ACZ	name			FIQQ 1ZZ	1	space	none	
+FM	{A}|{C} {S} {Z}		ACSZ	name			96941~96944	1	space	none	
+FO	{A}|FO{Z} {C}		AC	name	###		100	1	space	none	
+FR	{A}|{Z} {C}		ACZ	name	#####		33380~34092~33506	0	space	app_fr	
+GA	{A}|{C}		AC	name				1	space	none	
+GB	{A}|{C}|{Z}		ACZ	name		_#UU	EC1Y 8SY~GIR 0AA~M2 5BQ~M34 4AB~CR0 2YR~DN16 9AA~W1A 4ZZ~EC1A 1HQ~OX14 4PG~BS18 8HF~NR25 7HG~RH6 0NP~BH23 6AA~B6 5BA~SO23 9AP~PO1 3AX~BFPO 61	0	space	flat	
+GD	{A}|{C}		AC	name				1	space	none	
+GE	{A}|{Z} {C}		AC	name	####		0101	1	space	none	
+GF	{A}|{Z} {C} {X}		ACZ	name			97300	0	space	none	
+GG	{A}|{C}|{Z}		ACZ	name		_#UU	GY1 1AA~GY2 2BT	0	space	none	
+GH	{A}|{C}		AC	name				0	space	none	
+GI	{A}|{Z}		A	name			GX11 1AA	0	space	none	
+GL	{A}|{Z} {C}		ACZ	name			3900~3950~3911	1	space	none	
+GM	{A}|{C}		AC	name				1	space	none	
+GN	{Z} {A} {C}		AC	name	###		001~200~100	1	space	none	
+GP	{A}|{Z} {C} {X}		ACZ	name			97100	0	space	none	
+GQ	{A}|{C}		AC	name				1	space	none	
+GR	{A}|{Z} {C}		ACZ	name	### ##		151 24~151 10~101 88	1	space	none	
+GS	{A}|{C}|{Z}		ACZ	name			SIQQ 1ZZ	1	space	none	
+GT	{A}|{Z}- {C}		AC	name	#####		09001~01501	1	comma	none	
+GU	{A}|{C} {Z}		ACZ	name			96910~96931	1	space	none	
+GW	{A}|{Z} {C}		AC	name	####		1000~1011	1	space	none	
+GY	{A}|{C}		AC	name				1	space	none	
+HK	{S}|{C}|{A}	{A}|{C}|{S}	AS	code				0	space	none	
+HM	{A}|{C} {S} {Z}		AC	name	####		7050	1	space	none	
+HN	{A}|{C}, {S}|{Z}		ACS	name	#####		31301	1	comma	none	
+HR	{A}|HR-{Z} {C}		AC	name	#####		10000~21001~10002	1	space	none	
+HT	{A}|HT{Z} {C}		AC	name	####		6120~5310~6110~8510	1	space	none	
+HU	{C}|{A}|{Z}		ACZ	name	####		1037~2380~1540	1	space	none	
+ID	{A}|{C}|{S} {Z}		AS	name	#####		40115	1	space	none	
+IE	{A}|{D}|{C}|{S}|{Z}		AC	name	A## ####	_####	A65 F4E2	0	space	apt	
+IL	{A}|{C} {Z}		AC	name	#######		9614303	0	space	none	
+IM	{A}|{C}|{Z}		ACZ	name		_#UU	IM2 1AA~IM99 1PS	0	space	none	
+IN	{A}|{C} {Z}|{S}		ACSZ	code	######		110034~110001	0	space	none	
+IO	{A}|{C}|{Z}		ACZ	name			BBND 1ZZ	1	space	none	
+IQ	{A}|{C}, {S}|{Z}		ACS	name	#####		31001	1	space	none	
+IR	{S}|{C}, {D}|{A}|{Z}		AC	name	#####-#####		11936-12345	1	space	none	
+IS	{A}|{Z} {C}		AC	name	###		320~121~220~110	1	space	none	
+IT	{A}|{Z} {C} {S}		ACSZ	code	#####		00144~47037~39049	1	space	apt	
+JE	{A}|{C}|{Z}		ACZ	name		_#UU	JE1 1AA~JE2 2BT	0	space	none	
+JM	{A}|{C}|{S} {X}		ACS	name				0	space	none	
+JO	{A}|{C} {Z}		AC	name	#####		11937~11190	1	space	none	
+JP	〒{Z}|{S} {C}|{A}	{A}|{C}, {S} {Z}	ASZ	name	###-####		154-0023~350-1106~951-8073~112-0001~208-0032~231-0012	1	space	none	blocks
+KE	{A}|{C}|{Z}		AC	name	#####		20100~00100	0	space	none	
+KG	{A}|{Z} {C}		AC	name	######		720001	1	space	none	
+KH	{A}|{C} {Z}		AC	name	######		120101~120108	1	space	none	
+KI	{A}|{S}|{C}		AC	name				1	space	none	
+KM	{A}|{C}		AC	name				1	space	none	
+KN	{A}|{C}, {S}		ACS	name				1	space	none	
+KP	{Z}|{S}|{C}|{A}	{A}|{C}|{S}, {Z}	AC	name				1	space	none	
+KR	{S} {C}{D}|{A}|{Z}	{A}|{D}|{C}|{S}|{Z}	ACSZ	code	#####		03051	1	space	none	
+KW	{A}|{Z} {C}		AC	name	#####		54541~54551~54404~13009	1	space	none	
+KY	{A}|{S} {Z}		AS	name			KY1-1100~KY1-1702~KY2-2101	1	space	none	
+KZ	{Z}|{S}|{C}|{A}		AC	name	######		040900~050012	1	space	none	
+LA	{A}|{Z} {C}		AC	name	#####		01160~01000	1	space	none	
+LB	{A}|{C} {Z}		AC	name	#### ####		2038 3054~1107 2810~1000	1	space	none	
+LC	{A}|{C}		AC	name				1	space	none	
+LI	{A}|FL-{Z} {C}		ACZ	name			9496~9491~9490~9485	0	space	none	
+LK	{A}|{C}|{Z}		AC	name	#####		20000~00100	0	space	none	
+LR	{A}|{Z} {C}		AC	name	####		1000	1	space	none	
+LS	{A}|{C} {Z}		AC	name	###		100	1	space	none	
+LT	{A}|LT-{Z} {C} {S}		ACZ	name	#####		04340~03500	1	space	none	
+LU	{A}|L-{Z} {C}		ACZ	name	####		4750~2998	0	space	app_fr	
+LV	{A}|{S}|{C}, {Z}		ACZ	name			LV-1073~LV-1000	1	space	none	
+LY	{A}|{C}		AC	name				1	space	none	
+MA	{A}|{Z} {C}		AC	name	#####		53000~10000~20050~16052	1	space	none	
+MC	{A}|MC-{Z} {C} {X}		AC	name			98000~98020~98011~98001	0	space	none	
+MD	{A}|MD-{Z} {C}		AC	name	####		2012~2019	1	comma	none	
+ME	{A}|{Z} {C}		AC	name			81257~81258~81217~84314~85366	1	space	none	
+MF	{A}|{Z} {C} {X}		ACZ	name			97100	0	space	none	
+MG	{A}|{Z} {C}		AC	name	###		501~101	1	space	none	
+MH	{A}|{C} {S} {Z}		ACSZ	name			96960~96970	1	space	none	
+MK	{A}|{Z} {C}		AC	name	####		1314~1321~1443~1062	1	space	none	
+ML	{A}|{C}		AC	name				1	space	none	
+MM	{A}|{C}, {Z}		AC	name	#####		11181	1	space	none	
+MN	{A}|{C}|{S} {Z}		AC	name	#####		65030~65270	1	space	none	
+MO	{A}	{A}	A	name				1	space	none	
+MP	{A}|{C} {S} {Z}		ACSZ	name			96950~96951~96952	1	space	none	
+MQ	{A}|{Z} {C} {X}		ACZ	name			97220	0	space	none	
+MR	{A}|{C}		AC	name				1	space	none	
+MS	{A}|{C}		AC	name				1	space	none	
+MT	{A}|{C} {Z}		AC	name	AAA ##		NXR 01~ZTN 05~GPO 01~BZN 1130~SPB 6031~VCT 1753	0	space	none	
+MU	{A}|{Z}|{C}		AC	name	#####		42602	1	space	none	
+MV	{A}|{C} {Z}		AC	name	#####		20026	1	space	none	
+MW	{A}|{C} {X}		AC	name				1	space	none	
+MX	{A}|{D}|{Z} {C}, {S}		ACSZ	code	#####		02860~77520~06082	1	comma	apt	
+MY	{A}|{D}|{Z} {C}|{S}		ACZ	name	#####		43000~50754~88990~50670	0	space	none	
+MZ	{A}|{Z} {C}{S}		AC	name	####		1102~1119~3212	1	space	none	
+NA	{A}|{C}|{Z}		AC	name	#####		10001~10017	1	space	none	
+NC	{A}|{Z} {C} {X}		ACZ	name			98814~98800~98810	0	space	none	
+NE	{A}|{Z} {C}		AC	name	####		8001	1	space	none	
+NF	{A}|{C} {S} {Z}		AC	name			2899	1	space	none	
+NG	{A}|{D}|{C} {Z}|{S}		AC	name	######		930283~300001~931104	0	space	none	
+NI	{A}|{Z}|{C}, {S}		AC	name	#####		52000	1	comma	none	
+NL	{A}|{Z} {C}		ACZ	name	N### LL	_LL	1234 AB~2490 AA	1	space	apt	
+NO	{A}|{Z} {C}		ACZ	name	####		0025~0107~6631	1	space	none	
+NP	{A}|{C} {Z}		AC	name	#####		44601	0	space	none	
+NR	{A}|{S}		AS	name				1	space	none	
+NU	{A}|{C}		AC	name				1	space	none	
+NZ	{A}|{D}|{C} {Z}		ACDZ	name	####		6001~6015~6332~8252~1030	0	space	flat	
+OM	{A}|{Z}|{C}		AC	name	###		133~112~111	1	space	none	
+PA	{A}|{C}|{S}		AC	name				1	comma	none	
+PE	{A}|{C} {Z}|{S}		AC	name			LIMA 23~LIMA 42~CALLAO 2~02001	1	comma	none	
+PF	{A}|{Z} {C} {S}		ACSZ	name			98709	0	space	none	
+PG	{A}|{C} {Z} {S}		ACS	name	###		111	1	space	none	
+PH	{A}|{D}, {C}|{Z} {S}		AC	name	####		1008~1050~1135~1207~2000~1000	0	space	none	
+PK	{A}|{D}|{C}-{Z}		AC	name	#####		44000	0	space	none	
+PL	{A}|{Z} {C}		ACZ	name	##-###		00-950~05-470~48-300~32-015~00-940	1	space	none	
+PM	{A}|{Z} {C} {X}		ACZ	name			97500	0	space	none	
+PN	{A}|{C}|{Z}		ACZ	name			PCRN 1ZZ	1	space	none	
+PR	{A}|{C} PR {Z}		ACZ	name			00930	1	space	none	
+PS	{A}|{C}		AC	name				1	space	none	
+PT	{A}|{Z} {C}		ACZ	name	####-###		2725-079~1250-096~1201-950~2860-571~1208-148	1	comma	piso	
+PW	{A}|{C} {S} {Z}		ACSZ	name			96940	1	space	none	
+PY	{A}|{Z} {C}		AC	name	######		001001~051103~110407	1	comma	none	
+QA	{A}|{C}		AC	name				1	space	none	
+RE	{A}|{Z} {C} {X}		ACZ	name			97400	0	space	none	
+RO	{A}|{Z} {S} {C}		ACZ	name	######		060274~061357~200716	1	space	none	
+RS	{A}|{Z} {C}		AC	name	######		106314	1	space	none	
+RU	{A}|{C}|{S}|{Z}	{A}|{C}|{S}|{Z}	ACSZ	code	######		247112~103375~188300	1	comma	none	
+RW	{A}|{C}		AC	name				1	space	none	
+SA	{A}|{C} {Z}		AC	name	#####		11564~11187~11142	1	space	none	
+SB	{A}|{C}		AC	name				1	space	none	
+SC	{A}|{C}|{S}		AC	name				1	space	none	
+SD	{A}|{C}|{Z}		AC	name	#####		11042~11113	1	space	none	
+SE	{A}|SE-{Z} {C}		ACZ	name	#####		11455~12345~10500	1	space	none	
+SG	{A}|SINGAPORE {Z}		AZ	name	######		546080~308125~408600	0	space	none	
+SH	{A}|{C}|{Z}		ACZ	name			STHL 1ZZ	1	space	none	
+SI	{A}|SI-{Z} {C}		AC	name	####		4000~1001~2500	1	space	none	
+SJ	{A}|{Z} {C}		ACZ	name	####		9170	1	space	none	
+SK	{A}|{Z} {C}		ACZ	name	### ##		010 01~023 14~972 48~921 01~975 99	1	space	none	
+SL	{A}|{C}		AC	name				1	space	none	
+SM	{A}|{Z} {C}		AZ	name			47890~47891~47895~47899	0	space	none	
+SN	{A}|{Z} {C}		AC	name	#####		12500~46024~16556~10000	1	space	none	
+SO	{A}|{C}, {S} {Z}		ACS	code	AA #####		JH 09010~AD 11010	1	space	none	
+SR	{A}|{C}|{S}		AC	name				1	space	none	
+SS	{A}|{C}		AC	name				1	space	none	
+ST	{A}|{C}		AC	name				1	space	none	
+SV	{A}|{Z}-{C}|{S}		ACS	code			1101	1	comma	none	
+SX	{A}|{C}		AC	name				1	space	none	
+SY	{A}|{C}		AC	name				1	space	none	
+SZ	{A}|{C}|{Z}		AC	name			H100	1	space	none	
+TA	{A}|{C}|{Z}		AC	name			TDCU 1ZZ	1	space	none	
+TC	{A}|{C}|{Z}		ACZ	name			TKCA 1ZZ	1	space	none	
+TD	{A}|{C}		AC	name				1	space	none	
+TF	{A}|{C}		AC	name				1	space	none	
+TG	{A}|{C}		AC	name				1	space	none	
+TH	{A}|{D} {C}|{S} {Z}	{A}|{D}, {C}|{S} {Z}	AC	name	#####		10150~10210	0	space	none	
+TJ	{A}|{Z} {C}		AC	name	######		735450~734025	1	space	none	
+TK	{A}|{C}		AC	name				1	space	none	
+TL	{A}|{C}		AC	name				1	space	none	
+TM	{A}|{Z} {C}		AC	name	######		744000	1	space	none	
+TN	{A}|{Z} {C}		AC	name	####		1002~8129~3100~1030	1	space	none	
+TO	{A}|{C}		AC	name				1	space	none	
+TR	{A}|{Z} {C}/{S}		ACZ	name	#####		01960~06101	1	space	none	
+TT	{A}|{C}|{Z}		AC	name	######		500234	0	space	none	
+TV	{A}|{C}|{S}		AC	name				1	space	none	
+TW	{Z}|{S}{C}|{A}	{A}|{C}, {S} {Z}	ACSZ	name	###		104~106~10603~40867	1	space	none	
+TZ	{A}|{Z} {C}		AC	name	####		6090~34413	0	space	none	
+UA	{A}|{C}|{S}|{Z}	{A}|{C}|{S}|{Z}	ACZ	code	#####		15432~01055~01001	1	comma	none	
+UG	{A}|{C}		AC	name				0	space	none	
+UM	{A}|{C} {S} {Z}		ACS	name			96898	1	space	none	
+US	{A}|{C}, {S} {Z}		ACSZ	code	#####		95014~22162-1010	0	space	apt	
+UY	{A}|{Z} {C} {S}		AC	name	#####		11600	1	comma	none	
+UZ	{A}|{Z} {C}|{S}		AC	name	######		702100~700000	1	space	none	
+VA	{A}|{Z} {C}		AC	name			00120	0	space	none	
+VC	{A}|{C} {Z}		AC	name			VC0100~VC0110~VC0400	1	space	none	
+VE	{A}|{C} {Z}, {S}		ACS	name	####		1010~3001~8011~1020	1	comma	none	
+VG	{A}|{C}|{Z}		A	name			VG1110~VG1150~VG1160	1	space	none	
+VI	{A}|{C} {S} {Z}		ACSZ	name			00802-1222~00850-9802	1	space	none	
+VN	{A}|{C}|{S} {Z}	{A}|{C}|{S} {Z}	AS	name	#####		70010~55999	1	space	none	
+VU	{A}|{C}		AC	name				1	space	none	
+WF	{A}|{Z} {C} {X}		ACZ	name			98600	0	space	none	
+WS	{A}|{C}		AC	name				1	space	none	
+XK	{A}|{Z} {C}		AC	name			10000	1	space	none	
+YE	{A}|{C}		AC	name				1	space	none	
+YT	{A}|{Z} {C} {X}		ACZ	name			97600	0	space	none	
+ZA	{A}|{D}|{C}|{Z}		ACZ	name	####		0083~1451~0001	0	space	none	
+ZM	{A}|{Z} {C}		AC	name	#####		50100~50101	0	space	none	
+ZW	{A}|{C}		AC	name				1	space	none	
