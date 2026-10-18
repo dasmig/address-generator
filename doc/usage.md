@@ -47,7 +47,8 @@ dasmig::adg gen;                       // an empty, independent instance
 bool ok = gen.load(dasmig::dataset::lite); // false when the tier is not found
 gen.load(std::filesystem::path{"path/to/resources/lite"}); // a directory
 gen.has_data();
-gen.count();       // places loaded
+gen.place_count();   // places loaded
+gen.country_count(); // countries with places
 gen.countries();   // ISO codes that have places
 gen.has_streets("PT"); // real streets for the country?
 ```
