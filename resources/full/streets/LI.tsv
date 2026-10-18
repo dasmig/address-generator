@@ -1,0 +1,193 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+LI	3042030	Landstrasse	primary	88	11	117	
+LI	3042030	Fürst-Franz-Josef-Strasse	secondary	72	6	121	
+LI	3042030	Städtle	pedestrian	54	3	44	
+LI	3042030	Austrasse	primary	45	4	73	
+LI	3042030	Schaanerstrasse	residential	43	3	78	
+LI	3042030	Kirchstrasse	residential	42	3	72	
+LI	3042030	Bartlegroschstrasse	residential	39	3	48	
+LI	3042030	Lettstrasse	unclassified	32	2	71	
+LI	3042030	Zollstrasse	secondary	32	2	53	
+LI	3042030	Heiligkreuz	primary	31	2	52	
+LI	3042030	Schalunstrasse		31	2	40	
+LI	3042030	Im Mühleholz		30	3	35	
+LI	3042030	Äulestrasse	primary	30	5	76	
+LI	3042030	Pradafant	residential	29	3	42	
+LI	3042030	Meierhofstrasse	secondary	28	2	70	
+LI	3042030	Egertastrasse	residential	26	4	34	
+LI	3042030	Herrengasse	primary	26	1	35	
+LI	3042030	Altenbach	residential	25	3	32	
+LI	3042030	Schwefelstrasse	residential	25	1	35	
+LI	3042030	Am Exerzierplatz	residential	23	2	34	
+LI	3042030	Am Schrägen Weg	residential	21	3	34	
+LI	3042030	Sankt Markusgasse	residential	21	3	27	
+LI	3042030	Alvierweg		20	1	22	
+LI	3042030	Auring	residential	20	2	63	
+LI	3042033	Heitastrasse		104	16	270	
+LI	3042033	Grosssteg	secondary	85	10	121	
+LI	3042033	Rotenbodenstrasse	residential	77	8	171	
+LI	3042033	Kleinsteg		54	8	93	
+LI	3042033	Kurrstrasse		46	7	153	
+LI	3042033	Lavadinastrasse	residential	46	7	110	
+LI	3042033	Stubistrasse		46	5	92	
+LI	3042033	Bergstrasse	secondary	44	4	137	
+LI	3042033	Landstrasse	secondary	36	4	98	
+LI	3042033	Steinortstrasse	residential	31	3	67	
+LI	3042033	Täscherlochstrasse	residential	31	4	85	
+LI	3042033	Schlossstrasse	secondary	30	1	52	
+LI	3042035	Landstrasse	primary	196	36	379	
+LI	3042035	Dorfstrasse	residential	62	9	81	
+LI	3042035	Meierhofstrasse	secondary	57	6	126	
+LI	3042035	Oberfeld	residential	55	4	94	
+LI	3042035	Feldstrasse	residential	52	6	111	
+LI	3042035	Im Sand	residential	41	5	51	
+LI	3042035	Bächliweg	residential	40	2	51	
+LI	3042035	Unterfeld	residential	37	3	46	
+LI	3042035	Haldenweg	residential	34	5	32	
+LI	3042035	An der Halde	residential	33	4	57	
+LI	3042035	Lawenastrasse	residential	33	7	68	
+LI	3042035	Maschlinastrasse	residential	32	4	88	
+LI	3042035	St. Wolfgangstrasse		32	4	64	
+LI	3042035	Runkelsstrasse	residential	28	5	43	
+LI	3042035	Saxweg	residential	27	3	38	
+LI	3042035	Industriestrasse	unclassified	25	1	51	
+LI	3042035	Langgasse	unclassified	25	2	51	
+LI	3042035	Haldenstrasse	residential	24	4	37	
+LI	3042035	Im Riet	residential	24	11	61	
+LI	3042035	Matschils	residential	23	2	21	
+LI	3042035	Obere Au	residential	23	7	45	
+LI	3042035	Grosser Bongert	residential	22	5	29	
+LI	3042035	Alte Landstrasse	residential	21	3	32	
+LI	3042035	Sägastrasse	residential	21	2	31	
+LI	3042037	St. Georg-Strasse		43	9	98	
+LI	3042037	Platta	residential	39	2	72	
+LI	3042037	Dorf	tertiary	29	5	71	
+LI	3042037	Klenn	residential	20	4	62	
+LI	3042037	Eschner Rütte		18	1	44	
+LI	3042037	Rankhag		17	5	48	
+LI	3042037	Stotz	tertiary	16	11	47	
+LI	3042037	Widum		15	2	31	
+LI	3042037	Holzgatter	residential	14	1	23	
+LI	3042037	Tüfenacker	residential	12	22	50	
+LI	3042037	Feld	residential	11	3	28	
+LI	3042037	Tannwald		11	1	20	
+LI	3042041	Landstrasse	primary	121	6	161	
+LI	3042041	Im Malarsch	residential	56	6	83	
+LI	3042041	Reberastrasse	residential	55	4	61	
+LI	3042041	Im Pardiel	residential	54	7	71	
+LI	3042041	Bahnstrasse	residential	53	7	69	
+LI	3042041	Feldkircher Strasse	primary	51	7	100	
+LI	3042041	Zollstrasse	primary	49	7	82	
+LI	3042041	Gapetschstrasse	residential	41	10	98	
+LI	3042041	Eschner Strasse	residential	40	3	63	
+LI	3042041	Obergass	residential	40	2	59	
+LI	3042041	Bildgass	residential	38	7	68	
+LI	3042041	Wiesengass	residential	38	2	67	
+LI	3042041	Duxgass	residential	37	2	66	
+LI	3042041	Fürst-Johannes-Strasse	residential	37	6	73	
+LI	3042041	Im Zagalzel	residential	35	2	76	
+LI	3042041	Im alten Riet	residential	35	9	156	
+LI	3042041	Im Rossfeld	residential	30	3	46	
+LI	3042041	In der Egerta	residential	30	4	42	
+LI	3042041	Im Fetzer	residential	29	9	54	
+LI	3042041	In der Fina	residential	28	8	33	
+LI	3042041	Im Besch	residential	27	3	32	
+LI	3042041	Im Duxer	residential	27	2	41	
+LI	3042041	Winkelgass	residential	26	6	39	
+LI	3042041	Im Gapetsch	residential	25	5	45	
+LI	3042046	Landstrasse	secondary	68	16	118	
+LI	3042046	Spiegelstrasse	residential	44	8	102	
+LI	3042046	Rotengasse	residential	35	5	73	
+LI	3042046	Langacker	residential	33	9	79	
+LI	3042046	Mühlegarten	residential	32	4	47	
+LI	3042046	Giessenstrasse	residential	30	2	66	
+LI	3042046	Lettenstrasse	residential	30	9	65	
+LI	3042046	Industriering	residential	26	3	41	
+LI	3042046	Schellenbergstrasse	tertiary	26	13	105	
+LI	3042046	Dorfstrasse	secondary	25	6	64	
+LI	3042046	Fuhraweg	residential	21	6	42	
+LI	3042046	Kirchstrasse	unclassified	21	3	51	
+LI	3042049	Dorfstrasse	tertiary	51	15	144	
+LI	3042049	In der Blacha	residential	21	19	64	
+LI	3042049	Auf der Egerta	residential	19	5	42	
+LI	3042049	Im Bühl	residential	19	1	69	
+LI	3042049	Unterm Rain	residential	18	2	50	
+LI	3042049	Birkenweg	residential	13	4	53	
+LI	3042049	Kasernastrasse	residential	9	1	32	
+LI	3042049	Ober Ställ		9	9	53	
+LI	3042049	Im Häldele	residential	8	3	47	
+LI	3042049	Am Nendlerweg	residential	7	2	32	
+LI	3042049	In den Äusseren	residential	6	2	15	
+LI	3042049	Gafadurastrasse		5	16	34	
+LI	3042052	Churer Strasse	primary	47	5	103	
+LI	3042052	Wiesenstrasse	residential	34	12	87	
+LI	3042052	Schulstrasse	residential	30	4	68	
+LI	3042052	Oberstädtle	residential	27	3	64	
+LI	3042052	Sebastianstrasse	residential	20	9	54	
+LI	3042052	Castellstrasse	residential	18	1	37	
+LI	3042052	Römerstrasse	residential	18	1	36	
+LI	3042052	Rätierstrasse	residential	17	1	28	
+LI	3042052	Ziegeleistrasse	residential	15	2	41	
+LI	3042052	Keltenstrasse	residential	14	1	25	
+LI	3042052	Kohlbrunnen	residential	14	3	26	
+LI	3042052	Alemannenstrasse	residential	12	5	28	
+LI	3042055	Vorarlberger-Strasse	primary	80	9	230	
+LI	3042055	Weiherring	secondary	66	7	133	
+LI	3042055	Auf Berg	residential	58	9	135	
+LI	3042055	Hinterbühlen	residential	47	9	79	
+LI	3042055	Peter- und Paul-Strasse	tertiary	37	3	83	
+LI	3042055	Binzastrasse	tertiary	35	12	89	
+LI	3042055	Peter-Kaiser-Strasse	secondary	33	5	84	
+LI	3042055	Guler	residential	32	7	58	
+LI	3042055	Bannriet	residential	30	3	60	
+LI	3042055	Morgengab	residential	30	5	44	
+LI	3042055	Rennhofstrasse	residential	30	3	63	
+LI	3042055	Britschenstrasse	unclassified	29	3	55	
+LI	3042062	Jedergass	residential	49	10	128	
+LI	3042062	Oberbühl	tertiary	40	5	90	
+LI	3042062	Badäl	residential	37	10	135	
+LI	3042062	Bühl	tertiary	31	4	89	
+LI	3042062	Mühlegass	residential	28	11	80	
+LI	3042062	Stelzagass	residential	19	6	78	
+LI	3042062	Krest	residential	13	2	42	
+LI	3042062	Fehragass	residential	10	13	36	
+LI	3042062	Grüt	residential	10	9	33	
+LI	3042062	Ruggeller Strasse	secondary	10	60	232	
+LI	3042062	Hellbock		9	12	85	
+LI	3042062	Haldenstrasse	tertiary	8	59	93	
+LI	3042068	Essanestrasse	primary	74	16	179	
+LI	3042068	Fluxstrasse	residential	34	7	83	
+LI	3042068	Rofenbergstrasse	residential	29	4	60	
+LI	3042068	Haldengasse	residential	28	6	68	
+LI	3042068	Silligatter	residential	28	5	51	
+LI	3042068	Schönbühl	residential	27	5	65	
+LI	3042068	St. Martins-Ring	residential	24	2	73	
+LI	3042068	Hinterdorf	unclassified	22	2	38	
+LI	3042068	Wirtschaftspark	unclassified	22	10	74	
+LI	3042068	Tonagass	residential	21	2	45	
+LI	3042068	Hub	residential	20	3	45	
+LI	3042068	Eichenstrasse	residential	19	10	63	
+LI	3042072	Eschner Strasse	primary	28	9	93	
+LI	3042072	Widagass	residential	23	5	53	
+LI	3042072	Fallsbretscha	residential	16	3	48	
+LI	3042072	Oberbendern	residential	16	1	80	
+LI	3042072	Industriestrasse		13	2	40	
+LI	3042072	Ruggeller Strasse	secondary	11	16	52	
+LI	3042072	Aeule	residential	9	1	36	
+LI	3042072	Plattagass	residential	9	2	22	
+LI	3042072	Steinbruch	residential	9	5	29	
+LI	3042072	Im Schwibboga	secondary	8	3	11	
+LI	3042072	Ober Au	residential	8	4	44	
+LI	3042072	Haldenstrasse	tertiary	7	5	57	
+LI	3042073	Palduinstrasse	residential	87	5	104	
+LI	3042073	Unterm Schloss	residential	58	3	89	
+LI	3042073	Alte Churerstrasse	residential	46	4	70	
+LI	3042073	Rheinstrasse	unclassified	46	4	54	
+LI	3042073	Lowal	residential	42	8	54	
+LI	3042073	Ramschwagweg	residential	41	4	79	
+LI	3042073	Finne	residential	40	2	69	
+LI	3042073	Iradug	residential	39	2	67	
+LI	3042073	Gärten	residential	35	5	101	
+LI	3042073	Egerta	secondary	34	11	56	
+LI	3042073	Heiligwies	residential	33	2	57	
+LI	3042073	Gnetsch	residential	30	2	71	

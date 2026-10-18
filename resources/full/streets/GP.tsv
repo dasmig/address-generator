@@ -1,0 +1,833 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+GP	3578278	Rue Babiany Emmanuel	unclassified	83	42	1374	
+GP	3578278	Route de Monchy	residential	53	122	964	
+GP	3578278	Chemin Descoudes	unclassified	44	51	1636	
+GP	3578278	Rue Absalon	residential	39	28	483	
+GP	3578278	Chemin de l'Échine	residential	35	97	509	
+GP	3578278	Route de Coreille	primary	33	244	695	
+GP	3578278	Rue de Campeche	residential	24	28	269	
+GP	3578278	Rue Calore Sergy	residential	21	47	301	
+GP	3578278	Rue Vincent Honoré	residential	19	29	385	
+GP	3578278	Chemin de Douenel	residential	16	29	461	
+GP	3578278	Rue Coezy	residential	16	29	226	
+GP	3578278	Chemin de Matone	unclassified	15	244	444	
+GP	3578278	Impasse Feuillard	residential	15	36	243	
+GP	3578278	Chemin du Bord de Mer	unclassified	14	132	432	
+GP	3578278	Chemin Fond Cacao	residential	13	13	215	
+GP	3578278	Rue Gaëtan Roch	residential	13	49	626	
+GP	3578278	Boulevard du Front de Mer	primary	12	9	264	
+GP	3578278	Rue Delgrès	residential	12	10	185	
+GP	3578278	Chemin de l'Enclos	unclassified	11	107	301	
+GP	3578278	Impasse Cannelle	residential	11	32	94	
+GP	3578278	Rue des Artisans	residential	11	85	180	
+GP	3578278	Chemin de Fifi	unclassified	10	69	437	
+GP	3578278	Rue Ficard	residential	10	68	210	
+GP	3578278	Rue Honoré Farnaise	residential	10	63	172	
+GP	3578324	Rue de Beauséjour	secondary	7	478	632	
+GP	3578324	Rue Gerville Reache	secondary	5	3	14	
+GP	3578324	Chemin de Petit Carbet	tertiary	4	1	19	
+GP	3578324	Rue du Capitaine Bebel	tertiary	4	42	73	
+GP	3578324	Rue de Blondeau	secondary	3	86	456	
+GP	3578324	Route de Louisville	secondary	2	57	77	
+GP	3578324	Rue du Phare	tertiary	2	1	3	
+GP	3578324	Allée Maracudja	residential	1	0	0	
+GP	3578324	Allée Nétry	residential	1	0	0	
+GP	3578324	Allée Pyrame	residential	1	0	0	
+GP	3578324	Allée de Man Delbou	residential	1	0	0	
+GP	3578324	Allée de Mont Loué	residential	1	0	0	
+GP	3578324	Allée des Acacias	residential	1	0	0	
+GP	3578324	Allée des Alpinias	residential	1	0	0	
+GP	3578324	Allée des Avocatiers	residential	1	0	0	
+GP	3578324	Allée des Azalées	residential	1	0	0	
+GP	3578324	Allée des Bananiers	residential	1	0	0	
+GP	3578324	Allée des Châtaigniers	residential	1	0	0	
+GP	3578324	Allée des Colibris	residential	1	0	0	
+GP	3578324	Allée des Courbarils	residential	1	0	0	
+GP	3578324	Allée des Espadons	pedestrian	1	0	0	
+GP	3578324	Allée des Fougères	residential	1	0	0	
+GP	3578324	Allée des Frégates	residential	1	0	0	
+GP	3578324	Allée des Gerberas	residential	1	0	0	
+GP	3578351	Rue Benoît Cassin	tertiary	122	4	117	
+GP	3578351	Rue Jean Calot	tertiary	67	4	72	
+GP	3578351	Rue de Marigot	tertiary	65	18	625	
+GP	3578351	Route de l'Anse Rodrigue	unclassified	56	58	997	
+GP	3578351	Rue de la Savane	tertiary	52	113	513	
+GP	3578351	Rue Emmanuel Laurent	tertiary	49	3	37	
+GP	3578351	Rue de la Grand'Anse	unclassified	47	36	408	
+GP	3578351	Route du Bois Joli	unclassified	41	39	1100	
+GP	3578351	Rue du Gouverneur Houël	tertiary	32	2	39	
+GP	3578351	Rue Théodore Samson	residential	31	2	34	
+GP	3578351	Rue de la Saline	residential	29	20	503	
+GP	3578351	Route de l'Anse Figuier	residential	21	51	431	
+GP	3578441	Rue de la République	primary	2	21	30	
+GP	3578441	Rue du Général de Gaulle	secondary	2	1	40	
+GP	3578441	Allée Boissard	residential	1	0	0	
+GP	3578441	Allée Dubérron	residential	1	0	0	
+GP	3578441	Allée Grand Ilet	residential	1	0	0	
+GP	3578441	Allée de la Tête à l'Anglais	residential	1	0	0	
+GP	3578441	Avenue Martin Luther King	secondary	1	0	0	
+GP	3578441	Avenue Yolaine Filleau Belloni	residential	1	0	0	
+GP	3578441	Avenue de l'Europe	unclassified	1	0	0	
+GP	3578441	Boulevard des Ilets	residential	1	0	0	
+GP	3578441	Chemin Militaire	residential	1	0	0	
+GP	3578441	Chemin Vézoux	unclassified	1	0	0	
+GP	3578441	Chemin de Bebet	unclassified	1	0	0	
+GP	3578441	Chemin de Belle Allée	unclassified	1	0	0	
+GP	3578441	Chemin de Bouquet	unclassified	1	0	0	
+GP	3578441	Chemin de Bragelogne	unclassified	1	0	0	
+GP	3578441	Chemin de Cayenne	tertiary	1	0	0	
+GP	3578441	Chemin de Cayenne Nord	residential	1	0	0	
+GP	3578441	Chemin de Font Caraibe	unclassified	1	0	0	
+GP	3578441	Chemin de Kerdoret	unclassified	1	0	0	
+GP	3578441	Chemin de May	residential	1	0	0	
+GP	3578441	Chemin de Pombiray	tertiary	1	0	0	
+GP	3578441	Chemin de Sèze	unclassified	1	0	0	
+GP	3578441	Chemin de Trezel	residential	1	0	0	
+GP	3578447	Allée du Coeur	secondary	72	2430	3651	
+GP	3578447	Chemin Pineau Richard	unclassified	59	479	1493	
+GP	3578447	Allée Capado	residential	36	356	928	
+GP	3578447	Chemin Kassouan		15	14	188	
+GP	3578447	Allée des Cocotiers		13	55	508	
+GP	3578447	Route du Relais	unclassified	10	35	452	
+GP	3578447	Impasse Pomme Rose	residential	8	12	107	
+GP	3578447	Impasse Ti Véwonik		8	48	238	
+GP	3578447	Allée la Perle Bas-Vent	primary	7	586	2570	
+GP	3578447	Impasse Bois-Carré	residential	7	18	118	
+GP	3578447	Impasse Léonard		7	14	112	
+GP	3578447	Route du Boeing	residential	7	763	960	
+GP	3578447	Impasse Woukou		6	25	116	
+GP	3578447	Impasse Arséne Afoy	residential	5	26	128	
+GP	3578447	Impasse des Campèches		5	22	146	
+GP	3578447	Impasse Monstera		4	20	358	
+GP	3578447	Impasse Zikak		3	18	226	
+GP	3578447	Impasse des Palmiers		3	23	88	
+GP	3578447	Allée des Avocatiers	residential	1	0	0	
+GP	3578447	Avenue Sainte-Rose de Lima	primary	1	0	0	
+GP	3578447	Boulevard Saint-Charles	unclassified	1	0	0	
+GP	3578447	Chemain de Danglemont	unclassified	1	0	0	
+GP	3578447	Chemin Second	unclassified	1	0	0	
+GP	3578447	Chemin café	unclassified	1	0	0	
+GP	3578447	Chemin de Caféière	unclassified	1	0	0	
+GP	3578447	Chemin de Daubin	unclassified	1	0	0	
+GP	3578447	Chemin de Grignan	unclassified	1	0	0	
+GP	3578447	Chemin de Jobety	unclassified	1	0	0	
+GP	3578447	Chemin de Lachaise	unclassified	1	0	0	
+GP	3578447	Chemin de Lollane	residential	1	0	0	
+GP	3578447	Chemin de Massy	unclassified	1	0	0	
+GP	3578447	Chemin de Ravine Bleue	unclassified	1	0	0	
+GP	3578447	Chemin de Vinty	unclassified	1	0	0	
+GP	3578447	Chemin de la Rayette	unclassified	1	0	0	
+GP	3578447	Chemin de la Rivière	unclassified	1	0	0	
+GP	3578447	Chemin des Anglais	residential	1	0	0	
+GP	3578447	Chemin du Comte de Loheac	unclassified	1	0	0	
+GP	3578447	Grande Rue	unclassified	1	0	0	
+GP	3578447	Grande Rue Prolongée	unclassified	1	0	0	
+GP	3578447	Le Boyer	unclassified	1	0	0	
+GP	3578447	Lot. de Leotard	residential	1	0	0	
+GP	3578447	Route Forestière de la Muraille	unclassified	1	0	0	
+GP	3578447	Route de Cadet	unclassified	1	0	0	
+GP	3578447	Route de Duzer Desbonnes Caféière	secondary	1	0	0	
+GP	3578447	Route de Morne Rouge	tertiary	1	0	0	
+GP	3578447	Route de Sofaïa	tertiary	1	0	0	
+GP	3578447	Route de la Rocade	primary	1	0	0	
+GP	3578447	Rue Antares	residential	1	0	0	
+GP	3578466	Rue Lethière	tertiary	26	13	256	
+GP	3578466	Rue du Docteur Antonio Ferly	residential	10	1	11	
+GP	3578466	Boulevard Hégésippe Ibéné	primary	6	5	30	
+GP	3578466	Rue de la Plage	residential	6	2	33	
+GP	3578466	Rue des Poinsettia		4	3	9	
+GP	3578466	Impasse Roland Césaire	residential	2	4	8	
+GP	3578466	Rue Abbé Grégoire	residential	2	35	41	
+GP	3578466	Rue Dandin	residential	2	84	86	
+GP	3578466	Rue Relais du Moulin	unclassified	2	171	706	
+GP	3578466	Allée Bwaden Achourou	residential	1	0	0	
+GP	3578466	Allée Chalcou	residential	1	0	0	
+GP	3578466	Allée Gilbert Corbin	residential	1	0	0	
+GP	3578466	Allée de l'Argenté	residential	1	0	0	
+GP	3578466	Allée des Bégonias	residential	1	0	0	
+GP	3578466	Allée des Fleurs	residential	1	0	0	
+GP	3578466	Allée des Lilas	residential	1	0	0	
+GP	3578466	Allée des Oeillets	residential	1	0	0	
+GP	3578466	Avenue du Général de Gaulle	residential	1	0	0	
+GP	3578466	Chemin Arbre de Vie	residential	1	0	0	
+GP	3578466	Chemin Baguilaty Rammou	unclassified	1	0	0	
+GP	3578466	Chemin Bois Lait	unclassified	1	0	0	
+GP	3578466	Chemin Congo	unclassified	1	0	0	
+GP	3578466	Chemin Côte du Levant	pedestrian	1	0	0	
+GP	3578466	Chemin Declaré	residential	1	0	0	
+GP	3578466	Chemin Ferlande Blémand	residential	1	0	0	
+GP	3578466	Chemin Frédéric	unclassified	1	0	0	
+GP	3578466	Chemin Gaspard	residential	1	0	0	
+GP	3578466	Chemin Gousse de Vanille	unclassified	1	0	0	
+GP	3578466	Chemin Louison	residential	1	0	0	
+GP	3578466	Chemin Ma Granmézon	residential	1	0	0	
+GP	3578466	Chemin Manchau	residential	1	0	0	
+GP	3578466	Chemin Marie-Joseph	residential	1	0	0	
+GP	3578466	Chemin Mathieu Antonius	residential	1	0	0	
+GP	3578466	Chemin Maxime Lebon	residential	1	0	0	
+GP	3578466	Chemin Prune Cythère	residential	1	0	0	
+GP	3578466	Chemin Roger Komla-Soukha	residential	1	0	0	
+GP	3578466	Chemin Rok	residential	1	0	0	
+GP	3578466	Chemin Réne Latchan	residential	1	0	0	
+GP	3578466	Chemin Sarkis	residential	1	0	0	
+GP	3578466	Chemin Sernette	residential	1	0	0	
+GP	3578466	Chemin Ti Feuille à Bwa	residential	1	0	0	
+GP	3578466	Chemin Télamont	residential	1	0	0	
+GP	3578466	Chemin Ulysse	residential	1	0	0	
+GP	3578466	Chemin Virolan	residential	1	0	0	
+GP	3578466	Chemin de Berlette	residential	1	0	0	
+GP	3578466	Chemin de Bombois	unclassified	1	0	0	
+GP	3578466	Chemin de Bon Bois	residential	1	0	0	
+GP	3578466	Chemin de Bwasu	residential	1	0	0	
+GP	3578467	Rue des Aulizias	residential	5	1	5	
+GP	3578467	Rue des Cattleyas	residential	3	6	8	
+GP	3578467	Route de Belfond	residential	2	74	75	
+GP	3578467	Allée Adolphe Casalan	unclassified	1	0	0	
+GP	3578467	Allée Danielle Ssosse	residential	1	0	0	
+GP	3578467	Allée Henri Chaffort	residential	1	0	0	
+GP	3578467	Allée Louis Pravaz	unclassified	1	0	0	
+GP	3578467	Allée Yvan Étienne	residential	1	0	0	
+GP	3578467	Allée des Acajous	residential	1	0	0	
+GP	3578467	Allée des Amandiers	residential	1	0	0	
+GP	3578467	Allée des Azalées	residential	1	0	0	
+GP	3578467	Allée des Cocotiers	residential	1	0	0	
+GP	3578467	Allée des Cyprès	residential	1	0	0	
+GP	3578467	Allée des Giroflées	residential	1	0	0	
+GP	3578467	Allée des Letchis	residential	1	0	0	
+GP	3578467	Allée des Magnolias	residential	1	0	0	
+GP	3578467	Allée des Mahoganys	residential	1	0	0	
+GP	3578467	Allée des Philodendrons	residential	1	0	0	
+GP	3578467	Allée des Plumbagos	residential	1	0	0	
+GP	3578467	Allée des Rhododendrons	residential	1	0	0	
+GP	3578467	Allée des Sandragons	residential	1	0	0	
+GP	3578467	Allée des Vanilles	residential	1	0	0	
+GP	3578467	Allée du Parc Floral	residential	1	0	0	
+GP	3578467	Allées des Samanas	unclassified	1	0	0	
+GP	3578575	Boulevard Achille René Boisneuf	tertiary	2	25	84	
+GP	3578575	Rue Gambetta	secondary	2	57	59	
+GP	3578575	Rue Schoelcher	secondary	2	5	52	
+GP	3578575	Allée Justin Catayee	residential	1	0	0	
+GP	3578575	Boulevard Gabriel Gordien	residential	1	0	0	
+GP	3578575	Boulevard Jacques Edwige	residential	1	0	0	
+GP	3578575	Boulevard Jean Rosier	residential	1	0	0	
+GP	3578575	Chemin Brument	unclassified	1	0	0	
+GP	3578575	Chemin Sylvain	unclassified	1	0	0	
+GP	3578575	Chemin de Vaugirard	residential	1	0	0	
+GP	3578575	Chemin des Palétuviers	residential	1	0	0	
+GP	3578575	Chemin du Morne Pouzzole	residential	1	0	0	
+GP	3578575	Cour Alex Haley	residential	1	0	0	
+GP	3578575	Cour Cécile Fatiman	residential	1	0	0	
+GP	3578575	Cour Eugène Mona	residential	1	0	0	
+GP	3578575	Cour Pablo Picasso	residential	1	0	0	
+GP	3578575	Cour Parfélia Nice	residential	1	0	0	
+GP	3578575	Cour Patrice Lumumba	residential	1	0	0	
+GP	3578575	Cour Vanier Siber	residential	1	0	0	
+GP	3578575	Cour de Butel	residential	1	0	0	
+GP	3578575	Cour de Manmé	residential	1	0	0	
+GP	3578575	Cour de la Mare	residential	1	0	0	
+GP	3578575	Cour des Fromagers	residential	1	0	0	
+GP	3578575	Cour des Tourterelles	residential	1	0	0	
+GP	3578594	Rue des Galets	primary	114	238	1247	
+GP	3578594	Chemin de Bornave	unclassified	64	115	2814	
+GP	3578594	Chemin des Contrebandiers	unclassified	34	42	932	
+GP	3578594	Allée de Leroux	primary	29	268	841	
+GP	3578594	Route de Fond Baille Argent	primary	25	56	718	
+GP	3578594	Ruelle Alamanda	residential	25	34	366	
+GP	3578594	Rue de la Batterie	residential	23	26	841	
+GP	3578594	Route de Bellon	primary	20	6	2663	
+GP	3578594	Impasse Bougainvilliers	residential	19	2	327	
+GP	3578594	Impasse des Hibiscus	residential	18	24	208	
+GP	3578594	Chemin des Grosses Roches	residential	16	5	352	
+GP	3578594	Impasse des Bungalows	residential	14	22	225	
+GP	3578594	Rue du Canal	residential	14	28	136	
+GP	3578594	Impasse Joseph Gamiette	residential	11	26	811	
+GP	3578594	Impasse Paul Diviale	residential	11	36	137	
+GP	3578594	Impasse des Cocotiers	residential	10	12	109	
+GP	3578594	Impasse Passiflore	residential	9	18	168	
+GP	3578594	Impasse de la Victoire	residential	8	78	170	
+GP	3578594	Ruelle de l'Anse	residential	8	12	124	
+GP	3578594	Impasse Ixora	residential	7	25	114	
+GP	3578594	Impasse Raie d'Eau	residential	7	95	150	
+GP	3578594	Impasse du Mappou	residential	7	32	246	
+GP	3578594	Impasse Blain		6	50	173	
+GP	3578594	Ruelle de l’Harmonie	residential	6	12	21	
+GP	3578599	Boulevard Patrick Saint-Éloi	primary	101	7	118	
+GP	3578599	Route de Besson	secondary	86	25	730	
+GP	3578599	Rue Thimoté Gendrey	unclassified	84	49	1312	
+GP	3578599	Rue de la Voie Ferrée	residential	72	140	766	
+GP	3578599	Rue du Morne Torudu	unclassified	66	50	881	
+GP	3578599	Clos de Bougainville		65	4	79	
+GP	3578599	Route de Daran	residential	63	78	660	
+GP	3578599	Rue de l'Institut Pasteur	residential	63	54	538	
+GP	3578599	Rue Achille Monbruno	unclassified	55	3	53	
+GP	3578599	Rue Nonome Popotte	residential	52	3	52	
+GP	3578599	Route du Fond Bernus	unclassified	49	42	485	
+GP	3578599	Rue Roby Petreluzzi	unclassified	49	3	50	
+GP	3578599	Impasse Louis	residential	47	45	410	
+GP	3578599	Route Jean Ignace	tertiary	46	1068	1491	
+GP	3578599	Route du Morne Udol	unclassified	46	164	567	
+GP	3578599	Rue Louisy Mathieu	residential	40	33	416	
+GP	3578599	Rue du Sacré Coeur	residential	37	2	38	
+GP	3578599	Rue Clara Bourgarel	residential	34	2	35	
+GP	3578599	Rue Abel Libany	residential	33	2	32	
+GP	3578599	Rue Raphael Joliviere	residential	33	19	289	
+GP	3578599	Rue de la Clinique	residential	33	2	32	
+GP	3578599	Rue du Fond Laugier	residential	33	25	66	
+GP	3578599	Rue Charneau Vieux Bourg	unclassified	32	8	321	
+GP	3578599	Impasse Beltou	residential	29	7	219	
+GP	3578599	Lotissement les Myosotis		29	2	28	
+GP	3578599	Impasse Leon Petit		28	3	229	
+GP	3578599	Impasse Hérisson Accipe	residential	27	45	522	
+GP	3578599	Rue de la Mutualité	residential	26	2	37	
+GP	3578599	Rue Anthonin Thomyris	residential	25	2	24	
+GP	3578599	Rue Pinel Dumanoir	residential	25	55	300	
+GP	3578599	Impasse Manette Laurentie	residential	24	52	216	
+GP	3578599	Impasse René Noël	residential	24	21	140	
+GP	3578599	Impasse Maxime	residential	23	48	186	
+GP	3578599	Impasse Cinaua	residential	22	29	156	
+GP	3578599	Impasse Dou Maurin	residential	22	66	247	
+GP	3578599	Rue Frantz Flagie	unclassified	22	22	239	
+GP	3578599	Avenue du Pôle Administratif	unclassified	21	2	20	
+GP	3578599	Impasse Godard	residential	20	7	149	
+GP	3578599	Impasse Rotin	residential	20	14	106	
+GP	3578599	Rue Jean-Baptiste Hilaire		20	1	30	
+GP	3578599	Rue de Lacroix		20	1	31	
+GP	3578599	Impasse de Tonnelle Blanche	residential	19	21	570	
+GP	3578599	Rue Michel Chouan	residential	19	1	36	
+GP	3578599	Rue Paul Lacavé	residential	19	21	44	
+GP	3578599	Rue de Boissard	unclassified	19	3	505	
+GP	3578599	Rue de l'O.R.T.F		19	1	32	
+GP	3578599	Ruelle Christophe Claude	residential	19	7	37	
+GP	3578599	Impasse Claire		18	10	65	
+GP	3578681	Route Cheikh Anta Diop	primary	97	865	2043	
+GP	3578681	Rue des Ixoras	residential	46	27	529	
+GP	3578681	Route de Pichon	tertiary	30	67	722	
+GP	3578681	Rue des Balisiers	residential	29	18	198	
+GP	3578681	Rue des Alpinias	residential	28	11	231	
+GP	3578681	Rue Hégésippe Légitimus	secondary	25	4554	4946	
+GP	3578681	Rue Euscher Nice	residential	24	68	425	
+GP	3578681	Rue Rigoberta Menchu	residential	20	15	227	
+GP	3578681	Rue du 21 Juillet 1980	residential	19	4	229	
+GP	3578681	Rue Mai 1968	residential	18	43	274	
+GP	3578681	Lotissement Sous les Palme des Ainés	residential	16	1	18	
+GP	3578681	Rue Morange Nice	residential	15	10	229	
+GP	3578681	Rue Angela Davis	residential	14	14	315	
+GP	3578681	Rue Ambroisine Nitusgau	residential	12	17	284	
+GP	3578681	Rue Anelor Arthur	residential	12	9	262	
+GP	3578681	Rue Ella Fitzgerald	unclassified	11	30	596	
+GP	3578681	Rue Alfred Arthein	residential	10	25	475	
+GP	3578681	Rue des Alamandas	residential	5	13	98	
+GP	3578681	Rue des Bougainvilliers	residential	5	13	78	
+GP	3578681	Rue du Cimetière	residential	3	1	4	
+GP	3578681	Route de la Houssaie	primary	2	13	59	
+GP	3578681	Rue des Rosiers	residential	2	18	52	
+GP	3578681	Rue des Sonnettes	residential	2	11	29	
+GP	3578681	Allée Chefdrue	residential	1	0	0	
+GP	3578682	Chemin de Pierrette	unclassified	96	2883	3857	
+GP	3578682	Chemin de Roussel	unclassified	82	1000	2193	
+GP	3578682	Chemin de Cocoyer	unclassified	70	132	851	
+GP	3578682	Route de la Lézarde	secondary	49	5470	6526	
+GP	3578682	Chemin Bas Canal	residential	39	756	1557	
+GP	3578682	Chemin de Montauban	residential	36	31	483	
+GP	3578682	Ruelle de Montauban	residential	34	31	303	
+GP	3578682	Ruelle de Roussel	residential	24	180	399	
+GP	3578682	Chemin de Chouchou	unclassified	23	4136	4418	
+GP	3578682	Allée des Lavandes	residential	14	3	24	
+GP	3578682	Chemin de Morne Bourg	unclassified	13	1049	1772	
+GP	3578682	Chemin de Bois Sergent	unclassified	11	260	599	
+GP	3578682	Impasse Gélabale Laventure	residential	11	18	480	
+GP	3578682	Chemin de Tabanon	tertiary	7	25	2729	
+GP	3578682	Impasse des Acajous		6	1	8	
+GP	3578682	Impasse des Lucioles		5	1	5	
+GP	3578682	Rue Félix Éboué	primary	5	2	34	
+GP	3578682	Rue Victor Schoelcher	primary	5	22	109	
+GP	3578682	Chemin de Duquerry	unclassified	2	2153	2506	
+GP	3578682	Chemin de Montebello	unclassified	2	50	2563	
+GP	3578682	Chemin des Gommiers	secondary	2	32	34	
+GP	3578682	Chemin des Trompettes	residential	2	96	96	
+GP	3578682	Lotissement La Plaine de la Grippière	residential	2	12	12	
+GP	3578682	Rue Hégésippe Légitimus	unclassified	2	10	12	
+GP	3578682	Allée Bell	residential	1	0	0	
+GP	3578682	Allée Fellicianne	residential	1	0	0	
+GP	3578682	Allée François Duverly	residential	1	0	0	
+GP	3578682	Allée Ignace	residential	1	0	0	
+GP	3578682	Allée Printania	residential	1	0	0	
+GP	3578682	Allée Saint-Ange	residential	1	0	0	
+GP	3578682	Allée Verte	residential	1	0	0	
+GP	3578682	Allée de Fond Barbotteau	residential	1	0	0	
+GP	3578682	Allée de l'Espérance	residential	1	0	0	
+GP	3578682	Allée de la Bananeraie	unclassified	1	0	0	
+GP	3578682	Allée des Acacias	residential	1	0	0	
+GP	3578682	Allée des Balisiers	residential	1	0	0	
+GP	3578682	Allée des Barbadines	residential	1	0	0	
+GP	3578682	Allée des Bois d'Inde	residential	1	0	0	
+GP	3578682	Allée des Bougainvilliers	residential	1	0	0	
+GP	3578682	Allée des Chadecs	residential	1	0	0	
+GP	3578682	Allée des Citronnelles	residential	1	0	0	
+GP	3578682	Allée des Cocotiers	residential	1	0	0	
+GP	3578682	Allée des Crabiers	residential	1	0	0	
+GP	3578682	Allée des Epinards	residential	1	0	0	
+GP	3578682	Allée des Eucalyptus	residential	1	0	0	
+GP	3578682	Allée des Fougères	residential	1	0	0	
+GP	3578682	Allée des Gaïacs	residential	1	0	0	
+GP	3578682	Allée des Goyaviers	residential	1	0	0	
+GP	3578959	Route de Chazeau	secondary	140	68	924	
+GP	3578959	Rue Fortuné Constant	unclassified	119	93	1234	
+GP	3578959	Chemin de Pavé	residential	106	54	2195	
+GP	3578959	Rue de la Balance	unclassified	106	84	2344	
+GP	3578959	Rue Amédée Abarre	secondary	105	81	1462	
+GP	3578959	Route de René Falla	residential	90	21	855	
+GP	3578959	Rue de Pages	tertiary	83	37	1398	
+GP	3578959	Rue Hector Rouil	unclassified	76	108	939	
+GP	3578959	Rue Emmanuel Naigre	unclassified	75	24	513	
+GP	3578959	Rue Constantin Marie	tertiary	74	54	1044	
+GP	3578959	Rue Sainte-Anne	residential	74	4	84	
+GP	3578959	Rue Saint-Pierre Boussardo	residential	72	51	728	
+GP	3578959	Rue Achille René Boisneuf	primary	70	192	792	
+GP	3578959	Route Jacob Boucard	residential	68	110	841	
+GP	3578959	Route de Cocoyer Doubs	residential	68	167	1308	
+GP	3578959	Rue Tiburce Claudeon	residential	63	82	1456	
+GP	3578959	Route de Blanchard	unclassified	62	76	1173	
+GP	3578959	Rue Melvil Bloncourt	residential	60	25	354	
+GP	3578959	Rue des Roses	residential	60	3	60	
+GP	3578959	Rue Gervais Anasthase	residential	59	42	748	
+GP	3578959	Rue Rosan Fanhan	residential	58	28	1179	
+GP	3578959	Rue des Hibiscus	residential	58	3	56	
+GP	3578959	Impasse de la Mare à Rose	residential	53	57	1133	
+GP	3578959	Rue Charlemagne Olime	tertiary	52	72	777	
+GP	3578959	Rue Lionel Loimon	residential	51	45	1189	
+GP	3578959	Avenue du Général de Gaulle	unclassified	50	3	66	
+GP	3578959	Rue Berton Gaston	unclassified	50	77	847	
+GP	3578959	Chemin de Carrère	unclassified	49	49	510	
+GP	3578959	Rue Isidore Adelo	residential	48	26	567	
+GP	3578959	Chemin de Pennel	residential	47	100	663	
+GP	3578959	Rue Albert Léogane	unclassified	47	25	692	
+GP	3578959	Rue des Coquelicots	residential	46	3	55	
+GP	3578959	Impasse Montout	residential	45	22	500	
+GP	3578959	Rue Jean Jaurès	residential	45	3	79	
+GP	3578959	Route de Belle Fontaine	residential	44	127	700	
+GP	3578959	Rue Fidelin	unclassified	44	28	2223	
+GP	3578959	Rue Man Manigard Alfred	residential	44	4	64	
+GP	3578959	Rue de Fond Abricot	residential	44	14	1013	
+GP	3578959	Rue de la Piscine	residential	44	199	525	
+GP	3578959	Rue de la Salle des Fêtes	residential	44	3	42	
+GP	3578959	Rue Omer Nanquin	residential	43	36	244	
+GP	3578959	Rue des Crotons	residential	43	3	44	
+GP	3578959	Impasse Guy Maxo	residential	42	25	284	
+GP	3578959	Route de Besson	secondary	42	776	1166	
+GP	3578959	Rue Sonore Ursule	residential	41	50	724	
+GP	3578959	Rue Amable Hilaire	residential	40	43	733	
+GP	3578959	Rue Flavien Fantin	residential	40	2	58	
+GP	3578959	Rue de Ylang-Ylang	tertiary	40	75	416	
+GP	3578959	Impasse Maxime Deloumeaux	residential	39	64	417	
+GP	3578959	Rue des Amandiers	residential	39	2	51	
+GP	3578959	Route Amedée Clotilde	residential	38	15	439	
+GP	3578959	Rue Camille Loyson	residential	38	30	514	
+GP	3578959	Rue Pierre Deblaciat	residential	38	18	220	
+GP	3578959	Rue Rolière Arnoux	tertiary	38	2	52	
+GP	3578959	Rue des Balisiers	residential	38	2	45	
+GP	3578959	Rue Yver Mordly	residential	37	65	661	
+GP	3578959	Impasse Médéric	residential	36	68	444	
+GP	3578959	Impasse Toto	residential	36	37	351	
+GP	3578959	Impasse Hubert Cozéma	residential	35	25	328	
+GP	3578959	Impasse Octavian Césarien	residential	34	29	744	
+GP	3578959	Rue Loulou Felimard	residential	34	35	555	
+GP	3578959	Rue des Écoles	secondary	34	2	48	
+GP	3578959	Rue Arthur Boucard	residential	33	102	777	
+GP	3578959	Rue Strazel Phemius	unclassified	33	55	708	
+GP	3578959	Rue des Finances	residential	32	2	38	
+GP	3578959	Allée des Ananas	residential	31	12	129	
+GP	3578959	Impasse Martelus Caniquitte	residential	30	14	350	
+GP	3578959	Route Jean Ignace	tertiary	30	25	750	
+GP	3578959	Rue Jeanne Opitz	residential	30	81	504	
+GP	3578959	Rue Leodote Zami	unclassified	30	6	1170	
+GP	3578959	Rue Philomin Poltes	residential	30	48	514	
+GP	3578959	Rue Rodrigue Bordée	residential	30	67	564	
+GP	3578959	Rue des Orchidées	residential	30	2	30	
+GP	3578959	Chemin Dinde	residential	29	91	425	
+GP	3578959	Rue Marius Monduc	residential	29	141	684	
+GP	3578959	Allée Bagatelle	residential	28	2	28	
+GP	3578959	Impasse Chonnon	residential	28	18	614	
+GP	3578959	Rue Antonia Zorobabel	residential	28	11	101	
+GP	3578959	Rue René Keke	residential	28	30	568	
+GP	3578959	Rue Sapotilles	residential	28	2	27	
+GP	3578959	Allée Acajou	residential	27	2	28	
+GP	3578959	Allée Atlantique	residential	27	2	27	
+GP	3578959	Allée Bambou	residential	27	2	28	
+GP	3578959	Allée Bengali	residential	27	2	27	
+GP	3578959	Allée Biguine	residential	27	2	27	
+GP	3578959	Impasse Auguste Romage	residential	27	12	279	
+GP	3578959	Impasse Montella	residential	27	4	44	
+GP	3578959	Impasse des Ortolans	residential	27	28	374	
+GP	3578959	Rue Saint-Michel	residential	27	2	28	
+GP	3578959	Rue de la Céramique		27	2	26	
+GP	3578959	Allée Bel Air	residential	26	2	27	
+GP	3578959	Allée Bergère	residential	26	2	26	
+GP	3578959	Chemin Dynastie Vespasien	residential	26	22	366	
+GP	3578959	Impasse Anselme Ceril	residential	26	28	552	
+GP	3578959	Impasse Porto-Rico		26	5	145	
+GP	3578959	Impasse René Nestor	residential	26	18	254	
+GP	3578959	Impasse Gustavien Dupré	residential	25	9	230	
+GP	3578959	Impasse Tony à Ferrand	residential	25	7	165	
+GP	3578959	Rue Beltegueuse		25	7	119	
+GP	3578959	Rue Légitimus	residential	25	9	136	
+GP	3578967	Boulevard Levasseur	tertiary	6	9	65	
+GP	3578967	Boulevard Rougé	primary	4	40	114	
+GP	3578967	Rue de la Canne à Sucre	residential	4	2	22	
+GP	3578967	Route de Guenette	residential	3	25	40	
+GP	3578967	Route de la Plante	secondary	3	123	1170	
+GP	3578967	Rue Saint-Jean	primary	3	51	84	
+GP	3578967	Residence Barbadines		2	38	39	
+GP	3578967	Route de Bamboche	unclassified	2	634	634	
+GP	3578967	Route de Sainte-Marguerite	secondary	2	3409	4042	
+GP	3578967	Route de la Clinique	unclassified	2	1251	4725	
+GP	3578967	Rue Gaston Monnerville	primary	2	11	40	
+GP	3578967	Rue Sainte-Anne	secondary	2	1	60	
+GP	3578967	Allée des Bienheureux	residential	1	0	0	
+GP	3578967	Allée des Champs	residential	1	0	0	
+GP	3578967	Allée des Joncs	residential	1	0	0	
+GP	3578967	Allée des Palmistes	unclassified	1	0	0	
+GP	3578967	Allée du Vieux Moulin	residential	1	0	0	
+GP	3578967	Boulevard Cicéron	residential	1	0	0	
+GP	3578967	Champ de Marcel	residential	1	0	0	
+GP	3578967	Charlery Guizonne	residential	1	0	0	
+GP	3578967	Chemin Binel Fazer	unclassified	1	0	0	
+GP	3578967	Chemin Gustave Samut	unclassified	1	0	0	
+GP	3578967	Chemin Pascal Hippolyte	residential	1	0	0	
+GP	3578967	Chemin Ravine Richer	residential	1	0	0	
+GP	3578967	Chemin Sidoine Permal	residential	1	0	0	
+GP	3578967	Chemin Tertulen Carral	residential	1	0	0	
+GP	3578967	Chemin de Bamboche	unclassified	1	0	0	
+GP	3578967	Chemin de Bellevue	tertiary	1	0	0	
+GP	3578967	Chemin de Blanchet	unclassified	1	0	0	
+GP	3578967	Chemin de Caillebot	tertiary	1	0	0	
+GP	3578967	Chemin de Celcourt	unclassified	1	0	0	
+GP	3578967	Chemin de Clugny-Acomat	unclassified	1	0	0	
+GP	3578967	Chemin de Kérangon	residential	1	0	0	
+GP	3578967	Chemin de Mahaudière	unclassified	1	0	0	
+GP	3578967	Chemin de Monplaisir	unclassified	1	0	0	
+GP	3578967	Chemin de Montal	residential	1	0	0	
+GP	3578967	Chemin de Méthivier	unclassified	1	0	0	
+GP	3578967	Chemin de Pinadière	residential	1	0	0	
+GP	3578967	Chemin de Pombiray	tertiary	1	0	0	
+GP	3578967	Chemin de Roche	unclassified	1	0	0	
+GP	3578967	Chemin de Tilotine	residential	1	0	0	
+GP	3578967	Chemin de l'Ancienne Sénéchaussée	unclassified	1	0	0	
+GP	3578967	Chemin de la Hache	unclassified	1	0	0	
+GP	3578967	Chemin de la Roche	unclassified	1	0	0	
+GP	3578967	Chemin des Charretiers	residential	1	0	0	
+GP	3578967	Chemin des Ignames	unclassified	1	0	0	
+GP	3578967	Chemin des Usines	residential	1	0	0	
+GP	3578967	Chemin des Écoles	residential	1	0	0	
+GP	3578978	Rue de l'Houezel	tertiary	7	191	1400	
+GP	3578978	Boulevard du Général de Gaulle	secondary	3	58	90	
+GP	3578978	Boulevard Amédée Clara	secondary	2	13	77	
+GP	3578978	Boulevard Général de Gaulle	secondary	2	122	136	
+GP	3578978	Impasse Lindor		2	1	3	
+GP	3578978	Lotissement Pointe Canot	residential	2	16	39	
+GP	3578978	Route Anse Vinaigri	residential	2	12	15	
+GP	3578978	Route de Chablis	residential	2	322	322	
+GP	3578978	Rue Denis Bordelais	residential	2	50	52	
+GP	3578978	Avenue de Montauban	secondary	1	0	0	
+GP	3578978	Avenue de Poucet	secondary	1	0	0	
+GP	3578978	Boulevard de la Criée	primary	1	0	0	
+GP	3578978	Chemin de Port Blanc	residential	1	0	0	
+GP	3578978	Chemin de la Plage	residential	1	0	0	
+GP	3578978	Chemin des Hauteurs	tertiary	1	0	0	
+GP	3578978	Flair Unis	residential	1	0	0	
+GP	3578978	Fond Marius	residential	1	0	0	
+GP	3578978	Impasse Amédée Clara	residential	1	0	0	
+GP	3578978	Impasse Belair	residential	1	0	0	
+GP	3578978	Impasse Boisset	residential	1	0	0	
+GP	3578978	Impasse Bédard	residential	1	0	0	
+GP	3578978	Impasse Cacao	residential	1	0	0	
+GP	3578978	Impasse Campêche	residential	1	0	0	
+GP	3578978	Impasse Captant	residential	1	0	0	
+GP	3578978	Impasse Casimir	residential	1	0	0	
+GP	3578978	Impasse Coudray	residential	1	0	0	
+GP	3578978	Impasse Courbaril	residential	1	0	0	
+GP	3578978	Impasse Fond Banane	residential	1	0	0	
+GP	3578978	Impasse Fraidérick	residential	1	0	0	
+GP	3578978	Impasse Félixain	unclassified	1	0	0	
+GP	3578978	Impasse Ibo	residential	1	0	0	
+GP	3578978	Impasse Jeanne	residential	1	0	0	
+GP	3578978	Impasse Jeanne Joseph	residential	1	0	0	
+GP	3578978	Impasse La Jarre	residential	1	0	0	
+GP	3578978	Impasse Laaland	residential	1	0	0	
+GP	3578978	Impasse Lagon Bleu	residential	1	0	0	
+GP	3578978	Impasse Machire	residential	1	0	0	
+GP	3578978	Impasse Manne	residential	1	0	0	
+GP	3578978	Impasse Mayoute	residential	1	0	0	
+GP	3578978	Impasse Mirano Kancel	residential	1	0	0	
+GP	3578978	Impasse Montout	residential	1	0	0	
+GP	3578978	Impasse Morice	residential	1	0	0	
+GP	3578978	Impasse Negrit	residential	1	0	0	
+GP	3578978	Impasse Nicolas	residential	1	0	0	
+GP	3578978	Impasse Nocente	residential	1	0	0	
+GP	3578978	Impasse Parole	residential	1	0	0	
+GP	3578978	Impasse Paulon	residential	1	0	0	
+GP	3578978	Impasse Pierre Victor	residential	1	0	0	
+GP	3579023	Route de la Lézarde	secondary	205	129	4065	
+GP	3579023	Chemin de Boisbert-Pichon	residential	153	159	2206	
+GP	3579023	Chemin de Monnier	residential	133	162	2641	
+GP	3579023	Chemin de Ravine Chaude	unclassified	117	1292	3690	
+GP	3579023	Chemin de Donote	residential	97	45	1151	
+GP	3579023	Chemin de Grossou	residential	95	73	1425	
+GP	3579023	Chemin de Desbonnes	unclassified	88	391	1492	
+GP	3579023	Chemin de Volny	residential	78	143	1228	
+GP	3579023	Rue Pierre Wonche	unclassified	76	660	2310	
+GP	3579023	Chemin de Ledoux	residential	75	66	1538	
+GP	3579023	Chemin de Boyer	unclassified	72	44	1634	
+GP	3579023	Rue du Pont	secondary	71	85	786	
+GP	3579023	Chemin de Léranie	residential	70	96	1392	
+GP	3579023	Chemin de Bergnolles	residential	67	111	929	
+GP	3579023	Chemin de Pierrette	unclassified	65	376	2316	
+GP	3579023	Chemin de Roussel	unclassified	64	173	911	
+GP	3579023	Chemin de Borel	residential	56	55	652	
+GP	3579023	Rue Sosthène Gendrey	unclassified	52	104	1150	
+GP	3579023	Chemin de Faugas	residential	50	43	854	
+GP	3579023	Chemin de Chartreux	residential	49	53	655	
+GP	3579023	Rue de la Balance	secondary	48	30	1097	
+GP	3579023	Chemin de Chabert	unclassified	47	212	1265	
+GP	3579023	Chemin Pont Canal	residential	46	100	1448	
+GP	3579023	Chemin de Dauphin	residential	44	36	535	
+GP	3579232	Chemin du Souffleur	primary	133	577	2267	
+GP	3579232	Rue André Sablon	primary	86	27	1124	
+GP	3579232	Rue Philippe Pain	primary	83	5	79	
+GP	3579232	Rue Charles Berchel Mutile	primary	44	53	942	
+GP	3579232	Chemin de Fort Marmouset	residential	42	37	712	
+GP	3579232	Chemin des Galets	unclassified	42	56	842	
+GP	3579232	Chemin du Désert	primary	37	20	617	
+GP	3579232	Rue Auguste Saint-Auret	unclassified	28	67	739	
+GP	3579232	Rue Jean-Noël Karat	residential	26	38	390	
+GP	3579232	Rue Paul Tinedor	unclassified	25	35	255	
+GP	3579232	Chemin de Grand Boisneuf	residential	22	40	319	
+GP	3579232	Chemin de Bellevue	unclassified	18	31	464	
+GP	3579250	Route de LaTreille	unclassified	112	103	2772	
+GP	3579250	Route de Buckingham	unclassified	90	130	3089	
+GP	3579250	Route de Vanniers	unclassified	72	269	3030	
+GP	3579250	Route de Saint-Charles	primary	65	204	1541	
+GP	3579250	Route de Thibault	unclassified	64	262	2951	
+GP	3579250	Route de Courbaril		56	46	1263	
+GP	3579250	Route de Beaufils	unclassified	53	352	4394	
+GP	3579250	Rue Mulatresse Solitude	residential	52	3	59	
+GP	3579250	Rue du Docteur Félix Selbonne	primary	50	3	62	
+GP	3579250	Avenue des Sabliers de Joinville	primary	49	3	72	
+GP	3579250	Route de Moringlane	unclassified	48	185	2372	
+GP	3579250	Route de Morne Rouge	unclassified	47	166	2223	
+GP	3579250	Rue de la République	tertiary	47	2	30	
+GP	3579250	Rue Alonzo	unclassified	46	3	47	
+GP	3579250	Boulevard de la Caraïbe	tertiary	42	3	69	
+GP	3579250	Route de Gagneron	unclassified	42	168	2004	
+GP	3579250	Rue Michel Sanctussy	residential	41	7	46	
+GP	3579250	Passage des Braves	residential	40	2	41	
+GP	3579250	Route des Manguiers	unclassified	40	61	953	
+GP	3579250	Rue Beaurenon	tertiary	40	2	40	
+GP	3579250	Rue Saint-John Perse	residential	40	1	38	
+GP	3579250	Avenue Nelson Mandela	residential	39	6	64	
+GP	3579250	Avenue du Docteur Marcel Etzol	primary	39	2	44	
+GP	3579250	Chemin de l'Étang Jonc	unclassified	37	301	2076	
+GP	3579267	Rue Ferdinand Vignal	tertiary	142	159	2007	
+GP	3579267	Rue Pierre et René Hincelin	tertiary	102	221	1679	
+GP	3579267	Route de Matouba	residential	75	78	817	
+GP	3579267	Rue Plantin	residential	73	4	83	
+GP	3579267	Rue de Désiré	residential	71	42	656	
+GP	3579267	Route de Palmiste	unclassified	64	72	3094	
+GP	3579267	Rue Bruno Mercier	secondary	63	60	455	
+GP	3579267	Rue Dourneaux-Duperré	residential	46	64	798	
+GP	3579267	Rue de la Rigolette	secondary	46	19	372	
+GP	3579267	Route de Beausoleil	residential	43	86	745	
+GP	3579267	Avenue Albert Béville	primary	41	87	1908	
+GP	3579267	Route de Grand Camp	residential	37	50	908	
+GP	3579267	Route de Dupré	residential	32	45	1372	
+GP	3579267	Route de Tibois	residential	31	20	489	
+GP	3579267	Rue le Vieux Chemin	residential	29	170	1143	
+GP	3579267	Impasse Bellevue		28	67	202	
+GP	3579267	Rue Jean-François Houelche	secondary	27	40	549	
+GP	3579267	Ruelle du Colibri	residential	26	21	408	
+GP	3579267	Impasse René Allemand	residential	25	61	320	
+GP	3579267	Rue Sylvain Janoe	secondary	25	41	413	
+GP	3579267	Rue des Frères de la Charité	residential	24	69	450	
+GP	3579267	Rue du Vent Soufflé	residential	23	56	333	
+GP	3579267	Rue de Batavia	secondary	22	11	456	
+GP	3579267	Résidence les Monts Caraïbes		21	3	21	
+GP	3579429	Allée du Coeur	secondary	161	92	2179	
+GP	3579429	Allée de Lacoque	primary	152	136	2360	
+GP	3579429	Allée Riflet	primary	101	85	1512	
+GP	3579429	Allée la Perle Bas-Vent	primary	80	145	1377	
+GP	3579429	Route du Boeing	residential	72	61	1727	
+GP	3579429	Chemin de Potier	unclassified	70	155	1913	
+GP	3579429	Route de Félix Jacob Béllaire	residential	66	106	1034	
+GP	3579429	Boulevard des Poissonniers	primary	64	142	455	
+GP	3579429	Chemin de la Rate	unclassified	59	20	1792	
+GP	3579429	Chemin de Petite Rivière	residential	53	28	661	
+GP	3579429	Allée de Ferry	primary	47	84	532	
+GP	3579429	Allée Courbaril	primary	45	199	1851	
+GP	3579585	Rue des Banglins	residential	29	2	28	
+GP	3579585	Lotissement Morne d'Or	residential	9	41	51	
+GP	3579585	Avenue Paul Lacavé	primary	3	32	73	
+GP	3579585	Allée Commandant Mortenol	residential	1	0	0	
+GP	3579585	Allée Dode Daniel	residential	1	0	0	
+GP	3579585	Allée Dumanoir	primary	1	0	0	
+GP	3579585	Allée Hauradou	residential	1	0	0	
+GP	3579585	Allée Ignace	residential	1	0	0	
+GP	3579585	Allée Julien Chabrol	residential	1	0	0	
+GP	3579585	Allée Marie Pompilius	residential	1	0	0	
+GP	3579585	Allée Marie Édouard Melse	residential	1	0	0	
+GP	3579585	Allée Saint-Sauveur	primary	1	0	0	
+GP	3579585	Allée Xantippe	living_street	1	0	0	
+GP	3579585	Allée de l'Harmonie	unclassified	1	0	0	
+GP	3579585	Allée des Bougainvilliers	residential	1	0	0	
+GP	3579585	Allée des Cocotiers	residential	1	0	0	
+GP	3579585	Allée des Cyprès	residential	1	0	0	
+GP	3579585	Allée des Framboisins	residential	1	0	0	
+GP	3579585	Allée des Hibiscus	residential	1	0	0	
+GP	3579585	Allée des Pommes Lianes	residential	1	0	0	
+GP	3579585	Allée du Capitaine Bebel	residential	1	0	0	
+GP	3579585	Allée du Jasmin	residential	1	0	0	
+GP	3579585	Allée les Mineurs	primary	1	0	0	
+GP	3579585	Allée Émile Zola	residential	1	0	0	
+GP	3579585	Ancien Pont	unclassified	1	0	0	
+GP	3579585	Ancien Pont du Pérou	unclassified	1	0	0	
+GP	3579585	Avenue Germain Saint-Ruf	tertiary	1	0	0	
+GP	3579585	Avenue des Flamboyants	primary	1	0	0	
+GP	3579585	Avenue du Général de Gaulle	primary	1	0	0	
+GP	3579585	Boulevard Delgrès	primary	1	0	0	
+GP	3579585	Boulevard Maritime	tertiary	1	0	0	
+GP	3579585	Chemin Bocato	unclassified	1	0	0	
+GP	3579585	Chemin Jésus	unclassified	1	0	0	
+GP	3579585	Chemin Pineau Gisèle	unclassified	1	0	0	
+GP	3579585	Chemin de Christophe	unclassified	1	0	0	
+GP	3579585	Chemin de Guyot	residential	1	0	0	
+GP	3579585	Chemin de Racine	unclassified	1	0	0	
+GP	3579585	Chemin de Richard	unclassified	1	0	0	
+GP	3579585	Chemin de la Mangrove	residential	1	0	0	
+GP	3579585	Chemin de la Ravine	unclassified	1	0	0	
+GP	3579585	Chemin des Alpinias	unclassified	1	0	0	
+GP	3579585	Chemin des Mahoganys	unclassified	1	0	0	
+GP	3579585	Chemin des Ouassous	unclassified	1	0	0	
+GP	3579585	Chemin des Raisiniers	residential	1	0	0	
+GP	3579585	Chemin des Siguines	unclassified	1	0	0	
+GP	3579585	Chemin du Figuier	residential	1	0	0	
+GP	3579585	Chemin Édouard Baron	unclassified	1	0	0	
+GP	3579585	Impasse Alexin Francillette	residential	1	0	0	
+GP	3579732	Rue Serge Balguy	residential	98	5	100	
+GP	3579732	Rue Denis Michaux	residential	88	10	363	
+GP	3579732	Rue Antoine de Lardenoy	secondary	85	4	90	
+GP	3579732	Rue du Chevalier Saint-Georges	residential	77	26	766	
+GP	3579732	Rue Jean Jaurès	unclassified	75	12	412	
+GP	3579732	Avenue Paul Lacavé	secondary	63	24	930	
+GP	3579732	Avenue du Gouverneur Lion	primary	63	161	675	
+GP	3579732	Rue du Père Labat	tertiary	61	8	68	
+GP	3579732	Chemin des Acacias	residential	56	14	242	
+GP	3579732	Rue du Cours Nolivos	tertiary	52	3	60	
+GP	3579732	Rue du Docteur Cabre	residential	50	2	35	
+GP	3579732	Rue Amédée Fengarol	residential	47	4	54	
+GP	3579732	Rue Lethière	residential	47	7	48	
+GP	3579732	Rue de la République	tertiary	47	2	52	
+GP	3579732	Rue Charles Houel	residential	44	3	62	
+GP	3579732	Allée des Sucriers	residential	43	3	96	
+GP	3579732	Rue des Amandiers	residential	43	3	49	
+GP	3579732	Rue Dugommier	residential	41	1	39	
+GP	3579732	Route du Général Bourgeois	residential	38	125	625	
+GP	3579732	Rue René Baptistide	residential	38	5	243	
+GP	3579732	Allée des Flamboyants	residential	35	9	307	
+GP	3579732	Chemin des Bougainvilliers	residential	34	2	34	
+GP	3579732	Rue Rémy Nainsouta	residential	34	2	62	
+GP	3579732	Rue Clovis Renaison	unclassified	33	2	61	
+GP	3579761	Rue Jean Jaurès	residential	35	93	579	
+GP	3579761	Rue du Général Ambert	residential	14	28	121	
+GP	3579761	Allée Loubon	residential	1	0	0	
+GP	3579761	Allée de l'Industrie	unclassified	1	0	0	
+GP	3579761	Allée des Acacias	residential	1	0	0	
+GP	3579761	Allée des Alamandas	residential	1	0	0	
+GP	3579761	Allée des Bougainvilliers	residential	1	0	0	
+GP	3579761	Allée des Cannas	residential	1	0	0	
+GP	3579761	Allée des Colibris	residential	1	0	0	
+GP	3579761	Allée des Filaos	residential	1	0	0	
+GP	3579761	Allée des Gerbéras	residential	1	0	0	
+GP	3579761	Allée des Hibiscus	residential	1	0	0	
+GP	3579761	Allée des Oeillets	residential	1	0	0	
+GP	3579761	Allée des Pères Blancs	primary	1	0	0	
+GP	3579761	Allée des Roses	residential	1	0	0	
+GP	3579761	Allée des Suretiers	residential	1	0	0	
+GP	3579761	Allée des Tamariniers	residential	1	0	0	
+GP	3579761	Avenue François Mitterrand	residential	1	0	0	
+GP	3579761	Avenue du Père Labat	primary	1	0	0	
+GP	3579761	Chemin Campêche	unclassified	1	0	0	
+GP	3579761	Chemin Danois	residential	1	0	0	
+GP	3579761	Chemin Dardanelles	residential	1	0	0	
+GP	3579761	Chemin Grand Trou	residential	1	0	0	
+GP	3579761	Chemin Pyrénées	unclassified	1	0	0	
+GP	3579767	Rue Albert Dupont	unclassified	38	91	767	
+GP	3579767	Rue Rosa Parks	residential	37	2	103	
+GP	3579767	Rue Valentin Parfait	unclassified	22	87	614	
+GP	3579767	Rue de la Corniche	residential	18	1	24	
+GP	3579767	Impasse des Vanilliers	residential	17	1	22	
+GP	3579767	Rue Félix Beljio	residential	15	100	497	
+GP	3579767	Rue Cécile Jean-Louis Devirel	residential	14	58	88	
+GP	3579767	Rue Achille-René Boisneuf	residential	12	2	14	
+GP	3579767	Rue Marcel Fala	residential	12	172	418	
+GP	3579767	Rue Henri Becquerel	unclassified	11	3	2626	
+GP	3579767	Rue Fortuné Élise	tertiary	10	42	459	
+GP	3579767	Allée des Belvédères	residential	9	1	15	
+GP	3579767	Rue Joséphine Baker	residential	9	46	102	
+GP	3579767	Impasse Nicole Réache	residential	7	51	60	
+GP	3579767	Route de Blachon	tertiary	6	1339	1633	
+GP	3579767	Rue Ferdinand Forest	unclassified	6	2	32	
+GP	3579767	Allée des Suretiers	residential	5	1	5	
+GP	3579767	Rue de la République	tertiary	5	24	7813	
+GP	3579767	Boulevard Marquisat de Houëlbourg	primary	4	3	6	
+GP	3579767	Rue Alfred Lumière	unclassified	4	118	341	
+GP	3579767	Rue Firmine Richard	residential	4	1	4	
+GP	3579767	Rue François Fresneau	unclassified	4	1	173	
+GP	3579767	Rue Marie-Thérèse Manchaud-Talaba		4	2	7	
+GP	3579767	Impasse de la Mésange	residential	3	3	5	
+GP	3579767	Impasse Émilienne François	residential	3	1	7	
+GP	3579767	Parc d'activité de Jabrun		3	5	18	
+GP	3579767	Rue Joseph Cugnot		3	29	137	
+GP	3579767	Rue de la Chapelle		3	232	232	
+GP	3579767	Boulevard du Général Saint-Georges		2	22	22	
+GP	3579767	Domaine des Douces Rives		2	11	12	
+GP	3579767	Impasse des Lucioles	residential	2	6	8	
+GP	3579767	Rue Amédée Barbotteau	tertiary	2	6	12	
+GP	3579767	Rue Hyacinthe Bastaraud	residential	2	10	12	
+GP	3579767	Rue Joseph Nobel	unclassified	2	677	780	
+GP	3579767	Rue Lamartine	residential	2	24	44	
+GP	3579767	Rue René Rabat	tertiary	2	0	0	
+GP	3579767	Rue Thomas Edison	unclassified	2	2	10	
+GP	3579767	Allée Lantana	residential	1	0	0	
+GP	3579767	Allée Savannah	residential	1	0	0	
+GP	3579767	Allée de Belcourt	residential	1	0	0	
+GP	3579767	Allée de Jabrun	residential	1	0	0	
+GP	3579767	Allée de la Jaille	residential	1	0	0	
+GP	3579767	Allée de la Mangrove	residential	1	0	0	
+GP	3579767	Allée des Andes	residential	1	0	0	
+GP	3579767	Allée des Anthuriums	residential	1	0	0	
+GP	3579767	Allée des Balisiers	residential	1	0	0	
+GP	3579767	Allée des Bégonias	residential	1	0	0	
+GP	3579767	Allée des Cailloux	residential	1	0	0	
+GP	3579789	Rue Émile Lafontaine	secondary	165	107	1865	
+GP	3579789	Rue Euvremont Gene	primary	142	227	1668	
+GP	3579789	Avenue Vital Borifax	primary	134	11	135	
+GP	3579789	Rue Bertrand Maréchaux	secondary	104	35	1100	
+GP	3579789	Rue Toussaint Louverture	primary	79	34	1505	
+GP	3579789	Route de Saint-Jacques	unclassified	68	86	1552	
+GP	3579789	Rue Cheikh Anta Diop	primary	64	4	64	
+GP	3579789	Route de Bebian	residential	56	102	2650	
+GP	3579789	Rue des Champions	secondary	56	27	541	
+GP	3579789	Rue du Commandant Mortenol	residential	42	6	78	
+GP	3579789	Rue Olympe Pierrot Beral	residential	40	26	761	
+GP	3579789	Rue Herman Tel	secondary	39	63	1240	
+GP	3579789	Rue Hégésippe Légitimus	residential	38	2	41	
+GP	3579789	Rue de la Vinaigrerie	residential	37	28	406	
+GP	3579789	Rue Edouard Clamy Drouode	residential	33	2	29	
+GP	3579789	Rue Joseph Toni		32	335	1137	
+GP	3579789	Rue des Pommes-Cannelles	residential	32	3	26	
+GP	3579789	Rue Abbé Grégoire	primary	31	4	40	
+GP	3579789	Rue des Coraux	residential	31	2	37	
+GP	3579789	Rue Pomme Malaka	residential	29	2	36	
+GP	3579789	Rue de la Canne à sucre	residential	29	2	42	
+GP	3579789	Rue des Flamboyants	tertiary	29	45	522	
+GP	3579789	Rue Romarin Bord de Mer	residential	28	55	674	
+GP	3579789	Rue Achille René-Boisneuf	residential	27	2	30	

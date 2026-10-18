@@ -1,0 +1,308 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+AD	3038832	Carrer Camp Bernat Tomàs	residential	1	0	0	
+AD	3038832	Carrer de la Ventiga	residential	1	0	0	
+AD	3038832	Carrer del Serradal	residential	1	0	0	
+AD	3038832	Carretera de Vila-Beixalis	secondary	1	0	0	
+AD	3038999	Carretera General		2	2	36	
+AD	3038999	Crta Gral		2	2	2	
+AD	3038999	CG-2	primary	1	0	0	
+AD	3038999	Camí Marrades del Piol	residential	1	0	0	
+AD	3038999	Camí del port dret	residential	1	0	0	
+AD	3038999	Devesa d'Inlces	residential	1	0	0	
+AD	3038999	La Pleta de Soldeu	residential	1	0	0	
+AD	3038999	Marrades del Piol	living_street	1	0	0	
+AD	3038999	Plaça del Piol	living_street	1	0	0	
+AD	3038999	Rotonda de Soldeu	primary	1	0	0	
+AD	3039077	Camí Planell de la Callissa	residential	1	0	0	
+AD	3039077	Carrer Colomer	residential	1	0	0	
+AD	3039077	Carrer Major	tertiary	1	0	0	
+AD	3039077	Carretera Sant Cristofol	secondary	1	0	0	
+AD	3039077	Carretera de Sispony	secondary	1	0	0	
+AD	3039077	Carretera dels Cortals	tertiary	1	0	0	
+AD	3039077	Conexió inferior CG3 - Cami Ral	unclassified	1	0	0	
+AD	3039077	Ctra. de Sispony i dels Plans	secondary	1	0	0	
+AD	3039077	Urb Sorribes	residential	1	0	0	
+AD	3039154	CG-2	primary	1	0	0	
+AD	3039154	Cap del Carrer	pedestrian	1	0	0	
+AD	3039154	Carrer Gran	pedestrian	1	0	0	
+AD	3039154	Carrer de cal Lleig	pedestrian	1	0	0	
+AD	3039154	Carretera d'Entor	tertiary	1	0	0	
+AD	3039154	Carretera de Ransol	tertiary	1	0	0	
+AD	3039154	Rotonda del Tarter	primary	1	0	0	
+AD	3039154	Solà del Tarter	residential	1	0	0	
+AD	3039154	Urb. Gran Sol	residential	1	0	0	
+AD	3039154	Urbanització Sant Pere del Tarter	residential	1	0	0	
+AD	3039163	Avinguda Verge de Canòlich	residential	2	51	53	
+AD	3039163	Carrer de la Geneta	residential	2	22	22	
+AD	3039163	Plaça de la Germandat	pedestrian	2	7	10	
+AD	3039163	Avinguda Rocafort	primary	1	0	0	
+AD	3039163	Baixador del Moli	residential	1	0	0	
+AD	3039163	Borda del Germà	residential	1	0	0	
+AD	3039163	Cami Església de Sant Esteve de Bixessarri	residential	1	0	0	
+AD	3039163	Cami Xalets del Trillar	residential	1	0	0	
+AD	3039163	Camí d'Auvinyà	residential	1	0	0	
+AD	3039163	Camí de Manyat	residential	1	0	0	
+AD	3039163	Carrer Bonaventura Riera	residential	1	0	0	
+AD	3039163	Carrer Camp de Perot	residential	1	0	0	
+AD	3039163	Carrer Carvajal de Hué	residential	1	0	0	
+AD	3039163	Carrer El Llinas	residential	1	0	0	
+AD	3039163	Carrer Francesc Escudé	residential	1	0	0	
+AD	3039163	Carrer Isidre Valls	residential	1	0	0	
+AD	3039163	Carrer Mossèn Enric Marfany	living_street	1	0	0	
+AD	3039163	Carrer de Lòria	residential	1	0	0	
+AD	3039163	Carrer de l'Esquirol	residential	1	0	0	
+AD	3039163	Carrer del Bosc	residential	1	0	0	
+AD	3039163	Carretera Secundaria de la Rabassa	secondary	1	0	0	
+AD	3039163	Carretera de Canòlich	secondary	1	0	0	
+AD	3039163	Carretera de Certers - Nagol	secondary	1	0	0	
+AD	3039163	Carretera de Collada de la Gallina	secondary	1	0	0	
+AD	3039181	Avinguda de Santa Coloma		3	18	118	
+AD	3039181	Avinguda d'Enclar	primary	1	0	0	
+AD	3039181	Cami Ral	residential	1	0	0	
+AD	3039181	Camí Ral	residential	1	0	0	
+AD	3039181	Camí de Malreu	residential	1	0	0	
+AD	3039181	Carrer Castell de Sant Vicenç	residential	1	0	0	
+AD	3039181	Carrer Mossèn Lluis Pujol	residential	1	0	0	
+AD	3039181	Carrer Mossèn Lluís Pujol	residential	1	0	0	
+AD	3039181	Carrer Prat Salit	residential	1	0	0	
+AD	3039181	Carrer Roureda Tapada	residential	1	0	0	
+AD	3039181	Carrer Roureda de Malreu	residential	1	0	0	
+AD	3039181	Carrer Tossalet i Vinyols	residential	1	0	0	
+AD	3039604	Avinguda del Consell General	primary	4	19	27	
+AD	3039604	Avinguda d'Encamp	tertiary	2	12	39	
+AD	3039604	Carrer Bearn	residential	2	16	30	
+AD	3039604	Carrer Bernat III	residential	1	0	0	
+AD	3039604	Carrer Comtes de Foix	residential	1	0	0	
+AD	3039604	Carrer Estret	residential	1	0	0	
+AD	3039604	Carrer Para Urgell	residential	1	0	0	
+AD	3039604	Carrer Pareatges	residential	1	0	0	
+AD	3039604	Carrer Solana	residential	1	0	0	
+AD	3039604	Carrer de Les Pistes	residential	1	0	0	
+AD	3039604	Grandvalira (Sector de Pas de la Casa)	pedestrian	1	0	0	
+AD	3039604	Plaça Sant Josep	residential	1	0	0	
+AD	3039678	Carrer Major	living_street	4	1	26	
+AD	3039678	Avinguda del Casamanya	primary	1	0	0	
+AD	3039678	Callisa del Barrer	residential	1	0	0	
+AD	3039678	Cami Peu de la Grau	residential	1	0	0	
+AD	3039678	Cami de Santa Bàrbara	residential	1	0	0	
+AD	3039678	Camí de la Gonarda	residential	1	0	0	
+AD	3039678	Camí de la Grau	residential	1	0	0	
+AD	3039678	Camí de la Tanada	living_street	1	0	0	
+AD	3039678	Carrer Aubell	living_street	1	0	0	
+AD	3039678	Carrer Manual Digest	residential	1	0	0	
+AD	3039678	Carrer Narciso Yepes	residential	1	0	0	
+AD	3039678	Carrer Plana dels Camps	residential	1	0	0	
+AD	3040051	Avinguda Carlemany	secondary	26	8	93	
+AD	3040051	Carrer de l'obac	residential	11	1	64	
+AD	3040051	Avinguda de Tarragona		10	1	34	
+AD	3040051	Carrer Santa Anna	secondary	10	1	14	
+AD	3040051	Avinguda Coprincep de Gaulle	secondary	8	1	19	
+AD	3040051	Avinguda Meritxell	pedestrian	5	85	100	
+AD	3040051	Avinguda de les Escoles	residential	5	8	29	
+AD	3040051	Avinguda del Fener	residential	4	16	28	
+AD	3040051	Avinguda del Pessebre	secondary	4	1	80	
+AD	3040051	Carrer de la Unió	primary	4	5	15	
+AD	3040051	Plaça Coprínceps		4	2	8	
+AD	3040051	Camí del Valira	residential	3	2	6	
+AD	3040051	Carrer Maria Plà	residential	3	8	32	
+AD	3040051	Carrer Verge del Pilar	residential	3	1	4	
+AD	3040051	Avinguda Fiter i Rossell	primary	2	4	13	
+AD	3040051	Carrer François Mitterrand	residential	2	2	4	
+AD	3040051	Carrer Josep Viladomat	primary	2	7	22	
+AD	3040051	Carrer Sant Esteve		2	1	6	
+AD	3040051	Carrer del Prat Gran	secondary	2	3	3	
+AD	3040051	Parc de la Mola		2	6	6	
+AD	3040051	Avinguda Consell d'Europa	primary	1	0	0	
+AD	3040051	Avinguda Consell de la Terra	tertiary	1	0	0	
+AD	3040051	Avinguda Esteve Albert	primary	1	0	0	
+AD	3040051	Avinguda del Pont de la Tosca	secondary	1	0	0	
+AD	3040051	C. de Vianants	pedestrian	1	0	0	
+AD	3040051	CArrer MAnel Cerqueda i Escaler	residential	1	0	0	
+AD	3040051	Cami Bordes de Ramonet	residential	1	0	0	
+AD	3040051	Cami del Pui	residential	1	0	0	
+AD	3040051	Camí d'Engolasters	living_street	1	0	0	
+AD	3040051	Camí de La Salita	residential	1	0	0	
+AD	3040051	Camí de la Vinya	residential	1	0	0	
+AD	3040051	Caní del Barri	pedestrian	1	0	0	
+AD	3040051	Carre Josep Viladomat	secondary	1	0	0	
+AD	3040051	Carrer Babot Camp	pedestrian	1	0	0	
+AD	3040051	Carrer Batlle Tomàs	living_street	1	0	0	
+AD	3040051	Carrer Ciutat de Sabadell	residential	1	0	0	
+AD	3040051	Carrer Esteve Albert	primary	1	0	0	
+AD	3040051	Carrer Francois Miterrand	residential	1	0	0	
+AD	3040051	Carrer François Miterrand	residential	1	0	0	
+AD	3040051	Carrer Hortalets de Guem	living_street	1	0	0	
+AD	3040051	Carrer Hortalets del Ribot	residential	1	0	0	
+AD	3040051	Carrer Joan Cornella Panicello	residential	1	0	0	
+AD	3040051	Carrer Josep Rossell i Calva	residential	1	0	0	
+AD	3040051	Carrer Manel Cerqueda i Escaler	residential	1	0	0	
+AD	3040051	Carrer Mossén Guillem Adellach	residential	1	0	0	
+AD	3040051	Carrer Nou	pedestrian	1	0	0	
+AD	3040051	Carrer Paraires	residential	1	0	0	
+AD	3040051	Carrer Pare Enric Graner	living_street	1	0	0	
+AD	3040067	Avinguda de Roudillac	residential	1	0	0	
+AD	3040067	Camí Roc de la Querola	residential	1	0	0	
+AD	3040067	Carrer Catorze de Març	residential	1	0	0	
+AD	3040067	Carrer de Sant Romà	residential	1	0	0	
+AD	3040067	Carrer de la Ciutat Pubilla	unclassified	1	0	0	
+AD	3040067	Carrer de la Dolcerma	residential	1	0	0	
+AD	3040067	Carrer del Catorze de Març	residential	1	0	0	
+AD	3040067	Carrer del Torrent	residential	1	0	0	
+AD	3040132	Avinguda Sant Antoni	primary	6	20	51	
+AD	3040132	Avinguda del Ravell	primary	4	1	30	
+AD	3040132	Avinguda el Travès	primary	3	2	7	
+AD	3040132	Carrer de Josep Rossel	residential	2	6	12	
+AD	3040132	Carretera de la Creu Blanca	secondary	2	62	64	
+AD	3040132	Avinguda de Sant Antoni	primary	1	0	0	
+AD	3040132	Avinguda del Lloser	primary	1	0	0	
+AD	3040132	Avinguda del Pont d'Ordino	primary	1	0	0	
+AD	3040132	Callissa del Barrer	residential	1	0	0	
+AD	3040132	Cami Ral	residential	1	0	0	
+AD	3040132	Cami de les Gravades	residential	1	0	0	
+AD	3040132	Cami de les Molleres	residential	1	0	0	
+AD	3040132	Camí Cap del Poble	unclassified	1	0	0	
+AD	3040132	Camí de Sispony i dels Plans	residential	1	0	0	
+AD	3040132	Camí de l'Església	pedestrian	1	0	0	
+AD	3040132	Carrer Borda Fonta	residential	1	0	0	
+AD	3040132	Carrer Coma Del Colat	residential	1	0	0	
+AD	3040132	Carrer Dr Vilanova	residential	1	0	0	
+AD	3040132	Carrer Guillem Areny	residential	1	0	0	
+AD	3040132	Carrer Josep Areny	residential	1	0	0	
+AD	3040132	Carrer Major	secondary	1	0	0	
+AD	3040132	Carrer Urbanització Pleta de l'Aldosa	residential	1	0	0	
+AD	3040132	Carrer de Cal Teixidó	residential	1	0	0	
+AD	3040132	Carrer de Santa Caterina	residential	1	0	0	
+AD	3040141	Carretera de l'Aldosa	residential	2	13	13	
+AD	3040141	Cami de les Molleres	residential	1	0	0	
+AD	3040141	Camí Vell de la Gonarda	residential	1	0	0	
+AD	3040141	Carrer de Cal Jep	residential	1	0	0	
+AD	3040141	Carrer de l'Hortal	residential	1	0	0	
+AD	3040141	Carrer de la Font del Colom	residential	1	0	0	
+AD	3040141	Carrer de les Boigues	residential	1	0	0	
+AD	3040141	Carrer del Serrat del Camp	residential	1	0	0	
+AD	3040141	Carretera de la Creu Blanca	secondary	1	0	0	
+AD	3040141	Carretera de la Gonarda	unclassified	1	0	0	
+AD	3040141	Plaça de l'Església	residential	1	0	0	
+AD	3040154	Cami Ral	unclassified	1	0	0	
+AD	3040154	Camí Vell	residential	1	0	0	
+AD	3040154	Carrer de la Cultia Sant Miquel	residential	1	0	0	
+AD	3040154	Carrer de les Massanelles	residential	1	0	0	
+AD	3040154	Carrer de les Ribes	tertiary	1	0	0	
+AD	3040154	Carrer del Grau	residential	1	0	0	
+AD	3040154	Carrer del Reguer	residential	1	0	0	
+AD	3040154	Carrer del Solà	residential	1	0	0	
+AD	3040154	Pont d'Ansalonga	residential	1	0	0	
+AD	3040609	Avinguda del Ravell	primary	1	0	0	
+AD	3040609	Carrer Sant Romà	residential	1	0	0	
+AD	3040686	Avinguda de François Mitterrand	primary	5	1	73	
+AD	3040686	Avinguda de Joan Martí	primary	4	6	87	
+AD	3040686	Avinguda Princep Benlloch		3	3	28	
+AD	3040686	Plaça del Consell	living_street	2	2	10	
+AD	3040686	Avinguda Príncep Benlloch	secondary	1	0	0	
+AD	3040686	Avinguda de Roudillac	residential	1	0	0	
+AD	3040686	Cami de l'Arena	residential	1	0	0	
+AD	3040686	Camí Ral	pedestrian	1	0	0	
+AD	3040686	Camí Roc de la Querola	residential	1	0	0	
+AD	3040686	Camí del Tremat	unclassified	1	0	0	
+AD	3040686	Carrer Bellavista	unclassified	1	0	0	
+AD	3040686	Carrer Hort de Godi	residential	1	0	0	
+AD	3040686	Carrer Major	living_street	1	0	0	
+AD	3040686	Carrer Mirador d'Encamp	residential	1	0	0	
+AD	3040686	Carrer Mossèn Ermengol	pedestrian	1	0	0	
+AD	3040686	Carrer Prat Gran de l'Areny	residential	1	0	0	
+AD	3040686	Carrer René Baulard	unclassified	1	0	0	
+AD	3040686	Carrer Sant Miquel	residential	1	0	0	
+AD	3040686	Carrer Santa Eulàlia	residential	1	0	0	
+AD	3040686	Carrer Torrent de l'Aviar	residential	1	0	0	
+AD	3040686	Carrer d'Englolasters	residential	1	0	0	
+AD	3040686	Carrer de la Canadilla	pedestrian	1	0	0	
+AD	3040686	Carrer de la Girauda	unclassified	1	0	0	
+AD	3040686	Carrer de la Molina	residential	1	0	0	
+AD	3041204	CG-2 - Avinguda Sant Joan de Caselles		3	14	18	
+AD	3041204	Avinguda de Sant Joan de Caselles	primary	1	0	0	
+AD	3041204	CG-2	primary	1	0	0	
+AD	3041204	CS-255	tertiary	1	0	0	
+AD	3041204	Callissa de Roda	residential	1	0	0	
+AD	3041204	Callissa de Som	residential	1	0	0	
+AD	3041204	Callissa del Carrer Major	pedestrian	1	0	0	
+AD	3041204	Camí de Mascaró	residential	1	0	0	
+AD	3041204	Camí de la Devallada	pedestrian	1	0	0	
+AD	3041204	Camí de les Vaques	residential	1	0	0	
+AD	3041204	Carrer Gran	residential	1	0	0	
+AD	3041204	Carrer Major	tertiary	1	0	0	
+AD	3041519	Carretera d'Arinsal	primary	13	8	96	
+AD	3041519	Els Formentals Parc	residential	8	0	0	
+AD	3041519	Cami Costa	residential	1	0	0	
+AD	3041519	Cami Del Casal	residential	1	0	0	
+AD	3041519	Camí Veinal	residential	1	0	0	
+AD	3041519	Carrer del Querol	living_street	1	0	0	
+AD	3041519	Carrer del Serradell	living_street	1	0	0	
+AD	3041519	Carrer la Grella	living_street	1	0	0	
+AD	3041519	Carretera General 3	primary	1	0	0	
+AD	3041519	Carretera Mas Ribafeta	tertiary	1	0	0	
+AD	3041519	Carretera d'Erts	primary	1	0	0	
+AD	3041519	Carretera de Prat Sobirans	residential	1	0	0	
+AD	3041543	Cami Ral	residential	1	0	0	
+AD	3041543	Camí Bosc de la Boixera	unclassified	1	0	0	
+AD	3041543	Camí de Padern	residential	1	0	0	
+AD	3041543	Camí de l'Església	residential	1	0	0	
+AD	3041543	Camí de les Callisses	residential	1	0	0	
+AD	3041543	Camí de les Majobames	residential	1	0	0	
+AD	3041543	Carrer de l'Alfals	residential	1	0	0	
+AD	3041543	Carretera Sant Cristofol	secondary	1	0	0	
+AD	3041543	Carretera de Beixalis	secondary	1	0	0	
+AD	3041543	Carretera de la Creu Blanca	secondary	1	0	0	
+AD	3041543	Carretera de les Moles	residential	1	0	0	
+AD	3041543	Pont d'Anyos	secondary	1	0	0	
+AD	3041563	Avinguda Meritxell	tertiary	32	10	110	
+AD	3041563	Avinguda de Tarragona		8	49	71	
+AD	3041563	Carrer Prat de la Creu	primary	8	15	88	
+AD	3041563	Avinguda Santa Coloma	primary	4	37	76	
+AD	3041563	Carrer Mossèn Cinto Verdaguer	tertiary	4	1	7	
+AD	3041563	Carrer de la Vall	residential	4	1	7	
+AD	3041563	Avinguda Doctor Mitjavila		3	1	15	
+AD	3041563	Avinguda de Santa Coloma	primary	3	87	106	
+AD	3041563	Avinguda del Princep Benlloch	tertiary	3	4	87	
+AD	3041563	Carrer Bonaventura Riberaygua		3	12	31	
+AD	3041563	Carrer Maria Plà		3	19	21	
+AD	3041563	Av. Príncep Benlloch		2	5	86	
+AD	3041563	Carrer Doctor Nequí	tertiary	2	7	12	
+AD	3041563	Carrer La Llacuna		2	3	7	
+AD	3041563	Carrer Pau Casals		2	8	51	
+AD	3041563	Carrer de l'Aigüeta		2	4	12	
+AD	3041563	Carrer de la Sardana		2	6	8	
+AD	3041563	Carretera de la Comella	secondary	2	2	162	
+AD	3041563	Plaça Príncep Benlloch		2	1	2	
+AD	3041563	Av. Santa Coloma	residential	1	0	0	
+AD	3041563	Avinguda de la Borda Nova	residential	1	0	0	
+AD	3041563	Baixador de l'Horta	pedestrian	1	0	0	
+AD	3041563	Callissa Ciutat Valira	pedestrian	1	0	0	
+AD	3041563	Camí Torrent del Forn	residential	1	0	0	
+AD	3041563	Camí Vell	residential	1	0	0	
+AD	3041563	Carrer Bisbe Príncep Iglésias	residential	1	0	0	
+AD	3041563	Carrer Bonavista	residential	1	0	0	
+AD	3041563	Carrer Camp Bastida	residential	1	0	0	
+AD	3041563	Carrer Closes de Guillemó	residential	1	0	0	
+AD	3041563	Carrer Dr. Molines	residential	1	0	0	
+AD	3041563	Carrer Dr. Vilanova	tertiary	1	0	0	
+AD	3041563	Carrer Esteve Dolsa Pujol	residential	1	0	0	
+AD	3041563	Carrer Fiter i Rossell	residential	1	0	0	
+AD	3041563	Carrer Font del Puial	residential	1	0	0	
+AD	3041563	Carrer Gil Torres	residential	1	0	0	
+AD	3041563	Carrer Mossèn Tremosa	tertiary	1	0	0	
+AD	3041563	Carrer Parc Guillemó	residential	1	0	0	
+AD	3041563	Carrer Pompeu Fabra	residential	1	0	0	
+AD	3041563	Carrer Prada Casadet	residential	1	0	0	
+AD	3041563	Carrer Prada de Moles	residential	1	0	0	
+AD	3041563	Carrer Pratd el Rull	residential	1	0	0	
+AD	3041563	Carrer Roc de l'Aldias	residential	1	0	0	
+AD	3041563	Carrer Roureda de Sansa	residential	1	0	0	
+AD	3041563	Carrer Solà del Jan	residential	1	0	0	
+AD	3041563	Carrer Terra Vella	residential	1	0	0	
+AD	3041563	Carrer de la Creu Grossa	residential	1	0	0	
+AD	3041563	Carrer de la Cúria	residential	1	0	0	
+AD	3041563	Carrer de la Grau	residential	1	0	0	
+AD	3041604	Carretera de la Rabassa	secondary	1	0	0	
+AD	3041604	Urb. Camp de la Font Podrida	residential	1	0	0	
+AD	3041604	Urb. Pont i les Extremes	residential	1	0	0	
+AD	3041604	Urb. el Bedràs	residential	1	0	0	

@@ -1,0 +1,798 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+NC	2137644	Déviation de Rouvray	secondary	1	0	0	
+NC	2137644	Nouveau Pont du Creek Pernod	secondary	1	0	0	
+NC	2137644	Pont de la Madeleine	secondary	1	0	0	
+NC	2137644	Pont du Creek Pernod	secondary	1	0	0	
+NC	2137644	Raccourci du Creek Pernod	secondary	1	0	0	
+NC	2137644	Route d'Unia	secondary	1	0	0	
+NC	2137644	Route de Yaté	secondary	1	0	0	
+NC	2137644	Route du Carénage	secondary	1	0	0	
+NC	2137748	Accès Usine de Vavouto	unclassified	1	0	0	
+NC	2137748	Accès gite Koniambo	residential	1	0	0	
+NC	2137748	Avenue du Village	tertiary	1	0	0	
+NC	2137748	Carrefour de Voh	primary	1	0	0	
+NC	2137748	Mines	unclassified	1	0	0	
+NC	2137748	Nouvelle Route de Gatope	tertiary	1	0	0	
+NC	2137748	Passage dans le lit de la rivière	unclassified	1	0	0	
+NC	2137748	Piste de la Vallée de la Coco	tertiary	1	0	0	
+NC	2137748	R.M. 11	tertiary	1	0	0	
+NC	2137748	R.M. 13	unclassified	1	0	0	
+NC	2137748	R.M. 25	tertiary	1	0	0	
+NC	2137748	R.M. 26	tertiary	1	0	0	
+NC	2137773	RM1	secondary	1	0	0	
+NC	2137773	RM3	secondary	1	0	0	
+NC	2137773	RM5	secondary	1	0	0	
+NC	2137773	RM6	secondary	1	0	0	
+NC	2137773	Route de la Baie de Kuto	tertiary	1	0	0	
+NC	2137773	Route du Rocher de Kanuméra	tertiary	1	0	0	
+NC	2137776	Rue Paul Bert	residential	8	4	11	
+NC	2137776	Rue Dumont-d'Urville	residential	5	5	21	
+NC	2137776	Rue Edouard Unger	tertiary	4	29	56	
+NC	2137776	Place La Constantine	pedestrian	1	0	0	
+NC	2137776	Rue Ali Raleb	tertiary	1	0	0	
+NC	2137776	Rue Berthelot	tertiary	1	0	0	
+NC	2137776	Rue Charles Floquet	residential	1	0	0	
+NC	2137776	Rue Febvrier-Despointes	residential	1	0	0	
+NC	2137776	Rue des Frères Dévaux	residential	1	0	0	
+NC	2137873	Route Provinciale Nord 10	primary	1	0	0	
+NC	2137873	Route de la Marina	tertiary	1	0	0	
+NC	2137873	Route du CDP	residential	1	0	0	
+NC	2137873	pont de Kokingone	primary	1	0	0	
+NC	2138103	Pont de La Dothio	secondary	1	0	0	
+NC	2138103	Pont de Thio	secondary	1	0	0	
+NC	2138103	Rond-Point de Thio	secondary	1	0	0	
+NC	2138103	Route Galliot	secondary	1	0	0	
+NC	2138103	Route Provinciale 10	secondary	1	0	0	
+NC	2138103	Route d'Ouroué	unclassified	1	0	0	
+NC	2138103	Route de Thio	secondary	1	0	0	
+NC	2138103	Route à Horaires	secondary	1	0	0	
+NC	2138103	Rue Mermoud	residential	1	0	0	
+NC	2138103	Rue du Centenaire	secondary	1	0	0	
+NC	2138285	RM 13	tertiary	1	0	0	
+NC	2138285	RM13	tertiary	1	0	0	
+NC	2138285	Route de Mebuet	tertiary	1	0	0	
+NC	2138285	Route de l'Hôtel Nengoné	unclassified	1	0	0	
+NC	2138285	Route du Terrain de Sport de Tuo	residential	1	0	0	
+NC	2138356	Pont Blivet	tertiary	1	0	0	
+NC	2138356	Pont Lachaud	tertiary	1	0	0	
+NC	2138356	Pont de La Sarraméa	secondary	1	0	0	
+NC	2138356	Pont de la Fonwhary	secondary	1	0	0	
+NC	2138356	RP 18	tertiary	1	0	0	
+NC	2138356	Route Ménard	unclassified	1	0	0	
+NC	2138356	Route de Canala	secondary	1	0	0	
+NC	2138356	Route de Koindé	residential	1	0	0	
+NC	2138356	Route de Petit Couli	unclassified	1	0	0	
+NC	2138356	Route de l'usine à café	unclassified	1	0	0	
+NC	2138356	Route des Cascades	tertiary	1	0	0	
+NC	2138356	Route dite Mathieu Brinon	residential	1	0	0	
+NC	2138522	Gué de la Nékliai	tertiary	1	0	0	
+NC	2138522	Pont du Creek Amik RT1	primary	1	0	0	
+NC	2138522	Route Territoriale 1	primary	1	0	0	
+NC	2138522	Route de Gohapin	tertiary	1	0	0	
+NC	2138555	Route Provinciale Nord 1	secondary	1	0	0	
+NC	2138555	Route de Poingam	tertiary	1	0	0	
+NC	2138555	Rue du 24 Septembre 2016	residential	1	0	0	
+NC	2138592	Avenue Paul Videault	primary	1	0	0	
+NC	2138592	Avenue de Pouembout	primary	1	0	0	
+NC	2138592	Impasse Daniel Flotat	residential	1	0	0	
+NC	2138592	Impasse Grimigni	residential	1	0	0	
+NC	2138592	Impasse Koniene 1	residential	1	0	0	
+NC	2138592	Impasse Pierre Gilles	unclassified	1	0	0	
+NC	2138592	Impasse de Tia	unclassified	1	0	0	
+NC	2138592	Impasse de l'Église	residential	1	0	0	
+NC	2138592	Impasse des Ateliers Municipaux	residential	1	0	0	
+NC	2138592	Impasse des Bancouliers	residential	1	0	0	
+NC	2138592	Impasse des Bois Noirs	residential	1	0	0	
+NC	2138592	Impasse des Caramboles	residential	1	0	0	
+NC	2138607	R.M.8 - Route de la Plage de Saint-Mathieu	unclassified	1	0	0	
+NC	2138607	RPN10	primary	1	0	0	
+NC	2138607	RPN7	primary	1	0	0	
+NC	2138607	Route Provinciale Nord 10	primary	1	0	0	
+NC	2138687	Pont de Ponérihouen	primary	1	0	0	
+NC	2138687	Route Territoriale 3	primary	1	0	0	
+NC	2138687	Route de Goyéta	tertiary	1	0	0	
+NC	2138687	Route de l'ex propriété Boullanger	unclassified	1	0	0	
+NC	2138687	Route de la Tchamba Rive Droite	unclassified	1	0	0	
+NC	2138717	Pont de Poindimié	primary	1	0	0	
+NC	2138717	Pont de Tyé	primary	1	0	0	
+NC	2138717	RM11	residential	1	0	0	
+NC	2138717	RM30	residential	1	0	0	
+NC	2138717	Rm11 pro	residential	1	0	0	
+NC	2138717	Rond-Point de Tiéti	primary	1	0	0	
+NC	2138717	Route de Tutuli	residential	1	0	0	
+NC	2138717	Route de la Amoa Rive droite	unclassified	1	0	0	
+NC	2138717	Route de la Amoa Rive gauche	tertiary	1	0	0	
+NC	2138717	Route des Écoles	unclassified	1	0	0	
+NC	2138717	VU1	residential	1	0	0	
+NC	2138717	VU10	residential	1	0	0	
+NC	2138717	VU12	tertiary	1	0	0	
+NC	2138717	VU13	tertiary	1	0	0	
+NC	2138717	VU14	residential	1	0	0	
+NC	2138717	VU15	residential	1	0	0	
+NC	2138717	VU16	residential	1	0	0	
+NC	2138717	VU17	residential	1	0	0	
+NC	2138717	VU18	residential	1	0	0	
+NC	2138717	VU19	residential	1	0	0	
+NC	2138717	VU24	residential	1	0	0	
+NC	2138717	VU25	residential	1	0	0	
+NC	2138717	VU26	residential	1	0	0	
+NC	2138717	VU27	residential	1	0	0	
+NC	2138981	Lotissement Scheffleras		57	3	56	
+NC	2138981	Route du Lotissement Naïa Nakuta		45	3	43	
+NC	2138981	Route Territoriale 1	primary	3	78	141	
+NC	2138981	Rue Georges CHAMPION	residential	3	1	48	
+NC	2138981	Rue Victor TESTARD	residential	3	97	97	
+NC	2138981	Lotissement Cubadda		2	15	16	
+NC	2138981	Rue Louis Pauty	residential	2	8	11	
+NC	2138981	Rue ZICO / BOUCLE NORD		2	5	13	
+NC	2138981	Rue du Zinc	residential	2	57	63	
+NC	2138981	Allée Claude Vincent	residential	1	0	0	
+NC	2138981	Allée Ernest Creugnet	residential	1	0	0	
+NC	2138981	Allée Zico	residential	1	0	0	
+NC	2138981	Allée de la Caulry	residential	1	0	0	
+NC	2138981	Allée des Frangipaniers	residential	1	0	0	
+NC	2138981	Allée des Galeries	residential	1	0	0	
+NC	2138981	Allée du Gattilier	residential	1	0	0	
+NC	2138981	Avenue Boutan Prolongée	residential	1	0	0	
+NC	2138981	Boulevard de l'Arène du Sud	secondary	1	0	0	
+NC	2138981	Chemin Marie Louis Genet	residential	1	0	0	
+NC	2138981	Chemin Patrick Chevalier	residential	1	0	0	
+NC	2138981	Chemin des Colliers Blancs	unclassified	1	0	0	
+NC	2138981	Chemin des Latérites	unclassified	1	0	0	
+NC	2138981	Chemin des Verts Coteaux	residential	1	0	0	
+NC	2138981	Gué	tertiary	1	0	0	
+NC	2139259	Pont du Diahot	primary	1	0	0	
+NC	2139259	RPN7	primary	1	0	0	
+NC	2139259	Route Provinciale Nord 7	primary	1	0	0	
+NC	2139259	Route de Ballagham	unclassified	1	0	0	
+NC	2139259	Route de Bondé	tertiary	1	0	0	
+NC	2139259	Route de la Limite	unclassified	1	0	0	
+NC	2139259	Tour de Bondé	tertiary	1	0	0	
+NC	2139259	Tribu de Parawa	unclassified	1	0	0	
+NC	2139508	Avenue James Cook	secondary	1	0	0	
+NC	2139508	Chemin des Écoles	unclassified	1	0	0	
+NC	2139508	Rue Doui Matayo Wetta	unclassified	1	0	0	
+NC	2139508	Rue Félix Raoul Thomas	unclassified	1	0	0	
+NC	2139508	Rue Galet Kiolet Nea	residential	1	0	0	
+NC	2139508	Rue Kataouï	residential	1	0	0	
+NC	2139508	Rue Kowi Bouillant	residential	1	0	0	
+NC	2139508	Rue du Docteur Eschembrenner	tertiary	1	0	0	
+NC	2139508	Rue du Docteur Jubin	residential	1	0	0	
+NC	2139521	Rue Arnold Daly	tertiary	218	15	246	
+NC	2139521	Rue Jacques Iékawé	primary	185	139	363	
+NC	2139521	Rue du 24 Septembre	tertiary	149	8	137	
+NC	2139521	Rue Georges Lèques		134	21	209	
+NC	2139521	Rue de Charleroi	tertiary	127	5	94	
+NC	2139521	Route de l'Anse Vata	primary	122	8	143	
+NC	2139521	Route du Port Despointes	primary	115	6	100	
+NC	2139521	Rue Henri Boissery		104	6	150	
+NC	2139521	Rue Ulm		102	9	110	
+NC	2139521	Rue Louis Leques		90	2	36	
+NC	2139521	Promenade Roger Laroque	primary	89	7	142	
+NC	2139521	Rue Armand Ohlen	secondary	88	200	352	
+NC	2139521	Rue du 5 Mai	secondary	88	5	78	
+NC	2139521	Rue Honoré Pantaloni		87	10	95	
+NC	2139521	Rue Roger Gervolino	primary	86	9	209	
+NC	2139521	Rue André Capiez	residential	83	5	76	
+NC	2139521	Rue Jean Le Chenadec		82	3	47	
+NC	2139521	Rue Voltaire		79	4	77	
+NC	2139521	Avenue Koenig		77	63	176	
+NC	2139521	Route des Trois Baies		76	6	88	
+NC	2139521	Rue Paul Bloc		76	7	80	
+NC	2139521	Rue Auguste Bénébig	primary	74	50	193	
+NC	2139521	Rue Patrick Djiram		73	3	61	
+NC	2139521	Rue du Docteur Roland Germain		73	5	86	
+NC	2139521	Route de la Baie des Dames	primary	72	4	277	
+NC	2139521	Rue Bataille	residential	72	2	53	
+NC	2139521	Rue du Pasteur Marc Lacheret	residential	71	2	69	
+NC	2139521	Rue René Milliard	residential	70	4	68	
+NC	2139521	Rue du Révérend Père de Mijolla		67	6	79	
+NC	2139521	Rue Clemen		66	8	92	
+NC	2139521	Rue Paul Boissery		66	4	66	
+NC	2139521	Rue Paul Verlaine	residential	65	5	63	
+NC	2139521	Rue Alfred de Vigny	residential	64	4	60	
+NC	2139521	Rue Baudelaire	residential	64	5	78	
+NC	2139521	Rue Gilbert Allègre		64	4	64	
+NC	2139521	Rue Le Prédour	residential	64	3	63	
+NC	2139521	Rue du Révérend Père Deloire	residential	63	4	115	
+NC	2139521	Rue du Maréchal Juin	residential	62	3	65	
+NC	2139521	Rue Georges Guillermet		60	2	63	
+NC	2139521	Rue des Camélias		57	3	79	
+NC	2139521	Rue Boutmy		56	6	70	
+NC	2139521	Rue du Rhône	residential	55	4	55	
+NC	2139521	Rue Auer	tertiary	54	7	57	
+NC	2139521	Rue Soeur Othilde		53	2	59	
+NC	2139521	Rue des Iris		53	3	51	
+NC	2139521	Rue Albert 1er	residential	52	2	45	
+NC	2139521	Rue Antoine Griscelli		52	5	57	
+NC	2139521	Rue Léon Trubert		52	3	51	
+NC	2139521	Rue des Promeneurs		52	4	58	
+NC	2139521	Rue du Révérend Père de Fenoyl	residential	52	3	52	
+NC	2139521	Avenue Bonaparte		51	58	123	
+NC	2139521	Rue Hector Berlioz	residential	51	6	98	
+NC	2139521	Rue La Fontaine		51	6	53	
+NC	2139521	Rue La Forte	residential	50	6	72	
+NC	2139521	Rue Maurice Herzog	residential	50	5	93	
+NC	2139521	Rue de la Riviéra	tertiary	49	9	71	
+NC	2139521	Rue Edouard Dalmayrac		48	5	82	
+NC	2139521	Rue Fernand Forest	tertiary	48	4	52	
+NC	2139521	Rue Georges Pisier		48	3	46	
+NC	2139521	Rue Pierre Loti	residential	48	3	47	
+NC	2139521	Rue du Rhin		48	4	56	
+NC	2139521	Rue Chitty		47	4	49	
+NC	2139521	Rue Rédika		47	3	59	
+NC	2139521	Rue Edmond Paulin		46	3	45	
+NC	2139521	Rue José-Maria de Heredia	residential	46	4	58	
+NC	2139521	Rue Patrice Nielly		46	2	102	
+NC	2139521	Rue Romain Rolland	residential	46	6	50	
+NC	2139521	Rue de la Gazelle		46	3	46	
+NC	2139521	Rue du Commandant Paul Déméné	residential	46	4	47	
+NC	2139521	Rue Jules Verne	residential	44	4	45	
+NC	2139521	Rue La Sarcelle	residential	44	5	53	
+NC	2139521	Rue Louis Hénin		44	2	48	
+NC	2139521	Rue des Capucines		44	5	50	
+NC	2139521	Route du Square		43	3	42	
+NC	2139521	Rue Jean Arnould		43	2	49	
+NC	2139521	Rue de l'Alezan	residential	43	297	1438	
+NC	2139521	Rue du Commandant de Mersuay	residential	43	3	50	
+NC	2139521	Rue Pierre Lecole		42	7	55	
+NC	2139521	Rue du Docteur Drayton		41	8	44	
+NC	2139521	Rue du Général Gallieni	primary	41	2	34	
+NC	2139521	Rue Eugène Levesque		40	6	43	
+NC	2139521	Rue Faustine Bernut		40	5	52	
+NC	2139521	Rue Hippolyte Passy	residential	40	6	47	
+NC	2139521	Rue Sylvain Audet		40	2	45	
+NC	2139521	Rue de la Boudeuse	residential	40	2	59	
+NC	2139521	Rue des Arts et Métiers		40	1	48	
+NC	2139521	Rue des Roses	residential	40	2	51	
+NC	2139521	Rue des Roussettes		40	2	42	
+NC	2139521	Rue Tindale		39	2	41	
+NC	2139521	Route de Sainte-Marie	residential	38	2	38	
+NC	2139521	Rue Auguste Rolland		38	2	39	
+NC	2139521	Rue Bouquet de la Grye	residential	38	2	30	
+NC	2139521	Rue Caea Drudi Dit Doudi		38	1	49	
+NC	2139521	Rue Chateaubriand		38	2	60	
+NC	2139521	Rue Henri Bonneaud	residential	38	29	75	
+NC	2139521	Rue Jean Mariotti	tertiary	38	7	54	
+NC	2139521	Rue Merano	residential	38	1	31	
+NC	2139521	Rue Richard Song		38	2	43	
+NC	2139521	Rue Pierre Reverce	residential	37	4	54	
+NC	2139521	Rue de Lifou		37	2	37	
+NC	2139544	Route de Yahoué	secondary	87	642	2842	
+NC	2139544	Rue Paul Gauguin	residential	79	107	1447	
+NC	2139544	Rue des Aréquiers	residential	48	41	355	
+NC	2139544	Rue des Moratia	residential	47	65	564	
+NC	2139544	Rue Rp Montrouzier		35	26	752	
+NC	2139544	Rue Wolfgang Amadeus Mozart	residential	34	59	232	
+NC	2139544	Rue des Dattiers	residential	34	28	239	
+NC	2139544	Rue des Papayers	residential	33	98	522	
+NC	2139544	Rue de la Cafeirie		32	48	506	
+NC	2139544	Rue de l'Astrolabe	residential	31	46	526	
+NC	2139544	Rue du Sextant	residential	31	39	474	
+NC	2139544	Rue des Langues de Boeuf	residential	30	46	388	
+NC	2140066	La Corniche du Mont Dore	secondary	206	634	6935	
+NC	2140066	Rue des Cocotiers	tertiary	135	186	2123	
+NC	2140066	Rue Victorin Boewa	tertiary	104	235	1519	
+NC	2140066	Rue des Mimosas	residential	100	69	1348	
+NC	2140066	Route du Sud	secondary	85	89	2386	
+NC	2140066	Rue du Vallon Dore	residential	66	71	1960	
+NC	2140066	Rue Jean Gabin	tertiary	63	59	1299	
+NC	2140066	Rue Vaima	residential	62	115	915	
+NC	2140066	Rue des Cerisiers Bleus	residential	61	91	2580	
+NC	2140066	Rue du Pic Kou	residential	60	257	2122	
+NC	2140066	Rue des Palourdes	residential	57	46	924	
+NC	2140066	Rue Porte Dore	residential	54	98	1369	
+NC	2140066	Rue des Grives	residential	54	36	826	
+NC	2140066	Avenue des Deux Baies	secondary	50	379	6248	
+NC	2140066	Rue des Sources-Daniel Lefort		50	65	628	
+NC	2140066	Rue du Hameau Saint-Michel	residential	50	52	409	
+NC	2140066	Rue du Rp Rougeyron		50	45	711	
+NC	2140066	Rue des Martins Pêcheurs	residential	49	68	707	
+NC	2140066	Rue des Roseaux	residential	49	60	996	
+NC	2140066	Rue des Tamaris	residential	48	57	653	
+NC	2140066	Rue des Trois Banians	tertiary	48	49	1036	
+NC	2140066	Route de Mouirange	secondary	47	198	2513	
+NC	2140066	Rue des Pandanus	residential	46	94	1759	
+NC	2140066	Rue Algaoué	residential	45	40	753	
+NC	2140066	Rue des Allamandas-Timi Schmidt	residential	44	34	609	
+NC	2140066	Rue des Bougainvilliers		44	71	593	
+NC	2140066	Rue du Val Boise		43	70	748	
+NC	2140066	Rue des Hirondelles	residential	42	79	643	
+NC	2140066	Rue Henri Lafleur	residential	41	33	286	
+NC	2140066	Rue des Crêtes	residential	40	69	731	
+NC	2140066	Rue des Frégates	residential	40	54	678	
+NC	2140066	Rue des Tulipiers	tertiary	40	81	754	
+NC	2140066	Rue du Marais	residential	40	157	479	
+NC	2140066	Rue de la Colline	residential	39	98	843	
+NC	2140066	Rue des Bourbons Rouges	residential	39	76	502	
+NC	2140066	Rue des Roches Noires	residential	39	53	715	
+NC	2140066	Rue Miki Miki	residential	38	47	501	
+NC	2140066	Rue des Tabous	residential	38	72	679	
+NC	2140066	Rue du Panorama	residential	38	42	490	
+NC	2140066	Rue des Gaiacs		37	43	633	
+NC	2140066	Route du Vallon Dore	secondary	36	185	4298	
+NC	2140066	Rue Louis Theodore Berard		36	108	809	
+NC	2140066	Rue André Rousseau	residential	35	1	382	
+NC	2140066	Route de Saint Louis	secondary	34	568	3520	
+NC	2140066	Rue Bora Bora	residential	34	37	710	
+NC	2140066	Rue des Poinsettias	residential	34	31	519	
+NC	2140066	Rue Gaétan Brini	residential	33	102	606	
+NC	2140066	Rue Leroy	residential	33	33	340	
+NC	2140110	Pont de Moindou RT1	primary	1	0	0	
+NC	2140110	Route Territoriale 1	primary	1	0	0	
+NC	2140110	Route de Boghen	tertiary	1	0	0	
+NC	2140110	Route de Moméa	tertiary	1	0	0	
+NC	2140110	Route de Tanghi	tertiary	1	0	0	
+NC	2140110	Route de Tendéa	tertiary	1	0	0	
+NC	2140110	Route de l'Ancienne Chapelle	residential	1	0	0	
+NC	2140110	Route de l'Arémo	residential	1	0	0	
+NC	2140110	Route de l'École	residential	1	0	0	
+NC	2140110	Route de la Vallée	tertiary	1	0	0	
+NC	2140110	Route des Charbonnages	tertiary	1	0	0	
+NC	2140110	Route du Fort Téremba	tertiary	1	0	0	
+NC	2140450	Route de Ménakou	tertiary	1	0	0	
+NC	2140450	Route de Rawa	tertiary	1	0	0	
+NC	2140450	Route du Depotoir de Maré	unclassified	1	0	0	
+NC	2140450	Route du Saut du Guerrier	unclassified	1	0	0	
+NC	2140466	Impasse E. Jeannin	residential	1	0	0	
+NC	2140466	Impasse L. Anger	residential	1	0	0	
+NC	2140466	Pont de Fonwhary RT1	primary	1	0	0	
+NC	2140466	Pont de La Foa	primary	1	0	0	
+NC	2140466	Rond-Point de La Foa	primary	1	0	0	
+NC	2140466	Route Ménard	unclassified	1	0	0	
+NC	2140466	Route aux Boeufs	tertiary	1	0	0	
+NC	2140466	Route d'Amboa	tertiary	1	0	0	
+NC	2140466	Route de Canala	secondary	1	0	0	
+NC	2140466	Route de Dogny	unclassified	1	0	0	
+NC	2140466	Route de Focola	residential	1	0	0	
+NC	2140466	Route de Koindé	residential	1	0	0	
+NC	2140558	Rue Pierre Boudoube	residential	43	33	135	
+NC	2140558	Rue Julien Pacilly	residential	36	2	112	
+NC	2140558	Rue Jean Lemaitre	residential	29	6	140	
+NC	2140558	Rue Camille Girard	residential	23	1	37	
+NC	2140558	Rue Roger Trouillot	residential	23	3	49	
+NC	2140558	Rue Louis Cerutti	residential	16	85	101	
+NC	2140558	Rue Gaston Bouteille	residential	15	55	69	
+NC	2140558	Impasse Henri Mignerey	residential	10	19	34	
+NC	2140558	Impasse J. Baudeau	residential	6	29	42	
+NC	2140558	Rue A. Hannequin	residential	6	30	43	
+NC	2140558	Rue Jacques Heyman	residential	6	23	28	
+NC	2140558	Avenue George Bodoux	tertiary	1	0	0	
+NC	2140691	Rue Auguste Henriot	residential	5	213	474	
+NC	2140691	Rue Monnier	residential	4	213	432	
+NC	2140691	Rue Paul Reuillard	residential	3	230	256	
+NC	2140691	Rue Robert Saggio	residential	2	333	382	
+NC	2140691	Avenue Foué	residential	1	0	0	
+NC	2140691	Avenue Jimmy Welepane	unclassified	1	0	0	
+NC	2140691	Avenue du Lapita	primary	1	0	0	
+NC	2140691	Impasse Armine	residential	1	0	0	
+NC	2140691	Impasse Buses	residential	1	0	0	
+NC	2140691	Impasse Lucien Allard	residential	1	0	0	
+NC	2140691	Impasse MOINEAUX	residential	1	0	0	
+NC	2140691	Impasse Moäü	residential	1	0	0	
+NC	2140915	Route Territoriale 1	primary	2	41	146	
+NC	2140915	Avenue de Bwapanu	primary	1	0	0	
+NC	2140915	Avenue de Jana	unclassified	1	0	0	
+NC	2140915	Impasse des deux sapins	residential	1	0	0	
+NC	2140915	Impasse du Kaala	residential	1	0	0	
+NC	2140915	Pont de la Iouanga RT1	primary	1	0	0	
+NC	2140915	Route de Baoui	tertiary	1	0	0	
+NC	2140915	Rue des Bois de Fer	residential	1	0	0	
+NC	2140915	Rue des Flamboyants	residential	1	0	0	
+NC	2140915	Rue des Hibiscus	residential	1	0	0	
+NC	2140915	Rue des Lauriers	residential	1	0	0	
+NC	2140915	Rue des Manguiers	residential	1	0	0	
+NC	2141006	Détourné de Paraoué	residential	1	0	0	
+NC	2141006	Pont de la Houailou	primary	1	0	0	
+NC	2141006	Pont de la Tûû	primary	1	0	0	
+NC	2141006	Rond-Point de Houailou	primary	1	0	0	
+NC	2141006	Route Provinciale Nord 3	secondary	1	0	0	
+NC	2141006	Route Territoriale 3	primary	1	0	0	
+NC	2141006	Route de Kamoui	residential	1	0	0	
+NC	2141006	Route de La Tûû	unclassified	1	0	0	
+NC	2141006	Route de Néaoua	tertiary	1	0	0	
+NC	2141006	Route de l'Aérodrome	unclassified	1	0	0	
+NC	2141006	Route du Cimetière de Néaoua	residential	1	0	0	
+NC	2141006	Route du Col des Roussettes	primary	1	0	0	
+NC	2141050	Pont de Lindéralique	residential	1	0	0	
+NC	2141050	Pont de Tanghène	primary	1	0	0	
+NC	2141050	Route Provinciale Nord 10	primary	1	0	0	
+NC	2141050	Route de Kavatch	tertiary	1	0	0	
+NC	2141050	Route de Koulnoué	residential	1	0	0	
+NC	2141050	Route de Lindéralique	residential	1	0	0	
+NC	2141305	Route Principale de Ouvéa	secondary	1	0	0	
+NC	2141305	Route des Falaises de Lekiny	tertiary	1	0	0	
+NC	2141394	Rue de la Seine	residential	97	6	100	
+NC	2141394	Avenue Johannes Brahms	residential	85	10	90	
+NC	2141394	Route Territoriale 1	primary	78	28	889	
+NC	2141394	Rue Ludwig van Beethoven	residential	58	3	53	
+NC	2141394	Rue La Bayonnaise	residential	54	3	63	
+NC	2141394	Rue Georges Bizet	residential	51	3	52	
+NC	2141394	Rue Marie Curie		51	2	48	
+NC	2141394	Avenue Frédéric Chopin	residential	48	2	49	
+NC	2141394	Rue des Acacias		46	3	58	
+NC	2141394	Avenue Numa Joubert		44	11	96	
+NC	2141394	Rue des Aloës		44	6	51	
+NC	2141394	Rue des Mulets		44	3	49	
+NC	2141394	Rue Jacques Monod		39	4	76	
+NC	2141394	Impasse Bela Bartok	residential	38	2	42	
+NC	2141394	Route de Yahoué		38	5	4163	
+NC	2141394	Rue le Pacifique	residential	37	2	43	
+NC	2141394	Rue de l'Amborella		36	5	32	
+NC	2141394	Rue Jacques Cartier		35	11	54	
+NC	2141394	Rue Maria Callas		35	3	37	
+NC	2141394	Rue Nicolas Poussin		34	2	52	
+NC	2141394	Rue de la Havraise		34	4	49	
+NC	2141394	Rue Gérard de Nerval		33	2	39	
+NC	2141394	Rue Charles Perrault		29	3	39	
+NC	2141394	Avenue d'Auteuil		28	4	98	
+NC	2141394	Rue Enrico Caruso		28	2	29	
+NC	2141394	Rue José-Maria de Heredia		28	4	35	
+NC	2141394	Rue Lucien Fuguere	residential	28	2	30	
+NC	2141394	Rue Paul Gauguin		28	8	59	
+NC	2141394	Rue des Acajous		27	2	34	
+NC	2141394	Avenue Antoine Becquerel	tertiary	26	2	48	
+NC	2141394	Impasse Fauré	residential	25	2	32	
+NC	2141394	Rue du Banian		25	2	33	
+NC	2141394	Avenue des Voyages	residential	24	167	188	
+NC	2141394	Route de Koé Prolongée	tertiary	24	233	529	
+NC	2141394	Rue Jules Romains		24	2	26	
+NC	2141394	Rue Piotr Ilitch Tchaikovski	residential	24	4	33	
+NC	2141394	Rue Florindo Paladini		23	8	37	
+NC	2141394	Rue Guillaume Apollinaire		23	3	23	
+NC	2141394	Rue des Araucarias		23	2	24	
+NC	2141394	Rue François Villon		22	3	26	
+NC	2141394	Rue Vanikoro		22	3	22	
+NC	2141394	Avenue Victor Hugo		21	4	61	
+NC	2141394	Avenue de la Vallée		21	6	57	
+NC	2141394	Impasse Aristide Briand		21	3	31	
+NC	2141394	Rue Charles Baudelaire		21	3	24	
+NC	2141394	Rue Jacques Prévert		21	4	24	
+NC	2141394	Rue des Phoenix		21	1	17	
+NC	2141394	Route du Bassin de Koé	residential	20	5	80	
+NC	2141658	Pont de la Crouen	secondary	1	0	0	
+NC	2141658	Route Provinciale Nord 3	secondary	1	0	0	
+NC	2141658	Route de Ciu	residential	1	0	0	
+NC	2141658	Route de la Station Thermale	residential	1	0	0	
+NC	2141658	Rue Adrien MILLET	residential	1	0	0	
+NC	2141658	Rue Emile NECHORO	residential	1	0	0	
+NC	2141658	Rue Fritz Persan	residential	1	0	0	
+NC	2141658	Rue Henri Mayet	residential	1	0	0	
+NC	2141658	Rue Henry DAVID	residential	1	0	0	
+NC	2141658	Rue Louis THIONA	residential	1	0	0	
+NC	2141658	Rue Malo Cawidroné	residential	1	0	0	
+NC	2141658	Rue de MÉHOUÉ	unclassified	1	0	0	
+NC	2141714	Route Territoriale 1	primary	4	75	7424	
+NC	2141714	Chemin Rural 35		2	191	191	
+NC	2141714	La Roche		2	4323	7739	
+NC	2141714	RUE SIMONE DREMON		2	44	200	
+NC	2141714	Route du Poste de Mer	residential	2	4468	4666	
+NC	2141714	Impasse Albert Blum	residential	1	0	0	
+NC	2141714	Impasse Victoire Pennel	residential	1	0	0	
+NC	2141714	Impasse des Cocotiers	residential	1	0	0	
+NC	2141714	Impasse des Glycines	residential	1	0	0	
+NC	2141714	Pont de La Douencheur	tertiary	1	0	0	
+NC	2141714	Pont de la Boghen	residential	1	0	0	
+NC	2141714	Pont de la Néra	primary	1	0	0	
+NC	2141714	Route Basse Pouéo	residential	1	0	0	
+NC	2141714	Route Vidoire	residential	1	0	0	
+NC	2141714	Route de Boghen	tertiary	1	0	0	
+NC	2141714	Route de Néra	residential	1	0	0	
+NC	2141714	Route de Poé	tertiary	1	0	0	
+NC	2141714	Route de la Pointe de Nessadiou	tertiary	1	0	0	
+NC	2141714	Route de la Pointe de Nessadiou (RM18)	tertiary	1	0	0	
+NC	2141714	Route de la Vallée Colomina	unclassified	1	0	0	
+NC	2141714	Route des Frères	residential	1	0	0	
+NC	2141714	Route du Dock	residential	1	0	0	
+NC	2141714	Route du Parc d'Enfants	residential	1	0	0	
+NC	2141714	Rue Antoine Gricelli	residential	1	0	0	
+NC	2141722	Avenue de Port Ouenghi	residential	3	7	83	
+NC	2141722	CR4	residential	1	0	0	
+NC	2141722	Pont de la Ouaméni RM1	tertiary	1	0	0	
+NC	2141722	Route de Gilles	tertiary	1	0	0	
+NC	2141722	Route de Nassirah	residential	1	0	0	
+NC	2141722	Route de Thio	secondary	1	0	0	
+NC	2141722	Route du Golf de la Ouenghi	unclassified	1	0	0	
+NC	2141722	Route du Quai	unclassified	1	0	0	
+NC	2141722	Rue des Araucarias	residential	1	0	0	
+NC	2141722	Rue des Banians	residential	1	0	0	
+NC	2141722	Rue des Bois Noirs	residential	1	0	0	
+NC	2141722	Rue des Eucalyptus	residential	1	0	0	
+NC	2141894	Route du Port Despointes		12	51	71	
+NC	2141894	Rue Bouarate	residential	1	0	0	
+NC	2141894	Rue Monseigneur Bresson	residential	1	0	0	
+NC	2141894	Rue Monseigneur Fraysse	residential	1	0	0	
+NC	2141894	Rue Mère Jeanne Jugan	residential	1	0	0	
+NC	2141894	Rue du Frère Arthur	residential	1	0	0	
+NC	2141894	Rue du Frère Marmoiton	residential	1	0	0	
+NC	2141894	Rue du Révérend Père Rougeyron	residential	1	0	0	
+NC	10227143	Allée Bellevue		18	1	26	
+NC	10227143	Rue du Révérend Père François Luneau	residential	16	2	25	
+NC	10227143	Rue Gabriel Busiau	residential	14	2	14	
+NC	10227143	Rue Jules Garnier	primary	13	9	41	
+NC	10227143	Rue Henri Dewez		8	2	16	
+NC	10227143	Allée des Lauriers	residential	7	1	8	
+NC	10227143	Rue Henri Dunant	tertiary	4	1	10	
+NC	10227143	Rue Charles Monin	residential	3	4	8	
+NC	10227143	Rue Dame Lechanteur	residential	1	0	0	
+NC	10227143	Rue Dimitri Ignatieff	residential	1	0	0	
+NC	10227143	Rue Georges Thomas	residential	1	0	0	
+NC	10227143	Rue Marcellin Lacabanne	tertiary	1	0	0	
+NC	10227145	Rue Paul Montchovet	residential	1	0	0	
+NC	10227145	Rue Tardy de Montravel	residential	1	0	0	
+NC	10861676	Rue du Luxembourg	tertiary	21	3	28	
+NC	10861676	Rue Loriot de Rouvray	residential	14	3	26	
+NC	10861676	Promenade Roger Laroque	primary	13	25	127	
+NC	10861676	Rue Henri Dewez	residential	8	3	20	
+NC	10861676	Rue Paul Boutonnet	tertiary	7	2	14	
+NC	10861676	Rue Pierre Sauvan	residential	4	4	15	
+NC	10861676	Route de l'Anse Vata	primary	3	121	131	
+NC	10861676	Rond-point de l'aquarium	primary	1	0	0	
+NC	10861676	Route de l'Aquarium / Rue Michel Laurieux	primary	1	0	0	
+NC	10861676	Rue Beausoleil	residential	1	0	0	
+NC	10861676	Rue Blaise Pascal	residential	1	0	0	
+NC	10861676	Rue Boulari	tertiary	1	0	0	
+NC	10861677	Rue Edouard Pentecost	tertiary	43	17	63	
+NC	10861677	Rue Emely Pentecost	residential	42	8	55	
+NC	10861677	Rue Jules Calimbre	residential	37	3	52	
+NC	10861677	Rue Michel Kauma	tertiary	33	40	80	
+NC	10861677	Rue Paul Imbault	residential	17	2	43	
+NC	10861677	Rue Jean Michon	residential	14	3	18	
+NC	10861677	Rue du Docteur Édouard Trubert	residential	13	14	37	
+NC	10861677	Rue Utrillo	residential	12	1	13	
+NC	10861677	Impasse Blaise	residential	11	2	16	
+NC	10861677	Rue Renoir	residential	10	19	28	
+NC	10861677	Rue du Docteur René Catala	residential	10	2	21	
+NC	10861677	Rue Émile Castex	residential	10	0	0	
+NC	10861871	Route des Artifices	residential	1	0	0	
+NC	10861871	Rue Louis Flize	tertiary	1	0	0	
+NC	10861871	Rue de la Frégate Nivôse	residential	1	0	0	
+NC	11103495	Route de la Baie des Dames	secondary	1	0	0	
+NC	11103495	Rue Copernic	residential	1	0	0	
+NC	11103495	Rue Edmond Paulin	residential	1	0	0	
+NC	11103495	Rue Georges Potter	residential	1	0	0	
+NC	11103495	Rue Louis Kaddour	residential	1	0	0	
+NC	11103495	Rue Raymond Chautard	residential	1	0	0	
+NC	11103495	Rue du Saint-Antoine	unclassified	1	0	0	
+NC	11103499	Rue Bourdinat	residential	2	7	9	
+NC	11103499	Rond-Point du Collège de Kaméré	residential	1	0	0	
+NC	11103499	Route de la Baie des Dames	secondary	1	0	0	
+NC	11103499	Rue Boutmy	residential	1	0	0	
+NC	11103499	Rue Marcel Petron	residential	1	0	0	
+NC	11103499	Rue Maurice Bichon	tertiary	1	0	0	
+NC	11103499	Rue Monseigneur Chanrion	residential	1	0	0	
+NC	11103499	Rue Oules	tertiary	1	0	0	
+NC	11103499	Rue Patrice Nielly	residential	1	0	0	
+NC	11103499	Rue Raphael Pidjot	residential	1	0	0	
+NC	11103499	Rue Simon	residential	1	0	0	
+NC	11103499	Rue Varin	tertiary	1	0	0	
+NC	11185983	Rue des Frères Charpentier	residential	2	8	10	
+NC	11185983	Rond-Point de Mont Ravel	primary	1	0	0	
+NC	11185983	Rue Auguste Blanchet	residential	1	0	0	
+NC	11185983	Rue Edouard Unger	secondary	1	0	0	
+NC	11185983	Rue Jacques Iékawé	primary	1	0	0	
+NC	11185983	Rue Léopold de Pritzbuer	residential	1	0	0	
+NC	11185983	Rue Maximilien Berthelin	residential	1	0	0	
+NC	11185983	Rue Noël Pardon	residential	1	0	0	
+NC	11185983	Rue d'Ouvéa	residential	1	0	0	
+NC	11185983	Rue de Karagreu	residential	1	0	0	
+NC	11185983	Rue de Maré	residential	1	0	0	
+NC	11185983	Rue de Pothée	residential	1	0	0	
+NC	11185984	Rond-Point Ohlen / Artigue	secondary	1	0	0	
+NC	11185984	Rond-Point du Collège des Portes de Fer	secondary	1	0	0	
+NC	11185984	Rue Adolphe et Louise Laplagne	residential	1	0	0	
+NC	11185984	Rue Armand Ohlen	secondary	1	0	0	
+NC	11185984	Rue Cécile Peronnet	tertiary	1	0	0	
+NC	11185984	Rue Félix Trubert	residential	1	0	0	
+NC	11185984	Rue Jean-Jacques Rousseau	residential	1	0	0	
+NC	11185984	Rue José-Maria de Heredia	tertiary	1	0	0	
+NC	11185984	Rue Jules Harbulot	residential	1	0	0	
+NC	11185984	Rue Louis Beauvilliers	residential	1	0	0	
+NC	11185984	Rue Louis Colette	residential	1	0	0	
+NC	11185984	Rue Noël Bastien	residential	1	0	0	
+NC	11185986	Avenue de la Baie de Koutio	unclassified	1	0	0	
+NC	11185986	Impasse Faraday	residential	1	0	0	
+NC	11185986	Rond-Point Kaméré / Trois Baies	tertiary	1	0	0	
+NC	11185986	Rond-Point de Kaméré	secondary	1	0	0	
+NC	11185986	Rond-Point de Tindu	secondary	1	0	0	
+NC	11185986	Route de Kaméré	tertiary	1	0	0	
+NC	11185986	Route de l'Esplanade	residential	1	0	0	
+NC	11185986	Route de la Baie des Dames	secondary	1	0	0	
+NC	11185986	Route des Trois Baies	tertiary	1	0	0	
+NC	11185986	Route du Square	residential	1	0	0	
+NC	11185986	Rue Antoine Bonnace	residential	1	0	0	
+NC	11185986	Rue Copernic	residential	1	0	0	
+NC	11956101	Rue du Collier Blanc	residential	2	20	29	
+NC	11956101	Avenue Bonaparte	secondary	1	0	0	
+NC	11956101	Avenue Frédéric Chopin	residential	1	0	0	
+NC	11956101	Impasse des Kaoris	residential	1	0	0	
+NC	11956101	Pont de Ko We Kara - Ampère	secondary	1	0	0	
+NC	11956101	Rond-Point Ko We Kara	secondary	1	0	0	
+NC	11956101	Rond-Point de l'Etrier	secondary	1	0	0	
+NC	11956101	Route Provinciale du Normandie E-1	primary	1	0	0	
+NC	11956101	Rue Albani	residential	1	0	0	
+NC	11956101	Rue Albert Blum	residential	1	0	0	
+NC	11956101	Rue Amiral Nimitz	residential	1	0	0	
+NC	11956101	Rue Ampère	secondary	1	0	0	
+NC	11956101	Rue Antoine Griscelli	residential	1	0	0	
+NC	11956101	Rue Armand Wenegei	residential	1	0	0	
+NC	11956101	Rue Auguste Rolland	residential	1	0	0	
+NC	11956101	Rue Bossuet	residential	1	0	0	
+NC	11956101	Rue Charles Ohlen	residential	1	0	0	
+NC	11956101	Rue Chateaubriand	residential	1	0	0	
+NC	11956101	Rue Douglas Mac Arthur	residential	1	0	0	
+NC	11956101	Rue Elie Laffete	residential	1	0	0	
+NC	11956101	Rue Enrico Caruso	residential	1	0	0	
+NC	11956101	Rue Eugène Delacroix	residential	1	0	0	
+NC	11956101	Rue Eugène Levesque	tertiary	1	0	0	
+NC	11956101	Rue Eugène Mamelin	residential	1	0	0	
+NC	11956105	Allée Henri Toune	residential	1	0	0	
+NC	11956105	Rue Arnold Daly	tertiary	1	0	0	
+NC	11956105	Rue Le Carrour	residential	1	0	0	
+NC	11956105	Rue Millot	residential	1	0	0	
+NC	11956105	Rue Paul Boissery	residential	1	0	0	
+NC	11956105	Rue Rédika	residential	1	0	0	
+NC	11956105	Rue Réveillon	residential	1	0	0	
+NC	11956105	Rue Tuband	residential	1	0	0	
+NC	11956105	Rue de la Monique	residential	1	0	0	
+NC	11956106	Rue Roger Gervolino	primary	2	49	49	
+NC	11956106	Rond-Point de Magenta Plage	primary	1	0	0	
+NC	11956106	Ront-point de Prony	primary	1	0	0	
+NC	11956106	Route des Tours	residential	1	0	0	
+NC	11956106	Rue Albert Ferre	residential	1	0	0	
+NC	11956106	Rue Albert Satragne	residential	1	0	0	
+NC	11956106	Rue Dorbritz	residential	1	0	0	
+NC	11956106	Rue Edouard Bocquet	residential	1	0	0	
+NC	11956106	Rue Henri Martinet	unclassified	1	0	0	
+NC	11956106	Rue Jean Arnould	residential	1	0	0	
+NC	11956106	Rue Louis Leques	residential	1	0	0	
+NC	11956106	Rue Neil Armstrong	residential	1	0	0	
+NC	11956106	Rue Youri Gagarine	residential	1	0	0	
+NC	11956106	Rue d'El Kantara	residential	1	0	0	
+NC	11956106	Rue de Belep	residential	1	0	0	
+NC	11956106	Rue de Prony	residential	1	0	0	
+NC	11956106	Rue de l'Espérance	residential	1	0	0	
+NC	11956106	Rue de l'Etoile	residential	1	0	0	
+NC	11956106	Rue de l'Étoile	residential	1	0	0	
+NC	11956106	Rue de la Gazelle	residential	1	0	0	
+NC	11956106	Rue de la Recherche	residential	1	0	0	
+NC	11956106	Voie Maurice Meunier	primary	1	0	0	
+NC	11956109	Rue Gabriel Laroque	tertiary	70	17	89	
+NC	11956109	Rue Edouard Spahr	residential	48	3	44	
+NC	11956109	Rue de Paris	residential	47	3	47	
+NC	11956109	Rue Henri Bonneaud	residential	38	3	38	
+NC	11956109	Rue Gustave Lods	residential	27	2	23	
+NC	11956109	Rue Albert Tonnelier	residential	25	2	29	
+NC	11956109	Rue Félix Franchette	residential	22	1	18	
+NC	11956109	Rue Ngoc Chu Van	residential	22	3	23	
+NC	11956109	Rue de Bordeaux	tertiary	18	3	27	
+NC	11956109	Rue André Beyney	residential	17	4	28	
+NC	11956109	Rue Paul Cane	residential	16	1	44	
+NC	11956109	Rue Georges Cassier	residential	14	1	14	
+NC	11956110	Route de l'Anse Vata	primary	15	55	105	
+NC	11956110	Rue du Commandant Rivière	tertiary	12	1	18	
+NC	11956110	Rue René Coty		11	27	47	
+NC	11956110	Chemin Jean Perrier	residential	8	9	25	
+NC	11956110	Rue Louis Boucher	secondary	4	7	17	
+NC	11956110	Rue Velasquez		4	1	5	
+NC	11956110	Rue Maryse Bastié		3	5	8	
+NC	11956110	Rond-Point Boucher / Plasman	secondary	1	0	0	
+NC	11956110	Rue Arsène	residential	1	0	0	
+NC	11956110	Rue Eugénie	residential	1	0	0	
+NC	11956110	Rue Hélène Boucher	residential	1	0	0	
+NC	11956110	Rue Louis Breguet	residential	1	0	0	
+NC	11956111	Côte de l'Amiral Halsey	primary	1	0	0	
+NC	11956111	Rue Adolphe Barrau	tertiary	1	0	0	
+NC	11956111	Rue Charles Péguy	residential	1	0	0	
+NC	11956111	Rue Michelet	residential	1	0	0	
+NC	11956111	Rue Émile Zola	residential	1	0	0	
+NC	11956114	Rue de l'Alma-André Ballande	residential	3	20	34	
+NC	11956114	Rue Georges Clemenceau	tertiary	2	26	30	
+NC	11956114	Almatrium	pedestrian	1	0	0	
+NC	11956114	Centralma	pedestrian	1	0	0	
+NC	11956114	Rue d'Austerlitz	residential	1	0	0	
+NC	11956114	Rue du Général Mangin	residential	1	0	0	
+NC	11956119	Rue André Burck	tertiary	77	55	1101	
+NC	11956119	Rue de la Luzerne	residential	24	26	366	
+NC	11956119	Rue de l'Alezan	residential	21	133	1378	
+NC	11956119	Rue Félix Bernut	residential	20	227	839	
+NC	11956119	Avenue des Deux Baies	primary	18	2687	2999	
+NC	11956119	Rue de l'Angora	residential	13	32	163	
+NC	11956119	Rue du Cirque	residential	13	21	162	
+NC	11956119	Rue Paul Joseph David	residential	12	24	166	
+NC	11956119	Allée du Domaine Costa		10	1	196	
+NC	11956119	Rue Victorin Boewa	tertiary	7	19	235	
+NC	11956119	Rue des Albizia		7	400	535	
+NC	11956119	Rue des Palefreniers	residential	7	52	114	
+NC	11956193	Accès examen 2 routes	unclassified	1	0	0	
+NC	11956193	Avenue Bonaparte	secondary	1	0	0	
+NC	11956193	Pont de Rivière Sallée	primary	1	0	0	
+NC	11956193	Rond-Point Bonaparte	primary	1	0	0	
+NC	11956193	Rond-Point de l' Impérial	primary	1	0	0	
+NC	11956193	Rue André de Béchade	primary	1	0	0	
+NC	11956193	Rue Jacques Iékawé	primary	1	0	0	
+NC	11956193	Rue Jean Chalier	tertiary	1	0	0	
+NC	11956193	Rue Louise Michel	residential	1	0	0	
+NC	11956193	Rue Marcel Gervolino	residential	1	0	0	
+NC	11956193	Rue Roger Letocart	tertiary	1	0	0	
+NC	11956193	Rue Saint-Saens	residential	1	0	0	
+NC	11956194	Rue Alexandre Olonde		10	2	23	
+NC	11956194	Rue Edmond Harbulot	unclassified	2	1	1	
+NC	11956194	Pont de la Belle Vie RT1	primary	1	0	0	
+NC	11956194	Rond-Point Gervolino / Dumas	primary	1	0	0	
+NC	11956194	Rond-Point Hagen	primary	1	0	0	
+NC	11956194	Rond-Point de Tina Golf	primary	1	0	0	
+NC	11956194	Rond-Point de la Belle Vie	primary	1	0	0	
+NC	11956194	Route Express du Mont-Dore	primary	1	0	0	
+NC	11956194	Rue Alexandre Dumas	residential	1	0	0	
+NC	11956194	Rue André Cubadda	residential	1	0	0	
+NC	11956194	Rue André de Béchade	primary	1	0	0	
+NC	11956194	Rue Circulaire	residential	1	0	0	
+NC	11956196	Rue Yves Prigent	residential	23	282	631	
+NC	11956196	Rue Félix Bernut		10	346	612	
+NC	11956196	Rue des Fox Terriers		8	6	137	
+NC	11956196	Rue des Dalmatiens	residential	7	51	171	
+NC	11956196	Rue des Epagneuls	residential	7	63	191	
+NC	11956196	Rue Pic Malaoui		4	94	123	
+NC	11956196	Rue Philémon Pidjot		3	152	190	
+NC	11956196	Rue Voltaire	residential	2	15	20	
+NC	11956196	Rue des Caniches		2	16	25	
+NC	11956196	Impasse du Gouverneur Eboue	residential	1	0	0	
+NC	11956196	Impasse du Houp	residential	1	0	0	
+NC	11956196	Pont de Tina	primary	1	0	0	
+NC	11956197	Rond-Point de Schmidt	tertiary	1	0	0	
+NC	11956197	Rue Henri Schmidt	tertiary	1	0	0	
+NC	11956197	Rue Jean Prevot	residential	1	0	0	
+NC	11956197	Rue Junker	residential	1	0	0	
+NC	11956197	Rue Père O'Reilly	residential	1	0	0	
+NC	11956197	Rue Taragnat	tertiary	1	0	0	
+NC	11956197	Rue Walpole	residential	1	0	0	
+NC	11956197	Rue d'Artois	residential	1	0	0	
+NC	11956197	Rue de Bourgogne	residential	1	0	0	
+NC	11956197	Rue de Franche-Comté	residential	1	0	0	
+NC	11956197	Rue de Gascogne	residential	1	0	0	
+NC	11956197	Rue de Guyenne	residential	1	0	0	
+NC	11956197	Rue de Provence	residential	1	0	0	
+NC	11956197	Rue de Verteuil	residential	1	0	0	
+NC	11956197	Rue de la Seine	tertiary	1	0	0	
+NC	11956197	Rue des Cévennes	residential	1	0	0	
+NC	11956197	Rue des Jardins de Sainte-Marie	residential	1	0	0	
+NC	11956197	Rue des Santals	residential	1	0	0	
+NC	11956197	Rue du Béarn	residential	1	0	0	
+NC	11956197	Rue du Capitaine Gaudriault	residential	1	0	0	
+NC	11956197	Rue du Docteur Sylvio Tiburzio	residential	1	0	0	
+NC	11956197	Rue du Poitou	residential	1	0	0	
+NC	11956197	Rue du Roussillon	residential	1	0	0	
+NC	11956197	Rue du Révérend Père Clément	residential	1	0	0	
+NC	13526991	Rue Alfred de Musset	residential	1	0	0	
+NC	13526991	Rue José-Maria de Heredia	residential	1	0	0	
+NC	13526991	Rue Mallarmé	residential	1	0	0	
+NC	13526991	Rue Pierre Loti	residential	1	0	0	
+NC	13526991	Rue du Bellay	tertiary	1	0	0	
+NC	13526992	Rue Alexandre Olonde	residential	6	22	64	
+NC	13526992	Rue Roger Gervolino	primary	2	130	141	
+NC	13526992	Rond-Point de Green Valley	primary	1	0	0	
+NC	13526992	Rond-Point de la Gourmette	primary	1	0	0	
+NC	13526992	Rue Alexis Leboeuf	residential	1	0	0	
+NC	13526992	Rue André Capiez	residential	1	0	0	
+NC	13526992	Rue Andrée Collard	residential	1	0	0	
+NC	13526992	Rue Charles Lavigne	residential	1	0	0	
+NC	13526992	Rue Emma Meyer	residential	1	0	0	
+NC	13526992	Rue Ernest Oliveau	residential	1	0	0	
+NC	13526992	Rue Georges Pisier	residential	1	0	0	
+NC	13526992	Rue Gilbert Allègre	residential	1	0	0	
+NC	13526993	Rue Lavoisier	residential	11	4	23	
+NC	13526993	Rue Réaumur	residential	5	12	24	
+NC	13526993	Rond-Point Ducos Le Centre	primary	1	0	0	
+NC	13526993	Rond-Point Forest 2	primary	1	0	0	
+NC	13526993	Route de la Baie des Dames	primary	1	0	0	
+NC	13526993	Rue Ader	residential	1	0	0	
+NC	13526993	Rue Ampère	secondary	1	0	0	
+NC	13526993	Rue Eiffel	unclassified	1	0	0	
+NC	13526993	Rue Franklin	residential	1	0	0	
+NC	13526993	Rue Fulton	tertiary	1	0	0	
+NC	13526993	Rue Galilée	residential	1	0	0	
+NC	13526993	Rue Seguin	unclassified	1	0	0	
+NC	13526994	Rue des Frères Terrasson	unclassified	1	0	0	
+NC	13526994	Rue du Saint-Louis	unclassified	1	0	0	
+NC	13526994	Rue du Saint-Pierre	unclassified	1	0	0	

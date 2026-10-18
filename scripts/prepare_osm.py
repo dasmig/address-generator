@@ -1,23 +1,31 @@
-"""Build the street tables of one country from an OpenStreetMap extract.
+"""Build the street tables of one or more countries from an OpenStreetMap extract.
 
 For each place of city-generator's `full` tier (GeoNames cities500) in the
-country, the streets with the most addresses are kept, up to K by the
+countries, the streets with the most addresses are kept, up to K by the
 place's population (see PLAN.md, "address-generator: design").
 
     pip install osmium
     python scripts/prepare_osm.py PT portugal-latest.osm.pbf \
         --cities ../city-generator/resources/full/cities.tsv --out build/osm
+    python scripts/prepare_osm.py QA,AE,OM,BH,KW,SA gcc-states-latest.osm.pbf ...
 
-Input:  a Geofabrik country extract (https://download.geofabrik.de/).
-Output: <out>/<CC>.full.tsv and <out>/<CC>.lite.tsv, and a statistics line.
+Input:  a Geofabrik extract (https://download.geofabrik.de/); give every
+        country the extract covers, comma separated, so that a street near a
+        border goes to the nearest place of any of them.
+Output: <out>/<CC>.full.tsv and <out>/<CC>.lite.tsv per country, and a
+        statistics line.
 
-Columns: country_code, geonameid, name, class, weight, min_number, max_number
+Columns: country_code, geonameid, name, class, weight, min_number, max_number,
+         name_latin
   weight      the number of addresses on the street in the place (1 for a
               residential street with none)
   class       the most common `highway` value of the street's ways, empty if
               the street is known only from addresses
   min/max     the 5th and 95th percentile of the house numbers seen on the street
               (digits only, the first 200 seen), 0 if none
+  name_latin  for a street named in another script, its Latin name from the
+              OSM tags name:en, name:latin, int_name or a transliteration tag,
+              when the way has one; empty otherwise
 
 A street belongs to the place nearest to it (distance scaled by the square root of
 the population, within MAX_KM), or to the place
@@ -61,15 +69,27 @@ def fold(s):
     return "".join(c for c in s if not unicodedata.combining(c)).strip()
 
 
-def read_places(path, cc):
+LATIN_TAGS = ("name:en", "name:latin", "int_name", "name:ja-Latn", "name:ja_rm", "name:zh-Latn-pinyin",
+              "name:ko-Latn", "name:ru-Latn", "name:uk-Latn", "name:ar-Latn", "name:fa-Latn", "name:th-Latn")
+
+
+def is_latin(s):
+    """True when every letter of s is a Latin letter."""
+    for c in s:
+        if c.isalpha() and not unicodedata.name(c, "").startswith("LATIN"):
+            return False
+    return True
+
+
+def read_places(path, ccs):
     places = []
     with open(path, encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f, delimiter="\t"):
-            if row["country_code"] != cc:
+            if row["country_code"] not in ccs:
                 continue
             places.append((int(row["geonameid"]), row["name"], row["asciiname"],
                            float(row["latitude"]), float(row["longitude"]),
-                           int(row["population"] or 0)))
+                           int(row["population"] or 0), row["country_code"]))
     return places
 
 
@@ -123,7 +143,7 @@ class Collector:
         self.classes = collections.defaultdict(collections.Counter)
         self.numbers = {}                            # (place, street) -> house numbers seen (first NUMBER_SAMPLE)
         self.seen = collections.Counter()
-        self.pending = []                            # streets of ways, assigned later
+        self.latin = {}                              # (place, street) -> Latin name, for other scripts
 
     def address(self, tags, lat, lon):
         street = tags.get("addr:street")
@@ -154,6 +174,12 @@ class Collector:
         key = (i, " ".join(name.split()))
         self.classes[key][cls] += 1
         self.seen["street ways"] += 1
+        if key not in self.latin and not is_latin(key[1]):
+            for tag in LATIN_TAGS:
+                value = " ".join(tags.get(tag, "").split())
+                if value and is_latin(value):
+                    self.latin[key] = value
+                    break
 
 
 def run(pbf, collector, index="flex_mem"):
@@ -193,7 +219,8 @@ def number_range(seen):
     return seen[int(0.05 * (len(seen) - 1))], seen[int(math.ceil(0.95 * (len(seen) - 1)))]
 
 
-def build(collector, places, cc, out):
+def build(collector, places, out):
+    """Write each country's files; returns {cc: {tier: stats}}."""
     streets = collections.defaultdict(list)          # place index -> rows
     keys = set(collector.count) | set(collector.classes)
     for key in keys:
@@ -204,13 +231,24 @@ def build(collector, places, cc, out):
         if n == 0:
             n = 1                                    # a street with no addresses
         lo, hi = number_range(collector.numbers.get(key, []))
-        streets[i].append((name, cls, n, lo, hi, has))
+        latin = collector.latin.get(key, "")
+        streets[i].append((name, cls, n, lo, hi, has, latin))
 
     stats = {}
+    for cc in sorted({p[6] for p in places}):
+        stats[cc] = build_country(streets, places, cc, out)
+    return stats
+
+
+def build_country(streets, places, cc, out):
+    stats = {}
+    mine = [p for p in places if p[6] == cc]
     for tier, k_index in (("lite", 1), ("full", 2)):
         rows, kept_places = [], 0
         for i, lst in streets.items():
             p = places[i]
+            if p[6] != cc:
+                continue
             k = next(c[k_index] for c in CUTS if p[5] < c[0])
             if k == 0:
                 continue
@@ -223,34 +261,35 @@ def build(collector, places, cc, out):
             lst = counted + fill
             if lst:
                 kept_places += 1
-            for name, cls, n, lo, hi, _ in lst:
-                rows.append((p[0], name, cls, n, lo, hi))
+            for name, cls, n, lo, hi, _, latin in lst:
+                rows.append((p[0], name, cls, n, lo, hi, latin))
         rows.sort(key=lambda r: (r[0], -r[3], r[1]))
         path = out / f"{cc}.{tier}.tsv"
         with open(path, "w", encoding="utf-8", newline="\n") as f:
-            f.write("country_code\tgeonameid\tname\tclass\tweight\tmin_number\tmax_number\n")
-            for gid, name, cls, n, lo, hi in rows:
-                f.write(f"{cc}\t{gid}\t{name}\t{cls}\t{n}\t{lo}\t{hi}\n")
+            f.write("country_code\tgeonameid\tname\tclass\tweight\tmin_number\tmax_number\tname_latin\n")
+            for gid, name, cls, n, lo, hi, latin in rows:
+                f.write(f"{cc}\t{gid}\t{name}\t{cls}\t{n}\t{lo}\t{hi}\t{latin}\n")
         size = path.stat().st_size
-        eligible = sum(1 for p in places if next(c[k_index] for c in CUTS if p[5] < c[0]) > 0)
+        eligible = sum(1 for p in mine if next(c[k_index] for c in CUTS if p[5] < c[0]) > 0)
         stats[tier] = (len(rows), size, kept_places, eligible)
     return stats
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("country", help="ISO country code, e.g. PT")
-    ap.add_argument("pbf", help="Geofabrik extract of that country")
+    ap.add_argument("country", help="ISO country code, e.g. PT, or several separated by commas")
+    ap.add_argument("pbf", help="Geofabrik extract of those countries")
     ap.add_argument("--cities", required=True, help="city-generator resources/full/cities.tsv")
     ap.add_argument("--out", default="build/osm")
     ap.add_argument("--index", default="flex_mem",
                     help="node location index; for extracts too big for memory use sparse_file_array,<path>")
     a = ap.parse_args()
 
-    cc = a.country.upper()
+    ccs = {c.strip().upper() for c in a.country.split(",") if c.strip()}
+    cc = ",".join(sorted(ccs))
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
-    places = read_places(a.cities, cc)
+    places = read_places(a.cities, ccs)
     if not places:
         sys.exit(f"no places for {cc} in {a.cities}")
     print(f"{cc}: {len(places)} places", file=sys.stderr)
@@ -258,10 +297,10 @@ def main():
     collector = Collector(Index(places))
     run(a.pbf, collector, a.index)
     print("seen:", dict(collector.seen), file=sys.stderr)
-    stats = build(collector, places, cc, out)
-    for tier, (rows, size, kept, eligible) in stats.items():
-        print(f"{cc} {tier}: {rows} rows, {size / 1e6:.2f} MB, "
-              f"{kept} of {eligible} places have streets")
+    for code, tiers in build(collector, places, out).items():
+        for tier, (rows, size, kept, eligible) in tiers.items():
+            print(f"{code} {tier}: {rows} rows, {size / 1e6:.2f} MB, "
+                  f"{kept} of {eligible} places have streets")
 
 
 if __name__ == "__main__":

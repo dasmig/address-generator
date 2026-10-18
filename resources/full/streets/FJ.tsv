@@ -1,0 +1,453 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+FJ	2197277	Naria Road	residential	1	0	0	
+FJ	2197277	Voli Voli Beach Ressort	tertiary	1	0	0	
+FJ	2197277	Volivoli Road	residential	1	0	0	
+FJ	2197895	Kavika Street	residential	1	0	0	
+FJ	2197895	Reservoir Road	unclassified	1	0	0	
+FJ	2198148	Fletcher Road	primary	71	1	1	
+FJ	2198148	Victoria Parade		15	176	584	
+FJ	2198148	Batiki Street	residential	5	28	32	
+FJ	2198148	Robertson Road	unclassified	5	55	130	
+FJ	2198148	Berry Road	residential	4	16	32	
+FJ	2198148	Damu Place	residential	4	9	17	
+FJ	2198148	Desvoeux Road	unclassified	4	18	30	
+FJ	2198148	Gladstone Road	tertiary	4	47	67	
+FJ	2198148	Queen Elizabeth Drive	primary	4	1	461	
+FJ	2198148	Waimanu Road	primary	4	208	414	
+FJ	2198148	Bau Street	primary	3	8	70	
+FJ	2198148	Des Voeux Street		3	2	8	
+FJ	2198148	Foster Road	primary	3	123	155	
+FJ	2198148	Gorrie Street	unclassified	3	22	41	
+FJ	2198148	Knolly Street	secondary	3	1	46	
+FJ	2198148	Laucala Bay Road	primary	3	220	237	
+FJ	2198148	Ma'afu Street	residential	3	5	12	
+FJ	2198148	Marks Street	primary	3	61	132	
+FJ	2198148	McGregor Road	primary	3	4	66	
+FJ	2198148	Williamson Road		3	14	25	
+FJ	2198148	Amy Street	secondary	2	88	98	
+FJ	2198148	Disraeli Road	residential	2	44	48	
+FJ	2198148	Gordon Street	unclassified	2	91	91	
+FJ	2198148	Hunt Place	residential	2	13	15	
+FJ	2198148	Namena Road	residential	2	36	36	
+FJ	2198148	Panapasa Road	residential	2	47	47	
+FJ	2198148	Princes Road	primary	2	37	158	
+FJ	2198148	Ratu Dovi Road	primary	2	10	71	
+FJ	2198148	Ackland Street	unclassified	1	0	0	
+FJ	2198148	Adi Davila Drive	residential	1	0	0	
+FJ	2198148	Aidney Road	residential	1	0	0	
+FJ	2198148	Aiwa Street	residential	1	0	0	
+FJ	2198148	Albert Lee Place	residential	1	0	0	
+FJ	2198148	Alexander Road	residential	1	0	0	
+FJ	2198148	Allardyce Road	residential	1	0	0	
+FJ	2198148	Ambala Place	residential	1	0	0	
+FJ	2198148	Ambler Place	residential	1	0	0	
+FJ	2198148	Amputch Street	residential	1	0	0	
+FJ	2198148	Amra Street	unclassified	1	0	0	
+FJ	2198148	Anand Street	residential	1	0	0	
+FJ	2198148	Archie Seeto Street	residential	1	0	0	
+FJ	2198148	Argo Street	unclassified	1	0	0	
+FJ	2198148	Arjun Jiva Street	residential	1	0	0	
+FJ	2198148	Armstrong Street	residential	1	0	0	
+FJ	2198148	Augustus Street	residential	1	0	0	
+FJ	2198148	Auto City Place	unclassified	1	0	0	
+FJ	2198148	Avon Place	residential	1	0	0	
+FJ	2198148	Bakshi Street	residential	1	0	0	
+FJ	2198148	Bale Street	residential	1	0	0	
+FJ	2198148	Barker Place	residential	1	0	0	
+FJ	2198148	Barton Place	residential	1	0	0	
+FJ	2198148	Bati Road	residential	1	0	0	
+FJ	2198148	Battery Road	residential	1	0	0	
+FJ	2198148	Beach Road	residential	1	0	0	
+FJ	2198148	Beddoes Street	residential	1	0	0	
+FJ	2198148	Belo Street	unclassified	1	0	0	
+FJ	2198148	Benau Street	residential	1	0	0	
+FJ	2198148	Beqa Place	residential	1	0	0	
+FJ	2198148	Berckley Cres Drive	unclassified	1	0	0	
+FJ	2198148	Bhimji Street	residential	1	0	0	
+FJ	2198148	Bhindi Street	residential	1	0	0	
+FJ	2198148	Biau Drive	residential	1	0	0	
+FJ	2198148	Borron Road	residential	1	0	0	
+FJ	2198148	Bose Place	residential	1	0	0	
+FJ	2198148	Bougainville Street	residential	1	0	0	
+FJ	2198148	Brown Street	primary	1	0	0	
+FJ	2198148	Browning Street	residential	1	0	0	
+FJ	2198148	Bryce Street	residential	1	0	0	
+FJ	2198148	Bulei Road	residential	1	0	0	
+FJ	2198148	Buli Place	residential	1	0	0	
+FJ	2198148	Burerua Street	residential	1	0	0	
+FJ	2198148	Bureta Street	residential	1	0	0	
+FJ	2198148	Burton Place	residential	1	0	0	
+FJ	2198148	Butt Street	unclassified	1	0	0	
+FJ	2198148	Cabe Place	residential	1	0	0	
+FJ	2198148	Carew Street	residential	1	0	0	
+FJ	2198148	Carnavon Street	unclassified	1	0	0	
+FJ	2198148	Carpenter Street	unclassified	1	0	0	
+FJ	2198148	Catalina Drive	residential	1	0	0	
+FJ	2198148	Catalina Street	residential	1	0	0	
+FJ	2198148	Caubati Road	tertiary	1	0	0	
+FJ	2198148	Central Street	primary	1	0	0	
+FJ	2198148	Charles Street	residential	1	0	0	
+FJ	2198148	Charlton Avenue	residential	1	0	0	
+FJ	2198148	Cheng Place	residential	1	0	0	
+FJ	2198148	Church Road	residential	1	0	0	
+FJ	2198148	Clarke Street	residential	1	0	0	
+FJ	2198148	Constitution Avenue	residential	1	0	0	
+FJ	2198148	Craig Place	residential	1	0	0	
+FJ	2198148	Crawford Avenue	residential	1	0	0	
+FJ	2198148	Crompton Place	residential	1	0	0	
+FJ	2198148	Cumming Street	unclassified	1	0	0	
+FJ	2198148	Cunningham Road	secondary	1	0	0	
+FJ	2198148	Dalton Place	residential	1	0	0	
+FJ	2198148	Davui Lane	residential	1	0	0	
+FJ	2198148	Dawa Street	residential	1	0	0	
+FJ	2198148	Daya Street	residential	1	0	0	
+FJ	2198148	Delaidraudrau Road	residential	1	0	0	
+FJ	2198148	Delainavesi Road	residential	1	0	0	
+FJ	2198148	Denison Road	secondary	1	0	0	
+FJ	2198365	Butoni Road	unclassified	1	0	0	
+FJ	2198365	Duabale Road	residential	1	0	0	
+FJ	2198365	Kavanagasau Road	tertiary	1	0	0	
+FJ	2198365	Lawaoa Road	tertiary	1	0	0	
+FJ	2198365	Market Road	residential	1	0	0	
+FJ	2198365	Mission Road	unclassified	1	0	0	
+FJ	2198365	Nasau Back Road	residential	1	0	0	
+FJ	2198365	Nayawa Street	residential	1	0	0	
+FJ	2198365	Rakirakilevu Road	unclassified	1	0	0	
+FJ	2198365	Seaview Drive	residential	1	0	0	
+FJ	2198365	Singatoka Valley Road	secondary	1	0	0	
+FJ	2198365	Vudi Road	residential	1	0	0	
+FJ	2198365	Yaka Road	tertiary	1	0	0	
+FJ	2198365	Yalavou Road	tertiary	1	0	0	
+FJ	2198520	Cross Island Road	secondary	1	0	0	
+FJ	2198520	Devodara Road	residential	1	0	0	
+FJ	2198520	Hibiscus Highway	secondary	1	0	0	
+FJ	2198520	Hooper Road	residential	1	0	0	
+FJ	2198520	Korovesi Road	residential	1	0	0	
+FJ	2198520	Main Street	tertiary	1	0	0	
+FJ	2198520	Matasenitoa Road	residential	1	0	0	
+FJ	2198520	Nacekoro Heights Road	residential	1	0	0	
+FJ	2198520	Navakase Road	residential	1	0	0	
+FJ	2198520	Naveria Road	residential	1	0	0	
+FJ	2198520	Nukubalavu Road	tertiary	1	0	0	
+FJ	2198520	Oneva 2nd Stage	residential	1	0	0	
+FJ	2198520	Oneva Road	residential	1	0	0	
+FJ	2198520	Savusavu to Labasa Highway	secondary	1	0	0	
+FJ	2198520	Vai Vai Loop	residential	1	0	0	
+FJ	2198520	Whitten Lane	residential	1	0	0	
+FJ	2198520	Woodward Road	residential	1	0	0	
+FJ	2200478	Naitata	tertiary	1	0	0	
+FJ	2200478	Nakaulevu Road	residential	1	0	0	
+FJ	2200478	Vakabalea Road	residential	1	0	0	
+FJ	2200478	Waisoi Drive	residential	1	0	0	
+FJ	2202064	Nawaka		31	0	0	
+FJ	2202064	Qanville Estate		27	0	0	
+FJ	2202064	Narewa Village		22	1	4	
+FJ	2202064	Waqa Circle	residential	16	0	0	
+FJ	2202064	the links/denarau		16	1	22	
+FJ	2202064	Sovereign Quay		14	1	25	
+FJ	2202064	aero place		14	0	0	
+FJ	2202064	denarau island		14	0	0	
+FJ	2202064	Queens Road	primary	13	38	51	
+FJ	2202064	Sofitel Hotel		13	0	0	
+FJ	2202064	mariners reach		13	4	17	
+FJ	2202064	fairway palm		12	21	40	
+FJ	2202064	wellington drive		12	193	299	
+FJ	2202064	Fairway Palm		11	47	49	
+FJ	2202064	The cove		11	1	12	
+FJ	2202064	riverside garden		11	0	0	
+FJ	2202064	Nasoso		10	0	0	
+FJ	2202064	Wellington Drive Caaf Compound		10	0	0	
+FJ	2202064	the cove		10	0	0	
+FJ	2202064	Buabua Rd		9	219	226	
+FJ	2202064	Wasawasa Road	residential	9	4	40	
+FJ	2202064	Dakua Road	residential	8	43	333	
+FJ	2202064	Ganville estate		8	0	0	
+FJ	2202064	Mandir Road		7	3	27	
+FJ	2202064	Marine Point		7	0	0	
+FJ	2202064	Vunavau	unclassified	7	48	59	
+FJ	2202064	Montreal Crescent	primary	6	0	0	
+FJ	2202064	Narewa village		6	0	0	
+FJ	2202064	Ottawa road		6	360	371	
+FJ	2202064	Tokitaki Street Caaf Compound		6	50	239	
+FJ	2202064	namotomoto village		6	2	11	
+FJ	2202064	Glanville estate		5	0	0	
+FJ	2202064	Mandir road		5	19	31	
+FJ	2202064	Nasoso Road	secondary	5	0	0	
+FJ	2202064	Nawaka Village	tertiary	5	0	0	
+FJ	2202064	Quanville		5	3	15	
+FJ	2202064	Sovereign Quay, Denarau Island		5	0	0	
+FJ	2202064	Suva st		5	119	123	
+FJ	2202064	marina point		5	0	0	
+FJ	2202064	Dakua St		4	316	317	
+FJ	2202064	Damanu st		4	114	118	
+FJ	2202064	Marines point		4	0	0	
+FJ	2202064	Quanville Estate		4	0	0	
+FJ	2202064	koroiwali road		4	241	372	
+FJ	2202064	Constitution Crescent	residential	3	77	212	
+FJ	2202064	Jet View Road		3	0	0	
+FJ	2202064	Kabani Road		3	1	6	
+FJ	2202064	London		3	179	185	
+FJ	2204506	Ragg Street	residential	9	1	17	
+FJ	2204506	Nasoki Street	unclassified	2	9	11	
+FJ	2204506	Ravouvou Street	secondary	2	12	12	
+FJ	2204506	A. V. Ram Narayan Road	residential	1	0	0	
+FJ	2204506	Abaca Road	residential	1	0	0	
+FJ	2204506	Adam Street	residential	1	0	0	
+FJ	2204506	Ah Yong Street	residential	1	0	0	
+FJ	2204506	Ajodhya Prasad Road	tertiary	1	0	0	
+FJ	2204506	Alladatta Street	residential	1	0	0	
+FJ	2204506	Andhra Place	residential	1	0	0	
+FJ	2204506	Autar Place	residential	1	0	0	
+FJ	2204506	Bal Ram Dass Street	residential	1	0	0	
+FJ	2204506	Balawa Street	residential	1	0	0	
+FJ	2204506	Bandila Crescent	residential	1	0	0	
+FJ	2204506	Bavadra Road	residential	1	0	0	
+FJ	2204506	Bebe Street	residential	1	0	0	
+FJ	2204506	Berar Place	residential	1	0	0	
+FJ	2204506	Bhola Place	residential	1	0	0	
+FJ	2204506	Bioletti Road	residential	1	0	0	
+FJ	2204506	Blue Lagoon Street	residential	1	0	0	
+FJ	2204506	Bougainvillea road	residential	1	0	0	
+FJ	2204506	Bouwalu Street	unclassified	1	0	0	
+FJ	2204506	Buabua Road	tertiary	1	0	0	
+FJ	2204506	Bula Street	residential	1	0	0	
+FJ	2204506	Bululeke Street	tertiary	1	0	0	
+FJ	2204506	Cakau Street	secondary	1	0	0	
+FJ	2204506	Calcutta Street	residential	1	0	0	
+FJ	2204506	California Road	residential	1	0	0	
+FJ	2204506	Cannery Street	residential	1	0	0	
+FJ	2204506	Captain Withers Street	residential	1	0	0	
+FJ	2204506	Cemetary Road	unclassified	1	0	0	
+FJ	2204506	Chabilal Place	residential	1	0	0	
+FJ	2204506	Chameli Street	residential	1	0	0	
+FJ	2204506	Chandmari Street	tertiary	1	0	0	
+FJ	2204506	Choy Gopal Road	residential	1	0	0	
+FJ	2204506	Commissioners Drive	residential	1	0	0	
+FJ	2204506	Compoy Place	residential	1	0	0	
+FJ	2204506	Corbett Street	residential	1	0	0	
+FJ	2204506	Covuli Street	residential	1	0	0	
+FJ	2204506	Dakua Lane	residential	1	0	0	
+FJ	2204506	Daniva Street	tertiary	1	0	0	
+FJ	2204506	Dildar Shah Street	residential	1	0	0	
+FJ	2204506	Dravuni Street	secondary	1	0	0	
+FJ	2204506	Dreketi Feeder Road	residential	1	0	0	
+FJ	2204506	Eric street	residential	1	0	0	
+FJ	2204506	Evans Street	residential	1	0	0	
+FJ	2204506	Field 40 Road	tertiary	1	0	0	
+FJ	2204506	Fong Place	residential	1	0	0	
+FJ	2204506	Futala Place	residential	1	0	0	
+FJ	2204506	Galba Street	residential	1	0	0	
+FJ	2204506	Ganges Street	residential	1	0	0	
+FJ	2204506	Gibson Place	residential	1	0	0	
+FJ	2204506	Golf Link Crescent	residential	1	0	0	
+FJ	2204506	Guruwaya Street	residential	1	0	0	
+FJ	2204506	Harry Ah Tong Place	residential	1	0	0	
+FJ	2204506	Hedstrom Place	residential	1	0	0	
+FJ	2204506	Hira Rao Place	residential	1	0	0	
+FJ	2204506	Hollander Road	secondary	1	0	0	
+FJ	2204506	Homer Crescent	residential	1	0	0	
+FJ	2204506	Howrah Crescent	residential	1	0	0	
+FJ	2204506	Ika Place	residential	1	0	0	
+FJ	2204506	Indus Place	residential	1	0	0	
+FJ	2204506	Ivi Place	residential	1	0	0	
+FJ	2204506	Jale Street	residential	1	0	0	
+FJ	2204506	Jamnadas Bhagwan Street	residential	1	0	0	
+FJ	2204506	Jamuna Street	residential	1	0	0	
+FJ	2204506	Jinnu Road	residential	1	0	0	
+FJ	2204506	John Hicks Place	residential	1	0	0	
+FJ	2204506	K. M. James Road	residential	1	0	0	
+FJ	2204506	Kadavu Street	residential	1	0	0	
+FJ	2204506	Kale Khan Place	residential	1	0	0	
+FJ	2204506	Kali Place	residential	1	0	0	
+FJ	2204506	Kama Street	residential	1	0	0	
+FJ	2204506	Kara Punja Road	residential	1	0	0	
+FJ	2204506	Kaunitoni Street	tertiary	1	0	0	
+FJ	2204506	Kava Place	residential	1	0	0	
+FJ	2204506	Kermode Road	tertiary	1	0	0	
+FJ	2204506	Kiwi Place	residential	1	0	0	
+FJ	2204506	Kuata Street	residential	1	0	0	
+FJ	2204506	Kula Place	residential	1	0	0	
+FJ	2204506	Kulu Street	residential	1	0	0	
+FJ	2204506	Leonidas Street	residential	1	0	0	
+FJ	2204506	Lin On Place	residential	1	0	0	
+FJ	2204506	Link Road	residential	1	0	0	
+FJ	2204506	Lum Street	residential	1	0	0	
+FJ	2204506	M. N. Naidu Road	secondary	1	0	0	
+FJ	2204506	M. T. Khan Road	residential	1	0	0	
+FJ	2204506	Madho Crescent	residential	1	0	0	
+FJ	2204506	Maharaj Place	residential	1	0	0	
+FJ	2204506	Malamala Street	residential	1	0	0	
+FJ	2204506	Mali Lane	residential	1	0	0	
+FJ	2204506	Malolo Street	residential	1	0	0	
+FJ	2204506	Mana Street	unclassified	1	0	0	
+FJ	2204506	Marau Place	residential	1	0	0	
+FJ	2204506	Maravu Street	residential	1	0	0	
+FJ	2204506	Marine Drive	tertiary	1	0	0	
+FJ	2204506	Marlow Street	residential	1	0	0	
+FJ	2204506	Mehndi Place	residential	1	0	0	
+FJ	2204506	Mill View Road	tertiary	1	0	0	
+FJ	2204506	Mission Place	residential	1	0	0	
+FJ	2204575	Nukuwatu Street	residential	3	9	15	
+FJ	2204575	Marine Drive		2	11	32	
+FJ	2204575	Bulou Street	residential	1	0	0	
+FJ	2204575	Labiko Street	residential	1	0	0	
+FJ	2204575	Lami Street	residential	1	0	0	
+FJ	2204575	Lami Village Road	residential	1	0	0	
+FJ	2204575	Naimawi Street	residential	1	0	0	
+FJ	2204575	Nakauvadra Road	residential	1	0	0	
+FJ	2204575	Nakula Street	residential	1	0	0	
+FJ	2204575	Nasevou Street	residential	1	0	0	
+FJ	2204575	Qaranivalu Road	residential	1	0	0	
+FJ	2204575	Qauia Street	residential	1	0	0	
+FJ	2204575	Qauia Villiage Road	unclassified	1	0	0	
+FJ	2204575	Qeleya Road	residential	1	0	0	
+FJ	2204575	Raghunath Singh Drive	residential	1	0	0	
+FJ	2204575	Rogavoka Street	residential	1	0	0	
+FJ	2204575	Solomoni Street	residential	1	0	0	
+FJ	2204575	Vatuvia Street	residential	1	0	0	
+FJ	2204575	Vetaia Street	residential	1	0	0	
+FJ	2204575	Waivote Street	residential	1	0	0	
+FJ	2204582	Abua Road	residential	1	0	0	
+FJ	2204582	Bhindi Lane	residential	1	0	0	
+FJ	2204582	Covata Road	residential	1	0	0	
+FJ	2204582	Cross Island Road	secondary	1	0	0	
+FJ	2204582	Damanu Street	residential	1	0	0	
+FJ	2204582	Gibson Street	residential	1	0	0	
+FJ	2204582	Hussein Drive	residential	1	0	0	
+FJ	2204582	Ivi Street	residential	1	0	0	
+FJ	2204582	James Madhavan Street	residential	1	0	0	
+FJ	2204582	Lajonia Road	residential	1	0	0	
+FJ	2204582	Local Timber Road	residential	1	0	0	
+FJ	2204582	Macou Street	residential	1	0	0	
+FJ	2204582	Mudaliar Place	residential	1	0	0	
+FJ	2204582	N.T.L. Drive	unclassified	1	0	0	
+FJ	2204582	Nabouwalu Road	secondary	1	0	0	
+FJ	2204582	Nadawa Street	residential	1	0	0	
+FJ	2204582	Nakorotari Road	tertiary	1	0	0	
+FJ	2204582	Nanuku Street	residential	1	0	0	
+FJ	2204582	Nasekula Road	secondary	1	0	0	
+FJ	2204582	Nasekula Village Road	residential	1	0	0	
+FJ	2204582	Nasoi Lane	unclassified	1	0	0	
+FJ	2204582	Natabucola Road	residential	1	0	0	
+FJ	2204582	Park Street	residential	1	0	0	
+FJ	2204582	Qomate Street	residential	1	0	0	
+FJ	2204582	Rara Avenue	residential	1	0	0	
+FJ	2204582	Reddy Place	residential	1	0	0	
+FJ	2204582	Ritova Street	residential	1	0	0	
+FJ	2204582	Rosawa Street	residential	1	0	0	
+FJ	2204582	Sagar Street	residential	1	0	0	
+FJ	2204582	Sangam Avenue	residential	1	0	0	
+FJ	2204582	Sarosaro Lane	residential	1	0	0	
+FJ	2204582	Sarwan Singh Street	residential	1	0	0	
+FJ	2204582	Siberia Road	residential	1	0	0	
+FJ	2204582	Silas Ramjan Street	residential	1	0	0	
+FJ	2204582	St. Marys Lane	residential	1	0	0	
+FJ	2204582	Temple Road	residential	1	0	0	
+FJ	2204582	Tuatua Branch Road	residential	1	0	0	
+FJ	2204582	Wailevu Solove Road	residential	1	0	0	
+FJ	2204582	Waiqele Airport Road	tertiary	1	0	0	
+FJ	8335413	Bala Street	residential	1	0	0	
+FJ	8335413	Clapcott Street	residential	1	0	0	
+FJ	8335413	Namosau Bridge	residential	1	0	0	
+FJ	8335413	Race Course Road	residential	1	0	0	
+FJ	8335413	Tavola Street	residential	1	0	0	
+FJ	8740209	Daniva Road	secondary	2	1	1	
+FJ	8740209	Nawanawa Road	tertiary	2	22	47	
+FJ	8740209	Amar Singh Road	residential	1	0	0	
+FJ	8740209	Balabala Crescent	residential	1	0	0	
+FJ	8740209	Banyan Ct	residential	1	0	0	
+FJ	8740209	Beaumont Road	residential	1	0	0	
+FJ	8740209	Bewa Street	residential	1	0	0	
+FJ	8740209	Bikabhai Street	residential	1	0	0	
+FJ	8740209	Blake Feeder Road	tertiary	1	0	0	
+FJ	8740209	Boila Circle	residential	1	0	0	
+FJ	8740209	Bonu Road	residential	1	0	0	
+FJ	8740209	Borete Road	residential	1	0	0	
+FJ	8740209	Budhai Road	residential	1	0	0	
+FJ	8740209	Buli Court	residential	1	0	0	
+FJ	8740209	Bureni Street	residential	1	0	0	
+FJ	8740209	Cakacaka Road	residential	1	0	0	
+FJ	8740209	Calvert Place	residential	1	0	0	
+FJ	8740209	Caubati Road	tertiary	1	0	0	
+FJ	8740209	Caubati Village Road	residential	1	0	0	
+FJ	8740209	Caukuro Street	residential	1	0	0	
+FJ	8740209	Chadwick Road	residential	1	0	0	
+FJ	8740209	Chandra Prasad	residential	1	0	0	
+FJ	8740209	China Garden	residential	1	0	0	
+FJ	8740209	Church Street	residential	1	0	0	
+FJ	8740209	Dabi Road	residential	1	0	0	
+FJ	8740209	Dairo Rd	residential	1	0	0	
+FJ	8740209	Dalip St	unclassified	1	0	0	
+FJ	8740209	Davuilevu Road	tertiary	1	0	0	
+FJ	8740209	Dilkusha Road	tertiary	1	0	0	
+FJ	8740209	Dilo Street	residential	1	0	0	
+FJ	8740209	Drevula Rd	residential	1	0	0	
+FJ	8740209	Drivi Road	residential	1	0	0	
+FJ	8740209	Duilomaloma Road	tertiary	1	0	0	
+FJ	8740209	Duna Crescent	residential	1	0	0	
+FJ	8740209	Dunstan St	residential	1	0	0	
+FJ	8740209	Duvula Road	residential	1	0	0	
+FJ	8740209	FEA Tower Track	residential	1	0	0	
+FJ	8740209	FNTC Road	residential	1	0	0	
+FJ	8740209	Gulab Nabi Rd	residential	1	0	0	
+FJ	8740209	Gulam Nabi Rd	residential	1	0	0	
+FJ	8740209	Hancock Road	residential	1	0	0	
+FJ	8740209	Ibo Rd	residential	1	0	0	
+FJ	8740209	Ikadroka Place	residential	1	0	0	
+FJ	8740209	Irrigation Road	tertiary	1	0	0	
+FJ	8740209	JP Maharaj Street	residential	1	0	0	
+FJ	8740209	Jale Street	residential	1	0	0	
+FJ	8740209	Jalim Avenue	residential	1	0	0	
+FJ	8740209	Kabote Circle	residential	1	0	0	
+FJ	8740209	KaiKai Street	residential	1	0	0	
+FJ	8740209	Kaisau Court	residential	1	0	0	
+FJ	8740209	Kake Street	residential	1	0	0	
+FJ	8740209	Kalia Court	residential	1	0	0	
+FJ	8740209	Kaloa Street	residential	1	0	0	
+FJ	8740209	Kalokalo Crescent	tertiary	1	0	0	
+FJ	8740209	Kamanoku Road	residential	1	0	0	
+FJ	8740209	Kanace Road	tertiary	1	0	0	
+FJ	8740209	Kaudamu Road	residential	1	0	0	
+FJ	8740209	Kelland Street	residential	1	0	0	
+FJ	8740209	Kewal Road	residential	1	0	0	
+FJ	8740209	Khalsa Road	secondary	1	0	0	
+FJ	8740209	Kida Place	residential	1	0	0	
+FJ	8740209	Kings Rd	residential	1	0	0	
+FJ	8740209	Kinoya Road	secondary	1	0	0	
+FJ	8740209	Koroba Street	residential	1	0	0	
+FJ	8740209	Koronivia Rd	tertiary	1	0	0	
+FJ	8740209	Kuka Place	residential	1	0	0	
+FJ	8740209	Kuluva Street	residential	1	0	0	
+FJ	8740209	Kuruva Road	residential	1	0	0	
+FJ	8740209	Labau Feeder Road	residential	1	0	0	
+FJ	8740209	Lairo Place	residential	1	0	0	
+FJ	8740209	Laubu Road	residential	1	0	0	
+FJ	8740209	Lumi Rd	residential	1	0	0	
+FJ	8740209	Macau Street	residential	1	0	0	
+FJ	8740209	Makita Road	residential	1	0	0	
+FJ	8740209	Makoi Road	residential	1	0	0	
+FJ	8740209	Makosoi Road	residential	1	0	0	
+FJ	8740209	Mala Place	residential	1	0	0	
+FJ	8740209	Malvin Street	residential	1	0	0	
+FJ	8740209	Mana Place	residential	1	0	0	
+FJ	8740209	Mandhir Street	residential	1	0	0	
+FJ	8740209	Mandir Street	residential	1	0	0	
+FJ	8740209	Manuka Street	residential	1	0	0	
+FJ	8740209	Manulava Circle	residential	1	0	0	
+FJ	8740209	Maqbool Road	residential	1	0	0	
+FJ	8740209	Marsha Place	residential	1	0	0	
+FJ	8740209	Matana Street	residential	1	0	0	
+FJ	8740209	Matanikorovatu Road	tertiary	1	0	0	
+FJ	8740209	Matau Road	residential	1	0	0	
+FJ	8740209	Matu Street	residential	1	0	0	
+FJ	8740209	Methodist Farm Road	residential	1	0	0	
+FJ	8740209	Millenium Road	residential	1	0	0	
+FJ	8740209	Mokosoi Street	residential	1	0	0	
+FJ	8740209	Moli Street	residential	1	0	0	
+FJ	8740209	Muanikoso Road	residential	1	0	0	
+FJ	8740209	Nacoqio Road	residential	1	0	0	
+FJ	8740209	Nadaku Road	residential	1	0	0	
+FJ	8740209	Nadali By-pass	residential	1	0	0	
+FJ	8740209	Nadali Diversion Road	secondary	1	0	0	
+FJ	8740209	Nadawa Road	residential	1	0	0	
+FJ	8740209	Naidiri Place	residential	1	0	0	

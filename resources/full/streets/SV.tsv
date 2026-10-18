@@ -1,0 +1,3604 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+SV	3582790	10a Calle Poniente	residential	1	0	0	
+SV	3582790	1a Avenida Norte	residential	1	0	0	
+SV	3582790	1a Avenida Sur	residential	1	0	0	
+SV	3582790	1a Calle Poniente	residential	1	0	0	
+SV	3582790	2a Avenida Sur	residential	1	0	0	
+SV	3582790	2a Calle Oriente	residential	1	0	0	
+SV	3582790	2a Calle Poniente	residential	1	0	0	
+SV	3582790	3a Avenida Norte	residential	1	0	0	
+SV	3582790	3a Avenida Sur	residential	1	0	0	
+SV	3582790	3a Calle Oriente	residential	1	0	0	
+SV	3582790	3a Calle Poniente	residential	1	0	0	
+SV	3582790	4a Avenida Norte	residential	1	0	0	
+SV	3582790	4a Avenida Sur	secondary	1	0	0	
+SV	3582790	4a Calle Oriente	residential	1	0	0	
+SV	3582790	4a Calle Poniente	residential	1	0	0	
+SV	3582790	5a Calle Oriente	residential	1	0	0	
+SV	3582790	6a Avenida Norte	residential	1	0	0	
+SV	3582790	6a Avenida Sur	residential	1	0	0	
+SV	3582790	6a Calle Oriente	residential	1	0	0	
+SV	3582790	6a Calle Poniente	residential	1	0	0	
+SV	3582790	8a Calle Oriente	residential	1	0	0	
+SV	3582790	8a Calle Poniente	residential	1	0	0	
+SV	3582790	Alhambra	living_street	1	0	0	
+SV	3582790	Aljafería	living_street	1	0	0	
+SV	3582805	1a Avenida Sur	residential	3	1	1	
+SV	3582805	1 Av. Sur	residential	1	0	0	
+SV	3582805	10a Avenida Norte	residential	1	0	0	
+SV	3582805	10a Avenida Sur	residential	1	0	0	
+SV	3582805	10a Calle Oriente	residential	1	0	0	
+SV	3582805	10a Calle Poniente	residential	1	0	0	
+SV	3582805	11a Calle Oriente	residential	1	0	0	
+SV	3582805	12a Avenida Sur	residential	1	0	0	
+SV	3582805	12a Calle Oriente	residential	1	0	0	
+SV	3582805	12a Calle Poniente	residential	1	0	0	
+SV	3582805	13a Calle Oriente	residential	1	0	0	
+SV	3582805	14a Avenida Sur	residential	1	0	0	
+SV	3582805	14a Calle Poniente	residential	1	0	0	
+SV	3582805	16a Calle Poniente	residential	1	0	0	
+SV	3582805	18a Calle Oriente	residential	1	0	0	
+SV	3582805	18a Calle Poniiente	tertiary	1	0	0	
+SV	3582805	1a Avenida Norte	residential	1	0	0	
+SV	3582805	1a Calle Oriente	residential	1	0	0	
+SV	3582805	1a Calle Poniente	residential	1	0	0	
+SV	3582805	22a Calle Oriente	residential	1	0	0	
+SV	3582805	2a Avenida Norte	residential	1	0	0	
+SV	3582805	2a Avenida Sur	residential	1	0	0	
+SV	3582805	2a Calle Oriente	residential	1	0	0	
+SV	3582805	2a Calle Poniente	residential	1	0	0	
+SV	3582805	3a Avenida Norte	residential	1	0	0	
+SV	3582805	3a Avenida Sur	residential	1	0	0	
+SV	3582805	3a Calle Oriente	residential	1	0	0	
+SV	3582805	3a Calle Poniente	residential	1	0	0	
+SV	3582805	4a Avenida Norte	residential	1	0	0	
+SV	3582805	4a Avenida Sur	residential	1	0	0	
+SV	3582805	4a Calle Oriente	residential	1	0	0	
+SV	3582805	4a Calle Poniente	residential	1	0	0	
+SV	3582805	5a Avenida Norte	residential	1	0	0	
+SV	3582805	5a Avenida Sur	residential	1	0	0	
+SV	3582805	5a Calle Oriente	residential	1	0	0	
+SV	3582805	5a Calle Poniente	residential	1	0	0	
+SV	3582805	6a Avenida Norte	tertiary	1	0	0	
+SV	3582805	6a Avenida Sur	primary	1	0	0	
+SV	3582805	6a Calle Oriente	residential	1	0	0	
+SV	3582805	6a Calle Poniente	residential	1	0	0	
+SV	3582805	7a Avenida Norte	residential	1	0	0	
+SV	3582805	7a Avenida Sur	residential	1	0	0	
+SV	3582805	7a Calle Oriente	residential	1	0	0	
+SV	3582805	7a Calle Poniente	residential	1	0	0	
+SV	3582805	8a Avenida Norte	residential	1	0	0	
+SV	3582805	8a Avenida Sur	residential	1	0	0	
+SV	3582805	8a Calle Oriente	residential	1	0	0	
+SV	3582805	8a Calle Poniente	residential	1	0	0	
+SV	3582835	Avenida Cabañas	tertiary	1	0	0	
+SV	3582835	Avenida José Matías Delgado	residential	1	0	0	
+SV	3582835	Avenida Manuel José Arce	tertiary	1	0	0	
+SV	3582835	Avenida Morazán	residential	1	0	0	
+SV	3582835	Calle Gerardo Barrios	residential	1	0	0	
+SV	3582835	Calle Nueva	secondary	1	0	0	
+SV	3582835	Calle Principal	tertiary	1	0	0	
+SV	3582835	Calle a Barrio San Antonio	tertiary	1	0	0	
+SV	3582835	Calle a Cantón Azacualpa	tertiary	1	0	0	
+SV	3582835	Calle a Cantón La Uvilla	tertiary	1	0	0	
+SV	3582835	Calle a Caserío El Pepeto	tertiary	1	0	0	
+SV	3582835	Calle a Caserío El Zapote	secondary	1	0	0	
+SV	3582883	Carretera Jucuapa	secondary	2	17	25	
+SV	3582883	Carretera del Litoral	primary	2	19	1106	
+SV	3582883	10a Avenida Norte	residential	1	0	0	
+SV	3582883	10a Avenida Sur	residential	1	0	0	
+SV	3582883	10a Calle Oriente	tertiary	1	0	0	
+SV	3582883	10a Calle Poniente	residential	1	0	0	
+SV	3582883	11a Avenida Sur	residential	1	0	0	
+SV	3582883	11a Calle Oriente	tertiary	1	0	0	
+SV	3582883	12a Avenida Norte	residential	1	0	0	
+SV	3582883	12a Avenida Sur	residential	1	0	0	
+SV	3582883	12a Calle Poniente	residential	1	0	0	
+SV	3582883	13a Avenida Sur	residential	1	0	0	
+SV	3582883	13a Calle Oriente	tertiary	1	0	0	
+SV	3582883	14a Calle Poniente	residential	1	0	0	
+SV	3582883	15a Avenida Sur	residential	1	0	0	
+SV	3582883	16a Avenida Norte	residential	1	0	0	
+SV	3582883	16a Calle Poniente	residential	1	0	0	
+SV	3582883	17a Avenida Sur	residential	1	0	0	
+SV	3582883	18a Avenida Norte	residential	1	0	0	
+SV	3582883	18a Calle Poniente	residential	1	0	0	
+SV	3582883	19a Avenida Sur	residential	1	0	0	
+SV	3582883	1a Avenida Norte	unclassified	1	0	0	
+SV	3582883	1a Avenida Sur	unclassified	1	0	0	
+SV	3582883	1a Calle Oriente	residential	1	0	0	
+SV	3582883	1a Calle Poniente	primary	1	0	0	
+SV	3582883	20a Calle Poniente	residential	1	0	0	
+SV	3582883	21a Avenida Sur	residential	1	0	0	
+SV	3582883	2a Avenida Norte	residential	1	0	0	
+SV	3582883	2a Calle Oriente	residential	1	0	0	
+SV	3582883	2ª Avenida Sur	residential	1	0	0	
+SV	3582883	3a Avenida Norte	residential	1	0	0	
+SV	3582883	3a Avenida Sur	residential	1	0	0	
+SV	3582883	3a Calle Oriente	residential	1	0	0	
+SV	3582883	3a Calle Poniente	residential	1	0	0	
+SV	3582883	4a Avenida Sur	residential	1	0	0	
+SV	3582883	4a Calle Oriente	residential	1	0	0	
+SV	3582883	4a Calle Poniente	residential	1	0	0	
+SV	3582883	5a Avenida Norte	residential	1	0	0	
+SV	3582883	5a Avenida Sur	residential	1	0	0	
+SV	3582883	5a Calle Oriente	residential	1	0	0	
+SV	3582883	5a Calle Poniente	residential	1	0	0	
+SV	3582883	6a Avenida Norte	residential	1	0	0	
+SV	3582883	6a Avenida Sur	residential	1	0	0	
+SV	3582883	6a Calle Oriente	residential	1	0	0	
+SV	3582883	6a Calle Poniente	residential	1	0	0	
+SV	3582883	7a Avenida Norte	tertiary	1	0	0	
+SV	3582883	7a Avenida Sur	residential	1	0	0	
+SV	3582883	7a Calle Oriente	residential	1	0	0	
+SV	3582883	7a Calle Poniente	residential	1	0	0	
+SV	3582883	8a Avenida Norte	tertiary	1	0	0	
+SV	3582883	8a Avenida Sur	residential	1	0	0	
+SV	3582883	8a Calle Oriente	residential	1	0	0	
+SV	3582883	8a Calle Poniente	residential	1	0	0	
+SV	3582883	9a Avenida Norte	residential	1	0	0	
+SV	3582883	9a Avenida Sur	unclassified	1	0	0	
+SV	3582883	9a Calle Oriente	residential	1	0	0	
+SV	3582883	Avenida Gregorio Melara Bis	tertiary	1	0	0	
+SV	3582883	Avenida Guandique	tertiary	1	0	0	
+SV	3582883	Avenida Las Magnolias	residential	1	0	0	
+SV	3582883	Avenida Las Palmeras	residential	1	0	0	
+SV	3582883	Avenida Los Apaches	residential	1	0	0	
+SV	3582883	Avenida Los Mangos	residential	1	0	0	
+SV	3582883	Avenida Melara	tertiary	1	0	0	
+SV	3582883	Avenida Raúl Díaz	unclassified	1	0	0	
+SV	3582883	Avenida Santa Catarina	residential	1	0	0	
+SV	3582883	Avenida Trinidad	residential	1	0	0	
+SV	3582883	Calle Antigua a Santa Elena	unclassified	1	0	0	
+SV	3582883	Calle Antigua a Santa Maria	residential	1	0	0	
+SV	3582883	Calle Canton El Nisperal	residential	1	0	0	
+SV	3582883	Calle Doctor Federico Penado	primary	1	0	0	
+SV	3582883	Calle Iglesia Vieja	unclassified	1	0	0	
+SV	3582883	Calle Italia	residential	1	0	0	
+SV	3582883	Calle Principal	unclassified	1	0	0	
+SV	3582883	Calle a Canton El Ojuste	tertiary	1	0	0	
+SV	3582883	Calle a Granja de el INU	residential	1	0	0	
+SV	3582883	Calle a Los Desmontes	unclassified	1	0	0	
+SV	3582883	Calle a Puerto Parada	tertiary	1	0	0	
+SV	3582883	Calle a San Dionisio	unclassified	1	0	0	
+SV	3582883	Calle a Turicentro El Molino	tertiary	1	0	0	
+SV	3582883	Calle a Turicentro la Laguna del Palo Galán	residential	1	0	0	
+SV	3582883	Calle del Tanque	residential	1	0	0	
+SV	3582883	Carretera a Santa Elena	secondary	1	0	0	
+SV	3582883	Final 5ta avenida norte	unclassified	1	0	0	
+SV	3582883	Pasaje	unclassified	1	0	0	
+SV	3582883	Pasaje 1	residential	1	0	0	
+SV	3582883	Pasaje 2	residential	1	0	0	
+SV	3582883	Pasaje 3	residential	1	0	0	
+SV	3582883	Pasaje 4	residential	1	0	0	
+SV	3582883	Primer Pasaje	living_street	1	0	0	
+SV	3582883	Primer Pasaje La Constancia	residential	1	0	0	
+SV	3582883	Ruta Cañera	primary	1	0	0	
+SV	3582883	Segundo Pasaje	living_street	1	0	0	
+SV	3582883	alberto masferrer	living_street	1	0	0	
+SV	3582896	10a Avenida Norte	residential	1	0	0	
+SV	3582896	11a Avenida Norte	residential	1	0	0	
+SV	3582896	11a Avenida Sur	residential	1	0	0	
+SV	3582896	13a Avenida Norte	residential	1	0	0	
+SV	3582896	1a Avenida Norte	residential	1	0	0	
+SV	3582896	1a Avenida Sur	tertiary	1	0	0	
+SV	3582896	1a Calle Oriente	residential	1	0	0	
+SV	3582896	1a Calle Poniente	residential	1	0	0	
+SV	3582896	2a Avenida Norte	residential	1	0	0	
+SV	3582896	2a Avenida Sur	residential	1	0	0	
+SV	3582896	2a Calle Oriente	residential	1	0	0	
+SV	3582896	2a Calle Poniente	residential	1	0	0	
+SV	3582896	3a Avenida Norte	residential	1	0	0	
+SV	3582896	3a Avenida Sur	residential	1	0	0	
+SV	3582896	3a Calle Oriente	residential	1	0	0	
+SV	3582896	3a Calle Poniente	residential	1	0	0	
+SV	3582896	4a Avenida Norte	residential	1	0	0	
+SV	3582896	4a Avenida Sur	residential	1	0	0	
+SV	3582896	4a Calle Oriente	residential	1	0	0	
+SV	3582896	4a Calle Poniente	residential	1	0	0	
+SV	3582896	5a Avenida Norte	residential	1	0	0	
+SV	3582896	5a Avenida Sur	residential	1	0	0	
+SV	3582896	5a Calle Poniente	residential	1	0	0	
+SV	3582896	6a Avenida Norte	residential	1	0	0	
+SV	3582918	2a Avenida Sur	residential	9	2	2	
+SV	3582918	4a Avenida Sur	tertiary	8	0	0	
+SV	3582918	Calle Central Poniente	tertiary	7	1	503	
+SV	3582918	2a Calle Poniente	residential	4	2	2	
+SV	3582918	1a Avenida Norte	residential	3	2	3	
+SV	3582918	2a Avenida Norte	residential	3	2	2	
+SV	3582918	2a Calle Oriente	residential	3	2	2	
+SV	3582918	3a Avenida Norte	residential	3	5	5	
+SV	3582918	3a Calle Poniente	residential	3	0	0	
+SV	3582918	4a Avenida Norte	residential	3	4	4	
+SV	3582918	Avenida Central Sur	residential	3	0	0	
+SV	3582918	Calle Central Oriente	tertiary	3	0	0	
+SV	3582918	1a Calle Oriente	residential	2	3	3	
+SV	3582918	1a Calle Poniente	residential	2	3	3	
+SV	3582918	3a Calle Oriente	residential	2	0	0	
+SV	3582918	Avenida Central Norte	residential	2	1	1	
+SV	3582918	1 Avenida Norte	residential	1	0	0	
+SV	3582918	1 Avenida Sur	residential	1	0	0	
+SV	3582918	10a Avenida	residential	1	0	0	
+SV	3582918	1a Avenida	residential	1	0	0	
+SV	3582918	1a Avenida Sur	residential	1	0	0	
+SV	3582918	1a Calle	residential	1	0	0	
+SV	3582918	2 Avenida Sur	residential	1	0	0	
+SV	3582918	2a Avenida	residential	1	0	0	
+SV	3582954	1ª Calle Oriente	residential	1	0	0	
+SV	3582954	1ª Calle Poniente	residential	1	0	0	
+SV	3582954	2a Avenida2ª Avenida Norte	residential	1	0	0	
+SV	3582954	2ª Avenida Norte	residential	1	0	0	
+SV	3582954	2ª Avenida Sur	residential	1	0	0	
+SV	3582954	2ª Calle Oriente	residential	1	0	0	
+SV	3582954	2ª Calle Poniente	tertiary	1	0	0	
+SV	3582954	3ª Avenida Norte	secondary	1	0	0	
+SV	3582954	3ª Avenida Sur	secondary	1	0	0	
+SV	3582954	3ª Calle Oriente	residential	1	0	0	
+SV	3582954	3ª Calle Poniente	residential	1	0	0	
+SV	3582954	4ª Avenida Norte	residential	1	0	0	
+SV	3582987	1a Avenida Norte	residential	1	0	0	
+SV	3582987	1a Avenida Sur	residential	1	0	0	
+SV	3582987	1a Calle Oriente	residential	1	0	0	
+SV	3582987	1a Calle Poniente	residential	1	0	0	
+SV	3582987	2a Avenida Norte	residential	1	0	0	
+SV	3582987	2a Avenida Sur	residential	1	0	0	
+SV	3582987	2a Calle Oriente	residential	1	0	0	
+SV	3582987	2a Calle Poniente	residential	1	0	0	
+SV	3582987	3a Avenida Norte	secondary	1	0	0	
+SV	3582987	3a Avenida Sur	unclassified	1	0	0	
+SV	3582987	3a Calle Oriente	residential	1	0	0	
+SV	3582987	3a Calle Poniente	residential	1	0	0	
+SV	3583009	2a Avenida Norte	residential	1	0	0	
+SV	3583009	4a Avenida Norte	residential	1	0	0	
+SV	3583009	Calle Miguel Román Peña	tertiary	1	0	0	
+SV	3583009	Calle a Caserio los Nietos	unclassified	1	0	0	
+SV	3583009	Calle caserio los nietos	unclassified	1	0	0	
+SV	3583009	Calle semipeatonal bosques de perulapia	living_street	1	0	0	
+SV	3583009	Calle, antigua linea ferrea	unclassified	1	0	0	
+SV	3583009	Cantón Zacamil	unclassified	1	0	0	
+SV	3583009	Carretera Antigua Panamericana	tertiary	1	0	0	
+SV	3583009	Carretera Cantón Zacamil	unclassified	1	0	0	
+SV	3583009	Carretera San Bartolomé Perulapía - San Pedro Perulapán	tertiary	1	0	0	
+SV	3583009	Carretera San Martín - Suchitoto	secondary	1	0	0	
+SV	3583065	10ª Calle Poniente	residential	1	0	0	
+SV	3583065	12ª Calle Oriente	residential	1	0	0	
+SV	3583065	12ª Calle Poniente	residential	1	0	0	
+SV	3583065	14ª Calle Poniente	residential	1	0	0	
+SV	3583065	1ª Avenida Norte	residential	1	0	0	
+SV	3583065	1ª Avenida Sur	residential	1	0	0	
+SV	3583065	1ª Calle Oriente	residential	1	0	0	
+SV	3583065	1ª Calle Poniente	residential	1	0	0	
+SV	3583065	2ª Avenida Norte	residential	1	0	0	
+SV	3583065	2ª Avenida Sur	residential	1	0	0	
+SV	3583065	2ª Calle Oriente	residential	1	0	0	
+SV	3583065	2ª Calle Poniente	residential	1	0	0	
+SV	3583065	3ª Avenida Norte	residential	1	0	0	
+SV	3583065	3ª Avenida Sur	residential	1	0	0	
+SV	3583065	4ª Avenida Norte	residential	1	0	0	
+SV	3583065	4ª Calle Poniente	residential	1	0	0	
+SV	3583065	5ª Avenida Norte	unclassified	1	0	0	
+SV	3583065	5ª Avenida Sur	residential	1	0	0	
+SV	3583065	5ª Calle Oriente	residential	1	0	0	
+SV	3583065	5ª Calle Poniente	residential	1	0	0	
+SV	3583065	6ª Calle Poniente	residential	1	0	0	
+SV	3583065	7ª Avenida Sur	residential	1	0	0	
+SV	3583065	7ª Calle Oriente	residential	1	0	0	
+SV	3583065	7ª Calle Poniente	residential	1	0	0	
+SV	3583090	Avenida 15 de Septiembre	secondary	10	8	96	
+SV	3583090	2a Avenida Sur	residential	5	7	39	
+SV	3583090	3a Avenida Norte	secondary	4	44	58	
+SV	3583090	6a Calle Poniente	residential	2	18	22	
+SV	3583090	8 Avenida Norte	residential	2	9	9	
+SV	3583090	1a Avenida Norte	residential	1	0	0	
+SV	3583090	1a Avenida Sur	residential	1	0	0	
+SV	3583090	1a Calle Oriente	residential	1	0	0	
+SV	3583090	2 Calle Poniente	residential	1	0	0	
+SV	3583090	2a Avenida Norte	residential	1	0	0	
+SV	3583090	2a Calle Oriente	residential	1	0	0	
+SV	3583090	2a Calle Poniente	residential	1	0	0	
+SV	3583090	3a Avenida Sur	residential	1	0	0	
+SV	3583090	3a Calle Oriente	residential	1	0	0	
+SV	3583090	4a Avenida Norte	tertiary	1	0	0	
+SV	3583090	4a Calle Oriente	residential	1	0	0	
+SV	3583090	4a Calle Poniente	residential	1	0	0	
+SV	3583090	5a Avenida Norte	residential	1	0	0	
+SV	3583090	5a Avenida Sur	residential	1	0	0	
+SV	3583090	5a Calle Oriente	residential	1	0	0	
+SV	3583090	5a Calle Poniente	residential	1	0	0	
+SV	3583090	5a Calle Poniente;	residential	1	0	0	
+SV	3583090	6 Avenida Norte	residential	1	0	0	
+SV	3583090	6a Avenida Norte	residential	1	0	0	
+SV	3583096	Avenida Principal	residential	3	25	43	
+SV	3583096	Autopista de Oro		2	0	0	
+SV	3583096	Avenida La Cima	residential	2	32	53	
+SV	3583096	Avenida Prusia	residential	2	3	153	
+SV	3583096	10° Avenida Norte	residential	1	0	0	
+SV	3583096	12 Avenida Sur Pablo Tesak	residential	1	0	0	
+SV	3583096	1° Avenida Norte	tertiary	1	0	0	
+SV	3583096	2 Calle Oriente	secondary	1	0	0	
+SV	3583096	2a Avenida Norte	residential	1	0	0	
+SV	3583096	2a Calle Oriente	residential	1	0	0	
+SV	3583096	4a Avenida Sur	secondary	1	0	0	
+SV	3583096	4a Calle Oriente	residential	1	0	0	
+SV	3583096	6a Avenida Sur	secondary	1	0	0	
+SV	3583096	Acceso	residential	1	0	0	
+SV	3583096	Anden A	pedestrian	1	0	0	
+SV	3583096	Anden B	pedestrian	1	0	0	
+SV	3583096	Anden C	pedestrian	1	0	0	
+SV	3583096	Anden D	pedestrian	1	0	0	
+SV	3583096	Anden E	pedestrian	1	0	0	
+SV	3583096	Anden F	pedestrian	1	0	0	
+SV	3583096	Anden H	pedestrian	1	0	0	
+SV	3583096	Anden I	pedestrian	1	0	0	
+SV	3583096	Anden J	pedestrian	1	0	0	
+SV	3583096	Anden K	pedestrian	1	0	0	
+SV	3583096	Anden L	pedestrian	1	0	0	
+SV	3583096	Anden M	pedestrian	1	0	0	
+SV	3583096	Anden N	pedestrian	1	0	0	
+SV	3583096	Anden O	pedestrian	1	0	0	
+SV	3583096	Anden P	pedestrian	1	0	0	
+SV	3583096	Anden Q	pedestrian	1	0	0	
+SV	3583096	Anden Y	pedestrian	1	0	0	
+SV	3583096	Avenida A	residential	1	0	0	
+SV	3583096	Avenida Abalam	residential	1	0	0	
+SV	3583096	Avenida B	residential	1	0	0	
+SV	3583096	Avenida Bálsamo	tertiary	1	0	0	
+SV	3583096	Avenida C	residential	1	0	0	
+SV	3583096	Avenida Central	residential	1	0	0	
+SV	3583096	Avenida Central Norte	residential	1	0	0	
+SV	3583096	Avenida Centro America	residential	1	0	0	
+SV	3583096	Avenida Cerro Verde	unclassified	1	0	0	
+SV	3583096	Avenida Cuella	residential	1	0	0	
+SV	3583096	Avenida El Jabalí	residential	1	0	0	
+SV	3583096	Avenida El Rosario	tertiary	1	0	0	
+SV	3583096	Avenida Florencia	residential	1	0	0	
+SV	3583096	Avenida Gran Canal	residential	1	0	0	
+SV	3583096	Avenida Guatemala	residential	1	0	0	
+SV	3583096	Avenida Hidalgo	residential	1	0	0	
+SV	3583096	Avenida K Norte	residential	1	0	0	
+SV	3583096	Avenida La Planta	residential	1	0	0	
+SV	3583096	Avenida Las Delicias	residential	1	0	0	
+SV	3583096	Avenida Las Margaritas	residential	1	0	0	
+SV	3583096	Avenida Las Orquideas	residential	1	0	0	
+SV	3583096	Avenida Las Palmeras	residential	1	0	0	
+SV	3583096	Avenida Las Violetas	residential	1	0	0	
+SV	3583096	Avenida Los Alamos	residential	1	0	0	
+SV	3583096	Avenida Los Almendros	residential	1	0	0	
+SV	3583096	Avenida Los Geranios	residential	1	0	0	
+SV	3583096	Avenida Los Girasoles	residential	1	0	0	
+SV	3583096	Avenida Los Limones	tertiary	1	0	0	
+SV	3583096	Avenida Morelos	residential	1	0	0	
+SV	3583096	Avenida Pablo Tesak	tertiary	1	0	0	
+SV	3583096	Avenida Padre Francisco Palau y Quer Ocd	residential	1	0	0	
+SV	3583096	Avenida Palmeras	residential	1	0	0	
+SV	3583096	Avenida San Antonio	tertiary	1	0	0	
+SV	3583096	Avenida San Joaquin	tertiary	1	0	0	
+SV	3583096	Avenida San Pablo	tertiary	1	0	0	
+SV	3583096	Avenida Santa Ana	residential	1	0	0	
+SV	3583096	Avenida Santa Lucía	residential	1	0	0	
+SV	3583096	Avenida Santa Maria	residential	1	0	0	
+SV	3583096	Avenida Sel Sutt	residential	1	0	0	
+SV	3583096	Avenida Tenochtitlán	tertiary	1	0	0	
+SV	3583096	Avenida Venecia	tertiary	1	0	0	
+SV	3583096	Avenida Veracruz Sur	tertiary	1	0	0	
+SV	3583096	Avenida el Gauge	residential	1	0	0	
+SV	3583096	Boulevard Bosques de la Paz	residential	1	0	0	
+SV	3583096	Boulevard El Jabalí	unclassified	1	0	0	
+SV	3583096	Boulevard Las Pavas	tertiary	1	0	0	
+SV	3583096	Boulevard San Bartolo	residential	1	0	0	
+SV	3583096	Calle 1	residential	1	0	0	
+SV	3583096	Calle 1 Oriente	residential	1	0	0	
+SV	3583096	Calle 1 Poniente	residential	1	0	0	
+SV	3583096	Calle 10 Oriente	residential	1	0	0	
+SV	3583096	Calle 10 Poniente	residential	1	0	0	
+SV	3583096	Calle 11 Oriente	residential	1	0	0	
+SV	3583096	Calle 11 Poniente	residential	1	0	0	
+SV	3583096	Calle 12 Oriente	residential	1	0	0	
+SV	3583096	Calle 12 Poniente	residential	1	0	0	
+SV	3583096	Calle 13 Oriente	residential	1	0	0	
+SV	3583096	Calle 13 Poniente	residential	1	0	0	
+SV	3583096	Calle 14 Oriente	residential	1	0	0	
+SV	3583096	Calle 14 Poniente	residential	1	0	0	
+SV	3583096	Calle 15 Poniente	residential	1	0	0	
+SV	3583096	Calle 16 Oriente	residential	1	0	0	
+SV	3583096	Calle 17 Oriente	residential	1	0	0	
+SV	3583096	Calle 17 Poniente	residential	1	0	0	
+SV	3583096	Calle 18 Oriente	residential	1	0	0	
+SV	3583096	Calle 19 Oriente	residential	1	0	0	
+SV	3583096	Calle 19 Poniente	residential	1	0	0	
+SV	3583096	Calle 2	residential	1	0	0	
+SV	3583096	Calle 2 Oriente	residential	1	0	0	
+SV	3583096	Calle 2 Poniente	residential	1	0	0	
+SV	3583096	Calle 20 Oriente	residential	1	0	0	
+SV	3583096	Calle 20 Poniente	residential	1	0	0	
+SV	3583096	Calle 21 Oriente	residential	1	0	0	
+SV	3583096	Calle 21 Poniente	residential	1	0	0	
+SV	3583096	Calle 22 Oriente	residential	1	0	0	
+SV	3583096	Calle 22 Poniente	residential	1	0	0	
+SV	3583096	Calle 23 Oriente	residential	1	0	0	
+SV	3583096	Calle 23 Poniente	residential	1	0	0	
+SV	3583096	Calle 24 Oriente	residential	1	0	0	
+SV	3583096	Calle 24 Poniente	residential	1	0	0	
+SV	3583096	Calle 25 Oriente	residential	1	0	0	
+SV	3583096	Calle 25 Poniente	residential	1	0	0	
+SV	3583096	Calle 25 de Julio	tertiary	1	0	0	
+SV	3583096	Calle 26 Oriente	residential	1	0	0	
+SV	3583096	Calle 26 Poniente	residential	1	0	0	
+SV	3583096	Calle 27 Oriente	residential	1	0	0	
+SV	3583096	Calle 27 Poniente	residential	1	0	0	
+SV	3583096	Calle 28 Oriente	residential	1	0	0	
+SV	3583096	Calle 28 Poniente	residential	1	0	0	
+SV	3583096	Calle 3	residential	1	0	0	
+SV	3583096	Calle 3 Oriente	residential	1	0	0	
+SV	3583096	Calle 3 Poniente	residential	1	0	0	
+SV	3583096	Calle 4	residential	1	0	0	
+SV	3583096	Calle 4 Oriente	residential	1	0	0	
+SV	3583096	Calle 4 Poniente	residential	1	0	0	
+SV	3583096	Calle 5	unclassified	1	0	0	
+SV	3583096	Calle 5 Oriente	residential	1	0	0	
+SV	3583096	Calle 5 Poniente	residential	1	0	0	
+SV	3583096	Calle 6	residential	1	0	0	
+SV	3583096	Calle 6 Oriente	residential	1	0	0	
+SV	3583096	Calle 6 Poniente	residential	1	0	0	
+SV	3583096	Calle 7	residential	1	0	0	
+SV	3583096	Calle 7 Oriente	residential	1	0	0	
+SV	3583096	Calle 7 Poniente	residential	1	0	0	
+SV	3583096	Calle 8	residential	1	0	0	
+SV	3583096	Calle 8 Oriente	residential	1	0	0	
+SV	3583096	Calle 8 Poniente	residential	1	0	0	
+SV	3583096	Calle 8 de Mayo	residential	1	0	0	
+SV	3583096	Calle 9 Oriente	residential	1	0	0	
+SV	3583096	Calle 9 Poniente	residential	1	0	0	
+SV	3583096	Calle A	residential	1	0	0	
+SV	3583096	Calle A Oriente	residential	1	0	0	
+SV	3583096	Calle A Poniente	residential	1	0	0	
+SV	3583096	Calle Abalam	tertiary	1	0	0	
+SV	3583096	Calle Agua Caliente	secondary	1	0	0	
+SV	3583096	Calle Al Matazano	tertiary	1	0	0	
+SV	3583096	Calle Al Mirador	residential	1	0	0	
+SV	3583096	Calle Alaban	residential	1	0	0	
+SV	3583096	Calle Amatepec	residential	1	0	0	
+SV	3583096	Calle Antigua a Prusia	residential	1	0	0	
+SV	3583096	Calle Antigua a Tonacatepeque	tertiary	1	0	0	
+SV	3583096	Calle Antigua al Matazano	residential	1	0	0	
+SV	3583096	Calle Arenal	residential	1	0	0	
+SV	3583096	Calle Astillero 1	residential	1	0	0	
+SV	3583096	Calle Astillero 2	unclassified	1	0	0	
+SV	3583096	Calle Asunción	residential	1	0	0	
+SV	3583096	Calle B	residential	1	0	0	
+SV	3583096	Calle Brisas de Cuscatlán	tertiary	1	0	0	
+SV	3583096	Calle C	residential	1	0	0	
+SV	3583096	Calle Canton La Fuente	residential	1	0	0	
+SV	3583096	Calle Circunvalación	tertiary	1	0	0	
+SV	3583096	Calle D	residential	1	0	0	
+SV	3583096	Calle Del Rastro	residential	1	0	0	
+SV	3583096	Calle E	residential	1	0	0	
+SV	3583096	Calle El Amate	residential	1	0	0	
+SV	3583096	Calle El Arenal	residential	1	0	0	
+SV	3583096	Calle El Cocal	residential	1	0	0	
+SV	3583096	Calle El Gauje	unclassified	1	0	0	
+SV	3583096	Calle El Refugio	tertiary	1	0	0	
+SV	3583096	Calle El Salvador	residential	1	0	0	
+SV	3583096	Calle El Sauce	tertiary	1	0	0	
+SV	3583096	Calle Espíritu Santo	residential	1	0	0	
+SV	3583096	Calle Estacionamiento 4	residential	1	0	0	
+SV	3583096	Calle F	residential	1	0	0	
+SV	3583096	Calle Franklin D. Roosevelt Poniente	secondary	1	0	0	
+SV	3583096	Calle G	residential	1	0	0	
+SV	3583096	Calle Gladiolas	residential	1	0	0	
+SV	3583096	Calle Guayacan	residential	1	0	0	
+SV	3583096	Calle H	residential	1	0	0	
+SV	3583096	Calle Jardin	residential	1	0	0	
+SV	3583096	Calle Jose Martí	residential	1	0	0	
+SV	3583096	Calle José Mariano Calderón	residential	1	0	0	
+SV	3583096	Calle La Araucaria	residential	1	0	0	
+SV	3583096	Calle La Barranquilla	residential	1	0	0	
+SV	3583096	Calle La Cima	residential	1	0	0	
+SV	3583096	Calle La Fuente	tertiary	1	0	0	
+SV	3583096	Calle La Union	residential	1	0	0	
+SV	3583096	Calle Las Brisas	unclassified	1	0	0	
+SV	3583096	Calle Las Dalias	residential	1	0	0	
+SV	3583096	Calle Las Flores	residential	1	0	0	
+SV	3583096	Calle Las Lilas	residential	1	0	0	
+SV	3583096	Calle Las Magnolias	residential	1	0	0	
+SV	3583096	Calle Las Margaritas	residential	1	0	0	
+SV	3583096	Calle Las Rosas	residential	1	0	0	
+SV	3583096	Calle Los Abetos	residential	1	0	0	
+SV	3583096	Calle Los Arrayanes	residential	1	0	0	
+SV	3583096	Calle Los Eucaliptos	tertiary	1	0	0	
+SV	3583096	Calle Milán	residential	1	0	0	
+SV	3583096	Calle Monte Carmelo	tertiary	1	0	0	
+SV	3583098	1a Avenida Norte	residential	1	0	0	
+SV	3583098	1a Avenida Sur	residential	1	0	0	
+SV	3583098	1a Calle Poniente	residential	1	0	0	
+SV	3583098	29a Calle Oriente	residential	1	0	0	
+SV	3583098	2a Avenida Norte	residential	1	0	0	
+SV	3583098	2a Avenida Sur	tertiary	1	0	0	
+SV	3583098	2a Calle Oriente	secondary	1	0	0	
+SV	3583098	2a Calle Poniente	secondary	1	0	0	
+SV	3583098	3a Avenida Norte	residential	1	0	0	
+SV	3583098	3a Avenida Sur	residential	1	0	0	
+SV	3583098	3a Calle Oriente	residential	1	0	0	
+SV	3583098	3a Calle Poniente	residential	1	0	0	
+SV	3583098	4a Avenida Norte	residential	1	0	0	
+SV	3583098	4a Avenida Sur	residential	1	0	0	
+SV	3583098	4a Calle Oriente	residential	1	0	0	
+SV	3583098	4a Calle Poniente	residential	1	0	0	
+SV	3583098	5a Calle Oriente	residential	1	0	0	
+SV	3583098	5a Calle Poniente	residential	1	0	0	
+SV	3583098	6a Avenida Norte	residential	1	0	0	
+SV	3583098	7a Calle Oriente	residential	1	0	0	
+SV	3583098	Avendia Las Mercedes	residential	1	0	0	
+SV	3583098	Avenida 1	residential	1	0	0	
+SV	3583098	Avenida 10 Grande Sur	residential	1	0	0	
+SV	3583098	Avenida Albania Norte	residential	1	0	0	
+SV	3583098	Avenida Altamira	residential	1	0	0	
+SV	3583098	Avenida Central	residential	1	0	0	
+SV	3583098	Avenida Colorado	residential	1	0	0	
+SV	3583098	Avenida Don Bosco	residential	1	0	0	
+SV	3583098	Avenida El Naranjal	residential	1	0	0	
+SV	3583098	Avenida La Diligencia	residential	1	0	0	
+SV	3583098	Avenida Las Palmeras	residential	1	0	0	
+SV	3583098	Avenida Los Laureles	residential	1	0	0	
+SV	3583098	Avenida Los Naranjos	residential	1	0	0	
+SV	3583098	Avenida Los Pinos	residential	1	0	0	
+SV	3583098	Avenida Manuel José Arce	residential	1	0	0	
+SV	3583098	Avenida Morazán	secondary	1	0	0	
+SV	3583098	Avenida Principal	residential	1	0	0	
+SV	3583098	Avenida Río Grande Norte	residential	1	0	0	
+SV	3583098	Avenida Salarrué	residential	1	0	0	
+SV	3583098	Avenida Santa Lucía	residential	1	0	0	
+SV	3583098	Avenida Texas	residential	1	0	0	
+SV	3583098	Boulevard El Castaño	residential	1	0	0	
+SV	3583098	Calle 1	residential	1	0	0	
+SV	3583098	Calle 2	residential	1	0	0	
+SV	3583098	Calle 3	residential	1	0	0	
+SV	3583098	Calle A	tertiary	1	0	0	
+SV	3583098	Calle Antigua a Santa Ana	tertiary	1	0	0	
+SV	3583098	Calle Candelaria	residential	1	0	0	
+SV	3583102	Calle El Ángel	residential	4	21	40	
+SV	3583102	Boulevard Las Palmeras		2	0	0	
+SV	3583102	10a Avenida Norte	tertiary	1	0	0	
+SV	3583102	10a Avenida Sur	tertiary	1	0	0	
+SV	3583102	10a Calle Poniente	residential	1	0	0	
+SV	3583102	11a Calle Oriente	residential	1	0	0	
+SV	3583102	12a Calle Poniente	unclassified	1	0	0	
+SV	3583102	13a Calle Oriente	residential	1	0	0	
+SV	3583102	13a Calle Oriente Bis	residential	1	0	0	
+SV	3583102	14a Avenida Norte	residential	1	0	0	
+SV	3583102	14a Calle Poniente	residential	1	0	0	
+SV	3583102	15a Avenida Norte	residential	1	0	0	
+SV	3583102	15a Calle Oriente	residential	1	0	0	
+SV	3583102	16a Avenida Norte	residential	1	0	0	
+SV	3583102	16a Calle Poniente	residential	1	0	0	
+SV	3583102	17a Calle Oriente	residential	1	0	0	
+SV	3583102	18a Avenida Norte	residential	1	0	0	
+SV	3583102	18a Avenida Sur	residential	1	0	0	
+SV	3583102	18a Calle Poniente	residential	1	0	0	
+SV	3583102	19a Calle Oriente	residential	1	0	0	
+SV	3583102	1a Avenida	residential	1	0	0	
+SV	3583102	1a Avenida Norte	residential	1	0	0	
+SV	3583102	1a Calle	residential	1	0	0	
+SV	3583102	1a Calle Oriente	residential	1	0	0	
+SV	3583102	1a Calle Oriente Bis	residential	1	0	0	
+SV	3583102	1a Calle Poniente	unclassified	1	0	0	
+SV	3583102	1a. Calle Oriente	residential	1	0	0	
+SV	3583102	20a Avenida Norte	residential	1	0	0	
+SV	3583102	20a Avenida Sur	residential	1	0	0	
+SV	3583102	20a Calle Poniente	residential	1	0	0	
+SV	3583102	21a Calle Oriente	residential	1	0	0	
+SV	3583102	22a Avenida Norte	residential	1	0	0	
+SV	3583102	22a Avenida Sur	residential	1	0	0	
+SV	3583102	22a Calle Poniente	residential	1	0	0	
+SV	3583102	23a Calle Oriente	residential	1	0	0	
+SV	3583102	24a Avenida Norte	residential	1	0	0	
+SV	3583102	24a Avenida Sur	residential	1	0	0	
+SV	3583102	24a Calle Poniente	residential	1	0	0	
+SV	3583102	25a Calle Oriente	tertiary	1	0	0	
+SV	3583102	26a Avenida Norte	residential	1	0	0	
+SV	3583102	26a Avenida Sur	residential	1	0	0	
+SV	3583102	26a Calle Poniente	residential	1	0	0	
+SV	3583102	27a Calle Oriente	residential	1	0	0	
+SV	3583102	28a Avenida Norte	residential	1	0	0	
+SV	3583102	2a Avenida	residential	1	0	0	
+SV	3583102	2a Avenida Norte	residential	1	0	0	
+SV	3583102	2a Avenida Sur	residential	1	0	0	
+SV	3583102	2a Calle	residential	1	0	0	
+SV	3583102	2a Calle Poniente	residential	1	0	0	
+SV	3583102	2a. Calle Oriente	residential	1	0	0	
+SV	3583102	30a Avenida Norte	residential	1	0	0	
+SV	3583102	30a Calle Oriente	residential	1	0	0	
+SV	3583102	32a Avenida Norte	residential	1	0	0	
+SV	3583102	3a Avenida Norte	residential	1	0	0	
+SV	3583102	3a Avenida Sur	residential	1	0	0	
+SV	3583102	3a Calle Oriente	residential	1	0	0	
+SV	3583102	3a Calle Poniente	residential	1	0	0	
+SV	3583102	3a. Calle Oriente	residential	1	0	0	
+SV	3583102	4a Avenida Sur	residential	1	0	0	
+SV	3583102	4a Calle Oriente	residential	1	0	0	
+SV	3583102	4a Calle Poniente	residential	1	0	0	
+SV	3583102	5a Calle Oriente	residential	1	0	0	
+SV	3583102	5a Calle Poniente	tertiary	1	0	0	
+SV	3583102	5a Calle Sur	unclassified	1	0	0	
+SV	3583102	6a Avenida Norte	residential	1	0	0	
+SV	3583102	6a Calle Poniente	residential	1	0	0	
+SV	3583102	7a Avenida Sur	residential	1	0	0	
+SV	3583102	7a Calle Oriente	secondary	1	0	0	
+SV	3583102	7a Calle Poniente	secondary	1	0	0	
+SV	3583102	8a Avenida Norte	residential	1	0	0	
+SV	3583102	8a Avenida Sur	residential	1	0	0	
+SV	3583102	8a Calle Oriente	residential	1	0	0	
+SV	3583102	8a Calle Poniente	unclassified	1	0	0	
+SV	3583102	9a Calle Oriente	residential	1	0	0	
+SV	3583102	9a Calle Poniente	residential	1	0	0	
+SV	3583102	Avenida 1	residential	1	0	0	
+SV	3583102	Avenida 2	residential	1	0	0	
+SV	3583102	Avenida 23 de Noviembre Norte	residential	1	0	0	
+SV	3583102	Avenida 23 de Noviembre Sur	residential	1	0	0	
+SV	3583102	Avenida 3	residential	1	0	0	
+SV	3583102	Avenida 4	residential	1	0	0	
+SV	3583102	Avenida Atonal	residential	1	0	0	
+SV	3583102	Avenida Carlos S. Langenegger	unclassified	1	0	0	
+SV	3583102	Avenida Central	residential	1	0	0	
+SV	3583102	Avenida Claudia Lars	residential	1	0	0	
+SV	3583102	Avenida Claudia Lars Sur	unclassified	1	0	0	
+SV	3583102	Avenida Diagonal	residential	1	0	0	
+SV	3583102	Avenida El Balsamar	residential	1	0	0	
+SV	3583102	Avenida El Castaño	residential	1	0	0	
+SV	3583102	Avenida El Eucalipto	residential	1	0	0	
+SV	3583102	Avenida Fray Flavián Mucci Norte	secondary	1	0	0	
+SV	3583102	Avenida Fray Flavián Mucci Sur	unclassified	1	0	0	
+SV	3583102	Avenida La Gloria	residential	1	0	0	
+SV	3583102	Avenida La Terminal	residential	1	0	0	
+SV	3583102	Avenida Las Victorias	residential	1	0	0	
+SV	3583102	Avenida Lempira	residential	1	0	0	
+SV	3583102	Avenida Los Cedros	residential	1	0	0	
+SV	3583102	Avenida Los Maratones	residential	1	0	0	
+SV	3583102	Avenida Los Pinos	residential	1	0	0	
+SV	3583102	Avenida Los Zapotes	residential	1	0	0	
+SV	3583111	1a Avenida Norte	residential	1	0	0	
+SV	3583111	1a Avenida Sur	residential	1	0	0	
+SV	3583111	1a Calle Oriente	residential	1	0	0	
+SV	3583111	1a Calle Poniente	residential	1	0	0	
+SV	3583111	2a Avenida Norte	residential	1	0	0	
+SV	3583111	2a Avenida Sur	residential	1	0	0	
+SV	3583111	2a Calle Oriente	tertiary	1	0	0	
+SV	3583111	2a Calle Poniente	residential	1	0	0	
+SV	3583111	3a Calle Oriente	residential	1	0	0	
+SV	3583111	3a Calle Poniente	secondary	1	0	0	
+SV	3583111	4 Calle Oriente	residential	1	0	0	
+SV	3583111	4a Avenida Norte	tertiary	1	0	0	
+SV	3583155	10a Calle Oriente	residential	1	0	0	
+SV	3583155	10a Calle Poniente	residential	1	0	0	
+SV	3583155	11a Calle Oriente	residential	1	0	0	
+SV	3583155	12a Calle Oriente	residential	1	0	0	
+SV	3583155	12a Calle Poniente	residential	1	0	0	
+SV	3583155	1a Avenida Norte	residential	1	0	0	
+SV	3583155	1a Avenida Sur	tertiary	1	0	0	
+SV	3583155	1a Calle Oriente	residential	1	0	0	
+SV	3583155	1a Calle Poniente	residential	1	0	0	
+SV	3583155	2a Avenida Norte	residential	1	0	0	
+SV	3583155	2a Avenida Sur	residential	1	0	0	
+SV	3583155	3a Avenida Norte	residential	1	0	0	
+SV	3583158	10a Avenida Norte	residential	1	0	0	
+SV	3583158	10a Avenida Sur	residential	1	0	0	
+SV	3583158	10a Calle Oriente	residential	1	0	0	
+SV	3583158	10a Calle Poniente	residential	1	0	0	
+SV	3583158	11a Avenida Norte	residential	1	0	0	
+SV	3583158	12a Avenida Norte	residential	1	0	0	
+SV	3583158	12a Avenida Sur	residential	1	0	0	
+SV	3583158	12a Calle Poniente	residential	1	0	0	
+SV	3583158	13a Avenida Norte	residential	1	0	0	
+SV	3583158	14a Avenida Norte	residential	1	0	0	
+SV	3583158	14a Avenida Sur	residential	1	0	0	
+SV	3583158	14a Calle Poniente	residential	1	0	0	
+SV	3583158	15a Avenida Norte	residential	1	0	0	
+SV	3583158	17a Avenida Norte	unclassified	1	0	0	
+SV	3583158	1a Avenida Norte	secondary	1	0	0	
+SV	3583158	1a Avenida Sur	residential	1	0	0	
+SV	3583158	1a Calle Oriente	tertiary	1	0	0	
+SV	3583158	1a Calle Poniente	residential	1	0	0	
+SV	3583158	1ra Calle Oriente	residential	1	0	0	
+SV	3583158	1ra Calle Poniente	residential	1	0	0	
+SV	3583158	2a Avenida Norte	unclassified	1	0	0	
+SV	3583158	2a Avenida Sur	residential	1	0	0	
+SV	3583158	2a Calle Oriente	residential	1	0	0	
+SV	3583158	2a Calle Poniente	residential	1	0	0	
+SV	3583158	2da Calle Oriente	residential	1	0	0	
+SV	3583158	2da Calle Poniente	residential	1	0	0	
+SV	3583158	3a Avenida Norte	residential	1	0	0	
+SV	3583158	3a Avenida Sur	residential	1	0	0	
+SV	3583158	3a Calle Oriente	residential	1	0	0	
+SV	3583158	3a Calle Poniente	residential	1	0	0	
+SV	3583158	4a Avenida Norte	residential	1	0	0	
+SV	3583158	4a Avenida Sur	residential	1	0	0	
+SV	3583158	4a Calle Oriente	residential	1	0	0	
+SV	3583158	4a Calle Poniente	residential	1	0	0	
+SV	3583158	5a Avenida Norte	tertiary	1	0	0	
+SV	3583158	5a Avenida Sur	tertiary	1	0	0	
+SV	3583158	5a Calle Oriente	residential	1	0	0	
+SV	3583158	5a Calle Poniente	residential	1	0	0	
+SV	3583158	6a Avenida Norte	residential	1	0	0	
+SV	3583158	6a Avenida Sur	residential	1	0	0	
+SV	3583158	6a Calle Poniente	tertiary	1	0	0	
+SV	3583158	7a Avenida Norte	residential	1	0	0	
+SV	3583158	7a Avenida Sur	residential	1	0	0	
+SV	3583158	7a Calle Oriente	residential	1	0	0	
+SV	3583158	7a Calle Poniente	residential	1	0	0	
+SV	3583158	8a Avenida Norte	residential	1	0	0	
+SV	3583158	8a Avenida Sur	residential	1	0	0	
+SV	3583158	8a Calle Oriente	residential	1	0	0	
+SV	3583178	10a Avenida	residential	1	0	0	
+SV	3583178	10a Avenida Norte	residential	1	0	0	
+SV	3583178	10a Avenida Sur	residential	1	0	0	
+SV	3583178	10a Calle	residential	1	0	0	
+SV	3583178	11a Avenida	residential	1	0	0	
+SV	3583178	12a Avenida	residential	1	0	0	
+SV	3583178	12a Calle	residential	1	0	0	
+SV	3583178	14a Calle	residential	1	0	0	
+SV	3583178	15a Avenida Sur	residential	1	0	0	
+SV	3583178	16a Calle	residential	1	0	0	
+SV	3583178	18a Calle	residential	1	0	0	
+SV	3583178	1a Avenida Norte	residential	1	0	0	
+SV	3583178	1a Avenida Sur	residential	1	0	0	
+SV	3583178	1a Calle Oriente	residential	1	0	0	
+SV	3583178	1a Calle Poniente	residential	1	0	0	
+SV	3583178	1ª Avenida Sur	unclassified	1	0	0	
+SV	3583178	2a Avenida Norte	secondary	1	0	0	
+SV	3583178	2a Avenida Sur	residential	1	0	0	
+SV	3583178	2a Calle Oriente	residential	1	0	0	
+SV	3583178	2a Calle Poniente	residential	1	0	0	
+SV	3583178	2ª Avenida Sur	residential	1	0	0	
+SV	3583178	3a Avenida	residential	1	0	0	
+SV	3583178	3a Avenida Norte	residential	1	0	0	
+SV	3583178	3a Avenida Sur	residential	1	0	0	
+SV	3583178	3a Calle Oriente	residential	1	0	0	
+SV	3583178	3a Calle Poniente	residential	1	0	0	
+SV	3583178	3ª Avenida Sur	residential	1	0	0	
+SV	3583178	4a Avenida	residential	1	0	0	
+SV	3583178	4a Avenida Norte	residential	1	0	0	
+SV	3583178	4a Avenida Sur	residential	1	0	0	
+SV	3583178	4a Calle Oriente	residential	1	0	0	
+SV	3583178	4a Calle Poniente	residential	1	0	0	
+SV	3583178	5a Avenida	residential	1	0	0	
+SV	3583178	5a Avenida Norte	residential	1	0	0	
+SV	3583178	5a Avenida Sur	tertiary	1	0	0	
+SV	3583178	5a Calle Oriente	residential	1	0	0	
+SV	3583178	5a Calle Poniente	tertiary	1	0	0	
+SV	3583178	5ª Avenida Sur	residential	1	0	0	
+SV	3583178	6a Avenida Norte	residential	1	0	0	
+SV	3583178	6a Avenida Sur	tertiary	1	0	0	
+SV	3583178	6a Calle	residential	1	0	0	
+SV	3583178	6a Calle Oriente	residential	1	0	0	
+SV	3583178	6a Calle Poniente	residential	1	0	0	
+SV	3583178	7a Avenida	residential	1	0	0	
+SV	3583178	7a Avenida Norte	residential	1	0	0	
+SV	3583178	7a Calle Oriente	residential	1	0	0	
+SV	3583178	8a Avenida Norte	residential	1	0	0	
+SV	3583178	8a Calle	residential	1	0	0	
+SV	3583183	1a Avenida Sur	residential	1	0	0	
+SV	3583183	2a Calle Oriente	residential	1	0	0	
+SV	3583183	2a Calle Poniente	residential	1	0	0	
+SV	3583183	Avenida Central Sur	residential	1	0	0	
+SV	3583183	Avenida José Matías Delgado	residential	1	0	0	
+SV	3583183	Avenida Juan Manuel Rodríguez	residential	1	0	0	
+SV	3583183	Avenida La Ronda	residential	1	0	0	
+SV	3583183	Avenida Morazán	residential	1	0	0	
+SV	3583183	Calle 01 de Mayo	residential	1	0	0	
+SV	3583183	Calle 05 de Noviembre	tertiary	1	0	0	
+SV	3583183	Calle Antigua a Zacatecoluca	secondary	1	0	0	
+SV	3583183	Calle José Mariano Calderón	tertiary	1	0	0	
+SV	3583183	Calle Los Estudiantes	residential	1	0	0	
+SV	3583183	Calle Principal	residential	1	0	0	
+SV	3583183	Calle San Marcos	secondary	1	0	0	
+SV	3583183	Calle antigua Santo Tomas-Santiago Texacuangos	residential	1	0	0	
+SV	3583183	Calle el nispero	residential	1	0	0	
+SV	3583183	Carretera Santo Tomás - Ilopango	tertiary	1	0	0	
+SV	3583183	Pasaje 1	residential	1	0	0	
+SV	3583183	Pasaje 2	residential	1	0	0	
+SV	3583183	Pasaje 3	residential	1	0	0	
+SV	3583183	Pasaje 5	residential	1	0	0	
+SV	3583183	Pasaje el nispero	residential	1	0	0	
+SV	3583196	11a Avenida Norte	residential	1	0	0	
+SV	3583196	5a Calle Poniente	residential	1	0	0	
+SV	3583196	9a Avenida Norte	residential	1	0	0	
+SV	3583196	Avenida Alberto Masferrer	residential	1	0	0	
+SV	3583196	Avenida Alfredo Espino	residential	1	0	0	
+SV	3583196	Avenida Anastacio Aquino	tertiary	1	0	0	
+SV	3583196	Avenida El Progreso	tertiary	1	0	0	
+SV	3583196	Avenida Las Orquídeas	residential	1	0	0	
+SV	3583196	Avenida México	residential	1	0	0	
+SV	3583196	Avenida Santiago Jose Celis	tertiary	1	0	0	
+SV	3583196	Calle Doctor Hermógenes Alvarado	tertiary	1	0	0	
+SV	3583196	Calle Dr. Hermogenes Alvarado	tertiary	1	0	0	
+SV	3583196	Calle Francisco Gavidia	tertiary	1	0	0	
+SV	3583196	Calle Francisco Morazán	residential	1	0	0	
+SV	3583196	Calle Gerardo Barrios	residential	1	0	0	
+SV	3583196	Calle Jose Matias Delgado	residential	1	0	0	
+SV	3583196	Calle José Matías Delgado	residential	1	0	0	
+SV	3583196	Calle José Simeón Cañas	residential	1	0	0	
+SV	3583196	Calle Manuel Enrique Araujo	residential	1	0	0	
+SV	3583196	Calle Señor Ángel Gómez	residential	1	0	0	
+SV	3583196	Calle a Cantón Barahona	tertiary	1	0	0	
+SV	3583196	Calle a Cantón Los Solares	tertiary	1	0	0	
+SV	3583196	Calle a Cantón San José Los Solares	tertiary	1	0	0	
+SV	3583196	Carretera a Zacatecoluca	secondary	1	0	0	
+SV	3583199	10a Avenida Sur	residential	1	0	0	
+SV	3583199	10a Calle Oriente	residential	1	0	0	
+SV	3583199	12a Avenida Sur	residential	1	0	0	
+SV	3583199	12a Calle Oriente	residential	1	0	0	
+SV	3583199	14a Avenida Sur	residential	1	0	0	
+SV	3583199	14a Calle Oriente	residential	1	0	0	
+SV	3583199	1a Avenida Norte	residential	1	0	0	
+SV	3583199	1a Avenida Sur	residential	1	0	0	
+SV	3583199	1a Calle Oriente	residential	1	0	0	
+SV	3583199	1a Calle Poniente	residential	1	0	0	
+SV	3583199	2a Avenida Norte	residential	1	0	0	
+SV	3583199	2a Avenida Sur	residential	1	0	0	
+SV	3583199	2a Calle Oriente	residential	1	0	0	
+SV	3583199	2a Calle Poniente	residential	1	0	0	
+SV	3583199	3a Avenida Norte	secondary	1	0	0	
+SV	3583199	3a Avenida Sur	residential	1	0	0	
+SV	3583199	3a Calle Oriente	residential	1	0	0	
+SV	3583199	3a Calle Poniente	residential	1	0	0	
+SV	3583199	4a Avenida Norte	residential	1	0	0	
+SV	3583199	4a Avenida Sur	residential	1	0	0	
+SV	3583199	4a Calle Oriente	residential	1	0	0	
+SV	3583199	4a Calle Poniente	residential	1	0	0	
+SV	3583199	5a Avenida Norte	residential	1	0	0	
+SV	3583199	5a Avenida Sur	residential	1	0	0	
+SV	3583199	5a Calle Oriente	residential	1	0	0	
+SV	3583199	5a Calle Poniente	residential	1	0	0	
+SV	3583199	6a Avenida Norte	residential	1	0	0	
+SV	3583199	6a Avenida Sur	residential	1	0	0	
+SV	3583199	6a Calle Oriente	residential	1	0	0	
+SV	3583199	6a Calle Poniente	residential	1	0	0	
+SV	3583199	7a Avenida Norte	residential	1	0	0	
+SV	3583199	7a Avenida Sur	residential	1	0	0	
+SV	3583199	7a Calle Oriente	residential	1	0	0	
+SV	3583199	8a Avenida Norte	residential	1	0	0	
+SV	3583199	8a Avenida Sur	residential	1	0	0	
+SV	3583199	8a Calle Oriente	residential	1	0	0	
+SV	3583199	8a Calle Poniente	residential	1	0	0	
+SV	3583199	Avenida 08 de Diciembre	residential	1	0	0	
+SV	3583199	Avenida 15 de Septiembre	secondary	1	0	0	
+SV	3583199	Avenida Camilo Campos	residential	1	0	0	
+SV	3583199	Avenida Central Norte	tertiary	1	0	0	
+SV	3583199	Avenida Central Sur	tertiary	1	0	0	
+SV	3583199	Avenida Dr. Grimaldi	residential	1	0	0	
+SV	3583199	Avenida Gólgota	residential	1	0	0	
+SV	3583199	Avenida Mariscal González	secondary	1	0	0	
+SV	3583199	Avenida Pedro Motio	residential	1	0	0	
+SV	3583199	Calle Alberto Masferrer	secondary	1	0	0	
+SV	3583199	Calle Bolívar Oriente	residential	1	0	0	
+SV	3583214	10a Avenida Norte	residential	1	0	0	
+SV	3583214	10a Avenida Sur	residential	1	0	0	
+SV	3583214	11a Calle Poniente	residential	1	0	0	
+SV	3583214	12a Avenida Norte	residential	1	0	0	
+SV	3583214	13a Calle Oriente	residential	1	0	0	
+SV	3583214	13a Calle Poniente	residential	1	0	0	
+SV	3583214	14a Avenida	residential	1	0	0	
+SV	3583214	16a Avenida Norte	residential	1	0	0	
+SV	3583214	18a Avenida Norte	residential	1	0	0	
+SV	3583214	1a Avenida Norte	residential	1	0	0	
+SV	3583214	1a Avenida Sur	residential	1	0	0	
+SV	3583214	1a Calle Oriente	tertiary	1	0	0	
+SV	3583214	1a Calle Poniente	residential	1	0	0	
+SV	3583214	2a Avenida Norte	residential	1	0	0	
+SV	3583214	2a Avenida Sur	residential	1	0	0	
+SV	3583214	2a Calle Oriente	residential	1	0	0	
+SV	3583214	2a Calle Poniente	residential	1	0	0	
+SV	3583214	3a Avenida Norte	residential	1	0	0	
+SV	3583214	3a Avenida Sur	residential	1	0	0	
+SV	3583214	3a Calle Oriente	residential	1	0	0	
+SV	3583214	3a Calle Poniente	secondary	1	0	0	
+SV	3583214	4a Avenida Norte	residential	1	0	0	
+SV	3583214	4a Avenida Sur	residential	1	0	0	
+SV	3583214	4a Calle Oriente	residential	1	0	0	
+SV	3583278	10 Avenida Norte	residential	1	0	0	
+SV	3583278	101a Avenida Norte	residential	1	0	0	
+SV	3583278	10a Calle Oriente	residential	1	0	0	
+SV	3583278	10a Calle Poniente	residential	1	0	0	
+SV	3583278	11a Calle Oriente	residential	1	0	0	
+SV	3583278	11a Calle Poniente	residential	1	0	0	
+SV	3583278	12a Calle Oriente	residential	1	0	0	
+SV	3583278	12a Calle Poniente	residential	1	0	0	
+SV	3583278	13a Calle Oriente	residential	1	0	0	
+SV	3583278	13a Calle Poniente	residential	1	0	0	
+SV	3583278	14a Calle Oriente	residential	1	0	0	
+SV	3583278	14a Calle Poniente	residential	1	0	0	
+SV	3583278	15a Calle Poniente	residential	1	0	0	
+SV	3583278	16a Calle Oriente	residential	1	0	0	
+SV	3583278	18a Calle Oriente	residential	1	0	0	
+SV	3583278	1a Avenida Norte	tertiary	1	0	0	
+SV	3583278	1a Avenida Sur	tertiary	1	0	0	
+SV	3583278	1a Calle Oriente	residential	1	0	0	
+SV	3583278	1a Calle Poniente	residential	1	0	0	
+SV	3583278	2a Avenida Norte	residential	1	0	0	
+SV	3583278	2a Avenida Sur	residential	1	0	0	
+SV	3583278	2a Calle Oriente	residential	1	0	0	
+SV	3583278	2a Calle Poniente	residential	1	0	0	
+SV	3583278	3 Avenida Sur	residential	1	0	0	
+SV	3583334	Calle Circunvalación	residential	40	1	24	
+SV	3583334	Avenida A	residential	29	4	20	
+SV	3583334	Avenida B	residential	27	1	19	
+SV	3583334	1 Avenida Norte		14	1	25	
+SV	3583334	Carretera a Metapán	primary	12	1	11	
+SV	3583334	2ª Calle Poniente o Vía Morena		11	2	20	
+SV	3583334	9a Avenida Norte	primary	11	16	66	
+SV	3583334	9 Avenida Norte		10	3	79	
+SV	3583334	11 Avenida Norte Carretera a Metapán		7	32	53	
+SV	3583334	Final 11a Avenida Norte	residential	7	1	9	
+SV	3583334	12 Calle Poniente		5	2	25	
+SV	3583334	3 Calle Oriente		5	11	48	
+SV	3583334	12 Calle Oriente		4	3	16	
+SV	3583334	2ª Avenida Norte		4	2	5	
+SV	3583334	4 Calle Oriente		4	6	8	
+SV	3583334	6a Avenida Norte	residential	4	10	14	
+SV	3583334	2 Calle Poniente		3	32	42	
+SV	3583334	25 Avenida Sur		3	25	25	
+SV	3583334	4a Calle Poniente	residential	3	9	11	
+SV	3583334	4ª Avenida Norte		3	5	7	
+SV	3583334	5 Calle Oriente		3	10	29	
+SV	3583334	13 Avenida Sur		2	50	52	
+SV	3583334	29 Calle Poniente		2	10	10	
+SV	3583334	2a Calle Oriente	residential	2	10	10	
+SV	3583334	2ª Calle Poniente		2	1	2	
+SV	3583334	3a Avenida Sur	residential	2	10	25	
+SV	3583334	9a Calle Poniente	residential	2	17	20	
+SV	3583334	Avenida Fray Felipe de Jesus Moraga		2	2	18	
+SV	3583334	Avenida Independencia Sur	secondary	2	8	24	
+SV	3583334	Calle San Juan Bosco - 8 Calle Pte		2	54	58	
+SV	3583334	10a Avenida Norte	residential	1	0	0	
+SV	3583334	10a Calle Oriente	residential	1	0	0	
+SV	3583334	10a Calle Poniente	residential	1	0	0	
+SV	3583334	10ma Avenida Nortre	residential	1	0	0	
+SV	3583334	11a Avenida Norte	primary	1	0	0	
+SV	3583334	11a Calle Poniente	residential	1	0	0	
+SV	3583334	11a Calle Poniente Bis	residential	1	0	0	
+SV	3583334	12a Avenida Norte	residential	1	0	0	
+SV	3583334	12a Avenida Sur	residential	1	0	0	
+SV	3583334	12a Calle Oriente	residential	1	0	0	
+SV	3583334	12a Calle Poniente	residential	1	0	0	
+SV	3583334	13a Calle Oriente	residential	1	0	0	
+SV	3583334	13a Calle Poniente	residential	1	0	0	
+SV	3583334	14a Avenida Norte	residential	1	0	0	
+SV	3583334	14a Avenida Sur	residential	1	0	0	
+SV	3583334	14a Calle Oriente	residential	1	0	0	
+SV	3583334	14a Calle Poniente	tertiary	1	0	0	
+SV	3583334	15a Avenida Norte	residential	1	0	0	
+SV	3583334	15a Avenida Sur	tertiary	1	0	0	
+SV	3583334	15a Calle Oriente	residential	1	0	0	
+SV	3583334	15a Calle Poniente	residential	1	0	0	
+SV	3583334	16a Avenida Norte	residential	1	0	0	
+SV	3583334	16a Calle Oriente	residential	1	0	0	
+SV	3583334	16a Calle Poniente	residential	1	0	0	
+SV	3583334	17a Avenida Norte	residential	1	0	0	
+SV	3583334	17a Calle Oriente	residential	1	0	0	
+SV	3583334	17a Calle Poniente	residential	1	0	0	
+SV	3583334	18	pedestrian	1	0	0	
+SV	3583334	18a Avenida Norte	residential	1	0	0	
+SV	3583334	18a Avenida Sur	residential	1	0	0	
+SV	3583334	18a Calle Poniente	residential	1	0	0	
+SV	3583334	19a Avenida Norte	residential	1	0	0	
+SV	3583334	19a Avenida Sur	residential	1	0	0	
+SV	3583334	19a Calle Oriente	residential	1	0	0	
+SV	3583334	19a Calle Poniente	residential	1	0	0	
+SV	3583334	1a Avenida Norte	residential	1	0	0	
+SV	3583334	1a Avenida Sur	residential	1	0	0	
+SV	3583334	1a Calle	residential	1	0	0	
+SV	3583334	1a Calle Oriente	residential	1	0	0	
+SV	3583334	1a Calle Poniente	residential	1	0	0	
+SV	3583334	1er Pasaje	residential	1	0	0	
+SV	3583334	20a Avenida Norte	residential	1	0	0	
+SV	3583334	20a Avenida Sur	residential	1	0	0	
+SV	3583334	20a Calle Oriente	residential	1	0	0	
+SV	3583334	20a Calle Poniente	residential	1	0	0	
+SV	3583334	21a Avenida Norte	residential	1	0	0	
+SV	3583334	21a Avenida Sur	residential	1	0	0	
+SV	3583334	21a Calle Oriente	residential	1	0	0	
+SV	3583334	21a Calle Poniente	residential	1	0	0	
+SV	3583334	22a Avenida Sur	residential	1	0	0	
+SV	3583334	23a Avenida Norte	residential	1	0	0	
+SV	3583334	23a Avenida Sur	secondary	1	0	0	
+SV	3583334	23a Calle Oriente	residential	1	0	0	
+SV	3583334	23a Calle Poniente	residential	1	0	0	
+SV	3583334	24a Avenida Sur	residential	1	0	0	
+SV	3583334	24a Calle Poniente	residential	1	0	0	
+SV	3583334	25a Avenida Norte	residential	1	0	0	
+SV	3583334	25a Avenida Sur	secondary	1	0	0	
+SV	3583334	25a Calle Poniente	tertiary	1	0	0	
+SV	3583334	26a Avenida Sur	residential	1	0	0	
+SV	3583334	26a Calle Poniente	residential	1	0	0	
+SV	3583334	27a Calle Oriente	residential	1	0	0	
+SV	3583334	27a Calle Poniente	residential	1	0	0	
+SV	3583334	28 Avenida Sur	residential	1	0	0	
+SV	3583334	28a Avenida Sur	residential	1	0	0	
+SV	3583334	28a Calle Poniente	residential	1	0	0	
+SV	3583334	29a Calle Poniente	residential	1	0	0	
+SV	3583334	2a Avenida Norte	residential	1	0	0	
+SV	3583334	2a Avenida Sur	residential	1	0	0	
+SV	3583334	2a Calle	residential	1	0	0	
+SV	3583352	10a Avenida Norte	residential	1	0	0	
+SV	3583352	10a Calle Poniente	residential	1	0	0	
+SV	3583352	11a Avenida Sur	residential	1	0	0	
+SV	3583352	12a Avenida Norte	unclassified	1	0	0	
+SV	3583352	13a Avenida Norte	secondary	1	0	0	
+SV	3583352	15a Avenida Norte	residential	1	0	0	
+SV	3583352	17a Avenida Norte	residential	1	0	0	
+SV	3583352	19a Avenida Norte	residential	1	0	0	
+SV	3583352	1a Avenida Norte	residential	1	0	0	
+SV	3583352	1a Avenida Sur	residential	1	0	0	
+SV	3583352	1a Calle Oriente	residential	1	0	0	
+SV	3583352	1a Calle Poniente	residential	1	0	0	
+SV	3583352	21a Avenida Norte	residential	1	0	0	
+SV	3583352	23a Avenida Sur	residential	1	0	0	
+SV	3583352	2a Avenida Norte	residential	1	0	0	
+SV	3583352	2a Avenida Sur	residential	1	0	0	
+SV	3583352	2a Calle Oriente	residential	1	0	0	
+SV	3583352	2a Calle Poniente	residential	1	0	0	
+SV	3583352	2da Calle Poniente	residential	1	0	0	
+SV	3583352	3a Avenida Norte	residential	1	0	0	
+SV	3583352	3a Avenida Sur	residential	1	0	0	
+SV	3583352	3a Calle Oriente	residential	1	0	0	
+SV	3583352	3a Calle Poniente	residential	1	0	0	
+SV	3583352	4a Avenida Norte	residential	1	0	0	
+SV	3583361	Calle 3	residential	50	4	31	
+SV	3583361	Calle Atlacati		49	3	57	
+SV	3583361	Calle Circunvalacion	residential	42	1	185	
+SV	3583361	Calle Principal	residential	42	2	1215	
+SV	3583361	Calle Xochiquetzal	secondary	38	2	29	
+SV	3583361	Calle Del Mirador		35	1	5926	
+SV	3583361	Calle Motocross	residential	35	1	112	
+SV	3583361	Calle Teotl	residential	33	5	30	
+SV	3583361	Calle Jupiter		31	4	43	
+SV	3583361	Calle Zenzontle		31	2	81	
+SV	3583361	Calle Los Sisimiles		27	22	3228	
+SV	3583361	Calle El Algodón		25	62	345	
+SV	3583361	9 Calle Poniente	residential	24	3935	4409	
+SV	3583361	Avenida Los Bambúes		24	6	462	
+SV	3583361	Calle La Mascota		24	138	954	
+SV	3583361	Calle San Salvador	residential	22	101	441	
+SV	3583361	Paseo General Escalón	secondary	22	114	5457	
+SV	3583361	Avenida Bernal	secondary	21	2	3140	
+SV	3583361	17 Avenida Sur	residential	19	1002	1558	
+SV	3583361	Avenida B	residential	19	56	349	
+SV	3583361	Boulevard del Hipódromo	tertiary	19	107	665	
+SV	3583361	89 Avenida Norte		17	2	4654	
+SV	3583361	Calle Pipil		17	10	43	
+SV	3583361	Avenida Izalco	tertiary	16	5	233	
+SV	3583361	Avenida Tezcatlipoca	residential	16	6	50	
+SV	3583361	Pasaje Atonal	residential	16	1	135	
+SV	3583361	Pasaje D	residential	16	1110	1235	
+SV	3583361	Prolongacion Juan Pablo II	primary	16	26	3347	
+SV	3583361	Avenida Vista Hermosa	tertiary	15	1	524	
+SV	3583361	Calle Colima	residential	15	807	875	
+SV	3583361	Calle El Clavel	residential	15	2	20	
+SV	3583361	Paseo Miralvalle	residential	15	1	273	
+SV	3583361	Avenida El Espino		14	13	57	
+SV	3583361	Calle Los Duraznos	residential	14	1	575	
+SV	3583361	1a Calle Poniente	tertiary	13	916	4406	
+SV	3583361	1ª Calle Poniente		13	137	3823	
+SV	3583361	Avenida Augusta	residential	13	1	595	
+SV	3583361	Avenida El Boqueron		13	9	2150	
+SV	3583361	Avenida Victor Manuel Mejia Lara	residential	13	2	26	
+SV	3583361	Calle Atitlan	residential	13	2872	3116	
+SV	3583361	Calle Constitución	secondary	13	9	29	
+SV	3583361	Calle El Talapo	tertiary	13	108	140	
+SV	3583361	1a Calle Oriente	secondary	12	5	725	
+SV	3583361	39 Avenida Norte	residential	12	1007	1162	
+SV	3583361	Alameda Juan Pablo II	primary	12	127	762	
+SV	3583361	Calle Camagüey	residential	12	6	223	
+SV	3583361	Calle Jorge Domínguez	residential	12	1	8	
+SV	3583361	Calle Loma Linda	residential	12	51	312	
+SV	3583361	Calle San Antonio Abad	primary	12	14	3540	
+SV	3583361	Pasaje Montoya	residential	12	101	1033	
+SV	3583361	79 Avenida Norte	residential	11	42	4050	
+SV	3583361	Calle Las Arboledas		11	24	345	
+SV	3583361	Calle Sierra Madre	residential	11	3	205	
+SV	3583361	87 Avenida Norte	tertiary	10	2	830	
+SV	3583361	Avenida Cumbres De Cuscatlan		10	2	47	
+SV	3583361	Calle A	residential	10	5	134	
+SV	3583361	Calle Francisco Menéndez	tertiary	10	37	1110	
+SV	3583361	Calle Los Pinares		10	7	130	
+SV	3583361	Calle Monseñor Josemaría Escrivá de Balaguer	residential	10	266	332	
+SV	3583361	1A Calle Principal	residential	9	2	750	
+SV	3583361	22 Calle Poniente	residential	9	817	1126	
+SV	3583361	93 Avenida	tertiary	9	48	116	
+SV	3583361	Avenida Irazú	tertiary	9	6	614	
+SV	3583361	Avenida Mayari		9	2	15	
+SV	3583361	Calle Jose Martí		9	3	596	
+SV	3583361	Calle Oscurana	residential	9	2	428	
+SV	3583361	Pasaje 6	residential	9	4	17	
+SV	3583361	San Mauricio	residential	9	1	11	
+SV	3583361	Tescatlipacatl		9	6	14	
+SV	3583361	1 Calle Poniente	residential	8	13	4736	
+SV	3583361	Avenida Albert Einstein	tertiary	8	3	49	
+SV	3583361	Avenida La Floresta	residential	8	10	34	
+SV	3583361	Calle 1	residential	8	2	15	
+SV	3583361	Calle El Carmen	residential	8	2	6040	
+SV	3583361	Calle El Progreso		8	4	2748	
+SV	3583361	Calle Francisco Lucas	residential	8	1	3134	
+SV	3583361	Calle La Reforma	tertiary	8	130	209	
+SV	3583361	Calle Los Tanques	residential	8	5	228	
+SV	3583361	Pasaje Miramar	residential	8	3	12	
+SV	3583361	Pasaje Quezaltepeque Oriente		8	13	40	
+SV	3583361	Pje Llamatepeque Pte		8	2	50	
+SV	3583361	Senda Masahuat		8	16	26	
+SV	3583361	Alameda Franklin Delano Roosevelt	secondary	7	101	3107	
+SV	3583361	Avenida Barcelona Norte	residential	7	320	340	
+SV	3583361	Avenida Guillermo Reynaldo Cortez	residential	7	134	225	
+SV	3583361	Avenida Rocio		7	5	188	
+SV	3583361	Avenida Washington	secondary	7	2	65	
+SV	3583361	Boulevard Altamira	tertiary	7	3	24	
+SV	3583361	Calle 5 de Noviembre	secondary	7	241	1144	
+SV	3583361	Calle Centroamerica	residential	7	122	230	
+SV	3583361	Calle Cerro Verde	residential	7	3012	3043	
+SV	3583361	Calle Conchagua Oriente		7	35	46	
+SV	3583361	Calle Golondrinas	living_street	7	1	9	
+SV	3583361	Calle Madrid	residential	7	12	705	
+SV	3583361	Calle Ronda del Carmen		7	7	18	
+SV	3583361	Calle Toluca	residential	7	104	3338	
+SV	3583361	Pasaje Aries	residential	7	11	28	
+SV	3583361	Pasaje Madrid	residential	7	124	141	
+SV	3583361	34a Avenida Sur		6	111	418	
+SV	3583361	6a 10a Calle Poniente		6	1429	2329	
+SV	3583361	Avenida 14 De Julio		6	5	143	
+SV	3583361	Avenida Izalco Poniente		6	1	52	
+SV	3583361	Avenida Las Magnolias		6	21	144	
+SV	3583361	Avenida Marcaibo		6	628	3056	
+SV	3583361	Boulevard Constitución		6	2	52	
+SV	3583361	Bulevar Constitución		6	2	64	
+SV	3583361	Calle Alta Vista	residential	6	6	235	
+SV	3583361	Calle Arce	residential	6	238	1114	
+SV	3583361	Calle el Progreso	tertiary	6	314	3143	
+SV	3583361	Pasaje San Andres		6	5	20	
+SV	3583361	17 Calle Oriente	residential	5	113	283	
+SV	3583361	35 Avenida Norte	residential	5	8	935	
+SV	3583361	38a Avenida Sur		5	108	217	
+SV	3583361	59 Avenida Norte	secondary	5	120	326	
+SV	3583361	7a Calle Oriente	tertiary	5	24	24	
+SV	3583361	Avenida 2 de Abril	residential	5	12	141	
+SV	3583361	Avenida Caballeria	residential	5	14	14	
+SV	3583361	Avenida La Capilla	tertiary	5	101	705	
+SV	3583361	Avenida La Montaña		5	2	9	
+SV	3583361	Avenida Los Lagos		5	16	217	
+SV	3583361	Avenida Olímpica	tertiary	5	223	7900	
+SV	3583361	Avenida Teotl	residential	5	1	18	
+SV	3583361	Bulevar Venezuela		5	562	917	
+SV	3583361	Call Clarinero		5	9	13	
+SV	3583361	Calle 2	residential	5	1	4	
+SV	3583361	Calle Amsterdam	residential	5	463	489	
+SV	3583361	Calle Bogotá	residential	5	9	14	
+SV	3583361	Calle Capitan Douglas Varela		5	8	11	
+SV	3583361	Calle Jose Marti		5	15	21	
+SV	3583361	Calle Los Heroes		5	21	65	
+SV	3583361	Calle Monserrat	tertiary	5	10	2216	
+SV	3583361	Calle la Mascota	secondary	5	233	913	
+SV	3583361	Manuel Enrique Araujo		5	1100	3544	
+SV	3583361	Pasaje Andromeda	residential	5	1	8	
+SV	3583361	Pasaje Leo	residential	5	2	8	
+SV	3583361	101 Avenida Norte	residential	4	3	617	
+SV	3583361	13 Avenida Sur	residential	4	730	1221	
+SV	3583361	13 Calle Poniente	residential	4	143	4425	
+SV	3583361	1ª Avenida Sur		4	117	135	
+SV	3583361	3ª Calle Poniente	tertiary	4	207	4220	
+SV	3583361	4a Calle Poniente	tertiary	4	943	1115	
+SV	3583361	79 Avenida Sur	secondary	4	200	455	
+SV	3583361	7a Calle Poniente	residential	4	3972	4902	
+SV	3583361	83a Avenida Norte	tertiary	4	14	217	
+SV	3583361	Avenida 1	tertiary	4	9	49	
+SV	3583361	Avenida Alajuela	residential	4	314	435	
+SV	3583361	Avenida Alvarado	residential	4	5	342	
+SV	3583361	Avenida Andalucia		4	35	43	
+SV	3583361	Avenida Las Amapolas		4	21	69	
+SV	3583361	Avenida Las Granadillas		4	2	13	
+SV	3583361	Avenida Masferrer Sur		4	82	557	
+SV	3583361	Avenida Río Amazonas	residential	4	4	17	
+SV	3583361	Calle Aconcagua	residential	4	5	11	
+SV	3583361	Calle Antigua a Huizucar		4	3	2012	
+SV	3583361	Calle B	residential	4	3	26	
+SV	3583361	Calle Las Mercedes	residential	4	2	31	
+SV	3583361	Calle Las Rosas	tertiary	4	13	25	
+SV	3583361	Calle Presbítero Vicente Aguilar	residential	4	225	315	
+SV	3583361	Calle San Nicolás	residential	4	2	137	
+SV	3583361	Calle al Volcán	secondary	4	2	25	
+SV	3583361	Pasaje 1	residential	4	1	141	
+SV	3583361	Pasaje 2	residential	4	32	118	
+SV	3583361	Pasaje F	residential	4	210	221	
+SV	3583361	Pasaje Zanzibar		4	6	9	
+SV	3583361	103 Avenida Norte	residential	3	252	264	
+SV	3583361	27 Avenida Norte	residential	3	1132	1140	
+SV	3583361	3 Calle Poniente	residential	3	1111	5224	
+SV	3583361	3a Calle Poniente	tertiary	3	3	5345	
+SV	3583361	3ª Avenida Norte		3	209	311	
+SV	3583361	65 Avenida Norte	residential	3	145	163	
+SV	3583361	67 Avenida Sur	residential	3	144	228	
+SV	3583361	81 Avenida Norte	tertiary	3	333	520	
+SV	3583361	91 Avenida Norte	residential	3	440	4640	
+SV	3583361	9a Calle Oriente	residential	3	1	37	
+SV	3583361	Avenida Alberto Masferrer Norte	primary	3	28	616	
+SV	3583361	Avenida Cierra Nevada		3	628	748	
+SV	3583361	Avenida Infanteria		3	12	13	
+SV	3583361	Avenida Juan Ramon Molina	residential	3	18	1389	
+SV	3583361	Avenida Principal	residential	3	1	1	
+SV	3583361	Avenida Turrialba	residential	3	11	14	
+SV	3583361	Boulevard San Patricio	tertiary	3	12	16	
+SV	3583361	Boulevard de Los Héroes		3	10	1028	
+SV	3583361	Cale Los Cedros		3	36	91	
+SV	3583361	Calle Concepción	tertiary	3	115	650	
+SV	3583361	Calle El Zenzontle	residential	3	67	84	
+SV	3583361	Calle Francisco Gavidia	residential	3	2	136	
+SV	3583361	Calle Gabriela Mistral	tertiary	3	304	633	
+SV	3583361	Calle Juan Mora	residential	3	444	517	
+SV	3583361	Calle Nueva No 2	residential	3	10	10	
+SV	3583361	Calle Principal De Monte Fresco		3	3	28	
+SV	3583361	Calle República Federal de Alemania	residential	3	162	194	
+SV	3583361	Calle San Juan	residential	3	408	516	
+SV	3583361	Pasaje 12	residential	3	102	114	
+SV	3583361	Pasaje 7	residential	3	1	4	
+SV	3583361	Pasaje Las Margaritas		3	26	133	
+SV	3583361	13 Calle Oriente	residential	2	609	662	
+SV	3583361	15 Calle Poniente	residential	2	0	0	
+SV	3583361	1a Calle Principal		2	111	150	
+SV	3583361	21 Avenida Sur	residential	2	4	1228	
+SV	3583361	21 Calle Poniente	residential	2	1633	1633	
+SV	3583379	10a Calle Oriente	residential	1	0	0	
+SV	3583379	10a Calle Poniente	residential	1	0	0	
+SV	3583379	11a Calle Oriente	residential	1	0	0	
+SV	3583379	11a Calle Poniente	residential	1	0	0	
+SV	3583379	12 Calle Oriente	residential	1	0	0	
+SV	3583379	12a Calle Poniente	residential	1	0	0	
+SV	3583379	13a Calle Oriente	residential	1	0	0	
+SV	3583379	15a Calle Oriente	residential	1	0	0	
+SV	3583379	17a Calle Oriente	tertiary	1	0	0	
+SV	3583379	17a Calle Poniente	residential	1	0	0	
+SV	3583379	19a Calle Oriente	residential	1	0	0	
+SV	3583379	1a Avenida Sur	residential	1	0	0	
+SV	3583379	21a Calle Oriente	residential	1	0	0	
+SV	3583379	21a Calle Poniente	residential	1	0	0	
+SV	3583379	23a Calle Poniente	residential	1	0	0	
+SV	3583379	25a Calle Poniente	unclassified	1	0	0	
+SV	3583379	2a Avenida Norte	residential	1	0	0	
+SV	3583379	2a Avenida Sur	residential	1	0	0	
+SV	3583379	2a Calle Oriente	tertiary	1	0	0	
+SV	3583379	2a Calle Poniente	tertiary	1	0	0	
+SV	3583379	3a Avenida Norte	residential	1	0	0	
+SV	3583379	3a Avenida Sur	residential	1	0	0	
+SV	3583379	3a Calle Oriente	residential	1	0	0	
+SV	3583379	3a Calle Poniente	residential	1	0	0	
+SV	3583379	4a Avenida Norte	residential	1	0	0	
+SV	3583379	4a Avenida Sur	residential	1	0	0	
+SV	3583379	4a Calle Oriente	residential	1	0	0	
+SV	3583379	4a Calle Poniente	residential	1	0	0	
+SV	3583379	5a Avenida Norte	residential	1	0	0	
+SV	3583379	5a Avenida Sur	residential	1	0	0	
+SV	3583379	5a Calle Oriente	residential	1	0	0	
+SV	3583379	5a Calle Poniente	residential	1	0	0	
+SV	3583379	6a Calle Oriente	residential	1	0	0	
+SV	3583379	6a Calle Poniente	residential	1	0	0	
+SV	3583379	7a Avenida Norte	residential	1	0	0	
+SV	3583379	7a Avenida Sur	residential	1	0	0	
+SV	3583379	7a Calle Oriente	residential	1	0	0	
+SV	3583379	7a Calle Poniente	residential	1	0	0	
+SV	3583379	8a Calle Oriente	residential	1	0	0	
+SV	3583379	8a Calle Poniente	residential	1	0	0	
+SV	3583379	9a Calle Oriente	residential	1	0	0	
+SV	3583379	9a Calle Poniente	residential	1	0	0	
+SV	3583379	Avenida Capitán General Gerardo Barrios	tertiary	1	0	0	
+SV	3583379	Avenida Magisterial	residential	1	0	0	
+SV	3583379	Avenida Magisterial Sur	primary	1	0	0	
+SV	3583379	Avenida Princiapl Sur	residential	1	0	0	
+SV	3583379	Avenida Principal Norte	residential	1	0	0	
+SV	3583379	Avenida Wilber Jiménez Norte	residential	1	0	0	
+SV	3583407	3a Calle Poniente	residential	1	0	0	
+SV	3583407	5a Calle Oriente	tertiary	1	0	0	
+SV	3583407	Avenida Alejandro Merlos	residential	1	0	0	
+SV	3583407	Avenida Darío Luna	tertiary	1	0	0	
+SV	3583407	Avenida Dr. Eduardo Antonio Burgos	residential	1	0	0	
+SV	3583407	Avenida El Bambú	residential	1	0	0	
+SV	3583407	Avenida El Río	residential	1	0	0	
+SV	3583407	Avenida La Joya	residential	1	0	0	
+SV	3583407	Avenida Marcos G. Villacorta	residential	1	0	0	
+SV	3583407	Avenida Principal	tertiary	1	0	0	
+SV	3583407	Avenida Rodolfo Duque	residential	1	0	0	
+SV	3583407	Avenida San Antonio	residential	1	0	0	
+SV	3583429	11a Avenida Norte	residential	1	0	0	
+SV	3583429	11a Avenida Sur	residential	1	0	0	
+SV	3583429	11a Calle Poniente	residential	1	0	0	
+SV	3583429	13a Avenida Norte	residential	1	0	0	
+SV	3583429	13a Calle Poniente	residential	1	0	0	
+SV	3583429	15a Avenida Norte	residential	1	0	0	
+SV	3583429	15a Calle Poniente	residential	1	0	0	
+SV	3583429	1a Avenida Norte	residential	1	0	0	
+SV	3583429	1a Avenida Sur	residential	1	0	0	
+SV	3583429	1a Calle Oriente	residential	1	0	0	
+SV	3583429	1a Calle Poniente	residential	1	0	0	
+SV	3583429	2a Avenida Norte	residential	1	0	0	
+SV	3583446	6a Avenida Sur	residential	18	5	608	
+SV	3583446	3a Avenida Sur	tertiary	17	408	1206	
+SV	3583446	Avenida Los Laureles	residential	10	1	38	
+SV	3583446	7a Calle Oriente	residential	9	5	506	
+SV	3583446	8a Avenida Sur	tertiary	8	4	412	
+SV	3583446	Calle Avalos		8	32	232	
+SV	3583446	2a Avenida Sur	secondary	7	405	737	
+SV	3583446	7a Avenida Sur	residential	7	400	704	
+SV	3583446	4a Calle Oriente	residential	6	302	617	
+SV	3583446	6a Avenida Norte Bis	residential	6	404	502	
+SV	3583446	6a Calle	tertiary	6	7	727	
+SV	3583446	Avenida Araucaria	residential	6	1	28	
+SV	3583446	10 Avenida Norte		5	30	814	
+SV	3583446	5a Calle Poniente	residential	5	108	505	
+SV	3583446	7a Calle Poniente	tertiary	5	102	302	
+SV	3583446	8a Calle Poniente	tertiary	5	8	1067	
+SV	3583446	Calle Saturno	residential	5	5	24	
+SV	3583446	3a Calle Poniente	tertiary	4	302	510	
+SV	3583446	4a Avenida Norte	secondary	4	601	606	
+SV	3583446	4a Calle Poniente	residential	4	304	709	
+SV	3583446	5a Calle Oriente	residential	4	103	412	
+SV	3583446	Avenida José Simeón Cañas Sur	tertiary	4	408	715	
+SV	3583446	Pasaje Miramontes	residential	4	2	23	
+SV	3583446	10a Avenida Norte	tertiary	3	102	210	
+SV	3583446	12 Calle Oriente/Calle Soldado Desconcido		3	18	27	
+SV	3583446	2a Avenida Norte	secondary	3	604	803	
+SV	3583446	4a Avenida Sur	secondary	3	302	801	
+SV	3583446	6a Avenida Norte	residential	3	401	501	
+SV	3583446	8a Calle Oriente	tertiary	3	504	607	
+SV	3583446	9a Calle Poniente	residential	3	104	202	
+SV	3583446	Avenida Sandals	residential	3	8	29	
+SV	3583446	Calle Andromeda		3	5	13	
+SV	3583446	Senda Los Punos	residential	3	37	42	
+SV	3583446	10a Calle Poniente	residential	2	36	102	
+SV	3583446	12 Avenida Norte		2	37	37	
+SV	3583446	12 Calle Poniente		2	520	522	
+SV	3583446	14 Calle Oriente		2	302	302	
+SV	3583446	16 Calle Oriente		2	44	45	
+SV	3583446	1a Avenida Sur	residential	2	604	604	
+SV	3583446	3a Avenida Norte	residential	2	405	901	
+SV	3583446	3a Calle Oriente	tertiary	2	3	204	
+SV	3583446	7ª Avenida Sur		2	103	401	
+SV	3583446	9a Calle Oriente	tertiary	2	101	204	
+SV	3583446	Avenida Agoton Silva	residential	2	2	4	
+SV	3583446	Avenida Capricornio	residential	2	34	37	
+SV	3583446	Avenida Gerardo Barrios		2	901	905	
+SV	3583446	Avenida Gerardo Barrios Norte	residential	2	501	707	
+SV	3583446	Avenida Maquilishuat	residential	2	12	20	
+SV	3583446	Avenida Tauro	residential	2	15	20	
+SV	3583446	Calle Cardenas		2	231	274	
+SV	3583446	Calle España	residential	2	20	30	
+SV	3583446	Calle Las Brisas	residential	2	5	31	
+SV	3583446	Calle Los Almendros	residential	2	9	11	
+SV	3583446	Calle Los Bambues	residential	2	1	2	
+SV	3583446	Calle Progreso	residential	2	68	75	
+SV	3583446	Pasaje Azucena	residential	2	7	15	
+SV	3583446	Senda Caoba	residential	2	3	5	
+SV	3583446	10a Avenida Sur	residential	1	0	0	
+SV	3583446	11a Calle Oriente	residential	1	0	0	
+SV	3583446	11a Calle Poniente	tertiary	1	0	0	
+SV	3583446	12a Avenida Norte	residential	1	0	0	
+SV	3583446	12a Avenida Norte Bis	residential	1	0	0	
+SV	3583446	12a Avenida Sur	residential	1	0	0	
+SV	3583446	12a Calle Oriente	tertiary	1	0	0	
+SV	3583446	12a Calle Poniente	tertiary	1	0	0	
+SV	3583446	13a Avenida Sur	residential	1	0	0	
+SV	3583446	13a Calle Oriente	residential	1	0	0	
+SV	3583446	13a Calle Poniente	residential	1	0	0	
+SV	3583446	14a Avenida Norte	residential	1	0	0	
+SV	3583446	14a Avenida Sur	residential	1	0	0	
+SV	3583446	14a Calle Oriente	tertiary	1	0	0	
+SV	3583446	15 Avenida Norte	tertiary	1	0	0	
+SV	3583446	15 Avenida Sur	residential	1	0	0	
+SV	3583446	15a Calle Oriente	tertiary	1	0	0	
+SV	3583446	15a Calle Poniente	residential	1	0	0	
+SV	3583446	16a Avenida Norte	residential	1	0	0	
+SV	3583446	16a Avenida Sur	residential	1	0	0	
+SV	3583446	16a Calle Oriente	residential	1	0	0	
+SV	3583446	16a Calle Poniente	residential	1	0	0	
+SV	3583446	17a Avenida Norte	residential	1	0	0	
+SV	3583446	17a Avenida Sur	residential	1	0	0	
+SV	3583446	17a Calle Poniente	residential	1	0	0	
+SV	3583446	18 Avenida Sur	residential	1	0	0	
+SV	3583446	18a Avenida Norte	residential	1	0	0	
+SV	3583446	18a Avenida Sur	residential	1	0	0	
+SV	3583446	18a Calle Oriente	residential	1	0	0	
+SV	3583446	18a Calle Poniente	tertiary	1	0	0	
+SV	3583446	19a Avenida Sur	residential	1	0	0	
+SV	3583446	19a Calle Poniente	residential	1	0	0	
+SV	3583446	1a Avenida Norte	residential	1	0	0	
+SV	3583446	1a Calle Oriente	residential	1	0	0	
+SV	3583446	1a Calle Poniente	residential	1	0	0	
+SV	3583446	1a Calle Principal	residential	1	0	0	
+SV	3583446	20a Avenida Sur	residential	1	0	0	
+SV	3583446	20a Calle Oriente	residential	1	0	0	
+SV	3583446	21a Avenida Sur	residential	1	0	0	
+SV	3583446	21a Calle Oriente	residential	1	0	0	
+SV	3583446	22a Avenida Sur	residential	1	0	0	
+SV	3583446	22a Calle Oriente	residential	1	0	0	
+SV	3583446	23a Avenida Sur	tertiary	1	0	0	
+SV	3583471	10a Avenida Norte	residential	1	0	0	
+SV	3583471	10a Avenida Sur	residential	1	0	0	
+SV	3583471	10a Calle Oriente	residential	1	0	0	
+SV	3583471	12a Calle Oriente	residential	1	0	0	
+SV	3583471	1a Avenida Norte	residential	1	0	0	
+SV	3583471	1a Avenida Sur	residential	1	0	0	
+SV	3583471	1a Calle Oriente	residential	1	0	0	
+SV	3583471	2a Avenida	unclassified	1	0	0	
+SV	3583471	2a Avenida Sur	residential	1	0	0	
+SV	3583471	2a Calle Poniente	residential	1	0	0	
+SV	3583471	3a Avenida Sur	residential	1	0	0	
+SV	3583471	3a Calle Oriente	residential	1	0	0	
+SV	3583471	3a Calle Poniente	residential	1	0	0	
+SV	3583471	4a Avenida Norte	residential	1	0	0	
+SV	3583471	4a Avenida Sur	residential	1	0	0	
+SV	3583471	4a Calle Oriente	residential	1	0	0	
+SV	3583471	4a Calle Poniente	residential	1	0	0	
+SV	3583471	5a Avenida Sur	residential	1	0	0	
+SV	3583471	6a Avenida Sur	residential	1	0	0	
+SV	3583471	6a Calle Oriente	residential	1	0	0	
+SV	3583471	6a Calle Poniente	secondary	1	0	0	
+SV	3583471	7a Avenida Norte	residential	1	0	0	
+SV	3583471	7a Avenida Sur	residential	1	0	0	
+SV	3583471	8a Avenida Norte	residential	1	0	0	
+SV	3583471	8a Calle Oriente	residential	1	0	0	
+SV	3583471	8a Calle Poniente	residential	1	0	0	
+SV	3583471	Avenida Armando de León	secondary	1	0	0	
+SV	3583471	Avenida Doctor Ireneo Chacón	secondary	1	0	0	
+SV	3583471	Avenida El Cerezo	residential	1	0	0	
+SV	3583471	Avenida El Limón	residential	1	0	0	
+SV	3583471	Avenida El Tablón	residential	1	0	0	
+SV	3583471	Avenida Miguel Apolonio	residential	1	0	0	
+SV	3583471	Avenida Wenseslao Echeverría	residential	1	0	0	
+SV	3583471	Calle Central Oriente	tertiary	1	0	0	
+SV	3583471	Calle Central Poniente	tertiary	1	0	0	
+SV	3583471	Calle Central a El Rosario	tertiary	1	0	0	
+SV	3583471	Calle Cristóbal Iglesias	secondary	1	0	0	
+SV	3583471	Calle Delfina Escalante	residential	1	0	0	
+SV	3583471	Calle Romualdo Rogelio Escobar	residential	1	0	0	
+SV	3583471	RN 8	secondary	1	0	0	
+SV	3583480	Autopista Comalapa		3	0	0	
+SV	3583480	1 Avenida Sur	residential	1	0	0	
+SV	3583480	1 Calle Poniente	residential	1	0	0	
+SV	3583480	1a Avenida	residential	1	0	0	
+SV	3583480	1a Avenida Sur	residential	1	0	0	
+SV	3583480	4a Avenida Norte	residential	1	0	0	
+SV	3583480	4a Avenida Sur	residential	1	0	0	
+SV	3583480	Avenida Acrópolis	residential	1	0	0	
+SV	3583480	Avenida Barrios	residential	1	0	0	
+SV	3583480	Avenida Central	residential	1	0	0	
+SV	3583480	Avenida Colonial	tertiary	1	0	0	
+SV	3583480	Avenida Mexico	residential	1	0	0	
+SV	3583480	Avenida San José	residential	1	0	0	
+SV	3583480	Calle 1	residential	1	0	0	
+SV	3583480	Calle 15 de Septiembre	residential	1	0	0	
+SV	3583480	Calle 2	residential	1	0	0	
+SV	3583480	Calle 25 de Abril Oriente	residential	1	0	0	
+SV	3583480	Calle 25 de Abril Poniente	residential	1	0	0	
+SV	3583480	Calle 3	residential	1	0	0	
+SV	3583480	Calle David Posada	residential	1	0	0	
+SV	3583480	Calle Doctor Francisco Sánchez Guzmán	residential	1	0	0	
+SV	3583480	Calle El Diamante	residential	1	0	0	
+SV	3583480	Calle La Bomba	residential	1	0	0	
+SV	3583480	Calle Principal	residential	1	0	0	
+SV	3583480	Calle San Antonio 2	residential	1	0	0	
+SV	3583480	Calle San Lorenzo	residential	1	0	0	
+SV	3583480	Calle Santorini	residential	1	0	0	
+SV	3583480	Calle Vieja a Zacatecoluca - San Marcos	secondary	1	0	0	
+SV	3583480	Calle a Cantón Panchimalquito	unclassified	1	0	0	
+SV	3583480	Colonia Linda Vista	residential	1	0	0	
+SV	3583480	Colonia San Antonio 1	residential	1	0	0	
+SV	3583480	Pasaje 1	pedestrian	1	0	0	
+SV	3583480	Pasaje 15 de Septiembre	residential	1	0	0	
+SV	3583480	Pasaje 3	pedestrian	1	0	0	
+SV	3583480	Pasaje 4	residential	1	0	0	
+SV	3583480	Pasaje 5	residential	1	0	0	
+SV	3583480	Pasaje 6	residential	1	0	0	
+SV	3583480	Pasaje 7	residential	1	0	0	
+SV	3583480	Pasaje Azucena	residential	1	0	0	
+SV	3583480	Pasaje B	residential	1	0	0	
+SV	3583480	Pasaje Cañas	residential	1	0	0	
+SV	3583480	Pasaje El Diamante	residential	1	0	0	
+SV	3583480	Pasaje El Rubí	residential	1	0	0	
+SV	3583480	Pasaje Guadalupe	residential	1	0	0	
+SV	3583480	Pasaje Ira	residential	1	0	0	
+SV	3583480	Pasaje Las Brisas	residential	1	0	0	
+SV	3583480	Pasaje Latino	residential	1	0	0	
+SV	3583480	Pasaje Los Pocitos	residential	1	0	0	
+SV	3583480	Pasaje Los Ángeles	residential	1	0	0	
+SV	3583480	Pasaje Principal	residential	1	0	0	
+SV	3583480	Pasaje Rodríguez	residential	1	0	0	
+SV	3583480	Pasaje San Antonio	residential	1	0	0	
+SV	3583480	Pasaje San José	residential	1	0	0	
+SV	3583480	Pasaje Washington	residential	1	0	0	
+SV	3583480	Senda	residential	1	0	0	
+SV	3583480	Senda 2	residential	1	0	0	
+SV	3583480	Senda 3	residential	1	0	0	
+SV	3583480	Senda 5	residential	1	0	0	
+SV	3583480	Senda 6	residential	1	0	0	
+SV	3583480	Senda 8	residential	1	0	0	
+SV	3583480	Senda 9	residential	1	0	0	
+SV	3583480	Senda San Marcos	residential	1	0	0	
+SV	3583531	10a Calle Poniente	residential	1	0	0	
+SV	3583531	11 Calle Oriente	residential	1	0	0	
+SV	3583531	11a Avenida Sur	residential	1	0	0	
+SV	3583531	11a Calle Poniente	residential	1	0	0	
+SV	3583531	13a Avenida Sur	residential	1	0	0	
+SV	3583531	13a Calle Poniente	residential	1	0	0	
+SV	3583531	15a Avenida Sur	residential	1	0	0	
+SV	3583531	15a Calle Poniente	residential	1	0	0	
+SV	3583531	17a Avenida Sur	residential	1	0	0	
+SV	3583531	1a Avenida Norte	tertiary	1	0	0	
+SV	3583531	1a Avenida Sur	residential	1	0	0	
+SV	3583531	1a Calle Oriente	residential	1	0	0	
+SV	3583531	1a Calle Poniente	residential	1	0	0	
+SV	3583531	2a Avenida Norte	residential	1	0	0	
+SV	3583531	2a Avenida Sur	residential	1	0	0	
+SV	3583531	2a Calle Oriente	secondary	1	0	0	
+SV	3583531	2a Calle Poniente	residential	1	0	0	
+SV	3583531	3a Avenida Norte	residential	1	0	0	
+SV	3583531	3a Avenida Sur	residential	1	0	0	
+SV	3583531	3a Calle Oriente	tertiary	1	0	0	
+SV	3583531	3a Calle Poniente	residential	1	0	0	
+SV	3583531	4a Avenida Norte	residential	1	0	0	
+SV	3583531	4a Avenida Sur	residential	1	0	0	
+SV	3583531	4a Calle Oriente	residential	1	0	0	
+SV	3583714	10a Calle Poniente	residential	1	0	0	
+SV	3583714	1a Avenida Norte	residential	1	0	0	
+SV	3583714	1a Avenida Sur	residential	1	0	0	
+SV	3583714	1a Calle Oriente	residential	1	0	0	
+SV	3583714	1a Calle Poniente	residential	1	0	0	
+SV	3583714	2a Avenida Norte	residential	1	0	0	
+SV	3583714	2a Avenida Sur	residential	1	0	0	
+SV	3583714	2a Calle Oriente	residential	1	0	0	
+SV	3583714	2a Calle Poniente	residential	1	0	0	
+SV	3583714	3a Avenida Sur	residential	1	0	0	
+SV	3583714	3a Calle Oriente	residential	1	0	0	
+SV	3583714	3a Calle Poniente	residential	1	0	0	
+SV	3583716	1ª Avenida Sur	residential	1	0	0	
+SV	3583716	1ª Calle Oriente	residential	1	0	0	
+SV	3583716	1ª Calle Poniente	residential	1	0	0	
+SV	3583716	2ª Avenida Sur	residential	1	0	0	
+SV	3583716	3ª Avenida Norte	residential	1	0	0	
+SV	3583716	3ª Avenida Sur	residential	1	0	0	
+SV	3583716	3ª Calle Oriente	residential	1	0	0	
+SV	3583716	3ª Calle Poniente	residential	1	0	0	
+SV	3583716	4ª Calle Oriente	residential	1	0	0	
+SV	3583716	4ª Calle Poniente	residential	1	0	0	
+SV	3583716	Avenida Fermín Piñeda	residential	1	0	0	
+SV	3583716	Avenida Mónaco	residential	1	0	0	
+SV	3583747	1a Avenida Norte	residential	1	0	0	
+SV	3583747	1a Avenida Sur	residential	1	0	0	
+SV	3583747	1a Calle Oriente	residential	1	0	0	
+SV	3583747	1a Calle Poniente	residential	1	0	0	
+SV	3583747	1ª Calle Norte	residential	1	0	0	
+SV	3583747	1ª Calle Oriente	residential	1	0	0	
+SV	3583747	1ª Calle Poniente	residential	1	0	0	
+SV	3583747	1ª Calle Sur	residential	1	0	0	
+SV	3583747	2a Avenida Norte	residential	1	0	0	
+SV	3583747	2a Avenida Sur	residential	1	0	0	
+SV	3583747	2a Calle Oriente	residential	1	0	0	
+SV	3583747	2a Calle Poniente	residential	1	0	0	
+SV	3583747	2ª Avenida Norte	primary	1	0	0	
+SV	3583747	2ª Avenida Sur	primary	1	0	0	
+SV	3583747	2ª Calle Oriente	secondary	1	0	0	
+SV	3583747	2ª Calle Poniente	secondary	1	0	0	
+SV	3583747	3a Avenida Norte	residential	1	0	0	
+SV	3583747	3a Avenida Sur	residential	1	0	0	
+SV	3583747	3a Calle Oriente	residential	1	0	0	
+SV	3583747	3a Calle Poniente	residential	1	0	0	
+SV	3583747	3ª Avenida Norte	residential	1	0	0	
+SV	3583747	3ª Avenida Sur	residential	1	0	0	
+SV	3583747	3ª Calle Poniente	residential	1	0	0	
+SV	3583747	4a Avenida Norte	residential	1	0	0	
+SV	3583747	4a Avenida Sur	residential	1	0	0	
+SV	3583747	4a Calle Poniente	residential	1	0	0	
+SV	3583747	4ª Calle Oriente	residential	1	0	0	
+SV	3583747	4ª Calle Poniente	secondary	1	0	0	
+SV	3583747	5a Avenida Norte	residential	1	0	0	
+SV	3583747	5a Avenida Sur	residential	1	0	0	
+SV	3583747	5ª Avenida Norte	residential	1	0	0	
+SV	3583747	5ª Avenida Sur	residential	1	0	0	
+SV	3583747	6ª Avenida Norte	residential	1	0	0	
+SV	3583747	6ª Avenida Sur	residential	1	0	0	
+SV	3583747	6ª Calle Oriente	residential	1	0	0	
+SV	3583747	6ª Calle Poniente	primary	1	0	0	
+SV	3583747	6° Calle Oriente	residential	1	0	0	
+SV	3583747	Avenida 1	residential	1	0	0	
+SV	3583747	Avenida 17 de Septiembre	residential	1	0	0	
+SV	3583747	Avenida 2	residential	1	0	0	
+SV	3583747	Avenida 3	tertiary	1	0	0	
+SV	3583747	Avenida 4	residential	1	0	0	
+SV	3583747	Avenida El Amate	residential	1	0	0	
+SV	3583747	Avenida El Bambú	residential	1	0	0	
+SV	3583747	Avenida Guzmán	residential	1	0	0	
+SV	3583747	Avenida Los Almendros	residential	1	0	0	
+SV	3583747	Avenida Los Pinos	living_street	1	0	0	
+SV	3583747	Avenida Morazán	residential	1	0	0	
+SV	3583851	16a Calle Poniente	residential	1	0	0	
+SV	3583851	1a Avenida Sur	residential	1	0	0	
+SV	3583851	1a Calle Oriente	residential	1	0	0	
+SV	3583851	1a Calle Poniente	residential	1	0	0	
+SV	3583851	1ª Avenida Norte	residential	1	0	0	
+SV	3583851	1ª Calle Oriente	residential	1	0	0	
+SV	3583851	20a Calle Poniente	residential	1	0	0	
+SV	3583851	22a Calle Poniente	residential	1	0	0	
+SV	3583851	26a Calle Poniente	residential	1	0	0	
+SV	3583851	2a Avenida Sur	residential	1	0	0	
+SV	3583851	2a Calle Oriente	residential	1	0	0	
+SV	3583851	2ª Avenida Sur	residential	1	0	0	
+SV	3583851	2ª Calle Oriente	residential	1	0	0	
+SV	3583851	2ª Calle Poniente	residential	1	0	0	
+SV	3583851	3a Avenida	residential	1	0	0	
+SV	3583851	3a Avenida Sur	residential	1	0	0	
+SV	3583851	3a Calle	residential	1	0	0	
+SV	3583851	3a Calle Poniente	residential	1	0	0	
+SV	3583851	4a Calle Oriente	residential	1	0	0	
+SV	3583851	5a Calle Poniente	residential	1	0	0	
+SV	3583851	7a Avenida Sur	residential	1	0	0	
+SV	3583851	7a Calle Oriente	residential	1	0	0	
+SV	3583851	7a Calle Poniente	residential	1	0	0	
+SV	3583851	Avenida 1	residential	1	0	0	
+SV	3583905	10 Avenida Sur	residential	1	0	0	
+SV	3583905	10a Avenida Norte	residential	1	0	0	
+SV	3583905	10a Avenida Sur	residential	1	0	0	
+SV	3583905	10a Calle Oriente	residential	1	0	0	
+SV	3583905	10a Calle Poniente	tertiary	1	0	0	
+SV	3583905	11a Calle Oriente	residential	1	0	0	
+SV	3583905	12 Avenida Sur	residential	1	0	0	
+SV	3583905	12a Avenida Norte	residential	1	0	0	
+SV	3583905	12a Avenida Sur	residential	1	0	0	
+SV	3583905	12a Calle Oriente	residential	1	0	0	
+SV	3583905	14 Avenida Norte	residential	1	0	0	
+SV	3583905	1a Av. Col. El Portillo	residential	1	0	0	
+SV	3583905	1a Avenida Colonia El Portillo	residential	1	0	0	
+SV	3583905	1a Avenida Norte	residential	1	0	0	
+SV	3583905	1a Avenida Sur	residential	1	0	0	
+SV	3583905	1a Calle Oriente	residential	1	0	0	
+SV	3583905	1a Calle Poniente	residential	1	0	0	
+SV	3583905	1ª Calle Oriente	residential	1	0	0	
+SV	3583905	1ª Calle Poniente	tertiary	1	0	0	
+SV	3583905	2 Avenida Norte	residential	1	0	0	
+SV	3583905	2 Avenida Sur	residential	1	0	0	
+SV	3583905	2 Calle Oriente	residential	1	0	0	
+SV	3583905	2 Calle Poniente	residential	1	0	0	
+SV	3583905	2a Av. Col. El Portillo	residential	1	0	0	
+SV	3583910	11a Calle Oriente	residential	1	0	0	
+SV	3583910	1a Avenida Norte	residential	1	0	0	
+SV	3583910	1a Avenida Sur	residential	1	0	0	
+SV	3583910	1a Calle Oriente	residential	1	0	0	
+SV	3583910	1a Calle Poniente	residential	1	0	0	
+SV	3583910	2a Avenida Norte	residential	1	0	0	
+SV	3583910	2a Avenida Sur	residential	1	0	0	
+SV	3583910	2a Calle Oriente	residential	1	0	0	
+SV	3583910	2a Calle Poniente	residential	1	0	0	
+SV	3583910	3a Avenida Norte	residential	1	0	0	
+SV	3583910	3a Avenida Sur	residential	1	0	0	
+SV	3583910	3a Calle Oriente	residential	1	0	0	
+SV	3583937	10a Calle Poniente	residential	1	0	0	
+SV	3583937	12a Calle Oriente	residential	1	0	0	
+SV	3583937	12a Calle Poniente	residential	1	0	0	
+SV	3583937	1a Avenida Norte	residential	1	0	0	
+SV	3583937	1a Avenida Sur	residential	1	0	0	
+SV	3583937	1a Calle Oriente	residential	1	0	0	
+SV	3583937	1a Calle Poniente	tertiary	1	0	0	
+SV	3583937	2a Avenida Norte	residential	1	0	0	
+SV	3583937	2a Avenida Sur	residential	1	0	0	
+SV	3583937	2a Calle Oriente	residential	1	0	0	
+SV	3583937	2a Calle Poniente	residential	1	0	0	
+SV	3583937	3a Avenida Norte	residential	1	0	0	
+SV	3583937	3a Avenida Sur	residential	1	0	0	
+SV	3583937	3a Calle Oriente	residential	1	0	0	
+SV	3583937	3a Calle Poniente	residential	1	0	0	
+SV	3583937	4a Avenida Norte	residential	1	0	0	
+SV	3583937	4a Calle Oriente	residential	1	0	0	
+SV	3583937	4a Calle Poniente	residential	1	0	0	
+SV	3583937	5a Avenida Norte	residential	1	0	0	
+SV	3583937	5a Avenida Sur	residential	1	0	0	
+SV	3583937	5a Calle Oriente	residential	1	0	0	
+SV	3583937	5a Calle Poniente	residential	1	0	0	
+SV	3583937	6a Avenida Norte	residential	1	0	0	
+SV	3583937	6a Calle Oriente	residential	1	0	0	
+SV	3583981	10a Avenida	residential	1	0	0	
+SV	3583981	10a Calle Oriente	residential	1	0	0	
+SV	3583981	10a Calle Poniente	residential	1	0	0	
+SV	3583981	11 Calle Oriente	residential	1	0	0	
+SV	3583981	12 Calle Oriente	residential	1	0	0	
+SV	3583981	12 Calle Poniente	residential	1	0	0	
+SV	3583981	14 Calle Oriente	residential	1	0	0	
+SV	3583981	14 Calle Poniente	residential	1	0	0	
+SV	3583981	16 Calle Poniente	residential	1	0	0	
+SV	3583981	1a Avenida	residential	1	0	0	
+SV	3583981	1a Avenida Norte	tertiary	1	0	0	
+SV	3583981	1a Avenida Sur	residential	1	0	0	
+SV	3583981	1a Calle	residential	1	0	0	
+SV	3583981	1a Calle Oriente	residential	1	0	0	
+SV	3583981	1a Calle Poniente	tertiary	1	0	0	
+SV	3583981	1a Calle a Cantón Platanillo	tertiary	1	0	0	
+SV	3583981	1° Pasaje Oriente	residential	1	0	0	
+SV	3583981	1° Pasaje Poniente	residential	1	0	0	
+SV	3583981	2a Avenida	residential	1	0	0	
+SV	3583981	2a Avenida Norte	tertiary	1	0	0	
+SV	3583981	2a Avenida Sur	tertiary	1	0	0	
+SV	3583981	2a Calle	residential	1	0	0	
+SV	3583981	2a Calle Oriente	residential	1	0	0	
+SV	3583981	2a Calle Poniente	residential	1	0	0	
+SV	3583981	2a Calle a Canton Platanillo	residential	1	0	0	
+SV	3583981	2a Calle a Cantón Platanillo	residential	1	0	0	
+SV	3583981	2° Pasaje Poniente	residential	1	0	0	
+SV	3583981	3a Avenida	residential	1	0	0	
+SV	3583981	3a Calle	residential	1	0	0	
+SV	3583981	3a Calle Poniente	residential	1	0	0	
+SV	3583981	3° Pasaje Oriente	residential	1	0	0	
+SV	3583981	3° Pasaje Poniente	residential	1	0	0	
+SV	3583981	4a Avenida	residential	1	0	0	
+SV	3583981	4a Avenida Norte	residential	1	0	0	
+SV	3583981	4a Avenida Sur	residential	1	0	0	
+SV	3583981	4a Calle	residential	1	0	0	
+SV	3583981	4a Calle Oriente	tertiary	1	0	0	
+SV	3583981	4a Calle Poniente	residential	1	0	0	
+SV	3583981	5a Calle	residential	1	0	0	
+SV	3583981	5a Calle Oriente	residential	1	0	0	
+SV	3583981	5a Calle Poniente	residential	1	0	0	
+SV	3583981	6a Avenida Sur	residential	1	0	0	
+SV	3583981	6a Calle Oriente	residential	1	0	0	
+SV	3583981	6a Calle Poniente	residential	1	0	0	
+SV	3583981	7a Calle	residential	1	0	0	
+SV	3583981	7a Calle Oriente	secondary	1	0	0	
+SV	3583981	7a Calle Poniente	secondary	1	0	0	
+SV	3583981	8a Avenida Norte	residential	1	0	0	
+SV	3584003	1	residential	1	0	0	
+SV	3584003	1 Avenida Norte	residential	1	0	0	
+SV	3584003	1 Avenida Sur	residential	1	0	0	
+SV	3584003	1 Calle Oriente	residential	1	0	0	
+SV	3584003	1 Calle Poniente	residential	1	0	0	
+SV	3584003	2	residential	1	0	0	
+SV	3584003	2 Avenida Norte	residential	1	0	0	
+SV	3584003	2 Avenida Sur	residential	1	0	0	
+SV	3584003	2 Calle Oriente	secondary	1	0	0	
+SV	3584003	2 Calle Poniente	residential	1	0	0	
+SV	3584003	3	residential	1	0	0	
+SV	3584003	3 Calle Oriente	residential	1	0	0	
+SV	3584003	3 Calle Poniente	residential	1	0	0	
+SV	3584003	3a Avenida Norte	residential	1	0	0	
+SV	3584003	4	residential	1	0	0	
+SV	3584003	4 Avenida Norte	residential	1	0	0	
+SV	3584003	4 Avenida Sur	residential	1	0	0	
+SV	3584003	4 Calle Oriente	residential	1	0	0	
+SV	3584003	4 Calle Poniente	residential	1	0	0	
+SV	3584003	5	residential	1	0	0	
+SV	3584003	5 Calle Poniente	residential	1	0	0	
+SV	3584003	5a Avenida Norte	residential	1	0	0	
+SV	3584003	6	residential	1	0	0	
+SV	3584003	6 Avenida Norte	residential	1	0	0	
+SV	3584003	6 Avenida Sur	residential	1	0	0	
+SV	3584003	6 Calle Oriente	residential	1	0	0	
+SV	3584003	7	residential	1	0	0	
+SV	3584003	8	residential	1	0	0	
+SV	3584003	Avenida Francisco Osegueda Norte	secondary	1	0	0	
+SV	3584003	Avenida Francisco Osegueda Sur	residential	1	0	0	
+SV	3584003	Barrio El Centro Pasaje Mejía	residential	1	0	0	
+SV	3584003	Barrio El Centro pasaje Andes	residential	1	0	0	
+SV	3584003	Boulevard Rafael Arquimides Romero	secondary	1	0	0	
+SV	3584003	Calle Alberto Masferrer	residential	1	0	0	
+SV	3584003	Calle Francisco Gavidia	residential	1	0	0	
+SV	3584003	Calle Las Flores	residential	1	0	0	
+SV	3584003	Calle Principal	residential	1	0	0	
+SV	3584003	Calle Principal Al Tercio Puerto El Triunfo	residential	1	0	0	
+SV	3584003	Calle Principal El Baticano	residential	1	0	0	
+SV	3584003	Calle a la Cooperativa El Jobal	residential	1	0	0	
+SV	3584003	Carretera Principal A Puerto El Triunfo	secondary	1	0	0	
+SV	3584003	Carretera del Litoral	primary	1	0	0	
+SV	3584140	10a Avenida Norte	residential	1	0	0	
+SV	3584140	12a Avenida Norte	residential	1	0	0	
+SV	3584140	1a Avenida Norte	residential	1	0	0	
+SV	3584140	1a Avenida Sur	residential	1	0	0	
+SV	3584140	1a Calle Oriente	residential	1	0	0	
+SV	3584140	1a Calle Poniente	residential	1	0	0	
+SV	3584140	2a Avenida Norte	secondary	1	0	0	
+SV	3584140	2a Avenida Sur	secondary	1	0	0	
+SV	3584140	2a Calle Oriente	secondary	1	0	0	
+SV	3584140	2a Calle Poniente	residential	1	0	0	
+SV	3584140	3a Avenida Norte	residential	1	0	0	
+SV	3584140	3a Avenida Sur	residential	1	0	0	
+SV	3584156	1 Calle	residential	1	0	0	
+SV	3584156	1a Avenida Norte	tertiary	1	0	0	
+SV	3584156	1a Avenida Sur	residential	1	0	0	
+SV	3584156	1a Calle Oriente	residential	1	0	0	
+SV	3584156	1a Calle Poniente	residential	1	0	0	
+SV	3584156	2 Calle	residential	1	0	0	
+SV	3584156	2a Avenida Norte	residential	1	0	0	
+SV	3584156	2a Avenida Sur	residential	1	0	0	
+SV	3584156	2a Calle Poniente	residential	1	0	0	
+SV	3584156	3a Calle Poniente	residential	1	0	0	
+SV	3584156	Avenida Cuitapam	residential	1	0	0	
+SV	3584156	Avenida El Pino	residential	1	0	0	
+SV	3584156	Avenida La Paz	residential	1	0	0	
+SV	3584156	Avenida Morazán	residential	1	0	0	
+SV	3584156	Avenida Principal	residential	1	0	0	
+SV	3584156	Calle Antigua a Rosario de Mora	residential	1	0	0	
+SV	3584156	Calle Arce	residential	1	0	0	
+SV	3584156	Calle Circunvalación	residential	1	0	0	
+SV	3584156	Calle Delgado	residential	1	0	0	
+SV	3584156	Calle El Coco	residential	1	0	0	
+SV	3584156	Calle El Mango	residential	1	0	0	
+SV	3584156	Calle Lempira	tertiary	1	0	0	
+SV	3584156	Calle Los Laureles	residential	1	0	0	
+SV	3584156	Calle Principal	tertiary	1	0	0	
+SV	3584190	10a Calle Oriente	residential	1	0	0	
+SV	3584190	10a Calle Poniente	residential	1	0	0	
+SV	3584190	11a Calle Oriente	tertiary	1	0	0	
+SV	3584190	1a Avenida Norte	tertiary	1	0	0	
+SV	3584190	1a Avenida Sur	tertiary	1	0	0	
+SV	3584190	1a Calle Oriente	residential	1	0	0	
+SV	3584190	1a Calle Poniente	residential	1	0	0	
+SV	3584190	2a Avenida Norte	residential	1	0	0	
+SV	3584190	2a Avenida Sur	residential	1	0	0	
+SV	3584190	2a Calle Oriente	residential	1	0	0	
+SV	3584190	2a Calle Poniente	residential	1	0	0	
+SV	3584190	3a Avenida Norte	residential	1	0	0	
+SV	3584212	1a Calle Poniente	residential	1	0	0	
+SV	3584212	2a Calle Oriente	residential	1	0	0	
+SV	3584212	2a Calle Poniente	residential	1	0	0	
+SV	3584212	3a Avenida Norte	residential	1	0	0	
+SV	3584212	3a Calle Oriente	residential	1	0	0	
+SV	3584212	4a Calle Oriente	residential	1	0	0	
+SV	3584212	4a Calle Poniente	residential	1	0	0	
+SV	3584212	Avenida Central Norte	tertiary	1	0	0	
+SV	3584212	Avenida Central Sur	tertiary	1	0	0	
+SV	3584212	Avenida Dr. Demetrio Hernández	residential	1	0	0	
+SV	3584212	Avenida El Carmen	residential	1	0	0	
+SV	3584212	Avenida La Manzana	residential	1	0	0	
+SV	3584212	Avenida La Ronda	residential	1	0	0	
+SV	3584212	Avenida Lucas López	residential	1	0	0	
+SV	3584212	Avenida Principal	tertiary	1	0	0	
+SV	3584212	Avenida Principal Norte	tertiary	1	0	0	
+SV	3584212	Avenida Principal Sur	unclassified	1	0	0	
+SV	3584212	Avenida Samuel Alvarado	residential	1	0	0	
+SV	3584212	Avenida Samuel Escobar	residential	1	0	0	
+SV	3584212	Avenida San José	residential	1	0	0	
+SV	3584212	Calle Antigua	tertiary	1	0	0	
+SV	3584212	Calle Antigua a Zacatecoluca	secondary	1	0	0	
+SV	3584212	Calle Arce	residential	1	0	0	
+SV	3584212	Calle Benjamín Zeledón	residential	1	0	0	
+SV	3584251	1a Avenida Norte	residential	1	0	0	
+SV	3584251	1a Avenida Sur	residential	1	0	0	
+SV	3584251	1a Calle Oriente	residential	1	0	0	
+SV	3584251	1a Calle Poniente	residential	1	0	0	
+SV	3584251	2a Avenida Norte	residential	1	0	0	
+SV	3584251	2a Avenida Sur	residential	1	0	0	
+SV	3584251	2a Calle Oriente	residential	1	0	0	
+SV	3584251	2a Calle Poniente	residential	1	0	0	
+SV	3584251	3a Avenida Norte	residential	1	0	0	
+SV	3584251	3a Avenida Sur	residential	1	0	0	
+SV	3584251	3a Calle Oriente	residential	1	0	0	
+SV	3584251	4a Avenida Norte	residential	1	0	0	
+SV	3584251	4a Avenida Sur	residential	1	0	0	
+SV	3584251	4a Calle Poniente	residential	1	0	0	
+SV	3584251	5a Avenida Sur	residential	1	0	0	
+SV	3584251	6a Avenida Sur	residential	1	0	0	
+SV	3584251	6a Calle Poniente	residential	1	0	0	
+SV	3584251	7a Avenida Sur	residential	1	0	0	
+SV	3584251	Avenida Central Norte	residential	1	0	0	
+SV	3584251	Avenida Central Sur	residential	1	0	0	
+SV	3584251	Boulevar Cuscatlán	tertiary	1	0	0	
+SV	3584251	Calle Central Oriente	residential	1	0	0	
+SV	3584251	Calle Central Poniente	residential	1	0	0	
+SV	3584251	Calle a Huizúcar	tertiary	1	0	0	
+SV	3584257	4a Avenida Norte	residential	23	2	52	
+SV	3584257	1a Calle Poniente	residential	22	3	7	
+SV	3584257	14 Calle Oriente	residential	18	1	21	
+SV	3584257	15 Avenida Sur	residential	18	2	11	
+SV	3584257	3a Calle Poniente	tertiary	18	2	18	
+SV	3584257	Avenida San Andres		18	2	90	
+SV	3584257	12 Calle Oriente	residential	17	2	20	
+SV	3584257	4a Calle Oriente	primary	15	1	34	
+SV	3584257	Avenida Las Olas Sur	residential	15	2	38	
+SV	3584257	Peña Blanca	residential	15	23	131	
+SV	3584257	5a Avenida Norte	residential	14	1	116	
+SV	3584257	Calle San Andres		14	1	7	
+SV	3584257	Calle El Cafèto		13	1	32	
+SV	3584257	10 Calle Oriente		12	2	33	
+SV	3584257	1a Avenida Sur	residential	12	2	12	
+SV	3584257	2a Avenida Sur	residential	12	1	55	
+SV	3584257	12 Avenida Norte	residential	11	20	165	
+SV	3584257	4a Calle Poniente	primary	11	2	29	
+SV	3584257	Calle 9 Oriente	residential	11	6	20	
+SV	3584257	Calle Jose Ciriaco Lopez		11	2	23	
+SV	3584257	12 Avenida Sur	tertiary	10	2	33	
+SV	3584257	13 Calle Poniente A		10	84	127	
+SV	3584257	2a Calle Poniente	primary	9	1	15	
+SV	3584257	Calle Pino Blanco	residential	9	3	25	
+SV	3584257	10a Avenida Norte	tertiary	8	2	128	
+SV	3584257	14 Avenida Norte	residential	8	1	163	
+SV	3584257	Avenida Las Truchas		8	2	31	
+SV	3584257	Boulevard Sur		8	3	28	
+SV	3584257	Calle El Carmen	residential	8	1	15	
+SV	3584257	Calle El Cedro	residential	8	1	19	
+SV	3584257	3a Avenida Norte	tertiary	7	3	19	
+SV	3584257	3a. Calle Oriente		7	1	7	
+SV	3584257	Calle San Antonio	residential	7	1	74	
+SV	3584257	5a Avenida Sur	tertiary	6	2	311	
+SV	3584257	Avenida Las Medusas Sur	residential	6	3	12	
+SV	3584257	Calle El Boquerón	residential	6	2	22	
+SV	3584257	Paseo El Carmen		6	1	5	
+SV	3584257	2a Calle Oriente	primary	5	4	6	
+SV	3584257	6a Calle Poniente	residential	5	2	5	
+SV	3584257	Avenida La Caobo		5	20	28	
+SV	3584257	Calle Arturo Ambrogi	residential	5	3	612	
+SV	3584257	Calle Cannes	residential	5	10	20	
+SV	3584257	Calle Chiltupán		5	50	78	
+SV	3584257	Calle La Sierra	residential	5	2	7	
+SV	3584257	Calle San Juan De Luz		5	2	10	
+SV	3584257	Pasaje Coluco		5	2	30	
+SV	3584257	Pasaje Las Azaleas	residential	5	5	23	
+SV	3584257	10 Avenida Norte	residential	4	2	2	
+SV	3584257	13 Avenida Sur	residential	4	5	201	
+SV	3584257	Calle La Esmeralda		4	57	70	
+SV	3584257	Calle San Jorge	residential	4	22	85	
+SV	3584257	11 Avenida Sur	residential	3	4	33	
+SV	3584257	15 Calle Poniente A	residential	3	16	16	
+SV	3584257	6a Avenida Norte	residential	3	31	35	
+SV	3584257	6a Calle Oriente	residential	3	1	2	
+SV	3584257	8a Avenida Norte	residential	3	15	19	
+SV	3584257	Avenida Bearritz	residential	3	5	8	
+SV	3584257	Avenida Manuel Gallardo	residential	3	1	2	
+SV	3584257	Calle La Sabana	residential	3	3	23	
+SV	3584257	Calle Las Rosas	residential	3	47	51	
+SV	3584257	Calle Real	residential	3	7	7	
+SV	3584257	Calle San José	residential	3	11	20	
+SV	3584257	4a Avenida Sur	residential	2	2	4	
+SV	3584257	4ª Avenida Norte		2	1	2	
+SV	3584257	5 Calle Oriente		2	1	3	
+SV	3584257	8a Calle Oriente	residential	2	14	14	
+SV	3584257	8a Calle Poniente	residential	2	3	6	
+SV	3584257	Avenida La Ceiba	residential	2	11	13	
+SV	3584257	Avenida San Martín	residential	2	4	4	
+SV	3584257	Bulevar El Hipódromo		2	3	6	
+SV	3584257	Calle Arturo Amrrugi		2	5	7	
+SV	3584257	Calle al volcan	tertiary	2	4	17	
+SV	3584257	Pasaje Izalco	residential	2	7	7	
+SV	3584257	Pasaje Las Violetas	residential	2	0	0	
+SV	3584257	10a Avenida Sur	residential	1	0	0	
+SV	3584257	10a Calle Oriente	residential	1	0	0	
+SV	3584257	11 Avenida Norte	residential	1	0	0	
+SV	3584257	11 Calle Oriente	residential	1	0	0	
+SV	3584257	11 Calle Poniente	residential	1	0	0	
+SV	3584257	11 Calle Poniente A	residential	1	0	0	
+SV	3584257	13 Avenida Norte	residential	1	0	0	
+SV	3584257	13 Calle Poniente	residential	1	0	0	
+SV	3584257	15 Avenida Norte	residential	1	0	0	
+SV	3584257	15 Calle Poniente B	residential	1	0	0	
+SV	3584257	16 Avenida Norte	residential	1	0	0	
+SV	3584257	16 Avenida Sur	residential	1	0	0	
+SV	3584257	17 Avenida Norte	tertiary	1	0	0	
+SV	3584257	18 Avenida Sur	residential	1	0	0	
+SV	3584257	19 Avenida Norte	residential	1	0	0	
+SV	3584257	19 Avenida Sur	residential	1	0	0	
+SV	3584257	1a Avenida Norte	tertiary	1	0	0	
+SV	3584257	21 Avenida Norte	residential	1	0	0	
+SV	3584257	23 Avenida Sur	residential	1	0	0	
+SV	3584257	2a Avenida Norte	residential	1	0	0	
+SV	3584257	3a Avenida Sur	residential	1	0	0	
+SV	3584257	3a Calle Oriente	tertiary	1	0	0	
+SV	3584257	5a Calle Poniente	secondary	1	0	0	
+SV	3584257	6a Avenida Sur	residential	1	0	0	
+SV	3584257	6ª Avenida Norte	residential	1	0	0	
+SV	3584257	7a Avenida Norte	secondary	1	0	0	
+SV	3584260	10a Avenida Norte	residential	1	0	0	
+SV	3584260	10a Avenida Sur	residential	1	0	0	
+SV	3584260	12 Avenida Norte	residential	1	0	0	
+SV	3584260	12 Avenida Sur	residential	1	0	0	
+SV	3584260	1a Avenida Norte	residential	1	0	0	
+SV	3584260	1a Avenida Sur	residential	1	0	0	
+SV	3584260	1a Calle Oriente	residential	1	0	0	
+SV	3584260	1a Calle Poniente	residential	1	0	0	
+SV	3584260	2a Avenida Norte	residential	1	0	0	
+SV	3584260	2a Avenida Sur	residential	1	0	0	
+SV	3584260	2a Calle Oriente	residential	1	0	0	
+SV	3584260	2a Calle Poniente	residential	1	0	0	
+SV	3584260	3a Avenida Norte	residential	1	0	0	
+SV	3584260	3a Calle Oriente	residential	1	0	0	
+SV	3584260	3a Calle Poniente	residential	1	0	0	
+SV	3584260	4a Avenida Norte	residential	1	0	0	
+SV	3584260	4a Avenida Sur	residential	1	0	0	
+SV	3584260	4a Calle Oriente	residential	1	0	0	
+SV	3584260	4a Calle Poniente	residential	1	0	0	
+SV	3584260	5a Avenida Norte	residential	1	0	0	
+SV	3584260	5a Avenida Sur	residential	1	0	0	
+SV	3584260	5a Calle Poniente	tertiary	1	0	0	
+SV	3584260	6a Avenida Norte	residential	1	0	0	
+SV	3584260	6a Calle Oriente	residential	1	0	0	
+SV	3584264	10a Avenida Norte	residential	1	0	0	
+SV	3584264	10a Avenida Sur	residential	1	0	0	
+SV	3584264	12a Avenida Norte	residential	1	0	0	
+SV	3584264	1a Calle Oriente	residential	1	0	0	
+SV	3584264	1a Calle Poniente	residential	1	0	0	
+SV	3584264	2a Avenida Norte	residential	1	0	0	
+SV	3584264	2a Avenida Sur	secondary	1	0	0	
+SV	3584264	2a Calle Oriente	residential	1	0	0	
+SV	3584264	3a Calle Oriente	residential	1	0	0	
+SV	3584264	4a Avenida Norte	tertiary	1	0	0	
+SV	3584264	4a Avenida Sur	residential	1	0	0	
+SV	3584264	6a Avenida Norte	residential	1	0	0	
+SV	3584266	10a Avenida Norte	residential	1	0	0	
+SV	3584266	10a Avenida Norte Bis	residential	1	0	0	
+SV	3584266	10a Avenida Sur	residential	1	0	0	
+SV	3584266	10a Calle Oriente	residential	1	0	0	
+SV	3584266	10a Calle Poniente	residential	1	0	0	
+SV	3584266	11a Calle Oriente	residential	1	0	0	
+SV	3584266	11a Calle Poniente	residential	1	0	0	
+SV	3584266	12a Avenida Norte	residential	1	0	0	
+SV	3584266	12a Avenida Sur	residential	1	0	0	
+SV	3584266	12a Calle Oriente	residential	1	0	0	
+SV	3584266	13a Calle Oriente	residential	1	0	0	
+SV	3584266	13a Calle Poniente	residential	1	0	0	
+SV	3584266	14a Avenida Norte	residential	1	0	0	
+SV	3584266	14a Avenida Sur	residential	1	0	0	
+SV	3584266	14a Calle Oriente	residential	1	0	0	
+SV	3584266	14a Calle Poniente	residential	1	0	0	
+SV	3584266	15a Calle Oriente	residential	1	0	0	
+SV	3584266	15a Calle Poniente	residential	1	0	0	
+SV	3584266	16a Avenida Norte	residential	1	0	0	
+SV	3584266	16a Avenida Sur	residential	1	0	0	
+SV	3584266	17a Calle Oriente	residential	1	0	0	
+SV	3584266	17a Calle Poniente	residential	1	0	0	
+SV	3584266	18a Avenida Norte	residential	1	0	0	
+SV	3584266	18a Avenida Sur	residential	1	0	0	
+SV	3584297	10a Calle Oriente	residential	1	0	0	
+SV	3584297	10a Calle Poniente	residential	1	0	0	
+SV	3584297	11a Calle Poniente	residential	1	0	0	
+SV	3584297	12a Calle Oriente	residential	1	0	0	
+SV	3584297	12a Calle Poniente	residential	1	0	0	
+SV	3584297	14a Calle Oriente	residential	1	0	0	
+SV	3584297	14a Calle Poniente	residential	1	0	0	
+SV	3584297	15a Calle Poniente	residential	1	0	0	
+SV	3584297	16a Calle Oriente	unclassified	1	0	0	
+SV	3584297	18a Calle Oriente	residential	1	0	0	
+SV	3584297	1a Avenida Norte	residential	1	0	0	
+SV	3584297	1a Avenida Sur	residential	1	0	0	
+SV	3584297	1a Calle Oriente	residential	1	0	0	
+SV	3584297	1a Calle Poniente	residential	1	0	0	
+SV	3584297	2a Avenida Norte	residential	1	0	0	
+SV	3584297	2a Avenida Sur	residential	1	0	0	
+SV	3584297	2a Calle Oriente	residential	1	0	0	
+SV	3584297	2a Calle Poniente	residential	1	0	0	
+SV	3584297	3a Avenida Norte	residential	1	0	0	
+SV	3584297	3a Avenida Sur	residential	1	0	0	
+SV	3584297	3a Calle Oriente	unclassified	1	0	0	
+SV	3584297	3a Calle Poniente	residential	1	0	0	
+SV	3584297	4a Avenida Norte	residential	1	0	0	
+SV	3584297	4a Avenida Sur	residential	1	0	0	
+SV	3584348	1a Calle Oriente	residential	1	0	0	
+SV	3584348	1a Calle Poniente	residential	1	0	0	
+SV	3584348	2a Avenida Norte	residential	1	0	0	
+SV	3584348	2a Avenida Sur	residential	1	0	0	
+SV	3584348	3a Calle Oriente	residential	1	0	0	
+SV	3584348	3a Calle Poniente	residential	1	0	0	
+SV	3584348	4a Avenida Norte	residential	1	0	0	
+SV	3584348	4a Avenida Sur	tertiary	1	0	0	
+SV	3584348	4a Calle Oriente	tertiary	1	0	0	
+SV	3584348	4a Calle Poniente	residential	1	0	0	
+SV	3584348	5a Calle Oriente	residential	1	0	0	
+SV	3584348	6a Avenida Sur	residential	1	0	0	
+SV	3584384	Carretera Santa Ana - Metapán	primary	2	0	0	
+SV	3584384	10 Avenida Sur	residential	1	0	0	
+SV	3584384	10a Avenida Norte	residential	1	0	0	
+SV	3584384	10a Avenida Sur	residential	1	0	0	
+SV	3584384	10a Calle Oriente	residential	1	0	0	
+SV	3584384	11a Calle Oriente	residential	1	0	0	
+SV	3584384	11a Calle Poniente	residential	1	0	0	
+SV	3584384	13a Calle Oriente	residential	1	0	0	
+SV	3584384	13a Calle Poniente	residential	1	0	0	
+SV	3584384	15a Calle Oriente	tertiary	1	0	0	
+SV	3584384	15a Calle Poniente	residential	1	0	0	
+SV	3584384	17a Calle Oriente	residential	1	0	0	
+SV	3584384	19a Calle Oriente	residential	1	0	0	
+SV	3584384	1a Avenida Norte	residential	1	0	0	
+SV	3584384	1a Avenida Sur	residential	1	0	0	
+SV	3584384	1a Calle Oriente	residential	1	0	0	
+SV	3584384	1a Calle Poniente	residential	1	0	0	
+SV	3584384	2a Avenida Norte	residential	1	0	0	
+SV	3584384	2a Avenida Sur	residential	1	0	0	
+SV	3584384	2a Calle Oriente	tertiary	1	0	0	
+SV	3584384	2a Calle Poniente	residential	1	0	0	
+SV	3584384	3a Avenida Norte	residential	1	0	0	
+SV	3584384	3a Avenida Sur	residential	1	0	0	
+SV	3584384	3a Calle Oriente	residential	1	0	0	
+SV	3584384	3a Calle Poniente	residential	1	0	0	
+SV	3584384	4a Avenida Norte	residential	1	0	0	
+SV	3584384	4a Avenida Sur	residential	1	0	0	
+SV	3584384	4a Calle Poniente (Calle Las Parejas)	tertiary	1	0	0	
+SV	3584384	5a Avenida Norte	tertiary	1	0	0	
+SV	3584384	5a Avenida Sur	residential	1	0	0	
+SV	3584384	5a Calle Oriente	residential	1	0	0	
+SV	3584384	5a Calle Poniente	tertiary	1	0	0	
+SV	3584384	6a Avenida Norte	residential	1	0	0	
+SV	3584384	6a Avenida Sur	residential	1	0	0	
+SV	3584384	6a Calle Oriente	residential	1	0	0	
+SV	3584384	6a Calle Poniente	residential	1	0	0	
+SV	3584384	7a Avenida Norte	residential	1	0	0	
+SV	3584384	7a Calle Oriente	residential	1	0	0	
+SV	3584384	7a Calle Oriente Bis	residential	1	0	0	
+SV	3584384	8a Avenida Norte	residential	1	0	0	
+SV	3584384	8a Avenida Sur	residential	1	0	0	
+SV	3584384	8a Calle Poniente	residential	1	0	0	
+SV	3584384	9a Avenida Norte	residential	1	0	0	
+SV	3584384	9a Calle Oriente	residential	1	0	0	
+SV	3584384	9a Calle Poniente	residential	1	0	0	
+SV	3584384	Avenida 1	residential	1	0	0	
+SV	3584384	Avenida 3	residential	1	0	0	
+SV	3584384	Avenida 4	residential	1	0	0	
+SV	3584399	Calle las Margaritas	residential	12	5	48	
+SV	3584399	Pasaje Las Margaritas		12	43	70	
+SV	3584399	37 Calle Oriente	tertiary	11	14	810	
+SV	3584399	33a Calle Oriente Bis	residential	10	802	938	
+SV	3584399	Avenida Metrópolis	tertiary	10	14	22	
+SV	3584399	Pasaje Santa Marta	residential	9	1	405	
+SV	3584399	39 Calle Poniente	residential	7	31	582	
+SV	3584399	Avenida Morazan	residential	6	26	35	
+SV	3584399	Calle Alirio Cornejo		6	15	34	
+SV	3584399	Pasaje Layco	residential	6	55	832	
+SV	3584399	Avenida Puntarenas	residential	5	330	382	
+SV	3584399	Calle Las Rosas		5	1	20	
+SV	3584399	Pasaje 6	residential	5	605	2134	
+SV	3584399	1° Avenida Norte	residential	4	6	21	
+SV	3584399	27 Calle Poniente	residential	4	419	519	
+SV	3584399	7a Avenida Norte	residential	4	52	1703	
+SV	3584399	Calle San Carlos	tertiary	4	17	944	
+SV	3584399	Calle Zacamil	tertiary	4	9	17	
+SV	3584399	Calle a Mariona	secondary	4	51	59	
+SV	3584399	Senda 4	residential	4	2	4	
+SV	3584399	10a Avenida Norte	tertiary	3	25	1808	
+SV	3584399	31 Calle Poniente	residential	3	1026	1110	
+SV	3584399	3a Avenida Norte	residential	3	301	1712	
+SV	3584399	Avenida Boquin	residential	3	2	4	
+SV	3584399	Calle Castro Morán	residential	3	3	14	
+SV	3584399	Calle San Lucas	tertiary	3	44	55	
+SV	3584399	Avenida San Lorenzo	residential	2	115	221	
+SV	3584399	Avenida Washington	residential	2	50	534	
+SV	3584399	Calle El Progreso		2	2	2	
+SV	3584399	Calle al Volcán	secondary	2	1	5	
+SV	3584399	Pasaje Cantizano		2	10	11	
+SV	3584399	Pasaje Corinto	residential	2	127	131	
+SV	3584399	10a Calle	residential	1	0	0	
+SV	3584399	11 Avenida Norte	residential	1	0	0	
+SV	3584399	11 Calle	residential	1	0	0	
+SV	3584399	11 Calle Poniente	secondary	1	0	0	
+SV	3584399	11a Calle	residential	1	0	0	
+SV	3584399	12 Avenida Norte	residential	1	0	0	
+SV	3584399	13 Avenida Norte	residential	1	0	0	
+SV	3584399	15 Avenida Norte	residential	1	0	0	
+SV	3584399	16 Avenida Norte	residential	1	0	0	
+SV	3584399	17 Avenida Norte	residential	1	0	0	
+SV	3584399	19 Avenida Norte	secondary	1	0	0	
+SV	3584399	1a Avenida Norte	secondary	1	0	0	
+SV	3584399	1a Calle Oriente	tertiary	1	0	0	
+SV	3584399	1a Calle Poniente	residential	1	0	0	
+SV	3584399	20 Avenida Norte	tertiary	1	0	0	
+SV	3584399	21 Avenida Norte	secondary	1	0	0	
+SV	3584399	29 Avenida Norte	secondary	1	0	0	
+SV	3584399	29 Calle Oriente	tertiary	1	0	0	
+SV	3584399	29 Calle Poniente	tertiary	1	0	0	
+SV	3584399	2a Avenida Norte	secondary	1	0	0	
+SV	3584399	2a Calle Oriente	secondary	1	0	0	
+SV	3584399	31 Calle Oriente	residential	1	0	0	
+SV	3584399	33 Calle Oriente Bis	residential	1	0	0	
+SV	3584399	33 Calle Poniente	residential	1	0	0	
+SV	3584399	35 Avenida Norte	residential	1	0	0	
+SV	3584399	35 Calle Oriente	residential	1	0	0	
+SV	3584399	37 Avenida Norte	residential	1	0	0	
+SV	3584399	37 Calle	residential	1	0	0	
+SV	3584399	39 Avenida Norte	residential	1	0	0	
+SV	3584399	39 Calle Oriente	residential	1	0	0	
+SV	3584399	3a Calle Poniente	tertiary	1	0	0	
+SV	3584399	41 Calle Poniente	residential	1	0	0	
+SV	3584399	4a Avenida Norte	residential	1	0	0	
+SV	3584399	4a Calle Oriente	residential	1	0	0	
+SV	3584399	5a Avenida Norte	primary	1	0	0	
+SV	3584399	5a Calle Oriente	residential	1	0	0	
+SV	3584399	5a Calle Poniente	tertiary	1	0	0	
+SV	3584399	6a Avenida Norte	residential	1	0	0	
+SV	3584399	6a Avenida Norte Bis	residential	1	0	0	
+SV	3584399	7a Calle Poniente	residential	1	0	0	
+SV	3584399	8a Avenida Norte	residential	1	0	0	
+SV	3584399	9a Calle Poniente	residential	1	0	0	
+SV	3584399	Acceso a Hospital Zacamil	residential	1	0	0	
+SV	3584399	Autopista Norte	primary	1	0	0	
+SV	3584399	Avenida 2 de Abril	residential	1	0	0	
+SV	3584399	Avenida 4 de Agosto	residential	1	0	0	
+SV	3584399	Avenida A	residential	1	0	0	
+SV	3584399	Avenida Arenales	residential	1	0	0	
+SV	3584399	Avenida Ascención	residential	1	0	0	
+SV	3584399	Avenida Atlacatl	residential	1	0	0	
+SV	3584399	Avenida Bernal	secondary	1	0	0	
+SV	3584399	Avenida Capernaum	residential	1	0	0	
+SV	3584399	Avenida Cenbal	residential	1	0	0	
+SV	3584399	Avenida Corinto	residential	1	0	0	
+SV	3584399	Avenida Cuscatancingo	tertiary	1	0	0	
+SV	3584399	Avenida Dolores	unclassified	1	0	0	
+SV	3584399	Avenida Don Bosco	secondary	1	0	0	
+SV	3584399	Avenida España	secondary	1	0	0	
+SV	3584399	Avenida Espíritu Santo	residential	1	0	0	
+SV	3584399	Avenida Florencia	living_street	1	0	0	
+SV	3584399	Avenida Gardenia	residential	1	0	0	
+SV	3584399	Avenida General Artiga	residential	1	0	0	
+SV	3584399	Avenida Izalco	tertiary	1	0	0	
+SV	3584399	Avenida Jose Napoleon Martinez	residential	1	0	0	
+SV	3584399	Avenida José Martí	residential	1	0	0	
+SV	3584399	Avenida Juan Aberle	tertiary	1	0	0	
+SV	3584399	Avenida Juares	residential	1	0	0	
+SV	3584399	Avenida La Paz	tertiary	1	0	0	
+SV	3584714	11a Calle Oriente	residential	1	0	0	
+SV	3584714	1a Avenida Norte	residential	1	0	0	
+SV	3584714	1a Avenida Sur	residential	1	0	0	
+SV	3584714	1a Calle Oriente	residential	1	0	0	
+SV	3584714	1a Calle Poniente	residential	1	0	0	
+SV	3584714	2a Avenida Norte	residential	1	0	0	
+SV	3584714	2a Avenida Sur	residential	1	0	0	
+SV	3584714	2a Calle Oriente	residential	1	0	0	
+SV	3584714	2a Calle Poniente	residential	1	0	0	
+SV	3584714	3a Calle Oriente	residential	1	0	0	
+SV	3584714	3a Calle Poniente	residential	1	0	0	
+SV	3584714	4a Avenida Norte	residential	1	0	0	
+SV	3584772	1ª Calle Poniente	residential	2	5	5	
+SV	3584772	1 Calle	residential	1	0	0	
+SV	3584772	1 Calle Poniente Central La Paz	residential	1	0	0	
+SV	3584772	1 Calle Poniente La Paz	residential	1	0	0	
+SV	3584772	10 Calle Oriente	residential	1	0	0	
+SV	3584772	10ª Avenida Norte	residential	1	0	0	
+SV	3584772	11ª Avenida Norte	residential	1	0	0	
+SV	3584772	11ª Avenida Sur	residential	1	0	0	
+SV	3584772	12ª Avenida Norte	residential	1	0	0	
+SV	3584772	13ª Avenida Norte	primary	1	0	0	
+SV	3584772	13ª Avenida Sur	primary	1	0	0	
+SV	3584772	1ª Avenida Norte	residential	1	0	0	
+SV	3584772	1ª Avenida Sur	residential	1	0	0	
+SV	3584772	1ª Calle	residential	1	0	0	
+SV	3584772	1ª Calle Oriente	primary	1	0	0	
+SV	3584772	2 Pasaje Oriente	residential	1	0	0	
+SV	3584772	2ª Avenida Norte	residential	1	0	0	
+SV	3584772	2ª Avenida Sur	residential	1	0	0	
+SV	3584772	2ª Calle	residential	1	0	0	
+SV	3584772	2ª Calle Oriente	residential	1	0	0	
+SV	3584772	2ª Calle Poniente	residential	1	0	0	
+SV	3584772	3 pasaje oriente	residential	1	0	0	
+SV	3584772	3ª Avenida Norte	residential	1	0	0	
+SV	3584772	3ª Avenida Sur	residential	1	0	0	
+SV	3584772	3ª Calle	residential	1	0	0	
+SV	3584772	3ª Calle Poniente	primary	1	0	0	
+SV	3584772	4 Pasaje Oriente Sur	residential	1	0	0	
+SV	3584772	4ª Avenida Norte	residential	1	0	0	
+SV	3584772	4ª Avenida Sur	residential	1	0	0	
+SV	3584772	4ª Calle Oriente	primary	1	0	0	
+SV	3584772	4ª Calle Poniente	primary	1	0	0	
+SV	3584772	5ª Avenida	residential	1	0	0	
+SV	3584772	5ª Avenida Norte	residential	1	0	0	
+SV	3584772	5ª Avenida Sur	residential	1	0	0	
+SV	3584772	5ª Calle Poniente	residential	1	0	0	
+SV	3584772	6ª Avenida Norte	residential	1	0	0	
+SV	3584772	6ª Avenida Sur	residential	1	0	0	
+SV	3584772	7a Calle Oriente	residential	1	0	0	
+SV	3584772	7ª Avenida Norte	residential	1	0	0	
+SV	3584772	7ª Avenida Sur	residential	1	0	0	
+SV	3584772	7ª Calle Oriente	residential	1	0	0	
+SV	3584772	7ª Calle Poniente	residential	1	0	0	
+SV	3584772	8ª Avenida Norte	residential	1	0	0	
+SV	3584772	8ª Avenida Sur	residential	1	0	0	
+SV	3584772	8ª Calle Oriente	residential	1	0	0	
+SV	3584772	8ª Calle Poniente	residential	1	0	0	
+SV	3584772	9ª Avenida Norte	residential	1	0	0	
+SV	3584772	9ª Avenida Sur	residential	1	0	0	
+SV	3585157	Joyas De La Montaña		8	1	8	
+SV	3585157	Calle Montecristo		7	0	6	
+SV	3585157	Polígono A		6	1	10	
+SV	3585157	Calle Tecana		5	0	0	
+SV	3585157	Pasaje San Andres		5	9	21	
+SV	3585157	Avenida Tezcatlipoca		4	14	42	
+SV	3585157	Avenida Sihuatan Pasaje T2		2	12	13	
+SV	3585157	Carretera del Litoral	primary	2	0	0	
+SV	3585157	Tescatlipacatl		2	6	43	
+SV	3585157	10a Avenida Norte	residential	1	0	0	
+SV	3585157	1a Avenida Norte	residential	1	0	0	
+SV	3585157	1a Avenida Sur	residential	1	0	0	
+SV	3585157	1a Calle Oriente	residential	1	0	0	
+SV	3585157	1a Calle Poniente	residential	1	0	0	
+SV	3585157	2a Avenida Norte	pedestrian	1	0	0	
+SV	3585157	2a Avenida Sur	residential	1	0	0	
+SV	3585157	3a Avenida Sur	residential	1	0	0	
+SV	3585157	3a Calle Oriente	residential	1	0	0	
+SV	3585157	3a Calle Poniente	residential	1	0	0	
+SV	3585157	4a Avenida Norte	residential	1	0	0	
+SV	3585157	4a Avenida Sur	residential	1	0	0	
+SV	3585157	5a Avenida Norte	residential	1	0	0	
+SV	3585157	5a Avenida Sur	residential	1	0	0	
+SV	3585157	5a Calle Oriente	residential	1	0	0	
+SV	3585157	5a Calle Poniente	residential	1	0	0	
+SV	3585157	6a Avenida Norte	residential	1	0	0	
+SV	3585157	7a Avenida Norte	residential	1	0	0	
+SV	3585157	7a Avenida Sur	residential	1	0	0	
+SV	3585157	8a Avenida Norte	residential	1	0	0	
+SV	3585157	8a Avenida Sur	residential	1	0	0	
+SV	3585157	9a Avenida Norte	primary	1	0	0	
+SV	3585157	Avenida Bolívar	residential	1	0	0	
+SV	3585157	Avenida Chilama	residential	1	0	0	
+SV	3585157	Avenida Cocotero	residential	1	0	0	
+SV	3585157	Avenida Progreso	residential	1	0	0	
+SV	3585157	Avenida Río Grande	residential	1	0	0	
+SV	3585157	Calle Divina Providencia	residential	1	0	0	
+SV	3585157	Calle El Calvario	primary	1	0	0	
+SV	3585157	Calle El Obispo	residential	1	0	0	
+SV	3585157	Calle Gerardo Barrios	primary	1	0	0	
+SV	3585157	Calle Principal	residential	1	0	0	
+SV	3585157	Calle Refugio del Mar	residential	1	0	0	
+SV	3585157	Calle Santa Emilia	residential	1	0	0	
+SV	3585157	Calle Vecinal	residential	1	0	0	
+SV	3585157	Calle a Cantón El Cimarrón	unclassified	1	0	0	
+SV	3585157	Calle a Cantón Guadalupe	unclassified	1	0	0	
+SV	3585157	Calle a Cantón Tepeagua	unclassified	1	0	0	
+SV	3585157	Calle a Caserío El Salamo	unclassified	1	0	0	
+SV	3585392	13a Calle Poniente	residential	1	0	0	
+SV	3585392	1a Avenida Norte	residential	1	0	0	
+SV	3585392	1a Avenida Sur	residential	1	0	0	
+SV	3585392	1a Calle Oriente	residential	1	0	0	
+SV	3585392	1a Calle Poniente	residential	1	0	0	
+SV	3585392	2a Avenida Norte	residential	1	0	0	
+SV	3585392	2a Avenida Sur	residential	1	0	0	
+SV	3585392	2a Calle Oriente	residential	1	0	0	
+SV	3585392	3a Avenida Norte	residential	1	0	0	
+SV	3585392	3a Avenida Sur	residential	1	0	0	
+SV	3585392	3a Calle Oriente	residential	1	0	0	
+SV	3585392	3a Calle Poniente	residential	1	0	0	
+SV	3585395	1a Avenida Norte	residential	1	0	0	
+SV	3585395	1a Avenida Sur	residential	1	0	0	
+SV	3585395	1a Calle Oriente	residential	1	0	0	
+SV	3585395	1a Calle Poniente	residential	1	0	0	
+SV	3585395	2a Avenida Norte	residential	1	0	0	
+SV	3585395	2a Avenida Sur	residential	1	0	0	
+SV	3585395	2a Calle Oriente	residential	1	0	0	
+SV	3585395	2a Calle Poniente	residential	1	0	0	
+SV	3585395	3a Avenida Norte	residential	1	0	0	
+SV	3585395	3a Avenida Sur	residential	1	0	0	
+SV	3585395	3a Calle Oriente	residential	1	0	0	
+SV	3585395	3a Calle Poniente	residential	1	0	0	
+SV	3585398	10a Avenida Norte	residential	1	0	0	
+SV	3585398	1a Avenida Norte	residential	1	0	0	
+SV	3585398	1a Avenida Sur	residential	1	0	0	
+SV	3585398	1a Calle Oriente	primary	1	0	0	
+SV	3585398	1a Calle Poniente	residential	1	0	0	
+SV	3585398	2a Avenida Norte	tertiary	1	0	0	
+SV	3585398	2a Avenida Sur	tertiary	1	0	0	
+SV	3585398	2a Calle Oriente	residential	1	0	0	
+SV	3585398	2a Calle Poniente	residential	1	0	0	
+SV	3585398	3a Avenida Norte	residential	1	0	0	
+SV	3585398	3a Avenida Sur	residential	1	0	0	
+SV	3585398	3a Calle Oriente	primary	1	0	0	
+SV	3585398	3a Calle Poniente	residential	1	0	0	
+SV	3585398	4a Avenida Norte	residential	1	0	0	
+SV	3585398	4a Avenida Sur	residential	1	0	0	
+SV	3585398	4a Calle Oriente	tertiary	1	0	0	
+SV	3585398	4a Calle Poniente	tertiary	1	0	0	
+SV	3585398	5a Avenida Norte	residential	1	0	0	
+SV	3585398	5a Avenida Sur	residential	1	0	0	
+SV	3585398	5a Calle Oriente	residential	1	0	0	
+SV	3585398	5a Calle Poniente	residential	1	0	0	
+SV	3585398	6a Avenida Sur	residential	1	0	0	
+SV	3585398	6a Calle Oriente	residential	1	0	0	
+SV	3585398	7a Avenida Norte	residential	1	0	0	
+SV	3585401	11ª Avenida Norte	residential	1	0	0	
+SV	3585401	1a Avenida Norte	residential	1	0	0	
+SV	3585401	1a Avenida Sur	residential	1	0	0	
+SV	3585401	1a Calle Oriente	residential	1	0	0	
+SV	3585401	1a Calle Poniente	residential	1	0	0	
+SV	3585401	1ª Avenida Sur	residential	1	0	0	
+SV	3585401	1ª Calle Oriente	residential	1	0	0	
+SV	3585401	1ª Calle Poniente	residential	1	0	0	
+SV	3585401	2a Avenida Norte	residential	1	0	0	
+SV	3585401	2a Avenida Sur	tertiary	1	0	0	
+SV	3585401	2a Calle Oriente	residential	1	0	0	
+SV	3585401	2a Calle Poniente	residential	1	0	0	
+SV	3585401	2ª Avenida Norte	residential	1	0	0	
+SV	3585401	2ª Calle Oriente	residential	1	0	0	
+SV	3585401	2ª Calle Poniente	unclassified	1	0	0	
+SV	3585401	3a Avenida Norte	residential	1	0	0	
+SV	3585401	3a Avenida Sur	residential	1	0	0	
+SV	3585401	3a Calle Oriente	residential	1	0	0	
+SV	3585401	3a Calle Poniente	residential	1	0	0	
+SV	3585401	3ª Avenida Norte	residential	1	0	0	
+SV	3585401	3ª Avenida Sur	tertiary	1	0	0	
+SV	3585401	3ª Calle Oriente	residential	1	0	0	
+SV	3585401	4a Avenida Norte	residential	1	0	0	
+SV	3585401	4a Avenida Sur	residential	1	0	0	
+SV	3585427	Avenida Hermanos Lejanos	residential	7	0	0	
+SV	3585427	10a Avenida Sur	residential	1	0	0	
+SV	3585427	10a Calle Poniente	residential	1	0	0	
+SV	3585427	11a Avenida Sur	residential	1	0	0	
+SV	3585427	12a Calle Poniente	residential	1	0	0	
+SV	3585427	13a Avenida Sur	residential	1	0	0	
+SV	3585427	15a Avenida Sur	residential	1	0	0	
+SV	3585427	17a Avenida Sur	residential	1	0	0	
+SV	3585427	1a Avenida Norte	residential	1	0	0	
+SV	3585427	1a Avenida Sur	residential	1	0	0	
+SV	3585427	1a Calle Oriente	residential	1	0	0	
+SV	3585427	1a Calle Poniente	residential	1	0	0	
+SV	3585438	10ª Calle Oriente	residential	1	0	0	
+SV	3585438	12ª Calle Oriente	residential	1	0	0	
+SV	3585438	14ª Calle Oriente	residential	1	0	0	
+SV	3585438	1ª Avenida Norte	secondary	1	0	0	
+SV	3585438	1ª Avenida Sur	tertiary	1	0	0	
+SV	3585438	1ª Calle Oriente	tertiary	1	0	0	
+SV	3585438	1ª Calle Poniente	residential	1	0	0	
+SV	3585438	2ª Avenida Norte	residential	1	0	0	
+SV	3585438	2ª Avenida Sur	residential	1	0	0	
+SV	3585438	2ª Calle Oriente	residential	1	0	0	
+SV	3585438	2ª Calle Poniente	residential	1	0	0	
+SV	3585438	3ª Avenida Norte	residential	1	0	0	
+SV	3585438	3ª Avenida Sur	residential	1	0	0	
+SV	3585438	3ª Calle Oriente	residential	1	0	0	
+SV	3585438	3ª Calle Poniente	residential	1	0	0	
+SV	3585438	4ª Avenida Norte	tertiary	1	0	0	
+SV	3585438	4ª Avenida Sur	secondary	1	0	0	
+SV	3585438	4ª Calle Oriente	residential	1	0	0	
+SV	3585438	4ª Calle Poniente	residential	1	0	0	
+SV	3585438	5ª Avenida Norte	residential	1	0	0	
+SV	3585438	5ª Avenida Sur	residential	1	0	0	
+SV	3585438	5ª Calle Oriente	residential	1	0	0	
+SV	3585438	5ª Calle Poniente	residential	1	0	0	
+SV	3585438	6ª Calle Oriente	residential	1	0	0	
+SV	3585473	10ª Calle Oriente	residential	1	0	0	
+SV	3585473	10ª Calle Poniente	residential	1	0	0	
+SV	3585473	11ª Avenida Sur	residential	1	0	0	
+SV	3585473	11ª Calle Oriente	residential	1	0	0	
+SV	3585473	11ª Calle Poniente	residential	1	0	0	
+SV	3585473	12 Calle Poniente	residential	1	0	0	
+SV	3585473	12ª Calle Poniente	residential	1	0	0	
+SV	3585473	13ª Calle Oriente	residential	1	0	0	
+SV	3585473	13ª Calle Poniente	residential	1	0	0	
+SV	3585473	14ª Calle Poniente	residential	1	0	0	
+SV	3585473	1a Avenida Norte	tertiary	1	0	0	
+SV	3585473	1a Avenida Sur	residential	1	0	0	
+SV	3585473	1a Calle Oriente	residential	1	0	0	
+SV	3585473	1a Calle Poniente	tertiary	1	0	0	
+SV	3585473	1ª Avenida Norte	residential	1	0	0	
+SV	3585473	1ª Avenida Sur	residential	1	0	0	
+SV	3585473	1ª Calle Oriente	residential	1	0	0	
+SV	3585473	1ª Calle Poniente	residential	1	0	0	
+SV	3585473	2a Avenida Norte	residential	1	0	0	
+SV	3585473	2a Calle Poniente	tertiary	1	0	0	
+SV	3585473	2ª Avenida	residential	1	0	0	
+SV	3585473	2ª Avenida Norte	unclassified	1	0	0	
+SV	3585473	2ª Avenida Sur	residential	1	0	0	
+SV	3585473	2ª Calle Poniente	residential	1	0	0	
+SV	3585473	3ª Avenida Norte	residential	1	0	0	
+SV	3585473	3ª Avenida Sur	residential	1	0	0	
+SV	3585473	3ª Calle Oriente	residential	1	0	0	
+SV	3585473	3ª Calle Poniente	residential	1	0	0	
+SV	3585473	4a Calle Poniente	residential	1	0	0	
+SV	3585473	4ª Avenida Norte	residential	1	0	0	
+SV	3585473	4ª Avenida Sur	residential	1	0	0	
+SV	3585473	4ª Calle Oriente	residential	1	0	0	
+SV	3585473	4ª Calle Poniente	residential	1	0	0	
+SV	3585473	5a Calle Poniente	residential	1	0	0	
+SV	3585473	5ª Avenida Norte	residential	1	0	0	
+SV	3585473	5ª Avenida Sur	tertiary	1	0	0	
+SV	3585473	5ª Calle Oriente	unclassified	1	0	0	
+SV	3585473	5ª Calle Poniente	residential	1	0	0	
+SV	3585473	6ª Avenida Norte	residential	1	0	0	
+SV	3585473	6ª Avenida Sur	residential	1	0	0	
+SV	3585473	6ª Calle Oriente	residential	1	0	0	
+SV	3585473	6ª Calle Poniente	residential	1	0	0	
+SV	3585473	7a Calle Poniente	residential	1	0	0	
+SV	3585473	7ª Avenida Norte	residential	1	0	0	
+SV	3585473	7ª Avenida Sur	residential	1	0	0	
+SV	3585473	7ª Calle Oriente	residential	1	0	0	
+SV	3585473	7ª Calle Poniente	residential	1	0	0	
+SV	3585473	8ª Avenida Norte	residential	1	0	0	
+SV	3585480	10a Calle Oriente	residential	1	0	0	
+SV	3585480	10a Calle Poniente	residential	1	0	0	
+SV	3585480	12a Calle Oriente	residential	1	0	0	
+SV	3585480	12a Calle Poniente	residential	1	0	0	
+SV	3585480	14a Calle Poniente	residential	1	0	0	
+SV	3585480	16a Calle Oriente	residential	1	0	0	
+SV	3585480	16a Calle Poniente	residential	1	0	0	
+SV	3585480	1a Avenida Norte	residential	1	0	0	
+SV	3585480	1a Avenida Sur	residential	1	0	0	
+SV	3585480	1a Calle Oriente	residential	1	0	0	
+SV	3585480	1a Calle Poniente	residential	1	0	0	
+SV	3585480	2a Avenida Norte	residential	1	0	0	
+SV	3585484	1a Avenida Norte	tertiary	1	0	0	
+SV	3585484	1a Avenida Sur	secondary	1	0	0	
+SV	3585484	1a Calle Oriente	residential	1	0	0	
+SV	3585484	1a Calle Poniente	residential	1	0	0	
+SV	3585484	2a Avenida Norte	residential	1	0	0	
+SV	3585484	2a Avenida Sur	residential	1	0	0	
+SV	3585484	2a Calle Oriente	residential	1	0	0	
+SV	3585484	2a Calle Poniente	tertiary	1	0	0	
+SV	3585484	3a Avenida Sur	residential	1	0	0	
+SV	3585484	3a Calle Oriente	residential	1	0	0	
+SV	3585484	3a Calle Poniente	residential	1	0	0	
+SV	3585484	4 Avenida Norte	primary	1	0	0	
+SV	3585484	4a Avenida Norte	primary	1	0	0	
+SV	3585484	4a Avenida Sur	residential	1	0	0	
+SV	3585484	4a Calle Oriente	secondary	1	0	0	
+SV	3585484	4a Calle Poniente	residential	1	0	0	
+SV	3585484	5a Calle Poniente	residential	1	0	0	
+SV	3585484	6a Avenida Norte	residential	1	0	0	
+SV	3585484	6a Avenida Sur	residential	1	0	0	
+SV	3585484	6a Calle Oriente	residential	1	0	0	
+SV	3585484	6a Calle Poniente	residential	1	0	0	
+SV	3585484	7a Calle Poniente	residential	1	0	0	
+SV	3585484	8a Avenida Norte	residential	1	0	0	
+SV	3585484	8a Calle Oriente	residential	1	0	0	
+SV	3585484	8a Calle Poniente	residential	1	0	0	
+SV	3585484	Avenida 14 de Diciembre	residential	1	0	0	
+SV	3585484	Avenida Hermanos Marín	secondary	1	0	0	
+SV	3585484	Avenida Morazán	residential	1	0	0	
+SV	3585484	Avenida Navas	tertiary	1	0	0	
+SV	3585484	Avenida Sonsonate	unclassified	1	0	0	
+SV	3585484	Boulevard Hugo Chavez	primary	1	0	0	
+SV	3585484	Boulevard San Bartolo	primary	1	0	0	
+SV	3585484	Calle 5 de Noviembre	residential	1	0	0	
+SV	3585484	Calle Cojutepeque	unclassified	1	0	0	
+SV	3585484	Calle Cuscachapa	unclassified	1	0	0	
+SV	3585484	Calle Francisco Meléndez	unclassified	1	0	0	
+SV	3585484	Calle Jiboa Oriente	unclassified	1	0	0	
+SV	3585484	Calle Las Cañas	residential	1	0	0	
+SV	3585484	Calle Ludwig von Mises	residential	1	0	0	
+SV	3585484	Calle Miguel Román Peña	secondary	1	0	0	
+SV	3585484	Calle Rafael A. Gutierrez	residential	1	0	0	
+SV	3585484	Calle Tazumal	unclassified	1	0	0	
+SV	3585484	Calle a Apulo	tertiary	1	0	0	
+SV	3585484	Calle a Ilopango	tertiary	1	0	0	
+SV	3585484	Calle del Río	residential	1	0	0	
+SV	3585484	Carretera Panamericana	secondary	1	0	0	
+SV	3585484	Carretera San Martín - Suchitoto	secondary	1	0	0	
+SV	3585484	Carretera Tonacatepeque - San Martín	tertiary	1	0	0	
+SV	3585636	1 Avenida	residential	1	0	0	
+SV	3585636	1a Calle Oriente	residential	1	0	0	
+SV	3585636	1a Calle Poniente	residential	1	0	0	
+SV	3585636	2 Calle Poniente	residential	1	0	0	
+SV	3585636	3 Avenida	residential	1	0	0	
+SV	3585636	Avenida 14 de Noviembre	tertiary	1	0	0	
+SV	3585636	Avenida Central	residential	1	0	0	
+SV	3585636	Avenida El Comercio	tertiary	1	0	0	
+SV	3585636	Calle 5 de Noviembre	tertiary	1	0	0	
+SV	3585636	Calle El Calvario	residential	1	0	0	
+SV	3585636	Calle Joaquín Mayorga	residential	1	0	0	
+SV	3585636	Calle José Matías Delgado	residential	1	0	0	
+SV	3585636	Troncal del Norte	primary	1	0	0	
+SV	3585640	1a Avenida Norte	residential	1	0	0	
+SV	3585640	1a Calle Oriente	residential	1	0	0	
+SV	3585640	1a Calle Poniente	residential	1	0	0	
+SV	3585640	2a Avenida Norte	residential	1	0	0	
+SV	3585640	2a Calle Oriente	residential	1	0	0	
+SV	3585640	3a Calle Poniente	residential	1	0	0	
+SV	3585640	4a Avenida Sur	residential	1	0	0	
+SV	3585640	4a Calle Oriente	residential	1	0	0	
+SV	3585640	5a Calle Poniente	residential	1	0	0	
+SV	3585640	6a Calle Oriente	residential	1	0	0	
+SV	3585640	Avenida Central Norte	secondary	1	0	0	
+SV	3585640	Avenida Central Sur	secondary	1	0	0	
+SV	3585653	Avenida 14 de Diciembre	tertiary	1	0	0	
+SV	3585653	Avenida 30 de Noviembre Norte	residential	1	0	0	
+SV	3585653	Avenida 30 de Noviembre Sur	residential	1	0	0	
+SV	3585653	Avenida Central Norte	residential	1	0	0	
+SV	3585653	Avenida Central Sur	tertiary	1	0	0	
+SV	3585653	Avenida El Calvario	residential	1	0	0	
+SV	3585653	Avenida España	residential	1	0	0	
+SV	3585653	Avenida Gerardo Barrios	residential	1	0	0	
+SV	3585653	Avenida Gustavo Guemero	unclassified	1	0	0	
+SV	3585653	Avenida José Matias Delgado	residential	1	0	0	
+SV	3585653	Avenida José Simeón Cañas	unclassified	1	0	0	
+SV	3585653	Avenida La Cruz	tertiary	1	0	0	
+SV	3585653	Avenida Limón	residential	1	0	0	
+SV	3585653	Avenida Morazán Norte	tertiary	1	0	0	
+SV	3585653	Avenida Morazán Sur	residential	1	0	0	
+SV	3585653	Avenida Rubén Dario	residential	1	0	0	
+SV	3585653	Avenida San Andrés	residential	1	0	0	
+SV	3585653	Avenida San Juan	tertiary	1	0	0	
+SV	3585653	Avenida Totorotique	residential	1	0	0	
+SV	3585653	Calle 10 de Mayo	residential	1	0	0	
+SV	3585653	Calle 6 de Enero	residential	1	0	0	
+SV	3585653	Calle Bolivar	residential	1	0	0	
+SV	3585653	Calle Enrique Araujo	residential	1	0	0	
+SV	3585653	Calle Gerardo Barrios	residential	1	0	0	
+SV	3585856	10 Calle Poniente	residential	1	0	0	
+SV	3585856	1a Avenida Norte	residential	1	0	0	
+SV	3585856	1a Avenida Sur	tertiary	1	0	0	
+SV	3585856	1a Calle Oriente	residential	1	0	0	
+SV	3585856	1a Calle Poniente	residential	1	0	0	
+SV	3585856	2a Avenida Norte	residential	1	0	0	
+SV	3585856	2a Avenida Sur	residential	1	0	0	
+SV	3585856	2a Calle Oriente	residential	1	0	0	
+SV	3585856	2a Calle Poniente	residential	1	0	0	
+SV	3585856	3a Avenida Sur	residential	1	0	0	
+SV	3585856	3a Calle Oriente	residential	1	0	0	
+SV	3585856	3a Calle Poniente	residential	1	0	0	
+SV	3585856	4a Avenida Norte	residential	1	0	0	
+SV	3585856	4a Avenida Sur	residential	1	0	0	
+SV	3585856	4a Calle Oriente	residential	1	0	0	
+SV	3585856	4a Calle Poniente	residential	1	0	0	
+SV	3585856	5a Calle Oriente	residential	1	0	0	
+SV	3585856	5a Calle Poniente	residential	1	0	0	
+SV	3585856	6a Avenida Norte	residential	1	0	0	
+SV	3585856	6a Avenida Sur	residential	1	0	0	
+SV	3585856	6a Calle Oriente	residential	1	0	0	
+SV	3585856	6a Calle Poniente	residential	1	0	0	
+SV	3585856	7a Calle Oriente	residential	1	0	0	
+SV	3585856	7a Calle Poniente	residential	1	0	0	
+SV	3586021	10a Calle Poniente	residential	1	0	0	
+SV	3586021	12a Calle Poniente	residential	1	0	0	
+SV	3586021	14a Calle Poniente	residential	1	0	0	
+SV	3586021	1a Avenida Norte	residential	1	0	0	
+SV	3586021	1a Avenida Sur	residential	1	0	0	
+SV	3586021	1a Calle Oriente	residential	1	0	0	
+SV	3586021	1a Calle Poniente	residential	1	0	0	
+SV	3586021	2a Avenida Norte	residential	1	0	0	
+SV	3586021	2a Avenida Sur	residential	1	0	0	
+SV	3586021	2a Calle Oriente	residential	1	0	0	
+SV	3586021	2a Calle Poniente	residential	1	0	0	
+SV	3586021	3a Avenida	tertiary	1	0	0	
+SV	3586021	3a Avenida Norte	residential	1	0	0	
+SV	3586021	3a Avenida Sur	residential	1	0	0	
+SV	3586021	3a Calle	residential	1	0	0	
+SV	3586021	3a Calle Oriente	residential	1	0	0	
+SV	3586021	3a Calle Poniente	residential	1	0	0	
+SV	3586021	4a Avenida Norte	residential	1	0	0	
+SV	3586021	4a Avenida Sur	residential	1	0	0	
+SV	3586021	4a Calle Oriente	residential	1	0	0	
+SV	3586021	4a Calle Poniente	residential	1	0	0	
+SV	3586021	5a Avenida Norte	residential	1	0	0	
+SV	3586021	5a Avenida Sur	residential	1	0	0	
+SV	3586021	5a Calle Oriente	tertiary	1	0	0	
+SV	3586204	Calle A Dimas Rodriguez	residential	1	0	0	
+SV	3586204	Calle Barrio El Calvario	residential	1	0	0	
+SV	3586204	Calle El Centro	residential	1	0	0	
+SV	3586204	Calle a Cementerio	residential	1	0	0	
+SV	3586204	Calle a El Calvario	residential	1	0	0	
+SV	3586204	Calle a Ingenio la Cabaña	tertiary	1	0	0	
+SV	3586204	Calle a San Pablo Tacachico	residential	1	0	0	
+SV	3586204	Carretera a El Paisnal	tertiary	1	0	0	
+SV	3586550	11a Calle Oriente	residential	1	0	0	
+SV	3586550	17a Calle Oriente	residential	1	0	0	
+SV	3586550	1a Calle Poniente	residential	1	0	0	
+SV	3586550	2a Calle Oriente	residential	1	0	0	
+SV	3586550	3a Calle Poniente	residential	1	0	0	
+SV	3586550	4a Avenida Norte	residential	1	0	0	
+SV	3586550	4a Calle Oriente	residential	1	0	0	
+SV	3586550	4a Calle Poniente	residential	1	0	0	
+SV	3586550	6a Avenida Norte	residential	1	0	0	
+SV	3586550	6a Calle Poniente	residential	1	0	0	
+SV	3586550	7a Calle Oriente	residential	1	0	0	
+SV	3586550	Avenida Alfaro	residential	1	0	0	
+SV	3586550	Avenida Ceferino Mancía	residential	1	0	0	
+SV	3586550	Avenida Daniel Arévalo	residential	1	0	0	
+SV	3586550	Avenida El Congo	residential	1	0	0	
+SV	3586550	Avenida Los Santos	residential	1	0	0	
+SV	3586550	Avenida Santa Ana, California	residential	1	0	0	
+SV	3586550	Avenida Santísima Trinidad	residential	1	0	0	
+SV	3586550	Avenida Teniente Ricardo Mancía	secondary	1	0	0	
+SV	3586550	Calle 05 de Noviembre	residential	1	0	0	
+SV	3586550	Calle 12 de Octubre	residential	1	0	0	
+SV	3586550	Calle 15 de Septiembre	residential	1	0	0	
+SV	3586550	Calle Alfaro	residential	1	0	0	
+SV	3586550	Calle El Progreso	residential	1	0	0	
+SV	3586814	Calle El Comercio	residential	23	3	39	
+SV	3586814	Calle Acolhuatan		14	7	80	
+SV	3586814	Pasaje Prefa	residential	13	3	33	
+SV	3586814	Calle Acolhuatan Monseñor Esteban Alliet	unclassified	11	22	70	
+SV	3586814	Calle del Pino	secondary	10	4	77	
+SV	3586814	Calle Colon	residential	7	25	52	
+SV	3586814	9a Calle Oriente	tertiary	5	3	2135	
+SV	3586814	Calle B	residential	5	17	28	
+SV	3586814	Avenida Juan Bertis	secondary	4	71	100	
+SV	3586814	Avenida Paleca	secondary	4	23	54	
+SV	3586814	11a Avenida Sur	residential	3	2	15	
+SV	3586814	Calle LB	residential	3	3	5	
+SV	3586814	Calle Suiza	residential	2	24	25	
+SV	3586814	Repar Cartografia		2	12	14	
+SV	3586814	11 Avenida Sur	residential	1	0	0	
+SV	3586814	1a Avenida Sur	residential	1	0	0	
+SV	3586814	2 Calle La Ronda	residential	1	0	0	
+SV	3586814	2a Avenida Sur	residential	1	0	0	
+SV	3586814	6ª Avenida Norte	secondary	1	0	0	
+SV	3586814	7a Avenida Sur	residential	1	0	0	
+SV	3586814	9a Avenida Sur	living_street	1	0	0	
+SV	3586814	Avenida Arce	residential	1	0	0	
+SV	3586814	Avenida C	residential	1	0	0	
+SV	3586814	Avenida Guadalupe	residential	1	0	0	
+SV	3586814	Avenida Masferrer	residential	1	0	0	
+SV	3586814	Avenida Santa Fe	residential	1	0	0	
+SV	3586814	Avenida Santa Fé	residential	1	0	0	
+SV	3586814	Avenida Soto	residential	1	0	0	
+SV	3586814	Avenidad La Esperanza	residential	1	0	0	
+SV	3586814	Calle A	residential	1	0	0	
+SV	3586814	Calle C	residential	1	0	0	
+SV	3586814	Calle El Calvario	residential	1	0	0	
+SV	3586814	Calle El Milagro	residential	1	0	0	
+SV	3586814	Calle El Salti	residential	1	0	0	
+SV	3586814	Calle El Triunfo	residential	1	0	0	
+SV	3586814	Calle Jiboa	residential	1	0	0	
+SV	3586814	Calle LA	residential	1	0	0	
+SV	3586814	Calle LC	residential	1	0	0	
+SV	3586814	Calle LD	residential	1	0	0	
+SV	3586814	Calle La Gloria	tertiary	1	0	0	
+SV	3586814	Calle Las Animas	residential	1	0	0	
+SV	3586814	Calle Morazán	secondary	1	0	0	
+SV	3586814	Calle Padre Salazar Simpson	secondary	1	0	0	
+SV	3586814	Calle Principal	residential	1	0	0	
+SV	3586814	Calle Río Grande	residential	1	0	0	
+SV	3586814	Calle Sensuna Pan	residential	1	0	0	
+SV	3586814	Calle al Cementerio	residential	1	0	0	
+SV	3586814	Calle al Rastro	residential	1	0	0	
+SV	3586814	Calle al Rio	residential	1	0	0	
+SV	3586814	Diagonal Cipactly	tertiary	1	0	0	
+SV	3586814	Pasaje 1	pedestrian	1	0	0	
+SV	3586814	Pasaje 17	pedestrian	1	0	0	
+SV	3586814	Pasaje 18	pedestrian	1	0	0	
+SV	3586814	Pasaje 19	pedestrian	1	0	0	
+SV	3586814	Pasaje 2	residential	1	0	0	
+SV	3586814	Pasaje 20	pedestrian	1	0	0	
+SV	3586814	Pasaje 23	pedestrian	1	0	0	
+SV	3586814	Pasaje 24	pedestrian	1	0	0	
+SV	3586814	Pasaje 25	pedestrian	1	0	0	
+SV	3586814	Pasaje 3	pedestrian	1	0	0	
+SV	3586814	Pasaje 4	pedestrian	1	0	0	
+SV	3586814	Pasaje 5	residential	1	0	0	
+SV	3586814	Pasaje 6	residential	1	0	0	
+SV	3586814	Pasaje 7	pedestrian	1	0	0	
+SV	3586814	Pasaje 8	residential	1	0	0	
+SV	3586814	Pasaje 9	residential	1	0	0	
+SV	3586814	Pasaje 9 De Março	living_street	1	0	0	
+SV	3586814	Pasaje A	pedestrian	1	0	0	
+SV	3586814	Pasaje Alegría	pedestrian	1	0	0	
+SV	3586814	Pasaje B	pedestrian	1	0	0	
+SV	3586814	Pasaje Brasilia	residential	1	0	0	
+SV	3586814	Pasaje C	pedestrian	1	0	0	
+SV	3586814	Pasaje Joya	residential	1	0	0	
+SV	3586814	Pasaje Marenco	living_street	1	0	0	
+SV	3586814	Pasaje N 22	residential	1	0	0	
+SV	3586814	Pasaje Nuevo	living_street	1	0	0	
+SV	3586814	Pasaje Paraiso	living_street	1	0	0	
+SV	3586814	Pasaje San Jose	residential	1	0	0	
+SV	3586814	Pasaje1	living_street	1	0	0	
+SV	3586814	Repar CartografÍa	residential	1	0	0	
+SV	3586814	Reparto Cartografía	residential	1	0	0	
+SV	3586833	3a Calle Oriente	residential	1	0	0	
+SV	3586833	Avenida Las Victorias	residential	1	0	0	
+SV	3586833	Avenida Santa Margarita	tertiary	1	0	0	
+SV	3586833	Calle Abraham Lincoln	residential	1	0	0	
+SV	3586833	Calle Central	tertiary	1	0	0	
+SV	3586833	Calle Cuchilla	residential	1	0	0	
+SV	3586833	Calle Lincoln	residential	1	0	0	
+SV	3586833	Calle Principal	living_street	1	0	0	
+SV	3586833	Calle Santa Clara	residential	1	0	0	
+SV	3586833	Calle Santa Gabriela	residential	1	0	0	
+SV	3586833	Calle Santa Rosa	residential	1	0	0	
+SV	3586833	Calle el Calvario	tertiary	1	0	0	
+SV	3586833	Calle el Progresso	residential	1	0	0	
+SV	3586833	Calle los Insurgentes	residential	1	0	0	
+SV	3586833	Pasaje 13	residential	1	0	0	
+SV	3586833	Pasaje Alicia	residential	1	0	0	
+SV	3586833	Pasaje B	residential	1	0	0	
+SV	3586833	Pasaje C	residential	1	0	0	
+SV	3586833	Pasaje D	residential	1	0	0	
+SV	3586833	Pasaje E	residential	1	0	0	
+SV	3586833	Pasaje F	residential	1	0	0	
+SV	3586833	Pasaje G	residential	1	0	0	
+SV	3586833	Pasaje Irazu	residential	1	0	0	
+SV	3586833	Pasaje Landaverde	residential	1	0	0	
+SV	3586833	Pasaje Macarthur	residential	1	0	0	
+SV	3586833	Pasaje Polio	residential	1	0	0	
+SV	3586833	Pasaje Sarmientos	residential	1	0	0	
+SV	3586833	Pasaje la Cuchilla	residential	1	0	0	
+SV	3586884	10ª Calle Oriente	residential	1	0	0	
+SV	3586884	10ª Calle Poniente	residential	1	0	0	
+SV	3586884	12ª Calle Oriente	residential	1	0	0	
+SV	3586884	14ª Calle Poniente	residential	1	0	0	
+SV	3586884	1ª Avenida Norte	residential	1	0	0	
+SV	3586884	1ª Avenida Sur	residential	1	0	0	
+SV	3586884	1ª Calle Oriente	residential	1	0	0	
+SV	3586884	1ª Calle Poniente	residential	1	0	0	
+SV	3586884	2ª Avenida Norte	residential	1	0	0	
+SV	3586884	2ª Avenida Sur	secondary	1	0	0	
+SV	3586884	2ª Calle Poniente	residential	1	0	0	
+SV	3586884	3ª Avenida Norte	residential	1	0	0	
+SV	3586917	Avenida Cuscatlán Norte	secondary	1	0	0	
+SV	3586917	Avenida Cuscatlán Sur	residential	1	0	0	
+SV	3586917	Avenida Independencia	secondary	1	0	0	
+SV	3586917	Avenida José Benito Montoya	residential	1	0	0	
+SV	3586917	Avenida Mario Gómez	residential	1	0	0	
+SV	3586917	Avenida Mercedes Reves	residential	1	0	0	
+SV	3586917	Avenida Tobogán	residential	1	0	0	
+SV	3586917	Calle 15 de Septiembre	residential	1	0	0	
+SV	3586917	Calle Capitán General Gerardo Barrios	secondary	1	0	0	
+SV	3586917	Calle El Progreso	residential	1	0	0	
+SV	3586917	Calle Mario Antonio Osorto	tertiary	1	0	0	
+SV	3586917	Carretera del Litoral	primary	1	0	0	
+SV	3586926	Ave 15 de Abril Norte		2	13	15	
+SV	3586926	10a Avenida Norte	residential	1	0	0	
+SV	3586926	10a Avenida Sur	residential	1	0	0	
+SV	3586926	1a Avenida Norte	residential	1	0	0	
+SV	3586926	1a Avenida Sur	residential	1	0	0	
+SV	3586926	1a Calle Oriente	residential	1	0	0	
+SV	3586926	1ª Avenida Sur	tertiary	1	0	0	
+SV	3586926	1ª Calle Oriente	residential	1	0	0	
+SV	3586926	1ª Calle Poniente	tertiary	1	0	0	
+SV	3586926	2a Avenida Norte	residential	1	0	0	
+SV	3586926	2a Avenida Sur	tertiary	1	0	0	
+SV	3586926	2a Calle Oriente	residential	1	0	0	
+SV	3586926	2ª Avenida Norte	tertiary	1	0	0	
+SV	3586926	2ª Avenida Sur	tertiary	1	0	0	
+SV	3586926	2ª Calle Oriente	residential	1	0	0	
+SV	3586926	2ª Calle Poniente	residential	1	0	0	
+SV	3586926	3a Avenida Norte	residential	1	0	0	
+SV	3586926	3a Avenida Sur	residential	1	0	0	
+SV	3586926	3a Calle Oriente	residential	1	0	0	
+SV	3586926	3a Calle Poniente	residential	1	0	0	
+SV	3586926	3ª Avenida Norte	tertiary	1	0	0	
+SV	3586926	3ª Avenida Sur	tertiary	1	0	0	
+SV	3586926	3ª Calle Oriente	residential	1	0	0	
+SV	3586926	3ª Calle Poniente	residential	1	0	0	
+SV	3586930	1a Avenida Sur	residential	1	0	0	
+SV	3586930	2a Avenida Norte	residential	1	0	0	
+SV	3586930	2a Avenida Sur	residential	1	0	0	
+SV	3586930	2a Calle Oriente	tertiary	1	0	0	
+SV	3586930	2a Calle Poniente	tertiary	1	0	0	
+SV	3586930	3a Avenida Norte	residential	1	0	0	
+SV	3586930	3a Avenida Sur	residential	1	0	0	
+SV	3586930	3a Calle Oriente	residential	1	0	0	
+SV	3586930	4a Avenida Norte	residential	1	0	0	
+SV	3586930	4a Avenida Sur	residential	1	0	0	
+SV	3586930	4a Calle Oriente	residential	1	0	0	
+SV	3586930	4a Calle Poniente	residential	1	0	0	
+SV	3586977	Carretera Panamericana		4	0	0	
+SV	3586977	2 Calle Oriente		3	12	16	
+SV	3586977	Dr. Mario Zamora Rivas		3	1	26	
+SV	3586977	2 Calle Poniente		2	33	47	
+SV	3586977	Calle Principal Jardines de Las Pavas	residential	2	125	125	
+SV	3586977	10a Calle Poniente	residential	1	0	0	
+SV	3586977	11a Avenida Sur	residential	1	0	0	
+SV	3586977	1a Avenida Norte	residential	1	0	0	
+SV	3586977	1a Avenida Sur	residential	1	0	0	
+SV	3586977	1a Calle Oriente	residential	1	0	0	
+SV	3586977	1a Calle Principal	residential	1	0	0	
+SV	3586977	1ª Avenida Norte	residential	1	0	0	
+SV	3586977	1ª Avenida Sur	residential	1	0	0	
+SV	3586977	1ª Calle Oriente	residential	1	0	0	
+SV	3586977	1ª Calle Poniente	residential	1	0	0	
+SV	3586977	2a Avenida Sur	residential	1	0	0	
+SV	3586977	2a Calle Oriente	residential	1	0	0	
+SV	3586977	2a Calle Principal	residential	1	0	0	
+SV	3586977	2ª Avenida Norte	residential	1	0	0	
+SV	3586977	2ª Avenida Sur	residential	1	0	0	
+SV	3586977	2ª Calle Poniente	residential	1	0	0	
+SV	3586977	3a Avenida	residential	1	0	0	
+SV	3586977	3a Avenida Norte	residential	1	0	0	
+SV	3586977	3a Avenida Sur	residential	1	0	0	
+SV	3586977	3a Calle Oriente	residential	1	0	0	
+SV	3586977	3a Calle Poniente	residential	1	0	0	
+SV	3586977	3ª Avenida Norte	residential	1	0	0	
+SV	3586977	3ª Avenida Sur	tertiary	1	0	0	
+SV	3586977	4a Avenida	residential	1	0	0	
+SV	3586977	4a Avenida Norte	residential	1	0	0	
+SV	3586977	4a Avenida Sur	residential	1	0	0	
+SV	3586977	4a Calle Oriente	residential	1	0	0	
+SV	3586977	4a Calle Poniente	residential	1	0	0	
+SV	3586977	5a Avenida Norte	residential	1	0	0	
+SV	3586977	5a Avenida Sur	residential	1	0	0	
+SV	3586977	5a Calle	residential	1	0	0	
+SV	3586977	5a Calle Poniente	residential	1	0	0	
+SV	3586977	6a Avenida Norte	residential	1	0	0	
+SV	3586977	6a Avenida Sur	secondary	1	0	0	
+SV	3586977	6a Calle Poniente	residential	1	0	0	
+SV	3586977	7a Avenida Norte	residential	1	0	0	
+SV	3586977	7a Avenida Sur	residential	1	0	0	
+SV	3586977	7a Calle Oriente	residential	1	0	0	
+SV	3586977	7a Calle Poniente	residential	1	0	0	
+SV	3586977	8a Avenida Norte	tertiary	1	0	0	
+SV	3586977	8a Calle Oriente	residential	1	0	0	
+SV	3586977	8a Calle Poniente	residential	1	0	0	
+SV	3586977	9a Avenida Norte	residential	1	0	0	
+SV	3586981	1a Avenida	residential	1	0	0	
+SV	3586981	1a Calle Poniente	residential	1	0	0	
+SV	3586981	2a Avenida Sur	residential	1	0	0	
+SV	3586981	2a Avenidad	residential	1	0	0	
+SV	3586981	2a Calle Oriente	residential	1	0	0	
+SV	3586981	2a Calle Puente	residential	1	0	0	
+SV	3586981	3a Calle	residential	1	0	0	
+SV	3586981	4a Calle Oriente	residential	1	0	0	
+SV	3586981	6a Calle	unclassified	1	0	0	
+SV	3586981	8a Calle	residential	1	0	0	
+SV	3586981	Av. Gerardo Barrios	residential	1	0	0	
+SV	3586981	Av. Jose Bernando Pacheco	residential	1	0	0	
+SV	3586981	Avenida Jose Bernando Pacheco	residential	1	0	0	
+SV	3586981	Calle Los Mangos	residential	1	0	0	
+SV	3586981	Calle a Caserío Los Cornejo	unclassified	1	0	0	
+SV	3586981	Calle a Flor Amarilla	tertiary	1	0	0	
+SV	3586981	Carretera Principal	secondary	1	0	0	
+SV	3586983	10a Avenida Norte	residential	1	0	0	
+SV	3586983	10a Avenida Sur	residential	1	0	0	
+SV	3586983	10a Calle Oriente	residential	1	0	0	
+SV	3586983	11a Avenida Norte	residential	1	0	0	
+SV	3586983	12a Avenida Norte	residential	1	0	0	
+SV	3586983	12a Avenida Sur	residential	1	0	0	
+SV	3586983	12a Calle Oriente	residential	1	0	0	
+SV	3586983	14a Avenida Norte	unclassified	1	0	0	
+SV	3586983	14a Calle Oriente	residential	1	0	0	
+SV	3586983	1a Avenida Norte	residential	1	0	0	
+SV	3586983	1a Calle Oriente	residential	1	0	0	
+SV	3586983	1a Calle Poniente	secondary	1	0	0	
+SV	3586983	2a Avenida Norte	residential	1	0	0	
+SV	3586983	2a Avenida Sur	residential	1	0	0	
+SV	3586983	2a Calle Oriente	residential	1	0	0	
+SV	3586983	3a Avenida Norte	residential	1	0	0	
+SV	3586983	4a Avenida Norte	residential	1	0	0	
+SV	3586983	4a Avenida Sur	residential	1	0	0	
+SV	3586983	4a Calle Oriente	residential	1	0	0	
+SV	3586983	4a Calle Poniente	residential	1	0	0	
+SV	3586983	5a Avenida Norte	residential	1	0	0	
+SV	3586983	5a Calle Oriente	residential	1	0	0	
+SV	3586983	5a Calle Poniente	residential	1	0	0	
+SV	3586983	6a Avenida Norte	residential	1	0	0	
+SV	3586985	10a Avenida Norte	residential	1	0	0	
+SV	3586985	12a Avenida Norte	residential	1	0	0	
+SV	3586985	14a Avenida Sur	residential	1	0	0	
+SV	3586985	16a Avenida Norte	residential	1	0	0	
+SV	3586985	16a Avenida Sur	residential	1	0	0	
+SV	3586985	1a Avenida Norte	residential	1	0	0	
+SV	3586985	1a Avenida Sur	residential	1	0	0	
+SV	3586985	2a Avenida Norte	residential	1	0	0	
+SV	3586985	2a Avenida Sur	residential	1	0	0	
+SV	3586985	2a Calle Poniente	residential	1	0	0	
+SV	3586985	3a Avenida Norte	residential	1	0	0	
+SV	3586985	3a Avenida Sur	residential	1	0	0	
+SV	3586985	4a Avenida Norte	residential	1	0	0	
+SV	3586985	4a Avenida Sur	residential	1	0	0	
+SV	3586985	4a Calle Oriente	residential	1	0	0	
+SV	3586985	4a Calle Poniente	residential	1	0	0	
+SV	3586985	5a Avenida Norte	residential	1	0	0	
+SV	3586985	6a Avenida Norte	residential	1	0	0	
+SV	3586985	6a Avenida Sur	residential	1	0	0	
+SV	3586985	6a Calle Poniente	residential	1	0	0	
+SV	3586985	8a Avenida Sur	residential	1	0	0	
+SV	3586985	8a Calle Oriente	residential	1	0	0	
+SV	3586985	Avenida Alberto Masferrer	residential	1	0	0	
+SV	3586985	Calle Cementerio	residential	1	0	0	
+SV	3587018	1a Avenida Norte	residential	1	0	0	
+SV	3587018	1a Avenida Sur	residential	1	0	0	
+SV	3587018	1a Calle Oriente	residential	1	0	0	
+SV	3587018	1a Calle Poniente	residential	1	0	0	
+SV	3587018	2a Avenida Norte	residential	1	0	0	
+SV	3587018	2a Avenida Sur	residential	1	0	0	
+SV	3587018	2a Calle Oriente	residential	1	0	0	
+SV	3587018	3a Avenida Norte	residential	1	0	0	
+SV	3587018	3a Avenida Sur	residential	1	0	0	
+SV	3587018	3a Calle Oriente	residential	1	0	0	
+SV	3587018	3a Calle Poniente	residential	1	0	0	
+SV	3587018	4a Avenida Norte	residential	1	0	0	
+SV	3587018	4a Avenida Sur	residential	1	0	0	
+SV	3587018	4a Calle Oriente	residential	1	0	0	
+SV	3587018	5a Avenida Norte	residential	1	0	0	
+SV	3587018	5a Avenida Sur	residential	1	0	0	
+SV	3587018	5a Calle Oriente	residential	1	0	0	
+SV	3587018	5a Calle Poniente	residential	1	0	0	
+SV	3587018	6a Avenida Norte	residential	1	0	0	
+SV	3587018	6a Avenida Sur	residential	1	0	0	
+SV	3587018	6a Calle Oriente	tertiary	1	0	0	
+SV	3587018	6a Calle Poniente	residential	1	0	0	
+SV	3587018	7a Avenida Norte	residential	1	0	0	
+SV	3587018	7a Avenida Sur	residential	1	0	0	
+SV	3587037	10a Calle Oriente	residential	1	0	0	
+SV	3587037	10a Calle Poniente	residential	1	0	0	
+SV	3587037	11 Calle Poniente	secondary	1	0	0	
+SV	3587037	11a Calle Oriente	residential	1	0	0	
+SV	3587037	11a Calle Poniente	residential	1	0	0	
+SV	3587037	12 Calle Oriente	residential	1	0	0	
+SV	3587037	13 Calle Poniente	residential	1	0	0	
+SV	3587037	1a Avenida Norte	residential	1	0	0	
+SV	3587037	1a Avenida Sur	residential	1	0	0	
+SV	3587037	1a Calle Oriente	residential	1	0	0	
+SV	3587037	1a Calle Poniente	residential	1	0	0	
+SV	3587037	2a Avenida Norte	residential	1	0	0	
+SV	3587037	2a Avenida Sur	tertiary	1	0	0	
+SV	3587037	2a Calle Oriente	residential	1	0	0	
+SV	3587037	2a Calle Poniente	residential	1	0	0	
+SV	3587037	3a Avenida Norte	residential	1	0	0	
+SV	3587037	3a Avenida Sur	residential	1	0	0	
+SV	3587037	3a Calle Oriente	residential	1	0	0	
+SV	3587037	3a Calle Poniente	residential	1	0	0	
+SV	3587037	4a Avenida Norte	residential	1	0	0	
+SV	3587037	4a Avenida Sur	residential	1	0	0	
+SV	3587037	4a Calle Oriente	residential	1	0	0	
+SV	3587037	4a Calle Poniente	residential	1	0	0	
+SV	3587037	5a Avenida Norte	residential	1	0	0	
+SV	3587064	1ª Avenida Norte	residential	1	0	0	
+SV	3587064	1ª Avenida Sur	residential	1	0	0	
+SV	3587064	1ª Calle Oriente	tertiary	1	0	0	
+SV	3587064	1ª Calle Poniente	residential	1	0	0	
+SV	3587064	2a Calle Poniente	residential	1	0	0	
+SV	3587064	2ª Avenida Norte	residential	1	0	0	
+SV	3587064	2ª Avenida Sur	residential	1	0	0	
+SV	3587064	2ª Calle Oriente	residential	1	0	0	
+SV	3587064	3ª Avenida Norte	residential	1	0	0	
+SV	3587064	3ª Avenida Sur	residential	1	0	0	
+SV	3587064	3ª Calle Oriente	residential	1	0	0	
+SV	3587064	3ª Calle Poniente	residential	1	0	0	
+SV	3587086	7a Calle Oriente	secondary	2	12	14	
+SV	3587086	1 Calle Oriente	residential	1	0	0	
+SV	3587086	10a Avenida	residential	1	0	0	
+SV	3587086	10a Avenida Norte	residential	1	0	0	
+SV	3587086	10a Avenida Sur	residential	1	0	0	
+SV	3587086	11a Avenida Norte	residential	1	0	0	
+SV	3587086	11a Avenida Sur	tertiary	1	0	0	
+SV	3587086	11a Calle Oriente	residential	1	0	0	
+SV	3587086	11a Calle Poniente	residential	1	0	0	
+SV	3587086	12a Avenida Sur	residential	1	0	0	
+SV	3587086	13A Avenida Sur	residential	1	0	0	
+SV	3587086	13a Avenida Norte	residential	1	0	0	
+SV	3587086	13a Calle Oriente	residential	1	0	0	
+SV	3587086	13a Calle Poniente	residential	1	0	0	
+SV	3587086	15a Calle Oriente	residential	1	0	0	
+SV	3587086	15a Calle Poniente	residential	1	0	0	
+SV	3587086	17a Calle Oriente	residential	1	0	0	
+SV	3587086	17a Calle Poniente	residential	1	0	0	
+SV	3587086	19a Calle Oriente	residential	1	0	0	
+SV	3587086	19a Calle Poniente	residential	1	0	0	
+SV	3587086	1a Avenida	residential	1	0	0	
+SV	3587086	1a Avenida Norte	residential	1	0	0	
+SV	3587086	1a Avenida Sur	residential	1	0	0	
+SV	3587086	1a Calle Oriente	residential	1	0	0	
+SV	3587086	1a Calle Poniente	residential	1	0	0	
+SV	3587086	1ª Avenida Norte	residential	1	0	0	
+SV	3587086	1ª Avenida Sur	residential	1	0	0	
+SV	3587086	1ª Calle Oriente	residential	1	0	0	
+SV	3587086	1ª Calle Poniente	tertiary	1	0	0	
+SV	3587086	21a Calle Oriente	residential	1	0	0	
+SV	3587086	21a Calle Poniente	residential	1	0	0	
+SV	3587086	2a Avenida	residential	1	0	0	
+SV	3587086	2a Avenida Sur	residential	1	0	0	
+SV	3587086	2a Calle	residential	1	0	0	
+SV	3587086	2a Calle Oriente	unclassified	1	0	0	
+SV	3587086	2a Calle Poniente	residential	1	0	0	
+SV	3587086	2ª Avenida Norte	residential	1	0	0	
+SV	3587086	2ª Avenida Sur	residential	1	0	0	
+SV	3587086	2ª Calle Oriente	residential	1	0	0	
+SV	3587086	2ª Calle Poniente	residential	1	0	0	
+SV	3587086	3a Avenida	residential	1	0	0	
+SV	3587086	3a Avenida Norte	residential	1	0	0	
+SV	3587086	3a Avenida Sur	residential	1	0	0	
+SV	3587086	3a Calle	residential	1	0	0	
+SV	3587086	3a Calle Oriente	residential	1	0	0	
+SV	3587086	3a Calle Poniente	residential	1	0	0	
+SV	3587086	3ª Avenida Norte	residential	1	0	0	
+SV	3587086	3ª Avenida Sur	residential	1	0	0	
+SV	3587091	4ª Calle	residential	3	29	29	
+SV	3587091	1 Avenida	residential	1	0	0	
+SV	3587091	10a Avenida	residential	1	0	0	
+SV	3587091	1a Avenida Norte	residential	1	0	0	
+SV	3587091	1a Avenida Sur	residential	1	0	0	
+SV	3587091	1a Calle Oriente	residential	1	0	0	
+SV	3587091	1a Calle Poniente	residential	1	0	0	
+SV	3587091	1ra Calle	residential	1	0	0	
+SV	3587091	2 Calle	residential	1	0	0	
+SV	3587091	2A Calle Oriente	tertiary	1	0	0	
+SV	3587091	2a Avenida	residential	1	0	0	
+SV	3587091	2a Avenida Norte	residential	1	0	0	
+SV	3587091	2a Avenida Norte Bis	residential	1	0	0	
+SV	3587091	2a Avenida Sur	residential	1	0	0	
+SV	3587091	2a Calle Poniente	residential	1	0	0	
+SV	3587091	3a Avenida Norte	residential	1	0	0	
+SV	3587091	3a Avenida Sur	residential	1	0	0	
+SV	3587091	3a Calle Oriente	residential	1	0	0	
+SV	3587091	3a Calle Poniente	residential	1	0	0	
+SV	3587091	3a. Avenida Sur	residential	1	0	0	
+SV	3587091	4a Avenida	residential	1	0	0	
+SV	3587091	4a Avenida Norte	residential	1	0	0	
+SV	3587091	4a Avenida Sur	residential	1	0	0	
+SV	3587091	4a Calle	residential	1	0	0	
+SV	3587091	4a Calle Oriente	residential	1	0	0	
+SV	3587091	4a Calle Poniente	residential	1	0	0	
+SV	3587091	5 Avenida	residential	1	0	0	
+SV	3587091	5a Avenida Norte	residential	1	0	0	
+SV	3587091	5a Avenida Sur	residential	1	0	0	
+SV	3587091	5a Calle Oriente	residential	1	0	0	
+SV	3587091	5a Calle Poniente	residential	1	0	0	
+SV	3587091	6 Avenida Sur	residential	1	0	0	
+SV	3587091	6a Avenida Norte	residential	1	0	0	
+SV	3587091	6a Avenida Sur	residential	1	0	0	
+SV	3587091	6a Calle	secondary	1	0	0	
+SV	3587091	6a Calle Oriente	residential	1	0	0	
+SV	3587091	6a Calle Poniente	residential	1	0	0	
+SV	3587091	7a Avenida Norte	residential	1	0	0	
+SV	3587091	7a Avenida Sur	residential	1	0	0	
+SV	3587091	8a Avenida	residential	1	0	0	
+SV	3587091	8a Avenida Norte	residential	1	0	0	
+SV	3587091	8a Avenida Sur	residential	1	0	0	
+SV	3587091	8a Calle Oriente	residential	1	0	0	
+SV	3587091	9a Avenida Sur	residential	1	0	0	
+SV	3587091	Avenida 10 de Mayo	residential	1	0	0	
+SV	3587091	Avenida Central Norte	tertiary	1	0	0	
+SV	3587091	Avenida Central Sur	residential	1	0	0	
+SV	3587091	Avenida El Calvario	unclassified	1	0	0	
+SV	3587157	1a Avenida Norte	residential	1	0	0	
+SV	3587157	1a Avenida Sur	residential	1	0	0	
+SV	3587157	1a Calle Oriente	residential	1	0	0	
+SV	3587157	1a Calle Poniente	residential	1	0	0	
+SV	3587157	2a Calle Oriente	residential	1	0	0	
+SV	3587157	2a Calle Poniente	residential	1	0	0	
+SV	3587157	3a Avenida Norte	residential	1	0	0	
+SV	3587157	3a Avenida Sur	residential	1	0	0	
+SV	3587157	3a Calle Oriente	residential	1	0	0	
+SV	3587157	3a Calle Poniente	residential	1	0	0	
+SV	3587157	4a Avenida Norte	residential	1	0	0	
+SV	3587157	4a Avenida Sur	residential	1	0	0	
+SV	3587157	4a Calle Oriente	residential	1	0	0	
+SV	3587157	4a Calle Poniente	residential	1	0	0	
+SV	3587157	5a Avenida Norte	residential	1	0	0	
+SV	3587157	5a Avenida Sur	residential	1	0	0	
+SV	3587157	5a Calle Oriente	unclassified	1	0	0	
+SV	3587157	5a Calle Poniente	residential	1	0	0	
+SV	3587157	6a Avenida Norte	residential	1	0	0	
+SV	3587157	6a Calle Poniente	residential	1	0	0	
+SV	3587157	7a Calle Oriente	residential	1	0	0	
+SV	3587157	7a Calle Poniente	residential	1	0	0	
+SV	3587157	8a Calle Oriente	residential	1	0	0	
+SV	3587157	8a Calle Poniente	residential	1	0	0	
+SV	3587208	1a Avenida Norte	residential	1	0	0	
+SV	3587208	1a Avenida Sur	residential	1	0	0	
+SV	3587208	1a Calle Poniente	residential	1	0	0	
+SV	3587208	2a Avenida Sur	residential	1	0	0	
+SV	3587208	2a Calle Poniente	tertiary	1	0	0	
+SV	3587208	3a Avenida Norte	residential	1	0	0	
+SV	3587208	3a Avenida Sur	residential	1	0	0	
+SV	3587208	4a Avenida Norte	residential	1	0	0	
+SV	3587208	4a Avenida Sur	residential	1	0	0	
+SV	3587208	5a Avenida Norte	residential	1	0	0	
+SV	3587208	5a Avenida Sur	residential	1	0	0	
+SV	3587208	Avenida Chicas	residential	1	0	0	
+SV	3587266	Avenida Simón Bolívar	residential	11	13	22	
+SV	3587266	Calle Dr. Antonio Guandique Poniente	residential	10	13	13	
+SV	3587266	Avenida José Simeón Cañas	residential	9	13	13	
+SV	3587266	Calle Dr. Antonio Guandique Oriente	tertiary	9	13	13	
+SV	3587266	Carretera Berlín - Alegría	secondary	7	13	13	
+SV	3587266	1a Calle Oriente	residential	5	13	13	
+SV	3587266	3a Avenida Sur	tertiary	5	13	13	
+SV	3587266	Avenida 14 de Diciembre	secondary	5	13	13	
+SV	3587266	Calle Monterrosa	residential	5	13	13	
+SV	3587266	1a Calle Poniente	residential	4	13	13	
+SV	3587266	3a Avenida Norte	residential	3	13	13	
+SV	3587266	4a Calle Poniente	residential	3	13	13	
+SV	3587266	6a Calle Poniente	residential	3	13	13	
+SV	3587266	6a Avenida Sur	residential	2	13	13	
+SV	3587266	Parque San José		2	13	13	
+SV	3587266	10a Calle Poniente	residential	1	0	0	
+SV	3587266	12a Calle Oriente	residential	1	0	0	
+SV	3587266	12a Calle Poniente	residential	1	0	0	
+SV	3587266	14a Calle Poniente	residential	1	0	0	
+SV	3587266	16a Calle Poniente	residential	1	0	0	
+SV	3587266	5a Calle Oriente	residential	1	0	0	
+SV	3587266	5a Calle Poniente	residential	1	0	0	
+SV	3587266	8a Avenida Sur	residential	1	0	0	
+SV	3587266	8a Calle Poniente	residential	1	0	0	
+SV	3587308	Metropolis Norte		10	1	12	
+SV	3587308	Calle Independencia	tertiary	5	14	36	
+SV	3587308	5a Calle Poniente	residential	4	48	54	
+SV	3587308	Calle Castro Morán		3	16	18	
+SV	3587308	Antigua Calle al Volcán	residential	2	12	17	
+SV	3587308	1a Avenida Norte	residential	1	0	0	
+SV	3587308	1a Avenida Sur	residential	1	0	0	
+SV	3587308	1a Calle Oriente	residential	1	0	0	
+SV	3587308	29 Avenida Norte	tertiary	1	0	0	
+SV	3587308	2a Ave Norte	residential	1	0	0	
+SV	3587308	2a Avenida Norte	residential	1	0	0	
+SV	3587308	2a Avenida Sur	residential	1	0	0	
+SV	3587308	2a Calle	tertiary	1	0	0	
+SV	3587308	3a Calle Poniente	residential	1	0	0	
+SV	3587308	7a Calle Poniente	residential	1	0	0	
+SV	3587308	Avenida Copenhague	residential	1	0	0	
+SV	3587308	Avenida La Paz	tertiary	1	0	0	
+SV	3587308	Avenida Magisteral	residential	1	0	0	
+SV	3587308	Avenida Moneñor Oscar Arnulfo Romero	tertiary	1	0	0	
+SV	3587308	Avenida Principal	residential	1	0	0	
+SV	3587308	Avenida Santa Marta	living_street	1	0	0	
+SV	3587308	Avenida Santísima Trinidad	tertiary	1	0	0	
+SV	3587308	Avenida del Cerro	residential	1	0	0	
+SV	3587308	Calle 15 de Septiembre	tertiary	1	0	0	
+SV	3587308	Calle Al Volcan	tertiary	1	0	0	
+SV	3587308	Calle Algeciras	living_street	1	0	0	
+SV	3587308	Calle Andalucía	residential	1	0	0	
+SV	3587308	Calle Comandante Dimas Rodriguez	residential	1	0	0	
+SV	3587308	Calle Diagonal el Mirador	residential	1	0	0	
+SV	3587308	Calle Dinamarca	residential	1	0	0	
+SV	3587308	Calle Estocolmo	residential	1	0	0	
+SV	3587308	Calle Finlandia	residential	1	0	0	
+SV	3587308	Calle Kennedy Centroamérica	residential	1	0	0	
+SV	3587308	Calle Magisterial	residential	1	0	0	
+SV	3587308	Calle Noruega	residential	1	0	0	
+SV	3587308	Calle Oslo	residential	1	0	0	
+SV	3587308	Calle Principal	residential	1	0	0	
+SV	3587308	Calle Principal Colonia Santa Cecilia	residential	1	0	0	
+SV	3587308	Calle San Carlos	residential	1	0	0	
+SV	3587308	Calle San Lucas	tertiary	1	0	0	
+SV	3587308	Calle San Roque	tertiary	1	0	0	
+SV	3587308	Calle Suecia	residential	1	0	0	
+SV	3587308	Calle a Cantón el Zapote	tertiary	1	0	0	
+SV	3587308	Calle a Unicentro	residential	1	0	0	
+SV	3587308	Calle a los Llanitos	unclassified	1	0	0	
+SV	3587308	Calle al Volcán	secondary	1	0	0	
+SV	3587308	Calle el Bambú	tertiary	1	0	0	
+SV	3587308	Calle el Bosque	residential	1	0	0	
+SV	3587317	10a Avenida Norte	residential	1	0	0	
+SV	3587317	1a Avenida Norte	residential	1	0	0	
+SV	3587317	1a Avenida Sur	residential	1	0	0	
+SV	3587317	1a Calle Oriente	residential	1	0	0	
+SV	3587317	1a Calle Poniente	residential	1	0	0	
+SV	3587317	2a Avenida Norte	residential	1	0	0	
+SV	3587317	2a Avenida Sur	residential	1	0	0	
+SV	3587317	2a Calle Poniente	residential	1	0	0	
+SV	3587317	3 Avenida Sur	residential	1	0	0	
+SV	3587317	3a Avenida Norte	residential	1	0	0	
+SV	3587317	3a Calle Oriente	residential	1	0	0	
+SV	3587317	3a Calle Poniente	residential	1	0	0	
+SV	3587317	4a Avenida Norte	residential	1	0	0	
+SV	3587317	4a Avenida Sur	residential	1	0	0	
+SV	3587317	4a Calle Oriente	residential	1	0	0	
+SV	3587317	4a Calle Poniente	tertiary	1	0	0	
+SV	3587317	5a Avenida Norte	secondary	1	0	0	
+SV	3587317	5a Avenida Sur	secondary	1	0	0	
+SV	3587317	5a Calle Oriente	residential	1	0	0	
+SV	3587317	5a Calle Poniente	secondary	1	0	0	
+SV	3587317	6a Avenida Sur	residential	1	0	0	
+SV	3587317	7a Avenida Norte	residential	1	0	0	
+SV	3587317	7a Avenida Sur	residential	1	0	0	
+SV	3587317	8a Avenida Sur	residential	1	0	0	
+SV	3587333	1 Avenida Sur	residential	1	0	0	
+SV	3587333	10a Avenida Norte	tertiary	1	0	0	
+SV	3587333	10a Avenida Sur	residential	1	0	0	
+SV	3587333	11 Avenida Norte	residential	1	0	0	
+SV	3587333	11 Calle Poniente	residential	1	0	0	
+SV	3587333	12a Calle Poniente	residential	1	0	0	
+SV	3587333	13 Avenida Norte	residential	1	0	0	
+SV	3587333	13 Calle Poniente	residential	1	0	0	
+SV	3587333	14a Calle Poniente	residential	1	0	0	
+SV	3587333	15 Avenida Norte	residential	1	0	0	
+SV	3587333	17 Avenida Norte	residential	1	0	0	
+SV	3587333	19 Avenida Norte	residential	1	0	0	
+SV	3587333	1a Avenida Norte	residential	1	0	0	
+SV	3587333	1a Avenida Sur	residential	1	0	0	
+SV	3587333	1a Calle Oriente	residential	1	0	0	
+SV	3587333	1a Calle Poniente	residential	1	0	0	
+SV	3587333	1a Calle Pte	residential	1	0	0	
+SV	3587333	21 Avenida Norte	residential	1	0	0	
+SV	3587333	23 Avenida Norte	residential	1	0	0	
+SV	3587333	2a Avenida Norte	residential	1	0	0	
+SV	3587333	2a Avenida Sur	residential	1	0	0	
+SV	3587333	2a Calle Oriente	residential	1	0	0	
+SV	3587333	2a calle oriente	residential	1	0	0	
+SV	3587333	3a Avenida Norte	residential	1	0	0	
+SV	3587345	1a Avenida Norte	residential	3	10	24	
+SV	3587345	Avenida Quirino Chávez Sur	tertiary	2	3	30	
+SV	3587345	Carretera Troncal del Norte	primary	2	0	0	
+SV	3587345	11 Calle Oriente	residential	1	0	0	
+SV	3587345	11 Calle Poniente	residential	1	0	0	
+SV	3587345	12 Calle Poniente	residential	1	0	0	
+SV	3587345	1a Avenida Sur	residential	1	0	0	
+SV	3587345	1a Calle	residential	1	0	0	
+SV	3587345	1a Calle Oriente	residential	1	0	0	
+SV	3587345	1a Calle Poniente	pedestrian	1	0	0	
+SV	3587345	2a Avenida Norte	residential	1	0	0	
+SV	3587345	2a Avenida Sur	pedestrian	1	0	0	
+SV	3587345	2a Calle	residential	1	0	0	
+SV	3587345	2a Calle Poniente	tertiary	1	0	0	
+SV	3587345	3a Avenida Norte	tertiary	1	0	0	
+SV	3587345	3a Avenida Sur	tertiary	1	0	0	
+SV	3587345	3a Calle Oriente	residential	1	0	0	
+SV	3587345	3a Calle Poniente	residential	1	0	0	
+SV	3587345	4a Avenida Sur	pedestrian	1	0	0	
+SV	3587345	4a Calle Oriente	tertiary	1	0	0	
+SV	3587345	4a Calle Poniente	tertiary	1	0	0	
+SV	3587345	5a Avenida Sur	residential	1	0	0	
+SV	3587345	5a Calle	residential	1	0	0	
+SV	3587345	6 Calle Poniente	residential	1	0	0	
+SV	3587345	6a Calle Oriente	residential	1	0	0	
+SV	3587345	6a Calle Poniente	residential	1	0	0	
+SV	3587345	7a Calle Oriente	residential	1	0	0	
+SV	3587345	7a Calle Poniente	residential	1	0	0	
+SV	3587345	9a Calle	residential	1	0	0	
+SV	3587345	Acceso 1	living_street	1	0	0	
+SV	3587345	Acceso 10	living_street	1	0	0	
+SV	3587345	Acceso 11	living_street	1	0	0	
+SV	3587345	Acceso 12	living_street	1	0	0	
+SV	3587345	Acceso 13	living_street	1	0	0	
+SV	3587345	Acceso 14	pedestrian	1	0	0	
+SV	3587345	Acceso 2	living_street	1	0	0	
+SV	3587345	Acceso 3	living_street	1	0	0	
+SV	3587345	Acceso 4	living_street	1	0	0	
+SV	3587345	Acceso 5	living_street	1	0	0	
+SV	3587345	Acceso 6	living_street	1	0	0	
+SV	3587345	Acceso 7	living_street	1	0	0	
+SV	3587345	Acceso 8	living_street	1	0	0	
+SV	3587345	Acceso 9	living_street	1	0	0	
+SV	3587345	Acceso Anda	residential	1	0	0	
+SV	3587345	Autopista DUA	residential	1	0	0	
+SV	3587345	Avenida 1	residential	1	0	0	
+SV	3587345	Avenida 2	residential	1	0	0	
+SV	3587345	Avenida 3	residential	1	0	0	
+SV	3587345	Avenida 4	residential	1	0	0	
+SV	3587345	Avenida 5 de Noviembre	residential	1	0	0	
+SV	3587345	Avenida A	residential	1	0	0	
+SV	3587345	Avenida B	residential	1	0	0	
+SV	3587345	Avenida Barcelona Norte	residential	1	0	0	
+SV	3587345	Avenida Barcelona Sur	residential	1	0	0	
+SV	3587345	Avenida Brisas del Norte	residential	1	0	0	
+SV	3587345	Avenida C	residential	1	0	0	
+SV	3587345	Avenida Castro Moran	secondary	1	0	0	
+SV	3587345	Avenida Castro Morán	secondary	1	0	0	
+SV	3587345	Avenida Central	residential	1	0	0	
+SV	3587345	Avenida Chamulapa	residential	1	0	0	
+SV	3587345	Avenida Chintuc	residential	1	0	0	
+SV	3587345	Avenida Circunvalación 1	residential	1	0	0	
+SV	3587345	Avenida Circunvalación 2	residential	1	0	0	
+SV	3587345	Avenida Concepción Norte	residential	1	0	0	
+SV	3587345	Avenida Concepción Sur	residential	1	0	0	
+SV	3587345	Avenida Cuscatancingo	living_street	1	0	0	
+SV	3587345	Avenida El Castillo	residential	1	0	0	
+SV	3587345	Avenida El Cocal	residential	1	0	0	
+SV	3587345	Avenida El Paraíso	residential	1	0	0	
+SV	3587345	Avenida El Progreso	residential	1	0	0	
+SV	3587345	Avenida El Sunzal	residential	1	0	0	
+SV	3587345	Avenida El Tarrascón	residential	1	0	0	
+SV	3587345	Avenida El Zapote	residential	1	0	0	
+SV	3587345	Avenida Eliseo Mijango	residential	1	0	0	
+SV	3587345	Avenida Emilio Avelar	tertiary	1	0	0	
+SV	3587345	Avenida Esperanza	residential	1	0	0	
+SV	3587345	Avenida Guaycume	residential	1	0	0	
+SV	3587345	Avenida Hidalgo	residential	1	0	0	
+SV	3587345	Avenida Huehuetenango	residential	1	0	0	
+SV	3587345	Avenida Isaac Esquivel	tertiary	1	0	0	
+SV	3587345	Avenida Jardines	residential	1	0	0	
+SV	3587345	Avenida Juan José	residential	1	0	0	
+SV	3587345	Avenida Juan Martín	residential	1	0	0	
+SV	3587345	Avenida La Fortuna	living_street	1	0	0	
+SV	3587345	Avenida La Perla	residential	1	0	0	
+SV	3587345	Avenida La Providencia	residential	1	0	0	
+SV	3587345	Avenida La Salud	residential	1	0	0	
+SV	3587345	Avenida Las Vegas	residential	1	0	0	
+SV	3587345	Avenida Leonardo	residential	1	0	0	
+SV	3587345	Avenida Los Alpes	residential	1	0	0	
+SV	3587345	Avenida Los Cocos	residential	1	0	0	
+SV	3587345	Avenida Los Naranjos	residential	1	0	0	
+SV	3587345	Avenida Madre Tierra	residential	1	0	0	
+SV	3587345	Avenida Majucla	residential	1	0	0	
+SV	3587345	Avenida María Auxiliadora	residential	1	0	0	
+SV	3587345	Avenida Mazatepeque	residential	1	0	0	
+SV	3587345	Avenida Monseñor Romero	residential	1	0	0	
+SV	3587345	Avenida Monte María	residential	1	0	0	
+SV	3587345	Avenida Mustancingo	residential	1	0	0	
+SV	3587345	Avenida Norberto Morán	residential	1	0	0	
+SV	3587349	10a Avenida Norte	residential	1	0	0	
+SV	3587349	11a Calle Oriente	residential	1	0	0	
+SV	3587349	1a Avenida Norte	residential	1	0	0	
+SV	3587349	1a Avenida Sur	residential	1	0	0	
+SV	3587349	1a Calle Oriente	residential	1	0	0	
+SV	3587349	1a Calle Poniente	residential	1	0	0	
+SV	3587349	2a Avenida Norte	residential	1	0	0	
+SV	3587349	2a Avenida Sur	residential	1	0	0	
+SV	3587349	2a Calle Oriente	residential	1	0	0	
+SV	3587349	2a Calle Poniente	tertiary	1	0	0	
+SV	3587349	3a Avenida Norte	residential	1	0	0	
+SV	3587349	3a Avenida Sur	residential	1	0	0	
+SV	3587349	3a Calle Oriente	residential	1	0	0	
+SV	3587349	3a Calle Poniente	residential	1	0	0	
+SV	3587349	4 Avenida Norte	residential	1	0	0	
+SV	3587349	4a Avenida Norte	residential	1	0	0	
+SV	3587349	4a Avenida Sur	residential	1	0	0	
+SV	3587349	4a Calle Oriente	residential	1	0	0	
+SV	3587349	4a Calle Poniente	residential	1	0	0	
+SV	3587349	5a Calle Oriente	residential	1	0	0	
+SV	3587349	6a Avenida Norte	residential	1	0	0	
+SV	3587349	6a Avenida Sur	residential	1	0	0	
+SV	3587349	6a Calle Oriente	residential	1	0	0	
+SV	3587349	7a Calle Oriente	residential	1	0	0	
+SV	3587362	Calle Conchagua Oriente	secondary	77	9	64	
+SV	3587362	Calle Xochiquetzal	residential	32	1	44	
+SV	3587362	Avenida Nahulzalco	residential	30	7	34	
+SV	3587362	Avenida Apastepeque	residential	27	4	29	
+SV	3587362	Avenida Izalco Oriente	residential	26	14	39	
+SV	3587362	Avenida Coatepeque	residential	25	2	23	
+SV	3587362	Calle Atlacati		24	12	49	
+SV	3587362	Pasaje Chaparrastique	residential	24	4	38	
+SV	3587362	Calle Pipil	residential	22	9	33	
+SV	3587362	Nonualco		21	2	18	
+SV	3587362	Avenida Izalco Poniente	residential	20	3	51	
+SV	3587362	Pasaje Quezaltepeque Oriente	residential	20	19	38	
+SV	3587362	Pje Quezaltepeque Pte		20	1	52	
+SV	3587362	Avenida Apaneca		19	2	20	
+SV	3587362	Avenida Ilobasco	residential	18	4	72	
+SV	3587362	Pasaje 8		15	3	20	
+SV	3587362	Calle Conchgua Poniente	residential	14	1	14	
+SV	3587362	Panchimalco (Sur)		12	1	24	
+SV	3587362	Pasaje 13	residential	12	1	12	
+SV	3587362	Avenida Panchimalco (Norte)		10	1	10	
+SV	3587362	Panchimalco		10	2	12	
+SV	3587362	Pasaje Chaparrastique Polígono F	residential	10	14	40	
+SV	3587362	Pasaje Llamatepec Oriente	residential	10	19	31	
+SV	3587362	Pasaje Comalapa	residential	9	2	17	
+SV	3587362	Avenida El Espino	secondary	8	9	1502	
+SV	3587362	Ave Anamoros		7	5	13	
+SV	3587362	Pje Llamatepeque Pte		7	1	52	
+SV	3587362	Avenida Jiquilisco	residential	6	53	62	
+SV	3587362	Pasaje Llamatepec Poniente	residential	6	6	49	
+SV	3587362	Pasaje 6		5	30	35	
+SV	3587362	Pasaje Llamatepec Oriente POLIG "C"		5	32	40	
+SV	3587362	Calle Conchagua Oriente Pte		4	18	24	
+SV	3587362	Avenida Apeneca	residential	3	1	22	
+SV	3587362	Pasaje 7	residential	3	11	20	
+SV	3587362	Avenida Albert Einstein		2	3	233	
+SV	3587362	Avenida Iocoaitque		2	4	12	
+SV	3587362	Bulevar Orden de Malta		2	5	13	
+SV	3587362	Calle Cerro Verde Poniente	residential	2	33	34	
+SV	3587362	Panchimalco Sur		2	3	3	
+SV	3587362	Pje Llamatepec Ote		2	28	29	
+SV	3587362	2a Avenida Sur	residential	1	0	0	
+SV	3587362	Acceso a La Laguna	unclassified	1	0	0	
+SV	3587362	Arcatao	residential	1	0	0	
+SV	3587362	Avenida Anamoros	residential	1	0	0	
+SV	3587362	Avenida Bella Vista	residential	1	0	0	
+SV	3587362	Avenida Circunvalación	residential	1	0	0	
+SV	3587362	Avenida El Boquerón	residential	1	0	0	
+SV	3587362	Avenida Escuela Militar	tertiary	1	0	0	
+SV	3587372	11a Avenida Sur	residential	1	0	0	
+SV	3587372	1a Avenida Norte	tertiary	1	0	0	
+SV	3587372	1a Avenida Sur	tertiary	1	0	0	
+SV	3587372	1a Calle Oriente	tertiary	1	0	0	
+SV	3587372	1a Calle Poniente	residential	1	0	0	
+SV	3587372	2a Avenida Norte	residential	1	0	0	
+SV	3587372	2a Avenida Sur	residential	1	0	0	
+SV	3587372	2a Calle Oriente	tertiary	1	0	0	
+SV	3587372	2a Calle Poniente	residential	1	0	0	
+SV	3587372	3a Avenida Norte	residential	1	0	0	
+SV	3587372	3a Avenida Sur	secondary	1	0	0	
+SV	3587372	3a Calle Oriente	residential	1	0	0	
+SV	3587426	5 Avenida Sur		8	1	17	
+SV	3587426	1 Calle		7	3	1913	
+SV	3587426	3 Calle		5	13	34	
+SV	3587426	Calle San Antonio	residential	5	3	771	
+SV	3587426	1 Avenida Norte		4	2	310	
+SV	3587426	5 Calle Poniente		4	4	13	
+SV	3587426	9 Calle		3	8	719	
+SV	3587426	Calle H	unclassified	3	1	18	
+SV	3587426	Calle Los Coroneles	secondary	3	4	120	
+SV	3587426	Calle Principal	residential	3	1	51	
+SV	3587426	5 Avenida Norte		2	1	1	
+SV	3587426	Calle Cerro de Artillería	residential	2	63	64	
+SV	3587426	Calle Chapuco	tertiary	2	191	192	
+SV	3587426	10a Calle Oriente	unclassified	1	0	0	
+SV	3587426	10a Calle Poniente	unclassified	1	0	0	
+SV	3587426	12a Calle Oriente	residential	1	0	0	
+SV	3587426	12a Calle Poniente	unclassified	1	0	0	
+SV	3587426	1a Avenida Norte	residential	1	0	0	
+SV	3587426	1a Avenida Sur	residential	1	0	0	
+SV	3587426	1a Calle Poniente	residential	1	0	0	
+SV	3587426	2a Avenida Norte	tertiary	1	0	0	
+SV	3587426	2a Avenida Sur Bis	residential	1	0	0	
+SV	3587426	2a Calle Oriente	pedestrian	1	0	0	
+SV	3587426	2a Calle Poniente	residential	1	0	0	
+SV	3587426	3a Avenida Norte	residential	1	0	0	
+SV	3587426	3a Avenida Sur	residential	1	0	0	
+SV	3587426	3a Calle Oriente	tertiary	1	0	0	
+SV	3587426	3a Calle Poniente	tertiary	1	0	0	
+SV	3587426	4a Avenida Norte	secondary	1	0	0	
+SV	3587426	4a Avenida Sur	residential	1	0	0	
+SV	3587426	4a Calle Oriente	residential	1	0	0	
+SV	3587426	5a Avenida Norte	residential	1	0	0	
+SV	3587426	5a Avenida Sur	residential	1	0	0	
+SV	3587426	5a Calle Oriente	residential	1	0	0	
+SV	3587426	5a Calle Poniente	tertiary	1	0	0	
+SV	3587426	6a Avenida Norte	residential	1	0	0	
+SV	3587426	6a Avenida Sur	residential	1	0	0	
+SV	3587426	6a Calle Oriente	secondary	1	0	0	
+SV	3587426	6a Calle Poniente	primary	1	0	0	
+SV	3587426	7a Calle Oriente	residential	1	0	0	
+SV	3587426	7a Calle Poniente	residential	1	0	0	
+SV	3587426	8a Avenida Sur	residential	1	0	0	
+SV	3587426	8a Calle Oriente	unclassified	1	0	0	
+SV	3587426	8a Calle Poniente	unclassified	1	0	0	
+SV	3587426	9a Calle Oriente	residential	1	0	0	
+SV	3587426	9a Calle Poniente	residential	1	0	0	
+SV	3587426	Acceso a Colonia Tigre 6	residential	1	0	0	
+SV	3587426	Avenida 2 de Abril	unclassified	1	0	0	
+SV	3587428	11 Avenida Sur	residential	1	0	0	
+SV	3587428	11a Avenida Norte	residential	1	0	0	
+SV	3587428	11a Avenida Sur	residential	1	0	0	
+SV	3587428	11a Calle Oriente	residential	1	0	0	
+SV	3587428	11a Calle Poniente	residential	1	0	0	
+SV	3587428	13a Avenida Norte	residential	1	0	0	
+SV	3587428	13a Avenida Sur	residential	1	0	0	
+SV	3587428	13a Calle Poniente	residential	1	0	0	
+SV	3587428	15a Avenida Norte	residential	1	0	0	
+SV	3587428	15a Avenida Sur	residential	1	0	0	
+SV	3587428	15a Calle Oriente	residential	1	0	0	
+SV	3587428	15a Calle Poniente	residential	1	0	0	
+SV	3587428	17a Avenida Norte	residential	1	0	0	
+SV	3587428	17a Avenida Sur	residential	1	0	0	
+SV	3587428	17a Calle Oriente	residential	1	0	0	
+SV	3587428	17a Calle Poniente	residential	1	0	0	
+SV	3587428	19a Avenida Norte	residential	1	0	0	
+SV	3587428	19a Calle Oriente	residential	1	0	0	
+SV	3587428	19a Calle Poniente	residential	1	0	0	
+SV	3587428	1a Avenida Norte	residential	1	0	0	
+SV	3587428	1a Avenida Sur	residential	1	0	0	
+SV	3587428	1a Calle Oriente	residential	1	0	0	
+SV	3587428	1a Calle Poniente	residential	1	0	0	
+SV	3587428	21a Calle Oriente	residential	1	0	0	
+SV	3587428	21a Calle Poniente	residential	1	0	0	
+SV	3587428	23a Calle Oriente	residential	1	0	0	
+SV	3587428	23a Calle Poniente	residential	1	0	0	
+SV	3587428	25a Calle Oriente	residential	1	0	0	
+SV	3587428	25a Calle Poniente	residential	1	0	0	
+SV	3587428	27a Calle Oriente	unclassified	1	0	0	
+SV	3587428	27a Calle Poniente	unclassified	1	0	0	
+SV	3587428	29a Calle Oriente	residential	1	0	0	
+SV	3587428	29a Calle Poniente	residential	1	0	0	
+SV	3587428	2a Avenida Norte	residential	1	0	0	
+SV	3587428	2a Calle Oriente	residential	1	0	0	
+SV	3587428	2a Calle Poniente	residential	1	0	0	
+SV	3587428	31a Calle Oriente	residential	1	0	0	
+SV	3587428	31a Calle Poniente	residential	1	0	0	
+SV	3587428	33a Calle Oriente	residential	1	0	0	
+SV	3587428	33a Calle Poniente	residential	1	0	0	
+SV	3587428	3a Avenida Norte	residential	1	0	0	
+SV	3587428	3a Calle Oriente	residential	1	0	0	
+SV	3587428	3a Calle Poniente	residential	1	0	0	
+SV	3587428	4a Calle Oriente	residential	1	0	0	
+SV	3587428	4a Calle Poniente	residential	1	0	0	
+SV	3587428	5a Avenida Norte	residential	1	0	0	
+SV	3587428	5a Avenida Sur	residential	1	0	0	
+SV	3587428	5a Calle Oriente	tertiary	1	0	0	
+SV	3587498	CALLE LOS GARCIA Cantón San Carlos El Suncita Acajutla		8	2	12	
+SV	3587498	Calle Los Garcia		3	5	11	
+SV	3587498	11a Avenida Norte	residential	1	0	0	
+SV	3587498	11a Calle Oriente	secondary	1	0	0	
+SV	3587498	11a Calle Poniente	residential	1	0	0	
+SV	3587498	13a Avenida Norte	residential	1	0	0	
+SV	3587498	13a Calle Oriente	tertiary	1	0	0	
+SV	3587498	15a Calle Oriente	residential	1	0	0	
+SV	3587498	17a Calle Oriente	residential	1	0	0	
+SV	3587498	1a Avenida Norte	residential	1	0	0	
+SV	3587498	1a Avenida Sur	residential	1	0	0	
+SV	3587498	1a Calle Oriente	residential	1	0	0	
+SV	3587498	1a Calle Poniente	residential	1	0	0	
+SV	3587498	1ª Calle Oriente	residential	1	0	0	
+SV	3587498	1ª Calle Poniente	tertiary	1	0	0	
+SV	3587498	2ª Calle Oriente	residential	1	0	0	
+SV	3587498	2ª Calle Poniente	residential	1	0	0	
+SV	3587498	3a Avenida Norte	residential	1	0	0	
+SV	3587498	3a Calle Oriente	residential	1	0	0	
+SV	3587498	3a Calle Poniente	residential	1	0	0	
+SV	3587498	4a Calle Poniente	residential	1	0	0	
+SV	3587498	5a Avenida Norte	residential	1	0	0	
+SV	3587498	5a Calle Oriente	residential	1	0	0	
+SV	3587498	5a Calle Poniente	residential	1	0	0	
+SV	3587498	7 Calle Oriente	residential	1	0	0	
+SV	3587498	7a Avenida Norte	residential	1	0	0	
+SV	3587498	7a Calle Oriente	residential	1	0	0	
+SV	3587498	7a Calle Poniente	residential	1	0	0	
+SV	3587498	9a Avenida Norte	residential	1	0	0	
+SV	3587498	9a Avenida Sur	tertiary	1	0	0	
+SV	3587498	9a Calle Oriente	residential	1	0	0	
+SV	3587498	9a Calle Poniente	residential	1	0	0	
+SV	3587498	Avenida 1	residential	1	0	0	
+SV	3587498	Avenida 10	residential	1	0	0	
+SV	3587498	Avenida 11	residential	1	0	0	
+SV	3587498	Avenida 12	residential	1	0	0	
+SV	3587498	Avenida 13	residential	1	0	0	
+SV	3587498	Avenida 2	residential	1	0	0	
+SV	3587498	Avenida 3	residential	1	0	0	
+SV	3587498	Avenida 4	residential	1	0	0	
+SV	3587498	Avenida 5	residential	1	0	0	
+SV	3587498	Avenida 6	residential	1	0	0	
+SV	3587498	Avenida 7	residential	1	0	0	
+SV	3587498	Avenida 8	residential	1	0	0	
+SV	3587498	Avenida 9	residential	1	0	0	
+SV	3587498	Avenida Canales	residential	1	0	0	
+SV	3587498	Avenida Daniel Raúl Villa Mariona	residential	1	0	0	
+SV	3587498	Avenida Don Pedro de Alvarado	tertiary	1	0	0	

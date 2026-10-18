@@ -1,0 +1,3400 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+PS	281102	Abo-Baker Al-Seddeq	tertiary	1	0	0	
+PS	281102	Philadelphi Corridor	primary	1	0	0	
+PS	281102	الجميزة	tertiary	1	0	0	Al-Jumeeza
+PS	281102	الرشيد	tertiary	1	0	0	ar-Rashid
+PS	281102	شارع الرشيد	tertiary	1	0	0	Sharia Al-Rashid
+PS	281102	شارع طه حسين	tertiary	1	0	0	Sharia Taha Hussein
+PS	281102	شارع عثمان بن عفان	residential	1	0	0	Sharia Othman Bin Affan
+PS	281102	شارع عمر بن الخطاب	tertiary	1	0	0	Sharia Omar Bin Al-Khattab
+PS	281102	صدام	tertiary	1	0	0	Saddam
+PS	281102	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281102	طه حسين	tertiary	1	0	0	Taha Hussein
+PS	281102	غوش قطيف	tertiary	1	0	0	Gush Katif
+PS	281109	Abbas	residential	1	0	0	
+PS	281109	Ali Bin Abi Taleb	residential	1	0	0	
+PS	281109	An Nuseirat	secondary	1	0	0	
+PS	281109	Hassan Bin Ali	residential	1	0	0	
+PS	281109	Izz Al Deen Al Qassam	residential	1	0	0	
+PS	281109	Mokhim 1	tertiary	1	0	0	
+PS	281109	Omar bin Abdul Aziz	residential	1	0	0	
+PS	281109	Salah Khalaf	residential	1	0	0	
+PS	281109	Wadi Gaza Bridge (Pedestrian)	residential	1	0	0	
+PS	281109	الرشيد	tertiary	1	0	0	ar-Rashid
+PS	281109	شارع الشهيد محمد عياش	residential	1	0	0	
+PS	281109	شارع النصيرات	secondary	1	0	0	An Nuseirat
+PS	281109	شارع عمر بن الخطاب	residential	1	0	0	Sharia Omar Bin Al-Khattab
+PS	281119	Abo-Taima	tertiary	1	0	0	
+PS	281119	أبو رجيلة	residential	1	0	0	Abou-Rujeila
+PS	281119	شارع الروايدة	residential	1	0	0	Al-Roaida
+PS	281119	شارع السناطى	residential	1	0	0	Al-Snati
+PS	281119	شارع القرا	residential	1	0	0	Al Qara
+PS	281124	Abo Hmeid RoundAbout	tertiary	1	0	0	
+PS	281124	Abo-Taima	tertiary	1	0	0	
+PS	281124	Al Fokhare	tertiary	1	0	0	
+PS	281124	Al Qadesia	residential	1	0	0	
+PS	281124	Al Qdra	residential	1	0	0	
+PS	281124	Al Shuhadaa	residential	1	0	0	
+PS	281124	Al-Ansar	residential	1	0	0	
+PS	281124	Al-Awda	residential	1	0	0	
+PS	281124	Al-Brabra	residential	1	0	0	
+PS	281124	Al-Daggat	residential	1	0	0	
+PS	281124	Al-Fateheen	tertiary	1	0	0	
+PS	281124	Al-Kamaleen	residential	1	0	0	
+PS	281124	Al-Rawda	unclassified	1	0	0	
+PS	281124	Al-Shaheed Taha Abu-Msameh	residential	1	0	0	
+PS	281124	Alseka	residential	1	0	0	
+PS	281124	Ash Shari' Al 'Aam	tertiary	1	0	0	
+PS	281124	Basim Qudih	residential	1	0	0	
+PS	281124	El Baheer	secondary	1	0	0	
+PS	281124	El Baheer Sq.	tertiary	1	0	0	
+PS	281124	El Dahra	tertiary	1	0	0	
+PS	281124	El Lead	residential	1	0	0	
+PS	281124	El Transe	residential	1	0	0	
+PS	281124	El-Shhidda	residential	1	0	0	
+PS	281124	Izz Al Deen Al Qassam	residential	1	0	0	
+PS	281124	Khaled Bin Al-Walid	tertiary	1	0	0	
+PS	281124	Moraj	residential	1	0	0	
+PS	281124	Rabaih	tertiary	1	0	0	
+PS	281124	Rabaya	tertiary	1	0	0	
+PS	281124	Road 5	secondary	1	0	0	
+PS	281124	Rony Saleh Street	tertiary	1	0	0	
+PS	281124	Sharia Al-Bahr	tertiary	1	0	0	
+PS	281124	Sofa	residential	1	0	0	
+PS	281124	zayed	tertiary	1	0	0	
+PS	281124	الرشيد	secondary	1	0	0	ar-Rashid
+PS	281124	الشارع العام	tertiary	1	0	0	Ash Shari' Al 'Aam
+PS	281124	الشهداء	residential	1	0	0	Al Shuhadaa
+PS	281124	القادسية	residential	1	0	0	Al Qadesia
+PS	281124	المطاحن	secondary	1	0	0	al-Matahen
+PS	281124	جمال عبد الناصر	tertiary	1	0	0	Jamal Abd al-Nasser
+PS	281124	جنين	residential	1	0	0	Jenin
+PS	281124	دوار الأقصي	tertiary	1	0	0	Al-Aqsa Sq.
+PS	281124	دوار السنية	tertiary	1	0	0	Al Sonya Sq.
+PS	281124	ش المخاتير	residential	1	0	0	Al Makhateer
+PS	281124	شارع 5	secondary	1	0	0	Road 5
+PS	281124	شارع أبو طعيمة	tertiary	1	0	0	Abo-Taima
+PS	281124	شارع ابو حوا	residential	1	0	0	Abu Hawa street
+PS	281124	شارع ابوعنزة	residential	1	0	0	Abu Anza
+PS	281124	شارع البريد	tertiary	1	0	0	
+PS	281124	شارع الدقات	residential	1	0	0	Abu Dagga
+PS	281124	شارع الدهرة	tertiary	1	0	0	Ad Dahra
+PS	281124	شارع الرشيد	secondary	1	0	0	Sharia Al-Rashid
+PS	281124	شارع السكة	secondary	1	0	0	Sharia Al-Seka
+PS	281124	شارع السنية	tertiary	1	0	0	Al Sonya St.
+PS	281124	شارع السيقلي	residential	1	0	0	AlSeqaly
+PS	281124	شارع الشهيد أبو جهاد	unclassified	1	0	0	Al-Shaheed Abu Jehad
+PS	281124	شارع الشهيد اسامة النجار	residential	1	0	0	Osama El-Najer
+PS	281124	شارع الشهيد مصعب	residential	1	0	0	Al Shaheed Mosa'ab
+PS	281124	شارع الضهرة	tertiary	1	0	0	Ad Dahra
+PS	281124	شارع القدس	tertiary	1	0	0	Sharia Al-Quds
+PS	281124	شارع القديحات	residential	1	0	0	Al-Qduhat
+PS	281124	شارع الكلية	tertiary	1	0	0	El Kolia
+PS	281124	شارع اللغوات	residential	1	0	0	El Aga
+PS	281124	شارع شراب	residential	1	0	0	Shurrab
+PS	281124	شارع صلاح الدين	secondary	1	0	0	Sharia Salah Al-Din
+PS	281124	شارع عبسان الصغيرة	tertiary	1	0	0	Abasan Al-Saghera
+PS	281124	شارع عمر بن الخطاب	residential	1	0	0	Sharia Omar Bin Al-Khattab
+PS	281124	شارع عمرو بن العاص	residential	1	0	0	Amr bin Al-Aas
+PS	281124	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281124	صوفا	tertiary	1	0	0	Sufa
+PS	281124	غوش قطيف	tertiary	1	0	0	Gush Katif
+PS	281124	كيسوفيم	unclassified	1	0	0	Kisufim
+PS	281124	منطقة الأوروبي	residential	1	0	0	
+PS	281124	موراج	tertiary	1	0	0	Morag
+PS	281129	A'ahed Al-Habet	residential	1	0	0	
+PS	281129	Abu Motasem Alsaqqa	residential	1	0	0	
+PS	281129	Ahmed Assaf	residential	1	0	0	
+PS	281129	Al Enzla	residential	1	0	0	
+PS	281129	Al Horreya	residential	1	0	0	
+PS	281129	Al Sersawi Street	residential	1	0	0	
+PS	281129	Al Shaheed Al Ajramy	residential	1	0	0	
+PS	281129	Al Shuhadaa	residential	1	0	0	
+PS	281129	Al Soq	residential	1	0	0	
+PS	281129	Al Trance	residential	1	0	0	
+PS	281129	Al-Khansaa	residential	1	0	0	
+PS	281129	Al-Naser	secondary	1	0	0	
+PS	281129	Al-Sala	residential	1	0	0	
+PS	281129	Alhalabi	secondary	1	0	0	
+PS	281129	Aziz	residential	1	0	0	
+PS	281129	Ebad Alrahman	residential	1	0	0	
+PS	281129	Elshheed Hamoda Lemtwq	residential	1	0	0	
+PS	281129	Haifa	residential	1	0	0	
+PS	281129	Ibraheem Toqan	residential	1	0	0	
+PS	281129	Masude	residential	1	0	0	
+PS	281129	Mohamed Bahader	residential	1	0	0	
+PS	281129	Moner Morsy	residential	1	0	0	
+PS	281129	Najy Al-Ali	residential	1	0	0	
+PS	281129	Rasem Halawa	residential	1	0	0	
+PS	281129	Said Alaas	residential	1	0	0	
+PS	281129	Saleh Dardona	tertiary	1	0	0	
+PS	281129	Sharia Palestine	tertiary	1	0	0	
+PS	281129	Taha Hussein	residential	1	0	0	
+PS	281129	Tawfeeq Zeyad	residential	1	0	0	
+PS	281129	Yehia Aiesh	residential	1	0	0	
+PS	281129	foud abu el fateh	residential	1	0	0	
+PS	281129	mohmed hamoda	residential	1	0	0	
+PS	281129	الرشيد	secondary	1	0	0	ar-Rashid
+PS	281129	القدس	secondary	1	0	0	al-Quds
+PS	281129	الكرامة	secondary	1	0	0	al-Karama
+PS	281129	بيت لاهيا العام	secondary	1	0	0	General Beit Lahiya
+PS	281129	دوار أبو شرخ	secondary	1	0	0	Abu Sharekh Roundabout
+PS	281129	دوار تقاطع الجلاء و العيون	secondary	1	0	0	
+PS	281129	شارع أجنادين	residential	1	0	0	Ajnadeen
+PS	281129	شارع أحمد الجعبري	residential	1	0	0	Ahmed Aljabari
+PS	281129	شارع أسامة بن زيد	residential	1	0	0	Osama Bin Zied
+PS	281129	شارع ابو على إياد	residential	1	0	0	
+PS	281129	شارع البحر	secondary	1	0	0	Sharia Al-Bahr
+PS	281129	شارع التوام	secondary	1	0	0	Sharia Al-Tuam
+PS	281129	شارع الجلاء	secondary	1	0	0	Al-Jalaa
+PS	281129	شارع الرشيد	residential	1	0	0	Sharia Al-Rashid
+PS	281129	شارع السكة	tertiary	1	0	0	Sharia Al-Seka
+PS	281129	شارع السلاطين	residential	1	0	0	Al Salaten
+PS	281129	شارع الفالوجا	secondary	1	0	0	Al Falouja
+PS	281129	شارع القنال	secondary	1	0	0	Al-Jalaa
+PS	281129	شارع اللواء احمد فؤاد صادق	residential	1	0	0	General Ahmed Fouad Saadik
+PS	281129	شارع المحكمة	residential	1	0	0	Al Mahkama
+PS	281129	شارع النصر	secondary	1	0	0	Al-Naser
+PS	281129	شارع اليرموك	tertiary	1	0	0	Al-Yarmok
+PS	281129	شارع توفيق زياد	residential	1	0	0	Tawfeeq Zeyad
+PS	281129	شارع ذات الصواري	residential	1	0	0	That Alsawari
+PS	281129	شارع رائد عبد الرؤوف شحادة	residential	1	0	0	Raed Shehada
+PS	281129	شارع سعيد العاص	tertiary	1	0	0	Said Alaas
+PS	281129	شارع عز الدين القسام	secondary	1	0	0	Ezdin Alqasam
+PS	281129	شارع عصام السرطاوي	residential	1	0	0	Esaam AlSaratawy
+PS	281129	شارع عطا الزير	residential	1	0	0	Ata Al-Zeer
+PS	281129	شارع عمر بن الخطاب	residential	1	0	0	Sharia Omar Bin Al-Khattab
+PS	281129	شارع غسان كنفاني	residential	1	0	0	Ghassan Kanafany
+PS	281129	شارع فؤاد حجازي	residential	1	0	0	Fouad Hegazy
+PS	281129	شارع فلسطين	tertiary	1	0	0	Sharia Palestine
+PS	281129	شارع كتكت	unclassified	1	0	0	
+PS	281129	شارع كمال عدوان	residential	1	0	0	Kamal A'adwan
+PS	281129	شارع كمال ناصر	tertiary	1	0	0	Sharia Kamal Nasser
+PS	281129	شارع محمد جمجوم	residential	1	0	0	Mohammed Jamjoom
+PS	281129	شارع محمد يوسف النجار	residential	1	0	0	Mohammed Yosef Alnajjar
+PS	281129	شارع ممدوح صيدم	residential	1	0	0	Mamdouh Saidam
+PS	281129	شارع ناجي العلي	residential	1	0	0	Sharia Naji Al-Ali
+PS	281129	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281129	يافا	residential	1	0	0	Jaffa
+PS	281133	شارع رقم 4446		17	1	15	
+PS	281133	صلاح الدين	tertiary	8	1	828	Salah Ad-Din
+PS	281133	الجلاء		7	8	162	
+PS	281133	يافا		7	27	168	
+PS	281133	الوحدة		6	2	291	
+PS	281133	جمال عبد الناصر		6	136	295	
+PS	281133	Beirut Street		5	0	0	
+PS	281133	عمر المختار		5	57	202	
+PS	281133	أحمد عبد العزيز		4	28	122	
+PS	281133	الشهداء		4	45	129	
+PS	281133	الشيخ أحمد ياسين		4	1	116	
+PS	281133	النصر		4	92	828	
+PS	281133	جامعة الدول العربية		4	62	124	
+PS	281133	Ahmed Abd Al-Azez Street		3	118	2130	
+PS	281133	Al Seka Street		3	0	4106	
+PS	281133	Al-Naser Street - شارع النصر		3	828	828	
+PS	281133	Um Allymoun Street		3	0	0	
+PS	281133	الأبراج		3	99	116	
+PS	281133	السكة		3	128	176	
+PS	281133	بغداد	secondary	3	25	150	Baghdad
+PS	281133	خليل الوزير		3	120	209	
+PS	281133	عز الدين القسام		3	124	163	
+PS	281133	Al Khrtoom Street		2	43	7631	
+PS	281133	Al Rasheed		2	599	599	
+PS	281133	Al-Reyadh Street		2	0	0	
+PS	281133	Ibin Sina Street		2	14	97	
+PS	281133	Jamal Abed El Naser		2	25	25	
+PS	281133	Own Shawwa Street		2	1	1	
+PS	281133	أبو بكر الرازي		2	3	53	
+PS	281133	البنك العربي		2	4	22	
+PS	281133	الشيخ علي المغربي		2	19	41	
+PS	281133	العواميد		2	34	120	
+PS	281133	القنال		2	5	13	
+PS	281133	المشاهرة		2	56	118	
+PS	281133	شارع ابراج تل الهوا		2	124	599	
+PS	281133	شارع جمال عبد الناصر	secondary	2	106	644	Sharia Gamal Abdel Nasser
+PS	281133	شعبان		2	28	35	
+PS	281133	عبد القادر الحسيني		2	23	28	
+PS	281133	علي بن أبي طالب		2	12	38	
+PS	281133	مخيم الشاطئ		2	3	3	
+PS	281133	يوسف العظمة		2	107	129	
+PS	281133	Abd Al-Qader Al-Hoseiny Plaza	residential	1	0	0	
+PS	281133	Abu Al Kass	residential	1	0	0	
+PS	281133	Abu Alabed Guga Plaza	residential	1	0	0	
+PS	281133	Abu Dhaby	residential	1	0	0	
+PS	281133	Abu Mazen Roundabout	secondary	1	0	0	
+PS	281133	Ain Jaloot	residential	1	0	0	
+PS	281133	Al Jaro	residential	1	0	0	
+PS	281133	Al Nafaq	residential	1	0	0	
+PS	281133	Al Seka	residential	1	0	0	
+PS	281133	Al Shuhadaa	tertiary	1	0	0	
+PS	281133	Al Zarqaa	residential	1	0	0	
+PS	281133	Al-Awameed	residential	1	0	0	
+PS	281133	Al-Karama Roundabout	secondary	1	0	0	
+PS	281133	Al-Mashahra	residential	1	0	0	
+PS	281133	Al-Wehda	secondary	1	0	0	
+PS	281133	Al-Zahraa	residential	1	0	0	
+PS	281133	Al-Zawia	residential	1	0	0	
+PS	281133	Alghazali	residential	1	0	0	
+PS	281133	Almo'assasa	residential	1	0	0	
+PS	281133	Alqouthi	residential	1	0	0	
+PS	281133	Alqutli	residential	1	0	0	
+PS	281133	Alsheikh Mansoor	residential	1	0	0	
+PS	281133	Alwadiyyah	residential	1	0	0	
+PS	281133	Amer Ben Alaas	residential	1	0	0	
+PS	281133	Arab Bank	residential	1	0	0	
+PS	281133	Dalal Almoghrabi	residential	1	0	0	
+PS	281133	Deir Yaseen	residential	1	0	0	
+PS	281133	Demashq	residential	1	0	0	
+PS	281133	El Dooha	residential	1	0	0	
+PS	281133	Fathi AlSheqaqy	residential	1	0	0	
+PS	281133	Hassan Salama	residential	1	0	0	
+PS	281133	Ikhlayel	residential	1	0	0	
+PS	281133	Kamal Naser	secondary	1	0	0	
+PS	281133	Ministries Complex	residential	1	0	0	
+PS	281133	Mohammed Yosef Alnajjar	residential	1	0	0	
+PS	281133	Mostafa Hafez	residential	1	0	0	
+PS	281133	Netzarim Corridor	unclassified	1	0	0	
+PS	281133	Om Al laymoun	residential	1	0	0	
+PS	281133	Palestine	tertiary	1	0	0	
+PS	281133	Qarqash	residential	1	0	0	
+PS	281133	Salah Khalaf	residential	1	0	0	
+PS	281133	Saleh Dardona	unclassified	1	0	0	
+PS	281133	Sami Al-Ghol	residential	1	0	0	
+PS	281133	Sami Alghoul	residential	1	0	0	
+PS	281133	Sanaa	residential	1	0	0	
+PS	281133	Sharia Al-Rashid	tertiary	1	0	0	
+PS	281133	Sharia Al-Shuhada	tertiary	1	0	0	
+PS	281133	Sharia Aoun Al-Shawa	secondary	1	0	0	
+PS	281133	Sharia Baghdad	secondary	1	0	0	
+PS	281133	Sharia Beirut	secondary	1	0	0	
+PS	281133	Yehia Abbas	residential	1	0	0	
+PS	281133	כביש הבטון	unclassified	1	0	0	Concrete Road
+PS	281133	ציר נצרים	primary	1	0	0	Netzarim Corridor
+PS	281133	أبو حصيرة	tertiary	1	0	0	
+PS	281133	الرشيد	tertiary	1	0	0	ar-Rashid
+PS	281133	الكرامة	secondary	1	0	0	al-Karama
+PS	281133	دوار 17	tertiary	1	0	0	
+PS	281133	دوار أبو ماهر حلس	residential	1	0	0	
+PS	281133	دوار الدحدوح	secondary	1	0	0	Dahdooh rotary
+PS	281133	دوار السدرة	tertiary	1	0	0	Al-Sedra Roundabout
+PS	281133	دوار النزاز	tertiary	1	0	0	
+PS	281133	شارع أبو الأرانب	residential	1	0	0	
+PS	281133	شارع أبو الشعر	residential	1	0	0	
+PS	281133	شارع أبو العظام	residential	1	0	0	
+PS	281133	شارع أبو بكر الرازي	residential	1	0	0	Abu Baker Al-Razi
+PS	281133	شارع أبو بكر الصديق	residential	1	0	0	Abu bakr Alseddiq
+PS	281133	شارع أبو شعبان	residential	1	0	0	Abu sha'ban
+PS	281133	شارع أبو عبيدة بن الجراح	residential	1	0	0	Abu Obaida Ben Aljarrah
+PS	281133	شارع أبو عمر	residential	1	0	0	
+PS	281133	شارع أبو لبن	residential	1	0	0	Abu Labn
+PS	281133	شارع أحمد الجعبري	tertiary	1	0	0	Ahmed Aljabari
+PS	281133	شارع أحمد الشقيري	residential	1	0	0	Ahmed Al-Shoqery
+PS	281133	شارع أحمد عبدالعزيز	residential	1	0	0	Ahmed Abd Al-Azez
+PS	281133	شارع أحمد ياسين	secondary	1	0	0	
+PS	281133	شارع أحمد ياسين "شارع النديم"	residential	1	0	0	
+PS	281133	شارع أم عمر	residential	1	0	0	
+PS	281133	شارع أمين الحسيني	residential	1	0	0	Ameen Al-Husaini
+PS	281133	شارع إخليل	residential	1	0	0	
+PS	281133	شارع ابن سينا	residential	1	0	0	Ibin Sina
+PS	281133	شارع ابو على إياد	residential	1	0	0	Abu Ali Iyad
+PS	281133	شارع اريحا	residential	1	0	0	
+PS	281133	شارع اسدود	residential	1	0	0	
+PS	281133	شارع ال بيسيسو	residential	1	0	0	
+PS	281133	شارع الأزهر	residential	1	0	0	
+PS	281133	شارع الأقصى	secondary	1	0	0	Sharia Al-Aqsa
+PS	281133	شارع الأمم المتحدة	residential	1	0	0	
+PS	281133	شارع الاستقلال	residential	1	0	0	Al-Isteqlal
+PS	281133	شارع الاسكندرية	residential	1	0	0	Sharia Alexandria
+PS	281133	شارع البساتين	secondary	1	0	0	Al-Basateen
+PS	281133	شارع البلتاجي	residential	1	0	0	Albeltaji
+PS	281133	شارع البوسطةt	residential	1	0	0	Albusta
+PS	281133	شارع الثورة	residential	1	0	0	Al-Thawra
+PS	281133	شارع الجزائر	residential	1	0	0	Sharia Algeria
+PS	281133	شارع الحجر	residential	1	0	0	
+PS	281133	شارع الحسن بن الهيثم	residential	1	0	0	Al-Hasan Bin Al-Haytham
+PS	281133	شارع الخرطوم	residential	1	0	0	Sharia Al-Khartoum
+PS	281133	شارع الخليل	residential	1	0	0	
+PS	281133	شارع الخندق	residential	1	0	0	Alkhandaq
+PS	281133	شارع الدار البيضاء	residential	1	0	0	
+PS	281133	شارع الدهشان	residential	1	0	0	Aldahshan
+PS	281133	شارع الدوحة	residential	1	0	0	Sharia Al-Doha
+PS	281133	شارع الرباط	residential	1	0	0	Sharia Al-Rabat
+PS	281133	شارع الرشيد	secondary	1	0	0	Sharia Al-Rashid
+PS	281133	شارع الرياض "شارع النزاز"	tertiary	1	0	0	Al-Reyadh
+PS	281133	شارع الزهراء	secondary	1	0	0	
+PS	281133	شارع السكة	residential	1	0	0	Sharia Al-Seka
+PS	281133	شارع السوافيري	residential	1	0	0	Al Sawafiry
+PS	281133	شارع الشعف	tertiary	1	0	0	Al-Sha'af
+PS	281133	شارع الشفاء - عز الدين القاسم	secondary	1	0	0	Shifa-Ezz Eldine Al-Qassem
+PS	281133	شارع الشهداء	tertiary	1	0	0	Sharia Al-Shuhada
+PS	281133	شارع الشهيد مازن فقهاء	residential	1	0	0	
+PS	281133	شارع الشهيد محمود السويطي ابو عسكر	residential	1	0	0	
+PS	281133	شارع الشيخ خليل القوقا	residential	1	0	0	Sheikh Khalil Al-Qouqa Street
+PS	281133	شارع الشيخ علي المغربي	tertiary	1	0	0	Al-Sheikh Ali Al-Moghrabi
+PS	281133	شارع الشيخ منصور	residential	1	0	0	Alsheikh Mansoor
+PS	281133	شارع الصحابة	residential	1	0	0	Alsaabah
+PS	281133	شارع الصخرة المشرفة	residential	1	0	0	Alsakhra Almusharrafa
+PS	281133	شارع الصناعة	secondary	1	0	0	Al Aqsa
+PS	281133	شارع الطحلة	residential	1	0	0	
+PS	281133	شارع الطواحين	residential	1	0	0	
+PS	281133	شارع الطيرة	residential	1	0	0	
+PS	281133	شارع العواميد	residential	1	0	0	Al-Awameed
+PS	281133	شارع العيلة	residential	1	0	0	
+PS	281133	شارع القادسية	residential	1	0	0	Al Qadesia
+PS	281133	شارع القاهرة	residential	1	0	0	Sharia Cairo
+PS	281133	شارع القدس	secondary	1	0	0	Sharia Al-Quds
+PS	281133	شارع القسطل	residential	1	0	0	AlQastal
+PS	281133	شارع القنال	secondary	1	0	0	Al-Jalaa
+PS	281133	شارع القنطرة	residential	1	0	0	Alqantara
+PS	281133	شارع القوتلي	residential	1	0	0	Alqutli
+PS	281133	شارع القيدة	residential	1	0	0	Al Qaeda
+PS	281133	شارع الكلية الجامعية فرع الطلاب	residential	1	0	0	
+PS	281133	شارع الكمالية	residential	1	0	0	Al Kamilyah
+PS	281133	شارع اللد والرملة	tertiary	1	0	0	Al-Led And Al-Ramla
+PS	281133	شارع اللوح	residential	1	0	0	Al-Looh
+PS	281133	شارع المؤسسة	residential	1	0	0	Almo'assasa
+PS	281133	شارع المجادلة	residential	1	0	0	Almajadla
+PS	281133	شارع المجدل	secondary	1	0	0	Al-Majdal
+PS	281133	شارع المجمع الإسلامي	residential	1	0	0	Al Mojamaa Al Islami
+PS	281133	شارع المحكمة القديمة	residential	1	0	0	Al-Mahkama Al-Qadeema
+PS	281133	شارع المدهون	residential	1	0	0	
+PS	281133	شارع المغربي	secondary	1	0	0	Sharia Al-Maghrabi
+PS	281133	شارع المنامة	residential	1	0	0	
+PS	281133	شارع المنصورة	secondary	1	0	0	
+PS	281133	شارع المنطار	residential	1	0	0	Sharia Al-Muntar
+PS	281133	شارع الناصرة	residential	1	0	0	Al-Nasera
+PS	281133	شارع النخيل	residential	1	0	0	
+PS	281133	شارع النصر	secondary	1	0	0	Al-Naser
+PS	281133	شارع الوحدة	secondary	1	0	0	Al-Wehda
+PS	281133	شارع اليرموك	tertiary	1	0	0	Al-Yarmok
+PS	281133	شارع اليهود	residential	1	0	0	
+PS	281133	شارع بئر السبع	residential	1	0	0	Sharia Beersheba
+PS	281133	شارع بدر	residential	1	0	0	Badr
+PS	281133	شارع بغداد	secondary	1	0	0	Sharia Baghdad
+PS	281133	شارع بلال بن رباح	residential	1	0	0	Belal Ben Rabah
+PS	281133	شارع بنغازي	residential	1	0	0	
+PS	281133	شارع بور سعيد	tertiary	1	0	0	Bour Said
+PS	281133	شارع بيت لحم	residential	1	0	0	
+PS	281133	شارع بيرزيت	residential	1	0	0	
+PS	281141	Abu Houli	tertiary	1	0	0	
+PS	281141	Abu-Hosni	tertiary	1	0	0	
+PS	281141	Al Nakhel	residential	1	0	0	
+PS	281141	Al Soq	residential	1	0	0	
+PS	281141	Al-Basa	tertiary	1	0	0	
+PS	281141	Al-Kholafaa Al-Rashdeen	residential	1	0	0	
+PS	281141	Al-Salam	residential	1	0	0	
+PS	281141	Al-Tejari	tertiary	1	0	0	
+PS	281141	Al-Tejari Steet	residential	1	0	0	
+PS	281141	Jenin Street	residential	1	0	0	
+PS	281141	Khaled Bin Al-Waleed	tertiary	1	0	0	
+PS	281141	Khalid bin al'waleed	tertiary	1	0	0	
+PS	281141	Mokhim 1	residential	1	0	0	
+PS	281141	Salah Khalaf	tertiary	1	0	0	
+PS	281141	Street N° 12 (Al-Hajj Sakhri Almusaddar Street) شارع رقم 12 (شارع الحاج سخري المصدر)	unclassified	1	0	0	
+PS	281141	Street N° 13 (Almusaddar Association Street) شارع رقم 13 (شارع جمعية المصدر )	unclassified	1	0	0	
+PS	281141	Street N° 14 (Al-Hajj Swailem Almusaddar Street) شارع رقم 14 ( شارع الحاج سويلم المصدر ).	residential	1	0	0	
+PS	281141	Street N° 15 .شارع رقم 15	residential	1	0	0	
+PS	281141	Street N° 16 . شارع رقم 16	unclassified	1	0	0	
+PS	281141	Street N° 26 ( Al Hajj Aziz Dhaifallah Street) شارع رقم 26 (شارع الحاج عزيز ضيف الله )	residential	1	0	0	
+PS	281141	Street N° 41 ( East Municipal Street ) . شارع رقم 41 ( شارع شرق البلدية )	residential	1	0	0	
+PS	281141	Street N° 42 ( North Municipal Street ) . شارع رقم 42 ( شارع شمال البلدية )	residential	1	0	0	
+PS	281141	Street N° 42 ( North Municipal Street ) . شارع رقم 42 ( شارق شمال البلدية )	residential	1	0	0	
+PS	281141	Street N° 43 . شارع رقم 43	residential	1	0	0	
+PS	281141	Street N° 45 ( North Street ) . شارع رقم 45 ( الشارع الشمالي )	residential	1	0	0	
+PS	281141	Street N° 46 ( North Street ) . شارع رقم 46	residential	1	0	0	
+PS	281141	Street N° 46 شارع رقم 46	residential	1	0	0	
+PS	281141	Street N° 47 شارع رقم 47	pedestrian	1	0	0	
+PS	281141	Street N° 6 ( Mosque Street ) شارع رقم 6 ( شارع المسجد )	residential	1	0	0	
+PS	281141	Street N° 9 (Abu Tamer Street) شارع رقم 9 ( شارع أبو تامر )	residential	1	0	0	
+PS	281141	الرشيد	tertiary	1	0	0	ar-Rashid
+PS	281141	المطاحن	secondary	1	0	0	al-Matahen
+PS	281141	شارع الحكر	tertiary	1	0	0	Al Hekker
+PS	281141	شارع الشهداء	secondary	1	0	0	Sharia Al-Shuhada
+PS	281141	شارع رقم 1 ( شارع المصدر )	tertiary	1	0	0	Street N° 1 ( Almusaddar Street )
+PS	281141	شارع رقم 2 , ( شارع الحاج عودة المصدر )	residential	1	0	0	Street N° 2 ( Al-Hajj Odah Almusaddar Street )
+PS	281141	شارع رقم 44 ( شارع غرب المسجد )	residential	1	0	0	Street 44 ( Street west of the mosque)
+PS	281141	شارع رقم 7 (شارع السكة الحديد)	residential	1	0	0	Street N° 7 (Railway Street)
+PS	281141	شارع صلاح الدين	tertiary	1	0	0	Sharia Salah Al-Din
+PS	281141	شارع عكيلة	tertiary	1	0	0	Akkela
+PS	281141	شارع محمد العزايزة	secondary	1	0	0	Mohammad Al Azayza
+PS	281141	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281141	صلاح خلف	secondary	1	0	0	Salah Khalaf
+PS	281141	كيسوفيم	tertiary	1	0	0	Kisufim
+PS	281145	Al Qassam	residential	2	217	599	
+PS	281145	Al Barrawi	residential	1	0	0	
+PS	281145	Al Led	residential	1	0	0	
+PS	281145	Al Majdal	residential	1	0	0	
+PS	281145	Al Mansheya	residential	1	0	0	
+PS	281145	Al Masmeya	residential	1	0	0	
+PS	281145	Al Qasteena	residential	1	0	0	
+PS	281145	Al Ramla	residential	1	0	0	
+PS	281145	Al Sawafeer	residential	1	0	0	
+PS	281145	Al Shuhadaa	residential	1	0	0	
+PS	281145	Al Toam	residential	1	0	0	
+PS	281145	Aslan street	residential	1	0	0	
+PS	281145	Barbara	residential	1	0	0	
+PS	281145	Basheet	residential	1	0	0	
+PS	281145	Beit Daras	residential	1	0	0	
+PS	281145	Beit Tema	residential	1	0	0	
+PS	281145	Besan	residential	1	0	0	
+PS	281145	Brair	residential	1	0	0	
+PS	281145	Demra	residential	1	0	0	
+PS	281145	Haifa	residential	1	0	0	
+PS	281145	Herebia	residential	1	0	0	
+PS	281145	Najed	residential	1	0	0	
+PS	281145	Owena	residential	1	0	0	
+PS	281145	Safad	residential	1	0	0	
+PS	281145	Teberia	residential	1	0	0	
+PS	281145	Tiberius	residential	1	0	0	
+PS	281145	Yebna	residential	1	0	0	
+PS	281145	Zaki Al Dahnoon	residential	1	0	0	
+PS	281145	الشهداء	residential	1	0	0	Al Shuhadaa
+PS	281145	القطاطوة	residential	1	0	0	Al Qatatwa
+PS	281145	دوار ابو الجديان	residential	1	0	0	
+PS	281145	شارع البركة	residential	1	0	0	Sharia Al-Baraka
+PS	281145	شارع التوام	tertiary	1	0	0	Sharia Al-Tuam
+PS	281145	شارع الجمعية	tertiary	1	0	0	
+PS	281145	شارع الرباط	residential	1	0	0	Sharia Al-Rabat
+PS	281145	شارع السلاطين	secondary	1	0	0	Al Salaten
+PS	281145	شارع الصفطاوي	residential	1	0	0	Alsaftawy
+PS	281145	شارع الفالوجا	secondary	1	0	0	Al Falouja
+PS	281145	شارع المنشية	residential	1	0	0	Al Mansheya
+PS	281145	عكا	residential	1	0	0	Acre
+PS	281145	يافا	residential	1	0	0	Jaffa
+PS	281146	الجسر	tertiary	1	0	0	al-Jiser
+PS	281146	بيت حانون	secondary	1	0	0	Beit Hanoun
+PS	281146	شارع النعايمة	residential	1	0	0	
+PS	281146	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281148	Abu Ali Eyad	unclassified	1	0	0	
+PS	281148	Al-Haj Abed	residential	1	0	0	
+PS	281148	Al-Shaheed Adnan Abu Hammad	residential	1	0	0	
+PS	281148	Bani Suhaila Roundabout	tertiary	1	0	0	
+PS	281148	Izz Al Deen Al Qassam	residential	1	0	0	
+PS	281148	الرحمة	residential	1	0	0	Al-Rahma
+PS	281148	العودة	tertiary	1	0	0	al-Awda
+PS	281148	الفجم	tertiary	1	0	0	Al Fajem
+PS	281148	جمال عبد الناصر	residential	1	0	0	Gamal Abdel Nasser
+PS	281148	شارع الشهيد أبو جهاد	residential	1	0	0	Al-Shaheed Abu Jehad
+PS	281148	شارع القدس	residential	1	0	0	Al Qods road
+PS	281148	شارع عمرو بن العاص	residential	1	0	0	Amr bin Al-Aas
+PS	281148	يافا	residential	1	0	0	Jaffa
+PS	281152	Al Shahed Ahmed Abu Warda	residential	1	0	0	
+PS	281160	Al Fokhare	tertiary	1	0	0	
+PS	281160	Rabaih	tertiary	1	0	0	
+PS	281160	zayed	tertiary	1	0	0	
+PS	281161	Al Andalus	residential	1	0	0	
+PS	281161	Al Shahid Yahya Jaber	tertiary	1	0	0	
+PS	281161	Al-Borag	tertiary	1	0	0	
+PS	281161	Street N° 3 (North School Street) شارع رقم 3 ( شارع شمال المدرسة )	tertiary	1	0	0	Street N° 3 (North School Street)
+PS	281161	דרך מיתקני המים	unclassified	1	0	0	Water Facilities Route
+PS	281161	כביש הבטון	unclassified	1	0	0	Concrete Road
+PS	281161	شارع الأندلس	residential	1	0	0	
+PS	281161	شارع العواودة	tertiary	1	0	0	
+PS	281161	شارع رقم 3 ( شارع شمال المدرسة )	tertiary	1	0	0	Street N° 3 (North School Street)
+PS	281161	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	281165	Abo-Taima	tertiary	1	0	0	
+PS	281165	Abu Yousef	residential	1	0	0	
+PS	281165	Abu-Zereva	residential	1	0	0	
+PS	281165	Rmida	residential	1	0	0	
+PS	281165	شارع أبومصبح	residential	1	0	0	Abu-Msubh
+PS	281165	شارع الرحمة	residential	1	0	0	Sharia Al-Rahma
+PS	281165	شارع القديحات	tertiary	1	0	0	Al Qudihat
+PS	281165	عبسان الكبيرة	residential	1	0	0	Abasan al-Kabira
+PS	281207	زبوبة - رمانة	tertiary	1	0	0	Zbuba - Rumana
+PS	281226	Al-Ajdad	residential	1	0	0	
+PS	281226	Al-Aqsa	residential	1	0	0	
+PS	281226	Al-Khudeira	residential	1	0	0	
+PS	281226	Ghudayya	residential	1	0	0	
+PS	281226	Hajj Qasim	residential	1	0	0	
+PS	281226	Jatt	tertiary	1	0	0	
+PS	281226	Khor al-Wassa'	residential	1	0	0	
+PS	281226	Majdal	residential	1	0	0	
+PS	281226	Palestine	residential	1	0	0	
+PS	281226	Qazaza	tertiary	1	0	0	
+PS	281226	Quds Street	tertiary	1	0	0	
+PS	281226	Raml Zeita	residential	1	0	0	
+PS	281227	قيرة	tertiary	1	0	0	
+PS	281236	المعاجين	residential	1	0	0	
+PS	281236	زواتا	residential	1	0	0	
+PS	281240	כביש תקוע–ירושלים	primary	1	0	0	Jerusalem-Tqo'a road
+PS	281285	4468	secondary	1	0	0	
+PS	281285	אזמרגד	tertiary	1	0	0	
+PS	281285	ברקת	residential	1	0	0	Bareket
+PS	281285	דולב	residential	1	0	0	Dolev
+PS	281285	יהלום	residential	1	0	0	Yahalom
+PS	281285	כביש גישה לפדואל	secondary	1	0	0	4464
+PS	281285	לוטם	residential	1	0	0	Lotem
+PS	281285	ספיר	residential	1	0	0	Sapir
+PS	281285	שוהם	tertiary	1	0	0	Shoham
+PS	281285	שקמה	residential	1	0	0	Shikma
+PS	281285	תדהר	residential	1	0	0	Tidhar
+PS	281285	תמר	tertiary	1	0	0	Tamar
+PS	281292	Main Street		2	50	599	
+PS	281292	Al Heela	unclassified	1	0	0	
+PS	281292	Al Marmaleh	residential	1	0	0	
+PS	281292	Al Moreh	residential	1	0	0	
+PS	281292	Al-Fannan At-Taweel Steer	residential	1	0	0	
+PS	281292	Al-Jarfan	residential	1	0	0	
+PS	281292	Al-Khanazir	residential	1	0	0	
+PS	281292	Al-Maqbeyya	residential	1	0	0	
+PS	281292	As-Salam	tertiary	1	0	0	
+PS	281292	As-Sawakneh	residential	1	0	0	
+PS	281292	Beit Al Rysan	secondary	1	0	0	
+PS	281292	Eastern Musalla	residential	1	0	0	
+PS	281292	Job Hovar	residential	1	0	0	
+PS	281292	Main	secondary	1	0	0	
+PS	281292	Schools	tertiary	1	0	0	
+PS	281292	Sharia Al-Carmel	unclassified	1	0	0	
+PS	281292	To Al Fawar	secondary	1	0	0	
+PS	281292	Wadi Al-baqeh	tertiary	1	0	0	
+PS	281292	Western Musalla	residential	1	0	0	
+PS	281292	khalet Al May	tertiary	1	0	0	
+PS	281292	السموع - يطا	secondary	1	0	0	asamou - yatta
+PS	281292	شارع إلى بيت عمرة	tertiary	1	0	0	To Beit 'Amra
+PS	281292	شارع البركة	tertiary	1	0	0	Sharia Al-Baraka
+PS	281292	شارع السلام	secondary	1	0	0	Sharia Al-Salam
+PS	281292	شارع الفرش	secondary	1	0	0	Sharia Al-Farash
+PS	281292	شارع الكرمل	tertiary	1	0	0	Sharia Al-Carmel
+PS	281292	شارع المنطار	tertiary	1	0	0	Sharia Al-Muntar
+PS	281292	شارع رئيسي	secondary	1	0	0	Main
+PS	281292	شارع رقعة	secondary	1	0	0	Roq'a
+PS	281293	Telfit - Qusra	secondary	1	0	0	
+PS	281293	האורן	residential	1	0	0	HaOren
+PS	281293	הארז	residential	1	0	0	HaErez
+PS	281293	הזית	tertiary	1	0	0	HaZayit
+PS	281293	היסמין	residential	1	0	0	HaYasmin
+PS	281293	הלבונה	residential	1	0	0	HaLevona
+PS	281293	הרימון	residential	1	0	0	HaRimon
+PS	281293	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	281295	ההדס	residential	1	0	0	HaHadas
+PS	281295	הזית	tertiary	1	0	0	HaZayit
+PS	281295	התאנה	residential	1	0	0	HaTeena
+PS	281295	התמר	residential	1	0	0	HaTamar
+PS	281295	طريق ياسوف - اسكاكا	tertiary	1	0	0	
+PS	281295	مدخل ياسوف	secondary	1	0	0	
+PS	281297	Bait Imrin-Yasid	tertiary	1	0	0	
+PS	281303	כביש גישה יקיר-נופים	secondary	1	0	0	
+PS	281303	כביש גישה נופים	secondary	1	0	0	
+PS	281303	נחל שילה	residential	1	0	0	
+PS	281303	נחל תרצה	residential	1	0	0	
+PS	281317	Yabrod	tertiary	1	0	0	
+PS	281318	Al-'Asafir	tertiary	1	0	0	
+PS	281318	Ya'bad	residential	1	0	0	
+PS	281318	to ya'bad (main street)	secondary	1	0	0	
+PS	281318	زيد الكيلاني	tertiary	1	0	0	
+PS	281441	Al Shahed Esam Judah	residential	1	0	0	
+PS	281441	Im Safa	tertiary	1	0	0	
+PS	281441	מעלה ההר	tertiary	1	0	0	Maale HaHar
+PS	281486	Om el Toot zone	residential	1	0	0	
+PS	281560	Turmos Aia	residential	1	0	0	
+PS	281560	אוהל מועד	tertiary	1	0	0	
+PS	281560	אורים ותומים	residential	1	0	0	
+PS	281560	אלקנה	residential	1	0	0	Elkana
+PS	281560	ארגמן	residential	1	0	0	Argaman
+PS	281560	אש קודש	residential	1	0	0	
+PS	281560	ברכת האילנות	residential	1	0	0	
+PS	281560	גאולת הארץ	residential	1	0	0	
+PS	281560	גורל הנחלות	residential	1	0	0	
+PS	281560	דרך גדעון	secondary	1	0	0	Derekh Gidon
+PS	281560	דרך העלייה לרגל	unclassified	1	0	0	
+PS	281560	המסילה העולה	tertiary	1	0	0	
+PS	281577	Nablus Street		4	926	2688	
+PS	281577	Jamal Abdelnaser St شارع جمال عبد الناصر		3	598	926	
+PS	281577	Hanoun Street		2	4	926	
+PS	281577	شويكه الشارع الشرقي		2	569	926	
+PS	281577	Al-Awda	residential	1	0	0	
+PS	281577	Al-Esra	tertiary	1	0	0	
+PS	281577	Al-Fuqaha' Mosque	tertiary	1	0	0	
+PS	281577	Al-Maqbarah	residential	1	0	0	
+PS	281577	Al-Mokhayam	tertiary	1	0	0	
+PS	281577	As-Sikkeh	tertiary	1	0	0	
+PS	281577	At Tarbeya	tertiary	1	0	0	
+PS	281577	Dhinnaba - Izbat Al Khilal	tertiary	1	0	0	
+PS	281577	Ertah	tertiary	1	0	0	
+PS	281577	Jaffa	tertiary	1	0	0	
+PS	281577	Kafr Al Labad - Kafa	tertiary	1	0	0	
+PS	281577	King Husein	primary	1	0	0	
+PS	281577	Ministry of Education	tertiary	1	0	0	
+PS	281577	Mohammad Ibn Al-Qasem	primary	1	0	0	
+PS	281577	Nablus-Tulkarm Road	primary	1	0	0	
+PS	281577	Natania	tertiary	1	0	0	
+PS	281577	Paris Street شارع باريس	residential	1	0	0	
+PS	281577	Sharia Bur Said	residential	1	0	0	
+PS	281577	Sharia Hanoun	tertiary	1	0	0	
+PS	281577	Shuweika Al-Gharbi	residential	1	0	0	
+PS	281577	The Hospital	tertiary	1	0	0	
+PS	281577	אביטל	residential	1	0	0	
+PS	281577	אגדת דשא	residential	1	0	0	Agadat Deshe
+PS	281577	איבי הנחל	residential	1	0	0	
+PS	281577	ארבל	residential	1	0	0	
+PS	281577	בנטל	residential	1	0	0	
+PS	281577	בראשית	tertiary	1	0	0	Bereshit
+PS	281577	גלעד	tertiary	1	0	0	Gilad
+PS	281577	דוחל	residential	1	0	0	Dohal
+PS	281577	דיה	residential	1	0	0	Daya
+PS	281577	החממה	residential	1	0	0	Ha'Chamama
+PS	281577	היובלים	tertiary	1	0	0	HaYovalim
+PS	281577	המור	residential	1	0	0	HaMor
+PS	281577	המטע	residential	1	0	0	HaMata
+PS	281577	הפרדס	residential	1	0	0	HaPardes
+PS	281577	הראשונים	tertiary	1	0	0	HaRishonim
+PS	281577	הרעות	residential	1	0	0	HaReut
+PS	281577	השדות	residential	1	0	0	HaSadot
+PS	281577	זרעי קייץ	residential	1	0	0	Ziray Kaitz
+PS	281577	חבצלת	residential	1	0	0	HaVatselet
+PS	281577	חורשת האקליפטוס	residential	1	0	0	Choorshat Ha'ekaliptoos
+PS	281577	חרמון	residential	1	0	0	Hermon
+PS	281577	נוף הרים	residential	1	0	0	Nof Harim
+PS	281577	עץ השדה	residential	1	0	0	Etz Hasadde
+PS	281581	AL-Amal	residential	1	0	0	
+PS	281581	AL-Far'a	primary	1	0	0	
+PS	281581	AL-Krameh	residential	1	0	0	
+PS	281581	AL-Naser	residential	1	0	0	
+PS	281581	AL-Wehda	residential	1	0	0	
+PS	281581	Ad-Deir	tertiary	1	0	0	
+PS	281581	Al Kufeir _Aqqabah	primary	1	0	0	
+PS	281581	Al-Awouz	residential	1	0	0	
+PS	281581	Al-Jadidah	tertiary	1	0	0	
+PS	281581	Aqqaba - Al Ghour	unclassified	1	0	0	
+PS	281581	Aqqaba - Tubas	primary	1	0	0	
+PS	281581	EL-Far'a Camp-Wadi AL-Far'a	primary	1	0	0	
+PS	281581	Kashda - Al Far'a	residential	1	0	0	
+PS	281581	Sahlab - Aqqaba	residential	1	0	0	
+PS	281581	Tubas - Al Far'a Camp	primary	1	0	0	
+PS	281581	Tubas Main	primary	1	0	0	
+PS	281581	Yasid-Wadi AL-Far'a	tertiary	1	0	0	
+PS	281581	البلده القديمة	tertiary	1	0	0	
+PS	281581	شارع الجديدة - طوباس	secondary	1	0	0	AlJadeedah - Tubas
+PS	281581	شارع المدارس	tertiary	1	0	0	
+PS	281581	شارع النور	unclassified	1	0	0	Sharia Al-Noor
+PS	281581	شارع سيريس - الفارعة	secondary	1	0	0	Siris - Al-Faraa
+PS	281581	شارع صير - الكفير	secondary	1	0	0	
+PS	281581	طريق مستشفى طوباس التركي	residential	1	0	0	Tobas Turkish Hospital Road
+PS	281605	الطريق الرئيسي لتعنك	primary	1	0	0	Main Road in Te'anak
+PS	281605	تعنك - رمانة	unclassified	1	0	0	T'enik - Rumana
+PS	281605	منطقة تعنك	residential	1	0	0	Ta'anak area
+PS	281623	AL- Sumod	tertiary	1	0	0	
+PS	281623	AL-Esteqlal	residential	1	0	0	
+PS	281623	Ath Thaghra - Al Malih	secondary	1	0	0	
+PS	281623	شارع الاغوار	secondary	1	0	0	
+PS	281637	Suba - Tarqumiya	tertiary	1	0	0	
+PS	281637	Tarqumia - Surif	primary	1	0	0	
+PS	281637	طريق ترقوميا-الخليل	secondary	1	0	0	To Tarqomia Village
+PS	281657	Al-Far'a - Tamoun	tertiary	1	0	0	
+PS	281657	Tammun - Khirbet 'Atuf	residential	1	0	0	
+PS	281657	ציר אלון	primary	1	0	0	Allon Road
+PS	281662	Asira ash Shmaliya-AL-Badhan	tertiary	1	0	0	
+PS	281675	Jalud - Telfit	tertiary	1	0	0	
+PS	281675	Telfit - Qusra	secondary	1	0	0	
+PS	281675	המוריה	tertiary	1	0	0	HaMoriya
+PS	281675	הר ציון	residential	1	0	0	Har Tzion
+PS	281675	מבצע נחשון	residential	1	0	0	Mivtza Nachshon
+PS	281675	ספיר	residential	1	0	0	Sapir
+PS	281675	שדרות עלי הכהן	tertiary	1	0	0	Shderot Eli Ha'Cohen
+PS	281675	שהם	tertiary	1	0	0	Shoham
+PS	281690	شارع تفوح	tertiary	1	0	0	Taffouh
+PS	281690	شارع وسط البلد	unclassified	1	0	0	
+PS	281715	הירקון	residential	2	22	22	Hayarkon
+PS	281715	(معبر الجبعة)خلة علي غنيم - شارع صوريف القدس	tertiary	1	0	0	
+PS	281715	Al-Aroud area - منطقة العاروض	primary	1	0	0	
+PS	281715	Al-Hilah	primary	1	0	0	
+PS	281715	Al-Omari	secondary	1	0	0	
+PS	281715	Al-Shaheed Ibrahim Abu-Dayyeh	primary	1	0	0	
+PS	281715	Al-Shaheed Mohammad Al-Faqih	primary	1	0	0	
+PS	281715	AlFarouk	tertiary	1	0	0	
+PS	281715	Baqi Al Qasr	secondary	1	0	0	
+PS	281715	Downtown - Schools	primary	1	0	0	
+PS	281715	Khirbet ad Deir - Surif	secondary	1	0	0	
+PS	281715	Muscat	secondary	1	0	0	
+PS	281715	Old	secondary	1	0	0	
+PS	281715	Palestine	secondary	1	0	0	
+PS	281715	Surif - AlHilah	primary	1	0	0	
+PS	281715	Surif - Hebron	primary	1	0	0	
+PS	281715	Surif - Jerusalem	primary	1	0	0	
+PS	281715	Surif Downtown- AlHilah	primary	1	0	0	
+PS	281715	Wadi Jedour, downtown	secondary	1	0	0	
+PS	281715	אהבת ישראל	residential	1	0	0	
+PS	281715	גלבוע	residential	1	0	0	Gilboa
+PS	281715	הירדן	residential	1	0	0	HaYarden
+PS	281715	הקדרון	residential	1	0	0	HaKidron
+PS	281715	חיטה ושעורה	residential	1	0	0	
+PS	281715	כביש שירות - גדר ההפרדה	unclassified	1	0	0	Military Road
+PS	281715	נבו	residential	1	0	0	
+PS	281715	סיני	residential	1	0	0	Sinai
+PS	281715	קדם	residential	1	0	0	Kedem
+PS	281715	קטלב	residential	1	0	0	Katlav
+PS	281715	שורק	residential	1	0	0	Sorek
+PS	281715	الثغرة	tertiary	1	0	0	
+PS	281715	الثغرة - بلال بن رباح	secondary	1	0	0	
+PS	281715	الصوانة - ضاحية الزيتون	tertiary	1	0	0	
+PS	281715	الظهر	residential	1	0	0	Al-Zahir
+PS	281715	الظهر - بقيع القصر	tertiary	1	0	0	
+PS	281715	بقيع القصر	primary	1	0	0	
+PS	281715	بلال بن رباح	secondary	1	0	0	
+PS	281715	حارة الايمان - مركز المدينة	tertiary	1	0	0	
+PS	281715	خلة علي غنيم	tertiary	1	0	0	
+PS	281715	سرج القندول - بلال بن رباح	tertiary	1	0	0	
+PS	281715	شارع احمد بن تيمية	tertiary	1	0	0	
+PS	281715	شارع الابرار	secondary	1	0	0	
+PS	281715	شارع البقعة	residential	1	0	0	
+PS	281715	شارع الرحمة - حي الظهر	secondary	1	0	0	
+PS	281715	شارع الرويال - ضاحية الزيتون و ابو شوك	tertiary	1	0	0	
+PS	281715	شارع القرنة - الثغرة	secondary	1	0	0	
+PS	281715	شارع اللحام	secondary	1	0	0	
+PS	281715	شارع المقبرة القديمة	tertiary	1	0	0	
+PS	281716	Birzeit Road طريق بيرزيت	secondary	1	0	0	
+PS	281716	Surda	unclassified	1	0	0	
+PS	281764	Seres	tertiary	1	0	0	
+PS	281764	الشارع الغربي - شارع جبع	residential	1	0	0	
+PS	281764	الشارع القبلي	residential	1	0	0	
+PS	281764	شارع الحمرات	residential	1	0	0	
+PS	281764	شارع القعدة	residential	1	0	0	
+PS	281764	شارع المدارس	tertiary	1	0	0	Seres Schools
+PS	281764	شارع سيريس	secondary	1	0	0	Seres
+PS	281764	شارع سيريس - ميثلون	secondary	1	0	0	Siris- Maithaloon
+PS	281764	شارع سيريس الرئيسي	secondary	1	0	0	Seres Main Street Road
+PS	281764	شارع سيريس الشمالي	tertiary	1	0	0	Seres Northern
+PS	281764	شارع صلاح الدين	residential	1	0	0	Sharia Salah Al-Din
+PS	281764	شارع عمر المختار	tertiary	1	0	0	Sharia Omar Al-Mukhtar
+PS	281773	Sair area	residential	1	0	0	
+PS	281778	Senjil	residential	1	0	0	
+PS	281789	Al-Mazra'a Al-Sharqiya	secondary	1	0	0	
+PS	281789	Dair Jreer	primary	1	0	0	
+PS	281789	Selwad	residential	1	0	0	
+PS	281789	Yabrod	tertiary	1	0	0	
+PS	281789	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	281790	חומש	tertiary	1	0	0	Homesh
+PS	281791	الطريق الرئيسي لعانين	primary	1	0	0	Main Road in Anen
+PS	281791	شارع حيفا	secondary	1	0	0	Sharia Haifa
+PS	281791	منطقة تعنك	residential	1	0	0	Ta'anak area
+PS	281793	Ash-Shifa	residential	1	0	0	
+PS	281793	Ashyoukh Main	residential	1	0	0	
+PS	281793	Az-Zuraqa	residential	1	0	0	
+PS	281793	Khallet El-Eis Attahta	residential	1	0	0	
+PS	281793	Khallet El-Eis El-Fouqa	residential	1	0	0	
+PS	281793	Khallet El-Foul	residential	1	0	0	
+PS	281793	Khirbet Tuqu - Sa'ir	secondary	1	0	0	
+PS	281793	Prince	residential	1	0	0	
+PS	281793	Qaffan	residential	1	0	0	
+PS	281793	Sa'ir - Beit 'Einun	secondary	1	0	0	
+PS	281793	Wadi Al-Hasa	residential	1	0	0	
+PS	281793	אמרי מרדכי	residential	1	0	0	Imrei Mordechai
+PS	281793	נחל עמוס	residential	1	0	0	Nachal Amos
+PS	281793	נחל ערוגות	residential	1	0	0	
+PS	281793	נחל קדם	residential	1	0	0	Nachal Kedem
+PS	281808	Nattufian Culture	tertiary	1	0	0	
+PS	281808	Shoqba	tertiary	1	0	0	
+PS	281808	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	281819	Sheikh Isa al-Burqaqi	tertiary	1	0	0	
+PS	281819	Sheikh Naser al-Burqawi	residential	1	0	0	
+PS	281872	האגוז	residential	1	0	0	HaEgoz
+PS	281872	הגלעד	residential	1	0	0	HaGilad
+PS	281872	הגפן	residential	1	0	0	HaGefen
+PS	281872	הזומרים	residential	1	0	0	
+PS	281872	החרמון	residential	1	0	0	HaHermon
+PS	281872	הכרמל	residential	1	0	0	HaCarmel
+PS	281872	הנוטרים	residential	1	0	0	HaNotrim
+PS	281872	הקוצרים	residential	1	0	0	
+PS	281872	הרימון	residential	1	0	0	HaRimon
+PS	281872	השומרים	residential	1	0	0	HaShomrim
+PS	281872	התמר	residential	1	0	0	HaTamar
+PS	281872	התפוח	residential	1	0	0	HaTapuakh
+PS	281951	Shebteen	residential	1	0	0	
+PS	281979	Sarta	residential	1	0	0	
+PS	281979	To fateh center	residential	1	0	0	
+PS	281982	Sarra - Tell	residential	1	0	0	
+PS	281997	Jarba	secondary	1	0	0	
+PS	281997	Sanoor Area	residential	1	0	0	
+PS	281997	Sanoor area	living_street	1	0	0	
+PS	281997	Sanur-Meithalun	secondary	1	0	0	
+PS	281997	sanoor area	tertiary	1	0	0	
+PS	281998	Al-Mdaries	residential	1	0	0	
+PS	281998	Al-Quba	residential	1	0	0	
+PS	281998	AlHara AlWosta	residential	1	0	0	
+PS	281998	AlMdares	residential	1	0	0	
+PS	281998	AlMjles	residential	1	0	0	
+PS	281998	Bab AlHwaya	residential	1	0	0	
+PS	281998	Isa al-Sanniri	tertiary	1	0	0	
+PS	281998	Khallat AlQasser	residential	1	0	0	
+PS	281998	MAIN	tertiary	1	0	0	
+PS	281998	Sanniriya	secondary	1	0	0	
+PS	281998	Sanniriya - Beit Amin	tertiary	1	0	0	
+PS	281998	Sanniriya - Mesha	residential	1	0	0	
+PS	282027	אודם	residential	1	0	0	Odem
+PS	282027	אנפה	residential	1	0	0	Anafa
+PS	282027	ברקת	tertiary	1	0	0	Bareket
+PS	282027	דרור	residential	1	0	0	Dror
+PS	282027	האלון	residential	1	0	0	HaAlon
+PS	282027	הברוש	residential	1	0	0	HaBrosh
+PS	282027	הזית	residential	1	0	0	HaZayit
+PS	282027	החרוב	residential	1	0	0	HaHaruv
+PS	282027	השקד	residential	1	0	0	HaShaked
+PS	282027	התאנה	residential	1	0	0	HaTeena
+PS	282027	ענבר	residential	1	0	0	Inbar
+PS	282027	עפרוני	residential	1	0	0	Efroni
+PS	282039	3rd Circle	secondary	1	0	0	
+PS	282039	Al Naqura	residential	1	0	0	
+PS	282039	Al-Madīnah Al-Munawwarah	secondary	1	0	0	
+PS	282039	Al-Madīnah al-Munawwarah	secondary	1	0	0	
+PS	282039	Al-Qassam	secondary	1	0	0	
+PS	282039	France	residential	1	0	0	
+PS	282039	Khirbet Qies	residential	1	0	0	
+PS	282039	Omar Bin Al Mokhtar	residential	1	0	0	
+PS	282039	Salfit	residential	1	0	0	
+PS	282039	Salfit - Farrakha	secondary	1	0	0	
+PS	282039	Salfit - Iskaka	secondary	1	0	0	
+PS	282039	Salfit - Khirbet Qais	tertiary	1	0	0	
+PS	282039	omar bin alkhatab	residential	1	0	0	
+PS	282039	zigag al ain	tertiary	1	0	0	
+PS	282039	الدوار الرابع	secondary	1	0	0	4th Circle
+PS	282039	دوار أبو حجلة	secondary	1	0	0	Abu Hijla Roundabout
+PS	282039	دوار الأسرى	secondary	1	0	0	
+PS	282039	دوار الاستقلال	secondary	1	0	0	Independence Circle
+PS	282039	دوار الشهداء	residential	1	0	0	
+PS	282039	دوار المرحوم حسن الزير	secondary	1	0	0	
+PS	282039	دوار عيسى عبد الجبار	secondary	1	0	0	
+PS	282039	سلفيت - اللبن الشرقية	tertiary	1	0	0	
+PS	282039	سلفيت - بروقين	secondary	1	0	0	
+PS	282039	شارع أبو بكر	residential	1	0	0	Abu Baker
+PS	282069	Bil'en	tertiary	1	0	0	
+PS	282069	Saffa	residential	1	0	0	
+PS	282108	Ijnisinya-Asira Ash Shamaliya	tertiary	1	0	0	
+PS	282119	تعنك - رمانة	tertiary	1	0	0	T'enik - Rumana
+PS	282119	رمانة -الطيبة	tertiary	1	0	0	
+PS	282119	زبوبة - رمانة	tertiary	1	0	0	Zbuba - Rumana
+PS	282140	Service	residential	1	0	0	
+PS	282185	Alshaheed Nofal	residential	1	0	0	
+PS	282185	Ras Karkar	residential	1	0	0	
+PS	282185	לשדה אפרים	residential	1	0	0	
+PS	282230	Naser Salem	residential	1	0	0	
+PS	282230	Rantees	residential	1	0	0	
+PS	282230	חוצה בנימין	primary	1	0	0	
+PS	282230	כיכר רנתיס	primary	1	0	0	
+PS	282234	Ramon	residential	1	0	0	
+PS	282234	Ramon Road	tertiary	1	0	0	
+PS	282234	ציר אלון	primary	1	0	0	Allon Road
+PS	282234	שדרות הרימון	secondary	1	0	0	
+PS	282237	Nablus-Tulkarm Road	primary	1	0	0	
+PS	282237	Old Afula-Nablus Railway	tertiary	1	0	0	
+PS	282239	شارع القدس	secondary	5	4	2426	Sharia Al-Quds
+PS	282239	University St		4	21	27	
+PS	282239	Al-Ersal Street شارع الارسال		3	4	9725	
+PS	282239	Al kuleyah Al Ahlela Street		2	13	35	
+PS	282239	Jabra Ibrahim جبرا ابراهيم		2	14	16	
+PS	282239	شارع النزهة	tertiary	2	12	24	Sharia Al-Nozha
+PS	282239	Abu Dhabi	tertiary	1	0	0	
+PS	282239	Abu Qash	residential	1	0	0	
+PS	282239	Abu Salma	residential	1	0	0	
+PS	282239	Adele Azar	residential	1	0	0	
+PS	282239	Ahmad Isswai	residential	1	0	0	
+PS	282239	Ahmad issawi	residential	1	0	0	
+PS	282239	Ajnadeyeen Street;Al-Yarmouk	residential	1	0	0	
+PS	282239	Akka	residential	1	0	0	
+PS	282239	Al Farabi	residential	1	0	0	
+PS	282239	Al Kawakibi	residential	1	0	0	
+PS	282239	Al Kuleyah Al Ahlela	residential	1	0	0	
+PS	282239	Al Ma'rad	residential	1	0	0	
+PS	282239	Al Manarah دوار المنارة	secondary	1	0	0	
+PS	282239	Al Mustakbal	residential	1	0	0	
+PS	282239	Al Mutanabbi	residential	1	0	0	
+PS	282239	Al Quds Open	residential	1	0	0	
+PS	282239	Al Ram	residential	1	0	0	
+PS	282239	Al Safa	unclassified	1	0	0	
+PS	282239	Al Shoubak	unclassified	1	0	0	
+PS	282239	Al kuleyah Al Ahlela	residential	1	0	0	
+PS	282239	Al sharaqah	residential	1	0	0	
+PS	282239	Al-Ahli Hospital	tertiary	1	0	0	
+PS	282239	Al-Amaari	residential	1	0	0	
+PS	282239	Al-Anbeya (Prophets)	residential	1	0	0	
+PS	282239	Al-Baladiya	residential	1	0	0	
+PS	282239	Al-Barreyeh	unclassified	1	0	0	
+PS	282239	Al-Basrah	residential	1	0	0	
+PS	282239	Al-Farabi	residential	1	0	0	
+PS	282239	Al-Injileyeh	residential	1	0	0	
+PS	282239	Al-Kuleyah Al-Ahlela	residential	1	0	0	
+PS	282239	Al-Manfaloti	tertiary	1	0	0	
+PS	282239	Al-Quds	tertiary	1	0	0	
+PS	282239	Al-Saferia	residential	1	0	0	
+PS	282239	Al-Teereh St. شارع الطيرة	secondary	1	0	0	Al-Teereh
+PS	282239	Al-Yarmouk	residential	1	0	0	
+PS	282239	Al-Zahra	residential	1	0	0	
+PS	282239	Alateeq	residential	1	0	0	
+PS	282239	Almahata	residential	1	0	0	
+PS	282239	Almasajed	residential	1	0	0	
+PS	282239	Alreehan Street;Abu Qash	tertiary	1	0	0	
+PS	282239	Aram Khatchaturian	residential	1	0	0	
+PS	282239	As'ad Sam'an Jaghab	residential	1	0	0	
+PS	282264	Rafat	residential	1	0	0	
+PS	282264	rafat	residential	1	0	0	
+PS	282264	طريق رافات - دير بلوط	secondary	1	0	0	Rafat - Deir Blut Road
+PS	282265	شارع المسجد	residential	1	0	0	
+PS	282278	Farhaneh area	residential	1	0	0	
+PS	282278	Farhaneh area in Raba	residential	1	0	0	
+PS	282278	Main Street to Raba	tertiary	1	0	0	
+PS	282278	Raba area	residential	1	0	0	
+PS	282278	raba area	tertiary	1	0	0	
+PS	282283	הגליל	residential	2	2	14	
+PS	282283	ארבל	residential	1	0	0	
+PS	282283	דרך גדעון	secondary	1	0	0	Derekh Gidon
+PS	282283	הגלעד	residential	1	0	0	
+PS	282283	הערבה	residential	1	0	0	
+PS	282283	חרמון	residential	1	0	0	
+PS	282283	כרם	tertiary	1	0	0	Kerem
+PS	282283	כרמל	residential	1	0	0	
+PS	282283	סמדר	residential	1	0	0	Smadar
+PS	282283	תבור	residential	1	0	0	
+PS	282284	بيت وزن	tertiary	1	0	0	
+PS	282342	qeera	residential	1	0	0	
+PS	282342	قيرة	tertiary	1	0	0	
+PS	282353	אריאל	residential	1	0	0	Ariel
+PS	282353	ברכה	residential	1	0	0	Bracha
+PS	282353	ברקת	residential	1	0	0	Bareket
+PS	282353	גלעד	residential	1	0	0	Gilad
+PS	282353	גריזים	residential	1	0	0	Grizim
+PS	282353	הגיתית	residential	1	0	0	HaGitit
+PS	282353	היובל	tertiary	1	0	0	HaYovel
+PS	282353	הכינור	residential	1	0	0	HaKinor
+PS	282353	הנבל	residential	1	0	0	Hanevel
+PS	282353	העשור	residential	1	0	0	HaAsor
+PS	282353	הקרן	residential	1	0	0	HaKeren
+PS	282353	חלקת השדה	residential	1	0	0	Helkat Ha'Sadeh
+PS	282354	אור	residential	1	0	0	
+PS	282354	אחדות	residential	1	0	0	
+PS	282354	אחווה	residential	1	0	0	Achva
+PS	282354	הזית	residential	1	0	0	HaZayit
+PS	282354	השחר	residential	1	0	0	HaShahar
+PS	282354	זריחה	tertiary	1	0	0	
+PS	282354	עדן	residential	1	0	0	Eden
+PS	282354	קשת	residential	1	0	0	Keshet
+PS	282354	רעות	residential	1	0	0	Reut
+PS	282376	Al-Mena'ak Road	residential	1	0	0	
+PS	282376	Al-Qubeibah - Al-Khirbah	tertiary	1	0	0	
+PS	282376	Al-Qubeibah - Beit Anan	tertiary	1	0	0	
+PS	282376	Al-Qubeibah - Qatannah	tertiary	1	0	0	
+PS	282376	Al-Ras Road	residential	1	0	0	
+PS	282376	מבוא הכפר	residential	1	0	0	Mavo HaKfar
+PS	282376	נוף הרים	tertiary	1	0	0	Nof Harim
+PS	282423	Jalud - Telfit	tertiary	1	0	0	
+PS	282423	Qaryut - Jalud	tertiary	1	0	0	
+PS	282423	אבני החושן	residential	1	0	0	Avnei HaHoshen
+PS	282423	אגוז	residential	1	0	0	Egoz
+PS	282423	אורים ותומים	residential	1	0	0	
+PS	282423	אחיה	residential	1	0	0	
+PS	282423	ארון הברית	residential	1	0	0	
+PS	282423	דרך גדעון	secondary	1	0	0	Derekh Gidon
+PS	282423	דרך עצי שיטים	residential	1	0	0	
+PS	282423	האפוד	residential	1	0	0	
+PS	282423	הארז	residential	1	0	0	HaErez
+PS	282423	הגפן	residential	1	0	0	Gefen
+PS	282431	הגפן	tertiary	19	3	42	HaGefen
+PS	282431	Kafr Laqif	residential	1	0	0	
+PS	282431	אודם	residential	1	0	0	Odem
+PS	282431	אלון	tertiary	1	0	0	Alon
+PS	282431	ברקת	residential	1	0	0	Bareket
+PS	282431	דן	residential	1	0	0	Dan
+PS	282431	דפנה	residential	1	0	0	Dafna
+PS	282431	דרגות	residential	1	0	0	Dragot
+PS	282431	האורנים	tertiary	1	0	0	HaOranim
+PS	282431	הארז	residential	1	0	0	HaErez
+PS	282431	הבשור	residential	1	0	0	HaBsor
+PS	282431	הגיתית	tertiary	1	0	0	HaGitit
+PS	282431	הדקל	residential	1	0	0	HaDekel
+PS	282431	ההדס	residential	1	0	0	HaHadas
+PS	282431	החלילים	residential	1	0	0	Ha'Halilim
+PS	282431	הנבל	residential	1	0	0	Ha'Nevel
+PS	282431	הנחל	residential	1	0	0	HaNahal
+PS	282431	העוגב	residential	1	0	0	Ha'Ugav
+PS	282431	הערבה	residential	1	0	0	HaArava
+PS	282431	הפעמון	residential	1	0	0	HaPaamon
+PS	282431	הצלילים	residential	1	0	0	Ha'Tzlilim
+PS	282431	הצפצפה	tertiary	1	0	0	Hazafzfa
+PS	282431	הרימון	residential	1	0	0	HaRimon
+PS	282431	התמר	residential	1	0	0	HaTamar
+PS	282438	al qarawa	tertiary	1	0	0	
+PS	282438	to bruqin	tertiary	1	0	0	
+PS	282438	طريق قراوة بني زيد - فرخة	secondary	1	0	0	Qarawat Bani Zaid - Farrakha
+PS	282438	مزارع النوباني	tertiary	1	0	0	Mazare' Alnobani
+PS	282439	al jehad	residential	1	0	0	
+PS	282439	התפוז	residential	1	0	0	
+PS	282457	AlSabe' St		8	1	9294	
+PS	282457	شارع الواد	secondary	3	568	5687	Sharia Al-Wad
+PS	282457	Alwad St		2	568	9294	
+PS	282457	شارع نابلس	secondary	2	123	929	Sharia Nablus
+PS	282457	Abu Bakr As-Siddiq	residential	1	0	0	
+PS	282457	Ahmad Ibn Hanbal	residential	1	0	0	
+PS	282457	Al Yasmeen	residential	1	0	0	
+PS	282457	Al-Ahram	residential	1	0	0	
+PS	282457	Al-Basheer	residential	1	0	0	
+PS	282457	Al-Tarbbiye	tertiary	1	0	0	
+PS	282457	Ar-Rawdatain	residential	1	0	0	
+PS	282457	Ar-Rida	residential	1	0	0	
+PS	282457	As-Sa'adah	tertiary	1	0	0	
+PS	282457	As-Salam	residential	1	0	0	
+PS	282457	Hablah	secondary	1	0	0	
+PS	282457	Hebron	residential	1	0	0	
+PS	282457	Ibn Sina	residential	1	0	0	
+PS	282457	Jaljulya	secondary	1	0	0	
+PS	282457	Middle East	residential	1	0	0	
+PS	282457	Nablus	residential	1	0	0	
+PS	282457	Naji Husein Nazzal	tertiary	1	0	0	
+PS	282457	Nile	residential	1	0	0	
+PS	282457	Omar Al-Mukhtar	residential	1	0	0	
+PS	282457	אבני החושן	residential	1	0	0	Avnei HaHoshen
+PS	282457	אבני חן	residential	1	0	0	Avnei Hen
+PS	282457	אגוז	residential	1	0	0	Egoz
+PS	282457	אגמית	living_street	1	0	0	Agamit
+PS	282457	אודם	living_street	1	0	0	Odem
+PS	282457	אפולוניה	residential	1	0	0	Apollonia
+PS	282457	ארבל	living_street	1	0	0	Arbel
+PS	282457	אתרוג	residential	1	0	0	Etrog
+PS	282457	בוסתן אבו סניני	residential	1	0	0	Bustan Abu Sneneh
+PS	282457	בזלת	residential	1	0	0	Bazelet
+PS	282457	בזק	living_street	1	0	0	Bazak
+PS	282457	ברוש	living_street	1	0	0	Brosh
+PS	282457	ברקת	living_street	1	0	0	Bareket
+PS	282457	בשור	living_street	1	0	0	Bessor
+PS	282457	גבעון	living_street	1	0	0	Givon
+PS	282457	גילגל	living_street	1	0	0	Gilgal
+PS	282457	גפן	residential	1	0	0	Gefen
+PS	282457	גרניט	residential	1	0	0	Granit
+PS	282457	דב לאוטמן	tertiary	1	0	0	Dov Lautman
+PS	282457	דפנה	residential	1	0	0	Dafna
+PS	282457	דרך אפק	residential	1	0	0	Derech Afek
+PS	282457	דרך דרום השרון	tertiary	1	0	0	Derech Drom HaSharon
+PS	282457	דרך המלך	residential	1	0	0	Derekh HaMelekh
+PS	282457	דרך משק האוצר	unclassified	1	0	0	Meshek Ha'Otsar
+PS	282457	הדס	residential	1	0	0	Hadas
+PS	282463	An Nazla Ash Sharqiya - An Nazla Al Wusta	unclassified	1	0	0	
+PS	282463	Imreiha -Nazlat Abu Nar	primary	1	0	0	
+PS	282463	כביש שירות - גדר ההפרדה	unclassified	1	0	0	Military Road
+PS	282476	Jenin	residential	1	0	0	
+PS	282476	Kabatya	tertiary	1	0	0	
+PS	282476	Main Road Of American University	tertiary	1	0	0	
+PS	282476	Main street to Meslia	secondary	1	0	0	
+PS	282476	Main street to Qabatia	tertiary	1	0	0	
+PS	282476	Main way Between Villages	secondary	1	0	0	
+PS	282476	Merka area	tertiary	1	0	0	
+PS	282476	To Jenin City	residential	1	0	0	
+PS	282476	شارع أبو زيد	primary	1	0	0	Abu Zaid
+PS	282477	הירדן	residential	1	0	0	HaYarden
+PS	282477	الشارع الرئيسي	tertiary	1	0	0	
+PS	282477	شارع الاتصالات	residential	1	0	0	
+PS	282482	נבו	residential	36	2	46	Nevo
+PS	282482	סיני	residential	23	2	36	Sinai
+PS	282482	הר ההר	residential	22	2	45	Hor HaHar
+PS	282482	חורב	residential	14	1	35	Horev
+PS	282482	עצמון	residential	10	1	18	Atzmon
+PS	282482	תבור	residential	8	2	20	Tavor
+PS	282482	גריזים	residential	5	1	13	Grizim
+PS	282482	כרמל		5	42	50	
+PS	282482	פארן	residential	5	1	9	Paran
+PS	282485	Arava		2	1	2	
+PS	282485	אור עולם	tertiary	1	0	0	Or Olam
+PS	282485	אלה	residential	1	0	0	Ela
+PS	282485	אלון	residential	1	0	0	Alon
+PS	282485	בית אל	residential	1	0	0	Beit El
+PS	282485	ברוש	residential	1	0	0	Brosh
+PS	282485	דובדבן	residential	1	0	0	Duvdevan
+PS	282485	דפנה	residential	1	0	0	Dafna
+PS	282485	הר המור	tertiary	1	0	0	Har Hamor
+PS	282485	יפה נוף	residential	1	0	0	Yefe Nof
+PS	282485	כביש גישה לפדואל	tertiary	1	0	0	
+PS	282485	לוטם	residential	1	0	0	Lotem
+PS	282489	Ein Yabrod	residential	1	0	0	
+PS	282489	Selwad	primary	1	0	0	
+PS	282489	אעלה בתמר	unclassified	1	0	0	Eele BaTamar
+PS	282489	אפיקי מים	residential	1	0	0	Afikei Maim
+PS	282489	בינה ודעת	residential	1	0	0	
+PS	282489	בית היין	residential	1	0	0	Bet HaYain
+PS	282489	בנות ירושלים	residential	1	0	0	Bnot Yerushalaim
+PS	282489	בני יעקב	tertiary	1	0	0	Bnei Yaakov
+PS	282489	גד	residential	1	0	0	Gad
+PS	282489	גינת אגוז	residential	1	0	0	Ginat Egoz
+PS	282489	דינה	residential	1	0	0	Dina
+PS	282489	דן	residential	1	0	0	Dan
+PS	282529	Nileen		3	569	598	
+PS	282529	Al-Dhuheyria	residential	1	0	0	
+PS	282529	Al-Mumin	residential	1	0	0	
+PS	282529	Amin al-Khawaja	tertiary	1	0	0	
+PS	282529	Amira	residential	1	0	0	
+PS	282529	Beit Arif	residential	1	0	0	
+PS	282529	Deir Abu Salama	residential	1	0	0	
+PS	282529	Musa	residential	1	0	0	
+PS	282529	Nofal	residential	1	0	0	
+PS	282529	Sroor Street	residential	1	0	0	
+PS	282536	אלוני ממרא	residential	37	3	45	Alonei Mamre
+PS	282536	אפרתה	residential	1	0	0	Efrata
+PS	282536	בריכות שלמה	residential	1	0	0	Breichot Shlomo
+PS	282536	דרך האבות	residential	1	0	0	Derekh HaAvot
+PS	282536	האבות	residential	1	0	0	HaAvot
+PS	282536	המוריה	tertiary	1	0	0	HaMoriya
+PS	282536	הרי יהודה	tertiary	1	0	0	Harei Yehuda
+PS	282536	חוות כהן	residential	1	0	0	Havat Cohen
+PS	282536	כיכר אלי שטיינברג	tertiary	1	0	0	Eli Steinberg
+PS	282536	מגדל עדר	residential	1	0	0	Migdal Eder
+PS	282536	נוף הרודיון	residential	1	0	0	Nof Herodion
+PS	282536	נחל אשכול	tertiary	1	0	0	Nahal Eshkol
+PS	282593	Al Sohad	residential	1	0	0	
+PS	282593	she`ab Al Arab	residential	1	0	0	
+PS	282593	شارع النهضة	residential	1	0	0	Sharia Al-Nahda
+PS	282595	ארזי שלמה	residential	1	0	0	
+PS	282595	ארץ הצבי	residential	1	0	0	
+PS	282595	האלה	residential	1	0	0	
+PS	282595	הבוסתן	residential	1	0	0	
+PS	282595	הל"ה	residential	1	0	0	
+PS	282595	המייסדים	residential	1	0	0	
+PS	282595	המעיינות	residential	1	0	0	
+PS	282595	חכלילי	residential	1	0	0	
+PS	282595	מגדל עדר	residential	1	0	0	
+PS	282595	נחל נובע	residential	1	0	0	
+PS	282595	פרי הארץ	residential	1	0	0	
+PS	282595	צורף	residential	1	0	0	
+PS	282615	ירושלים	tertiary	43	6	54	Jerusalem
+PS	282615	איתן	tertiary	42	4	53	Eitan
+PS	282615	קשתי	residential	27	5	39	
+PS	282615	קדם	residential	25	3	47	Kedem
+PS	282615	מגדים		19	7	43	
+PS	282615	חברון	residential	15	1	19	Hebron
+PS	282615	Rafedya Street		8	3	923	
+PS	282615	אבן ישראל	residential	8	1	14	
+PS	282615	ברכת יוסף	tertiary	8	1	24	
+PS	282615	הדר		7	1	10	
+PS	282615	עלי עין	residential	7	1	9	
+PS	282615	הגלעד	residential	6	2	12	HaGilad
+PS	282615	שערי ברכה		6	1	11	
+PS	282615	Sufyan Street		5	97	923	
+PS	282615	شارع اجياد		5	923	923	
+PS	282615	הרב איתמר יוסף בן גל	residential	4	3	9	
+PS	282615	קריית הישיבה		4	1	8	
+PS	282615	Al-Adel Street		3	122	598	
+PS	282615	Old Najah Street		3	0	0	
+PS	282615	Samaritan		3	5	4483	
+PS	282615	צפנת פענח	residential	3	5	9	
+PS	282615	Al-Razi Street		2	923	923	
+PS	282615	Extension Of Al-Sekah Street		2	9709	9709	
+PS	282615	Haifa Street		2	97	923	
+PS	282615	Hitteen Street		2	598	599	
+PS	282615	Sufian Street		2	3	599	
+PS	282615	شارع الاتحاد	residential	2	2	9	
+PS	282615	شارع الملك فيصل	secondary	2	923	2385	King Faisal Street
+PS	282615	شارع رفيديا	secondary	2	923	923	Rafedya
+PS	282615	16 th	residential	1	0	0	
+PS	282615	AL-Mrej	residential	1	0	0	
+PS	282615	Ajnadeen	residential	1	0	0	
+PS	282615	Al-Ayoubiyeen	residential	1	0	0	
+PS	282615	Al-Mustashfa	residential	1	0	0	
+PS	282615	Al-Sheikh Mohammad Tuffaha	residential	1	0	0	
+PS	282615	Baba Rabba	residential	1	0	0	
+PS	282615	Bethel	residential	1	0	0	
+PS	282615	Eli	residential	1	0	0	
+PS	282615	Ibn Sina	residential	1	0	0	
+PS	282615	Ibrahim Asad Al-Dweikat	residential	1	0	0	
+PS	282615	Ibrahim Hashim	residential	1	0	0	
+PS	282615	Ijnisinya-Asira Ash Shamaliya	tertiary	1	0	0	
+PS	282615	Joshua ben Nun	residential	1	0	0	
+PS	282615	King Talal Street	residential	1	0	0	
+PS	282615	Madama - Asira Al Qibliya	unclassified	1	0	0	
+PS	282615	Moshe b. 'Amram	tertiary	1	0	0	
+PS	282615	Mujeer Al-Deen	residential	1	0	0	
+PS	282615	Omar Al-Mukhtar	residential	1	0	0	
+PS	282615	Phinehas	residential	1	0	0	
+PS	282615	Prince Mohammad	residential	1	0	0	
+PS	282615	Private	unclassified	1	0	0	
+PS	282615	Sanballat	residential	1	0	0	
+PS	282615	Sarra - Tell	tertiary	1	0	0	
+PS	282615	Service	residential	1	0	0	
+PS	282615	Sharia Al-Adel	residential	1	0	0	
+PS	282615	Steet Go to Tal And Iraq Buren	tertiary	1	0	0	
+PS	282615	Street Go to Tal And Iraq Buren	residential	1	0	0	
+PS	282615	Sufian	residential	1	0	0	
+PS	282615	Sufyan	tertiary	1	0	0	
+PS	282615	Tal't Al-Toor	tertiary	1	0	0	
+PS	282615	Temple Road	residential	1	0	0	
+PS	282615	The Great Priests	residential	1	0	0	
+PS	282615	Tribes of Israel	residential	1	0	0	
+PS	282615	Tunis	secondary	1	0	0	
+PS	282615	בשן	residential	1	0	0	Bashan
+PS	282615	גלעד	residential	1	0	0	Gilad
+PS	282615	חרמון	residential	1	0	0	Hermon
+PS	282615	כנסת ישראל	residential	1	0	0	Knesset Israel
+PS	282615	מוריה	residential	1	0	0	Moriya
+PS	282615	מצפה שלם	residential	1	0	0	
+PS	282615	משעול המור	residential	1	0	0	Mishol HaMor
+PS	282615	נצח ישראל	residential	1	0	0	Netzah Israel
+PS	282615	סיני	residential	1	0	0	Sinai
+PS	282615	צל-הרים	residential	1	0	0	Tsel-Harim
+PS	282615	שמונה עליות	tertiary	1	0	0	Shemona Aliot
+PS	282615	שניר	residential	1	0	0	Snir
+PS	282615	أراضي بيت وزن / فلل شقو	residential	1	0	0	
+PS	282615	اسكان الأطباء	residential	1	0	0	
+PS	282615	اسكان المهندسين المخفية	residential	1	0	0	
+PS	282615	الأرصاد	residential	1	0	0	
+PS	282615	الأسكان الفلسطيني	residential	1	0	0	
+PS	282615	الاطفائية	residential	1	0	0	
+PS	282615	التعاون العلوي	residential	1	0	0	Upper collab
+PS	282615	الروافد	living_street	1	0	0	
+PS	282615	السوق الشرقي	living_street	1	0	0	The Eastern Market (As-Suq Al-Sharqi)
+PS	282615	الشارع الالتفافي / طريق عصيرة الشمالية	residential	1	0	0	
+PS	282615	الشارع الرئيسي --وسط البلد مقابل محلات الحج عبود جرارعه	tertiary	1	0	0	
+PS	282615	الطور	residential	1	0	0	
+PS	282615	الطور / دخلة سقف الحيط	residential	1	0	0	
+PS	282615	الطور / سكن القاهرة عمان	residential	1	0	0	
+PS	282615	العامرية	residential	1	0	0	
+PS	282615	المجمع الشرقي	residential	1	0	0	
+PS	282615	المخفية	residential	1	0	0	
+PS	282615	المخفية / الشارع الفوقاني	residential	1	0	0	
+PS	282615	المخفية فوق الحاووز	residential	1	0	0	
+PS	282615	المركز التجاري	residential	1	0	0	
+PS	282615	المعاجين	residential	1	0	0	
+PS	282615	امتداد السكة	residential	1	0	0	
+PS	282615	امتداد شارع الحسبة	tertiary	1	0	0	
+PS	282615	امتداد شارع السكة	residential	1	0	0	Extension Of Al-Sekah
+PS	282740	Meslia	residential	1	0	0	
+PS	282746	Merka area	residential	1	0	0	
+PS	282772	גן אור	residential	1	0	0	Gan Or
+PS	282772	גנים	residential	1	0	0	Ganim
+PS	282772	הנביאים	residential	1	0	0	HaNeviim
+PS	282772	התעשייה	tertiary	1	0	0	
+PS	282772	חומש	residential	1	0	0	Homesh
+PS	282772	יפה נוף	residential	1	0	0	Yefe Nof
+PS	282772	כדים	residential	1	0	0	
+PS	282772	ככר הרב מדרכי אליהו	tertiary	1	0	0	
+PS	282772	ככר הרב עוזיאל	living_street	1	0	0	
+PS	282772	ככר שלום עצאר	tertiary	1	0	0	
+PS	282772	ככר שמעון מאיר	secondary	1	0	0	
+PS	282772	כפר דרום	residential	1	0	0	Kfar Darom
+PS	282783	Arora	residential	1	0	0	
+PS	282783	Masqat	residential	1	0	0	
+PS	282783	Mazare' Alnobani	residential	1	0	0	
+PS	282783	خربة قيس - مزارع النوباني	tertiary	1	0	0	
+PS	282783	طريق خربة قيس - مزارع النوباني	tertiary	1	0	0	
+PS	282783	طريق فرعي	unclassified	1	0	0	
+PS	282783	طريق فرعي - للمشاة	residential	1	0	0	
+PS	282783	طريق للمشاة	residential	1	0	0	
+PS	282783	مزارع النوباني	tertiary	1	0	0	Mazare' Alnobani
+PS	282793	Abu Ali Mustafa	secondary	1	0	0	
+PS	282793	Abu Khalid	residential	1	0	0	
+PS	282793	Abu Mhalla	residential	1	0	0	
+PS	282793	Abu Mhallah	residential	1	0	0	
+PS	282793	Al Anbarat	residential	1	0	0	
+PS	282793	Al Bayadir	residential	1	0	0	
+PS	282793	Al Gharaba	residential	1	0	0	
+PS	282793	Al Harayeq	residential	1	0	0	
+PS	282793	Al Hashash	residential	1	0	0	
+PS	282793	Al Jadeeda	residential	1	0	0	
+PS	282793	Al Khibrbeh	residential	1	0	0	
+PS	282793	Al Lawaween	residential	1	0	0	
+PS	282793	Al Madabi'	residential	1	0	0	
+PS	282793	Al Mahader	residential	1	0	0	
+PS	282793	Al Qsoub	residential	1	0	0	
+PS	282793	An Nabi Mathal	residential	1	0	0	
+PS	282793	Ar Rass	residential	1	0	0	
+PS	282793	As Sarab	residential	1	0	0	
+PS	282793	As Suweihel	residential	1	0	0	
+PS	282793	Ash Shari' Al Janoubi	secondary	1	0	0	
+PS	282793	Ash Sharwat	residential	1	0	0	
+PS	282793	Ash Shatt	residential	1	0	0	
+PS	282793	Ash Shuhada (Martyrs)	secondary	1	0	0	
+PS	282793	Az Zawyeh	residential	1	0	0	
+PS	282837	Mesha	residential	1	0	0	
+PS	282837	masha	residential	1	0	0	
+PS	282837	השקמה	residential	1	0	0	HaShikma
+PS	282837	طريق مسحة - الزاوية	secondary	1	0	0	Mesha - az-Zawya Road
+PS	282872	Marda	residential	1	0	0	
+PS	282872	To tank	residential	1	0	0	
+PS	282872	mardas villeges	residential	1	0	0	
+PS	282941	Majdal Bani Fadil	secondary	1	0	0	
+PS	282941	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	282988	אריאל	residential	1	0	0	Ariel
+PS	282988	דרך השלום	tertiary	1	0	0	Derekh HaShalom
+PS	282988	האורן	residential	1	0	0	HaOren
+PS	282988	האחווה	residential	1	0	0	Ha'Achva
+PS	282988	הגפן	residential	1	0	0	HaGefen
+PS	282988	הדביר	residential	1	0	0	Ha'Dvir
+PS	282988	המוריה	residential	1	0	0	HaMoriya
+PS	282988	הראל	residential	1	0	0	Harel
+PS	282988	ידידיה	residential	1	0	0	
+PS	282988	יפה נוף	residential	1	0	0	Yefe Nof
+PS	282988	כליל החורש	residential	1	0	0	Klil HaHoresh
+PS	282988	כלילת יופי	residential	1	0	0	Klilat Yofi
+PS	282991	בני אפרים	residential	1	0	0	Bney Efrayim
+PS	282991	גאון הירדן	residential	1	0	0	Geon HaYarden
+PS	282991	הגלעד	residential	1	0	0	HaGilad
+PS	282991	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	282991	מבוא הבושם	residential	1	0	0	Mevo HaBosem
+PS	282991	מנשה	residential	1	0	0	Menashe
+PS	282991	משואה	residential	1	0	0	Masua
+PS	282993	מצפה נבו	residential	46	23	110	Mizpe Nevo
+PS	282993	החצוצרה	tertiary	6	1	6	HaHatzotzra
+PS	282993	הנחלים	residential	5	10	770	HaNehalim
+PS	282993	הגיתית	tertiary	4	39	44	HaGitit
+PS	282993	הבדולח	residential	3	27	31	HaBdolach
+PS	282993	דרך קדם	secondary	2	6	6	Derech Kedem
+PS	282993	הכינור	tertiary	2	11	12	HaKinor
+PS	282993	הרכס	residential	2	31	31	HaRekhes
+PS	282993	השיטה	residential	2	28	30	HaShita
+PS	282993	אוגדה	residential	1	0	0	Ugda
+PS	282993	אופירה	residential	1	0	0	Ofira
+PS	282993	איבי הנחל	residential	1	0	0	Eivei Ha'Nahal
+PS	282993	איתם	residential	1	0	0	Etam
+PS	282993	גבעת המייסדים	residential	1	0	0	Givat HaMeyasdim
+PS	282993	דוגית	residential	1	0	0	Dugit
+PS	282993	די זהב	residential	1	0	0	Di Zahav
+PS	282993	דרך פרת	residential	1	0	0	Derech Perat
+PS	282993	האבן	residential	1	0	0	HaEven
+PS	282993	האזוב	residential	1	0	0	HaEzov
+PS	282993	האלה	residential	1	0	0	HaEla
+PS	282993	האשל	residential	1	0	0	HaEshel
+PS	282993	הגומא	residential	1	0	0	HaGome
+PS	282993	הגזית	residential	1	0	0	HaGazit
+PS	282993	הגיא	tertiary	1	0	0	HaGai
+PS	282993	הגעש	residential	1	0	0	HaGaash
+PS	282993	הדקל	residential	1	0	0	HaDekel
+PS	282993	החליל	tertiary	1	0	0	HaHalil
+PS	282993	החלמיש	residential	1	0	0	HaHalamish
+PS	282993	החרסית	residential	1	0	0	HaHarsit
+PS	282993	הכרכום	residential	1	0	0	HaKarkom
+PS	282993	המיתנן	residential	1	0	0	HaMitnan
+PS	282993	המרווה	residential	1	0	0	HaMarva
+PS	282993	הסוף	residential	1	0	0	HaSuf
+PS	282993	העוגב	residential	1	0	0	HaUgav
+PS	282993	העירית	residential	1	0	0	HaIrit
+PS	282993	הערבה	residential	1	0	0	HaArava
+PS	282993	העשור	residential	1	0	0	HaAsor
+PS	282993	הפעמון	residential	1	0	0	HaPaamon
+PS	282993	הפרג	residential	1	0	0	Ha'Pereg
+PS	282993	הצילצל	residential	1	0	0	HaTziltzel
+PS	282993	הציפחה	residential	1	0	0	HaZipha
+PS	282993	הצפצפה	residential	1	0	0	HaTsaftsafa
+PS	282993	הקנה	residential	1	0	0	HaKana
+PS	282993	הקרן	residential	1	0	0	HaKeren
+PS	282993	הר גדור	residential	1	0	0	Har Gador
+PS	282993	הר הבית	secondary	1	0	0	Har HaBait
+PS	282993	הר הצופים	secondary	1	0	0	Har HaTsofim
+PS	282993	הר מיכוור	residential	1	0	0	Har Michvar
+PS	282997	גבעת הלבונה	tertiary	1	0	0	Givat HaLevona
+PS	282997	דרך י"ד באלול	tertiary	1	0	0	Derech 14 B'Elul
+PS	282997	הורד	residential	1	0	0	HaVered
+PS	282997	הכינור	residential	1	0	0	HaKinor
+PS	282997	הכלנית	tertiary	1	0	0	HaKalanit
+PS	282997	הכרכום	residential	1	0	0	HaKarkom
+PS	282997	הלילך	residential	1	0	0	HaLilac
+PS	282997	המור	residential	1	0	0	HaMor
+PS	282997	העשור	residential	1	0	0	HaAsor
+PS	282997	הקטורת	tertiary	1	0	0	HaKetoret
+PS	282997	הרקפת	residential	1	0	0	HaRakefet
+PS	282997	קנמון	residential	1	0	0	
+PS	283040	to ya'bad (main street)	secondary	1	0	0	
+PS	283046	אהבת ישראל	residential	30	3	70	Ahavat Israel
+PS	283046	אהבת אמת	residential	26	6	37	Ahavat Emet
+PS	283046	מקור ברוך	residential	22	2	23	Mekor Baruch
+PS	283046	אפיקי מים	residential	20	300	319	Afikei Mayim
+PS	283046	שמחת עולם	residential	19	202	220	Simhat Olam
+PS	283046	חגווי הסלע	residential	18	385	402	Chagvay Hasela
+PS	283046	הר המור	residential	15	370	384	Har Hamor
+PS	283046	קול התור	residential	13	358	369	Kol Hator
+PS	283046	פרדס רימונים	residential	11	337	347	Pardes Timonim
+PS	283046	דבש וחלב	residential	10	348	357	Dvash Vechalav
+PS	283046	עצי הלבנון	residential	10	327	336	Atzay Halevanon
+PS	283046	משכנות הרועים	residential	8	201	326	Mishkanot Haroim
+PS	283046	קהילות יעקב	residential	5	1	9	Kehilot Yaakov
+PS	283046	Mekhmas	tertiary	1	0	0	
+PS	283046	אבירי יעקב	residential	1	0	0	Abirei Yaakov
+PS	283046	אבני חפץ	residential	1	0	0	Avnei Hefets
+PS	283046	אגן הסהר	residential	1	0	0	Agan Hasahar
+PS	283046	אהבת שלום	residential	1	0	0	Ahavat Shalom
+PS	283046	אור חדש	residential	1	0	0	Or Khadash
+PS	283046	דרך כוכב יעקב	tertiary	1	0	0	Derekh Kokhav Yaakov
+PS	283046	חמדת יצחק	pedestrian	1	0	0	
+PS	283046	חסדי אבות	residential	1	0	0	Hasdei Avot
+PS	283046	טירת כסף	residential	1	0	0	Tirat Hakesef
+PS	283046	טל אורות	residential	1	0	0	Tal Orot
+PS	283055	Kafil haris	residential	1	0	0	
+PS	283055	kafil hairth area	residential	1	0	0	
+PS	283055	طريق كفل حارس - دير استيا	secondary	1	0	0	
+PS	283071	البويرة	residential	1	0	0	
+PS	283076	واد النيص- ام سلمة	residential	1	0	0	Wadi An-Nis - Umm Salamuna
+PS	283077	כביש שירות - גדר ההפרדה	unclassified	1	0	0	Military Road
+PS	283077	طريق العسكري	unclassified	1	0	0	Military Road
+PS	283096	شارع خربة قلقاس	residential	1	0	0	Khirbat Qalqas
+PS	283099	Al 'Alaqa Al-Fauqa -Imreish	secondary	1	0	0	
+PS	283099	As Sura - Imreish	secondary	1	0	0	
+PS	283101	شارع المنطقة الصناعية	tertiary	1	0	0	Industrial Area
+PS	283101	شارع خلة مزهر	tertiary	1	0	0	Khallet Mezher
+PS	283101	مرح رباح - وادي محمد	tertiary	1	0	0	Marah Rabah - Wadi Mohammad
+PS	283106	alalaka street شارع وادي العلقه	unclassified	1	0	0	
+PS	283106	طريق الضاهرية-الخليل	secondary	1	0	0	
+PS	283120	גוש קטיף	residential	1	0	0	
+PS	283120	הר ארגמן	residential	1	0	0	
+PS	283120	הר רמון	residential	1	0	0	
+PS	283120	הר שחר	residential	1	0	0	
+PS	283120	כפר דרום	residential	1	0	0	
+PS	283120	נחל לוז	residential	1	0	0	
+PS	283120	נחל משמר	residential	1	0	0	
+PS	283120	נחל עין גדי	residential	1	0	0	
+PS	283120	נחל ערבה	residential	1	0	0	
+PS	283120	נחל צופית	residential	1	0	0	
+PS	283120	תל קטיפא	residential	1	0	0	
+PS	283129	Beit 'Awwa - Wadi 'Ubeid	tertiary	1	0	0	
+PS	283129	Beit Maqdum - Sikka	primary	1	0	0	
+PS	283129	אשחר	tertiary	1	0	0	Eshchar
+PS	283129	גוש קטיף	tertiary	1	0	0	Gush Katif
+PS	283129	גפן	residential	1	0	0	
+PS	283129	האגם	residential	1	0	0	HaAgam
+PS	283129	האטד	residential	1	0	0	HaAtad
+PS	283129	האשכול	residential	1	0	0	
+PS	283129	האשל	residential	1	0	0	HaEshel
+PS	283129	הבציר	residential	1	0	0	
+PS	283129	הגפן	residential	1	0	0	HaGefen
+PS	283129	הזית	residential	1	0	0	HaZayit
+PS	283129	הזמורה	residential	1	0	0	
+PS	283129	הכרם	residential	1	0	0	
+PS	283129	הליבנה	residential	1	0	0	HaLivne
+PS	283129	העינב	residential	1	0	0	
+PS	283129	הצבר	residential	1	0	0	HaTsabar
+PS	283129	השקד	residential	1	0	0	HaShaked
+PS	283129	התירוש	residential	1	0	0	
+PS	283129	חרוב	residential	1	0	0	Haruv
+PS	283129	יפה נוף	residential	1	0	0	Yefe Nof
+PS	283129	כיכר החולות	tertiary	1	0	0	HaHolot Squre
+PS	283129	נחלת אבות	residential	1	0	0	Nahalat Avot
+PS	283129	קריה נאמנה	residential	1	0	0	Kirya Neemana
+PS	283130	Izbet Salman - Beit Amin	secondary	1	0	0	
+PS	283130	Sanniriya - Beit Amin	tertiary	1	0	0	
+PS	283130	האורן	residential	1	0	0	HaOren
+PS	283130	האירוס	residential	1	0	0	HaIris
+PS	283130	הזית	residential	1	0	0	HaZayit
+PS	283130	הכלנית	residential	1	0	0	HaKalanit
+PS	283130	הצבעוני	residential	1	0	0	Ha'Tzivoni
+PS	283130	השקד	residential	1	0	0	HaShaked
+PS	283130	התאנה	residential	1	0	0	HaTeena
+PS	283130	بيت امين	secondary	1	0	0	Beit Amin
+PS	283130	شارع الواد	residential	1	0	0	Sharia Al-Wad
+PS	283133	Fredies Roundabout	primary	1	0	0	
+PS	283133	כביש תקוע–ירושלים	primary	1	0	0	Jerusalem-Tqo'a road
+PS	283137	Tarrama - wadi Ash Shajina	tertiary	1	0	0	
+PS	283137	Tarrama School Road	tertiary	1	0	0	
+PS	283139	כביש שירות - גדר ההפרדה	unclassified	1	0	0	Military Road
+PS	283142	Alshaikh Sa'd	unclassified	1	0	0	
+PS	283155	Beit Dajan - AI 'Aqrabaniya	tertiary	1	0	0	
+PS	283155	street abo wael alwhedi	residential	1	0	0	
+PS	283155	شارع بلدية الاغوار الوسطى	residential	1	0	0	
+PS	283157	Bait Owr Altehta	secondary	1	0	0	
+PS	283159	Al-Majd - Khirbet Abu Hamid	tertiary	1	0	0	
+PS	283159	Marah Al Baqqar - Khrbat Abu Hamead	secondary	1	0	0	
+PS	283165	طريق بيت عمرة-كرمة	tertiary	1	0	0	Beit 'Amra - Karma
+PS	283166	Al Jarushiya-Shuweika	primary	1	0	0	
+PS	283176	דרך הפטרולים	unclassified	1	0	0	Derekh HaPatrolim
+PS	283181	street alwhede/ Jordan Valley	primary	1	0	0	
+PS	283189	AlMughayer	secondary	1	0	0	
+PS	283189	Kherbat Abu Falah	residential	1	0	0	
+PS	283189	Turmos Aia	unclassified	1	0	0	
+PS	283189	אשכול	residential	1	0	0	Eshkol
+PS	283189	גפן	residential	1	0	0	Gefen
+PS	283189	זמורה	residential	1	0	0	Zmora
+PS	283189	כרם	residential	1	0	0	Kerem
+PS	283189	נטע	residential	1	0	0	
+PS	283189	خربة ابو فلاح	tertiary	1	0	0	Kherbat Abu Falah
+PS	283246	Halhul -Nuba	tertiary	1	0	0	
+PS	283246	Surif - Hebron	secondary	1	0	0	
+PS	283246	Tarqumia - Surif	primary	1	0	0	
+PS	283246	مفرق واد عزاز	primary	1	0	0	
+PS	283246	مفرق وادي عزاز	primary	1	0	0	
+PS	283246	ميدان خاراس	primary	1	0	0	
+PS	283286	المدخل الشمالي لقريتي أم لصفة وخلة المية من الشارع الالتفاف	residential	1	0	0	The northern entrance
+PS	283286	شارع أم لصفة	residential	1	0	0	Um Lasafa St.
+PS	283314	ארץ בנימין	residential	1	0	0	Eretz Binyamin
+PS	283314	בורות המים	residential	1	0	0	Borot Ha'Mayim
+PS	283314	גבול יהודה	residential	1	0	0	Gevul Yehuda
+PS	283314	גישה משפחות הורוביץ וקורמן	residential	1	0	0	
+PS	283314	דבש התאנה	residential	1	0	0	Devash Ha'Te'enah
+PS	283314	דרך החיים	residential	1	0	0	Derech Ha'Chaim
+PS	283314	דרך המדבר	residential	1	0	0	Derech Ha'Midbar
+PS	283314	דרך פרת	tertiary	1	0	0	Derech Perat
+PS	283314	האוג	residential	1	0	0	Ha'og
+PS	283314	האופק	residential	1	0	0	The horizon
+PS	283314	האשל	residential	1	0	0	HaEshel
+PS	283314	הבקעה	residential	1	0	0	HaBika
+PS	283316	בני חשמונאי	residential	31	10	70	Bnay Chashmonai
+PS	283316	באר זית	residential	20	41	78	Be'er Zait
+PS	283316	דרך שרת	residential	14	91	127	Derekh Sharett
+PS	283316	נחלת אפרים	residential	8	35	303	Nahalat Ephraim
+PS	283316	הרי גופנא	residential	7	100	115	Haray Gofna
+PS	283316	השביל	pedestrian	5	38	59	
+PS	283316	הנביא שמואל	residential	3	30	32	Hanavi Shmuel
+PS	283316	Al-Janiyah	residential	1	0	0	
+PS	283316	Burham	residential	1	0	0	
+PS	283316	Cober	residential	1	0	0	
+PS	283316	מעלה הדס	residential	1	0	0	
+PS	283316	מעלה ההר	tertiary	1	0	0	Maale HaHar
+PS	283324	דרך האבות	tertiary	1	0	0	Derekh HaAvot
+PS	283324	דרך שורק	residential	1	0	0	Derekh Sorek
+PS	283324	הגפן	residential	1	0	0	HaGefen
+PS	283324	הגת	residential	1	0	0	HaGat
+PS	283324	סמדר	residential	1	0	0	Smadar
+PS	283324	עינב	residential	1	0	0	Einav
+PS	283324	שריג	residential	1	0	0	Sarig
+PS	283348	Kafr Jammal - Kafr 'Abbush	tertiary	1	0	0	
+PS	283348	al-Ameyere	residential	1	0	0	
+PS	283351	'Abd al-'Aziz Amin 'Arar	residential	1	0	0	
+PS	283351	Al-Gharaba	residential	1	0	0	
+PS	283351	Al-Sumud	residential	1	0	0	
+PS	283351	Arar	residential	1	0	0	
+PS	283351	Bashir al-A'raj	residential	1	0	0	
+PS	283351	Kafr Thulth	secondary	1	0	0	
+PS	283351	Khatib	residential	1	0	0	
+PS	283351	Khuerish	residential	1	0	0	
+PS	283351	Mara'be	residential	1	0	0	
+PS	283351	Miqbel	residential	1	0	0	
+PS	283351	Murabiteen Street	residential	1	0	0	
+PS	283351	Ode	residential	1	0	0	
+PS	283353	Al-Ghaba Street	residential	1	0	0	
+PS	283353	Al-Hajj Ibrahim	residential	1	0	0	
+PS	283353	Al-Nashef	residential	1	0	0	
+PS	283353	Hannun	residential	1	0	0	
+PS	283353	Kafarsa Road	residential	1	0	0	
+PS	283353	Mansur	residential	1	0	0	
+PS	283353	Mudallal	residential	1	0	0	
+PS	283353	Palestine Road	residential	1	0	0	
+PS	283353	Ras 'Amer	residential	1	0	0	
+PS	283353	Zibde Street	residential	1	0	0	
+PS	283362	to ya'bad	secondary	1	0	0	
+PS	283365	Al-Quds Street		2	2	5	
+PS	283365	شارع القدس	secondary	1	0	0	Sharia Al-Quds
+PS	283366	Beit Bizzin	residential	1	0	0	
+PS	283366	Kafr Qaddum - Baqat Al Hatab	tertiary	1	0	0	
+PS	283366	Qmeri	residential	1	0	0	
+PS	283366	Stewi Street	residential	1	0	0	
+PS	283370	Kufor Malek	residential	1	0	0	
+PS	283370	ציר אלון	primary	1	0	0	Allon Road
+PS	283370	خربة ابو فلاح	tertiary	1	0	0	Kherbat Abu Falah
+PS	283370	كفر مالك	residential	1	0	0	Kafr Malik
+PS	283371	Kafr Laqif	residential	1	0	0	
+PS	283373	Kafr Jammal - Falameya	residential	1	0	0	
+PS	283373	Kafr Jammal - Jayyus	primary	1	0	0	
+PS	283373	Khirbet Jubara - kafr Jammal	primary	1	0	0	
+PS	283378	شارع حيفا	secondary	1	0	0	Sharia Haifa
+PS	283379	Kufor Ein	residential	1	0	0	
+PS	283379	Sheikh 'Umar Road	residential	1	0	0	
+PS	283379	Sheikh Mas'ud Road	residential	1	0	0	
+PS	283379	شارع الاستقلال	residential	1	0	0	Istiqlal Road
+PS	283384	Kafr Al Labad - Anabta	tertiary	1	0	0	
+PS	283384	Kafr Al Labad - Kafa	tertiary	1	0	0	
+PS	283385	Bruqin Main	tertiary	1	0	0	
+PS	283385	Kafil Aldik	residential	1	0	0	
+PS	283385	kafil aldek	residential	1	0	0	
+PS	283385	kafil aldik	residential	1	0	0	
+PS	283386	Hashem al-Jayyusi	residential	1	0	0	
+PS	283386	Irtah	residential	1	0	0	
+PS	283386	Jajuliya	residential	1	0	0	
+PS	283386	Kafr Jammal - Kafr 'Abbush	tertiary	1	0	0	
+PS	283386	Kafr Sur - Hajja	secondary	1	0	0	
+PS	283386	Mishyakha Street	residential	1	0	0	
+PS	283386	Qalansuwa	residential	1	0	0	
+PS	283386	Sheikh Harb al-Jayyusi	residential	1	0	0	
+PS	283386	Yusif al-Waked	residential	1	0	0	
+PS	283444	Al-Jadeedah - Al-Far'a	residential	1	0	0	
+PS	283444	Aljadeda	residential	1	0	0	
+PS	283444	Aljadedeh	residential	1	0	0	
+PS	283444	Aljadedeh st	residential	1	0	0	
+PS	283444	khalet assara	residential	1	0	0	
+PS	283444	شارع الجديدة - سيريس	secondary	1	0	0	
+PS	283444	شارع الجديدة - صير	secondary	1	0	0	
+PS	283444	شارع الجديدة الرئيسي	secondary	1	0	0	
+PS	283444	شارع السهل - سيريس	secondary	1	0	0	Seres - Meadow Rood
+PS	283444	شارع المطروحة	secondary	1	0	0	
+PS	283444	شارع المطروحة - البلدية المتحدة	secondary	1	0	0	
+PS	283444	شارع المطروحة - طوباس	secondary	1	0	0	
+PS	283449	Al-Quds	residential	1	0	0	
+PS	283449	Bani Jad'un	residential	1	0	0	
+PS	283449	Bani Yamin	residential	1	0	0	
+PS	283449	Bani Yusha	residential	1	0	0	
+PS	283449	Jabal al-Tor	residential	1	0	0	
+PS	283449	بيت وزن	secondary	1	0	0	Beit Wazan
+PS	283459	Jiljilia	residential	1	0	0	
+PS	283464	جفنا	residential	1	0	0	
+PS	283469	Abdul-Raheem Omar	residential	1	0	0	
+PS	283469	Al-Maragha Road	residential	1	0	0	
+PS	283469	Aqaba	residential	1	0	0	
+PS	283469	As-Salalem	residential	1	0	0	
+PS	283469	Ash-Shahid Majed	residential	1	0	0	
+PS	283469	Bab El-Balad	residential	1	0	0	
+PS	283469	Jayyus - Azzun	primary	1	0	0	
+PS	283469	Kafr Jammal - Jayyus	primary	1	0	0	
+PS	283469	Mosque Str.	residential	1	0	0	
+PS	283469	Shamasneh	residential	1	0	0	
+PS	283506	Fatima Khatoon Street		4	2	568	
+PS	283506	Abu Baker Street		3	424	425	
+PS	283506	Yahia Ayyash Street		3	425	599	
+PS	283506	شارع الناصرة		3	424	598	
+PS	283506	Almalek Fysal street - כביש עפולה באר-שבע		2	424	425	
+PS	283506	شارع أبو جهاد	tertiary	2	4	4	Abu Jihad
+PS	283506	Abdallah Bin Saraqa	residential	1	0	0	
+PS	283506	Abdallah Ibn Al-Mubarak	residential	1	0	0	
+PS	283506	Abu Abdallah Bin Al-Jarah	residential	1	0	0	
+PS	283506	Abu Alqaem	residential	1	0	0	
+PS	283506	Abu Baker	residential	1	0	0	
+PS	283506	Abu Iad Streed	residential	1	0	0	
+PS	283506	Abu Jihad	tertiary	1	0	0	
+PS	283506	Al Kurom	residential	1	0	0	
+PS	283506	Al-Abrar	residential	1	0	0	
+PS	283506	Al-Andalos	tertiary	1	0	0	
+PS	283506	Al-Awdah	residential	1	0	0	
+PS	283506	Al-Dawha	residential	1	0	0	
+PS	283506	Al-Emam Malik	residential	1	0	0	
+PS	283506	Al-Ibrahimi	residential	1	0	0	
+PS	283506	Al-Ihsan	residential	1	0	0	
+PS	283506	Al-Kananah	residential	1	0	0	
+PS	283506	Al-Karameh	residential	1	0	0	
+PS	283506	Al-Khadra'	residential	1	0	0	
+PS	283506	Al-Khansa'	tertiary	1	0	0	
+PS	283506	Al-Majdal	tertiary	1	0	0	
+PS	283506	Al-Moa'tasem	residential	1	0	0	
+PS	283506	Al-Mosel	residential	1	0	0	
+PS	283506	Al-Mothana Bin Al-Haritha	residential	1	0	0	
+PS	283506	Al-Naseim	residential	1	0	0	
+PS	283506	Al-Qastal	residential	1	0	0	
+PS	283506	Al-Rabia'	residential	1	0	0	
+PS	283506	Al-Radon	residential	1	0	0	
+PS	283506	Al-Rahma	residential	1	0	0	
+PS	283506	Al-Ramleh	residential	1	0	0	
+PS	283506	Al-Rashid	residential	1	0	0	
+PS	283506	Al-Riad	unclassified	1	0	0	
+PS	283506	Al-Rian	residential	1	0	0	
+PS	283506	Al-Sa'dah	residential	1	0	0	
+PS	283506	Al-Sayedah Nafisa	residential	1	0	0	
+PS	283506	Al-Seka	residential	1	0	0	
+PS	283506	Al-Shafi'i	residential	1	0	0	
+PS	283506	Al-Shohada'	residential	1	0	0	
+PS	283506	Al-Yaqot	residential	1	0	0	
+PS	283506	Al-Zahir Baibirs	residential	1	0	0	
+PS	283506	Al-Zaytonah	residential	1	0	0	
+PS	283506	AlIman	residential	1	0	0	
+PS	283506	AlYasmine	residential	1	0	0	
+PS	283520	Dait Ammar	residential	1	0	0	
+PS	283520	Jamala	residential	1	0	0	
+PS	283521	Hawwara-Jamma'in	secondary	1	0	0	
+PS	283521	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	283536	Jalkamous area	residential	1	0	0	
+PS	283540	Jalbun	tertiary	1	0	0	
+PS	283547	شارع الجلمة	tertiary	1	0	0	AljalamehStreet
+PS	283547	شارع قرية عرانة	tertiary	1	0	0	Arraneh village
+PS	283547	منطقة الجلمة	residential	1	0	0	Al Jalameh zone
+PS	283570	Al-Hara Al-Sharqia	unclassified	1	0	0	
+PS	283570	Albasah zone	residential	1	0	0	
+PS	283570	Albiader	residential	1	0	0	
+PS	283570	Aldahra	tertiary	1	0	0	
+PS	283570	Aljame' alqadeem at.	tertiary	1	0	0	
+PS	283570	Almaqbarah	residential	1	0	0	
+PS	283570	Haret almadab'	residential	1	0	0	
+PS	283570	Haret almadabe'	residential	1	0	0	
+PS	283570	Haret lafet awni	residential	1	0	0	
+PS	283570	Jab'a Village	tertiary	1	0	0	
+PS	283570	Jab'a Zone	tertiary	1	0	0	
+PS	283570	Jab'a zone	residential	1	0	0	
+PS	283570	Jaba'	residential	1	0	0	
+PS	283570	Main Road	secondary	1	0	0	
+PS	283570	TO Yaseed village	tertiary	1	0	0	
+PS	283570	To Alein Alsharqia	tertiary	1	0	0	
+PS	283570	To Alhara alsharqia	unclassified	1	0	0	
+PS	283570	To Alharaiq zone	residential	1	0	0	
+PS	283570	To Ein Alfawara spring	tertiary	1	0	0	
+PS	283570	To Ein Aljoza Zone	residential	1	0	0	
+PS	283570	To abualhetan zone	residential	1	0	0	
+PS	283579	Fatme al-Ghazal	unclassified	1	0	0	
+PS	283579	Izbe - Isla Road	tertiary	1	0	0	
+PS	283579	Jaffa Street	unclassified	1	0	0	
+PS	283579	Jaser al-Sleeman	residential	1	0	0	
+PS	283580	طريق تركيا (اسكاكا - ياسوف)	secondary	1	0	0	
+PS	283609	Abdon Street	residential	1	0	0	
+PS	283609	Farata	residential	1	0	0	
+PS	283609	Hilal al-Far'atuni	residential	1	0	0	
+PS	283609	Jabal al-Amaliqa	residential	1	0	0	
+PS	283609	Ummatayn Street	residential	1	0	0	
+PS	283610	חת"ם סופר	residential	28	3	37	Hatam Sofer
+PS	283610	רבי ישראל אבו חצירא		19	1	26	
+PS	283610	רבי מאיר מפרימישלן	tertiary	17	30	43	Rabbi Meir Mefrimishlen
+PS	283610	הרב פנחס לוין	tertiary	16	2	29	Ha'Rav Pinchas Levin
+PS	283610	חזון עובדיה	residential	15	2	32	
+PS	283610	נתיב אור החיים		13	22	43	
+PS	283610	הבעל שם טוב	tertiary	11	40	60	Ha'Ba'ashat
+PS	283610	נתיב רבבות אפרים		6	2	36	
+PS	283610	אילת השחר	living_street	4	2	9	
+PS	283610	בית ישראל	residential	2	1	39	Beit Israel
+PS	283610	נתיבות שלום	living_street	2	4	6	Netivot Shalom
+PS	283610	פנחס לוין	tertiary	2	4	8	Ha'Rav Pinchas Levin
+PS	283612	Attil - Illar	tertiary	1	0	0	
+PS	283612	Illar - Seida	tertiary	1	0	0	
+PS	283612	Zeita - Illar	secondary	1	0	0	
+PS	283621	Bir Musallam - Beit Maqdum	primary	1	0	0	
+PS	283621	Suba - Dura	tertiary	1	0	0	
+PS	283621	Suba - Tarqumiya	tertiary	1	0	0	
+PS	283621	Tarqumia - Surif	primary	1	0	0	
+PS	283621	הגפן	residential	1	0	0	HaGefen
+PS	283621	הכרם	residential	1	0	0	HaKerem
+PS	283621	הנצר	tertiary	1	0	0	HaNetzer
+PS	283621	הסמדר	residential	1	0	0	HaSmadar
+PS	283621	העינב	residential	1	0	0	HaEnav
+PS	283621	התירוש	residential	1	0	0	HaTirosh
+PS	283621	شارع البلدية	residential	1	0	0	
+PS	283621	شارع التل	residential	1	0	0	
+PS	283621	شارع الجلطية	unclassified	1	0	0	
+PS	283621	شارع الذخرة	residential	1	0	0	
+PS	283621	شارع الشروي	residential	1	0	0	
+PS	283621	شارع القرنعة	residential	1	0	0	
+PS	283621	شارع المدارس	secondary	1	0	0	Bir Musallam - Beit Maqdum
+PS	283621	شارع المنطار	residential	1	0	0	Sharia Al-Muntar
+PS	283621	شارع خلة الغامقه	residential	1	0	0	
+PS	283621	شارع خلة الغزال	residential	1	0	0	
+PS	283621	شارع واد البير	residential	1	0	0	
+PS	283621	شارع واد عزيز	residential	1	0	0	
+PS	283636	Al-Istiqlal	tertiary	1	0	0	
+PS	283636	Al-Mahajer	tertiary	1	0	0	
+PS	283636	Al-Salheen	residential	1	0	0	
+PS	283636	Ar-Rahma	residential	1	0	0	
+PS	283636	Karama	tertiary	1	0	0	
+PS	283636	Koza	tertiary	1	0	0	
+PS	283636	حاجز حوارة	secondary	1	0	0	Huwara checkpoint
+PS	283636	شارع الاندلس	secondary	1	0	0	Sharia Al-Andalus
+PS	283676	Al-Shaheed Mtaw'	residential	1	0	0	
+PS	283743	דרך ההר	residential	1	0	0	Derekh HaHar
+PS	283743	משעול הקורנית	residential	1	0	0	
+PS	283805	אורן	residential	1	0	0	Oren
+PS	283805	אלון	residential	1	0	0	Alon
+PS	283805	ארז	residential	1	0	0	Erez
+PS	283805	אתרוג	residential	1	0	0	Etrog
+PS	283805	דקל	residential	1	0	0	Dekel
+PS	283805	הדס	residential	1	0	0	Hadas
+PS	283805	המייסדים	residential	1	0	0	HaMeyasdim
+PS	283805	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	283805	חרוב	tertiary	1	0	0	Haruv
+PS	283805	יסמין	residential	1	0	0	Yasmin
+PS	283805	כלנית	residential	1	0	0	Kalanit
+PS	283805	לוטס	residential	1	0	0	Lotes
+PS	283806	Surif - Hebron	secondary	1	0	0	
+PS	283806	Wadi Al-jean	residential	1	0	0	
+PS	283806	النبي يونس	residential	1	0	0	
+PS	283806	شارع القدس-الخليل	secondary	1	0	0	Al Quds-Al Khalil
+PS	283806	شارع المسكة	residential	1	0	0	Meskah
+PS	283806	طريق حلحول‎-سعير	secondary	1	0	0	Halhoul - Sa'ir road
+PS	283812	Hajja - Kafr Qaddum	residential	1	0	0	
+PS	283812	Kafr Sur - Hajja	secondary	1	0	0	
+PS	283843	חבצלת	residential	1	0	0	HaVatselet
+PS	283843	רקפת	residential	1	0	0	Rakefet
+PS	283955	Farkha	residential	1	0	0	
+PS	283955	Qarawat Bani Zaid - Farrakha	secondary	1	0	0	
+PS	283955	To Qarawat Bani Zaid	residential	1	0	0	
+PS	283955	farkha	residential	1	0	0	
+PS	283964	Farata	residential	1	0	0	
+PS	283971	Fako'a	unclassified	1	0	0	
+PS	283971	To Jalpoon village	unclassified	1	0	0	
+PS	283971	נוף גלבוע	primary	1	0	0	Nof Gilboa
+PS	283971	شارع فقوعة الرئيسي	secondary	1	0	0	Fako'a
+PS	283972	Kafr Jammal - Falameya	residential	1	0	0	
+PS	283976	Fahmeh Arae	residential	1	0	0	
+PS	283978	עורי צפון	residential	2	2	4	Uri Tzafon
+PS	283978	האורן	residential	1	0	0	HaOren
+PS	283978	האלה	residential	1	0	0	HaEla
+PS	283978	האלון	residential	1	0	0	HaAlon
+PS	283978	הארז	secondary	1	0	0	HaErez
+PS	283978	האשל	residential	1	0	0	HaEshel
+PS	283978	הברוש	tertiary	1	0	0	HaBrosh
+PS	283978	הדולב	residential	1	0	0	HaDolev
+PS	283978	הדקל	residential	1	0	0	HaDekel
+PS	283978	החרוב	residential	1	0	0	HaHaruv
+PS	283978	הכרם	residential	1	0	0	HaKerem
+PS	283978	הערבה	residential	1	0	0	HaArava
+PS	283986	ניצנים	residential	3	2	10	Nitzanim
+PS	283986	אביבים	residential	1	0	0	Avivim
+PS	283986	אדני פז	residential	1	0	0	Adanei Paz
+PS	283986	אוהלי קידר	residential	1	0	0	Ohalei Keidar
+PS	283986	איבי הנחל	pedestrian	1	0	0	Ibei HaNahal
+PS	283986	איילים	secondary	1	0	0	Ayalim
+PS	283986	אילות השדה	residential	1	0	0	Eilot HaSade
+PS	283986	אלף המגן	residential	1	0	0	Elef HaMagen
+PS	283986	אעלה בתמר	pedestrian	1	0	0	
+PS	283986	אפיקי מים	residential	1	0	0	Afikei Maim
+PS	283986	אשכולות הגפן	pedestrian	1	0	0	Eshkolot HaGefen
+PS	283986	בזלת	residential	1	0	0	Bazelet
+PS	283991	הגפן	tertiary	4	38	40	HaGefen
+PS	283991	Military Road	unclassified	1	0	0	
+PS	283991	אלה	residential	1	0	0	Ela
+PS	283991	בועז	residential	1	0	0	Boaz
+PS	283991	הגואל	residential	1	0	0	HaGoel
+PS	283991	הל"ה	residential	1	0	0	HaLamed He
+PS	283991	המעיין	residential	1	0	0	HaMaayan
+PS	283991	התאנה	residential	1	0	0	HaTeena
+PS	283991	זרובבל	residential	1	0	0	Zrubavel
+PS	283991	חגי	residential	1	0	0	Hagai
+PS	283991	כורש	residential	1	0	0	Koresh
+PS	283991	מבוא חרוב	residential	1	0	0	Mevo Haruv
+PS	283991	מגדל עדר	residential	1	0	0	Migdal Eder
+PS	283991	מורית	residential	1	0	0	Morit
+PS	283991	משעול הכרמים	residential	1	0	0	Mishol HaKeramim
+PS	283991	נחל אשכול	residential	1	0	0	Nahal Eshkol
+PS	283991	נחמיה	residential	1	0	0	Nehemya
+PS	283991	נעמי	residential	1	0	0	Naomi
+PS	283991	נצח ירושלים	residential	1	0	0	Netzach Yerushalyaim
+PS	283991	נצר ישי	residential	1	0	0	Netzer Ishai
+PS	283991	סמדר	residential	1	0	0	Smadar
+PS	283991	עזרא	residential	1	0	0	Ezra
+PS	283991	רות	residential	1	0	0	Ruth
+PS	283991	רימון	residential	1	0	0	Rimon
+PS	284010	Dura Alqare'	residential	1	0	0	
+PS	284010	عين سينيا	secondary	1	0	0	
+PS	284011	As-Sa'biyah	residential	1	0	0	
+PS	284011	Beit 'Awwa	secondary	1	0	0	
+PS	284011	Suba - Dura	tertiary	1	0	0	
+PS	284011	אייל	residential	1	0	0	Eyal
+PS	284011	شارع طارق بن زياد	residential	1	0	0	Sharia Tariq Bin Ziyad
+PS	284011	طريق صوبا-دورا	tertiary	1	0	0	Suba - Dura
+PS	284013	דרך גדעון	secondary	1	0	0	Derekh Gidon
+PS	284013	ציר אלון	primary	1	0	0	Allon Road
+PS	284046	Nablus Street		3	9	9	
+PS	284046	Mohammad Ibn Al-Qasem	primary	1	0	0	
+PS	284046	October 7th Road	tertiary	1	0	0	
+PS	284046	شارع نابلس	primary	1	0	0	Sharia Nablus
+PS	284054	Qusin-Dier Sharaf	residential	1	0	0	
+PS	284065	Dair Qeddis	residential	1	0	0	
+PS	284067	Dair Netham	residential	1	0	0	
+PS	284069	Dair Jreer	primary	1	0	0	
+PS	284069	دير جرير	residential	1	0	0	Dair Jreer
+PS	284071	Deir Istiya	residential	1	0	0	
+PS	284071	Marda to Haris	tertiary	1	0	0	
+PS	284071	طريق كفل حارس - دير استيا	tertiary	1	0	0	
+PS	284072	Al Safa	residential	1	0	0	
+PS	284072	Dair Bzeea'	residential	1	0	0	
+PS	284072	Ras Karkar	secondary	1	0	0	
+PS	284072	ציר ולרשטיין	primary	1	0	0	
+PS	284076	Der Ghazal zone	residential	1	0	0	
+PS	284076	der ghazal zone	residential	1	0	0	
+PS	284076	to Arabonah	tertiary	1	0	0	
+PS	284076	إلى منطقة ديرغزال	tertiary	1	0	0	to Der Ghazal zone
+PS	284078	Dair Dibwan	residential	1	0	0	
+PS	284078	Ramon Road	tertiary	1	0	0	
+PS	284078	ציר אלון	primary	1	0	0	Allon Road
+PS	284081	Abu al-Khair Street	residential	1	0	0	
+PS	284081	Abu al-Rayat	residential	1	0	0	
+PS	284081	Al-Hikma	residential	1	0	0	
+PS	284081	Al-Masa'id Road	tertiary	1	0	0	
+PS	284081	Bani 'Abbas	residential	1	0	0	
+PS	284081	Bani Umayya	residential	1	0	0	
+PS	284081	Dair al Balout	tertiary	1	0	0	
+PS	284081	George Habash	residential	1	0	0	
+PS	284081	Ghassan Kanafani	residential	1	0	0	
+PS	284081	Hasan Salama	residential	1	0	0	
+PS	284081	Ibrahim Micho	residential	1	0	0	
+PS	284081	Jamma'in	residential	1	0	0	
+PS	284085	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	284100	Abdallah Asad	unclassified	1	0	0	
+PS	284100	Abu Hantash	residential	1	0	0	
+PS	284100	Al-Amal	unclassified	1	0	0	
+PS	284100	Al-Asma al-Husna	residential	1	0	0	
+PS	284100	Al-Jabal	residential	1	0	0	
+PS	284100	Al-Marjeh	residential	1	0	0	
+PS	284100	Al-Sawara	residential	1	0	0	
+PS	284100	Al-Suratayn	residential	1	0	0	
+PS	284100	Banat al-Deir	residential	1	0	0	
+PS	284100	Deir Al Ghusun - Al Jarushiya	primary	1	0	0	
+PS	284100	Deir Al Ghusun - Bal'a	tertiary	1	0	0	
+PS	284100	Hamdallah	residential	1	0	0	
+PS	284100	Ibthan	residential	1	0	0	
+PS	284100	Qaqun	tertiary	1	0	0	
+PS	284105	Abu D'eef zone	residential	1	0	0	
+PS	284105	Abu Da'eef	residential	1	0	0	
+PS	284105	Jalbun	tertiary	1	0	0	
+PS	284105	abu d'eef zone	living_street	1	0	0	
+PS	284187	Bruqin	residential	1	0	0	
+PS	284187	Bruqin Main	secondary	1	0	0	
+PS	284187	To Bruqin	tertiary	1	0	0	
+PS	284187	To children garden	residential	1	0	0	
+PS	284187	To kindergarten	residential	1	0	0	
+PS	284187	bruqin	secondary	1	0	0	
+PS	284187	burqin	residential	1	0	0	
+PS	284194	Al-Shuhadaa	secondary	1	0	0	
+PS	284194	Borqen	residential	1	0	0	
+PS	284194	Burken - Yaabad Main	secondary	1	0	0	
+PS	284194	Jabriat Steet	tertiary	1	0	0	
+PS	284194	Modified Tertiary Road: Al-Shuhadaa	secondary	1	0	0	
+PS	284194	الشارع الرئيسي ببرقين	secondary	1	0	0	Main Street in Burken
+PS	284194	شارع الجابريات	tertiary	1	0	0	Jabriat
+PS	284194	وادي برقين	secondary	1	0	0	Wadi Burqin
+PS	284196	Dusuqi Street	residential	1	0	0	
+PS	284196	Fardisiya Road	residential	1	0	0	
+PS	284197	Burqa	residential	1	0	0	
+PS	284215	Burham	residential	1	0	0	
+PS	284215	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	284228	Budros	residential	1	0	0	
+PS	284228	الني بطرس	residential	1	0	0	St. Butrus
+PS	284237	Al-Natoor Roundabout	secondary	1	0	0	
+PS	284237	Atara	tertiary	1	0	0	
+PS	284237	Birzeit Brewery Street	residential	1	0	0	
+PS	284237	Saint George Street	living_street	1	0	0	
+PS	284237	birzeit brewery st	residential	1	0	0	
+PS	284237	old city	residential	1	0	0	
+PS	284237	presedancy street	residential	1	0	0	
+PS	284237	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	284237	برهام	tertiary	1	0	0	
+PS	284237	بير زيت	residential	1	0	0	Bir Zeit
+PS	284237	بيرزيت , روابي	secondary	1	0	0	
+PS	284237	دباغه	residential	1	0	0	
+PS	284237	عطارة	tertiary	1	0	0	
+PS	284238	Al-Mosel	residential	1	0	0	
+PS	284238	Al-Sa'adeh	residential	1	0	0	
+PS	284238	Beit Hanina Village St,	tertiary	1	0	0	
+PS	284269	Kharbatha Bani Harith	residential	1	0	0	
+PS	284270	Al-Jabal	tertiary	1	0	0	
+PS	284270	Biddu Al-Qubeibah	tertiary	1	0	0	
+PS	284270	طريق الجب - بدّو	tertiary	1	0	0	Al-Jib - Biddu Road
+PS	284271	الشارع الرئيسي	secondary	3	9	597	
+PS	284271	Sanniriya	secondary	1	0	0	
+PS	284271	Sarta	residential	1	0	0	
+PS	284279	השקד	residential	25	2	28	Shaked
+PS	284279	האשל	residential	2	30	30	HaEshel
+PS	284279	נתן אלתרמן	residential	2	1	3	Natan Alterman
+PS	284279	אבן גבירול	residential	1	0	0	Ibn Gabirol
+PS	284279	אחירותם	residential	1	0	0	Ahirotem
+PS	284279	אירוס	living_street	1	0	0	Iris
+PS	284279	אלכסנדר פן	living_street	1	0	0	Alexander Penn
+PS	284279	אנה טיכו	residential	1	0	0	Anna Ticho
+PS	284279	אריק איינשטיין	residential	1	0	0	
+PS	284279	אריק לביא	residential	1	0	0	
+PS	284279	אשחר	residential	1	0	0	Eshchar
+PS	284279	דבורנית	living_street	1	0	0	Dvoranit
+PS	284279	האלה	residential	1	0	0	HaEla
+PS	284279	האלון	pedestrian	1	0	0	HaAlon
+PS	284279	הברוש	residential	1	0	0	HaBrosh
+PS	284279	הגפן	residential	1	0	0	HaGefen
+PS	284279	הדולב	residential	1	0	0	HaDolev
+PS	284279	הזית	tertiary	1	0	0	HaZayit
+PS	284279	הכרכום	residential	1	0	0	HaKarkom
+PS	284279	הרב שבזי	residential	1	0	0	
+PS	284279	הרימון	residential	1	0	0	HaRimon
+PS	284279	השיטה	residential	1	0	0	HaShita
+PS	284279	השירה העברית	tertiary	1	0	0	
+PS	284279	התאנה	residential	1	0	0	HaTeena
+PS	284284	Bazzariya-Kafr Rumman	tertiary	1	0	0	
+PS	284291	بيت وزن	residential	1	0	0	
+PS	284292	Bait Owr Altehta	residential	1	0	0	
+PS	284292	Bridge	residential	1	0	0	
+PS	284293	דרך הנוף	residential	1	0	0	Derekh HaNof
+PS	284293	شارع الطيرة	secondary	1	0	0	Sharia Al-Tira
+PS	284294	Bir Ima'in	unclassified	1	0	0	
+PS	284294	Bruno Kreisky	unclassified	1	0	0	
+PS	284294	Ein kinia	tertiary	1	0	0	
+PS	284294	Eissa Aleraqi	unclassified	1	0	0	
+PS	284294	Taytaba Street	residential	1	0	0	
+PS	284294	עוקף ביתוניא	tertiary	1	0	0	
+PS	284294	شارع يافا	tertiary	1	0	0	Sharia Jaffa
+PS	284295	شارع السيد زياد حسون	tertiary	1	0	0	
+PS	284298	Bait Siera	residential	1	0	0	
+PS	284304	Almadaris Street		4	40	50	
+PS	284304	Al Nasr Street	residential	1	0	0	
+PS	284304	Al-Hatoum	residential	1	0	0	
+PS	284304	Beit Bassa	unclassified	1	0	0	
+PS	284304	Eskan Almuhandeseen	residential	1	0	0	
+PS	284304	Isteih	tertiary	1	0	0	
+PS	284304	Khoury	unclassified	1	0	0	
+PS	284304	Mosq Street	residential	1	0	0	
+PS	284304	Omar Street	residential	1	0	0	
+PS	284304	כביש תקוע–ירושלים	primary	1	0	0	Jerusalem-Tqo'a road
+PS	284304	شارع الأب ابراهيم عياد	unclassified	1	0	0	Fr. Ibrahim Ayyad
+PS	284304	شارع البلدة القديمة	pedestrian	1	0	0	Old City
+PS	284304	شارع الجامع	residential	1	0	0	Al-Jame'
+PS	284304	شارع الجنينة	residential	1	0	0	Jnena
+PS	284304	شارع العوينة	residential	1	0	0	
+PS	284304	شارع القدس	secondary	1	0	0	Sharia Al-Quds
+PS	284304	شارع المدارس	unclassified	1	0	0	Almadaris
+PS	284304	شارع المزرعة	unclassified	1	0	0	Al-Mazra'a
+PS	284304	شارع دير الرعاة	residential	1	0	0	Almadaris Street
+PS	284304	شارع رشماوي	unclassified	1	0	0	Rishmawi
+PS	284304	شارع عش غراب	unclassified	1	0	0	Osh Grahab Road
+PS	284304	شارع مصنع المعكرونة	tertiary	1	0	0	
+PS	284304	شارع واد أبو سعدى	unclassified	1	0	0	Wad Abu Sa'da
+PS	284308	شارع فقوعة الرئيسي	secondary	1	0	0	Fako'a
+PS	284312	Bait liqiya	residential	3	224	564	
+PS	284312	Bait Noba	residential	1	0	0	
+PS	284312	דרך המעיין	residential	1	0	0	
+PS	284312	הלוטם	residential	1	0	0	HaLotem
+PS	284312	העוזרר	residential	1	0	0	HaAdad
+PS	284312	יתלה	residential	1	0	0	Itla
+PS	284312	משעול המרווה	living_street	1	0	0	
+PS	284313	Saffarin - Beit Lid	secondary	1	0	0	
+PS	284315	شارع العناترة	tertiary	20	1	72	Anatreh
+PS	284315	شارع بولس السادس	living_street	8	18	227	Pope Paul VI Street
+PS	284315	شارع النجوم	residential	5	30	396	Star
+PS	284315	Sharia Gamal Abdel Nasser		4	123	127	
+PS	284315	شارع المهد	tertiary	4	245	662	Manger Street
+PS	284315	شارع الفواغرة	living_street	3	1	12	Al-Fawaghreh
+PS	284315	شارع واد معالي	tertiary	3	1	12	Wad Ma'ali
+PS	284315	Manger Square	living_street	2	0	0	
+PS	284315	Manger Street	tertiary	2	153	153	
+PS	284315	شارع السلزيان	residential	2	19	19	Al-Selezyan
+PS	284315	شارع الكركفة	tertiary	2	670	1080	Karkafa
+PS	284315	شارع عرفات	unclassified	2	353	353	Arafat
+PS	284315	Al Qanater	residential	1	0	0	
+PS	284315	Al-Khlefat	residential	1	0	0	
+PS	284315	Al-Saff	tertiary	1	0	0	
+PS	284315	Dr Gominer	residential	1	0	0	
+PS	284315	Good Shepherd Swedish School	residential	1	0	0	
+PS	284315	Iskan	residential	1	0	0	
+PS	284315	Jamal Abdul Naser	residential	1	0	0	
+PS	284315	Kerkafeh Roundabout	tertiary	1	0	0	
+PS	284315	Kerkafeh Street	tertiary	1	0	0	
+PS	284315	Madbaseh - Paul VI	tertiary	1	0	0	
+PS	284315	Madbaseh - Pope Paul VI Street	tertiary	1	0	0	
+PS	284315	N	residential	1	0	0	
+PS	284315	Qaraman Road	residential	1	0	0	
+PS	284315	Wad Shaheen	unclassified	1	0	0	
+PS	284315	Wadi Al-Rahib	unclassified	1	0	0	
+PS	284315	دوار العمل الكاثوليكي	residential	1	0	0	Catholic Action Roundabout
+PS	284315	ساحة المهد	pedestrian	1	0	0	Manger Square
+PS	284315	ستار ستريت	living_street	1	0	0	Star
+PS	284315	شارع إس أو إس	residential	1	0	0	SOS Road
+PS	284315	شارع الأخوة	residential	1	0	0	Freres
+PS	284315	شارع الأمل	residential	1	0	0	Sharia Al-Amal
+PS	284315	شارع التراجمة	residential	1	0	0	Tarajmeh
+PS	284315	شارع الجامعة	tertiary	1	0	0	Sharia University
+PS	284315	شارع الجبل	residential	1	0	0	Sharia Al-Jabal
+PS	284315	شارع العطن	tertiary	1	0	0	Al-Atan
+PS	284315	شارع القدس	secondary	1	0	0	Sharia Al-Quds
+PS	284315	شارع القدس-الخليل	secondary	1	0	0	Jerusalem-Hebron
+PS	284315	شارع القديسة ماري الفونسين غطاس	residential	1	0	0	Saint Marie Alphonsine Ghattas
+PS	284315	شارع القديسة مريم يسوع المصلوب بواردي	residential	1	0	0	Saint Mariam Baouardy
+PS	284315	شارع الكرمل	residential	1	0	0	Sharia Al-Carmel
+PS	284315	شارع المدرسة	residential	1	0	0	Schools
+PS	284315	شارع الملك داود	residential	1	0	0	King David
+PS	284315	شارع الملوي	residential	1	0	0	Al-Malwi
+PS	284315	شارع النجاجرة	residential	1	0	0	Al-Najajreh
+PS	284315	شارع الوردية	residential	1	0	0	Al Wardieh
+PS	284315	شارع بيت ساحور	tertiary	1	0	0	Beit Sahour
+PS	284320	شارع بيت كاحل	tertiary	1	0	0	Beit Kahel
+PS	284320	طريق ترقوميا-الخليل	secondary	1	0	0	To Tarqomia Village
+PS	284324	Al Makhaniq Street		3	51	53	
+PS	284324	Al-Manshiah	tertiary	1	0	0	
+PS	284324	Alsama'na	residential	1	0	0	
+PS	284324	Beit Jala	tertiary	1	0	0	
+PS	284324	Cramisan	unclassified	1	0	0	
+PS	284324	Intifada Street	residential	1	0	0	
+PS	284324	Martyr	residential	1	0	0	
+PS	284324	Municipal Street	residential	1	0	0	
+PS	284324	Saint Nicholas Street	residential	1	0	0	
+PS	284324	Shahid Street	residential	1	0	0	
+PS	284324	Virgin Mary Street	tertiary	1	0	0	
+PS	284324	شارع البلدة القديمة	residential	1	0	0	Society Street
+PS	284324	شارع الشهيد	residential	1	0	0	Martyr
+PS	284324	شارع المدارس	tertiary	1	0	0	Madares
+PS	284324	شارع المنشية	tertiary	1	0	0	Al-Manshiah
+PS	284324	شارع بيت جالا	tertiary	1	0	0	Beit Gala
+PS	284328	Biteen	residential	1	0	0	
+PS	284328	بيتين	residential	1	0	0	Biteen
+PS	284329	דרך שורק	residential	1	0	0	Derekh Sorek
+PS	284329	دوار صافا - صوريف	primary	1	0	0	
+PS	284329	شارع بيت أمر-صوريف	primary	1	0	0	
+PS	284329	شارع جالا-بيت أمر	tertiary	1	0	0	Jala - Beit Ummar
+PS	284330	Baitello	residential	1	0	0	
+PS	284330	Dair Netham	secondary	1	0	0	
+PS	284330	כביש גישה לכרם רעים	tertiary	1	0	0	
+PS	284332	ההדס	residential	1	0	0	HaHadas
+PS	284332	רותם	residential	1	0	0	Rotem
+PS	284332	البنجر دوكو	tertiary	1	0	0	Al Bangar Doko
+PS	284334	زواتا	secondary	1	0	0	Zawata
+PS	284335	משה דיין		63	4	73	
+PS	284335	נתיב המזלות	residential	45	7	56	Netiv HaMazalot
+PS	284335	מזל אריה	residential	22	4	23	Mazal Arie
+PS	284335	משה סנה	residential	15	1	29	Moshe Sne
+PS	284335	מזל גדי	residential	10	1	12	Mazal Gdi
+PS	284335	שדרות נווה יעקב	tertiary	10	4	22	Sderot Neve Yaakov
+PS	284335	מזל שור	residential	8	1	13	Mazal Shor
+PS	284335	מזל טלה	tertiary	7	2	16	Mazal Tale
+PS	284335	מזל מאזניים	residential	6	2	12	Mazal Moznayim
+PS	284335	מזל דלי	residential	5	2	10	Mazal Dli
+PS	284335	מזל תאומים	residential	4	3	9	Mazal Teomim
+PS	284335	אימאם שאפי	residential	2	4	4	Imam Shaf'ai
+PS	284335	בית חנינא	tertiary	2	102	120	Beit Hanina
+PS	284335	רא"ל משה לוי	residential	2	16	28	Moshe Levi
+PS	284335	Imam Shaf'ai	residential	1	0	0	
+PS	284335	א-זהור	secondary	1	0	0	A-Zahur
+PS	284335	א-סמאח סמטה 2	residential	1	0	0	A-Samah Alley 2
+PS	284335	אבא אחימאיר	residential	1	0	0	Abba Ahimeir
+PS	284335	אבו מאדי	residential	1	0	0	Abu Madi
+PS	284335	אבו תמאם	residential	1	0	0	Abu Tamam
+PS	284335	אל ארדשיר	residential	1	0	0	Al-Ardashir
+PS	284335	אל בוחיארי	residential	1	0	0	Al-Barudi
+PS	284335	אל ג'וזה	residential	1	0	0	Al-Joza
+PS	284335	אל הילאל	residential	1	0	0	Al-Hilal
+PS	284335	אל ח'יאם	residential	1	0	0	A-Nahel
+PS	284335	אל חורי אסקנדר	residential	1	0	0	Iskandar el-Khuri
+PS	284335	אל מאמון	residential	1	0	0	Al-Ma'mun
+PS	284335	אל מוואצלי אסתאך	residential	1	0	0	Is'haq Al-Mawsili
+PS	284335	אל מונזר	residential	1	0	0	Al-Munzer
+PS	284335	אל מועתצם	residential	1	0	0	Al-Mu'tasem
+PS	284335	אל ע 'רבי	residential	1	0	0	Al-Gharbi
+PS	284335	אל עבאס	residential	1	0	0	Al-Abas
+PS	284335	אל עלמי פיידי	residential	1	0	0	Faydi el-Alami
+PS	284335	אל פאראבי	residential	1	0	0	Al-Farabi
+PS	284335	אל קינדי	residential	1	0	0	Al-Qindi
+PS	284335	אל-ג'דוד	residential	1	0	0	Al-Judud
+PS	284335	אל-ג'דוד סמטה 3	residential	1	0	0	Al-Judud Alley 3
+PS	284335	אל-ג'דוד סמטה 4	residential	1	0	0	Al-Judud Alley 4
+PS	284335	אל-ג'דוד סמטה 7	residential	1	0	0	Al-Judud Alley 7
+PS	284335	אל-קסר	tertiary	1	0	0	Al-Qasr
+PS	284335	בדר	residential	1	0	0	Bader
+PS	284335	בוחתורי	residential	1	0	0	Al-Buhturi
+PS	284335	בן נאפע	residential	1	0	0	Auqba Ben Naf'ea
+PS	284335	ג'סר א נטף	residential	1	0	0	Jisr A-Natf
+PS	284335	דאג'אני עבד אלרחמאן	residential	1	0	0	Abed Al-Rahman Dajani
+PS	284335	דרך ביר נבאלה	tertiary	1	0	0	Beir Naballa
+PS	284335	דרך חיזמא	residential	1	0	0	Hizma Road
+PS	284335	דרך חיזמא סמטה 3	residential	1	0	0	Hizma Road Alley 3
+PS	284339	Aqraba - Awarta	secondary	1	0	0	
+PS	284339	Beit Furik - Beit Dajan	tertiary	1	0	0	
+PS	284341	Orqan Trad - Shuyukh Al 'Arrub	unclassified	1	0	0	
+PS	284341	חזקוני	residential	1	0	0	
+PS	284341	יונתן בן עוזיאל	residential	1	0	0	Yonatan Ben Uziel
+PS	284341	רבינו בחיי	residential	1	0	0	Rabeinu Bechaye
+PS	284341	الشارع الالتفافي	tertiary	1	0	0	Aleltfafe
+PS	284341	شارع السعادة	unclassified	1	0	0	As-Sa'adah
+PS	284341	شارع السمكة	residential	1	0	0	As-Samaka
+PS	284341	شارع الطيبة	residential	1	0	0	Sharia Al-Taybeh
+PS	284341	شارع المنزلة	unclassified	1	0	0	Al-Manzela
+PS	284341	شارع الهلال	residential	1	0	0	Al-Hilal
+PS	284341	شارع رئيسي	tertiary	1	0	0	Main
+PS	284341	شارع شانة	residential	1	0	0	Sharia Shana
+PS	284341	شارع شيوخ العروب	unclassified	1	0	0	Shuyukh Al-Arroub
+PS	284341	شارع عروض الجمالة	tertiary	1	0	0	Uroud Al-Jamala
+PS	284341	شارع مدرسة البنات الثانوية	residential	1	0	0	Girls Secondary School
+PS	284343	street alwhede	primary	1	0	0	
+PS	284343	ציר אלון	primary	1	0	0	Allon Road
+PS	284347	Tarqumia - Surif	primary	1	0	0	
+PS	284347	طريق ترقوميا-الخليل	secondary	1	0	0	To Tarqomia Village
+PS	284362	Beita - 'Awarta	tertiary	1	0	0	
+PS	284362	Beita - Aqraba	tertiary	1	0	0	
+PS	284362	Beita - Ein Roujan	unclassified	1	0	0	
+PS	284362	Beita - Osarin	tertiary	1	0	0	
+PS	284362	Beita - Ousein	residential	1	0	0	
+PS	284362	Karm Nimer	unclassified	1	0	0	
+PS	284362	Rabee street v	living_street	1	0	0	
+PS	284362	شارع المنطقه الصناعيه	residential	1	0	0	
+PS	284375	המגיד ממעזריטש	tertiary	74	9	132	HaMagid Mimezrich
+PS	284375	קדושת לוי	tertiary	73	16	108	Kedushat Levi
+PS	284375	הרב שך	residential	62	6	88	haRav Shach
+PS	284375	החוזה מלובלין	tertiary	32	3	58	Hohoze Milublin
+PS	284375	כנסת יחזקאל	tertiary	30	5	41	Knesset Yehezkael
+PS	284375	דרכי איש	residential	27	2	37	Darchei Ish
+PS	284375	הרב יעקב מוצפי	residential	25	7	45	HaRav Yaakov Mutzafi
+PS	284375	מפעל הש"ס	tertiary	25	3	31	Mifal HaShas
+PS	284375	ישמח ישראל	residential	24	3	29	Yismach Yisrael
+PS	284375	הרב מזוועהיל	residential	23	4	34	HaRav Mizvehil
+PS	284375	אוהב ישראל	residential	22	2	32	Ohev Yisrael
+PS	284375	רבי עקיבא	tertiary	21	2	42	Rabbi Akiva
+PS	284375	אדמורי ויז'ניץ	residential	20	3	60	Admorei Vijnitz
+PS	284375	פחד יצחק	residential	20	1	37	Pahad Yitzhak
+PS	284375	פנים מאירים	residential	18	3	32	Panim Meirim
+PS	284375	רבי יוסף קארו	residential	18	1	16	Rabi Yosef Karo
+PS	284375	בבא סאלי	tertiary	16	1	21	Baba Sali
+PS	284375	חזון איש	tertiary	16	1	21	Hazon Ish
+PS	284375	כף החיים	tertiary	16	6	36	Kaf HaHaim
+PS	284375	חת"ם סופר	tertiary	15	1	20	Hatam Sofer
+PS	284375	הר"ן	tertiary	14	1	21	HaRan
+PS	284375	הרב מנדבורנא	tertiary	13	1	35	HaRav MiNadvorna
+PS	284375	אגרות משה	tertiary	12	1	38	Igrot Moshe
+PS	284375	הגר"א	residential	12	1	18	HaGra
+PS	284375	אבא שאול	residential	11	5	30	HaRav Abba Shaul
+PS	284375	אלעזר המודעי	tertiary	11	5	23	Elazar HaModai
+PS	284375	הרב אבא שאול	residential	11	3	47	HaRav Abba Shaul
+PS	284375	יהודה צדקה	tertiary	10	2	19	Yehuda Zadka
+PS	284375	יסוד העבודה	residential	10	1	15	Yesod Haavoda
+PS	284375	נועם אלימלך	residential	10	1	29	Noam Elimelech
+PS	284375	אש קודש	tertiary	9	3	20	Esh Kadosh
+PS	284375	בעל שם טוב	residential	9	1	20	Baal Shem Tov
+PS	284375	הרב אוירבך	tertiary	9	1	24	HaRav Oyerbach
+PS	284375	הרבי מליובאויטש		9	2	15	
+PS	284375	חיי יצחק	residential	9	7	25	Chayei Yitzchak
+PS	284375	הרב בן ציון ברוק	residential	8	1	7	Harav Ben Zion Bruk
+PS	284375	חכמת אליעזר		8	1	10	
+PS	284375	אריאלי	residential	7	2	20	HaRav Itzhak Arieli
+PS	284375	בנין דוד	residential	7	5	23	Binyan David
+PS	284375	החיד"א	tertiary	7	1	12	HaHida
+PS	284375	הרב ברים	residential	7	4	14	HaRav Berim
+PS	284375	אם הבנים	residential	6	2	10	Em HaBanim
+PS	284375	בעל התניא	residential	6	1	11	Baal HaTanya
+PS	284375	חפץ חיים	residential	5	1	8	Hafetz Haim
+PS	284375	רבי יוחנן בן זכאי	tertiary	5	3	16	Rabi Yohanan Ben Zakay
+PS	284375	האדמו"ר מרוז'ין	tertiary	4	12	30	HaAdmor MeRojin
+PS	284375	הדף היומי	tertiary	4	5	27	HaDaf HaYomi
+PS	284375	הרב קנייבסקי	tertiary	4	3	6	HaRav Kaniyevski
+PS	284375	התעוררות תשובה	residential	4	2	12	Hitorerut Tshuva
+PS	284375	חב"ד	tertiary	4	12	27	Chabad
+PS	284375	חלקת יואב	residential	4	4	16	Halukat Yoav
+PS	284375	נחליאלי	residential	4	17	22	Nahlieli
+PS	284375	רכסים	tertiary	4	11	22	Rekhasim
+PS	284375	אור החיים	residential	3	2	10	Or HaHayim
+PS	284375	דברי חיים	tertiary	3	6	10	Divrei Chaim
+PS	284375	האדמו"ר מסלונים	residential	3	1	9	Haadmor Mislonim
+PS	284375	הרב קניג	tertiary	3	13	47	HaRav Kenig
+PS	284375	כנסת מרדכי	tertiary	3	3	7	Knesset Mordechai
+PS	284375	מבוא מרגלית	residential	3	1	9	Mevo Margalit
+PS	284375	רבי נחמן מברסלב	tertiary	3	1	11	Rabbi Nahman Mibreslav
+PS	284375	בין איש חי	residential	2	1	5	
+PS	284375	המהרי"ץ	tertiary	2	5	9	HaMahritz
+PS	284375	הרב בנדר	residential	2	3	7	HaRav Bender
+PS	284375	הרב יצחק אריאלי	residential	2	10	15	HaRav Itzhak Arieli
+PS	284375	הרבי מליובאוויטש	tertiary	2	3	12	HaRabbi MiLubavitch
+PS	284375	קניג	tertiary	2	51	53	HaRav Kenig
+PS	284375	Al Aqsa	residential	1	0	0	
+PS	284375	haRav Shach	residential	1	0	0	
+PS	284375	she`ab Al Arab	unclassified	1	0	0	
+PS	284375	אבן עזרא	residential	1	0	0	Eben Ezra
+PS	284375	אדמו"רי באיאן	residential	1	0	0	Admorei Boyan
+PS	284375	אוהל שרה	residential	1	0	0	Ohel Sarah
+PS	284375	אלה	residential	1	0	0	Ela
+PS	284375	אמרי סופר	tertiary	1	0	0	Imrei Sofer
+PS	284375	גוש קטיף	residential	1	0	0	Gush Katif
+PS	284375	גשר רפאים	primary	1	0	0	Refaim bridge
+PS	284375	דוכיפת	tertiary	1	0	0	Duchifat
+PS	284375	דון יצחק אברבנל	residential	1	0	0	Don Yitschok Abarbnel
+PS	284375	דרך בנימין הצדיק	residential	1	0	0	Derech Binyamin Hazadik
+PS	284375	האנפה	residential	1	0	0	HaAnafa
+PS	284375	הטוב והמטיב	residential	1	0	0	HaTov VeHametiv
+PS	284375	המבי"ט	residential	1	0	0	Hamabit
+PS	284375	המנורה	residential	1	0	0	HaMenora
+PS	284375	הציפורן	residential	1	0	0	HaZiporen
+PS	284375	הקטורת	residential	1	0	0	HaKetoret
+PS	284375	הרב אלישיב	residential	1	0	0	Harav Eliyashiv
+PS	284375	הרב חיים נאה	residential	1	0	0	HaRav Haim Naeh
+PS	284375	הרב כדורי	residential	1	0	0	Harav Kaduri
+PS	284375	הרב מקרטשניף	residential	1	0	0	HaRav Mikretshnif
+PS	284375	הרב קעיג	tertiary	1	0	0	HaRav Keing
+PS	284375	הרב רפול	residential	1	0	0	HaRav Raful
+PS	284375	הרב שבדרון	residential	1	0	0	HaRav Shvardron
+PS	284375	הרמ"ק	residential	1	0	0	Haramak
+PS	284375	חושן משפט	residential	1	0	0	Choshen Mishpat
+PS	284375	טללים	residential	1	0	0	Tlalim
+PS	284375	יביע אומר	residential	1	0	0	Yabiah Omer
+PS	284375	יורה דעה	residential	1	0	0	Yorei Deah
+PS	284375	כיכר דוכיפת - מבואות	tertiary	1	0	0	
+PS	284375	כיכר דוכיפת - נחליאלי	tertiary	1	0	0	
+PS	284375	כיכר נחליאלי-דוכיפת	tertiary	1	0	0	
+PS	284405	دوار الزيتونة	secondary	1	0	0	Al-Zaytouna roundabout
+PS	284405	شارع 25	residential	1	0	0	
+PS	284405	شارع ابن الهيثم	residential	1	0	0	
+PS	284405	شارع احمد شوقي	residential	1	0	0	
+PS	284405	شارع البيادر	residential	1	0	0	
+PS	284405	شارع التقوى	residential	1	0	0	
+PS	284405	شارع الجولان	residential	1	0	0	
+PS	284405	شارع الرحمة	residential	1	0	0	Sharia Al-Rahma
+PS	284405	شارع السدرة	residential	1	0	0	
+PS	284405	شارع الفروش	residential	1	0	0	
+PS	284405	شارع المحبة	residential	1	0	0	
+PS	284405	شارع النجاح	residential	1	0	0	
+PS	284408	סחלב	residential	11	7	28	Sachlav
+PS	284408	יסמין	tertiary	6	4	282	Yasmin
+PS	284408	האורן	tertiary	2	302	340	
+PS	284408	מורן	residential	2	237	435	Moran
+PS	284408	שהם	residential	2	17	17	Shoham
+PS	284408	Bruqin Main	secondary	1	0	0	
+PS	284408	גולן	residential	1	0	0	Golan
+PS	284408	הספיר	residential	1	0	0	HaSapir
+PS	284408	העירית	residential	1	0	0	
+PS	284408	השנהב	residential	1	0	0	Ha'Shenhav
+PS	284408	חבצלת	residential	1	0	0	
+PS	284408	חרמון	residential	1	0	0	Hermon
+PS	284426	An Nazla Al Gharbiya - An Nazla Al Wusta		2	343	598	
+PS	284426	Imreiha -Nazlat Abu Nar	secondary	1	0	0	
+PS	284426	Nazlat Abu Nar - Attil	tertiary	1	0	0	
+PS	284426	نزلة أبو نارة - باقة الشرقية	secondary	1	0	0	Nazlat Abu Nar - Baqa Alsharqyah
+PS	284427	Bazazne Street	tertiary	1	0	0	
+PS	284427	Kafr Sur - Hajja	secondary	1	0	0	
+PS	284427	Lady Susan Mubarak	residential	1	0	0	
+PS	284427	Qalqiliya Street	residential	1	0	0	
+PS	284427	Suha Arafat	residential	1	0	0	
+PS	284427	Tirat Bani Sa'ab	residential	1	0	0	
+PS	284446	Residential Road	residential	1	0	0	
+PS	284446	الضاحية	residential	1	0	0	Al-Dahiah
+PS	284446	الضاحية / عين سيرين	residential	1	0	0	
+PS	284446	بلاطة البلد	residential	1	0	0	
+PS	284446	دوار الفارس	residential	1	0	0	
+PS	284446	دوار برتقالة	tertiary	1	0	0	Orange roundabout
+PS	284446	شارع أبو يوسف	tertiary	1	0	0	Abe Yousuf
+PS	284446	شارع الإقليمي	primary	1	0	0	Sharia Al-Iqlami
+PS	284446	شارع الحسبة	tertiary	1	0	0	
+PS	284446	شارع الماتورات	tertiary	1	0	0	Electricity Station
+PS	284446	شارع المياه	tertiary	1	0	0	
+PS	284446	شارع بلاطة عسكر	tertiary	1	0	0	
+PS	284446	شارع جمال عبد الناصر / المحافظة	secondary	1	0	0	Gamal Abdel Nasser Street
+PS	284446	شارع سليمان النابلسي	primary	1	0	0	Sharia Suleiman Al-Nabulsi
+PS	284446	شارع عراق التايه	residential	1	0	0	Iraq Attayeh
+PS	284446	شارع عمان	tertiary	1	0	0	Amman Street
+PS	284446	شارع عمان / مفرق الغاوي	tertiary	1	0	0	Amman Street
+PS	284446	شارع كلية هشام حجاوي	residential	1	0	0	
+PS	284446	شارع مؤتة	residential	1	0	0	
+PS	284446	عسكر القديم	tertiary	1	0	0	
+PS	284461	Al Bayyadat	residential	1	0	0	
+PS	284461	Al- Daweh	residential	1	0	0	
+PS	284461	Al-A'waj	residential	1	0	0	
+PS	284461	As-Sunawbar	residential	1	0	0	
+PS	284461	Bal'a - Al 'Attara	tertiary	1	0	0	
+PS	284461	Illar - Bal'a	tertiary	1	0	0	
+PS	284461	Main	tertiary	1	0	0	
+PS	284461	Sona Elwawe	tertiary	1	0	0	
+PS	284461	Wad Amar	tertiary	1	0	0	
+PS	284461	Wat'et Jom'a	residential	1	0	0	
+PS	284461	شارع أبو الحلاوة	residential	1	0	0	Abu Helweh
+PS	284461	شارع أم التوت	residential	1	0	0	Umm At Tut
+PS	284461	شارع الحارة الفوقة	tertiary	1	0	0	Al Hara Al Foqa
+PS	284480	'Azzun	secondary	1	0	0	
+PS	284480	Abd al-Jalil al-Huwwari	residential	1	0	0	
+PS	284480	Adwan	residential	1	0	0	
+PS	284480	Al-'Awda	residential	1	0	0	
+PS	284480	Al-Hajj Malik	residential	1	0	0	
+PS	284480	Al-Quds	residential	1	0	0	
+PS	284480	Al-Raheem	residential	1	0	0	
+PS	284480	Al-Shuhada	secondary	1	0	0	
+PS	284480	Alwan	residential	1	0	0	
+PS	284480	Azzun - Izbat At Tabib	secondary	1	0	0	
+PS	284480	Azzun - Kafr Thulth	secondary	1	0	0	
+PS	284480	Badwan	residential	1	0	0	
+PS	284480	Beit Jiffa	unclassified	1	0	0	
+PS	284480	Fatme al-Ghazal	unclassified	1	0	0	
+PS	284480	Filasteen	residential	1	0	0	
+PS	284480	Hantash	tertiary	1	0	0	
+PS	284480	Jaffa	residential	1	0	0	
+PS	284480	Jayyus - Azzun	primary	1	0	0	
+PS	284480	Khalil al-Rahman	residential	1	0	0	
+PS	284480	Muhammad Shubeita	residential	1	0	0	
+PS	284480	Musa al-Natur	residential	1	0	0	
+PS	284480	Occupation Rd.	unclassified	1	0	0	
+PS	284480	Quran	residential	1	0	0	
+PS	284480	Radwan	residential	1	0	0	
+PS	284485	Aa Zawya	residential	1	0	0	
+PS	284485	Al Zawia	residential	1	0	0	
+PS	284485	Alzawia	residential	1	0	0	
+PS	284485	al zawia	residential	1	0	0	
+PS	284486	Adh Dhahiriya - Hadab al 'Alaqa	tertiary	1	0	0	
+PS	284486	Marah Al Baqqar - Khrbat Abu Hamead	secondary	1	0	0	
+PS	284486	alalaka street شارع وادي العلقه	secondary	1	0	0	
+PS	284486	גפן	residential	1	0	0	Gefen
+PS	284486	זית	residential	1	0	0	Zayit
+PS	284486	חרוב	residential	1	0	0	Haruv
+PS	284486	רימון	residential	1	0	0	Rimon
+PS	284486	תאנה	residential	1	0	0	Teena
+PS	284486	תמר	tertiary	1	0	0	Tamar
+PS	284486	خير اولاد عايشة2	residential	1	0	0	
+PS	284486	شارع موسى كمال الشلمي الظهراوي	residential	1	0	0	
+PS	284486	طريق الضاهرية-الخليل	secondary	1	0	0	
+PS	284486	طريق الظاهرية-سومرة	residential	1	0	0	Adh Dhahiriya - Somara
+PS	284486	طريق الظاهرية-ميتار	secondary	1	0	0	
+PS	284486	مصطفى موسى الشلمي	tertiary	1	0	0	
+PS	284486	موسى الشلمي	residential	1	0	0	
+PS	284487	Main Road Of American University	secondary	1	0	0	
+PS	284487	talfet area	residential	1	0	0	
+PS	284487	شارع الدبه	residential	1	0	0	
+PS	284487	شارع الصحية	residential	1	0	0	
+PS	284487	طريق مدرسة البنات	residential	1	0	0	
+PS	284489	شارع سليمان النابلسي	primary	1	0	0	Sharia Suleiman Al-Nabulsi
+PS	284495	Ein Yabrod	residential	1	0	0	
+PS	284498	Ein Sinia	residential	1	0	0	
+PS	284501	Ein Kinia	residential	1	0	0	
+PS	284501	ציר ולרשטיין	unclassified	1	0	0	
+PS	284515	Betounia	secondary	1	0	0	
+PS	284524	Tal El-Rabee'	tertiary	1	0	0	
+PS	284540	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	284547	حاجز حوارة	secondary	1	0	0	Huwara checkpoint
+PS	284556	האיילות	tertiary	1	0	0	HaAyalot
+PS	284556	شارع الطيرة	secondary	1	0	0	Sharia Al-Tira
+PS	284557	Attil - Illar		2	926	926	
+PS	284557	Al-Jalama	residential	1	0	0	
+PS	284557	Al-Namlat	residential	1	0	0	
+PS	284557	Bir al-Sikka	residential	1	0	0	
+PS	284557	Manshiyat Attil	residential	1	0	0	
+PS	284557	Nazlat Abu Nar - Attil	primary	1	0	0	
+PS	284557	Quds Street	tertiary	1	0	0	
+PS	284557	Raml Attil	residential	1	0	0	
+PS	284557	Zalafat al-Raml	residential	1	0	0	
+PS	284557	כביש שירות - גדר ההפרדה	unclassified	1	0	0	Military Road
+PS	284558	الطيبة سيلة الحارثية	tertiary	1	0	0	AlTaybah - Silet Alharthyah
+PS	284558	منطقة عانين	tertiary	1	0	0	anen area
+PS	284559	الطيبة	residential	1	0	0	Altybeh
+PS	284559	دير جرير	residential	1	0	0	
+PS	284563	Atara	residential	1	0	0	
+PS	284563	Rawabi	tertiary	1	0	0	
+PS	284563	Rawabi access road	tertiary	1	0	0	
+PS	284563	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	284572	شارع القدس	secondary	3	223	424	Ramallah Street
+PS	284572	Al-Noor	residential	1	0	0	
+PS	284572	Ibn Batota	residential	1	0	0	
+PS	284572	איתן	residential	1	0	0	Eitan
+PS	284572	דרך רמאללה סמטה 120	residential	1	0	0	Ramallah Road Alley 120
+PS	284572	היוזמה	residential	1	0	0	HaYozma
+PS	284572	היוצק	residential	1	0	0	HaYotsek
+PS	284572	היצירה	residential	1	0	0	HaYetsira
+PS	284572	הכורכים	residential	1	0	0	HaKorkhim
+PS	284572	המדפיסים	residential	1	0	0	HaMadpisim
+PS	284572	המובילים	residential	1	0	0	HaMovilim
+PS	284572	הנחושת	residential	1	0	0	HaNehoshet
+PS	284572	העופרת	residential	1	0	0	HaOferet
+PS	284572	התמרוקים	residential	1	0	0	HaTamrukim
+PS	284572	יציב	residential	1	0	0	Yatsiv
+PS	284572	מעש	residential	1	0	0	Ma'as
+PS	284572	מפעלות	tertiary	1	0	0	Mif'alot
+PS	284572	נמל התעופה	tertiary	1	0	0	Nemal HaTe'ufa
+PS	284572	עוצמה	residential	1	0	0	Otsma
+PS	284572	עטרות	tertiary	1	0	0	Atarot
+PS	284581	ברקת	residential	1	0	0	Bareket
+PS	284581	גרניט	residential	1	0	0	Granit
+PS	284581	דרך י"ד באלול	tertiary	1	0	0	Derech 14 B'Elul
+PS	284581	האגוז	residential	1	0	0	HaEgoz
+PS	284581	האורן	tertiary	1	0	0	HaOren
+PS	284581	האלה	residential	1	0	0	HaEla
+PS	284581	האלון	residential	1	0	0	HaAlon
+PS	284581	הארז	residential	1	0	0	HaErez
+PS	284581	ההרדוף	residential	1	0	0	HaHarduf
+PS	284581	החצב	residential	1	0	0	HaHatsav
+PS	284581	החרוב	residential	1	0	0	HaHaruv
+PS	284581	היערה	residential	1	0	0	HaYaara
+PS	284583	דרך ביטחון	unclassified	1	0	0	Military Road
+PS	284583	הגורן	residential	1	0	0	
+PS	284583	הגת	residential	1	0	0	
+PS	284583	הכרם	residential	1	0	0	
+PS	284583	السموع - يطا	secondary	1	0	0	asamou - yatta
+PS	284583	الولي - أصفي	tertiary	1	0	0	
+PS	284583	ام قوس	residential	1	0	0	
+PS	284583	حارة البدارين	residential	1	0	0	
+PS	284583	طريق البنية رافات	tertiary	1	0	0	
+PS	284583	طريق السموع-الضاهرية	secondary	1	0	0	As Samu' - Adh Dhahiriya
+PS	284583	طريق ترابي	residential	1	0	0	
+PS	284583	طريق حارة الزقزاق	residential	1	0	0	
+PS	284583	طريق مشاة للمستوطنين	unclassified	1	0	0	
+PS	284583	عقبة العجوز	residential	1	0	0	
+PS	284593	الشارع الرئيسي --وسط البلد مقابل محلات الحج عبود جرارعه	tertiary	1	0	0	
+PS	284597	Al-Bayad	residential	1	0	0	
+PS	284597	As-Sammak - Almahajer	residential	1	0	0	
+PS	284597	Ashyoukh Main	residential	1	0	0	
+PS	284597	Az-Zuraqa	residential	1	0	0	
+PS	284597	Marah Ad-Danan	residential	1	0	0	
+PS	284597	Qaffan	residential	1	0	0	
+PS	284597	Shu'ab Tajah	residential	1	0	0	
+PS	284597	شارع ابو غنام	residential	1	0	0	Sharia Abu Ghanam
+PS	284598	Al-Shuhada	residential	1	0	0	
+PS	284868	Dheisheh main	residential	1	0	0	
+PS	284868	Wadi Artas	residential	1	0	0	
+PS	284881	شارع إلى الفوار	secondary	1	0	0	To Al Fawar
+PS	284882	Al-Istiqlal	residential	1	0	0	
+PS	284882	Khirbet Jubara - kafr Jammal	primary	1	0	0	
+PS	284888	شارع عرانة الرئيسي	tertiary	1	0	0	Arraneh Main Road
+PS	284888	منطقة عرانة	residential	1	0	0	Arraneh zone
+PS	284889	Al Rameh Area	tertiary	1	0	0	
+PS	284889	شارع المدرسة	residential	1	0	0	
+PS	284890	שדרות נווה יעקב	tertiary	38	22	91	Sderot Neve Yaakov
+PS	284890	מעגלות הרב פרדס	tertiary	30	14	55	Maagalot HaRav Pardes
+PS	284890	אשר גולאק	residential	25	2	424	Asher Gulak
+PS	284890	כפר עברי	residential	25	1	26	Kfar Ivri
+PS	284890	הרב פניז'ל		23	2	511	
+PS	284890	מאיר בלבן		22	2	29	
+PS	284890	הרב זווין		19	9	43	
+PS	284890	אדמונד פלג	residential	15	1	15	Edmond Fleg
+PS	284890	ברוך צוקרמן	residential	12	2	516	Baruch Tzukerman
+PS	284890	הרב פנחס וסרמן	residential	11	2	22	HaRav Pinchas Vaserman
+PS	284890	הרב שמואל גדליה ניימן		11	5	20	
+PS	284890	דב בר יקר	residential	10	2	14	Dov Bar Yakar
+PS	284890	הרב שי זווין		9	8	39	
+PS	284890	ויקטור ויוליוס	residential	7	2	14	Victor Viulius
+PS	284890	לאה גולדברג	residential	7	1	8	Lea Goldberg
+PS	284890	אליעזר לבונה	residential	6	2	12	Eliezer Levona
+PS	284890	צ'רלס לוץ		6	2	12	
+PS	284890	נווה יעקב	tertiary	5	66	66	Sderot Neve Yaakov
+PS	284890	ראובן גמזון	residential	5	1	7	Reuven Gamzon
+PS	284890	מבוא דב בר יקר		4	1	5	
+PS	284890	הרב משה שאולי		3	10	14	
+PS	284890	4297	unclassified	1	0	0	
+PS	284890	4299	unclassified	1	0	0	
+PS	284890	Abd Alqader Al-Hussaini	residential	1	0	0	
+PS	284890	Al-Harami Shuqri	residential	1	0	0	
+PS	284890	Hisham bin AbdAlmalek	residential	1	0	0	
+PS	284890	Ibn Batota	residential	1	0	0	
+PS	284890	Jaba' Bridge	unclassified	1	0	0	
+PS	284890	Omar Al-Mokhtar	residential	1	0	0	
+PS	284890	Rab'a Al-Adawia	unclassified	1	0	0	
+PS	284890	אבא אחימאיר	residential	1	0	0	Abba Ahimeir
+PS	284890	אל חאלסה	residential	1	0	0	Al-Halsa
+PS	284890	אל סאפדי	residential	1	0	0	A-Safdi
+PS	284890	אסטורה	tertiary	1	0	0	Astora
+PS	284890	ביסאן	residential	1	0	0	Bisan
+PS	284890	בלבן מאיר	residential	1	0	0	Meir Balaban
+PS	284890	ג'סר א נטף	tertiary	1	0	0	Jisr A-Natf
+PS	284890	ג'עפר א-סאדק	residential	1	0	0	Jaafar ASadeq
+PS	284890	דוד אלעזר	residential	1	0	0	David Elazar
+PS	284890	דוויק הרב חיים שאול	residential	1	0	0	Harav Chayim Shaul Dweik
+PS	284890	דרך ביר נבאלא	unclassified	1	0	0	Bir Nabala Road
+PS	284890	דרך בית חורון	tertiary	1	0	0	Bet Horon Road
+PS	284890	היוזמה	residential	1	0	0	HaYozma
+PS	284890	זווין	residential	1	0	0	HaRav Zevin
+PS	284890	יתרון	residential	1	0	0	Yitron
+PS	284890	כביש 21 (ירושלים)	secondary	1	0	0	Road 21 (Jerusalem)
+PS	284890	כף החיים	residential	1	0	0	Kaf Ha'Chaim
+PS	284890	לוי יעקב	residential	1	0	0	Levi Ya'akov
+PS	284893	Arraba	residential	3	424	598	
+PS	284893	Fakhri Abd al-Hadi	residential	1	0	0	
+PS	284893	Main Road to Arabeh	tertiary	1	0	0	
+PS	284893	Main Road to Fahmah	tertiary	1	0	0	
+PS	284893	To Arabeh Village	tertiary	1	0	0	
+PS	284899	Ain Al-Soltan Street	residential	1	0	0	
+PS	284899	Al-Yarmok	residential	1	0	0	
+PS	284899	Aqbat Jaber Camp	residential	1	0	0	
+PS	284899	Ghernata	residential	1	0	0	
+PS	284899	Jafar Altaiar	residential	1	0	0	
+PS	284899	Jericho	secondary	1	0	0	
+PS	284899	Lena Alnablsi	residential	1	0	0	
+PS	284899	Mahmmod Darweesh	residential	1	0	0	
+PS	284899	Musa bin Nusair	residential	1	0	0	
+PS	284899	Omar bin Abd AlAziz	residential	1	0	0	
+PS	284899	Sa'ad Sayel	residential	1	0	0	
+PS	284899	Sharia Al-Carmel	tertiary	1	0	0	
+PS	284899	Steele Honey	residential	1	0	0	
+PS	284899	Wadi Alqalt	residential	1	0	0	
+PS	284899	israeli road	unclassified	1	0	0	
+PS	284899	כביש ואדי קלט	residential	1	0	0	Wadi Alqalt
+PS	284899	أبو بكر	residential	1	0	0	Abu Bakr
+PS	284899	أكرم زعتر	residential	1	0	0	Akram Zeater
+PS	284899	السنابل	residential	1	0	0	Al-Sanabel
+PS	284899	الشفاء	residential	1	0	0	Al-Shifa'
+PS	284899	العوجا	secondary	1	0	0	Al-Oajah
+PS	284899	الكفاح	residential	1	0	0	Al-Kefah
+PS	284899	المتنبي	residential	1	0	0	Almutanabi
+PS	284899	دوار أريحا	secondary	1	0	0	Jericho Main Circle
+PS	284899	دوار شهيد محمد أبو خضير	secondary	1	0	0	Muhammad Abu Khadir Roundabout
+PS	284899	شاتيلا	residential	1	0	0	Shatila
+PS	284899	شارع أبو إياد	residential	1	0	0	Sharia Abu Iyad
+PS	284899	شارع أبو علي إياد	residential	1	0	0	Abu Ali Iyad
+PS	284899	شارع أريحا الخضراء	tertiary	1	0	0	Green Jericho
+PS	284899	شارع الأمل	residential	1	0	0	Sharia Al-Amal
+PS	284899	شارع الجلاء	residential	1	0	0	Aljalaa
+PS	284899	شارع الدورة	tertiary	1	0	0	Al Dora
+PS	284899	شارع الزهور	residential	1	0	0	Sharia Al-Zuhur
+PS	284899	شارع الشهداء	residential	1	0	0	Sharia Al-Shuhada
+PS	284899	شارع العودة	residential	1	0	0	Sharia Al-Awda
+PS	284899	شارع القادسية	tertiary	1	0	0	Al-Qadiseyyah
+PS	284899	شارع الكرمل	residential	1	0	0	Sharia Al-Carmel
+PS	284899	شارع المأمون	residential	1	0	0	Sharia Al-Mamun
+PS	284899	شارع المغطس	tertiary	1	0	0	Sharia Al-Maghtas
+PS	284899	شارع المنار	residential	1	0	0	Al Manar
+PS	284899	شارع اليرموك	residential	1	0	0	Al Yarmuk
+PS	284899	شارع امرؤ القيس	residential	1	0	0	Imrua' Alqaysi
+PS	284899	شارع بلال	residential	1	0	0	Bilal
+PS	284899	شارع بيسان	tertiary	1	0	0	Sharia Bissan
+PS	284899	شارع جعفر الطيار	residential	1	0	0	Jafar Altaiar
+PS	284899	شارع حطين	residential	1	0	0	Sharia Hittin
+PS	284899	شارع خالد بن الوليد	residential	1	0	0	Sharia Khaled Bin Al-Waleed
+PS	284899	شارع زكي	residential	1	0	0	Sharia Zaki
+PS	284904	Arakah area	living_street	1	0	0	
+PS	284904	To Al-arka village	tertiary	1	0	0	
+PS	284909	Araboneh zone	residential	1	0	0	
+PS	284922	Aqraba - Awarta	secondary	1	0	0	
+PS	284922	Beita - Aqraba	tertiary	1	0	0	
+PS	284922	Majdal Bani Fadil	secondary	1	0	0	
+PS	284922	Yanun Road	residential	1	0	0	
+PS	284922	ציר אלון	primary	1	0	0	Allon Road
+PS	284933	Anzah Area	living_street	1	0	0	
+PS	284933	Main Way to Merka	tertiary	1	0	0	
+PS	284933	anzah area	living_street	1	0	0	
+PS	284936	An Nazla Ash Sharqiya - An Nazla Al Wusta	unclassified	1	0	0	
+PS	284951	النبي صالح	residential	1	0	0	Alnabe Saleh
+PS	284951	شارع النبي صالح	tertiary	1	0	0	Street Nabi Salih
+PS	284951	شارع تميم الداري	residential	1	0	0	Tamim Dari Street
+PS	284962	Al-Anbiya Road	unclassified	1	0	0	
+PS	284962	Al-Ghaba	residential	1	0	0	
+PS	284962	Hannun	residential	1	0	0	
+PS	284962	Jayyus Road	residential	1	0	0	
+PS	284962	Khuleif	residential	1	0	0	
+PS	284962	Malik Drive	unclassified	1	0	0	
+PS	284962	Masa'id	residential	1	0	0	
+PS	284962	Nabi Elyas - Jayus Road	unclassified	1	0	0	
+PS	284962	Zummari Street	residential	1	0	0	
+PS	284972	عانين	residential	1	0	0	Anin
+PS	284972	منطقة عانين	residential	1	0	0	anen area
+PS	284973	شارع رئيسي	tertiary	1	0	0	Main
+PS	284976	Al Sekki	residential	1	0	0	
+PS	284976	Al-Danin	living_street	1	0	0	
+PS	284976	Al-Khalayil	living_street	1	0	0	
+PS	284976	Al-Sha'rawiyyah (Nablus-Tulkarm Road)	primary	1	0	0	
+PS	284976	Bal'a-AL'atara	tertiary	1	0	0	
+PS	284976	Hafez Hamdallah	living_street	1	0	0	
+PS	284976	Jabal al-Nar	living_street	1	0	0	
+PS	284976	Kafr Rumman - Anabta	tertiary	1	0	0	
+PS	284976	Sulieman Shak'a	living_street	1	0	0	
+PS	284976	המכבים	residential	1	0	0	
+PS	284976	משעול רחל	residential	1	0	0	
+PS	284999	To Al-arka village	tertiary	1	0	0	
+PS	284999	شارع حيفا	secondary	1	0	0	Sharia Haifa
+PS	285009	A-Birkah	tertiary	1	0	0	
+PS	285009	Al-Jabal	tertiary	1	0	0	
+PS	285009	Al-Madrasah	unclassified	1	0	0	
+PS	285009	Al-Majles	residential	1	0	0	
+PS	285009	Al-Masjed	residential	1	0	0	
+PS	285009	Al-Mena'ak Road	residential	1	0	0	
+PS	285009	Al-Qubeibah - Beit Anan	tertiary	1	0	0	
+PS	285009	Al-Qubeibah Main	tertiary	1	0	0	
+PS	285009	Al-Wa'arah	residential	1	0	0	
+PS	285009	Khellet Alsaqqal	residential	1	0	0	
+PS	285009	Old Town	residential	1	0	0	
+PS	285023	Al Motella area	residential	1	0	0	
+PS	285023	Jalkamous area	unclassified	1	0	0	
+PS	285023	Main Road to al Moghayair	secondary	1	0	0	
+PS	285023	Main road in Jalkamous	secondary	1	0	0	
+PS	285023	Main road to al Motalla	tertiary	1	0	0	
+PS	285023	al Moghair area	residential	1	0	0	
+PS	285024	AlMughayer	residential	1	0	0	
+PS	285024	Basem Alsabbagh	residential	1	0	0	
+PS	285024	Munadel Abu Alia	secondary	1	0	0	
+PS	285024	דרך גדעון	secondary	1	0	0	Derekh Gidon
+PS	285024	ציר אלון	primary	1	0	0	Allon Road
+PS	285026	אבי חושן	residential	1	0	0	Avnei Choshen
+PS	285026	אשבול	residential	1	0	0	Eshvol
+PS	285026	האומנים	residential	1	0	0	Ha'Omanim
+PS	285026	מעלה בנימין	residential	1	0	0	Ma'ale Binyamin
+PS	285026	נואית	residential	1	0	0	Noit
+PS	285026	נחל עוג	residential	1	0	0	Nahal Og
+PS	285026	נחל פרת	residential	1	0	0	Nahal Prat
+PS	285026	נחל קדרון	residential	1	0	0	Nahal Kidron
+PS	285026	צורית	residential	1	0	0	Tzurit
+PS	285032	Adam	residential	1	0	0	
+PS	285032	Medya	residential	1	0	0	
+PS	285033	Al-Mazra'a Al-Sharqiya	residential	3	2	100	
+PS	285033	المزرعة الشرقية	residential	1	0	0	Al-Mazra'a Al-Sharqiya
+PS	285034	Abu shkhaydem	residential	1	0	0	
+PS	285034	Ahmad Al-Yamani	residential	1	0	0	
+PS	285034	Almazra'a Alqibliya	tertiary	1	0	0	
+PS	285034	הגליל	residential	1	0	0	HaGalil
+PS	285034	הירדן	residential	1	0	0	HaYarden
+PS	285034	شارع دائري - حي ريف	residential	1	0	0	
+PS	285049	Al Khanko	residential	1	0	0	
+PS	285049	Al-'Awda	residential	1	0	0	
+PS	285049	Dar al-Leith	residential	1	0	0	
+PS	285049	Jindas	residential	1	0	0	
+PS	285049	Labbuna	residential	1	0	0	
+PS	285049	Lydda	residential	1	0	0	
+PS	285049	חוצה בנימין	primary	1	0	0	
+PS	285061	הזורעים	residential	10	2	20	HaZorim
+PS	285061	הקטורת	residential	6	64	74	HaKetoret
+PS	285061	Al-Baloo'	residential	1	0	0	
+PS	285061	Military Road	unclassified	1	0	0	
+PS	285061	בית הבחירה	residential	1	0	0	
+PS	285061	האלומה	residential	1	0	0	
+PS	285061	הדבש	residential	1	0	0	HaDvash
+PS	285061	הדגן	tertiary	1	0	0	HaDagan
+PS	285061	החריש	residential	1	0	0	
+PS	285061	העומר	residential	1	0	0	HaOmer
+PS	285061	הקציר	residential	1	0	0	
+PS	285061	מבוא ניקנור	residential	1	0	0	
+PS	285061	מוריה	residential	1	0	0	
+PS	285061	שדרות דוד המלך	tertiary	1	0	0	David HaMelekh Blvd
+PS	285061	שיח השדה	residential	1	0	0	
+PS	285061	שלם	residential	1	0	0	
+PS	285061	شارع القدس-الخليل	secondary	1	0	0	
+PS	285061	طاليثا قومي	secondary	1	0	0	Talitha Kumi
+PS	285066	شارع القدس-الخليل	secondary	4	2	301	Al Quds-Al Khalil
+PS	285066	Al-Hawooze Street		3	222	597	
+PS	285066	דוד המלך	residential	3	32	303	David HaMelekh
+PS	285066	شارع الفحص		3	1	10	
+PS	285066	Dahyit Iskan Al-Baladiyah Street		2	599	5992	
+PS	285066	יוני נתניהו	tertiary	2	1021	1022	Yoni Netanyahu
+PS	285066	شارع المدينة المنورة	tertiary	2	1	3	HaAdam HaRishon
+PS	285066	1st cycle	secondary	1	0	0	
+PS	285066	Abu Etwan Palace	residential	1	0	0	
+PS	285066	Abu Roman	secondary	1	0	0	
+PS	285066	Al Hawoz	secondary	1	0	0	
+PS	285066	Al Madares	tertiary	1	0	0	
+PS	285066	Al Madina	tertiary	1	0	0	
+PS	285066	Al Salam	secondary	1	0	0	
+PS	285066	Al-Fakhore	tertiary	1	0	0	
+PS	285066	Al-Irtibat Al-A'skare - Al-Fahse	tertiary	1	0	0	
+PS	285066	Al-Khalleh - Jabal Jouhar	residential	1	0	0	
+PS	285066	Al-Majnouna - Tarrama - Khursa	secondary	1	0	0	
+PS	285066	Al-Manasrah	tertiary	1	0	0	
+PS	285066	Al-Marzouq	residential	1	0	0	
+PS	285066	Bani Salim	tertiary	1	0	0	
+PS	285066	Dahyet Al-Rameh	residential	1	0	0	
+PS	285066	Dahyit Al-Zaiton	residential	1	0	0	
+PS	285066	Dwer Ban	residential	1	0	0	
+PS	285066	Ein Deir Baha	residential	1	0	0	
+PS	285066	Ein kher Al-Deen	secondary	1	0	0	
+PS	285066	Go To Dear BAha	residential	1	0	0	
+PS	285066	Go To Wadi Al-Gruse	residential	1	0	0	
+PS	285066	Halhul -Nuba	tertiary	1	0	0	
+PS	285066	Harav Bajayo	tertiary	1	0	0	
+PS	285066	Himony st	tertiary	1	0	0	
+PS	285066	Jabal Al-Rahmah	residential	1	0	0	
+PS	285066	Kahane	residential	1	0	0	
+PS	285066	Kamal Al-Damiri	residential	1	0	0	
+PS	285066	Kastel	residential	1	0	0	
+PS	285066	Khalet AL-Baq'a	residential	1	0	0	
+PS	285066	Khallet Al-Magharbeh	residential	1	0	0	
+PS	285066	King Faisal	residential	1	0	0	
+PS	285066	Kurbaj Street (Al-Fahs)	residential	1	0	0	
+PS	285066	Ma'ale HaImahot	residential	1	0	0	
+PS	285066	Ma'ale Sarit	tertiary	1	0	0	
+PS	285066	Magharet El-Zoqe'a	tertiary	1	0	0	
+PS	285066	Malkiel Ashkenazi	residential	1	0	0	
+PS	285066	Mohammad Omar Al-Muhtaseb	residential	1	0	0	
+PS	285066	Osamah	residential	1	0	0	
+PS	285066	Qrn Al-Thour	residential	1	0	0	
+PS	285066	Qrn Al-Thour Roundabout	residential	1	0	0	
+PS	285066	Ramban	tertiary	1	0	0	
+PS	285066	Sa'ir - Beit 'Einun	secondary	1	0	0	
+PS	285066	Sayedna Abrahem roundabout	tertiary	1	0	0	
+PS	285066	Sharia Abu Aishah	residential	1	0	0	
+PS	285066	Sharia Essa	residential	1	0	0	
+PS	285066	Sharia Jabal Johar	tertiary	1	0	0	
+PS	285066	Tareq Ibn Zeyad	residential	1	0	0	
+PS	285066	Wadi AL-Karm	tertiary	1	0	0	
+PS	285066	Wadi Al-Hariyyah	residential	1	0	0	
+PS	285066	Wadi Qana	tertiary	1	0	0	
+PS	285066	khaled Ibn Al-Waleed	residential	1	0	0	
+PS	285066	tel rumaida	residential	1	0	0	
+PS	285066	ארץ חמדה	residential	1	0	0	Eretz Hemda
+PS	285066	בן ציון טבגר	residential	1	0	0	Ben Zion Tavger
+PS	285066	גבעת האבות	residential	1	0	0	Givat Ha'avot
+PS	285066	גור אריה	secondary	1	0	0	Gur Ariye
+PS	285066	דרך נופי ממרא	secondary	1	0	0	Derech Nofei Mamre
+PS	285066	הרא"ם	residential	1	0	0	HaRam
+PS	285066	הרב גורן	tertiary	1	0	0	HaRav Goren
+PS	285066	חלב ודבש	residential	1	0	0	Halav udvash
+PS	285066	חרצית	residential	1	0	0	Hartzit
+PS	285066	יאיר	residential	1	0	0	Yair
+PS	285066	יהושוע בן נון	residential	1	0	0	Yehoshua Ben Nun
+PS	285066	יצחק טבנקין	residential	1	0	0	Yitschak Tabankin
+PS	285066	כיכר באב א-זאויה	tertiary	1	0	0	Bab az Zawiyah Square
+PS	285066	כלנית	residential	1	0	0	Kalanit
+PS	285066	כרכום	residential	1	0	0	Karkom
+PS	285066	מרגלות חברון	residential	1	0	0	Margelot Hebron
+PS	285066	משה בוסאני לוי	residential	1	0	0	Moshe Busani Levi
+PS	285066	נופי ממרא	residential	1	0	0	Nofe Mamre
+PS	285066	נרקיס	residential	1	0	0	Narkis
+PS	285066	סולם אלדד	residential	1	0	0	Sulam Eldad
+PS	285066	עמק חברון	tertiary	1	0	0	Al-Sahleh
+PS	285066	ציר המתפללים	residential	1	0	0	Prayers׳ road
+PS	285066	ציר ציון	tertiary	1	0	0	Lapid Rd.
+PS	285066	רקפת	residential	1	0	0	Rakefet
+PS	285066	שדי חמד	residential	1	0	0	Sde Hemed
+PS	285066	שכונ הקרוואנים	residential	1	0	0	Caravan Neighborhood
+PS	285066	שער שפירא	residential	1	0	0	Shapira Gate
+PS	285066	أبو عبيدة إبن الجراح	secondary	1	0	0	Abu Obayda Ibn Al-Jarrah
+PS	285066	ابن خلدون	residential	1	0	0	Ibn Khaldun
+PS	285066	البويرة	residential	1	0	0	
+PS	285066	الحاووز الثاني شارع ننقر	residential	1	0	0	The second container nonqor
+PS	285066	المجد سنجر	residential	1	0	0	
+PS	285066	بئر الباشات	residential	1	0	0	
+PS	285066	جبل كنعان	residential	1	0	0	Jabal Kan'an
+PS	285066	خلة المغاربة	residential	1	0	0	Khallet Al-Magharbeh
+PS	285066	دوار التحرير	secondary	1	0	0	altahrier Roundabout
+PS	285066	دوار الشعرواي	tertiary	1	0	0	Al Sharawy roundabout
+PS	285066	دوار الصحة	secondary	1	0	0	Al Siha Roundabout
+PS	285066	دوار خباب	tertiary	1	0	0	Khabab roundabout
+PS	285066	شارع أبو بكر الصديق	residential	1	0	0	Abu Baker Al-Sedeeq
+PS	285066	شارع أبو عياش	tertiary	1	0	0	Nachalat Avot
+PS	285069	Abu Baker Al-Seddeq	residential	1	0	0	
+PS	285070	طريق الجب - بدّو	tertiary	1	0	0	Al-Jib - Biddu Road
+PS	285071	Al-Janiyah	residential	1	0	0	
+PS	285100	Bille Street	residential	1	0	0	
+PS	285100	Gipsy Road	residential	1	0	0	
+PS	285100	Kafr Sur - Hajja	secondary	1	0	0	
+PS	285100	Musa al-Gharib	residential	1	0	0	
+PS	285100	Samhan Street	residential	1	0	0	
+PS	285100	Tayyim Street	residential	1	0	0	
+PS	285100	Wahab b. Munabbih	residential	1	0	0	
+PS	285101	נגב	residential	2	8	10	Negev
+PS	285101	Al-Sahaba	unclassified	1	0	0	
+PS	285101	Azzun - Izbat At Tabib	secondary	1	0	0	
+PS	285101	Bayyan Street	tertiary	1	0	0	
+PS	285101	Dublan Street	residential	1	0	0	
+PS	285101	Ibrahim Micho Street	residential	1	0	0	
+PS	285101	Kafrthulth Izbit Jaloud Main Road	residential	1	0	0	
+PS	285101	Khalail Street	unclassified	1	0	0	
+PS	285101	Musa al-Natur Road	unclassified	1	0	0	
+PS	285101	Tafeeli Street	unclassified	1	0	0	
+PS	285101	אודם	residential	1	0	0	Odem
+PS	285101	איילון	residential	1	0	0	Ayalon
+PS	285101	אירוס	residential	1	0	0	Iris
+PS	285101	ארבל	residential	1	0	0	Arbel
+PS	285101	גולן	residential	1	0	0	Golan
+PS	285101	גלבוע	tertiary	1	0	0	Gilboa
+PS	285101	גליל	residential	1	0	0	Galil
+PS	285101	גלעד	residential	1	0	0	Gilad
+PS	285101	גרניט	residential	1	0	0	Granit
+PS	285101	דן	residential	1	0	0	Dan
+PS	285101	דרור	residential	1	0	0	Dror
+PS	285101	הבשור	residential	1	0	0	HaBsor
+PS	285101	הגפן	residential	1	0	0	HaGefen
+PS	285101	הזית	tertiary	1	0	0	HaZayit
+PS	285102	חוצה שומרון	primary	1	0	0	Trans-Samaria Highway
+PS	285108	כרמל	residential	5	2	34	Carmel
+PS	285108	ארבל	tertiary	4	1	25	Arbel
+PS	285108	Baghdad	residential	2	0	12	
+PS	285108	Diar Abban	residential	2	224	224	
+PS	285108	Holland Street		2	0	0	
+PS	285108	Nablus Street - شارع نابلس		2	224	224	
+PS	285108	Abu Ali iyad	residential	1	0	0	
+PS	285108	Abu Jehad	residential	1	0	0	
+PS	285108	Abu Qash	residential	1	0	0	
+PS	285108	Al nidal St شارع النضال	residential	1	0	0	Al Nidal
+PS	285108	Al-Kauther	residential	1	0	0	
+PS	285108	Al-Lydd	residential	1	0	0	
+PS	285108	Al-Mub'adeen	residential	1	0	0	
+PS	285108	Al-Qastal	residential	1	0	0	
+PS	285108	Al-Zaid	residential	1	0	0	
+PS	285108	Alalali	residential	1	0	0	
+PS	285108	Alburaq	residential	1	0	0	
+PS	285108	Alghazali	residential	1	0	0	
+PS	285108	Alien	residential	1	0	0	
+PS	285108	Alkhandaq	residential	1	0	0	
+PS	285108	Alkhawarizmi	residential	1	0	0	
+PS	285108	Alma'moun	residential	1	0	0	
+PS	285108	Alnada	residential	1	0	0	
+PS	285108	Alshaikh Abdullah	residential	1	0	0	
+PS	285108	Alsudia	residential	1	0	0	
+PS	285108	Bader	residential	1	0	0	
+PS	285108	Bader Street;Al Bader	residential	1	0	0	
+PS	285108	Basheet	residential	1	0	0	
+PS	285108	Benya	residential	1	0	0	
+PS	285108	Binbella	residential	1	0	0	
+PS	285108	Birzeit Road طريق بيرزيت	secondary	1	0	0	Birzeit Road
+PS	285108	Bit leed	residential	1	0	0	
+PS	285108	Dair Tarif	secondary	1	0	0	
+PS	285108	Emile Touma street	residential	1	0	0	
+PS	285108	Fadwa Toqan	residential	1	0	0	
+PS	285108	Hamza Street;Nablus	residential	1	0	0	
+PS	285108	Mecca	residential	1	0	0	
+PS	285108	Moa'ta	residential	1	0	0	
+PS	285108	Mu'tah	residential	1	0	0	
+PS	285108	Sa'ad Bin Abi Waqqas	residential	1	0	0	
+PS	285108	Safad	residential	1	0	0	
+PS	285108	Safad;Akka	residential	1	0	0	
+PS	285108	Samiha Khalil	residential	1	0	0	
+PS	285108	Sharia Al-Carmel	residential	1	0	0	
+PS	285108	Surda	residential	1	0	0	
+PS	285108	Taha Hussan	residential	1	0	0	
+PS	285108	Youm Al-Ard	residential	1	0	0	
+PS	285108	khawla	residential	1	0	0	
+PS	285111	طريق أريحا	secondary	2	112	112	Tariq Jericho
+PS	285111	Albaba	tertiary	1	0	0	
+PS	285111	Aleskan	residential	1	0	0	
+PS	285112	כביש גישה למגלשת עוג'ה	residential	1	0	0	
+PS	285113	Bal'a-AL'atara	tertiary	1	0	0	
+PS	285113	Old Afula-Nablus Railway	residential	1	0	0	
+PS	285126	Ajoul	tertiary	1	0	0	
+PS	285126	Atara	tertiary	1	0	0	
+PS	285127	Ejah Area	residential	1	0	0	
+PS	285127	Ejah area	residential	1	0	0	
+PS	285127	Old Afula-Nablus Railway	unclassified	1	0	0	
+PS	285149	مسار إبراهيم	residential	1	0	0	Ibrahim Path
+PS	285161	Abwein	residential	1	0	0	
+PS	285220	طريق بيرزيت	secondary	1	0	0	Birzeit Road
+PS	285279	AlRass	unclassified	1	0	0	
+PS	285279	Almadares	residential	1	0	0	
+PS	285279	Cemetery	tertiary	1	0	0	
+PS	285279	شارع الجامعة	secondary	1	0	0	Sharia University
+PS	285279	شارع المدارس	tertiary	1	0	0	Almadares
+PS	285279	وادي الجهير	tertiary	1	0	0	Aljaheer Valley
+PS	285285	Aboud	tertiary	1	0	0	
+PS	285285	السرب	residential	1	0	0	
+PS	285285	الطريق التحتا أو باب السربة	residential	1	0	0	
+PS	285285	الطريق الجديد	residential	1	0	0	
+PS	285285	الطريق رئيسي عابود ( main road)	residential	1	0	0	
+PS	285285	الطريق رئيسي عابود (main road)	tertiary	1	0	0	Aboud
+PS	285285	شارع الشهداء	residential	1	0	0	Sharia Al-Shuhada
+PS	285285	شارع الكنائس (church street)	residential	1	0	0	
+PS	285285	شارع المنتزه	residential	1	0	0	Sharia Al-Muntaza
+PS	285285	شارع شقبا القديم	residential	1	0	0	Sharia Shuqba Al-Qadim
+PS	285285	طريق الحووز	residential	1	0	0	
+PS	285285	طريق وادي الليمون ( lemon vally road)	unclassified	1	0	0	
+PS	6945291	Al-Qattaneen Market	pedestrian	1	0	0	
+PS	6945291	Cardo Minimus	pedestrian	1	0	0	
+PS	6945291	בתי מחסה	residential	1	0	0	Batei Mahase
+PS	6945291	השלשלת	pedestrian	1	0	0	Silsileh
+PS	6945291	מעלה השלום	tertiary	1	0	0	Maale HaShalom
+PS	6945291	משגב לדך	pedestrian	1	0	0	Misgav Ladach
+PS	6945291	רחבת ארמון בית אומיה	pedestrian	1	0	0	Umayyad Palace Square
+PS	6945291	רחבת הכותל המערבי	pedestrian	1	0	0	Western Wall Plaza
+PS	6945291	שוק הכותנה	pedestrian	1	0	0	
+PS	6945291	תפארת ישראל	pedestrian	1	0	0	Tiferet Israel Street
+PS	6945291	السلسلة	pedestrian	1	0	0	Silsileh
+PS	6945291	الوادي	pedestrian	1	0	0	Al Wadi
+PS	6967857	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	6967863	Sulaiman Daghma	residential	1	0	0	
+PS	6967863	شارع عبسان الصغيرة	tertiary	1	0	0	Abasan Al-Saghera
+PS	6967865	Abu ryad al'abadla	residential	1	0	0	
+PS	6967865	Al-Amal	residential	1	0	0	
+PS	6967865	Alwad "Eng Aladdin Safi"	residential	1	0	0	
+PS	6967865	No.2	residential	1	0	0	
+PS	6967865	Omer bin al'khatab	residential	1	0	0	
+PS	6967865	المطاحن	tertiary	1	0	0	al-Matahen
+PS	6967865	جمال عبد الناصر	secondary	1	0	0	Jamal Abd al-Nasser
+PS	6967865	شارع العبادلة	residential	1	0	0	Al-Abadla
+PS	6967865	شارع صلاح الدين	tertiary	1	0	0	Sharia Salah Al-Din
+PS	6967865	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	6967865	كيسوفيم	tertiary	1	0	0	Kisufim
+PS	6967990	Maghazi Shohda	tertiary	1	0	0	
+PS	6967990	Mokhim 1	tertiary	1	0	0	
+PS	6967990	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	6968050	Street N° 4 (North Cemetery Street) شارع رقم 4 (شارع شمال المقبرة )	residential	1	0	0	
+PS	6968050	شارع رقم 1 ( شارع المصدر )	unclassified	1	0	0	Street N° 1 ( Almusaddar Street )
+PS	6968050	شارع رقم 3 ( شارع شمال المدرسة )	tertiary	1	0	0	Street N° 3 (North School Street)
+PS	6968063	شارع عمر بن الخطاب	tertiary	1	0	0	Sharia Omar Bin Al-Khattab
+PS	7303419	מדבר סיני	residential	83	5	79	Midbar Sinai
+PS	7303419	אליהו מרידור	tertiary	57	3	75	Eliyahu Meridor
+PS	7303419	בר כוכבא	residential	56	3	93	Bar Kokhba
+PS	7303419	ששת הימים	tertiary	55	3	59	Sheshet HaYamim
+PS	7303419	יוסף נדבה	residential	43	6	53	Yosef Nedava
+PS	7303419	מיצרי טירן	residential	38	2	39	Metzarey Tiran
+PS	7303419	יואל אמנון פרידלר	residential	30	4	32	Yoel Amnon Friedler
+PS	7303419	נהגי הפרדות		30	10	39	
+PS	7303419	רמת הגולן	residential	28	2	61	Ramat HaGolan
+PS	7303419	שועפט	tertiary	28	61	120	Shuafat
+PS	7303419	איסר נתנזון	residential	25	7	41	Isser Nathanzon
+PS	7303419	הרב זווין	residential	25	30	79	HaRav Zevin
+PS	7303419	יהודה אליצור	residential	25	2	31	Yehuda Elitzur
+PS	7303419	פארן	tertiary	23	2	17	Paran
+PS	7303419	האצ"ל	residential	22	3	25	HaEtzel
+PS	7303419	לוי אשכול	tertiary	20	2	40	Levi Eshkol
+PS	7303419	ההגנה	tertiary	19	4	30	HaHagana
+PS	7303419	משה רחמילביץ'	tertiary	18	158	187	Moshe Rachmilevich
+PS	7303419	אביר יעקב	residential	17	1	32	Abir YaAkov
+PS	7303419	איתן לבני	residential	15	4	36	Eitan Livni
+PS	7303419	יוספטל	tertiary	15	1	21	Yoseftal
+PS	7303419	פאול גרינינגר	residential	15	6	21	Paul Gruninger
+PS	7303419	י.ש ברנדווין	residential	14	3	17	Y.S. Brandvin
+PS	7303419	מח"ל	residential	14	2	28	Mahal
+PS	7303419	רינה ניקובה	residential	14	1	19	Rina Nikova
+PS	7303419	ג'ורג' אדם סמית	residential	12	1	13	George Adam Smith
+PS	7303419	דוד גויטיין	residential	12	2	15	David Goitein
+PS	7303419	לח"י	tertiary	12	6	30	Lehi
+PS	7303419	מרדכי זר	residential	12	2	13	Mordehai Zar
+PS	7303419	נחום שאדיקר		12	1	12	
+PS	7303419	Anatot		11	1	11	
+PS	7303419	ויליאם פרל	residential	11	1	12	Wiliam Pearl
+PS	7303419	מאיר יושע	residential	11	4	16	Meir Yosha
+PS	7303419	הרב שי זווין		10	1	50	
+PS	7303419	מוריס בורג'ס מונורי	residential	10	2	20	Monori
+PS	7303419	פתחיה		10	1	11	
+PS	7303419	שמעון הצדיק	tertiary	10	2	26	Shimon HaTsadik
+PS	7303419	החי"ל	residential	9	7	92	HaHayil
+PS	7303419	מבוא המאבק	residential	9	2	18	Mevo HaMaavak
+PS	7303419	Bir-As-Sabil		8	16	30	
+PS	7303419	הרב וינוגרד	tertiary	8	3	17	HaRav Vinograd
+PS	7303419	הרב טולדנו		8	23	42	
+PS	7303419	מעבר המיתלה	tertiary	8	1	9	Maavar HaMitle
+PS	7303419	מעלות דפנה	residential	8	118	139	William Albright
+PS	7303419	שכם	tertiary	8	58	93	Shechem
+PS	7303419	ביבארס	residential	7	1	11	Beibars
+PS	7303419	החומה השלישית		7	7	16	
+PS	7303419	הרב אברהם רביץ		7	2	24	
+PS	7303419	חזון אי"ש	tertiary	7	1	20	Hazon Ish
+PS	7303419	מאיר גרשון	tertiary	7	16	58	Meir Gershon
+PS	7303419	מבוא בנימין שלום	residential	7	2	14	Mevo Benjamin Shalom
+PS	7303419	מעגלות הרב פרדס	tertiary	7	35	54	Maagalot HaRav Pardes
+PS	7303419	סגולת ישראל	residential	7	1	8	Sgulat Yisrael
+PS	7303419	עידו הנביא		7	9	16	
+PS	7303419	שמואל הנביא	tertiary	7	13	24	Shmuel HaNavi
+PS	7303419	אבא ברדיצ'ב	residential	6	1	8	Abba Bardichev
+PS	7303419	אגרות משה		6	1	12	
+PS	7303419	אלי תבין	residential	6	22	27	Eli Tavin
+PS	7303419	הנביאים	tertiary	6	14	20	HaNeviim
+PS	7303419	הרב שמואל גדליה ניימן		6	1	10	
+PS	7303419	חיים גבריהו	residential	6	1	11	Haim Gvaryahu
+PS	7303419	מבוא הפרטיזנים	residential	6	1	39	Mevo HaPartizanim
+PS	7303419	מפרץ שלמה	residential	6	1	10	Mifratz Shlomo
+PS	7303419	שבטי ישראל		6	41	56	
+PS	7303419	הרב משה בן טוב	residential	5	2	8	
+PS	7303419	חיים קהן	residential	5	2	10	Haim Kehan
+PS	7303419	מבוא העשרה	residential	5	1	7	Mevo HaAsara
+PS	7303419	משמרות	residential	5	4	8	Mishmarot
+PS	7303419	Mu'adh Bin Jabal	residential	4	1	9	
+PS	7303419	ארזי הבירה		4	45	50	
+PS	7303419	דרך הר הזיתים	tertiary	4	3	9	Derekh Har HaZeitim
+PS	7303419	כ"ץ	residential	4	1	4	Katz
+PS	7303419	לוחמי הגטאות	tertiary	4	1	7	Lohamei HaGetaot
+PS	7303419	מוג'יר א-דין	residential	4	2	8	Mujir A-Din
+PS	7303419	משאריף	tertiary	4	2	8	Mashareef
+PS	7303419	משה זקס	tertiary	4	5	11	Moshe Zaks
+PS	7303419	שייח ענבר	tertiary	4	16	32	Seih Anbar
+PS	7303419	الخلة	residential	4	5	11	Al-Khilleh;Al-Khala
+PS	7303419	الصوّانة	residential	4	7	17	Al-Suwaana
+PS	7303419	Al-Mask		3	1	4	
+PS	7303419	אל סהל	tertiary	3	7	13	Al Sahel
+PS	7303419	גמול	residential	3	12	16	Gmul
+PS	7303419	הנוצרים	pedestrian	3	88	92	Christian Quarter Street
+PS	7303419	הרב יוסף אליאך		3	1	5	
+PS	7303419	זווין	residential	3	3	40	HaRav Zevin
+PS	7303419	ים סוף	tertiary	3	1	3	Yam Suf
+PS	7303419	מבוא פלים	residential	3	62	76	Mevo Pal-Yam
+PS	7303419	עציון גבר	residential	3	1	3	Etzion Gever
+PS	7303419	צאלח א-דין	tertiary	3	7	26	Salah ad Din
+PS	7303419	שומרי אמונים		3	1	3	
+PS	7303419	שלמה יוסף אליאך		3	2	6	
+PS	7303419	שפשף ' אל אדאווייה		3	3	7	
+PS	7303419	Umm Al-Amid		2	12	12	
+PS	7303419	הרב בנימין צביאלי		2	21	28	
+PS	7303419	חזון איש		2	5	6	
+PS	7303419	כפר עברי		2	2	4	
+PS	7303419	מבוא הנחל	residential	2	2	4	Mevo HaNahal
+PS	7303419	נבי שועייב	residential	2	8	12	Nabbi Shuaib
+PS	7303419	קרל נטר	tertiary	2	40	42	Karl Netter
+PS	7303419	Al-Basatin	residential	1	0	0	
+PS	7303419	Al-Nashashibi Street	tertiary	1	0	0	
+PS	7303419	Aleskan	tertiary	1	0	0	
+PS	7303419	Almabar	residential	1	0	0	
+PS	7303419	Group Meeting Point	pedestrian	1	0	0	
+PS	7303419	HaMekubalim Road	pedestrian	1	0	0	
+PS	7303419	Ma’alot Hanan Porat	residential	1	0	0	
+PS	7303419	Mikve Israel	residential	1	0	0	
+PS	7303419	Omar Ibn El-Khattab Square	pedestrian	1	0	0	
+PS	7303419	Ras Albostan	tertiary	1	0	0	
+PS	7303419	Saint Helena Road	pedestrian	1	0	0	
+PS	7303419	א-נג'ום	residential	1	0	0	A-Najum
+PS	7303419	אבו בכר א-סדיק	residential	1	0	0	Abu Bakr A-Sidiq
+PS	7303419	אבו עבידה	residential	1	0	0	Abu Ubeida
+PS	7303419	אבן ג'ובייר	residential	1	0	0	Ibn Jubair
+PS	7303419	אבן סינא	residential	1	0	0	Ibn Sina
+PS	7303419	אהרון קציר	tertiary	1	0	0	Aharon Katzir
+PS	7303419	אום אל עמד	residential	1	0	0	Umm Al-Amid
+PS	7303419	אח'ואן אל צפא	residential	1	0	0	Ikhwan Al-Safa
+PS	7303419	אחמד עלי	tertiary	1	0	0	Ahmad Ali
+PS	7303419	אחמד שאוקי	residential	1	0	0	Ahmad Shawqi
+PS	7303419	איבן חלדון	residential	1	0	0	Ibn Haldun
+PS	7303419	אייל אציל	residential	1	0	0	Eyal Atsil
+PS	7303419	אימאם אלחנבאלי	residential	1	0	0	Imam al-Hanbali
+PS	7303419	אל אהטאל	residential	1	0	0	Al-Ahtal
+PS	7303419	אל אח'טאל	residential	1	0	0	Al-Akhtal
+PS	7303419	אל אספהאני	residential	1	0	0	Al-Isfahani
+PS	7303419	אל הייר	residential	1	0	0	Al-Hij'ar
+PS	7303419	אל ח'אלידיה	pedestrian	1	0	0	Aqabat Al Khalidiyeh
+PS	7303419	אל חראיק	tertiary	1	0	0	AL-HARA'IQ
+PS	7303419	אל חרדוב	tertiary	1	0	0	Al-Hardub
+PS	7303419	אל חרובה	residential	1	0	0	AL-KHARUBE
+PS	7303419	אל חרירי	residential	1	0	0	Al-Hariri
+PS	7303419	אל טור	residential	1	0	0	Al-Tur
+PS	7303419	אל יעקובי	residential	1	0	0	Al-Ya'aqubi
+PS	7303419	אל כנייס	pedestrian	1	0	0	Aqabat El-Khanqa
+PS	7303419	אל מזדלפה	residential	1	0	0	Umm Al-Muamanin
+PS	7303419	אל מסעוד	residential	1	0	0	Al Mas'ud
+PS	7303419	אל מקדש	secondary	1	0	0	Al-Muqdasi
+PS	7303419	אל סהל אל אח'דר	residential	1	0	0	AL-SAHIL AL-AKHDAR
+PS	7303419	אל תקווא	residential	1	0	0	At-Taqwa
+PS	7303419	אל-אביאד	residential	1	0	0	Al-Abiad
+PS	7303419	אל-אדיב אסעאף אל-נשאשיבי	residential	1	0	0	Al Adibi Asa'af Al Nasashibi
+PS	7303419	אל-ביאן	residential	1	0	0	Al-Bayan
+PS	7303419	אל-חרדוב	tertiary	1	0	0	Al-Hardub
+PS	7303419	אל-כות'ר	tertiary	1	0	0	Al-Kothar
+PS	7303419	אל-מסכ	residential	1	0	0	Al-Mask
+PS	7303419	אל-קובסא	residential	1	0	0	Al-Qubsa
+PS	7303419	אלאסקאן	residential	1	0	0	Aleskan
+PS	7303419	אלי יבנ אבו טאלאב	residential	1	0	0	Ali Ibn Abu Taleb
+PS	7303419	אלמאבאר	residential	1	0	0	Almabar
+PS	7303419	אמרו אלקיס	residential	1	0	0	Imru' al-Qais
+PS	7303419	אסטורה	tertiary	1	0	0	Astora
+PS	7303419	אצ"ל	residential	1	0	0	Etsel
+PS	7303419	אררט	pedestrian	1	0	0	Ararat
+PS	7303419	אררט המלאך	pedestrian	1	0	0	Ararat Hamal'ach
+PS	7303419	באב חוטה	pedestrian	1	0	0	Bab Hutta Street
+PS	7303419	באהה שאון	residential	1	0	0	Beha A-Din
+PS	7303419	ביר א- סביל	residential	1	0	0	Bir-As-Sabil
+PS	7303419	ביר סאלם	residential	1	0	0	Bir Salem
+PS	7303419	בני אומיה	residential	1	0	0	Bnei Ummayah
+PS	7303419	בנימין מזר	tertiary	1	0	0	Binyamin Mazar
+PS	7303419	גגות גליציה	pedestrian	1	0	0	Gagot Galizia
+PS	7303419	גילגל	residential	1	0	0	Gilgal
+PS	7303419	דלמן	residential	1	0	0	Dalman
+PS	7303419	דני אלון	residential	1	0	0	Danny Alon
+PS	7303419	דרך חיזמא-אדם	primary	1	0	0	Hizma-Adam Road
+PS	7303419	דרך יריחו	secondary	1	0	0	Derekh Jericho
+PS	7303419	דרך מנהרת הר הצופים	secondary	1	0	0	Har Hatsofim Road
+PS	7303419	דרך ענתות	residential	1	0	0	Anatot Road
+PS	7303419	האוניברסיטה העברית	secondary	1	0	0	HaUniversita HaIvrit
+PS	7303419	האטאם טאווי	residential	1	0	0	Hatem A-Tawi
+PS	7303419	הארון אל-רשיד	residential	1	0	0	Harun al-Rashid
+PS	7303419	הגיא	pedestrian	1	0	0	Al Wadi
+PS	7303419	הדסה למפל	residential	1	0	0	Hadassa Lempel
+PS	7303419	ההתנדבויות	residential	1	0	0	HaHitnadvuyot
+PS	7303419	הוחזק דמטריוס הקדוש	pedestrian	1	0	0	Saint Dimitri's Road
+PS	7303419	היהודים	pedestrian	1	0	0	Jewish Quarter
+PS	7303419	המקובלים	pedestrian	1	0	0	Ha-Mekubalim Road
+PS	7303419	העופל	tertiary	1	0	0	HaOfel
+PS	7303419	הפטריארכיה הארמנית	residential	1	0	0	The Armenian Patriarchate Street
+PS	7303419	הפטריארכיה היוונית	pedestrian	1	0	0	Greek Orthodox Patriarchate Street
+PS	7303419	הפטריארכיה הלטינית	pedestrian	1	0	0	Latin Patriarchate Road
+PS	7303419	הצנחנים	tertiary	1	0	0	HaTsanhanim
+PS	7303419	הקארדו	pedestrian	1	0	0	HaKardo
+PS	7303419	הר המשחה	residential	1	0	0	Har HaMish'ha
+PS	7303419	הרב רביץ	tertiary	1	0	0	Harav Ravitz
+PS	7303419	הרב שלמה יוסף אליאך	residential	1	0	0	Shlomo Yosef Eliach
+PS	7303419	השליחים	pedestrian	1	0	0	Ar-Rusul
+PS	7303419	התות	pedestrian	1	0	0	HaTut
+PS	7303419	ואדי אל-ג'וז	secondary	1	0	0	Wadi Al-Joz
+PS	7303419	ויה דולורוזה	living_street	1	0	0	Via Dolorosa
+PS	7303419	ויליאם אולברייט	residential	1	0	0	William Albright
+PS	7303419	זלמן שוקן	residential	1	0	0	Zalman Shoken
+PS	7303419	זמזאם	residential	1	0	0	Zamzam
+PS	7303419	ח'אלד בן אל-וליד	tertiary	1	0	0	Khaled Ibn Al-Walid
+PS	7303419	חאפז איבראהים	residential	1	0	0	
+PS	7303419	חיים יסקי	tertiary	1	0	0	Haim Yeski
+PS	7303419	חיל ההנדסה	tertiary	1	0	0	Heil HaHandasa
+PS	7303419	חליף אל בלאדי	residential	1	0	0	Halif Al-Baladi
+PS	7303419	חרובה	residential	1	0	0	Haruva
+PS	7535657	גן הפסגה	residential	1	0	0	Gan Hapisga
+PS	7535657	האצ"ל	residential	1	0	0	HaEtzel
+PS	7535657	הגבורה	residential	1	0	0	HaGvura
+PS	7535657	ההתנחלות	residential	1	0	0	Ha'Hitnachalut
+PS	7535657	החלוצים	residential	1	0	0	HaHalutsim
+PS	7535657	העוז	residential	1	0	0	Ha'oz
+PS	7535657	העמל	residential	1	0	0	HaAmal
+PS	7535657	הקוממיות	tertiary	1	0	0	Komemiyut
+PS	7535657	התקווה	residential	1	0	0	Ha'Tikva
+PS	7535657	יפה נוף	residential	1	0	0	Yefe Nof
+PS	7535657	כיסופים	residential	1	0	0	Kisufim
+PS	7535657	לח"י	residential	1	0	0	Ha'Lehi
+PS	7870319	شارع الرازي	tertiary	1	0	0	Sharia Al-Razi
+PS	7870319	شارع علي بن ابي طالب	tertiary	1	0	0	Sharia Ali Bin Abi Talib
+PS	7870523	גפן	secondary	1	0	0	Gefen
+PS	7870523	השיירה	residential	1	0	0	
+PS	7870523	شارع الدباري	residential	1	0	0	Aldbari
+PS	7870523	صلاح الدين	tertiary	1	0	0	Salah Ad-Din
+PS	7870523	صوفا	unclassified	1	0	0	Sufa
+PS	7870523	طه حسين	tertiary	1	0	0	Taha Hussein
+PS	7871005	אבנט	residential	1	0	0	Avnet
+PS	7871005	אודם	residential	1	0	0	Odem
+PS	7871005	אפוד	residential	1	0	0	Efod
+PS	7871005	ביריה	residential	1	0	0	Biriya
+PS	7871005	ברקת	residential	1	0	0	Bareket
+PS	7871005	גרניט	residential	1	0	0	Granit
+PS	7871005	חושן	residential	1	0	0	Hoshen
+PS	7871005	חלמיש	residential	1	0	0	Halamish
+PS	7871005	יהלום	residential	1	0	0	Yahalom
+PS	7871005	סלע	residential	1	0	0	Sela
+PS	7871005	ספיר	residential	1	0	0	Sapir
+PS	7871005	ענבר	tertiary	1	0	0	Inbar
+PS	7889501	As'ad al-Qaddumi	residential	1	0	0	
+PS	7889501	Fadwa Tuqan	residential	1	0	0	
+PS	7889665	Aboud	tertiary	1	0	0	
+PS	7889665	Bait Reema	residential	1	0	0	
+PS	7889665	Dair Ghassaneh	residential	1	0	0	
+PS	7889665	חוצה בנימין	primary	1	0	0	Trans-Binyamin Road
+PS	7890005	ציר אלון	primary	1	0	0	Allon Road
+PS	7890118	שדרות החברה הכלכלית	secondary	1	0	0	HaHevra HaKalkalit Avenue
+PS	7890120	Bedouin	unclassified	1	0	0	
+PS	7890300	ואדי אל-ג'וז	secondary	5	21	29	Wadi Al-Joz
+PS	7890300	א טברי	residential	1	0	0	A-Tabari
+PS	7890300	אל מותנבי	residential	1	0	0	Al-Mutanabi
+PS	7890300	אל מקדש	residential	1	0	0	Al-Muqdasi
+PS	7890300	יבנ טאלאן	residential	1	0	0	Ibn Tulun
+PS	7890350	Ramallah/bethlehem	secondary	1	0	0	
+PS	7890350	شارع العبيدية	secondary	1	0	0	Al-Obaydiah
+PS	7890367	Arabic Association	residential	1	0	0	
+PS	7890368	AL_Doha	unclassified	1	0	0	
+PS	7890368	Dheisheh main	residential	1	0	0	
+PS	7890368	Farah Al-A'raj	residential	1	0	0	
+PS	7890368	Palestine	residential	1	0	0	
+PS	7890368	Sulyman Pools Road	unclassified	1	0	0	
+PS	7890368	Zaid bin Thabet Mosque Street	residential	1	0	0	
+PS	7890368	شارع القدس-الخليل	secondary	1	0	0	Jerusalem-Hebron
+PS	7890385	הדקל	tertiary	1	0	0	HaDekel
+PS	7890385	זית שמן	residential	1	0	0	Zeit Shemen
+PS	7890385	זרובבל	residential	1	0	0	Zrubavel
+PS	7890385	חנה	residential	1	0	0	Hannah
+PS	7890385	יהודה המכבי	residential	1	0	0	Yehuda HaMaccabi
+PS	7890385	יונתן החשמונאי	residential	1	0	0	Yonatan HaHashmonai
+PS	7890385	מתתיהו הכהן	residential	1	0	0	Matityahu HaCohen
+PS	7890385	שדרות דוד המלך	tertiary	1	0	0	David HaMelekh Blvd
+PS	7890385	שדרות רחל אימנו	tertiary	1	0	0	Sderot Rachel Eemenu
+PS	7890388	Wadi An Nis-Umm Salamuna	tertiary	1	0	0	
+PS	7890391	Ibei Hanahal	tertiary	1	0	0	
+PS	7890393	cafeerode	unclassified	1	0	0	
+PS	7890393	wadenmra	unclassified	1	0	0	
+PS	7890393	אבן עזרא	residential	1	0	0	Even Ezra
+PS	7890393	אברבנאל	residential	1	0	0	
+PS	7890393	רד"ק	residential	1	0	0	
+PS	7890393	רש"י	residential	1	0	0	
+PS	7890393	רשב"ם	residential	1	0	0	Rashbam
+PS	7890393	شارع سكني	residential	1	0	0	
+PS	7890393	شارع فرعي سكني	living_street	1	0	0	
+PS	7890393	طريق حارة سكنية	unclassified	1	0	0	
+PS	7890747	Tarqumia - Surif	primary	1	0	0	
+PS	7890813	Sa'ir - Beit 'Einun	secondary	1	0	0	
+PS	7890813	شارع بني اسليم	secondary	1	0	0	Bani Salim
+PS	7890843	شارع المدارس	secondary	1	0	0	Bir Musallam - Beit Maqdum
+PS	7890843	طريق بيت مكدوم-سيكا	primary	1	0	0	Beit Maqdum - Sikka
+PS	7890845	طريق إلى الخليل	tertiary	1	0	0	
+PS	7890846	طريق إلى الخليل	tertiary	1	0	0	
+PS	7890847	As Simia - Deir Samit	residential	1	0	0	
+PS	7890847	Beit 'Awwa - Wadi 'Ubeid	tertiary	1	0	0	
+PS	7890847	شارع عمر المختار	secondary	1	0	0	Sharia Omar Al-Mukhtar
+PS	7890847	طريق بيت مكدوم-سيكا	primary	1	0	0	Beit Maqdum - Sikka
+PS	7891142	Al Heela	residential	1	0	0	
+PS	7891143	Tarrama - wadi Ash Shajina	residential	1	0	0	
+PS	7891144	Hadab AI 'Alaqa - As Sura	residential	1	0	0	
+PS	7891144	Marah Al-Baqar - AS sura	secondary	1	0	0	
+PS	7891282	Hadab AI 'Alaqa - As Sura	tertiary	1	0	0	
+PS	7891283	طريق بيت عمرة-الحدب	residential	1	0	0	Beit Amra AL Hadab
+PS	7891283	طريق بيت عمرة-كرمة	tertiary	1	0	0	Beit 'Amra - Karma
+PS	7891504	طريق أم الدرج - النجادة	tertiary	1	0	0	Az Zuweidin - An Najada
+PS	7891506	طريق الضاهرية-الخليل	residential	1	0	0	
+PS	7891507	شارع أم لصفة	residential	1	0	0	Um Lasafa. St
+PS	7891508	طريق أم الدرج - النجادة	tertiary	1	0	0	Az Zuweidin - An Najada
+PS	7891508	طريق الزويدين - النجادة	tertiary	1	0	0	Az Zuweidin - An Najada
+PS	7891511	شارع البركة	tertiary	1	0	0	Sharia Al-Baraka
+PS	7895292	Old Afula-Nablus Railway	unclassified	1	0	0	
+PS	7895641	Al-Badan - Nsariyah/ Jordan Valley	primary	1	0	0	
+PS	7895641	Taluza - Al-Far'a	residential	1	0	0	
+PS	7895641	Wadi ALFar'a- AL Badhan	secondary	1	0	0	
+PS	7895641	Wadi ALFar'a- Nsariyah/ Jordan Valley	primary	1	0	0	
+PS	7896869	גשר שער הירדן	residential	1	0	0	Jordan Gateway Bridge
+PS	7896869	ציר אלון	primary	1	0	0	Allon Road
+PS	7915400	Beit 'Awwa	secondary	1	0	0	
+PS	7915400	Imreish - Abda	tertiary	1	0	0	
+PS	7915400	Tarrama - Khursa	secondary	1	0	0	
+PS	7915400	Tarrama School Road	tertiary	1	0	0	
+PS	8199386	האיילות	tertiary	41	5	66	HaAyalot
+PS	8199386	הראם	residential	20	1	22	Ha'Re'em
+PS	8199386	הכפיר	residential	17	1	18	Ha'Kfir
+PS	8199386	הגדי	residential	13	1	15	Ha'Gedi
+PS	8199386	חי בר	residential	8	1	15	Chai Bar
+PS	8199386	הדישון	residential	7	1	7	Ha'Dishon
+PS	8199386	הלולב	residential	7	18	36	Halulav
+PS	8199386	הצבי	residential	7	1	9	Ha'Tzevi
+PS	8199386	הברוש	residential	6	1	7	HaBrosh
+PS	8199386	התן	tertiary	6	7	17	HaTan
+PS	8199386	האר"י	residential	2	6	11	Ha'Ari
+PS	8199386	האתרוג	residential	2	3	5	HaEtrog
+PS	8199386	Beet Doko	tertiary	1	0	0	
+PS	8199386	אמנון ותמר	residential	1	0	0	Amnon VeTamar
+PS	8199386	בארות	residential	1	0	0	Be'erot
+PS	8199386	גבע	residential	1	0	0	Geva
+PS	8199386	גור אריה	residential	1	0	0	
+PS	8199386	דוכיפת	residential	1	0	0	Duchifat
+PS	8199386	דרגות	tertiary	1	0	0	Dragot
+PS	8199386	דרור	residential	1	0	0	Dror
+PS	8199386	האורן	residential	1	0	0	HaOren
+PS	8199386	האירוס	tertiary	1	0	0	HaIris
+PS	8199386	הגיא	residential	1	0	0	HaGai
+PS	8199386	הזית	residential	1	0	0	HaZayit
+PS	8199420	הכרמל	residential	3	13	44	HaCarmel
+PS	8199420	הערבה	residential	3	1	10	HaArava
+PS	8199420	אגס	residential	1	0	0	
+PS	8199420	איילון	residential	1	0	0	Ayalon
+PS	8199420	אלכסנדר	residential	1	0	0	Alexander
+PS	8199420	אמנון ותמר	residential	1	0	0	Amnon VeTamar
+PS	8199420	אפרסק	residential	1	0	0	
+PS	8199420	בוקק	residential	1	0	0	Bokek
+PS	8199420	דובדבן	residential	1	0	0	
+PS	8199420	דן	residential	1	0	0	Dan
+PS	8199420	דרגות	residential	1	0	0	Dragot
+PS	8199420	דרך האודם	residential	1	0	0	
+PS	8199420	האגוז	tertiary	1	0	0	HaEgoz
+PS	8199420	האורן	tertiary	1	0	0	HaOren
+PS	8199420	האירוס	residential	1	0	0	HaIris
+PS	8199420	האלה	residential	1	0	0	HaEla
+PS	8199420	הארבל	tertiary	1	0	0	HaArbel
+PS	8199420	הארגמן	residential	1	0	0	Ha'Argeman
+PS	8199420	הארז	residential	1	0	0	HaErez
+PS	8199420	הברוש	residential	1	0	0	HaBrosh
+PS	8199420	הגלבוע	tertiary	1	0	0	HaGilboa
+PS	8199420	הגעתון	residential	1	0	0	HaGa'aton
+PS	8199420	הגפן	residential	1	0	0	HaGefen
+PS	8199420	הדגנית	residential	1	0	0	HaDganit
+PS	11979628	אל ההר	residential	1	0	0	El HaHar
+PS	11979628	האבות	tertiary	1	0	0	HaAvot
+PS	11979628	האגוז	residential	1	0	0	HaEgoz
+PS	11979628	האלה	residential	1	0	0	HaEla
+PS	11979628	האלון	residential	1	0	0	HaAlon
+PS	11979628	הזית	residential	1	0	0	HaZayit
+PS	11979628	החורש	residential	1	0	0	HaHoresh
+PS	11979628	הישיבה	residential	1	0	0	HaYeshiva
+PS	11979628	הל"ה	residential	1	0	0	HaLamed He
+PS	11979628	הרימון	residential	1	0	0	HaRimon
+PS	11979628	הרקפת	residential	1	0	0	HaRakefet
+PS	11979628	השיירת	tertiary	1	0	0	HaShayeret
+PS	11979645	האדרת	residential	2	28	30	
+PS	11979645	ההדר	residential	1	0	0	
+PS	11979645	החיל	residential	1	0	0	
+PS	11979645	הנצח	residential	1	0	0	
+PS	11979645	העוז	residential	1	0	0	Ha'Oz
+PS	11979645	הצבי	tertiary	1	0	0	Hatzvi
+PS	11979645	השגב	residential	1	0	0	
+PS	11979645	השיר	residential	1	0	0	Hashir
+PS	11979645	התהילה	residential	1	0	0	HaTehila
+PS	11979646	אירוס	residential	1	0	0	Irus
+PS	11979646	בשמת	residential	1	0	0	Bosmat
+PS	11979646	דרך חיזמא-אדם	primary	1	0	0	Hizma-Adam Road
+PS	11979646	הרדוף הנחלים	residential	1	0	0	Harduf HaNehalim
+PS	11979646	ורד	residential	1	0	0	Vered
+PS	11979646	חבצלת	residential	1	0	0	HaVatselet
+PS	11979646	חצב	residential	1	0	0	Hatsav
+PS	11979646	חרצית	residential	1	0	0	Hartsit
+PS	11979646	יסמין	residential	1	0	0	Yasmin
+PS	11979646	יקינטון	residential	1	0	0	Yakinton
+PS	11979646	כלנית	residential	1	0	0	Kalanit
+PS	11979646	כרכום	residential	1	0	0	Karkum
+PS	11979646	לבונה	residential	1	0	0	Levona
+PS	11979646	לילך	residential	1	0	0	HaLilac
+PS	11979646	נופר	residential	1	0	0	Nofar
+PS	11979646	נורית	residential	1	0	0	Nurit
+PS	11979646	נרקיס	residential	1	0	0	Narkis
+PS	11979646	סביון	residential	1	0	0	Savyon
+PS	11979646	סיגלית	residential	1	0	0	Sigalit
+PS	11979646	פרג	residential	1	0	0	Parag
+PS	11979646	ציפורן	residential	1	0	0	
+PS	11979646	רקפת	residential	1	0	0	Rakefet
+PS	11979646	שדרות אדם	tertiary	1	0	0	Sderot Adam
+PS	11979652	אורי בר און	tertiary	1	0	0	Ori Bar On
+PS	11979652	הגפן	residential	1	0	0	HaGefen
+PS	11979652	הזית	residential	1	0	0	HaZayit
+PS	11979652	הרימון	tertiary	1	0	0	HaRimon
+PS	11979652	התמר	tertiary	1	0	0	HaTamar
+PS	11979652	מורד הדקל	residential	1	0	0	Morad HaDekel
+PS	11979652	סמטת האורז	residential	1	0	0	Simtat HaOrez
+PS	11979652	סמטת הדובדבן	residential	1	0	0	Simtat HaDuvdevan
+PS	11979770	ארץ הנגב	residential	1	0	0	Eretz HaNegev
+PS	11979770	הזמיר	residential	1	0	0	HaZamir
+PS	11979770	חבצלת השרון	residential	1	0	0	Havatselet HaSharon
+PS	11979770	מצפה דביר	residential	1	0	0	Mitzpe Dvir
+PS	11979770	מצפה קדם	residential	1	0	0	Mitzpe Kedem
+PS	11979770	ניצנים	residential	1	0	0	Nitsanim
+PS	11979770	קול התור	residential	1	0	0	Kol Hator
+PS	11979770	קרית ספר	residential	1	0	0	Kiryat Sefer
+PS	11979770	רבבה	residential	1	0	0	Revava
+PS	12156437	Al-Jalazon Camp	living_street	1	0	0	
+PS	12156437	Surda	residential	1	0	0	
+PS	12156437	אבני החושן	residential	1	0	0	Avnei HaHoshen
+PS	12156437	אפרים	residential	1	0	0	Ephraim
+PS	12156437	אצ״ל	residential	1	0	0	Etzel
+PS	12156437	ארץ חמדה	residential	1	0	0	Eretz Hemda
+PS	12156437	בועז	residential	1	0	0	Boaz
+PS	12156437	גינת אגוז	residential	1	0	0	Ginat Egoz
+PS	12156437	דרור	residential	1	0	0	Dror
+PS	12156437	דרך האמהות	residential	1	0	0	Derekh HaImahot
+PS	12156437	דרך החיים	tertiary	1	0	0	Derech Ha'Haim
+PS	12156437	דרך החלוצים	tertiary	1	0	0	Derech Ha'Haluzim
+PS	12156437	דרך העמק	residential	1	0	0	Derekh HaEmek
+PS	12156437	דרך העמקים	residential	1	0	0	Derech Ha'Amakim
+PS	12156437	דרך שבטי ישראל	residential	1	0	0	Derech Shivtei Yisrael
+PS	12156437	דרך שבעת המינים	residential	1	0	0	Derech Shivat Ha'Minim
+PS	12156437	האחוזה	residential	1	0	0	HaAhuza
+PS	12156437	הגנה	residential	1	0	0	Hagana
+PS	12156437	הזית	residential	1	0	0	HaZayit
+PS	12156437	המסילה	tertiary	1	0	0	Ha'Mesila
+PS	12156437	המפעל	residential	1	0	0	Ha'Mifal
+PS	12156437	הנזיר	residential	1	0	0	Ha'Nazir
+PS	12156437	הנצי"ב	residential	1	0	0	HaNatsiv
+PS	12156437	הרב עובדיה יוסף	residential	1	0	0	Rabbi Ovadya Yosef
+PS	12156577	הרמב"ם	residential	18	24	53	HaRambam
+PS	12156577	שתילי זיתים	residential	3	2	6	Shtilay Zaytim
+PS	12156577	טורי זהב	residential	2	32	34	Turei Zahav
+PS	12156577	מהר"י קאפח	residential	2	7	9	Mahari Kafach
+PS	12156577	אבי דוד	residential	1	0	0	Avi David
+PS	12156577	בן איש חי	residential	1	0	0	Ben Ish Hai
+PS	12156577	דברות משה	residential	1	0	0	Divrot Moshe
+PS	12156577	הרמ"א	tertiary	1	0	0	HaRama
+PS	12156577	יערות דבש	residential	1	0	0	Ya'arot Dvash
+PS	12156577	כף חיים	residential	1	0	0	Kaf Haim
+PS	12156577	מהרי"ץ	residential	1	0	0	Maharits
+PS	12156577	פרי מגדים	residential	1	0	0	Pri Megadim

@@ -1,0 +1,4042 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+PA	3699915	Vía Soná - Tolé	primary	1	0	0	
+PA	3699946	Calle Celso Cedeño	tertiary	1	0	0	
+PA	3699980	Carretera Panamericana	primary	1	0	0	
+PA	3699980	Vía Yaviza - El Real	residential	1	0	0	
+PA	3700017	Avenida 13a Este	residential	1	0	0	
+PA	3700017	Avenida 14a Este	residential	1	0	0	
+PA	3700017	Avenida 16a Este	living_street	1	0	0	
+PA	3700017	Avenida 1a Este	residential	1	0	0	
+PA	3700017	Avenida 1a Norte	residential	1	0	0	
+PA	3700017	Avenida 1a Oeste	residential	1	0	0	
+PA	3700017	Avenida 1a Sur	residential	1	0	0	
+PA	3700017	Avenida 2a Este	residential	1	0	0	
+PA	3700017	Avenida 2a Oeste	unclassified	1	0	0	
+PA	3700017	Avenida 3a Este	tertiary	1	0	0	
+PA	3700017	Avenida 3a Oeste	residential	1	0	0	
+PA	3700017	Avenida 4a Este	residential	1	0	0	
+PA	3700017	Avenida 4a Oeste	residential	1	0	0	
+PA	3700017	Avenida 5a Este	residential	1	0	0	
+PA	3700017	Avenida 5a Oeste	residential	1	0	0	
+PA	3700017	Avenida 6a Oeste	residential	1	0	0	
+PA	3700017	Avenida 7a Este	residential	1	0	0	
+PA	3700017	Avenida 7a Oeste	residential	1	0	0	
+PA	3700017	Avenida 8a Este	residential	1	0	0	
+PA	3700017	Avenida 8a Oeste	residential	1	0	0	
+PA	3700017	Avenida 9a Este	residential	1	0	0	
+PA	3700017	Avenida 9a Norte	residential	1	0	0	
+PA	3700017	Avenida 9a Oeste	residential	1	0	0	
+PA	3700017	Avenida A	living_street	1	0	0	
+PA	3700033	Viste Hermonas	residential	1	0	0	
+PA	3700033	Vía La Pintada	secondary	1	0	0	
+PA	3700033	Vía Las Delicias	tertiary	1	0	0	
+PA	3700033	las delicias	tertiary	1	0	0	
+PA	3700038	Avenida B	residential	1	0	0	
+PA	3700038	Avenida Los Delfines	residential	1	0	0	
+PA	3700038	Avenida Principal	residential	1	0	0	
+PA	3700038	Avenida Westland Mall	tertiary	1	0	0	
+PA	3700038	Boulevar Simón Ruiz Díaz	tertiary	1	0	0	
+PA	3700038	CALLE A	residential	1	0	0	
+PA	3700038	Calle 10	residential	1	0	0	
+PA	3700038	Calle 10a	residential	1	0	0	
+PA	3700038	Calle 1a	residential	1	0	0	
+PA	3700038	Calle 2a	residential	1	0	0	
+PA	3700038	Calle 3a	residential	1	0	0	
+PA	3700038	Calle 3ra Tierra Bella	residential	1	0	0	
+PA	3700038	Calle 4a	residential	1	0	0	
+PA	3700038	Calle 4ta	residential	1	0	0	
+PA	3700038	Calle 5a	residential	1	0	0	
+PA	3700038	Calle 5ta	residential	1	0	0	
+PA	3700038	Calle 6a	residential	1	0	0	
+PA	3700038	Calle 6ta	residential	1	0	0	
+PA	3700038	Calle 7a	residential	1	0	0	
+PA	3700038	Calle 7ma	residential	1	0	0	
+PA	3700038	Calle 8a	residential	1	0	0	
+PA	3700038	Calle 8va	residential	1	0	0	
+PA	3700038	Calle 9a	residential	1	0	0	
+PA	3700038	Calle 9na	residential	1	0	0	
+PA	3700070	8014	tertiary	1	0	0	
+PA	3700081	Entrada a Villa Alondra	residential	1	0	0	
+PA	3700081	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3700085	Vía hacia Buenos Aires	tertiary	1	0	0	
+PA	3700164	1a Diagonal	residential	1	0	0	
+PA	3700164	Avenida 10a	residential	1	0	0	
+PA	3700164	Avenida 11a	residential	1	0	0	
+PA	3700164	Avenida 1a	residential	1	0	0	
+PA	3700164	Avenida 2a	residential	1	0	0	
+PA	3700164	Avenida 3a	residential	1	0	0	
+PA	3700164	Avenida 4a	residential	1	0	0	
+PA	3700164	Avenida 5a	residential	1	0	0	
+PA	3700164	Avenida 6a	residential	1	0	0	
+PA	3700164	Avenida 8a	residential	1	0	0	
+PA	3700164	Avenida 9a	residential	1	0	0	
+PA	3700164	Avenida B	residential	1	0	0	
+PA	3700164	Avenida Coskuna	residential	1	0	0	
+PA	3700164	Avenida Gloriela	residential	1	0	0	
+PA	3700164	Avenida Los Pinos	residential	1	0	0	
+PA	3700164	Bulevar Costa del Sol	residential	1	0	0	
+PA	3700164	Calle 1	residential	1	0	0	
+PA	3700164	Calle 10	residential	1	0	0	
+PA	3700164	Calle 11	residential	1	0	0	
+PA	3700164	Calle 12	residential	1	0	0	
+PA	3700164	Calle 13	residential	1	0	0	
+PA	3700164	Calle 1a	residential	1	0	0	
+PA	3700164	Calle 2	residential	1	0	0	
+PA	3700164	Calle 2a	residential	1	0	0	
+PA	3700164	Calle 3	residential	1	0	0	
+PA	3700164	Calle 3a	residential	1	0	0	
+PA	3700164	Calle 4	residential	1	0	0	
+PA	3700164	Calle 4ta	residential	1	0	0	
+PA	3700164	Calle 5	residential	1	0	0	
+PA	3700164	Calle 6	residential	1	0	0	
+PA	3700164	Calle 7	residential	1	0	0	
+PA	3700164	Calle 8	residential	1	0	0	
+PA	3700164	Calle 9	residential	1	0	0	
+PA	3700164	Calle A	residential	1	0	0	
+PA	3700164	Calle Altos de las Rocas	residential	1	0	0	
+PA	3700164	Calle Central	tertiary	1	0	0	
+PA	3700164	Calle El Palmar	residential	1	0	0	
+PA	3700164	Calle F	residential	1	0	0	
+PA	3700164	Calle G	residential	1	0	0	
+PA	3700164	Calle Piedra Leona	residential	1	0	0	
+PA	3700164	Calle de Circunvalación	residential	1	0	0	
+PA	3700164	Calle del Mar	residential	1	0	0	
+PA	3700164	Calle del Progreso	residential	1	0	0	
+PA	3700164	Vía Puerto de Vacamonte	tertiary	1	0	0	
+PA	3700164	Vía Veracruz	tertiary	1	0	0	
+PA	3700221	Vía hacia el Carate	tertiary	1	0	0	
+PA	3700336	Alto de la estancia	secondary	1	0	0	
+PA	3700429	Vía Santiago - Soná	primary	1	0	0	
+PA	3700486	Carretera Toza - Las Huacas	tertiary	1	0	0	
+PA	3700486	Vía Natá - El Cortezo - Toza	tertiary	1	0	0	
+PA	3700538	Calle Justino Acevedo	residential	1	0	0	
+PA	3700538	Vía Dr. Belisario Porras	secondary	1	0	0	
+PA	3700559	Calle 1 - Guabino	unclassified	1	0	0	
+PA	3700559	Vía Alto Limón - Llano de Culebra	tertiary	1	0	0	
+PA	3700559	Vía Peña Blanca	secondary	1	0	0	
+PA	3700559	Vía Soná - Tolé	primary	1	0	0	
+PA	3700559	Vía Tolé	secondary	1	0	0	
+PA	3700563	Calle 1 E	residential	2	10	6785	
+PA	3700563	8 De Septiembre	residential	1	0	0	
+PA	3700563	88a	residential	1	0	0	
+PA	3700563	88b	residential	1	0	0	
+PA	3700563	Alanje	residential	1	0	0	
+PA	3700563	Altos De Genesis	residential	1	0	0	
+PA	3700563	Atalaya	residential	1	0	0	
+PA	3700563	Avenida 1ra Norte	residential	1	0	0	
+PA	3700563	Avenida Buena Vista	tertiary	1	0	0	
+PA	3700563	Avenida Cabuya	residential	1	0	0	
+PA	3700563	Avenida Chiriquí	residential	1	0	0	
+PA	3700563	Avenida Colón	residential	1	0	0	
+PA	3700563	Avenida Diamante	residential	1	0	0	
+PA	3700563	Avenida Domingo Díaz	primary	1	0	0	
+PA	3700563	Avenida Emérito Morales	residential	1	0	0	
+PA	3700563	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3700563	Avenida La Siesta	tertiary	1	0	0	
+PA	3700563	Avenida Las Aguas	residential	1	0	0	
+PA	3700563	Avenida Las Cruces	residential	1	0	0	
+PA	3700563	Avenida Las Mercedes	residential	1	0	0	
+PA	3700563	Avenida Los Arcángeles	residential	1	0	0	
+PA	3700563	Avenida Los Cantaros	residential	1	0	0	
+PA	3700563	Avenida Primera	residential	1	0	0	
+PA	3700563	Avenida Principal Nuevo Tocumen	residential	1	0	0	
+PA	3700563	Avenida Quarta	residential	1	0	0	
+PA	3700563	Avenida Safiro	residential	1	0	0	
+PA	3700563	Avenida Santa Fe	residential	1	0	0	
+PA	3700563	Avenida Santa Lucía	residential	1	0	0	
+PA	3700563	Avenida Segunda	residential	1	0	0	
+PA	3700563	Avenida la Arena	tertiary	1	0	0	
+PA	3700563	C. Res. de Santa Fe	residential	1	0	0	
+PA	3700563	Calle 1	residential	1	0	0	
+PA	3700563	Calle 10 A	residential	1	0	0	
+PA	3700563	Calle 10 E	residential	1	0	0	
+PA	3700563	Calle 10 F	residential	1	0	0	
+PA	3700563	Calle 10 G	residential	1	0	0	
+PA	3700563	Calle 10a	residential	1	0	0	
+PA	3700563	Calle 11	residential	1	0	0	
+PA	3700563	Calle 11 H	residential	1	0	0	
+PA	3700563	Calle 11 I	residential	1	0	0	
+PA	3700563	Calle 12	residential	1	0	0	
+PA	3700563	Calle 12 H	residential	1	0	0	
+PA	3700563	Calle 12 I	residential	1	0	0	
+PA	3700563	Calle 13	residential	1	0	0	
+PA	3700563	Calle 13 H	residential	1	0	0	
+PA	3700563	Calle 13 I	residential	1	0	0	
+PA	3700563	Calle 14	residential	1	0	0	
+PA	3700563	Calle 14 H	residential	1	0	0	
+PA	3700563	Calle 14 I	residential	1	0	0	
+PA	3700563	Calle 15	residential	1	0	0	
+PA	3700563	Calle 15 H	residential	1	0	0	
+PA	3700563	Calle 15 I	residential	1	0	0	
+PA	3700563	Calle 16	residential	1	0	0	
+PA	3700563	Calle 16 H	residential	1	0	0	
+PA	3700563	Calle 16 I	residential	1	0	0	
+PA	3700563	Calle 16 de Diciembre	residential	1	0	0	
+PA	3700563	Calle 17	residential	1	0	0	
+PA	3700563	Calle 17 H	residential	1	0	0	
+PA	3700563	Calle 17 I	residential	1	0	0	
+PA	3700563	Calle 18	residential	1	0	0	
+PA	3700563	Calle 18 H	residential	1	0	0	
+PA	3700563	Calle 18 I	residential	1	0	0	
+PA	3700563	Calle 19 H	residential	1	0	0	
+PA	3700563	Calle 19 I	residential	1	0	0	
+PA	3700563	Calle 19 J	residential	1	0	0	
+PA	3700563	Calle 1c	residential	1	0	0	
+PA	3700563	Calle 1d	residential	1	0	0	
+PA	3700563	Calle 1ra Oeste	residential	1	0	0	
+PA	3700563	Calle 2 E	residential	1	0	0	
+PA	3700563	Calle 20	residential	1	0	0	
+PA	3700563	Calle 20 H	residential	1	0	0	
+PA	3700563	Calle 21 H	residential	1	0	0	
+PA	3700563	Calle 22 H	residential	1	0	0	
+PA	3700563	Calle 23 H	residential	1	0	0	
+PA	3700563	Calle 24 de Diciembre	tertiary	1	0	0	
+PA	3700563	Calle 2a	residential	1	0	0	
+PA	3700563	Calle 2a Oeste	residential	1	0	0	
+PA	3700563	Calle 2c	residential	1	0	0	
+PA	3700563	Calle 2d	residential	1	0	0	
+PA	3700563	Calle 2da	residential	1	0	0	
+PA	3700563	Calle 2da los Pilones	residential	1	0	0	
+PA	3700563	Calle 2nda El Valle de Cerro Azul	residential	1	0	0	
+PA	3700563	Calle 3	residential	1	0	0	
+PA	3700563	Calle 3 E	residential	1	0	0	
+PA	3700563	Calle 32	residential	1	0	0	
+PA	3700563	Calle 33	residential	1	0	0	
+PA	3700563	Calle 34	residential	1	0	0	
+PA	3700563	Calle 37	residential	1	0	0	
+PA	3700563	Calle 38	residential	1	0	0	
+PA	3700563	Calle 39	residential	1	0	0	
+PA	3700563	Calle 3F	residential	1	0	0	
+PA	3700563	Calle 3G	residential	1	0	0	
+PA	3700563	Calle 3a	residential	1	0	0	
+PA	3700563	Calle 4 E	residential	1	0	0	
+PA	3700563	Calle 40	residential	1	0	0	
+PA	3700563	Calle 41	residential	1	0	0	
+PA	3700563	Calle 42	residential	1	0	0	
+PA	3700563	Calle 43	residential	1	0	0	
+PA	3700563	Calle 44	residential	1	0	0	
+PA	3700563	Calle 45	residential	1	0	0	
+PA	3700579	La Cuesta	secondary	1	0	0	
+PA	3700579	Toabre	secondary	1	0	0	
+PA	3700579	Vía La Cuesta	secondary	1	0	0	
+PA	3700579	Vía la Cuesta	secondary	1	0	0	
+PA	3700579	toabre	secondary	1	0	0	
+PA	3700620	Calle Villa Lorena	residential	1	0	0	
+PA	3700620	Vía Alanje	secondary	1	0	0	
+PA	3700620	Vía Boquerón	secondary	1	0	0	
+PA	3700620	Vía Ojo de Agua	residential	1	0	0	
+PA	3700740	Vía Mariato	secondary	1	0	0	
+PA	3700742	Hacia Loma Grande	unclassified	1	0	0	
+PA	3700742	San Miguel	secondary	1	0	0	
+PA	3700773	vía tucue	tertiary	1	0	0	
+PA	3700788	Vía Taimatí - Sambú	tertiary	1	0	0	
+PA	3700802	Calle Francisco Pizarro	living_street	1	0	0	
+PA	3700802	Calle Maximilien Mendieta Rodríguez	living_street	1	0	0	
+PA	3700802	Calle de El Faro	unclassified	1	0	0	
+PA	3700802	Taboga Sur	unclassified	1	0	0	
+PA	3700871	Vía Sortová	residential	1	0	0	
+PA	3700878	Alicante	residential	1	0	0	
+PA	3700878	Almaserra	residential	1	0	0	
+PA	3700878	Anayansis	residential	1	0	0	
+PA	3700878	Atahuala	residential	1	0	0	
+PA	3700878	Atanasio	living_street	1	0	0	
+PA	3700878	Bolsena	residential	1	0	0	
+PA	3700878	Brunello	residential	1	0	0	
+PA	3700878	Buñol	living_street	1	0	0	
+PA	3700878	Calle Fontanella	residential	1	0	0	
+PA	3700878	Calle Monteri	residential	1	0	0	
+PA	3700878	Calle Río María	residential	1	0	0	
+PA	3700878	Calle Wegello	residential	1	0	0	
+PA	3700888	Calle 8	residential	22	196	215	
+PA	3700888	Calle 9	residential	18	171	190	
+PA	3700888	Avenida La Colina	residential	11	147	157	
+PA	3700888	Calle 7	residential	11	217	227	
+PA	3700888	Calle 10	residential	10	159	170	
+PA	3700888	Avenida 1a Norte	residential	1	0	0	
+PA	3700888	Avenida 1a Sur	residential	1	0	0	
+PA	3700888	Avenida 2a Norte	residential	1	0	0	
+PA	3700888	Avenida 3a Norte	residential	1	0	0	
+PA	3700888	Avenida 5a Norte	residential	1	0	0	
+PA	3700888	Avenida 5a Sur	residential	1	0	0	
+PA	3700888	Avenida 6a Sur	residential	1	0	0	
+PA	3700888	Avenida 7a Sur	residential	1	0	0	
+PA	3700888	Avenida 8a Sur	residential	1	0	0	
+PA	3700888	Avenida Central	residential	1	0	0	
+PA	3700888	Avenida José María Dutary	residential	1	0	0	
+PA	3700888	Avenida Manuel Higinio Arosemena	residential	1	0	0	
+PA	3700888	Avenida Manuel María Arosemena	residential	1	0	0	
+PA	3700888	Avenida Marino Calviño	residential	1	0	0	
+PA	3700888	Avenida Santuario	residential	1	0	0	
+PA	3700888	Calle 1 Padre Guembe	residential	1	0	0	
+PA	3700888	Calle 1 Pararíso	residential	1	0	0	
+PA	3700888	Calle 11 de Octubre	residential	1	0	0	
+PA	3700888	Calle 2 Padre Guembe	residential	1	0	0	
+PA	3700892	Vía Soloy	secondary	1	0	0	
+PA	3700912	Caimito	secondary	1	0	0	
+PA	3700912	Hacia Oajaca	unclassified	1	0	0	
+PA	3700921	Vía Justo Fidel	unclassified	1	0	0	
+PA	3700931	Vía La Estrella	residential	1	0	0	
+PA	3700933	Vía Divalá	primary	1	0	0	
+PA	3700992	Vía Seteganti - Chepigana	residential	1	0	0	
+PA	3700992	Vía Setegantí - Quintín	tertiary	1	0	0	
+PA	3701058	Vía Gatuncillo - Salamanca	tertiary	1	0	0	
+PA	3701058	Vía de Entrada a Sardinilla	tertiary	1	0	0	
+PA	3701088	Altos de San Isidro	residential	1	0	0	
+PA	3701088	Bella Esperanza	residential	1	0	0	
+PA	3701088	Calle A	residential	1	0	0	
+PA	3701088	Calle Amancio Rodriguez	residential	1	0	0	
+PA	3701088	Calle B	residential	1	0	0	
+PA	3701088	Calle C	residential	1	0	0	
+PA	3701088	La Colina	residential	1	0	0	
+PA	3701088	La Colina - 1	residential	1	0	0	
+PA	3701088	La Colina - 2	residential	1	0	0	
+PA	3701088	San Isidro	residential	1	0	0	
+PA	3701090	Avenida Omar Torrijos Herrera	tertiary	1	0	0	
+PA	3701090	Calle El Pedernal	residential	1	0	0	
+PA	3701090	Camino San Vicente 1	residential	1	0	0	
+PA	3701090	Camino San Vicente 2	residential	1	0	0	
+PA	3701090	Camino San Vicente 3	residential	1	0	0	
+PA	3701090	Carretera Madden	secondary	1	0	0	
+PA	3701090	Carretera Transístmica	primary	1	0	0	
+PA	3701090	La Cantera	tertiary	1	0	0	
+PA	3701090	La Union	residential	1	0	0	
+PA	3701090	Semaphore Hill	unclassified	1	0	0	
+PA	3701091	Vía Buena Vista	tertiary	1	0	0	
+PA	3701091	Vía El Bongo	secondary	1	0	0	
+PA	3701091	Vía El Mamey	tertiary	1	0	0	
+PA	3701091	Vía Volcán	primary	1	0	0	
+PA	3701093	Vía Santo Tomás	secondary	1	0	0	
+PA	3701093	Vía Santo Tomás - Divalá	secondary	1	0	0	
+PA	3701101	Antigua Linea del Ferrocarril de Chiriquí	residential	1	0	0	
+PA	3701101	Calle A	residential	1	0	0	
+PA	3701101	Calle B	residential	1	0	0	
+PA	3701101	Calle C	residential	1	0	0	
+PA	3701101	Calle D	residential	1	0	0	
+PA	3701101	Calle La Linea	residential	1	0	0	
+PA	3701101	Calle Principal	residential	1	0	0	
+PA	3701101	Vía Divalá	primary	1	0	0	
+PA	3701103	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3701117	Avenida Villas del Sur	residential	63	4	277	
+PA	3701117	Calle 1	residential	63	2	55	
+PA	3701117	Avenida A	residential	29	63	148	
+PA	3701117	Calle 4	residential	27	12	16	
+PA	3701117	Calle H	residential	24	268	302	
+PA	3701117	Avenida Villas de San José	residential	22	0	0	
+PA	3701117	Calle 5	residential	22	0	0	
+PA	3701117	Calle Principal	residential	20	0	0	
+PA	3701117	Calle C	residential	17	87	173	
+PA	3701117	Calle G	residential	16	255	290	
+PA	3701117	Calle Tercera	residential	15	42	61	
+PA	3701117	Calle A	residential	14	83	96	
+PA	3701117	Calle 2	residential	13	14	25	
+PA	3701117	Calle B	residential	13	97	110	
+PA	3701117	Calle Séptima	residential	13	11	33	
+PA	3701117	Calle I	residential	12	304	315	
+PA	3701117	Calle D	residential	11	127	137	
+PA	3701117	Calle Octava	residential	11	21	77	
+PA	3701117	Calle 3	residential	10	0	0	
+PA	3701117	Calle Cuarta	residential	9	63	71	
+PA	3701117	Calle E	residential	7	57	143	
+PA	3701117	Calle F	residential	6	248	253	
+PA	3701117	Vereda B-5		6	66	71	
+PA	3701117	Avenida 19 C Norte	residential	5	61	65	
+PA	3701117	Calle Décima	residential	5	1	6	
+PA	3701117	Calle Sexta	residential	4	9	62	
+PA	3701117	Paseo Santander	residential	3	67	69	
+PA	3701117	Avenida B	residential	2	108	109	
+PA	3701117	24 E Norte	residential	1	0	0	
+PA	3701117	Av. Jericó	residential	1	0	0	
+PA	3701117	Avenida 1 A Norte	residential	1	0	0	
+PA	3701117	Avenida 1 A Sur	residential	1	0	0	
+PA	3701117	Avenida 1 B Sur	residential	1	0	0	
+PA	3701117	Avenida 1 C Sur	residential	1	0	0	
+PA	3701117	Avenida 1 E Sur	residential	1	0	0	
+PA	3701117	Avenida 10 A Norte	tertiary	1	0	0	
+PA	3701117	Avenida 10 B Norte	tertiary	1	0	0	
+PA	3701117	Avenida 11 A Norte	residential	1	0	0	
+PA	3701117	Avenida 11 B Norte	residential	1	0	0	
+PA	3701117	Avenida 11 B Sur	residential	1	0	0	
+PA	3701117	Avenida 11 D Norte	residential	1	0	0	
+PA	3701117	Avenida 12 A Norte	tertiary	1	0	0	
+PA	3701117	Avenida 12 B Norte	secondary	1	0	0	
+PA	3701117	Avenida 13 B Norte	residential	1	0	0	
+PA	3701117	Avenida 14 B Norte	residential	1	0	0	
+PA	3701117	Avenida 14 C Norte	residential	1	0	0	
+PA	3701117	Avenida 15 C Norte	residential	1	0	0	
+PA	3701117	Avenida 17 B Norte	residential	1	0	0	
+PA	3701150	Via Principal Santa Rita	tertiary	1	0	0	
+PA	3701150	Vía Antón - El Valle	secondary	1	0	0	
+PA	3701150	mapeo construcción	unclassified	1	0	0	
+PA	3701163	Antigua Linea del Ferrocarril de Chiriquí	residential	1	0	0	
+PA	3701163	Santa Marta - Gomez	residential	1	0	0	
+PA	3701163	Santa Marta - San Andrés	unclassified	1	0	0	
+PA	3701163	Vía Cimarrón	residential	1	0	0	
+PA	3701163	Vía Santa Marta	residential	1	0	0	
+PA	3701163	Vía Santo Domingo	unclassified	1	0	0	
+PA	3701195	Carretera Panamericana	primary	1	0	0	
+PA	3701195	Vía CPA - Santa Fe	tertiary	1	0	0	
+PA	3701195	Vía CPA - Santa Fé	residential	1	0	0	
+PA	3701195	Vía La Cantera - Cucunatí	residential	1	0	0	
+PA	3701195	Vía Santa Fe - Carrizal	unclassified	1	0	0	
+PA	3701196	Calle El Pantano	tertiary	1	0	0	
+PA	3701196	Calle Héctor Gallego	residential	1	0	0	
+PA	3701196	Vía San Francisco - Santa Fe	secondary	1	0	0	
+PA	3701196	plaza	pedestrian	1	0	0	
+PA	3701227	Dominical - Plaza Caisán	secondary	1	0	0	
+PA	3701227	Dominical - Plaza Caizan	secondary	1	0	0	
+PA	3701227	Puente Caña Blanca	unclassified	1	0	0	
+PA	3701227	Puente Pavón	unclassified	1	0	0	
+PA	3701227	Salitral - Baitun	tertiary	1	0	0	
+PA	3701227	San Andrés - Salitral Ruta Santa Cruz	residential	1	0	0	
+PA	3701227	Via Salitral - San Francisco	tertiary	1	0	0	
+PA	3701231	Vía Lajas Adentro	unclassified	1	0	0	
+PA	3701239	Vía Nuevo Emperador - Santa Clara	tertiary	1	0	0	
+PA	3701239	Vía Santa Clara - Huile	unclassified	1	0	0	
+PA	3701240	Avenida Villa Olga	primary	1	0	0	
+PA	3701240	Colorado Cotito road	unclassified	1	0	0	
+PA	3701240	Monte Lirio - Santa Clara	tertiary	1	0	0	
+PA	3701240	Paseo Candela	tertiary	1	0	0	
+PA	3701240	Vía San Antonio	unclassified	1	0	0	
+PA	3701240	Vía Volcán	primary	1	0	0	
+PA	3701240	Vía Volcán - Plaza de Caisán	secondary	1	0	0	
+PA	3701240	Vía Volcán- Río Sereno	primary	1	0	0	
+PA	3701240	camino Guabito	residential	1	0	0	
+PA	3701242	Calle Arroyo	residential	1	0	0	
+PA	3701242	Calle Aviación	residential	1	0	0	
+PA	3701258	Calle Milena	unclassified	1	0	0	
+PA	3701258	Calle Principal	residential	1	0	0	
+PA	3701258	Vía Arrimadero	tertiary	1	0	0	
+PA	3701258	Vía El Estero	tertiary	1	0	0	
+PA	3701258	Vía Santa Catalina	tertiary	1	0	0	
+PA	3701264	Via El Aromo	unclassified	1	0	0	
+PA	3701290	Camino a Mostrenco de la Mesa	residential	1	0	0	
+PA	3701312	Avenida Central	residential	1	0	0	
+PA	3701312	Calle 4a Este	unclassified	1	0	0	
+PA	3701312	Calle 5a Este	residential	1	0	0	
+PA	3701312	Calle 6a Este	residential	1	0	0	
+PA	3701312	Calle 8a Este	residential	1	0	0	
+PA	3701312	Calle 9a Este	residential	1	0	0	
+PA	3701312	Calle A	residential	1	0	0	
+PA	3701312	Calle C Norte	residential	1	0	0	
+PA	3701312	Calle D Norte	residential	1	0	0	
+PA	3701312	Vía San Pablo Viejo Abajo - Los Anastacios	secondary	1	0	0	
+PA	3701313	Avenida A	living_street	15	1	23	
+PA	3701313	Calle 2	living_street	2	52	53	
+PA	3701313	Antiguas Vías de Ferrocarril	unclassified	1	0	0	
+PA	3701313	Antiguas Vías del Ferrocarril	unclassified	1	0	0	
+PA	3701313	Avenida 3a	living_street	1	0	0	
+PA	3701313	Avenida Cerro Colorado	secondary	1	0	0	
+PA	3701313	Calle 1	living_street	1	0	0	
+PA	3701313	Calle 13	living_street	1	0	0	
+PA	3701313	Calle 1a	residential	1	0	0	
+PA	3701313	Calle 2a	residential	1	0	0	
+PA	3701313	Calle 3a	residential	1	0	0	
+PA	3701313	Calle A	residential	1	0	0	
+PA	3701313	Calle Argentina	living_street	1	0	0	
+PA	3701313	Calle B	residential	1	0	0	
+PA	3701313	Calle C	residential	1	0	0	
+PA	3701313	Calle Madrid	living_street	1	0	0	
+PA	3701313	Calle Portugal	living_street	1	0	0	
+PA	3701313	Calle Principal	residential	1	0	0	
+PA	3701313	Calle Río	living_street	1	0	0	
+PA	3701313	Calle Vidal B. de Barroso	residential	1	0	0	
+PA	3701313	San Pablo Viejo	residential	1	0	0	
+PA	3701313	Vía Bágala	residential	1	0	0	
+PA	3701313	Vía Caña Blanca	residential	1	0	0	
+PA	3701313	Vía Ojo de Agua	residential	1	0	0	
+PA	3701317	Antiguas Vías del Ferrocarril	residential	1	0	0	
+PA	3701317	Calle Principal	unclassified	1	0	0	
+PA	3701317	Vía San Pablo Nuevo	unclassified	1	0	0	
+PA	3701317	Vía San Pablo Nuevo Arriba	unclassified	1	0	0	
+PA	3701329	Calle Los Lirios	residential	104	0	0	
+PA	3701329	Avenida Urracá No 2		74	0	0	
+PA	3701329	Avenida Puente del Rey	residential	64	0	0	
+PA	3701329	Avenida Urracá 2	residential	51	0	0	
+PA	3701329	Avenida Aragón	residential	47	0	0	
+PA	3701329	Calle del Cedro		45	469	509	
+PA	3701329	Calle Trento	residential	41	0	0	
+PA	3701329	Calle el Comendador	residential	39	0	0	
+PA	3701329	Calle Novara	residential	38	0	0	
+PA	3701329	Calle Siracusa	residential	36	0	0	
+PA	3701329	Calle Genova		35	0	0	
+PA	3701329	Calle Siena	residential	35	0	0	
+PA	3701329	Avenida Porras	tertiary	28	0	0	
+PA	3701329	Calle de Padua	residential	25	0	0	
+PA	3701329	Calle Vernoa		22	0	0	
+PA	3701329	Calle las Acacias	residential	22	0	0	
+PA	3701329	Calle Herrera	residential	21	0	0	
+PA	3701329	Calle Verona	residential	21	0	0	
+PA	3701329	Andalucía	residential	20	0	0	
+PA	3701329	Calle Carrara	residential	19	0	0	
+PA	3701329	Calle Herrería		17	0	0	
+PA	3701329	Calle Amador	residential	16	0	0	
+PA	3701329	Calle Alameda	residential	15	0	0	
+PA	3701329	Calle Murano	residential	15	0	0	
+PA	3701329	Calle de Asís	residential	15	0	0	
+PA	3701329	Calle Alicante	residential	14	0	0	
+PA	3701329	Calle de la Alfarería	residential	13	0	0	
+PA	3701329	Calle Asis	residential	11	0	0	
+PA	3701329	Calle Corotu		10	316	542	
+PA	3701329	Calle Malecon	residential	10	0	0	
+PA	3701329	Puerta del Sol	residential	10	0	0	
+PA	3701329	Calle C	residential	9	31	44	
+PA	3701329	Calle Livorno	residential	9	309	309	
+PA	3701329	Calle Obispo	residential	9	0	0	
+PA	3701329	Calle Parma	residential	9	0	0	
+PA	3701329	Calle Espave	residential	8	353	360	
+PA	3701329	Calle Guardal Quivir	residential	7	0	0	
+PA	3701329	Calle 114 Este , AV Las Mercedes		4	37	37	
+PA	3701329	Calle Mestre	residential	4	0	0	
+PA	3701329	Avenida A (Alcibiades Arosamena)		3	0	0	
+PA	3701329	Calle Monrovia	residential	3	130	235	
+PA	3701329	Avenida 15 A Este	residential	2	0	0	
+PA	3701329	Calle del Laurel		2	440	466	
+PA	3701329	3A	living_street	1	0	0	
+PA	3701329	Alpes	residential	1	0	0	
+PA	3701329	Alto de la Antena	tertiary	1	0	0	
+PA	3701329	Alto del Crisol	residential	1	0	0	
+PA	3701329	Altos de Tapia 1	residential	1	0	0	
+PA	3701329	Altos del Río	residential	1	0	0	
+PA	3701329	Antigua	residential	1	0	0	
+PA	3701329	Avenida 1 A Norte	residential	1	0	0	
+PA	3701329	Avenida 1 B Sur	unclassified	1	0	0	
+PA	3701329	Avenida 1 C Norte	residential	1	0	0	
+PA	3701329	Avenida 2 A Norte	residential	1	0	0	
+PA	3701329	Avenida 2 C Norte	residential	1	0	0	
+PA	3701329	Avenida 2 F Norte	tertiary	1	0	0	
+PA	3701329	Avenida 2 Sur	residential	1	0	0	
+PA	3701329	Avenida 2da	residential	1	0	0	
+PA	3701329	Avenida 3 A Sur	residential	1	0	0	
+PA	3701329	Avenida 3 C Norte	residential	1	0	0	
+PA	3701329	Avenida 3 F Norte	residential	1	0	0	
+PA	3701329	Avenida 3era	residential	1	0	0	
+PA	3701329	Avenida 4	residential	1	0	0	
+PA	3701329	Avenida 4 C Norte	residential	1	0	0	
+PA	3701329	Avenida 4 F Norte	residential	1	0	0	
+PA	3701329	Avenida 43 Occidente	residential	1	0	0	
+PA	3701329	Avenida 4ta	tertiary	1	0	0	
+PA	3701329	Avenida 4ta (Calle La Tableñita)	tertiary	1	0	0	
+PA	3701329	Avenida 5 C Norte	residential	1	0	0	
+PA	3701329	Avenida 5 F Norte	residential	1	0	0	
+PA	3701329	Avenida 5ta	tertiary	1	0	0	
+PA	3701329	Avenida 6 C Norte	tertiary	1	0	0	
+PA	3701329	Avenida 7 B Norte	residential	1	0	0	
+PA	3701329	Avenida 7 C Norte	residential	1	0	0	
+PA	3701329	Avenida A	tertiary	1	0	0	
+PA	3701329	Avenida A Este	residential	1	0	0	
+PA	3701329	Avenida B	residential	1	0	0	
+PA	3701329	Avenida B Este	residential	1	0	0	
+PA	3701329	Avenida Barcelona	residential	1	0	0	
+PA	3701329	Avenida Belgica	residential	1	0	0	
+PA	3701329	Avenida Boyacá	residential	1	0	0	
+PA	3701329	Avenida C Este	residential	1	0	0	
+PA	3701329	Avenida Centenario	tertiary	1	0	0	
+PA	3701329	Avenida Cerro Viento	residential	1	0	0	
+PA	3701329	Avenida Circunvalación C #2	residential	1	0	0	
+PA	3701329	Avenida Circunvalación Este	residential	1	0	0	
+PA	3701329	Avenida Costa Del Mar	residential	1	0	0	
+PA	3701329	Avenida Costa Del Sol	tertiary	1	0	0	
+PA	3701329	Avenida Costa Dorada	residential	1	0	0	
+PA	3701329	Avenida D	residential	1	0	0	
+PA	3701329	Avenida Del Cid	residential	1	0	0	
+PA	3701329	Avenida Del Parque	residential	1	0	0	
+PA	3701329	Avenida Domingo Díaz	primary	1	0	0	
+PA	3701329	Avenida Dorasol	residential	1	0	0	
+PA	3701329	Avenida Francia	residential	1	0	0	
+PA	3701329	Avenida Granada	residential	1	0	0	
+PA	3701329	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3701329	Avenida Las Mercedes	tertiary	1	0	0	
+PA	3701329	Avenida Los Andes	tertiary	1	0	0	
+PA	3701329	Avenida Manuel Fernando Zárate	primary	1	0	0	
+PA	3701329	Avenida Marina Norte	secondary	1	0	0	
+PA	3701329	Avenida Marina Sur	tertiary	1	0	0	
+PA	3701329	Avenida Marina del Norte	secondary	1	0	0	
+PA	3701329	Avenida Palmas Bellas	residential	1	0	0	
+PA	3701329	Avenida Paseo del Mar	tertiary	1	0	0	
+PA	3701329	Avenida Pedro J Ameglio	tertiary	1	0	0	
+PA	3701329	Avenida Principal	residential	1	0	0	
+PA	3701329	Avenida Principal Brisas del Golf	tertiary	1	0	0	
+PA	3701329	Avenida Principal Cerro Viento	tertiary	1	0	0	
+PA	3701329	Avenida Principal La Castellana	tertiary	1	0	0	
+PA	3701329	Avenida Rafael E. Alemán	secondary	1	0	0	
+PA	3701329	Avenida Salamanca	residential	1	0	0	
+PA	3701329	Avenida San Agustín	residential	1	0	0	
+PA	3701329	Avenida Santa María del Fiore	residential	1	0	0	
+PA	3701329	Avenida Santo Espíritu	residential	1	0	0	
+PA	3701329	Avenida Segunda Norte	residential	1	0	0	
+PA	3701329	Avenida Serrano	residential	1	0	0	
+PA	3701329	Avenida Sevilla	residential	1	0	0	
+PA	3701329	Avenida Tercera	residential	1	0	0	
+PA	3701329	Avenida Urracá	residential	1	0	0	
+PA	3701329	Avenida Urracá 1	tertiary	1	0	0	
+PA	3701329	Avenida Valencia	residential	1	0	0	
+PA	3701329	Avenida Valladolid	residential	1	0	0	
+PA	3701329	Avenida Valparaíso	residential	1	0	0	
+PA	3701329	Avenida Zaragoza	residential	1	0	0	
+PA	3701329	Avenida de la Arboleda	residential	1	0	0	
+PA	3701329	Avenida de la Rotonda	residential	1	0	0	
+PA	3701329	Avenida las Costas	tertiary	1	0	0	
+PA	3701329	Bagonias	residential	1	0	0	
+PA	3701329	Balmoral	residential	1	0	0	
+PA	3701329	Barcelona	residential	1	0	0	
+PA	3701329	Barriada San Cristóbal Calle 125 Oeste	tertiary	1	0	0	
+PA	3701329	Boulevard Diomedes Quintero	residential	1	0	0	
+PA	3701329	Boulevard Santamaria	unclassified	1	0	0	
+PA	3701329	Brisa Alegre	residential	1	0	0	
+PA	3701329	Brisas del Pacífico	residential	1	0	0	
+PA	3701329	C alle 13 (Vereda El Palón)	residential	1	0	0	
+PA	3701329	Cale 3era	residential	1	0	0	
+PA	3701329	Calle 1	residential	1	0	0	
+PA	3701329	Calle 1 Colinas de Nazareth	residential	1	0	0	
+PA	3701329	Calle 1 Occidente	residential	1	0	0	
+PA	3701329	Calle 1 Oeste	residential	1	0	0	
+PA	3701329	Calle 1-E	residential	1	0	0	
+PA	3701329	Calle 1-W	residential	1	0	0	
+PA	3701329	Calle 10	residential	1	0	0	
+PA	3701329	Calle 10 Nogal	residential	1	0	0	
+PA	3701329	Calle 10 Occidente	residential	1	0	0	
+PA	3701329	Calle 11	residential	1	0	0	
+PA	3701329	Calle 11 Occidente	residential	1	0	0	
+PA	3701329	Calle 11-A Oeste	residential	1	0	0	
+PA	3701329	Calle 11-B Oeste	residential	1	0	0	
+PA	3701329	Calle 11-C Oeste	residential	1	0	0	
+PA	3701329	Calle 110 Oeste	residential	1	0	0	
+PA	3701329	Calle 112 Este	residential	1	0	0	
+PA	3701329	Calle 112 Oeste	residential	1	0	0	
+PA	3701329	Calle 113 A Este	residential	1	0	0	
+PA	3701329	Calle 113 Oeste	residential	1	0	0	
+PA	3701329	Calle 114 Este	tertiary	1	0	0	
+PA	3701329	Calle 117 Este	unclassified	1	0	0	
+PA	3701329	Calle 118 Oeste	residential	1	0	0	
+PA	3701329	Calle 119 Este	unclassified	1	0	0	
+PA	3701329	Calle 12	residential	1	0	0	
+PA	3701329	Calle 12 Occidente	residential	1	0	0	
+PA	3701329	Calle 120 Oeste	tertiary	1	0	0	
+PA	3701329	Calle 121 Este	residential	1	0	0	
+PA	3701329	Calle 122 Oeste	residential	1	0	0	
+PA	3701329	Calle 123 A Oeste	residential	1	0	0	
+PA	3701329	Calle 123 Oeste	residential	1	0	0	
+PA	3701329	Calle 124 A Oeste	residential	1	0	0	
+PA	3701329	Calle 124 Este	secondary	1	0	0	
+PA	3701329	Calle 125 A Oeste	residential	1	0	0	
+PA	3701329	Calle 125 Este	secondary	1	0	0	
+PA	3701329	Calle 126 B Oeste	tertiary	1	0	0	
+PA	3701329	Calle 126 Oeste	tertiary	1	0	0	
+PA	3701329	Calle 128 Oeste	residential	1	0	0	
+PA	3701329	Calle 129 Este	residential	1	0	0	
+PA	3701329	Calle 13	residential	1	0	0	
+PA	3701329	Calle 130 Oeste	residential	1	0	0	
+PA	3701329	Calle 131 Este	tertiary	1	0	0	
+PA	3701329	Calle 134 Oeste	residential	1	0	0	
+PA	3701329	Calle 135 Oeste	residential	1	0	0	
+PA	3701329	Calle 13A	residential	1	0	0	
+PA	3701329	Calle 13B	residential	1	0	0	
+PA	3701329	Calle 14	residential	1	0	0	
+PA	3701329	Calle 14 Sur	residential	1	0	0	
+PA	3701329	Calle 15	residential	1	0	0	
+PA	3701329	Calle 16	residential	1	0	0	
+PA	3701329	Calle 17	residential	1	0	0	
+PA	3701329	Calle 17 Este	residential	1	0	0	
+PA	3701329	Calle 18	residential	1	0	0	
+PA	3701329	Calle 18 Este	residential	1	0	0	
+PA	3701329	Calle 19	residential	1	0	0	
+PA	3701329	Calle 19 Este	residential	1	0	0	
+PA	3701329	Calle 1a	residential	1	0	0	
+PA	3701329	Calle 1a La Pulida	residential	1	0	0	
+PA	3701329	Calle 1era	residential	1	0	0	
+PA	3701329	Calle 1era A	residential	1	0	0	
+PA	3701329	Calle 1ra	residential	1	0	0	
+PA	3701329	Calle 2	residential	1	0	0	
+PA	3701329	Calle 2 Occidente	residential	1	0	0	
+PA	3701330	Vía Volcán	primary	1	0	0	
+PA	3701343	Calle Los Gutierrez	residential	1	0	0	
+PA	3701343	Camino La Chapa - Mamoní Arriba	unclassified	1	0	0	
+PA	3701343	Camino Mamoní	unclassified	1	0	0	
+PA	3701343	Tres Brazos	unclassified	1	0	0	
+PA	3701371	Avenida Central	residential	1	0	0	
+PA	3701371	Vía El Jobo	unclassified	1	0	0	
+PA	3701371	Vía Hoconcitos	primary	1	0	0	
+PA	3701371	Vía Llano Grande	unclassified	1	0	0	
+PA	3701381	Avenida Joseph Halphen	secondary	1	0	0	
+PA	3701381	Vía Aguacatal	secondary	1	0	0	
+PA	3701424	Vía San Francisco - Santa Fe	secondary	1	0	0	
+PA	3701426	Vía Namnoní	residential	1	0	0	
+PA	3701449	Avenida Las Garzas	residential	1	0	0	
+PA	3701449	Brisas De Arraijan	residential	1	0	0	
+PA	3701449	C. Transversal 22	residential	1	0	0	
+PA	3701449	C.7	residential	1	0	0	
+PA	3701449	Calle 11	residential	1	0	0	
+PA	3701449	Calle 5ta	residential	1	0	0	
+PA	3701449	Calle A8	residential	1	0	0	
+PA	3701449	Calle De San Bernadino	residential	1	0	0	
+PA	3701449	Calle Decima	residential	1	0	0	
+PA	3701449	Calle Los Halcones	residential	1	0	0	
+PA	3701449	Calle T 24	residential	1	0	0	
+PA	3701449	Calle T 26	residential	1	0	0	
+PA	3701451	Calle La Herradura	residential	2	35	40	
+PA	3701451	Avenida Roberto Eisenmann	tertiary	1	0	0	
+PA	3701451	Boulevard Jimmy y Rose Marie de la Guardia	residential	1	0	0	
+PA	3701451	Calle 1ª	residential	1	0	0	
+PA	3701451	Calle 2ª	residential	1	0	0	
+PA	3701451	Calle 3ª	residential	1	0	0	
+PA	3701451	Calle A	residential	1	0	0	
+PA	3701451	Calle C	residential	1	0	0	
+PA	3701451	Calle D	residential	1	0	0	
+PA	3701451	Calle Del Rio	residential	1	0	0	
+PA	3701451	Calle F	residential	1	0	0	
+PA	3701451	Calle G	residential	1	0	0	
+PA	3701454	Ruta La Yeguada - La Laguna	unclassified	1	0	0	
+PA	3701469	Calle Mario Rognoni		5	0	0	
+PA	3701469	Calle 64 Este		4	16	62	
+PA	3701469	Calle 62-A Este		2	51	77	
+PA	3701469	Calle Matilde Obarrio De Mallet		2	52	55	
+PA	3701469	Calle San Juan Bosco	residential	1	0	0	
+PA	3701482	San Francisco - Qbda Llana	unclassified	1	0	0	
+PA	3701482	Via Salitral - San Francisco	tertiary	1	0	0	
+PA	3701483	Calle Benito Villar	residential	1	0	0	
+PA	3701483	Calle Urraca	residential	1	0	0	
+PA	3701483	La Central	residential	1	0	0	
+PA	3701483	Vía San Francisco - Santa Fe	secondary	1	0	0	
+PA	3701483	Vía Santiago - San Francisco	secondary	1	0	0	
+PA	3701491	Calle El Silencio	residential	1	0	0	
+PA	3701491	Via Silimín	residential	1	0	0	
+PA	3701491	Vía Las Lajas	tertiary	1	0	0	
+PA	3701491	Vía Llano Tugrí	primary	1	0	0	
+PA	3701493	Avenida A	tertiary	4	4	432	
+PA	3701493	Avenida Central	residential	2	1910	1910	
+PA	3701493	Avenida Demetrio H. Brid	residential	1	0	0	
+PA	3701493	Avenida Eloy Alfaro	tertiary	1	0	0	
+PA	3701493	Avenida Pedro A. Sosa	residential	1	0	0	
+PA	3701493	Calle 10 a O	residential	1	0	0	
+PA	3701493	Calle 10ma B Oeste	residential	1	0	0	
+PA	3701493	Calle 10ma Este	residential	1	0	0	
+PA	3701493	Calle 10ma Oeste	residential	1	0	0	
+PA	3701493	Calle 11 A	tertiary	1	0	0	
+PA	3701493	Calle 11 Este	tertiary	1	0	0	
+PA	3701493	Calle 11 Oeste	residential	1	0	0	
+PA	3701526	Avenida Joseph Halphen	secondary	1	0	0	
+PA	3701526	Vía San Pablo Viejo Abajo - Los Anastacios	secondary	1	0	0	
+PA	3701527	Av. Mayor	tertiary	1	0	0	
+PA	3701527	Boulevard Vista Mar	residential	1	0	0	
+PA	3701527	Calle 1° Norte	residential	1	0	0	
+PA	3701527	Calle 2° Norte	residential	1	0	0	
+PA	3701527	Calle 3° Norte	residential	1	0	0	
+PA	3701527	Calle 4° Norte	residential	1	0	0	
+PA	3701527	Calle 5° Norte	residential	1	0	0	
+PA	3701527	Calle 6 Sur	residential	1	0	0	
+PA	3701527	Calle 6° Norte	residential	1	0	0	
+PA	3701527	Calle Central	residential	1	0	0	
+PA	3701527	Calle Playa Hacia La Ensenada	residential	1	0	0	
+PA	3701527	El Palmar	residential	1	0	0	
+PA	3701530	Avenida Joseph Halphen	secondary	1	0	0	
+PA	3701544	San Bartolmo	tertiary	1	0	0	
+PA	3701565	Calle 1		6	4	9	
+PA	3701565	Avenida Principal	residential	1	0	0	
+PA	3701565	Calle 1 A	residential	1	0	0	
+PA	3701565	Calle 2 A	residential	1	0	0	
+PA	3701565	Calle 3 A	residential	1	0	0	
+PA	3701565	Calle 4 A	residential	1	0	0	
+PA	3701565	Calle 5 A	residential	1	0	0	
+PA	3701565	Calle 6 A	residential	1	0	0	
+PA	3701565	Calle 8 A	residential	1	0	0	
+PA	3701565	Calle Aquamar #1	residential	1	0	0	
+PA	3701565	Calle Central	residential	1	0	0	
+PA	3701565	Calle Principal	residential	1	0	0	
+PA	3701578	Antiguas Lineas de Ferrocarril	unclassified	1	0	0	
+PA	3701578	San Andrés - Salitral Ruta Santa Cruz	secondary	1	0	0	
+PA	3701578	Santa Marta - San Andrés	unclassified	1	0	0	
+PA	3701578	Via San Francisco - San Andrés	tertiary	1	0	0	
+PA	3701578	Vía Aserrío de Gariché - San Andrés	secondary	1	0	0	
+PA	3701603	Vía Nuevo Chagres - Miguel de la Borda	secondary	1	0	0	
+PA	3701682	Avenida El Maestro	residential	1	0	0	
+PA	3701682	Calle 1a	residential	1	0	0	
+PA	3701682	Calle 2a	residential	1	0	0	
+PA	3701682	Calle 3a	residential	1	0	0	
+PA	3701682	Calle Antonio Tagaropulos 1	residential	1	0	0	
+PA	3701682	Calle Ciudad del Sol	residential	1	0	0	
+PA	3701682	Calle H	residential	1	0	0	
+PA	3701682	Calle L	residential	1	0	0	
+PA	3701682	Calle Principal	residential	1	0	0	
+PA	3701682	Camino Barriada Nuevo México	tertiary	1	0	0	
+PA	3701682	Camino Champion	residential	1	0	0	
+PA	3701682	Camino La Potabilizadora	unclassified	1	0	0	
+PA	3701682	Camino Punto del Caño	residential	1	0	0	
+PA	3701682	Camino Río Rita	unclassified	1	0	0	
+PA	3701682	Camino San Andrés	residential	1	0	0	
+PA	3701682	Camino San José	residential	1	0	0	
+PA	3701682	Camino Sierra Llorona	unclassified	1	0	0	
+PA	3701682	Camino de Entrada de Vista Alegre	residential	1	0	0	
+PA	3701682	Carretera Transístmica	primary	1	0	0	
+PA	3701682	Sector A	residential	1	0	0	
+PA	3701682	Sector B	residential	1	0	0	
+PA	3701682	Sector C	residential	1	0	0	
+PA	3701682	Sector D	residential	1	0	0	
+PA	3701682	Vistas Alegre N1	residential	1	0	0	
+PA	3701682	Vía Costa de Oro	tertiary	1	0	0	
+PA	3701682	Vía Nueva Italia	tertiary	1	0	0	
+PA	3701682	Vía Nueva Providencia	tertiary	1	0	0	
+PA	3701682	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3701682	Vía Santa Rita	residential	1	0	0	
+PA	3701727	Vía Potrerillos Abajo - Cuesta de Piedra (Ruta Sur)	secondary	1	0	0	
+PA	3701766	Vía Boró	tertiary	1	0	0	
+PA	3701784	Avenida Charco La Pava	unclassified	1	0	0	
+PA	3701784	Avenida Cima del Rey	residential	1	0	0	
+PA	3701784	Avenida Filo del Riscó	tertiary	1	0	0	
+PA	3701784	Avenida Francisco Santos	unclassified	1	0	0	
+PA	3701784	Avenida Isabel Becker	unclassified	1	0	0	
+PA	3701784	Avenida Nance Riscó	residential	1	0	0	
+PA	3701784	Avenida Riscó Abajo	tertiary	1	0	0	
+PA	3701810	Avenida Central	residential	1	0	0	
+PA	3701810	Calle Alto Unión	unclassified	1	0	0	
+PA	3701810	Calle Antiguo Basurero	residential	1	0	0	
+PA	3701810	Calle Binacional	residential	1	0	0	
+PA	3701810	Calle Brasilia	unclassified	1	0	0	
+PA	3701810	Calle Central	tertiary	1	0	0	
+PA	3701810	Calle Colegio	residential	1	0	0	
+PA	3701810	Calle El Aguacate	unclassified	1	0	0	
+PA	3701810	Calle El Gallo	unclassified	1	0	0	
+PA	3701810	Calle El Indio	residential	1	0	0	
+PA	3701810	Calle Escuela	unclassified	1	0	0	
+PA	3701810	Calle Fila Trapiche	unclassified	1	0	0	
+PA	3701816	Camino Río Rita	tertiary	1	0	0	
+PA	3701816	Carretera Transístmica	primary	1	0	0	
+PA	3701816	Nueva Providencia	residential	1	0	0	
+PA	3701816	Vía El Limón	tertiary	1	0	0	
+PA	3701816	Vía Nueva Italia	tertiary	1	0	0	
+PA	3701820	Calle 10	residential	1	0	0	
+PA	3701820	Calle Jardines de Granada	residential	1	0	0	
+PA	3701820	Lluvia de Oro	residential	1	0	0	
+PA	3701820	Vistamar	residential	1	0	0	
+PA	3701861	Decameron		65	253	372	
+PA	3701868	Vía La Candelaria	secondary	1	0	0	
+PA	3701869	Vía Arrimadero	tertiary	1	0	0	
+PA	3701869	Vía Guarumal - El Tigre de San Lorenzo	secondary	1	0	0	
+PA	3701870	Carretera Transístmica	primary	1	0	0	
+PA	3701870	Vía El Limón	tertiary	1	0	0	
+PA	3701874	Carretera Transístmica	primary	1	0	0	
+PA	3701874	Entrada de Giral	tertiary	1	0	0	
+PA	3701882	Vía Rio de Jesús	secondary	1	0	0	
+PA	3701889	Calle 3	residential	1	0	0	
+PA	3701914	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3701917	Avenida 95 B Oeste	residential	2	11	11	
+PA	3701917	Avenida 1 A Norte	residential	1	0	0	
+PA	3701917	Avenida 1 B Norte	residential	1	0	0	
+PA	3701917	Avenida 1 B Sur	residential	1	0	0	
+PA	3701917	Avenida 10 B Norte	residential	1	0	0	
+PA	3701917	Avenida 2 A Norte	residential	1	0	0	
+PA	3701917	Avenida 2 B Sur	residential	1	0	0	
+PA	3701917	Avenida 2 D Norte	residential	1	0	0	
+PA	3701917	Avenida 3 D Norte	residential	1	0	0	
+PA	3701917	Avenida 4 B Sur	residential	1	0	0	
+PA	3701917	Avenida 4 D Norte	residential	1	0	0	
+PA	3701917	Avenida 5 D Norte	residential	1	0	0	
+PA	3701917	Avenida 7 B Norte	residential	1	0	0	
+PA	3701917	Avenida 8 B Norte	residential	1	0	0	
+PA	3701917	Avenida 9 B Norte	residential	1	0	0	
+PA	3701917	Avenida 98 Este	residential	1	0	0	
+PA	3701917	Avenida Domingo Díaz	primary	1	0	0	
+PA	3701917	Avenida Jacaranda	residential	1	0	0	
+PA	3701917	Avenida Jengibre	residential	1	0	0	
+PA	3701917	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3701917	Calle 1	residential	1	0	0	
+PA	3701917	Calle 100 Este	residential	1	0	0	
+PA	3701917	Calle 100 Oeste	residential	1	0	0	
+PA	3701917	Calle 101 B Oeste	residential	1	0	0	
+PA	3701917	Calle 101 Este	residential	1	0	0	
+PA	3701917	Calle 102 Este	residential	1	0	0	
+PA	3701917	Calle 102 Oeste	residential	1	0	0	
+PA	3701917	Calle 103 Este	residential	1	0	0	
+PA	3701917	Calle 103 Oeste	residential	1	0	0	
+PA	3701917	Calle 104 Oeste	residential	1	0	0	
+PA	3701917	Calle 105 Este	residential	1	0	0	
+PA	3701917	Calle 106 Oeste	residential	1	0	0	
+PA	3701917	Calle 13	residential	1	0	0	
+PA	3701917	Calle 14	residential	1	0	0	
+PA	3701917	Calle 15	residential	1	0	0	
+PA	3701917	Calle 16	secondary	1	0	0	
+PA	3701917	Calle 1A	residential	1	0	0	
+PA	3701917	Calle 2A	residential	1	0	0	
+PA	3701917	Calle 4ta Rio Abajo	residential	1	0	0	
+PA	3701917	Calle 8	residential	1	0	0	
+PA	3701917	Calle 94 Oeste	residential	1	0	0	
+PA	3701917	Calle 96 A Oeste	residential	1	0	0	
+PA	3701917	Calle 96 Oeste	residential	1	0	0	
+PA	3701917	Calle 97 1/2 Este	residential	1	0	0	
+PA	3701917	Calle 97 A Este	residential	1	0	0	
+PA	3701917	Calle 97 A Oeste	residential	1	0	0	
+PA	3701917	Calle 98 A Este	residential	1	0	0	
+PA	3701917	Calle 99 Este	residential	1	0	0	
+PA	3701928	Vía San Pablo Viejo Abajo - Los Anastacios	residential	1	0	0	
+PA	3701933	Vía Puerto Mutis	tertiary	1	0	0	
+PA	3701934	Los Posos-Pesé	primary	1	0	0	
+PA	3701951	Rincón de Gualaca	residential	1	0	0	
+PA	3701951	Vía Chiriquí - Gualaca	primary	1	0	0	
+PA	3701994	Vía Las Lajas	tertiary	1	0	0	
+PA	3701994	Vía Remedios	primary	1	0	0	
+PA	3701994	Vía Santa Lucia	secondary	1	0	0	
+PA	3702057	Avenida Randolph	secondary	1	0	0	
+PA	3702057	Calle Falmouth	residential	1	0	0	
+PA	3702098	Calle Carlos E. Aparicio	tertiary	1	0	0	
+PA	3702098	Querévalos Hills	residential	1	0	0	
+PA	3702098	Vía Querévalo	secondary	1	0	0	
+PA	3702156	Vía Almirante	primary	1	0	0	
+PA	3702232	Vía Soná - Tolé	primary	1	0	0	
+PA	3702238	Vía Soná - Tolé	primary	1	0	0	
+PA	3702269	Vía Hato Rincón	residential	1	0	0	
+PA	3702269	Vía Llano Tugrí	primary	1	0	0	
+PA	3702276	Camino de la Fábrica de Minerales	residential	1	0	0	
+PA	3702276	Carretera Transístmica	primary	1	0	0	
+PA	3702332	Calle Don Chaco	unclassified	1	0	0	
+PA	3702332	Calle Principal Rambala	residential	1	0	0	
+PA	3702332	Vía Almirante	primary	1	0	0	
+PA	3702332	Vía Cañaza	unclassified	1	0	0	
+PA	3702332	Vía Chiriquí Grande	secondary	1	0	0	
+PA	3702332	Vía Gualaca - Rambála	primary	1	0	0	
+PA	3702332	Vía Kankintú	secondary	1	0	0	
+PA	3702338	Avenida Esha	residential	1	0	0	
+PA	3702338	Avenida Principal	residential	1	0	0	
+PA	3702338	Calle 1	residential	1	0	0	
+PA	3702338	Calle 13	residential	1	0	0	
+PA	3702338	Calle 14	residential	1	0	0	
+PA	3702338	Calle 2	residential	1	0	0	
+PA	3702338	Calle 25 E Norte	tertiary	1	0	0	
+PA	3702338	Calle 3	residential	1	0	0	
+PA	3702338	Calle 4	residential	1	0	0	
+PA	3702338	Calle 5	residential	1	0	0	
+PA	3702338	Calle 6	residential	1	0	0	
+PA	3702338	Camino a Guayaquiil	residential	1	0	0	
+PA	3702371	Vía Soná - Tolé	primary	1	0	0	
+PA	3702384	Calle 1a	residential	1	0	0	
+PA	3702384	Calle 1ª	residential	1	0	0	
+PA	3702384	Calle 2a	residential	1	0	0	
+PA	3702384	Calle 2ª	residential	1	0	0	
+PA	3702384	Calle 3ª	residential	1	0	0	
+PA	3702384	Calle 4ª	residential	1	0	0	
+PA	3702384	Calle A	residential	1	0	0	
+PA	3702384	Calle B	residential	1	0	0	
+PA	3702384	Calle Cedeño	residential	1	0	0	
+PA	3702384	Calle F	residential	1	0	0	
+PA	3702384	Calle J	residential	1	0	0	
+PA	3702384	Calle N	residential	1	0	0	
+PA	3702384	Calle Principal	residential	1	0	0	
+PA	3702384	Camino Altos de San Isidro	residential	1	0	0	
+PA	3702384	Vía Puerto Pilón	residential	1	0	0	
+PA	3702384	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3702384	Vía San Isidro	residential	1	0	0	
+PA	3702412	Vía Escobal - Piña	secondary	1	0	0	
+PA	3702412	Vía Nuevo Chagres - Miguel de la Borda	secondary	1	0	0	
+PA	3702412	Vía Piña - Nuevo Chagres	tertiary	1	0	0	
+PA	3702427	Avenida Mariano Rivera	secondary	1	0	0	
+PA	3702427	Calle José María Castañón	residential	1	0	0	
+PA	3702431	Avenida Jorge Julio Calzudes	residential	15	1	27	
+PA	3702431	Avenida Nacional	tertiary	9	1	24	
+PA	3702431	Calle 1 - Pueblo Nuevo		3	4	8	
+PA	3702431	Av. Central		2	1	7	
+PA	3702431	Calle El Municipio		2	6	8	
+PA	3702431	El Municipio		2	1	7	
+PA	3702431	Altos de San Vicente	unclassified	1	0	0	
+PA	3702431	Avenida Charco Azul	secondary	1	0	0	
+PA	3702431	Avenida Chiriquí	residential	1	0	0	
+PA	3702431	Avenida El Carmen 2	residential	1	0	0	
+PA	3702431	Avenida El Carmen 3	residential	1	0	0	
+PA	3702431	Avenida El Carmen 5	residential	1	0	0	
+PA	3702431	Avenida El Carmen Central	secondary	1	0	0	
+PA	3702431	Avenida Estadio	residential	1	0	0	
+PA	3702431	Avenida Las Palmas	living_street	1	0	0	
+PA	3702431	Avenida Monte Verde	unclassified	1	0	0	
+PA	3702431	Avenida Presidente Remón	residential	1	0	0	
+PA	3702431	Avenida Ríomar	residential	1	0	0	
+PA	3702431	Buena Vista (Spanish Town)	living_street	1	0	0	
+PA	3702431	Calle Club Las Palmas	living_street	1	0	0	
+PA	3702431	Calle Corredor	residential	1	0	0	
+PA	3702431	Calle DePuy	residential	1	0	0	
+PA	3702431	Calle Elena	residential	1	0	0	
+PA	3702431	Calle I	residential	1	0	0	
+PA	3702448	Vía Peña Blanca	secondary	1	0	0	
+PA	3702464	<<Vía El Macano>>	residential	1	0	0	
+PA	3702464	Antiguas Vías del Ferrocarril	residential	1	0	0	
+PA	3702464	Avenida 4a Este	residential	1	0	0	
+PA	3702464	Avenida Doña Silvia	residential	1	0	0	
+PA	3702464	Puente Bailey	residential	1	0	0	
+PA	3702464	Vía Boquete	primary	1	0	0	
+PA	3702509	Carretera Progreso - Quira	residential	1	0	0	
+PA	3702509	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	3702538	Vía El Coco - Río Caimito	residential	1	0	0	
+PA	3702548	Avenida Central	tertiary	1	0	0	
+PA	3702548	Avenida Jesús M. Pitti	residential	1	0	0	
+PA	3702548	Avenida Los Azahares	residential	1	0	0	
+PA	3702548	Avenida Los Pinos	residential	1	0	0	
+PA	3702548	Calle 1a	living_street	1	0	0	
+PA	3702548	Calle 2a	living_street	1	0	0	
+PA	3702548	Calle A	living_street	1	0	0	
+PA	3702548	Calle B	living_street	1	0	0	
+PA	3702548	Calle Central	residential	1	0	0	
+PA	3702548	Calle La Paz	residential	1	0	0	
+PA	3702548	Calle Los Caobos	residential	1	0	0	
+PA	3702548	Calle Petra M. Cabrera	residential	1	0	0	
+PA	3702550	Avenida Boquete	living_street	1	0	0	
+PA	3702550	Avenida Julio Rubio Colón	living_street	1	0	0	
+PA	3702550	Calle 1a	unclassified	1	0	0	
+PA	3702550	Calle 2a	unclassified	1	0	0	
+PA	3702550	Calle 3a	unclassified	1	0	0	
+PA	3702550	Calle 4a	unclassified	1	0	0	
+PA	3702550	Calle 5a	unclassified	1	0	0	
+PA	3702550	Calle 6a	living_street	1	0	0	
+PA	3702550	Calle 7a	unclassified	1	0	0	
+PA	3702550	Calle 8a	unclassified	1	0	0	
+PA	3702550	Calle 9a	unclassified	1	0	0	
+PA	3702550	Calle Hassan	living_street	1	0	0	
+PA	3702577	Calle Guinea	residential	1	0	0	
+PA	3702577	Carretera Portobelo - La Guaira	secondary	1	0	0	
+PA	3702577	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3702584	Avenida Obaldía	primary	1	0	0	
+PA	3702601	Vía Mariato	secondary	1	0	0	
+PA	3702631	Avenida 4a Oeste	residential	1	0	0	
+PA	3702631	Avenida Alejandro Tapia	secondary	1	0	0	
+PA	3702631	Avenida Antonio Stanziola	residential	1	0	0	
+PA	3702631	Avenida Rafael Estévez	tertiary	1	0	0	
+PA	3702631	Avenida Ricardo Miro	residential	1	0	0	
+PA	3702631	Avenida Rodolfo Chiari	residential	1	0	0	
+PA	3702631	Avenida San Francisco de Asís	residential	1	0	0	
+PA	3702631	Avenida San Juan de Dios	residential	1	0	0	
+PA	3702631	Avenida San Roque	residential	1	0	0	
+PA	3702631	Avenida Sebastián Sucre	tertiary	1	0	0	
+PA	3702631	Avenida Urracá	residential	1	0	0	
+PA	3702631	Calle Abelardo Herrera	residential	1	0	0	
+PA	3702631	Calle Barrero	residential	1	0	0	
+PA	3702631	Calle Belén	residential	1	0	0	
+PA	3702631	Calle Eduardo Pedreschi	secondary	1	0	0	
+PA	3702631	Calle El Estudiante	residential	1	0	0	
+PA	3702631	Calle El Progreso	residential	1	0	0	
+PA	3702631	Calle El Retorno	residential	1	0	0	
+PA	3702631	Calle Gaspar de León	residential	1	0	0	
+PA	3702631	Calle José María Calvo	residential	1	0	0	
+PA	3702631	Calle La Ciénaga	tertiary	1	0	0	
+PA	3702631	Calle La Concepción	residential	1	0	0	
+PA	3702631	Calle La Luna	residential	1	0	0	
+PA	3702631	Calle La Pintada	residential	1	0	0	
+PA	3702632	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3702637	Caisán Sur	unclassified	1	0	0	
+PA	3702637	Caisán- Quebrada Vueltas	secondary	1	0	0	
+PA	3702637	Caisán-Montelirio	secondary	1	0	0	
+PA	3702637	Calle Limoncito	unclassified	1	0	0	
+PA	3702637	Camino Guabito-Río Caisán	unclassified	1	0	0	
+PA	3702637	Circunvalar Caisan Centro	tertiary	1	0	0	
+PA	3702637	Circunvalar Plaza- Caisán Centro	tertiary	1	0	0	
+PA	3702637	Dominical - Plaza Caisán	secondary	1	0	0	
+PA	3702637	Las Vueltas- Las Delicias	secondary	1	0	0	
+PA	3702637	Paso Alvarez Caizan	secondary	1	0	0	
+PA	3702637	Paso Alvarez Monte Lirio	secondary	1	0	0	
+PA	3702637	Vía Volcán - Plaza de Caisán	secondary	1	0	0	
+PA	3702661	8013	tertiary	1	0	0	
+PA	3702661	8038	residential	1	0	0	
+PA	3702661	Vía 8017	tertiary	1	0	0	
+PA	3702748	Carretera de Chorcha	unclassified	1	0	0	
+PA	3702818	Vía Yaviza - El Real	tertiary	1	0	0	
+PA	3702883	Vía Chitra	tertiary	1	0	0	
+PA	3702921	Calle Alto La Neblina	residential	1	0	0	
+PA	3702921	Calle Cafrosa	unclassified	1	0	0	
+PA	3702921	Calle El CEN	unclassified	1	0	0	
+PA	3702921	Calle El Capulín	unclassified	1	0	0	
+PA	3702921	Calle El Redondel	residential	1	0	0	
+PA	3702921	Calle La Aurora	unclassified	1	0	0	
+PA	3702921	Calle La Plaza	unclassified	1	0	0	
+PA	3702921	Calle Las Tablas	unclassified	1	0	0	
+PA	3702921	Calle Los Fernández	unclassified	1	0	0	
+PA	3702921	Calle Los Navarro	residential	1	0	0	
+PA	3702921	Calle Los Sandis	residential	1	0	0	
+PA	3702921	Calle Los Vindas	unclassified	1	0	0	
+PA	3703011	Avenida El Progreso	residential	1	0	0	
+PA	3703011	Avenida José Varela Blanco	tertiary	1	0	0	
+PA	3703011	Avenida La Industria	residential	1	0	0	
+PA	3703011	Avenida San Antonio	residential	1	0	0	
+PA	3703011	Avenida San José	residential	1	0	0	
+PA	3703011	Colonias de Azuero	residential	1	0	0	
+PA	3703011	Creamatorio de Pesé	residential	1	0	0	
+PA	3703011	El As de Oro	residential	1	0	0	
+PA	3703011	El Eden	residential	1	0	0	
+PA	3703011	Los Posos-Pesé	primary	1	0	0	
+PA	3703011	Vía Pesé	primary	1	0	0	
+PA	3703011	Vía Pesé - Las Cabras	tertiary	1	0	0	
+PA	3703068	Calle 10	residential	51	453	499	
+PA	3703068	Calle 7	residential	49	123	234	
+PA	3703068	Calle 9	residential	48	404	448	
+PA	3703068	Boulevard Miraflores	residential	42	58	398	
+PA	3703068	Calle 1-A	residential	28	28	54	
+PA	3703068	Calle 8	residential	21	132	188	
+PA	3703068	Calle 6	residential	19	246	264	
+PA	3703068	Calle 5-A	residential	18	274	305	
+PA	3703068	Calle 6-A	residential	18	237	273	
+PA	3703068	Calle 3-A	residential	16	83	345	
+PA	3703068	Calle 4-A	residential	16	306	336	
+PA	3703068	Calle Mirasol	residential	16	104	120	
+PA	3703068	Calle 2-B	residential	15	372	387	
+PA	3703068	Calle 3	residential	15	341	359	
+PA	3703068	Calle 4	residential	15	312	330	
+PA	3703068	Calle 1	residential	14	1	14	
+PA	3703068	Calle 5	residential	14	283	296	
+PA	3703068	Calle 8-A		14	170	197	
+PA	3703068	Calle 3-C	residential	13	91	103	
+PA	3703068	Calle 1-B	residential	12	15	26	
+PA	3703068	Calle 8-B		12	147	158	
+PA	3703068	Calle 3-B	residential	9	74	82	
+PA	3703068	Calle 8-C	residential	9	138	146	
+PA	3703068	Calle 2-A	residential	8	360	371	
+PA	3703068	Calle 4ta Norte		6	0	0	
+PA	3703068	Calle 2	residential	5	361	385	
+PA	3703068	Avenida Nicanor Rosas	primary	3	2972	2994	
+PA	3703068	Avenida 12 de Setiembre	residential	1	0	0	
+PA	3703068	Avenida Aquilino Tejeira	tertiary	1	0	0	
+PA	3703068	Avenida Ascanio Pérez Pinzón	residential	1	0	0	
+PA	3703068	Avenida California	residential	1	0	0	
+PA	3703068	Avenida Cincuentenario	residential	1	0	0	
+PA	3703068	Avenida El Valle	residential	1	0	0	
+PA	3703068	Avenida Guillermo Rosas	residential	1	0	0	
+PA	3703068	Avenida Juan Demóstenes Arosemena	primary	1	0	0	
+PA	3703068	Avenida Laureano Jáen	secondary	1	0	0	
+PA	3703068	Avenida Primera	residential	1	0	0	
+PA	3703068	Avenida Segunda	residential	1	0	0	
+PA	3703068	Avenida Simón Quirós	residential	1	0	0	
+PA	3703068	Avenida Suárez	residential	1	0	0	
+PA	3703068	Avenida Víctor de la Guardia	secondary	1	0	0	
+PA	3703068	Calle 03 de Noviembre	residential	1	0	0	
+PA	3703068	Calle 10-A	residential	1	0	0	
+PA	3703068	Calle 11	residential	1	0	0	
+PA	3703068	Calle 11 de Octubre	residential	1	0	0	
+PA	3703068	Calle 12	residential	1	0	0	
+PA	3703068	Calle 12 de Septiembre	tertiary	1	0	0	
+PA	3703068	Calle 13	residential	1	0	0	
+PA	3703093	Vía Ocú	secondary	1	0	0	
+PA	3703125	Calle de Llano Ñopo	tertiary	1	0	0	
+PA	3703125	Vía Peña Blanca	secondary	1	0	0	
+PA	3703126	Cocal Peña Blanca	tertiary	1	0	0	
+PA	3703227	Calle Primera	tertiary	5	102	445	
+PA	3703227	Calle 11	residential	3	28	367	
+PA	3703227	Calle Olibos		3	336	354	
+PA	3703227	Calle 5a	residential	2	461	573	
+PA	3703227	Calle Principal		2	504	523	
+PA	3703227	Arco Iris	residential	1	0	0	
+PA	3703227	Avenida 1a Los Robles	residential	1	0	0	
+PA	3703227	Avenida Domingo Díaz	primary	1	0	0	
+PA	3703227	Avenida Guillermo E. Quijano	tertiary	1	0	0	
+PA	3703227	Avenida Jacarandas	residential	1	0	0	
+PA	3703227	Avenida José María Torrijos	secondary	1	0	0	
+PA	3703227	Avenida Principal Altos de Plaza Tocumen	residential	1	0	0	
+PA	3703227	Avenida Segunda	residential	1	0	0	
+PA	3703227	Avenida Tercera	tertiary	1	0	0	
+PA	3703227	Avenida Urracá 1	tertiary	1	0	0	
+PA	3703227	Avenida la Paz	residential	1	0	0	
+PA	3703227	Cale 12	residential	1	0	0	
+PA	3703227	Calle 1	residential	1	0	0	
+PA	3703227	Calle 1 Pedregal	tertiary	1	0	0	
+PA	3703227	Calle 1 Trapichito	residential	1	0	0	
+PA	3703227	Calle 1 Villalobos	residential	1	0	0	
+PA	3703227	Calle 1-A	residential	1	0	0	
+PA	3703227	Calle 10	residential	1	0	0	
+PA	3703227	Calle 12	residential	1	0	0	
+PA	3703227	Calle 13	residential	1	0	0	
+PA	3703227	Calle 138 Oeste	residential	1	0	0	
+PA	3703227	Calle 139 Oeste	residential	1	0	0	
+PA	3703227	Calle 13B	residential	1	0	0	
+PA	3703227	Calle 14	residential	1	0	0	
+PA	3703227	Calle 140 Oeste	residential	1	0	0	
+PA	3703227	Calle 141 Oeste	residential	1	0	0	
+PA	3703227	Calle 142 Oeste	residential	1	0	0	
+PA	3703227	Calle 143 Oeste	tertiary	1	0	0	
+PA	3703227	Calle 144 Oeste	residential	1	0	0	
+PA	3703227	Calle 146 Oeste	residential	1	0	0	
+PA	3703227	Calle 147 Oeste	residential	1	0	0	
+PA	3703227	Calle 148 Oeste	residential	1	0	0	
+PA	3703227	Calle 149 Oeste	residential	1	0	0	
+PA	3703227	Calle 14A	residential	1	0	0	
+PA	3703227	Calle 14B	residential	1	0	0	
+PA	3703227	Calle 15	residential	1	0	0	
+PA	3703227	Calle 15A	residential	1	0	0	
+PA	3703227	Calle 15B	residential	1	0	0	
+PA	3703227	Calle 16	residential	1	0	0	
+PA	3703227	Calle 16A	residential	1	0	0	
+PA	3703227	Calle 16B	residential	1	0	0	
+PA	3703227	Calle 17	residential	1	0	0	
+PA	3703227	Calle 17A	residential	1	0	0	
+PA	3703227	Calle 17B	residential	1	0	0	
+PA	3703227	Calle 18	residential	1	0	0	
+PA	3703227	Calle 18B	residential	1	0	0	
+PA	3703227	Calle 19	residential	1	0	0	
+PA	3703227	Calle 19B	residential	1	0	0	
+PA	3703227	Calle 1ra	residential	1	0	0	
+PA	3703227	Calle 1ra y B	residential	1	0	0	
+PA	3703227	Calle 2	residential	1	0	0	
+PA	3703227	Calle 20	residential	1	0	0	
+PA	3703227	Calle 20B	residential	1	0	0	
+PA	3703227	Calle 21	residential	1	0	0	
+PA	3703227	Calle 21B	residential	1	0	0	
+PA	3703227	Calle 22	residential	1	0	0	
+PA	3703227	Calle 22B	residential	1	0	0	
+PA	3703227	Calle 23	residential	1	0	0	
+PA	3703227	Calle 23B	residential	1	0	0	
+PA	3703227	Calle 24	residential	1	0	0	
+PA	3703227	Calle 25	residential	1	0	0	
+PA	3703227	Calle 26	residential	1	0	0	
+PA	3703227	Calle 27	residential	1	0	0	
+PA	3703227	Calle 2a	residential	1	0	0	
+PA	3703227	Calle 2da	residential	1	0	0	
+PA	3703227	Calle 3 Pedregal	residential	1	0	0	
+PA	3703227	Calle 3a	residential	1	0	0	
+PA	3703227	Calle 4	residential	1	0	0	
+PA	3703227	Calle 41	residential	1	0	0	
+PA	3703227	Calle 42	residential	1	0	0	
+PA	3703227	Calle 43	residential	1	0	0	
+PA	3703227	Calle 44	residential	1	0	0	
+PA	3703227	Calle 45	residential	1	0	0	
+PA	3703227	Calle 4ta	residential	1	0	0	
+PA	3703227	Calle 5	residential	1	0	0	
+PA	3703227	Calle 6	residential	1	0	0	
+PA	3703227	Calle 7	residential	1	0	0	
+PA	3703227	Calle 7a	residential	1	0	0	
+PA	3703227	Calle 8	residential	1	0	0	
+PA	3703227	Calle 8a	residential	1	0	0	
+PA	3703227	Calle 9	residential	1	0	0	
+PA	3703227	Calle 9a	residential	1	0	0	
+PA	3703227	Calle A 1	residential	1	0	0	
+PA	3703227	Calle A Balmoral	residential	1	0	0	
+PA	3703227	Calle A San Joaquín	residential	1	0	0	
+PA	3703227	Calle Aeropuerto	secondary	1	0	0	
+PA	3703227	Calle Aldean N 2	residential	1	0	0	
+PA	3703227	Calle Asiria	residential	1	0	0	
+PA	3703227	Calle B 1	residential	1	0	0	
+PA	3703227	Calle Babilonia	residential	1	0	0	
+PA	3703227	Calle Balmoral	residential	1	0	0	
+PA	3703227	Calle Balsas	residential	1	0	0	
+PA	3703227	Calle Bello Horizonte	residential	1	0	0	
+PA	3703227	Calle Borneo	residential	1	0	0	
+PA	3703227	Calle Brasilia	residential	1	0	0	
+PA	3703229	Avenida 10a Este	unclassified	1	0	0	
+PA	3703229	Avenida 1a Este	residential	1	0	0	
+PA	3703229	Avenida 1a Oeste	residential	1	0	0	
+PA	3703229	Avenida 2a Este	residential	1	0	0	
+PA	3703229	Avenida 2a Oeste	residential	1	0	0	
+PA	3703229	Avenida 3a Este	residential	1	0	0	
+PA	3703229	Avenida 3a Oeste	unclassified	1	0	0	
+PA	3703229	Avenida 4a Este	residential	1	0	0	
+PA	3703229	Avenida 5a Este	residential	1	0	0	
+PA	3703229	Avenida 6a Este	residential	1	0	0	
+PA	3703229	Avenida 7a Este	residential	1	0	0	
+PA	3703229	Avenida 8a Este	unclassified	1	0	0	
+PA	3703229	Avenida 9a Este	unclassified	1	0	0	
+PA	3703229	Avenida Red Gray	primary	1	0	0	
+PA	3703229	Calle 2da	residential	1	0	0	
+PA	3703229	Calle A Norte	residential	1	0	0	
+PA	3703229	Calle A Sur	residential	1	0	0	
+PA	3703229	Calle B Norte	unclassified	1	0	0	
+PA	3703229	Calle B Sur	unclassified	1	0	0	
+PA	3703229	Calle C Norte	unclassified	1	0	0	
+PA	3703229	Calle C Sur	residential	1	0	0	
+PA	3703229	Calle Central	residential	1	0	0	
+PA	3703229	Calle D Norte	residential	1	0	0	
+PA	3703229	Calle D Sur	residential	1	0	0	
+PA	3703229	Calle E Sur	unclassified	1	0	0	
+PA	3703229	Calle Enrique Malek	residential	1	0	0	
+PA	3703229	Calle F Norte	residential	1	0	0	
+PA	3703229	Calle F Sur	unclassified	1	0	0	
+PA	3703229	Calle G Sur	unclassified	1	0	0	
+PA	3703229	Calle Galo	unclassified	1	0	0	
+PA	3703229	Calle H Sur	unclassified	1	0	0	
+PA	3703229	Calle I Sur	residential	1	0	0	
+PA	3703229	Calle J Sur	residential	1	0	0	
+PA	3703229	Calle K Sur	unclassified	1	0	0	
+PA	3703229	Calle L Sur	unclassified	1	0	0	
+PA	3703229	Calle M Sur	unclassified	1	0	0	
+PA	3703229	Calle Mayor Patricio Jackson	unclassified	1	0	0	
+PA	3703229	Calle Mayor Patricio Janson	residential	1	0	0	
+PA	3703229	Calle N Sur	unclassified	1	0	0	
+PA	3703229	Calle O Sur	residential	1	0	0	
+PA	3703229	Calle P Sur	unclassified	1	0	0	
+PA	3703229	Calle Q Sur	residential	1	0	0	
+PA	3703229	Calle R Sur	residential	1	0	0	
+PA	3703229	Calle S Sur	residential	1	0	0	
+PA	3703229	Calle T Sur	residential	1	0	0	
+PA	3703229	Calle U Sur	residential	1	0	0	
+PA	3703229	Calle V Sur	residential	1	0	0	
+PA	3703229	Calle W Sur	residential	1	0	0	
+PA	3703239	Calle Jolly Rogers	residential	1	0	0	
+PA	3703239	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3703327	Arnulfo Escalona	unclassified	1	0	0	
+PA	3703327	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3703327	Brisa del Ríos	residential	1	0	0	
+PA	3703327	Calle Primera	residential	1	0	0	
+PA	3703327	Calle Principal	tertiary	1	0	0	
+PA	3703327	calle principal	tertiary	1	0	0	
+PA	3703346	Avenida de la Rotonda	tertiary	2	0	0	
+PA	3703346	Avenida 2 A Sur	residential	1	0	0	
+PA	3703346	Avenida 2 C Sur	residential	1	0	0	
+PA	3703346	Avenida 2 F Norte	tertiary	1	0	0	
+PA	3703346	Avenida 3 C Sur	residential	1	0	0	
+PA	3703346	Avenida 4 C Sur	residential	1	0	0	
+PA	3703346	Avenida 4 D Sur	residential	1	0	0	
+PA	3703346	Avenida 5 C Sur	residential	1	0	0	
+PA	3703346	Avenida 5 D Sur	residential	1	0	0	
+PA	3703346	Avenida 6 B Sur	residential	1	0	0	
+PA	3703346	Avenida 6 Sur	secondary	1	0	0	
+PA	3703346	Avenida B	tertiary	1	0	0	
+PA	3703346	Avenida C 2 Sur	residential	1	0	0	
+PA	3703346	Avenida Cincuentenario	primary	1	0	0	
+PA	3703346	Avenida Israel	residential	1	0	0	
+PA	3703346	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3703346	Avenida Santa Elena	tertiary	1	0	0	
+PA	3703346	Boulevard Costa del Este	tertiary	1	0	0	
+PA	3703346	Caipi Villa Lorena	residential	1	0	0	
+PA	3703346	Calle 105 1/2 Este	residential	1	0	0	
+PA	3703346	Calle 105 Este	residential	1	0	0	
+PA	3703346	Calle 106 A Este	residential	1	0	0	
+PA	3703346	Calle 107 Este	residential	1	0	0	
+PA	3703346	Calle 108 A Este	residential	1	0	0	
+PA	3703346	Calle 108 Este	residential	1	0	0	
+PA	3703346	Calle 109 Este	residential	1	0	0	
+PA	3703346	Calle 110 A Este	residential	1	0	0	
+PA	3703346	Calle 110 B	residential	1	0	0	
+PA	3703346	Calle 110 Este	residential	1	0	0	
+PA	3703346	Calle 111 Este	residential	1	0	0	
+PA	3703346	Calle 112 Este	residential	1	0	0	
+PA	3703346	Calle 12a	residential	1	0	0	
+PA	3703346	Calle 13a	residential	1	0	0	
+PA	3703346	Calle 2	residential	1	0	0	
+PA	3703346	Calle 2a	residential	1	0	0	
+PA	3703346	Calle 2da	residential	1	0	0	
+PA	3703346	Calle 3	residential	1	0	0	
+PA	3703346	Calle 4	residential	1	0	0	
+PA	3703346	Calle 49 B Oeste	residential	1	0	0	
+PA	3703346	Calle 5	residential	1	0	0	
+PA	3703346	Calle 6	residential	1	0	0	
+PA	3703346	Calle 7	residential	1	0	0	
+PA	3703346	Calle 8	residential	1	0	0	
+PA	3703346	Calle 9	residential	1	0	0	
+PA	3703346	Calle A	residential	1	0	0	
+PA	3703346	Calle Alcázar	residential	1	0	0	
+PA	3703346	Calle Alhambra	residential	1	0	0	
+PA	3703346	Calle Andalucía	residential	1	0	0	
+PA	3703354	Avenida 3 de Noviembre	residential	1	0	0	
+PA	3703354	Avenida Juan Manuel Porcel	residential	1	0	0	
+PA	3703354	Avenida Santo Domingo de Guzmán	residential	1	0	0	
+PA	3703354	Calle 1era	residential	1	0	0	
+PA	3703354	Calle 2da	residential	1	0	0	
+PA	3703354	Calle 3era	residential	1	0	0	
+PA	3703354	Calle 4ta	residential	1	0	0	
+PA	3703354	Calle 5ta	residential	1	0	0	
+PA	3703354	Calle 6ta	residential	1	0	0	
+PA	3703373	Avenida Omar Torrijos Herrera	primary	1	0	0	
+PA	3703373	Calle Acla	residential	1	0	0	
+PA	3703373	Calle Burú	residential	1	0	0	
+PA	3703373	Calle Camacho	residential	1	0	0	
+PA	3703373	Calle Cascadas	residential	1	0	0	
+PA	3703373	Calle Chiriquí	residential	1	0	0	
+PA	3703373	Calle Cocoli	residential	1	0	0	
+PA	3703373	Calle Dos Bocas	living_street	1	0	0	
+PA	3703373	Calle Duraria	residential	1	0	0	
+PA	3703373	Calle Emma Ruedas de Viteri	residential	1	0	0	
+PA	3703373	Calle Espalaba	residential	1	0	0	
+PA	3703373	Calle Fuente	living_street	1	0	0	
+PA	3703374	Camino Santa Rita Arriba	unclassified	1	0	0	
+PA	3703374	Circunvalación La Elvira	unclassified	1	0	0	
+PA	3703374	Santa Rita Arriba	unclassified	1	0	0	
+PA	3703374	Vía Cordillera	secondary	1	0	0	
+PA	3703374	Vía El Bongo	secondary	1	0	0	
+PA	3703374	Vía Paraíso	secondary	1	0	0	
+PA	3703374	Vía Potrerillos Abajo - Cuesta de Piedra (Ruta Sur)	secondary	1	0	0	
+PA	3703374	Vía Volcán	primary	1	0	0	
+PA	3703375	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3703443	Calle Luis Bonilla	residential	37	109	154	
+PA	3703443	Embassy Club	residential	25	1	24	
+PA	3703443	Calle Gonzalo Crance	residential	17	164	181	
+PA	3703443	Calle 73 Oeste	residential	16	3	70	
+PA	3703443	Avenida 13 C Norte	residential	14	2	94	
+PA	3703443	Calle Blossom Wood	residential	13	41	52	
+PA	3703443	Calle 74 Oeste	tertiary	11	1	250	
+PA	3703443	Calle Anderson	residential	10	371	394	
+PA	3703443	Sector G	residential	10	0	0	
+PA	3703443	Calle George Westerman	residential	9	13	18	
+PA	3703443	Calle 63a Oeste	residential	8	13	17	
+PA	3703443	Calle Aroldo Cano Arosemena	residential	8	349	356	
+PA	3703443	Calle Carlos Lara	residential	8	157	161	
+PA	3703443	Calle Los Tulipanes	residential	8	17	33	
+PA	3703443	Avenida 20 F Norte	residential	7	11	313	
+PA	3703443	Calle Coiner		7	221	228	
+PA	3703443	Calle Jacinto Palacios	residential	7	231	306	
+PA	3703443	Andrews Boulevard		6	805	809	
+PA	3703443	Calle 63b Oeste	residential	6	3	35	
+PA	3703443	Calle 63c Oeste	residential	6	40	55	
+PA	3703443	Calle 72 Oeste	residential	6	13	95	
+PA	3703443	Calle Wells	residential	6	380	385	
+PA	3703443	Camino Real De Betania		6	3	6134	
+PA	3703443	Sector F	residential	6	131	131	
+PA	3703443	Avenida 12 C Norte	residential	5	43	43	
+PA	3703443	Avenida 17 C Norte	residential	5	12	16	
+PA	3703443	Avenida 75 E	residential	5	7	83	
+PA	3703443	Avenida Balboa	primary	5	0	0	
+PA	3703443	Calle 22 D Norte	residential	5	9	13	
+PA	3703443	Calle 50		5	31	909	
+PA	3703443	Calle 68 Este	tertiary	5	3	111	
+PA	3703443	Calle 74 F	residential	5	3	24	
+PA	3703443	Calle 77 C Oeste	residential	5	225	305	
+PA	3703443	Calle Elida Diez	residential	5	15	26	
+PA	3703443	Calle Paolo Santo		5	205	217	
+PA	3703443	Calle República de la India	tertiary	5	3	67	
+PA	3703443	Calle Ricardo Murgas	residential	5	243	246	
+PA	3703443	Calle Valencia	residential	5	40	40	
+PA	3703443	Avenida 3 D Sur	residential	4	8	43	
+PA	3703443	Avenida Ayacocho	residential	4	5	71	
+PA	3703443	Avenida de la Paz		4	888	888	
+PA	3703443	Calle 80 B Oeste	tertiary	4	48	138	
+PA	3703443	Calle Alberto Tejada		4	102	348	
+PA	3703443	Calle Aroldo Cano A.	residential	4	128	162	
+PA	3703443	Calle Benito Reyes Testa	residential	4	0	0	
+PA	3703443	Calle Los Almendros	residential	4	2	48	
+PA	3703443	Calle Miguel Angel Paredes		4	24	39	
+PA	3703443	Calle Republica de la India		4	5	78	
+PA	3703443	Vía Argentina		4	5	61	
+PA	3703443	Vía España	primary	4	31	218	
+PA	3703443	Avenida 16 C Norte	residential	3	12	15	
+PA	3703443	Avenida 19 C Norte	residential	3	8	38	
+PA	3703443	Avenida 22 C Norte	residential	3	0	0	
+PA	3703443	Avenida 8a Norte	residential	3	11	17	
+PA	3703443	Avenida Central España	secondary	3	120	4654	
+PA	3703443	Calle 1 Oeste	residential	3	80	844	
+PA	3703443	Calle 13b Norte	residential	3	15	20	
+PA	3703443	Calle 38	residential	3	0	0	
+PA	3703443	Calle 54 Este	residential	3	3	2109	
+PA	3703443	Calle 55 Este	residential	3	15	15	
+PA	3703443	Calle 77 D Oeste	residential	3	208	208	
+PA	3703443	Calle 79 B Oeste	residential	3	153	170	
+PA	3703443	Calle Colombia	residential	3	14	14	
+PA	3703443	Calle Enrique J Arce	residential	3	37	102	
+PA	3703443	Calle Ezequiel González	residential	3	332	333	
+PA	3703443	Calle Gil Blas Tijeira	residential	3	6	16	
+PA	3703443	Calle Las Bromeliad		3	146	147	
+PA	3703443	Calle Riche	residential	3	372	377	
+PA	3703443	Calle Rosa Landecho		3	247	248	
+PA	3703443	Calle Tomás Gabriel Duque	residential	3	3	8	
+PA	3703443	Los Guayacanes	residential	3	24	30	
+PA	3703443	Sector Conrresa 2	residential	3	5	18	
+PA	3703443	Vía Ricardo J. Alfaro		3	0	0	
+PA	3703443	Avenida 12 1/2 B Norte	residential	2	21	22	
+PA	3703443	Avenida 18 C Norte	residential	2	7	7	
+PA	3703443	Avenida 20 D Norte	residential	2	0	0	
+PA	3703443	Avenida 21 C Norte	residential	2	8	17	
+PA	3703443	Avenida 22 E Norte	residential	2	0	0	
+PA	3703443	Avenida 6a C Norte	residential	2	16	34	
+PA	3703443	Avenida 7 A Norte		2	99	101	
+PA	3703443	Avenida 8 E Norte	residential	2	0	0	
+PA	3703443	Avenida Belisario Porras		2	16	16	
+PA	3703443	Avenida Eusebio A Morales		2	4	17	
+PA	3703443	Avenida Eusebio A. Morales	tertiary	2	16	55	
+PA	3703443	Avenida Federico Boyd	primary	2	33	1032	
+PA	3703443	Avenida Mobbe		2	414	461	
+PA	3703443	Avenida Samuel Lewis	residential	2	96	96	
+PA	3703443	Avenida Santa Elena	tertiary	2	9	11	
+PA	3703443	Calle 42	secondary	2	17	19	
+PA	3703443	Calle 43	residential	2	0	0	
+PA	3703443	Calle 50 D Este	residential	2	5	12	
+PA	3703443	Calle 62 C Oeste	residential	2	10	13	
+PA	3703443	Calle 62 Oeste	residential	2	12	23	
+PA	3703443	Calle 65 A Este	residential	2	583	655	
+PA	3703443	Calle 70 Este Bis	residential	2	641	647	
+PA	3703443	Calle 75 A Oeste	residential	2	32	55	
+PA	3703443	Calle 76 Oeste	residential	2	21	225	
+PA	3703443	Calle 82 Este	residential	2	30	32	
+PA	3703443	Calle 95 C Este	residential	2	93	94	
+PA	3703443	Calle A	residential	2	0	0	
+PA	3703443	Calle Alberto Constance	residential	2	124	125	
+PA	3703443	Calle Aquilino de La Guardia	tertiary	2	5	6	
+PA	3703443	Calle Arbol Panamá	residential	2	208	231	
+PA	3703443	Calle C	residential	2	112	112	
+PA	3703443	Calle Elvira Méndez	residential	2	10	52	
+PA	3703443	Calle Fragata	residential	2	77	101	
+PA	3703443	Calle Las Acacias	residential	2	56	60	
+PA	3703443	Calle Las Gladiolas	residential	2	7	26	
+PA	3703443	Calle Las Ixoras	residential	2	64	66	
+PA	3703443	Calle Los Girasoles	residential	2	25	26	
+PA	3703443	Calle Los Macanos	residential	2	33	35	
+PA	3703443	Calle Manuel J. Castelleros	residential	2	11	16	
+PA	3703443	Calle Margarita A. De Vallarino		2	47	57	
+PA	3703443	Calle Maritza Alabarca	residential	2	1000	1000	
+PA	3703443	Calle Palmer	residential	2	426	427	
+PA	3703443	Calle Republica De Bolivia	residential	2	16	52	
+PA	3703443	Calle San Juan Bosco		2	87	89	
+PA	3703443	Calle Santa Elena		2	15	75	
+PA	3703443	Castilla De Oro		2	36	71	
+PA	3703443	Las Perlas St		2	528	528	
+PA	3703443	Sector Los Sauces B	residential	2	0	0	
+PA	3703443	Sector Miramar	residential	2	44	110	
+PA	3703443	Sector Miramar 3		2	3	4	
+PA	3703443	Tumba Muerto (Ricardo J. Alfaro)		2	0	0	
+PA	3703443	Vía Porras		2	139	780	
+PA	3703443	1st Street	tertiary	1	0	0	
+PA	3703443	2nd Street	residential	1	0	0	
+PA	3703443	3rd Street	residential	1	0	0	
+PA	3703443	9 de Enero	tertiary	1	0	0	
+PA	3703443	Albrook Gardens	residential	1	0	0	
+PA	3703443	Albrook Park	residential	1	0	0	
+PA	3703443	Altos de Panama I	residential	1	0	0	
+PA	3703443	Altos del Country	residential	1	0	0	
+PA	3703443	Altos del Country 2000	residential	1	0	0	
+PA	3703443	Altos del Lirio	residential	1	0	0	
+PA	3703443	Av 20 1/2 Nte	residential	1	0	0	
+PA	3703443	Ave. 1a Perejil Nte	residential	1	0	0	
+PA	3703443	Avenida 1 A Sur	residential	1	0	0	
+PA	3703443	Avenida 1 B Norte	tertiary	1	0	0	
+PA	3703443	Avenida 1 C Norte	residential	1	0	0	
+PA	3703443	Avenida 1/2 D Norte	residential	1	0	0	
+PA	3703443	Avenida 13 D Norte	residential	1	0	0	
+PA	3703443	Avenida 13 F Norte	residential	1	0	0	
+PA	3703443	Avenida 14 B Norte	residential	1	0	0	
+PA	3703443	Avenida 14 C Norte	tertiary	1	0	0	
+PA	3703443	Avenida 15 1/2 D Norte	residential	1	0	0	
+PA	3703443	Avenida 15 1/2 D Norte Avance 1	residential	1	0	0	
+PA	3703443	Avenida 16 B Norte	residential	1	0	0	
+PA	3703443	Avenida 16 D Norte	residential	1	0	0	
+PA	3703443	Avenida 17 B Norte	tertiary	1	0	0	
+PA	3703443	Avenida 18 B Norte	residential	1	0	0	
+PA	3703443	Avenida 18 F Norte	residential	1	0	0	
+PA	3703443	Avenida 19 F Norte	residential	1	0	0	
+PA	3703443	Avenida 19 Norte	residential	1	0	0	
+PA	3703443	Avenida 1A Norte	residential	1	0	0	
+PA	3703443	Avenida 2 1/2 Norte	residential	1	0	0	
+PA	3703443	Avenida 2 1/2 Sur	residential	1	0	0	
+PA	3703443	Avenida 2 A Sur	residential	1	0	0	
+PA	3703443	Avenida 20 C Norte	residential	1	0	0	
+PA	3703443	Avenida 20 Norte	residential	1	0	0	
+PA	3703443	Avenida 21 B Norte	residential	1	0	0	
+PA	3703443	Avenida 21 E Norte	residential	1	0	0	
+PA	3703443	Avenida 21 F Norte	residential	1	0	0	
+PA	3703443	Avenida 3 1/2 B Norte	residential	1	0	0	
+PA	3703443	Avenida 3 A Sur	residential	1	0	0	
+PA	3703443	Avenida 3 B Norte	residential	1	0	0	
+PA	3703443	Avenida 3 G Sur	residential	1	0	0	
+PA	3703443	Avenida 3 K Sur	residential	1	0	0	
+PA	3703443	Avenida 3 M Sur	residential	1	0	0	
+PA	3703443	Avenida 3 N Sur	residential	1	0	0	
+PA	3703443	Avenida 3 Sur	residential	1	0	0	
+PA	3703443	Avenida 3a	residential	1	0	0	
+PA	3703443	Avenida 3a B Sur	residential	1	0	0	
+PA	3703443	Avenida 3a Sur	residential	1	0	0	
+PA	3703443	Avenida 4 A Sur	residential	1	0	0	
+PA	3703443	Avenida 4 Sur	residential	1	0	0	
+PA	3703443	Avenida 49 A Oeste	residential	1	0	0	
+PA	3703443	Avenida 49 B Oeste	residential	1	0	0	
+PA	3703443	Avenida 4a B Norte	residential	1	0	0	
+PA	3703443	Avenida 4a C Norte	residential	1	0	0	
+PA	3703443	Avenida 4ta C Sur	residential	1	0	0	
+PA	3703443	Avenida 5A B Sur	residential	1	0	0	
+PA	3703443	Avenida 5C Nte. 3-21	residential	1	0	0	
+PA	3703443	Avenida 5D Sur	residential	1	0	0	
+PA	3703443	Avenida 6 A Sur	residential	1	0	0	
+PA	3703443	Avenida 6a Norte	residential	1	0	0	
+PA	3703443	Avenida 7 1/2 A Sur	residential	1	0	0	
+PA	3703443	Avenida 7 1/2 B Sur	residential	1	0	0	
+PA	3703443	Avenida 7 A Sur	residential	1	0	0	
+PA	3703443	Avenida 7 Sur	residential	1	0	0	
+PA	3703443	Avenida 7A Norte	residential	1	0	0	
+PA	3703443	Avenida 7B Norte	residential	1	0	0	
+PA	3703443	Avenida 7a Norte	residential	1	0	0	
+PA	3703443	Avenida 8 A Norte	residential	1	0	0	
+PA	3703443	Avenida 8B Norte	residential	1	0	0	
+PA	3703443	Avenida 8a A. Norte	residential	1	0	0	
+PA	3703443	Avenida 8a C Norte	residential	1	0	0	
+PA	3703443	Avenida 94 Oeste	residential	1	0	0	
+PA	3703443	Avenida 99 B Este	residential	1	0	0	
+PA	3703443	Avenida 9a C Norte	residential	1	0	0	
+PA	3703478	Calle Manuel Morales	residential	1	0	0	
+PA	3703478	Camino Alto de la Playa	unclassified	1	0	0	
+PA	3703478	Palo Grande	unclassified	1	0	0	
+PA	3703478	Via Barqueta	residential	1	0	0	
+PA	3703478	Vía Cornozuelo	unclassified	1	0	0	
+PA	3703478	Vía Palo Grande - Las Moras	unclassified	1	0	0	
+PA	3703497	Calle Central	residential	1	0	0	
+PA	3703497	Palmira Abajo	residential	1	0	0	
+PA	3703505	Calle Central	residential	1	0	0	
+PA	3703523	Vía Piña - Nuevo Chagres	secondary	1	0	0	
+PA	3703616	La Soledad	unclassified	1	0	0	
+PA	3703616	Puente Qda. Algarrobos	tertiary	1	0	0	
+PA	3703616	Puente Sobre Río Chiriquí Nuevo	unclassified	1	0	0	
+PA	3703616	Vía Alto el Nance	unclassified	1	0	0	
+PA	3703616	Vía Casita de Piedra	unclassified	1	0	0	
+PA	3703616	Vía El Nancito	unclassified	1	0	0	
+PA	3703616	Vía La Soledad	unclassified	1	0	0	
+PA	3703647	Avenida A	residential	1	0	0	
+PA	3703647	Avenida B	residential	1	0	0	
+PA	3703647	Avenida C	residential	1	0	0	
+PA	3703647	Avenida Central	tertiary	1	0	0	
+PA	3703647	Avenida D	residential	1	0	0	
+PA	3703647	Avenida E	residential	1	0	0	
+PA	3703647	Avenida F	residential	1	0	0	
+PA	3703647	Avenida G	residential	1	0	0	
+PA	3703647	Avenida H	residential	1	0	0	
+PA	3703647	Avenida I	residential	1	0	0	
+PA	3703647	Avenida J	residential	1	0	0	
+PA	3703647	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3703647	Avenida K	residential	1	0	0	
+PA	3703647	Avenida L	residential	1	0	0	
+PA	3703647	Avenida La Arboleda	residential	1	0	0	
+PA	3703647	Avenida La Floresta	residential	1	0	0	
+PA	3703647	Avenida M	residential	1	0	0	
+PA	3703647	Avenida Mercedita Gerbavo	residential	1	0	0	
+PA	3703647	Avenida N	residential	1	0	0	
+PA	3703647	Avenida O	residential	1	0	0	
+PA	3703647	Avenida P	residential	1	0	0	
+PA	3703647	Avenida San Martín	secondary	1	0	0	
+PA	3703647	Boulevard Las Colinas	residential	1	0	0	
+PA	3703647	Boulevard San Juan	residential	1	0	0	
+PA	3703707	Vía Querévalo	secondary	1	0	0	
+PA	3703707	Vía Santo Tomás	tertiary	1	0	0	
+PA	3703786	Avenida 1a Este	secondary	1	0	0	
+PA	3703786	Avenida 1a Oeste	residential	1	0	0	
+PA	3703786	Avenida 2a Este	tertiary	1	0	0	
+PA	3703786	Avenida 2a Oeste	residential	1	0	0	
+PA	3703786	Avenida 3a Este	residential	1	0	0	
+PA	3703786	Avenida 4a Este	residential	1	0	0	
+PA	3703786	Avenida 5a Este	residential	1	0	0	
+PA	3703786	Avenida 6a Este	residential	1	0	0	
+PA	3703786	Avenida Central	secondary	1	0	0	
+PA	3703786	Calle 10a Norte	residential	1	0	0	
+PA	3703786	Calle 10a Sur	residential	1	0	0	
+PA	3703786	Calle 11a Norte	residential	1	0	0	
+PA	3703818	Calle Santa Cruz	residential	1	0	0	
+PA	3703818	Camino Villa Los Ángeles	residential	1	0	0	
+PA	3703818	Entrada de 20 o Nuevo Vigia	tertiary	1	0	0	
+PA	3703820	Vía de Entrada al Nuevo San Juan	tertiary	1	0	0	
+PA	3703828	Calle Macías	residential	1	0	0	
+PA	3703831	Vía Piña - Nuevo Chagres	tertiary	1	0	0	
+PA	3703833	Park Village D-06	residential	12	0	0	
+PA	3703833	Avenida 20 de Agosto	residential	1	0	0	
+PA	3703833	Avenida Almendral	residential	1	0	0	
+PA	3703833	Avenida Las Villas	residential	1	0	0	
+PA	3703833	Avenida Norte	residential	1	0	0	
+PA	3703833	Avenida Primavera	residential	1	0	0	
+PA	3703833	Avenida Primera	residential	1	0	0	
+PA	3703833	Avenida Segunda	residential	1	0	0	
+PA	3703833	Avenida Villa Hermosa	residential	1	0	0	
+PA	3703833	Avenida Westland Mall	tertiary	1	0	0	
+PA	3703833	Boulevar Simón Ruiz Díaz	tertiary	1	0	0	
+PA	3703833	Calle 1	residential	1	0	0	
+PA	3703833	Calle 1 SE	residential	1	0	0	
+PA	3703833	Calle 1-F	residential	1	0	0	
+PA	3703833	Calle 10	residential	1	0	0	
+PA	3703833	Calle 10 SE	residential	1	0	0	
+PA	3703833	Calle 11	residential	1	0	0	
+PA	3703833	Calle 12	residential	1	0	0	
+PA	3703833	Calle 13	residential	1	0	0	
+PA	3703833	Calle 14	residential	1	0	0	
+PA	3703833	Calle 15	residential	1	0	0	
+PA	3703833	Calle 16	residential	1	0	0	
+PA	3703833	Calle 17	residential	1	0	0	
+PA	3703833	Calle 1era Norte	residential	1	0	0	
+PA	3703837	Vía El Limón	tertiary	1	0	0	
+PA	3703837	Vía Nueva Providencia	residential	1	0	0	
+PA	3703839	Paseo El Galeon		7	7	535	
+PA	3703839	Avenida A	residential	5	3	82	
+PA	3703839	Avenida Las Acacias	residential	4	3	37	
+PA	3703839	Avenida Carlos Clement	residential	3	7	81	
+PA	3703839	Paseo George Smith	residential	3	6	51	
+PA	3703839	Avenida Boulevard	residential	2	64	312	
+PA	3703839	Avenida Punta Prieta	tertiary	2	13	16	
+PA	3703839	Calle Caracol	residential	2	11	37	
+PA	3703839	Calle Las Langostas	residential	2	34	199	
+PA	3703839	Rue Clement	residential	2	2	39	
+PA	3703839	Avenida 10a Sur	residential	1	0	0	
+PA	3703839	Avenida 11a Sur	residential	1	0	0	
+PA	3703847	Vía a Olá	secondary	1	0	0	
+PA	3703938	Avenida 10a	residential	1	0	0	
+PA	3703938	Avenida 11a	residential	1	0	0	
+PA	3703938	Avenida 12a	residential	1	0	0	
+PA	3703938	Avenida 12a A	residential	1	0	0	
+PA	3703938	Avenida 13a	residential	1	0	0	
+PA	3703938	Avenida 14a	residential	1	0	0	
+PA	3703938	Avenida 15a	residential	1	0	0	
+PA	3703938	Avenida 16a	residential	1	0	0	
+PA	3703938	Avenida 17a	residential	1	0	0	
+PA	3703938	Avenida 18a	residential	1	0	0	
+PA	3703938	Avenida 1a	residential	1	0	0	
+PA	3703938	Avenida 20 de Mayo	residential	1	0	0	
+PA	3703938	Avenida 9a	residential	1	0	0	
+PA	3703938	Avenida Francisco Gómez Miró	residential	1	0	0	
+PA	3703938	Avenida Gaspar Espinoza	residential	1	0	0	
+PA	3703938	Avenida Gervacio García	residential	1	0	0	
+PA	3703938	Avenida Los Santos	residential	1	0	0	
+PA	3703938	Avenida Misael Soberón	residential	1	0	0	
+PA	3703938	Avenida Norte	residential	1	0	0	
+PA	3703938	Avenida San Juan de Dios	residential	1	0	0	
+PA	3703938	Calle 08 de Diciembre	residential	1	0	0	
+PA	3703938	Calle 10a	residential	1	0	0	
+PA	3703938	Calle 11a	residential	1	0	0	
+PA	3703938	Calle 12a	residential	1	0	0	
+PA	3703972	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3704118	Calle 6	living_street	1	0	0	
+PA	3704118	Vía Montilla	unclassified	1	0	0	
+PA	3704123	Vía Montijo	secondary	1	0	0	
+PA	3704123	Vía Puerto Mutis	tertiary	1	0	0	
+PA	3704138	Monte Lirio - Río Sereno	tertiary	1	0	0	
+PA	3704138	Monte Lirio Santa Clara II	unclassified	1	0	0	
+PA	3704187	Avenida 2a	residential	1	0	0	
+PA	3704187	Avenida Doctor Arnulfo Escalona	secondary	1	0	0	
+PA	3704187	Avenida El Estadio	residential	1	0	0	
+PA	3704187	Avenida El Puerto	residential	1	0	0	
+PA	3704187	Avenida Elías Villareal	residential	1	0	0	
+PA	3704187	Avenida Hugo Spadafora	residential	1	0	0	
+PA	3704187	Avenida José Mendieta Villarreal	residential	1	0	0	
+PA	3704187	Avenida Pérez	tertiary	1	0	0	
+PA	3704187	Avenida del Norte	residential	1	0	0	
+PA	3704187	Calle 4 de Noviembre	residential	1	0	0	
+PA	3704187	Calle 4a	residential	1	0	0	
+PA	3704187	Calle 4ª	residential	1	0	0	
+PA	3704187	Calle 6a	residential	1	0	0	
+PA	3704187	Calle 6ª	residential	1	0	0	
+PA	3704187	Calle 7ª	residential	1	0	0	
+PA	3704187	Calle 8 de Diciembre	residential	1	0	0	
+PA	3704187	Calle 8ª	residential	1	0	0	
+PA	3704187	Calle 9ª	residential	1	0	0	
+PA	3704187	Calle A	residential	1	0	0	
+PA	3704187	Calle B	residential	1	0	0	
+PA	3704187	Calle Bella Vista	residential	1	0	0	
+PA	3704187	Calle C	residential	1	0	0	
+PA	3704187	Calle Isidro Deago	residential	1	0	0	
+PA	3704187	Calle Juana Tello	residential	1	0	0	
+PA	3704256	Vía Almirante	primary	1	0	0	
+PA	3704308	Vía Nuevo Chagres - Miguel de la Borda	secondary	1	0	0	
+PA	3704327	Calle Local de San José	residential	1	0	0	
+PA	3704327	Calle San José	residential	1	0	0	
+PA	3704327	Carretera Panamericana	primary	1	0	0	
+PA	3704327	Vía Metetí - Bajos de Iglesias	tertiary	1	0	0	
+PA	3704348	Vía Cerro Cama - Mendoza	tertiary	1	0	0	
+PA	3704460	Avenida Principal	living_street	1	0	0	
+PA	3704460	Vía Las Lomas	secondary	1	0	0	
+PA	3704471	Altos Del Mamey	living_street	1	0	0	
+PA	3704471	Avenida los Guayacanes	residential	1	0	0	
+PA	3704471	Bosque	living_street	1	0	0	
+PA	3704471	Calle El Ciclo	secondary	1	0	0	
+PA	3704471	Calle El Guayabal	residential	1	0	0	
+PA	3704471	Calle Las Veraneras	residential	1	0	0	
+PA	3704471	Calle Los Guayacanes	residential	1	0	0	
+PA	3704471	Calle las Veraneras	residential	1	0	0	
+PA	3704471	Carretera Paseo Jordanal	tertiary	1	0	0	
+PA	3704471	Carretera Río Indio-El Valle de Anton	secondary	1	0	0	
+PA	3704471	Carretera Río Indio-El Valle de Antón	tertiary	1	0	0	
+PA	3704471	Escuela Río Indio Arriba	residential	1	0	0	
+PA	3704547	Entrada a María Chiquita	tertiary	1	0	0	
+PA	3704547	Vía Sabanitas - Portobelo	secondary	1	0	0	
+PA	3704550	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3704571	Avenida Bolívar	secondary	1	0	0	
+PA	3704571	Avenida Espave	residential	1	0	0	
+PA	3704571	Avenida Margarita	residential	1	0	0	
+PA	3704571	Avenida de las Naciones	residential	1	0	0	
+PA	3704571	Boulevard Brazos	residential	1	0	0	
+PA	3704571	Boulevard Ernesto Pérez Balladares	residential	1	0	0	
+PA	3704571	Calle 18C Norte	residential	1	0	0	
+PA	3704571	Calle 1ª	residential	1	0	0	
+PA	3704571	Calle 2ª	residential	1	0	0	
+PA	3704571	Calle 3ª	residential	1	0	0	
+PA	3704571	Calle 4ª	residential	1	0	0	
+PA	3704571	Calle 5ª	residential	1	0	0	
+PA	3704794	Canal	residential	1	0	0	
+PA	3704794	Puente El Síndigo	unclassified	1	0	0	
+PA	3704794	Vía La Estrella	unclassified	1	0	0	
+PA	3704832	Vía a El Copé	secondary	1	0	0	
+PA	3704874	Calle El Nazareno	residential	1	0	0	
+PA	3704874	Calle bella Vista	tertiary	1	0	0	
+PA	3704874	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	3704874	Macaracas-El Caratillo	tertiary	1	0	0	
+PA	3704874	Macaracas-El Faldar	tertiary	1	0	0	
+PA	3704874	Macaracas-Los Posos	secondary	1	0	0	
+PA	3704964	Avenida Sergio González Ruiz	tertiary	1	0	0	
+PA	3704964	Avenida Sur	tertiary	1	0	0	
+PA	3704964	Calle 10 de Noviembre	residential	1	0	0	
+PA	3704964	Calle 11 de Octubre	residential	1	0	0	
+PA	3704964	Calle José Vallarino	residential	1	0	0	
+PA	3704964	Calle Julian Chávez	residential	1	0	0	
+PA	3704964	Calle Nicanor Villalaz	residential	1	0	0	
+PA	3704964	Calle Pedro P. Santamaria	residential	1	0	0	
+PA	3704964	Calle Primera	residential	1	0	0	
+PA	3704964	Calle Rufina Alfaro	residential	1	0	0	
+PA	3704964	Calle Segunda	residential	1	0	0	
+PA	3704964	Calle Segundo Villareal	residential	1	0	0	
+PA	3705024	Los Posos-Pesé	primary	1	0	0	
+PA	3705024	Macaracas-Los Posos	secondary	1	0	0	
+PA	3705156	Calle Basilo Quíel Araúz	tertiary	1	0	0	
+PA	3705229	Calle 1	residential	1	0	0	
+PA	3705229	Calle San Martín	tertiary	1	0	0	
+PA	3705238	Calle Capirita	residential	1	0	0	
+PA	3705238	Calle El Ciclo	tertiary	1	0	0	
+PA	3705238	Calle El Encanto	residential	1	0	0	
+PA	3705238	Calle El Hato	secondary	1	0	0	
+PA	3705238	Calle El Valle	residential	1	0	0	
+PA	3705238	Calle Espave	residential	1	0	0	
+PA	3705238	Calle Park Eden	residential	1	0	0	
+PA	3705238	Calle Ranita de Oro	residential	1	0	0	
+PA	3705238	Calle los Sauces	residential	1	0	0	
+PA	3705238	Chichivali	residential	1	0	0	
+PA	3705238	Vía El Macano	unclassified	1	0	0	
+PA	3705238	carr. Rio de Jesus- La Laguna	secondary	1	0	0	
+PA	3705280	Vía Tierra Hueca	tertiary	1	0	0	
+PA	3705371	Vía San Francisco - Santa Fe	secondary	1	0	0	
+PA	3705394	Vía Almirante	primary	1	0	0	
+PA	3705417	Los Posos-Pesé	primary	1	0	0	
+PA	3705445	Vía Santiago - Soná	primary	1	0	0	
+PA	3705533	Vía Dr. Belisario Porras	secondary	1	0	0	
+PA	3705542	Vía Gualaca - Rambála	primary	1	0	0	
+PA	3705549	Calle 1a Sur	residential	1	0	0	
+PA	3705549	Calle Franklin Anguizola Sagel	unclassified	1	0	0	
+PA	3705549	Calle Gustavino	residential	1	0	0	
+PA	3705549	Vía Boquete	primary	1	0	0	
+PA	3705549	Vía San Pablo Viejo Abajo - Los Anastacios	secondary	1	0	0	
+PA	3705562	Avenida 1a	living_street	1	0	0	
+PA	3705562	Avenida 1a Sur	living_street	1	0	0	
+PA	3705562	Avenida 2a	living_street	1	0	0	
+PA	3705562	Avenida 2a Sur	living_street	1	0	0	
+PA	3705562	Avenida 3a	living_street	1	0	0	
+PA	3705562	Avenida 3a Sur	living_street	1	0	0	
+PA	3705562	Avenida 4a	living_street	1	0	0	
+PA	3705562	Avenida 4a Sur	living_street	1	0	0	
+PA	3705562	Avenida 5a	living_street	1	0	0	
+PA	3705562	Avenida 7a	living_street	1	0	0	
+PA	3705562	Avenida Belisario Porras Barahona	secondary	1	0	0	
+PA	3705562	Avenida Central	residential	1	0	0	
+PA	3705563	Vía Santiago - Soná	primary	1	0	0	
+PA	3705620	Antiguas Vías de Ferrocarril	residential	1	0	0	
+PA	3705620	Vía Alanje	secondary	1	0	0	
+PA	3705678	Vía Llano Tugrí	primary	1	0	0	
+PA	3705678	Vía Peña Blanca	secondary	1	0	0	
+PA	3705688	Calle 3	residential	1	0	0	
+PA	3705688	Calle de Llano Ñopo	tertiary	1	0	0	
+PA	3705688	Calle de Tierra 1	residential	1	0	0	
+PA	3705688	Calle tierra LLN	residential	1	0	0	
+PA	3705688	Vía Justo Fidel	tertiary	1	0	0	
+PA	3705702	Calle Estaconvia	residential	1	0	0	
+PA	3705702	Vía La Herradura - Llano Largo	tertiary	1	0	0	
+PA	3705702	Vía La Mitra	residential	1	0	0	
+PA	3705710	Avenida Sur	tertiary	1	0	0	
+PA	3705720	Llano Grande	secondary	1	0	0	
+PA	3705735	Vía Santiago - Soná	primary	1	0	0	
+PA	3705737	LLANO GRANDE	primary	1	0	0	
+PA	3705743	Macaracas-El Faldar	tertiary	1	0	0	
+PA	3705768	Vía Llano de la Cruz - Ocú	primary	1	0	0	
+PA	3705768	Vía Pesé - Llano de la Cruz	primary	1	0	0	
+PA	3705779	Avenida Antonio Burgos	residential	1	0	0	
+PA	3705779	Avenida Doctor Arnulfo Escalona	secondary	1	0	0	
+PA	3705779	Avenida Francisco Rodríguez	residential	1	0	0	
+PA	3705779	Avenida Herrera	residential	1	0	0	
+PA	3705779	Avenida Humberto A. Collado	residential	1	0	0	
+PA	3705779	Avenida Julio Arjona	residential	1	0	0	
+PA	3705779	Avenida Pérez	tertiary	1	0	0	
+PA	3705779	Avenida Ranaldo Camarano	residential	1	0	0	
+PA	3705779	Calle Agustín González Bustamante	residential	1	0	0	
+PA	3705779	Calle El Porvenir	residential	1	0	0	
+PA	3705779	Calle José Burgos	residential	1	0	0	
+PA	3705779	Calle Juana Tello	residential	1	0	0	
+PA	3705779	Calle Las Gardenias	residential	1	0	0	
+PA	3705779	Calle Manuel de Jesús Saavedra	residential	1	0	0	
+PA	3705779	Calle Mario Gameth	residential	1	0	0	
+PA	3705779	Calle Naciones Unidas	unclassified	1	0	0	
+PA	3705779	Calle Primera Midarina	residential	1	0	0	
+PA	3705779	Calle de Tosca	residential	1	0	0	
+PA	3705779	Vía Las Playitas	residential	1	0	0	
+PA	3705779	Vía Ranaldo Camarano	residential	1	0	0	
+PA	3705836	Avenida El Atrocho	unclassified	1	0	0	
+PA	3705836	PTP - Limones	secondary	1	0	0	
+PA	3705836	Vía Bella Vista	unclassified	1	0	0	
+PA	3705840	Vía Mariato	secondary	1	0	0	
+PA	3705894	Carretera a Lidice Trinidad	tertiary	1	0	0	
+PA	3705894	Vía Caimito	residential	1	0	0	
+PA	3705969	Ruta La Yeguada - La Laguna	tertiary	1	0	0	
+PA	3705969	Vía Chitra	tertiary	1	0	0	
+PA	3706043	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	3706091	San Elena	residential	1	0	0	
+PA	3706155	Playa Corona	residential	1	0	0	
+PA	3706155	Vía El Valle - La Unión	secondary	1	0	0	
+PA	3706208	Avenida 08 de Noviembre	tertiary	1	0	0	
+PA	3706208	Avenida 12 de Octubre	residential	1	0	0	
+PA	3706208	Avenida Agustín Batista	residential	1	0	0	
+PA	3706208	Avenida Amado de Jesús Barrios	residential	1	0	0	
+PA	3706208	Avenida Bolívar	residential	1	0	0	
+PA	3706208	Avenida Doctor Belisario Porras	primary	1	0	0	
+PA	3706208	Avenida Estudiante	residential	1	0	0	
+PA	3706208	Avenida Francisco González Roca	residential	1	0	0	
+PA	3706208	Avenida Jacinto López y León	residential	1	0	0	
+PA	3706208	Avenida Joaquín Pablo Franco	residential	1	0	0	
+PA	3706208	Avenida Occidental	residential	1	0	0	
+PA	3706208	Avenida Rogelio Gaez	residential	1	0	0	
+PA	3706208	Avenida Villa Andrea	residential	1	0	0	
+PA	3706208	Avenida del Progreso	residential	1	0	0	
+PA	3706208	Boca de la Laja	unclassified	1	0	0	
+PA	3706208	Calle 03 de Nobiembre	residential	1	0	0	
+PA	3706208	Calle Agustín Cano	tertiary	1	0	0	
+PA	3706208	Calle Carlos Calzadilla	secondary	1	0	0	
+PA	3706208	Calle Emilio Castro	tertiary	1	0	0	
+PA	3706208	Calle Independencia	residential	1	0	0	
+PA	3706208	Calle La Libertad	residential	1	0	0	
+PA	3706208	Calle Los López	residential	1	0	0	
+PA	3706208	Calle Minsin y Gringa	residential	1	0	0	
+PA	3706208	Calle Moisés Espino	residential	1	0	0	
+PA	3706292	Via Soná-Las Palmas	secondary	1	0	0	
+PA	3706294	Macaracas-El Caratillo	tertiary	1	0	0	
+PA	3706300	Calle del Rio	unclassified	1	0	0	
+PA	3706300	El Potrero	tertiary	1	0	0	
+PA	3706312	Calle 1	residential	1	0	0	
+PA	3706312	Calle Circunvalación	residential	1	0	0	
+PA	3706312	Calle Principal	residential	1	0	0	
+PA	3706312	Calle cuarta	residential	1	0	0	
+PA	3706312	Calle tercera	residential	1	0	0	
+PA	3706313	Vía Pueblo Nuevo - La Soledad - Guarumal	secondary	1	0	0	
+PA	3706346	Llano Grande	secondary	1	0	0	
+PA	3706346	Via El Palmar Abajo	unclassified	1	0	0	
+PA	3706346	puente	secondary	1	0	0	
+PA	3706347	Los Pozos - Las Minas	secondary	1	0	0	
+PA	3706347	Vía Las Minas - Ocú	secondary	1	0	0	
+PA	3706375	Vía Llano Tugrí	primary	1	0	0	
+PA	3706396	Calle Principal Las Margaritas	tertiary	1	0	0	
+PA	3706410	Avenida A	living_street	1	0	0	
+PA	3706410	Avenida B	living_street	1	0	0	
+PA	3706410	Calle 1	living_street	1	0	0	
+PA	3706410	Calle 2	living_street	1	0	0	
+PA	3706410	Calle 3	living_street	1	0	0	
+PA	3706410	Calle 4	living_street	1	0	0	
+PA	3706410	Calle 5	living_street	1	0	0	
+PA	3706410	Calle 6	living_street	1	0	0	
+PA	3706410	Calle 7	living_street	1	0	0	
+PA	3706410	Calle 8	living_street	1	0	0	
+PA	3706410	Calle 9	residential	1	0	0	
+PA	3706410	Calle A	living_street	1	0	0	
+PA	3706410	Calle Avila	living_street	1	0	0	
+PA	3706410	Calle B	living_street	1	0	0	
+PA	3706410	Calle Badajos	living_street	1	0	0	
+PA	3706410	Calle Barcelona	living_street	1	0	0	
+PA	3706410	Calle Burgos	living_street	1	0	0	
+PA	3706410	Calle C	living_street	1	0	0	
+PA	3706410	Calle Caceres	living_street	1	0	0	
+PA	3706410	Calle D	living_street	1	0	0	
+PA	3706410	Calle Ibiza	living_street	1	0	0	
+PA	3706410	Calle Larga	residential	1	0	0	
+PA	3706410	Calle Llano Abajo	residential	1	0	0	
+PA	3706410	Calle Llano Arriba	unclassified	1	0	0	
+PA	3706431	Calle 1 - Lajas de Tolé	unclassified	1	0	0	
+PA	3706431	Calle 2	living_street	1	0	0	
+PA	3706431	Calle 3	living_street	1	0	0	
+PA	3706431	Vía Soná - Tolé	primary	1	0	0	
+PA	3706455	Calle Don Cristobal	tertiary	1	0	0	
+PA	3706455	Calle Don Cristóbal	tertiary	1	0	0	
+PA	3706455	Calle Las Lajas Cabuya	tertiary	1	0	0	
+PA	3706455	Calle Rocky	residential	1	0	0	
+PA	3706455	Camino River Hills	residential	1	0	0	
+PA	3706455	Carretera La Laguna-Las Lajas	secondary	1	0	0	
+PA	3706455	Ensenada	residential	1	0	0	
+PA	3706455	Hacienda Pacifica	residential	1	0	0	
+PA	3706455	La Loma	tertiary	1	0	0	
+PA	3706455	Rodeo Viejo	tertiary	1	0	0	
+PA	3706459	Calle de Las Reinas	residential	1	0	0	
+PA	3706459	Camino a Remedios	unclassified	1	0	0	
+PA	3706459	Carretera hacia el cementerio	unclassified	1	0	0	
+PA	3706459	Vía Lajas Adentro	unclassified	1	0	0	
+PA	3706459	Vía Las Lajas	tertiary	1	0	0	
+PA	3706459	Vía Remedios	primary	1	0	0	
+PA	3706567	Avenida 1	residential	1	0	0	
+PA	3706567	Avenida Principal	residential	1	0	0	
+PA	3706567	Avenida del Rocio	secondary	1	0	0	
+PA	3706567	Boulevard Ciudad del Lago	tertiary	1	0	0	
+PA	3706567	Boulevard Cumbre Azul	tertiary	1	0	0	
+PA	3706567	Brisa Alegre	tertiary	1	0	0	
+PA	3706567	Cale E	residential	1	0	0	
+PA	3706567	Calle 1	residential	1	0	0	
+PA	3706567	Calle 10	residential	1	0	0	
+PA	3706567	Calle 10a	residential	1	0	0	
+PA	3706567	Calle 11	residential	1	0	0	
+PA	3706567	Calle 12	residential	1	0	0	
+PA	3706567	Calle 12a	residential	1	0	0	
+PA	3706567	Calle 13	residential	1	0	0	
+PA	3706567	Calle 14	residential	1	0	0	
+PA	3706567	Calle 15	residential	1	0	0	
+PA	3706567	Calle 16	residential	1	0	0	
+PA	3706567	Calle 17	residential	1	0	0	
+PA	3706567	Calle 18	residential	1	0	0	
+PA	3706567	Calle 19	residential	1	0	0	
+PA	3706567	Calle 1ra	residential	1	0	0	
+PA	3706567	Calle 2	residential	1	0	0	
+PA	3706567	Calle 20	residential	1	0	0	
+PA	3706567	Calle 22	residential	1	0	0	
+PA	3706567	Calle 2a	residential	1	0	0	
+PA	3706567	Calle 2da	residential	1	0	0	
+PA	3706567	Calle 3	residential	1	0	0	
+PA	3706567	Calle 3a	residential	1	0	0	
+PA	3706567	Calle 3ra	residential	1	0	0	
+PA	3706567	Calle 4	residential	1	0	0	
+PA	3706567	Calle 4a	residential	1	0	0	
+PA	3706567	Calle 4ta	residential	1	0	0	
+PA	3706567	Calle 5	residential	1	0	0	
+PA	3706567	Calle 5D	residential	1	0	0	
+PA	3706567	Calle 5ta	residential	1	0	0	
+PA	3706567	Calle 6	residential	1	0	0	
+PA	3706567	Calle 7	residential	1	0	0	
+PA	3706567	Calle 7A	residential	1	0	0	
+PA	3706567	Calle 7C	residential	1	0	0	
+PA	3706567	Calle 7ma	residential	1	0	0	
+PA	3706567	Calle 8	residential	1	0	0	
+PA	3706567	Calle 8A	residential	1	0	0	
+PA	3706567	Calle 8va	residential	1	0	0	
+PA	3706567	Calle 9	residential	1	0	0	
+PA	3706567	Calle 9A	residential	1	0	0	
+PA	3706567	Calle 9a	residential	1	0	0	
+PA	3706567	Calle A	residential	1	0	0	
+PA	3706567	Calle B	residential	1	0	0	
+PA	3706567	Calle Barreduela	residential	1	0	0	
+PA	3706567	Calle Belén FX	residential	1	0	0	
+PA	3706567	Calle C	residential	1	0	0	
+PA	3706567	Calle Calzada Larga	tertiary	1	0	0	
+PA	3706567	Calle Central Alcalde Díaz	tertiary	1	0	0	
+PA	3706567	Calle Corotú	residential	1	0	0	
+PA	3706567	Calle Cuarta	residential	1	0	0	
+PA	3706567	Calle D	residential	1	0	0	
+PA	3706567	Calle E	residential	1	0	0	
+PA	3706567	Calle E1	residential	1	0	0	
+PA	3706567	Calle El Peñón	unclassified	1	0	0	
+PA	3706567	Calle Este	residential	1	0	0	
+PA	3706567	Calle F	residential	1	0	0	
+PA	3706567	Calle Florida	residential	1	0	0	
+PA	3706567	Calle G	residential	1	0	0	
+PA	3706567	Calle Genova	residential	1	0	0	
+PA	3706567	Calle Genova 3	residential	1	0	0	
+PA	3706567	Calle Gonzalillo	residential	1	0	0	
+PA	3706567	Calle H	residential	1	0	0	
+PA	3706567	Calle I	residential	1	0	0	
+PA	3706567	Calle J	residential	1	0	0	
+PA	3706567	Calle Jacaranda	residential	1	0	0	
+PA	3706567	Calle K	residential	1	0	0	
+PA	3706567	Calle L	residential	1	0	0	
+PA	3706567	Calle Las Acacias	residential	1	0	0	
+PA	3706567	Calle Los Caobos	residential	1	0	0	
+PA	3706567	Calle Los Cedros	residential	1	0	0	
+PA	3706567	Calle Los Cipreses	residential	1	0	0	
+PA	3706567	Calle Los Eucaliptos	residential	1	0	0	
+PA	3706567	Calle Los Guayacanes	residential	1	0	0	
+PA	3706567	Calle Los Laureles	residential	1	0	0	
+PA	3706567	Calle Los Pinos	residential	1	0	0	
+PA	3706567	Calle Los Sauces	residential	1	0	0	
+PA	3706567	Calle Los Tulipanes	residential	1	0	0	
+PA	3706567	Calle M	residential	1	0	0	
+PA	3706567	Calle Mayfair	residential	1	0	0	
+PA	3706567	Calle Milano	residential	1	0	0	
+PA	3706567	Calle Monserrat	residential	1	0	0	
+PA	3706567	Calle Montisol	tertiary	1	0	0	
+PA	3706567	Calle N	residential	1	0	0	
+PA	3706567	Calle Norte	residential	1	0	0	
+PA	3706567	Calle Oeste	residential	1	0	0	
+PA	3706567	Calle Oxford	residential	1	0	0	
+PA	3706567	Calle Pedro Pablo Bazan	residential	1	0	0	
+PA	3706567	Calle Picadilly	residential	1	0	0	
+PA	3706567	Calle Principal Chivo Chivo	tertiary	1	0	0	
+PA	3706567	Calle Punta del Este	living_street	1	0	0	
+PA	3706567	Calle San Juan de Dios	residential	1	0	0	
+PA	3706567	Calle San Roque	residential	1	0	0	
+PA	3706567	Calle San Simon	residential	1	0	0	
+PA	3706567	Calle Sergio González Ruiz	residential	1	0	0	
+PA	3706567	Calle Terranova	residential	1	0	0	
+PA	3706575	Avenida 42a Sur	residential	1	0	0	
+PA	3706575	Avenida 43a Sur	tertiary	1	0	0	
+PA	3706575	Avenida 44a Sur	residential	1	0	0	
+PA	3706575	Avenida 45a Sur	residential	1	0	0	
+PA	3706575	Avenida Aryta	residential	1	0	0	
+PA	3706575	Avenida El Aguacate	residential	1	0	0	
+PA	3706575	Avenida El Esfuerzo	residential	1	0	0	
+PA	3706575	Avenida El Ruletero	residential	1	0	0	
+PA	3706575	Avenida Las Palmitas	residential	1	0	0	
+PA	3706575	Avenida Los Almendros	residential	1	0	0	
+PA	3706575	Avenida Los Naranjos	residential	1	0	0	
+PA	3706575	Avenida Perejil	residential	1	0	0	
+PA	3706575	Avenida Principal Bosque Dorado	residential	1	0	0	
+PA	3706575	Avenida San Lorenzo	residential	1	0	0	
+PA	3706575	Avenida Santa Marta	residential	1	0	0	
+PA	3706575	Avenida del Cerro	residential	1	0	0	
+PA	3706575	Calle 42 Sur	residential	1	0	0	
+PA	3706575	Calle B	residential	1	0	0	
+PA	3706575	Calle Chorerita	residential	1	0	0	
+PA	3706575	Calle El Jovito	residential	1	0	0	
+PA	3706575	Calle El Límite	residential	1	0	0	
+PA	3706575	Calle El Paso	residential	1	0	0	
+PA	3706575	Calle El Pilar	residential	1	0	0	
+PA	3706575	Calle González	residential	1	0	0	
+PA	3706590	Chichivali	residential	1	0	0	
+PA	3706590	Vía El Valle - Las Uvas	secondary	1	0	0	
+PA	3706614	Vía La Arenita	unclassified	1	0	0	
+PA	3706614	Vía Pesé - Las Cabras	tertiary	1	0	0	
+PA	3706724	Calle Principal La Raya	tertiary	1	0	0	
+PA	3706724	Vía La Raya de Santamaría	tertiary	1	0	0	
+PA	3706893	8016	residential	1	0	0	
+PA	3706931	Vía La Pintada	secondary	1	0	0	
+PA	3706931	Vía Santa María - Madera	tertiary	1	0	0	
+PA	3706974	El Barro	residential	1	0	0	
+PA	3706974	La coloradita	unclassified	1	0	0	
+PA	3706974	Los Remedios	residential	1	0	0	
+PA	3707058	Calle Central Abajo	residential	1	0	0	
+PA	3707058	Via Senon	unclassified	1	0	0	
+PA	3707058	Vía La Palma - Seteganti	tertiary	1	0	0	
+PA	3707064	Via La Candelaria	tertiary	1	0	0	
+PA	3707064	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3707150	8038	residential	1	0	0	
+PA	3707150	Calle B-13	residential	1	0	0	
+PA	3707150	Calle B-8	residential	1	0	0	
+PA	3707150	Calle de la Mitra	tertiary	1	0	0	
+PA	3707150	La Mitra - Penas Blancas	residential	1	0	0	
+PA	3707150	Vía Altos de San Francisco	tertiary	1	0	0	
+PA	3707150	Vía Palo Bobo	residential	1	0	0	
+PA	3707207	Vía Boquerón	tertiary	1	0	0	
+PA	3707207	Vía Boquerón - Bocalatun	tertiary	1	0	0	
+PA	3707207	Vía Boquerón - Macano Arriba	tertiary	1	0	0	
+PA	3707220	Calle 3ra Norte	residential	1	0	0	
+PA	3707220	Calle Coiba	residential	1	0	0	
+PA	3707220	Calle El Salao	residential	1	0	0	
+PA	3707220	Calle Loma Bonita	unclassified	1	0	0	
+PA	3707220	Calle Los Mendieta	residential	1	0	0	
+PA	3707220	Calle Norte La Mesa	residential	1	0	0	
+PA	3707227	Calle Principal la Mesa	secondary	1	0	0	
+PA	3707227	Camino a Mostrenco de la Mesa	unclassified	1	0	0	
+PA	3707227	Vía La Mesa	secondary	1	0	0	
+PA	3707249	Avenida José Francisco	residential	22	5	24	
+PA	3707249	Calle 2	residential	9	27	35	
+PA	3707249	Vía hacia Llano Bonito		3	1	3	
+PA	3707249	Avenida Dorada	residential	1	0	0	
+PA	3707249	Calle 1	residential	1	0	0	
+PA	3707249	Calle 1a	residential	1	0	0	
+PA	3707249	Calle 2a	residential	1	0	0	
+PA	3707249	Calle 3	residential	1	0	0	
+PA	3707249	Calle 3a	residential	1	0	0	
+PA	3707249	Calle 4	residential	1	0	0	
+PA	3707249	Calle 5	residential	1	0	0	
+PA	3707249	Calle 6	residential	1	0	0	
+PA	3707318	Loma de Quebro - Furniales	unclassified	1	0	0	
+PA	3707392	Calle Celso Cedeño	tertiary	1	0	0	
+PA	3707393	Alto Del Mamey	living_street	1	0	0	
+PA	3707393	Altos Del Mamey	residential	1	0	0	
+PA	3707393	Calle El Chisna	residential	1	0	0	
+PA	3707393	Calle El Tamarindo	living_street	1	0	0	
+PA	3707393	Calle Picacho	residential	1	0	0	
+PA	3707393	Carretera La Laguna El Picacho	secondary	1	0	0	
+PA	3707393	Casa alto panama	living_street	1	0	0	
+PA	3707393	El Nancito	tertiary	1	0	0	
+PA	3707393	El Portalón	residential	1	0	0	
+PA	3707393	El Trinar	residential	1	0	0	
+PA	3707393	La Laguna 02	living_street	1	0	0	
+PA	3707393	La mina 02	residential	1	0	0	
+PA	3707461	Vía Lajas Adentro	unclassified	1	0	0	
+PA	3707568	19 de Abril	residential	1	0	0	
+PA	3707568	Avenida 1	living_street	1	0	0	
+PA	3707568	Avenida 10	living_street	1	0	0	
+PA	3707568	Avenida 11	living_street	1	0	0	
+PA	3707568	Avenida 12	living_street	1	0	0	
+PA	3707568	Avenida 13	living_street	1	0	0	
+PA	3707568	Avenida 14	residential	1	0	0	
+PA	3707568	Avenida 15	living_street	1	0	0	
+PA	3707568	Avenida 2	living_street	1	0	0	
+PA	3707568	Avenida 3	living_street	1	0	0	
+PA	3707568	Avenida 4	living_street	1	0	0	
+PA	3707568	Avenida 5	residential	1	0	0	
+PA	3707568	Avenida 6	living_street	1	0	0	
+PA	3707568	Avenida 7	living_street	1	0	0	
+PA	3707568	Avenida 8	living_street	1	0	0	
+PA	3707568	Avenida 9	residential	1	0	0	
+PA	3707568	Avenida Cama	residential	1	0	0	
+PA	3707568	Avenida Capira	residential	1	0	0	
+PA	3707568	Avenida Coronado	residential	1	0	0	
+PA	3707568	Avenida El Amanecer	residential	1	0	0	
+PA	3707568	Avenida El Esfuerzo	residential	1	0	0	
+PA	3707568	Avenida El Higo	residential	1	0	0	
+PA	3707568	Avenida El Llanito	residential	1	0	0	
+PA	3707568	Avenida Espiga	residential	1	0	0	
+PA	3707659	Lagarterita	residential	1	0	0	
+PA	3707659	Las pavas	unclassified	1	0	0	
+PA	3707736	Calle La Línea	residential	1	0	0	
+PA	3707736	Vía La Estrella	residential	1	0	0	
+PA	3707758	Carretera Divalá - Nuevo México	tertiary	1	0	0	
+PA	3707758	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	3707770	Calle Principal	unclassified	1	0	0	
+PA	3707770	Las Guías Oriente	tertiary	1	0	0	
+PA	3707784	Vía Al Puerto	tertiary	1	0	0	
+PA	3707899	Antigua Linea del Ferrocarril de Chiriquí	living_street	1	0	0	
+PA	3707899	Antiguas Vías del Ferrocarril	residential	1	0	0	
+PA	3707899	Avenida 10a Norte	residential	1	0	0	
+PA	3707899	Avenida 11a Norte	residential	1	0	0	
+PA	3707899	Avenida 1a Norte	residential	1	0	0	
+PA	3707899	Avenida 1a Sur	primary	1	0	0	
+PA	3707899	Avenida 2a Norte	residential	1	0	0	
+PA	3707899	Avenida 2a Sur	residential	1	0	0	
+PA	3707899	Avenida 3a Norte	residential	1	0	0	
+PA	3707899	Avenida 3a Sur	residential	1	0	0	
+PA	3707899	Avenida 4a Norte	residential	1	0	0	
+PA	3707899	Avenida 5a Norte	residential	1	0	0	
+PA	3707899	Avenida 6a Este	residential	1	0	0	
+PA	3707899	Avenida 6a Norte	residential	1	0	0	
+PA	3707899	Avenida 6a Sur	tertiary	1	0	0	
+PA	3707899	Avenida 9a Norte	residential	1	0	0	
+PA	3707899	Avenida Central	residential	1	0	0	
+PA	3707899	Calle 10a Este	residential	1	0	0	
+PA	3707899	Calle 10a Oeste	residential	1	0	0	
+PA	3707899	Calle 11a Este	residential	1	0	0	
+PA	3707899	Calle 11a Norte	residential	1	0	0	
+PA	3707899	Calle 12a Este	residential	1	0	0	
+PA	3707899	Calle 13a Norte	residential	1	0	0	
+PA	3707899	Calle 1a	living_street	1	0	0	
+PA	3707899	Calle 1a Oeste	residential	1	0	0	
+PA	3707899	Calle 20 de Enero	residential	1	0	0	
+PA	3707899	Calle 2a	living_street	1	0	0	
+PA	3707899	Calle 2a Este	residential	1	0	0	
+PA	3707899	Calle 2a Oeste	living_street	1	0	0	
+PA	3707899	Calle 3a Este	residential	1	0	0	
+PA	3707899	Calle 3a Oeste	residential	1	0	0	
+PA	3707899	Calle 4a Este	residential	1	0	0	
+PA	3707899	Calle 4a Oeste	residential	1	0	0	
+PA	3707899	Calle 5a Este	residential	1	0	0	
+PA	3707899	Calle 5a Norte	residential	1	0	0	
+PA	3707899	Calle 5a Oeste	residential	1	0	0	
+PA	3707899	Calle 6a Este	residential	1	0	0	
+PA	3707899	Calle 6a Oeste	residential	1	0	0	
+PA	3707899	Calle 7a Este	residential	1	0	0	
+PA	3707899	Calle 7a Norte	living_street	1	0	0	
+PA	3707899	Calle 7a Oeste	residential	1	0	0	
+PA	3707899	Calle 8a Este	residential	1	0	0	
+PA	3707899	Calle 8a Norte	living_street	1	0	0	
+PA	3707899	Calle 8a Oeste	residential	1	0	0	
+PA	3707899	Calle 9a Este	secondary	1	0	0	
+PA	3707899	Calle 9a Oeste	living_street	1	0	0	
+PA	3707899	Calle A	living_street	1	0	0	
+PA	3707899	Calle Adriana Barroso	residential	1	0	0	
+PA	3707919	Carretera hacia Cerro Cama	secondary	1	0	0	
+PA	3707921	Vía El Centeno	unclassified	1	0	0	
+PA	3707961	Avenida Valle Dorado	tertiary	4	0	0	
+PA	3707961	Calle Geranios		4	196	243	
+PA	3707961	Calle Cenaida	residential	3	0	0	
+PA	3707961	Avenida Del Oro	tertiary	2	2	14	
+PA	3707961	Calle Chavelita		2	352	358	
+PA	3707961	Calle Circunvalacion		2	48	48	
+PA	3707961	8038	tertiary	1	0	0	
+PA	3707961	Altos De María Latecia	residential	1	0	0	
+PA	3707961	Avenida 03 de Noviembre	tertiary	1	0	0	
+PA	3707961	Avenida 10a	residential	1	0	0	
+PA	3707961	Avenida 10a Sur	residential	1	0	0	
+PA	3707961	Avenida 11 de Octubre	residential	1	0	0	
+PA	3707961	Avenida 11a	residential	1	0	0	
+PA	3707961	Avenida 11a A Sur	residential	1	0	0	
+PA	3707961	Avenida 11a Sur	residential	1	0	0	
+PA	3707961	Avenida 12a	residential	1	0	0	
+PA	3707961	Avenida 12a Norte	residential	1	0	0	
+PA	3707961	Avenida 12a Sur	residential	1	0	0	
+PA	3707961	Avenida 13a	residential	1	0	0	
+PA	3707961	Avenida 13a Sur	residential	1	0	0	
+PA	3707961	Avenida 14a	residential	1	0	0	
+PA	3707961	Avenida 15a	residential	1	0	0	
+PA	3707961	Avenida 16a	residential	1	0	0	
+PA	3707961	Avenida 16a Sur	residential	1	0	0	
+PA	3707961	Avenida 18a Norte	residential	1	0	0	
+PA	3707961	Avenida 19a Norte	residential	1	0	0	
+PA	3707961	Avenida 19a Sur	residential	1	0	0	
+PA	3707961	Avenida 1a	residential	1	0	0	
+PA	3707961	Avenida 1a Sur	residential	1	0	0	
+PA	3707961	Avenida 20 de Julio	residential	1	0	0	
+PA	3707961	Avenida 21a Norte	residential	1	0	0	
+PA	3707961	Avenida 24a Norte	residential	1	0	0	
+PA	3707961	Avenida 25a Norte	residential	1	0	0	
+PA	3707961	Avenida 26B Sur	residential	1	0	0	
+PA	3707961	Avenida 26D Sur	residential	1	0	0	
+PA	3707961	Avenida 26a Sur	residential	1	0	0	
+PA	3707961	Avenida 27B Sur	residential	1	0	0	
+PA	3707961	Avenida 27a Sur	residential	1	0	0	
+PA	3707961	Avenida 28a Sur	residential	1	0	0	
+PA	3707961	Avenida 2a	residential	1	0	0	
+PA	3707961	Avenida 2a Sur	residential	1	0	0	
+PA	3707961	Avenida 30a Sur	residential	1	0	0	
+PA	3707961	Avenida 31a A Sur	residential	1	0	0	
+PA	3707961	Avenida 31a Norte	residential	1	0	0	
+PA	3707961	Avenida 31a Sur	residential	1	0	0	
+PA	3707961	Avenida 36a Norte	residential	1	0	0	
+PA	3707961	Avenida 36a Sur	residential	1	0	0	
+PA	3707961	Avenida 37a Norte	residential	1	0	0	
+PA	3707961	Avenida 37a Sur	residential	1	0	0	
+PA	3707961	Avenida 38a Sur	residential	1	0	0	
+PA	3707961	Avenida 39a Sur	residential	1	0	0	
+PA	3707961	Avenida 3a	residential	1	0	0	
+PA	3707961	Avenida 3a Sur	residential	1	0	0	
+PA	3707961	Avenida 40a Sur	residential	1	0	0	
+PA	3707961	Avenida 41a Sur	residential	1	0	0	
+PA	3707961	Avenida 42a Sur	tertiary	1	0	0	
+PA	3707961	Avenida 43a Sur	residential	1	0	0	
+PA	3707961	Avenida 44a Sur	residential	1	0	0	
+PA	3707961	Avenida 45a Sur	residential	1	0	0	
+PA	3707961	Avenida 47a Sur	residential	1	0	0	
+PA	3707961	Avenida 48a Sur	residential	1	0	0	
+PA	3707961	Avenida 4a	residential	1	0	0	
+PA	3707961	Avenida 4a Norte	residential	1	0	0	
+PA	3707961	Avenida 4a Sur	residential	1	0	0	
+PA	3707961	Avenida 5a	residential	1	0	0	
+PA	3707961	Avenida 5a Norte	residential	1	0	0	
+PA	3707961	Avenida 6a	residential	1	0	0	
+PA	3707961	Avenida 6a Norte	residential	1	0	0	
+PA	3707961	Avenida 6a Sur	residential	1	0	0	
+PA	3707961	Avenida 7a	residential	1	0	0	
+PA	3707961	Avenida 7a Sur	residential	1	0	0	
+PA	3707961	Avenida 8a	residential	1	0	0	
+PA	3707961	Avenida 8a Norte	tertiary	1	0	0	
+PA	3707961	Avenida 8a Sur	residential	1	0	0	
+PA	3707961	Avenida 9a	residential	1	0	0	
+PA	3707961	Avenida 9a Norte	residential	1	0	0	
+PA	3707961	Avenida 9a Sur	residential	1	0	0	
+PA	3707961	Avenida Araguaney 2	residential	1	0	0	
+PA	3707961	Avenida Arnoldo Cano	residential	1	0	0	
+PA	3707961	Avenida Bolívar	residential	1	0	0	
+PA	3707961	Avenida Brillante	residential	1	0	0	
+PA	3707961	Avenida Circunvalación	tertiary	1	0	0	
+PA	3707961	Avenida D	residential	1	0	0	
+PA	3707961	Avenida Doinzata	residential	1	0	0	
+PA	3707961	Avenida El Choco	residential	1	0	0	
+PA	3707961	Avenida El Chorro	residential	1	0	0	
+PA	3707961	Avenida El Espavel	tertiary	1	0	0	
+PA	3707961	Avenida El Espino	residential	1	0	0	
+PA	3707961	Avenida El Nance	residential	1	0	0	
+PA	3707961	Avenida El Palmar	residential	1	0	0	
+PA	3707961	Avenida El Pescado	residential	1	0	0	
+PA	3707961	Avenida El Raudal	residential	1	0	0	
+PA	3707961	Avenida El Roble	residential	1	0	0	
+PA	3707961	Avenida El Sauce	residential	1	0	0	
+PA	3707961	Avenida El Tambo	residential	1	0	0	
+PA	3707961	Avenida El Trapichito	residential	1	0	0	
+PA	3707961	Avenida El Éxito	residential	1	0	0	
+PA	3707961	Avenida Ensueño	residential	1	0	0	
+PA	3707961	Avenida Ezequiel Fernández	residential	1	0	0	
+PA	3707961	Avenida Flores	residential	1	0	0	
+PA	3708066	Avenida Ricardo Miró Guardia	tertiary	1	0	0	
+PA	3708066	Boulevard Ciudad del Lago	tertiary	1	0	0	
+PA	3708066	Boulevard Cumbre Azul	tertiary	1	0	0	
+PA	3708066	Calle 1	residential	1	0	0	
+PA	3708066	Calle 2	residential	1	0	0	
+PA	3708066	Calle 3	residential	1	0	0	
+PA	3708066	Calle 4	residential	1	0	0	
+PA	3708066	Calle 5	residential	1	0	0	
+PA	3708066	Calle 6	residential	1	0	0	
+PA	3708066	Calle 8	residential	1	0	0	
+PA	3708066	Calle 9	residential	1	0	0	
+PA	3708066	Calle A	residential	1	0	0	
+PA	3708066	Calle C	residential	1	0	0	
+PA	3708066	Calle Central Este 7	residential	1	0	0	
+PA	3708066	Calle Oviedo	residential	1	0	0	
+PA	3708066	Calle Segovia Oeste	residential	1	0	0	
+PA	3708066	Calle Valencia	residential	1	0	0	
+PA	3708066	Calle Zaragoza Oeste	residential	1	0	0	
+PA	3708066	Calle del IDAAN	unclassified	1	0	0	
+PA	3708066	Vía Caimitillo - La Cabima	tertiary	1	0	0	
+PA	3708171	Calle 4ª	residential	1	0	0	
+PA	3708171	Calle Carmelo Abate	residential	1	0	0	
+PA	3708171	Vía Doctor Belisario Porras Barahona	secondary	1	0	0	
+PA	3708171	Vía Pesé	primary	1	0	0	
+PA	3708171	Vía Tonosí (Calle a Macaracas)	tertiary	1	0	0	
+PA	3708288	Calle Al Río	unclassified	1	0	0	
+PA	3708288	Calle California	unclassified	1	0	0	
+PA	3708288	Calle Claudina	unclassified	1	0	0	
+PA	3708288	Calle Curundú	unclassified	1	0	0	
+PA	3708288	Calle El Hueco de Juan Gil	unclassified	1	0	0	
+PA	3708288	Calle El Piloto	unclassified	1	0	0	
+PA	3708288	Calle Elías Vigil	unclassified	1	0	0	
+PA	3708288	Calle Irenio	unclassified	1	0	0	
+PA	3708288	Calle Juan Gil Abajo	unclassified	1	0	0	
+PA	3708288	Calle Juan Manuel	unclassified	1	0	0	
+PA	3708288	Calle La Pedregosa	unclassified	1	0	0	
+PA	3708288	Calle Los Herreras	unclassified	1	0	0	
+PA	3708306	Calle Segunda	residential	3	179	212	
+PA	3708306	Avenida 8 G Sur	tertiary	1	0	0	
+PA	3708306	Avenida A	residential	1	0	0	
+PA	3708306	Avenida Andalucía	residential	1	0	0	
+PA	3708306	Avenida B	residential	1	0	0	
+PA	3708306	Avenida C	residential	1	0	0	
+PA	3708306	Avenida Costanera	tertiary	1	0	0	
+PA	3708306	Avenida D	residential	1	0	0	
+PA	3708306	Avenida Domingo Díaz	primary	1	0	0	
+PA	3708306	Avenida E	residential	1	0	0	
+PA	3708306	Avenida Gaudi	residential	1	0	0	
+PA	3708306	Avenida Guillermo E. Quijano	tertiary	1	0	0	
+PA	3708306	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3708306	Avenida José Aranga	tertiary	1	0	0	
+PA	3708306	Avenida Pedro J Ameglio	tertiary	1	0	0	
+PA	3708306	Avenida Principal Altos de Plaza Tocumen	residential	1	0	0	
+PA	3708306	Avenida Quarta Manzana 10	residential	1	0	0	
+PA	3708306	Avenida Quarta Manzana 9	residential	1	0	0	
+PA	3708306	Avenida de los Colegios	tertiary	1	0	0	
+PA	3708306	Boulevard La Marina	tertiary	1	0	0	
+PA	3708306	Calle 1-A	residential	1	0	0	
+PA	3708306	Calle 10	residential	1	0	0	
+PA	3708306	Calle 10ma.	residential	1	0	0	
+PA	3708306	Calle 11	residential	1	0	0	
+PA	3708306	Calle 11A	residential	1	0	0	
+PA	3708306	Calle 11B	residential	1	0	0	
+PA	3708306	Calle 12	residential	1	0	0	
+PA	3708306	Calle 12-A	residential	1	0	0	
+PA	3708306	Calle 126 Este	residential	1	0	0	
+PA	3708306	Calle 127 Este	tertiary	1	0	0	
+PA	3708306	Calle 128 Este	residential	1	0	0	
+PA	3708306	Calle 129 Este	residential	1	0	0	
+PA	3708306	Calle 129 Oeste	residential	1	0	0	
+PA	3708306	Calle 13	residential	1	0	0	
+PA	3708306	Calle 130 Este	residential	1	0	0	
+PA	3708306	Calle 134	residential	1	0	0	
+PA	3708306	Calle 135	residential	1	0	0	
+PA	3708306	Calle 137	residential	1	0	0	
+PA	3708306	Calle 14	residential	1	0	0	
+PA	3708306	Calle 146 e Este	residential	1	0	0	
+PA	3708306	Calle 15	residential	1	0	0	
+PA	3708306	Calle 16	residential	1	0	0	
+PA	3708306	Calle 165 Oeste	residential	1	0	0	
+PA	3708306	Calle 17	tertiary	1	0	0	
+PA	3708306	Calle 18	residential	1	0	0	
+PA	3708306	Calle 18B	residential	1	0	0	
+PA	3708306	Calle 19	residential	1	0	0	
+PA	3708306	Calle 1a Juan Díaz	residential	1	0	0	
+PA	3708306	Calle 1ra	residential	1	0	0	
+PA	3708306	Calle 2-A	residential	1	0	0	
+PA	3708306	Calle 20	residential	1	0	0	
+PA	3708306	Calle 21	residential	1	0	0	
+PA	3708306	Calle 22	residential	1	0	0	
+PA	3708306	Calle 23	residential	1	0	0	
+PA	3708306	Calle 24	residential	1	0	0	
+PA	3708306	Calle 25	residential	1	0	0	
+PA	3708306	Calle 26	residential	1	0	0	
+PA	3708306	Calle 27	residential	1	0	0	
+PA	3708306	Calle 28	residential	1	0	0	
+PA	3708306	Calle 29	residential	1	0	0	
+PA	3708306	Calle 2da	residential	1	0	0	
+PA	3708306	Calle 3-A	residential	1	0	0	
+PA	3708306	Calle 30	residential	1	0	0	
+PA	3708306	Calle 32	residential	1	0	0	
+PA	3708306	Calle 3a	residential	1	0	0	
+PA	3708306	Calle 3ra	residential	1	0	0	
+PA	3708306	Calle 3ta	residential	1	0	0	
+PA	3708306	Calle 4-A	residential	1	0	0	
+PA	3708306	Calle 46	residential	1	0	0	
+PA	3708306	Calle 47	residential	1	0	0	
+PA	3708306	Calle 48	residential	1	0	0	
+PA	3708306	Calle 49	residential	1	0	0	
+PA	3708306	Calle 4ta	residential	1	0	0	
+PA	3708306	Calle 5-A	residential	1	0	0	
+PA	3708306	Calle 50	residential	1	0	0	
+PA	3708306	Calle 51	residential	1	0	0	
+PA	3708306	Calle 52	residential	1	0	0	
+PA	3708306	Calle 53	residential	1	0	0	
+PA	3708306	Calle 54	residential	1	0	0	
+PA	3708306	Calle 55	residential	1	0	0	
+PA	3708306	Calle 56	residential	1	0	0	
+PA	3708306	Calle 57	residential	1	0	0	
+PA	3708306	Calle 58	residential	1	0	0	
+PA	3708306	Calle 59	residential	1	0	0	
+PA	3708306	Calle 5a	residential	1	0	0	
+PA	3708306	Calle 5a Saturno	residential	1	0	0	
+PA	3708306	Calle 5ta	residential	1	0	0	
+PA	3708306	Calle 60	residential	1	0	0	
+PA	3708306	Calle 61	residential	1	0	0	
+PA	3708306	Calle 62	residential	1	0	0	
+PA	3708306	Calle 63	residential	1	0	0	
+PA	3708306	Calle 64	residential	1	0	0	
+PA	3708306	Calle 7	residential	1	0	0	
+PA	3708306	Calle 7ma	residential	1	0	0	
+PA	3708306	Calle 8	residential	1	0	0	
+PA	3708306	Calle 8-A	residential	1	0	0	
+PA	3708306	Calle 8a	residential	1	0	0	
+PA	3708306	Calle 8ba	residential	1	0	0	
+PA	3708306	Calle 9na	residential	1	0	0	
+PA	3708306	Calle A-1	residential	1	0	0	
+PA	3708425	Jaramillo Arriba	residential	1	0	0	
+PA	3708425	Jaramillo Centro	residential	1	0	0	
+PA	3708432	Calle Principal	residential	1	0	0	
+PA	3708456	Antiguas Líneas del Ferrocarril	residential	1	0	0	
+PA	3708456	Calle Cuervito	residential	1	0	0	
+PA	3708456	Calle El Rodeo	residential	1	0	0	
+PA	3708456	Calle Tucurrique	residential	1	0	0	
+PA	3708456	Calle Urbina	unclassified	1	0	0	
+PA	3708456	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	3708456	Vía Jacú	residential	1	0	0	
+PA	3708616	Avenida Central	primary	1	0	0	
+PA	3708616	Avenida Herrera	residential	1	0	0	
+PA	3708616	Avenida Perú	unclassified	1	0	0	
+PA	3708616	San Lorenzo	tertiary	1	0	0	
+PA	3708616	Vía Boca Chica	secondary	1	0	0	
+PA	3708704	Via Finca Cielo Y Mar	residential	1	0	0	
+PA	3708704	Vía Santa Catalina	tertiary	1	0	0	
+PA	3708731	Avenida Norte		2	23	72	
+PA	3708731	Avenida Las Garzas	residential	1	0	0	
+PA	3708731	Avenida Oeste	residential	1	0	0	
+PA	3708731	Avenida Principal El Quetzal	residential	1	0	0	
+PA	3708731	Belmonte	residential	1	0	0	
+PA	3708731	Calle 10	residential	1	0	0	
+PA	3708731	Calle 7	residential	1	0	0	
+PA	3708731	Calle 8	residential	1	0	0	
+PA	3708731	Calle 9	residential	1	0	0	
+PA	3708731	Calle Cipres	residential	1	0	0	
+PA	3708731	Calle Los Fresnos	residential	1	0	0	
+PA	3708731	Calle Los Manzanos	residential	1	0	0	
+PA	3708745	Vía Namnoní	residential	1	0	0	
+PA	3708747	Vía Llano Tugrí	primary	1	0	0	
+PA	3708853	Vía Boquerón	tertiary	1	0	0	
+PA	3708853	Vía Boquerón - Macano Arriba	unclassified	1	0	0	
+PA	3708853	Vía Macano Arriba - Santa Rita	tertiary	1	0	0	
+PA	3708853	Vía Paraíso	secondary	1	0	0	
+PA	3708853	Vía Potrerillos Abajo - Cuesta de Piedra (Ruta Sur)	secondary	1	0	0	
+PA	3708854	Vía Guayabal	unclassified	1	0	0	
+PA	3708892	Alanje 14	unclassified	1	0	0	
+PA	3708892	Alanje 15	unclassified	1	0	0	
+PA	3708892	Avenida Don Antonio Anguizola	residential	1	0	0	
+PA	3708892	Calle La Barqueta	tertiary	1	0	0	
+PA	3708892	Vía Querévalo	tertiary	1	0	0	
+PA	3708892	Vía Santo Tomás	secondary	1	0	0	
+PA	3708894	Vía Guarumal - El Tigre de San Lorenzo	secondary	1	0	0	
+PA	3708894	Vía Pueblo Nuevo - La Soledad - Guarumal	secondary	1	0	0	
+PA	3708911	Avenida Norte	residential	1	0	0	
+PA	3708911	Calle 1era	residential	1	0	0	
+PA	3708911	Calle 2da	residential	1	0	0	
+PA	3708911	Calle 3era	residential	1	0	0	
+PA	3708911	Calle 4ta	residential	1	0	0	
+PA	3708911	Calle 5ta	residential	1	0	0	
+PA	3708911	Calle 6ta	residential	1	0	0	
+PA	3708911	Calle Ezequiel Vázques	residential	1	0	0	
+PA	3708911	Calle Herrera	residential	1	0	0	
+PA	3708911	Vía Dr. Belisario Porras	secondary	1	0	0	
+PA	3708911	Vía Guararé - La Peseña - Perales	tertiary	1	0	0	
+PA	3708948	Avenida Omar Torrijos Herrera	residential	1	0	0	
+PA	3708948	Calle 1a Este	residential	1	0	0	
+PA	3708948	Calle 1a Norte	residential	1	0	0	
+PA	3708948	Calle 1a Oeste	residential	1	0	0	
+PA	3708948	Calle 1a Sur	residential	1	0	0	
+PA	3708948	Calle 2a Este	residential	1	0	0	
+PA	3708948	Calle 2a Norte	residential	1	0	0	
+PA	3708948	Calle 2a Oeste	residential	1	0	0	
+PA	3708948	Calle 2a Sur	residential	1	0	0	
+PA	3708948	Calle 3a Este	residential	1	0	0	
+PA	3708948	Calle 3a Norte	residential	1	0	0	
+PA	3708948	Calle 3a Oeste	residential	1	0	0	
+PA	3708954	Avenida Atlántico	residential	1	0	0	
+PA	3708954	Avenida El Coco	tertiary	1	0	0	
+PA	3708954	Avenida Ignacio de Jesús Valdéz	residential	1	0	0	
+PA	3708954	Avenida Plomero	residential	1	0	0	
+PA	3708954	Avenida Posada	residential	1	0	0	
+PA	3708954	Avenida Virgen de Guadalupe	residential	1	0	0	
+PA	3708954	Calle Cacique	residential	1	0	0	
+PA	3708954	Calle El Maestro	residential	1	0	0	
+PA	3708954	Calle El Mangüito	residential	1	0	0	
+PA	3708954	Calle El Trébol	residential	1	0	0	
+PA	3708954	Calle Guarumal	residential	1	0	0	
+PA	3708954	Calle Mexico	residential	1	0	0	
+PA	3708954	Calle San Juan	residential	1	0	0	
+PA	3708954	Calle Tauro	residential	1	0	0	
+PA	3708954	Calle Venezuela	residential	1	0	0	
+PA	3708954	Calle del Impresor	residential	1	0	0	
+PA	3708954	Vía a Loma Guadalupe	tertiary	1	0	0	
+PA	3708974	Calle Guaca	residential	1	0	0	
+PA	3708974	Vía San Pablo Viejo Abajo - Los Anastacios	secondary	1	0	0	
+PA	3708989	Antiguas Vías del Ferrocarril	unclassified	1	0	0	
+PA	3708989	Avenida 0	residential	1	0	0	
+PA	3708989	Avenida 1	residential	1	0	0	
+PA	3708989	Avenida 11	residential	1	0	0	
+PA	3708989	Avenida 2	residential	1	0	0	
+PA	3708989	Avenida 3	residential	1	0	0	
+PA	3708989	Avenida 3A	residential	1	0	0	
+PA	3708989	Avenida 5	residential	1	0	0	
+PA	3708989	Avenida 9	residential	1	0	0	
+PA	3708989	Avenida 9A	residential	1	0	0	
+PA	3708989	Calle 0	residential	1	0	0	
+PA	3708989	Calle 0A	residential	1	0	0	
+PA	3709011	Puente	tertiary	1	0	0	
+PA	3709011	Vía Bágala - Guabal	tertiary	1	0	0	
+PA	3709228	Santa Marta - Gomez	residential	1	0	0	
+PA	3709228	Vía Aserrío de Gariché - San Andrés	secondary	1	0	0	
+PA	3709228	Vía Cimarrón	unclassified	1	0	0	
+PA	3709228	Vía Gómez Abajo	residential	1	0	0	
+PA	3709242	Vía Nuevo Chagres - Miguel de la Borda	secondary	1	0	0	
+PA	3709285	Calle Flores	unclassified	1	0	0	
+PA	3709285	Carretera Transístmica	primary	1	0	0	
+PA	3709285	Las Palmitas	residential	1	0	0	
+PA	3709285	Vía Gatuncillo - Salamanca	tertiary	1	0	0	
+PA	3709285	Vía de Entrada a Sardinilla	tertiary	1	0	0	
+PA	3709332	Carretera Portobelo - La Guaira	secondary	1	0	0	
+PA	3709348	Aserrío de Gariché - Barro Blanco	tertiary	1	0	0	
+PA	3709348	Calle La Linea	residential	1	0	0	
+PA	3709348	Vía Barro Blanco	tertiary	1	0	0	
+PA	3709361	Vía Garachiné - Sambú	residential	1	0	0	
+PA	3709561	Bananeras-Manaca Civil	tertiary	1	0	0	
+PA	3709569	Bananeras-Manaca Civil	tertiary	1	0	0	
+PA	3709703	Via Arenera Balboa	unclassified	1	0	0	
+PA	3709742	Vía Escobal - Cuipo	tertiary	1	0	0	
+PA	3709742	Vía Quebraon	unclassified	1	0	0	
+PA	3709823	Vía de Entrada al Nuevo San Juan	tertiary	1	0	0	
+PA	3709830	Calle Principal El Uvito	tertiary	1	0	0	
+PA	3709902	Calle Central	unclassified	1	0	0	
+PA	3709902	Calle La Pita	secondary	1	0	0	
+PA	3709939	Carretera Almirante-El Empalme	primary	1	0	0	
+PA	3709939	Carretera de Bonyik	tertiary	1	0	0	
+PA	3709939	Santa Rosa-Sursuba	tertiary	1	0	0	
+PA	3709939	Vía El Silencio	tertiary	1	0	0	
+PA	3710058	Vía Yaviza - El Real	tertiary	1	0	0	
+PA	3710066	Vía Las Lomas	secondary	1	0	0	
+PA	3710087	Camino Madroño	unclassified	1	0	0	
+PA	3710089	Via Soná-Las Palmas	secondary	1	0	0	
+PA	3710107	Vía a El Copé	secondary	1	0	0	
+PA	3710230	Puente sobre Río Cañazas	tertiary	1	0	0	
+PA	3710230	Vía El Pedernal	tertiary	1	0	0	
+PA	3710230	Vía Pedernal	tertiary	1	0	0	
+PA	3710305	Vía Pesé	primary	1	0	0	
+PA	3710367	El Nancito	residential	1	0	0	
+PA	3710367	Vìa Lajero	tertiary	1	0	0	
+PA	3710372	El Veladero	residential	1	0	0	
+PA	3710372	Rio Mar	residential	1	0	0	
+PA	3710372	calle	unclassified	1	0	0	
+PA	3710377	Vía hacia el Carate	tertiary	1	0	0	
+PA	3710417	Via Soná-Las Palmas	secondary	1	0	0	
+PA	3710417	Vía Soná - Tolé	primary	1	0	0	
+PA	3710424	Vía Santiago - Soná	primary	1	0	0	
+PA	3710534	Vía Ocú	secondary	1	0	0	
+PA	3710540	Vía Punta Chame	secondary	1	0	0	
+PA	3710785	Vía Cuipo - Ciricito	tertiary	1	0	0	
+PA	3710808	Calle 12 Belen 1	residential	1	0	0	
+PA	3710808	Entrada de Giral	tertiary	1	0	0	
+PA	3710855	Decameron	residential	257	11	203	
+PA	3710855	Calle La Venta	residential	1	0	0	
+PA	3710864	Vía La Raya de Santamaría	tertiary	1	0	0	
+PA	3710875	Carretera Panamericana		2	5	5	
+PA	3710875	8016	residential	1	0	0	
+PA	3710877	Calle Los Colibríes	living_street	1	0	0	
+PA	3710877	carretera los colibris casa de juez	living_street	1	0	0	
+PA	3710882	Vía Santiago - San Francisco	secondary	1	0	0	
+PA	3710887	Via Albina Grande	residential	1	0	0	
+PA	3710887	Vía El Lagartillo	residential	1	0	0	
+PA	3710920	Avenida 17 de Abril	tertiary	1	0	0	
+PA	3710920	Avenida Omar Torrijos Herrera	primary	1	0	0	
+PA	3710920	Carretera Almirante-El Empalme	primary	1	0	0	
+PA	3710920	Carretera de Bonyik	tertiary	1	0	0	
+PA	3710920	Changuinola	residential	1	0	0	
+PA	3710920	Santa Rosa-Sursuba	tertiary	1	0	0	
+PA	3710920	Vía El Silencio	tertiary	1	0	0	
+PA	3710920	Vía Finca 24	unclassified	1	0	0	
+PA	3711009	Vía a El Copé	secondary	1	0	0	
+PA	3711056	Avenida Biancheri	residential	1	0	0	
+PA	3711056	Avenida Cacique	residential	1	0	0	
+PA	3711056	Avenida Don Bosco	residential	1	0	0	
+PA	3711056	Avenida El Géminis	residential	1	0	0	
+PA	3711056	Avenida El Pinal	residential	1	0	0	
+PA	3711056	Avenida El Porvenir	residential	1	0	0	
+PA	3711056	Avenida El Raudal	tertiary	1	0	0	
+PA	3711056	Avenida Escorpio	residential	1	0	0	
+PA	3711056	Avenida España	residential	1	0	0	
+PA	3711056	Avenida Gandhi	residential	1	0	0	
+PA	3711056	Avenida La Caridad	residential	1	0	0	
+PA	3711056	Avenida La Junta	residential	1	0	0	
+PA	3711056	Avenida La Ocueña	residential	1	0	0	
+PA	3711056	Avenida Leonidas	residential	1	0	0	
+PA	3711056	Avenida Los Chivos	residential	1	0	0	
+PA	3711056	Avenida Los Ángeles	residential	1	0	0	
+PA	3711056	Avenida Marta	residential	1	0	0	
+PA	3711056	Avenida Marte	residential	1	0	0	
+PA	3711056	Avenida Melva	residential	1	0	0	
+PA	3711056	Avenida Mercurio	residential	1	0	0	
+PA	3711056	Avenida Pulida	residential	1	0	0	
+PA	3711056	Avenida Rocío	residential	1	0	0	
+PA	3711056	Avenida San José	residential	1	0	0	
+PA	3711056	Avenida Santa Fe	residential	1	0	0	
+PA	3711073	Calle hacia llano Abajo	residential	1	0	0	
+PA	3711073	Callejón	residential	1	0	0	
+PA	3711073	Cocal Peña Blanca	tertiary	1	0	0	
+PA	3711125	Avenida Amador	secondary	1	0	0	
+PA	3711125	Avenida Arnulfo Arias Madrid	primary	1	0	0	
+PA	3711125	Avenida de los Poetas	primary	1	0	0	
+PA	3711125	Calle 14 Este	residential	1	0	0	
+PA	3711125	Calle 14 Oeste	residential	1	0	0	
+PA	3711125	Calle 15 Este	residential	1	0	0	
+PA	3711125	Calle 16	residential	1	0	0	
+PA	3711125	Calle 16 Este	residential	1	0	0	
+PA	3711125	Calle 17 Este	tertiary	1	0	0	
+PA	3711125	Calle 18 Oeste	tertiary	1	0	0	
+PA	3711125	Calle 19	residential	1	0	0	
+PA	3711125	Calle 20 A Oeste	residential	1	0	0	
+PA	3711125	Calle 20 de Diciembre	residential	1	0	0	
+PA	3711125	Calle 21 Oeste	residential	1	0	0	
+PA	3711125	Calle 22 Oeste	residential	1	0	0	
+PA	3711125	Calle 23	residential	1	0	0	
+PA	3711125	Calle 24 Oeste	residential	1	0	0	
+PA	3711125	Calle 25	tertiary	1	0	0	
+PA	3711125	Calle 25 Oeste	residential	1	0	0	
+PA	3711125	Calle 26	residential	1	0	0	
+PA	3711125	Calle 27	residential	1	0	0	
+PA	3711125	Calle 28	residential	1	0	0	
+PA	3711125	Calle Acacia	residential	1	0	0	
+PA	3711125	Calle Agustin Jaen Arosemena	residential	1	0	0	
+PA	3711125	Calle Almond	residential	1	0	0	
+PA	3711125	Calle B	tertiary	1	0	0	
+PA	3711125	Calle Bahía	residential	1	0	0	
+PA	3711125	Calle Balsa	residential	1	0	0	
+PA	3711125	Calle Boca del Toro	residential	1	0	0	
+PA	3711125	Calle Bomparte Wise	residential	1	0	0	
+PA	3711125	Calle C	residential	1	0	0	
+PA	3711125	Calle Cacao	residential	1	0	0	
+PA	3711125	Calle Celia Orilla	residential	1	0	0	
+PA	3711125	Calle Darién	residential	1	0	0	
+PA	3711125	Calle Dauprat	residential	1	0	0	
+PA	3711125	Calle Duaprat	residential	1	0	0	
+PA	3711125	Calle E	residential	1	0	0	
+PA	3711125	Calle Estudiante	residential	1	0	0	
+PA	3711125	Calle F	residential	1	0	0	
+PA	3711125	Calle Farfán	tertiary	1	0	0	
+PA	3711125	Calle Frink	residential	1	0	0	
+PA	3711125	Calle G	residential	1	0	0	
+PA	3711125	Calle General Juan D. Perón	residential	1	0	0	
+PA	3711125	Calle H	residential	1	0	0	
+PA	3711125	Calle Jerónimo de la Ossa	residential	1	0	0	
+PA	3711125	Calle John F. Wallace	residential	1	0	0	
+PA	3711125	Calle Juan B. Sosa	residential	1	0	0	
+PA	3711125	Calle Mango	residential	1	0	0	
+PA	3711211	Las Cañazas	residential	1	0	0	
+PA	3711211	Los Mangos	residential	1	0	0	
+PA	3711272	Macaracas-Los Posos	secondary	1	0	0	
+PA	3711308	Vía Dr. Belisario Porras	secondary	1	0	0	
+PA	3711381	Vía Mariato	secondary	1	0	0	
+PA	3711416	Vía Pesé	primary	1	0	0	
+PA	3711437	Circunvalación La Elvira	unclassified	1	0	0	
+PA	3711437	La Elvira Arriba	unclassified	1	0	0	
+PA	3711437	Palma Real Arriba - El Banco	unclassified	1	0	0	
+PA	3711437	Via Palmira del Banco	unclassified	1	0	0	
+PA	3711437	Vía Potrerillos Abajo - Cuesta de Piedra (Ruta Sur)	secondary	1	0	0	
+PA	3711571	Puente	tertiary	1	0	0	
+PA	3711571	Vía Cochea	tertiary	1	0	0	
+PA	3711571	Vía Dolega	tertiary	1	0	0	
+PA	3711571	Vía Dos Ríos	unclassified	1	0	0	
+PA	3711618	<<El Higo>>	unclassified	1	0	0	
+PA	3711618	<<Vía El Higo>>	residential	1	0	0	
+PA	3711618	<<Vía El Macano - Caldera>>	unclassified	1	0	0	
+PA	3711618	<<Vía El Macano>>	residential	1	0	0	
+PA	3711618	Antiguas Vías del Ferrocarril	residential	1	0	0	
+PA	3711618	Avenida 1a Este	residential	1	0	0	
+PA	3711618	Avenida 1a Oeste	unclassified	1	0	0	
+PA	3711618	Avenida 2a Este	residential	1	0	0	
+PA	3711618	Avenida 3a Este	residential	1	0	0	
+PA	3711618	Avenida 4a Este	residential	1	0	0	
+PA	3711618	Avenida 5a Este	residential	1	0	0	
+PA	3711618	Avenida 6a Este	residential	1	0	0	
+PA	3711631	Avenida Báco	tertiary	1	0	0	
+PA	3711631	Carretera Divalá - Nuevo México	tertiary	1	0	0	
+PA	3711631	Fincas de Divalá	residential	1	0	0	
+PA	3711631	Paso Ulaps	residential	1	0	0	
+PA	3711631	Vía Divalá	primary	1	0	0	
+PA	3711631	Vía Santo Tomás - Divalá	secondary	1	0	0	
+PA	3711668	Calle D	living_street	79	4	147	
+PA	3711668	Calle H	living_street	58	3	266	
+PA	3711668	Calle J	living_street	42	5	355	
+PA	3711668	Calle A	living_street	38	1	29	
+PA	3711668	Avenida A	living_street	37	7	94	
+PA	3711668	Avenida B	residential	37	12	217	
+PA	3711668	Calle I	living_street	37	270	304	
+PA	3711668	Calle E	residential	35	5	172	
+PA	3711668	Calle G	residential	34	200	231	
+PA	3711668	Avenida Primera	residential	33	359	403	
+PA	3711668	Calle 1a	living_street	31	9	39	
+PA	3711668	Calle 5a	living_street	30	20	210	
+PA	3711668	Calle Paso Ñopo	residential	29	65	124	
+PA	3711668	Calle C	living_street	28	3	115	
+PA	3711668	Avenida Malek	residential	27	326	350	
+PA	3711668	Calle F	living_street	25	174	197	
+PA	3711668	Calle 2a	living_street	24	15	39	
+PA	3711668	Calle 3a	living_street	24	4	54	
+PA	3711668	Avenida D	living_street	20	141	163	
+PA	3711668	Avenida C	living_street	18	31	109	
+PA	3711668	Calle 4a	living_street	16	1	91	
+PA	3711668	Calle B	living_street	12	20	33	
+PA	3711668	Calle S Norte	residential	12	8	7125	
+PA	3711668	Avenida 4a Oeste	residential	11	6	6405	
+PA	3711668	Calle 6a	living_street	11	169	180	
+PA	3711668	Calle D Sur	secondary	10	1	6906	
+PA	3711668	Avenida Anayansi	residential	9	13	24	
+PA	3711668	Calle 2	residential	9	1	9	
+PA	3711668	Calle 1	living_street	8	2	14	
+PA	3711668	Calle B Sur	residential	7	4803	6354	
+PA	3711668	Vía Aguacatal	secondary	7	1	7	
+PA	3711668	Avenida 9a Oeste	residential	6	4442	6944	
+PA	3711668	Avenida Centenario	tertiary	6	4143	4641	
+PA	3711668	Calle E Sur	residential	6	26	4397	
+PA	3711668	Calle R Sur	living_street	6	16	2104	
+PA	3711668	Calle V Norte	residential	6	9	6190	
+PA	3711668	Calle 7a	living_street	5	55	2054	
+PA	3711668	Calle I Sur		5	6092	6394	
+PA	3711668	La Rotonda	residential	5	20	27	
+PA	3711668	Avenida 3 de Noviembre	primary	4	4713	5645	
+PA	3711668	Avenida 9 de Enero	secondary	4	4608	4767	
+PA	3711668	Avenida Belisario Porras	residential	4	2	7270	
+PA	3711668	Avenida Bolívar	tertiary	4	4042	4530	
+PA	3711668	Avenida Principal	residential	4	28	47	
+PA	3711668	Calle Alto Verde	residential	4	31	34	
+PA	3711668	Calle C Sur	tertiary	4	5	5590	
+PA	3711668	Calle Q Sur	living_street	4	20	2097	
+PA	3711668	Avenida 3a Oeste	residential	3	707	5507	
+PA	3711668	Avenida 6a Oeste	residential	3	5220	6151	
+PA	3711668	Avenida 8a Este	tertiary	3	4334	5067	
+PA	3711668	Avenida Domingo Díaz	tertiary	3	4213	5458	
+PA	3711668	Avenida Francisco Clark	residential	3	6011	6594	
+PA	3711668	Calle C Norte	living_street	3	5292	6084	
+PA	3711668	Calle D Norte		3	2	6655	
+PA	3711668	Calle M Norte	residential	3	6592	6664	
+PA	3711668	Avenida 3a	unclassified	2	2260	2261	
+PA	3711668	Avenida Central	residential	2	5669	5725	
+PA	3711668	Avenida Joseph Halphen	secondary	2	9	41	
+PA	3711668	Calle Aristídes Romero Chávez	residential	2	157	6143	
+PA	3711668	Calle B Norte	living_street	2	5266	6655	
+PA	3711668	Calle De La Trinidad	tertiary	2	4759	5355	
+PA	3711668	Calle E Norte	residential	2	5830	6257	
+PA	3711668	Calle F Norte	residential	2	5703	6288	
+PA	3711668	Calle G Norte	residential	2	10	11	
+PA	3711668	Calle N Norte	residential	2	10	37	
+PA	3711668	Calle O Norte		2	5928	6648	
+PA	3711668	Calle W Norte	tertiary	2	6852	6865	
+PA	3711668	Carretera Panamericana		2	3	7	
+PA	3711668	Antiguas Vías del Ferrocarril	residential	1	0	0	
+PA	3711668	Avenida 10 Oeste	residential	1	0	0	
+PA	3711668	Avenida 11a Oeste	residential	1	0	0	
+PA	3711668	Avenida 12a Oeste	residential	1	0	0	
+PA	3711668	Avenida 13a Oeste	residential	1	0	0	
+PA	3711668	Avenida 1a	residential	1	0	0	
+PA	3711668	Avenida 1a Sur	living_street	1	0	0	
+PA	3711668	Avenida 2a	residential	1	0	0	
+PA	3711668	Avenida 2a Sur	living_street	1	0	0	
+PA	3711668	Avenida 4a	residential	1	0	0	
+PA	3711668	Avenida 4a Este	residential	1	0	0	
+PA	3711668	Avenida 4a Sur	living_street	1	0	0	
+PA	3711668	Avenida 5a	residential	1	0	0	
+PA	3711668	Avenida 5a Este	residential	1	0	0	
+PA	3711668	Avenida 5a Oeste	residential	1	0	0	
+PA	3711668	Avenida 6a Este	residential	1	0	0	
+PA	3711668	Avenida 9a Este	unclassified	1	0	0	
+PA	3711668	Avenida Alto Coquito	living_street	1	0	0	
+PA	3711668	Avenida Andrés Bello	unclassified	1	0	0	
+PA	3711668	Avenida Balboa	residential	1	0	0	
+PA	3711668	Avenida Belisario Porras Barahona	secondary	1	0	0	
+PA	3711668	Avenida Brisas de San Cristóbal	living_street	1	0	0	
+PA	3711668	Avenida Caribe	residential	1	0	0	
+PA	3711668	Avenida Doctor Fernando Romero de Puy	secondary	1	0	0	
+PA	3711668	Avenida E	living_street	1	0	0	
+PA	3711668	Avenida El Tecal	unclassified	1	0	0	
+PA	3711668	Avenida Elisa Chiari	residential	1	0	0	
+PA	3711668	Avenida Francisco Morazán	residential	1	0	0	
+PA	3711668	Avenida La Lealtad	living_street	1	0	0	
+PA	3711668	Avenida La Primavera	residential	1	0	0	
+PA	3711668	Avenida Las Cumbres	living_street	1	0	0	
+PA	3711668	Avenida Licenciado Julio Miranda	residential	1	0	0	
+PA	3711699	Avenida 1 C N	residential	1	0	0	
+PA	3711699	Avenida 1A Norte	residential	1	0	0	
+PA	3711699	Avenida 4A Norte	residential	1	0	0	
+PA	3711699	Avenida Ascanio Villalaz	secondary	1	0	0	
+PA	3711699	Avenida Foresta	unclassified	1	0	0	
+PA	3711699	Avenida Luis Clement	primary	1	0	0	
+PA	3711699	Avenida Omar Torrijos Herrera	primary	1	0	0	
+PA	3711699	Avenida Terrace	residential	1	0	0	
+PA	3711699	Avenida de la Amistad	primary	1	0	0	
+PA	3711699	Bulevar Ancón	primary	1	0	0	
+PA	3711699	Calle 26 Este	tertiary	1	0	0	
+PA	3711699	Calle 31	residential	1	0	0	
+PA	3711699	Calle DIJ	residential	1	0	0	
+PA	3711699	Calle Doctor José M. Vázquez	residential	1	0	0	
+PA	3711699	Calle Indira Ghandi	residential	1	0	0	
+PA	3711699	Calle Laundry	unclassified	1	0	0	
+PA	3711699	Calle M	residential	1	0	0	
+PA	3711699	Calle Manuel E. Melo V.	residential	1	0	0	
+PA	3711699	Calle María Reina	residential	1	0	0	
+PA	3711699	Calle N	residential	1	0	0	
+PA	3711699	Calle P	residential	1	0	0	
+PA	3711699	Calle Q	residential	1	0	0	
+PA	3711699	Calle R	residential	1	0	0	
+PA	3711699	Calle S	residential	1	0	0	
+PA	3711699	Calle San Miguel	residential	1	0	0	
+PA	3711699	Calle Santa Cruz	residential	1	0	0	
+PA	3711699	Calle Summit	residential	1	0	0	
+PA	3711699	Calle T	residential	1	0	0	
+PA	3711699	Carretera Chivo Chivo	unclassified	1	0	0	
+PA	3711699	Plaza de la Cultura Democrática	pedestrian	1	0	0	
+PA	3711723	Vía Alto Limón - Llano de Culebra	tertiary	1	0	0	
+PA	3711738	Calle de El Porvenir	residential	1	0	0	
+PA	3711738	Vía El Plátano	unclassified	1	0	0	
+PA	3711738	Vía Los Cedros del Lago	unclassified	1	0	0	
+PA	3711749	Calle Limón	residential	1	0	0	
+PA	3711749	camino a chanati	unclassified	1	0	0	
+PA	3711923	Via Soná-Las Palmas	secondary	1	0	0	
+PA	3711968	Vía Cordillera	secondary	1	0	0	
+PA	3711968	Vía Paraíso	secondary	1	0	0	
+PA	3711968	Vía Volcán	primary	1	0	0	
+PA	3712069	vía. Cabuya	tertiary	1	0	0	
+PA	3712076	Calle Monte Lirio	residential	5	342	346	
+PA	3712076	Calle de Lesseps	secondary	4	54	369	
+PA	3712076	Sector 2		3	52	57	
+PA	3712076	Sector B	residential	3	9	104	
+PA	3712076	Acceso al Terminal	tertiary	1	0	0	
+PA	3712076	Avenida 1a	unclassified	1	0	0	
+PA	3712076	Avenida 2a	unclassified	1	0	0	
+PA	3712076	Avenida 3a	unclassified	1	0	0	
+PA	3712076	Avenida 4a	unclassified	1	0	0	
+PA	3712076	Avenida 5a	unclassified	1	0	0	
+PA	3712076	Avenida 6a	unclassified	1	0	0	
+PA	3712076	Avenida Amador Guerrero	secondary	1	0	0	
+PA	3712076	Avenida Balboa	residential	1	0	0	
+PA	3712076	Avenida Bolívar	tertiary	1	0	0	
+PA	3712076	Avenida Brazos Brooks	unclassified	1	0	0	
+PA	3712076	Avenida Caimito	residential	1	0	0	
+PA	3712076	Avenida Demitrio Basilio Lakas	residential	1	0	0	
+PA	3712076	Avenida Domingo Díaz	residential	1	0	0	
+PA	3712076	Avenida Federico Boyd	residential	1	0	0	
+PA	3712076	Avenida Herrera	residential	1	0	0	
+PA	3712076	Avenida Jaime Vélez	tertiary	1	0	0	
+PA	3712076	Avenida José Dominador Bazán	unclassified	1	0	0	
+PA	3712076	Avenida Justo Arosemena	residential	1	0	0	
+PA	3712076	Avenida La Cresta	residential	1	0	0	
+PA	3712076	Avenida Las Camelias	residential	1	0	0	
+PA	3712076	Avenida Las Palmeras	residential	1	0	0	
+PA	3712076	Avenida Los Claveles	residential	1	0	0	
+PA	3712076	Avenida Los Guayacanes	residential	1	0	0	
+PA	3712076	Avenida Los Rosales	residential	1	0	0	
+PA	3712076	Avenida Meléndez	tertiary	1	0	0	
+PA	3712076	Avenida Osborn	residential	1	0	0	
+PA	3712076	Avenida Principal Gold Hills	residential	1	0	0	
+PA	3712076	Avenida Randolph	primary	1	0	0	
+PA	3712076	Avenida Roosevelt	secondary	1	0	0	
+PA	3712076	Avenida San Eladio	unclassified	1	0	0	
+PA	3712076	Avenida del Frente	residential	1	0	0	
+PA	3712076	CALLE GOLF	residential	1	0	0	
+PA	3712076	Calle 1	residential	1	0	0	
+PA	3712076	Calle 11	residential	1	0	0	
+PA	3712076	Calle 12	residential	1	0	0	
+PA	3712076	Calle 13	tertiary	1	0	0	
+PA	3712076	Calle 13A Este	residential	1	0	0	
+PA	3712076	Calle 14	residential	1	0	0	
+PA	3712076	Calle 15	residential	1	0	0	
+PA	3712076	Calle 16	unclassified	1	0	0	
+PA	3712076	Calle 16 1/2	unclassified	1	0	0	
+PA	3712076	Calle 17	unclassified	1	0	0	
+PA	3712076	Calle 18	unclassified	1	0	0	
+PA	3712076	Calle 1A Este	residential	1	0	0	
+PA	3712076	Calle 1a	unclassified	1	0	0	
+PA	3712076	Calle 2B Este	residential	1	0	0	
+PA	3712076	Calle 2a	unclassified	1	0	0	
+PA	3712076	Calle 3	residential	1	0	0	
+PA	3712076	Calle 3a	unclassified	1	0	0	
+PA	3712076	Calle 4	residential	1	0	0	
+PA	3712076	Calle 4a	unclassified	1	0	0	
+PA	3712076	Calle 5	residential	1	0	0	
+PA	3712076	Calle 5a	residential	1	0	0	
+PA	3712076	Calle 6	residential	1	0	0	
+PA	3712076	Calle 6a	unclassified	1	0	0	
+PA	3712076	Calle 6ª	residential	1	0	0	
+PA	3712076	Calle 7	residential	1	0	0	
+PA	3712076	Calle 7a	unclassified	1	0	0	
+PA	3712076	Calle 8	residential	1	0	0	
+PA	3712076	Calle 8a	unclassified	1	0	0	
+PA	3712076	Calle 9	residential	1	0	0	
+PA	3712076	Calle Abel Bravo	residential	1	0	0	
+PA	3712076	Calle Andrey	residential	1	0	0	
+PA	3712076	Calle Andros	residential	1	0	0	
+PA	3712076	Calle Arango	residential	1	0	0	
+PA	3712076	Calle Azalea	residential	1	0	0	
+PA	3712076	Calle B	unclassified	1	0	0	
+PA	3712076	Calle Babcock	residential	1	0	0	
+PA	3712076	Calle Barbados	residential	1	0	0	
+PA	3712076	Calle Barbuda	residential	1	0	0	
+PA	3712076	Calle Bimini	residential	1	0	0	
+PA	3712076	Calle Bosque	residential	1	0	0	
+PA	3712076	Calle C	unclassified	1	0	0	
+PA	3712076	Calle Caicos	residential	1	0	0	
+PA	3712076	Calle Chagres	residential	1	0	0	
+PA	3712076	Calle Clavel	residential	1	0	0	
+PA	3712076	Calle Cronkhite	residential	1	0	0	
+PA	3712076	Calle D	unclassified	1	0	0	
+PA	3712076	Calle Dixon	residential	1	0	0	
+PA	3712076	Calle E	unclassified	1	0	0	
+PA	3712076	Calle Escobal	residential	1	0	0	
+PA	3712076	Calle F	unclassified	1	0	0	
+PA	3712076	Calle Fulton	residential	1	0	0	
+PA	3712076	Calle Gilpatrick	residential	1	0	0	
+PA	3712076	Calle Golf	residential	1	0	0	
+PA	3712076	Calle Granada	residential	1	0	0	
+PA	3712076	Calle Hall	residential	1	0	0	
+PA	3712076	Calle Harris	residential	1	0	0	
+PA	3712076	Calle Inagua	residential	1	0	0	
+PA	3712076	Calle Irwing	residential	1	0	0	
+PA	3712076	Calle Jamaica	residential	1	0	0	
+PA	3712076	Calle Kennedy	unclassified	1	0	0	
+PA	3712076	Calle L	residential	1	0	0	
+PA	3712076	Calle Ladue	residential	1	0	0	
+PA	3712076	Calle Lambdin Place	residential	1	0	0	
+PA	3712168	Vía Cochea	tertiary	1	0	0	
+PA	3712168	Vía Gualaca - Caldera	tertiary	1	0	0	
+PA	3712169	Vía Cochea	tertiary	1	0	0	
+PA	3712280	Via Monte Grande	tertiary	1	0	0	
+PA	3712291	Vía Ocú	secondary	1	0	0	
+PA	3712319	Vía Las Minas - Ocú	secondary	1	0	0	
+PA	3712320	Avenida Bajo Grande	unclassified	1	0	0	
+PA	3712320	Avenida Entre Ríos	unclassified	1	0	0	
+PA	3712320	Avenida Guadalupe	residential	1	0	0	
+PA	3712320	Avenida Guadalupe Sur	tertiary	1	0	0	
+PA	3712320	CH-CP-03-Guadalupe NE	unclassified	1	0	0	
+PA	3712320	CH-CP-04-Guadalupe N	unclassified	1	0	0	
+PA	3712320	Paseo Guadalupe N	unclassified	1	0	0	
+PA	3712384	Avenida 24 de Diciembre	residential	1	0	0	
+PA	3712384	Avenida Antonio Burgos	residential	1	0	0	
+PA	3712384	Avenida Carmelo Spadafora	secondary	1	0	0	
+PA	3712384	Avenida Carmen Salermo	residential	1	0	0	
+PA	3712384	Avenida Centenario	residential	1	0	0	
+PA	3712384	Avenida Doctor Arnulfo Escalona	secondary	1	0	0	
+PA	3712384	Avenida El Estudiante	residential	1	0	0	
+PA	3712384	Avenida Fabio Díaz	residential	1	0	0	
+PA	3712384	Avenida Francisco Audía	residential	1	0	0	
+PA	3712384	Avenida Francisco Rodríguez	residential	1	0	0	
+PA	3712384	Avenida Herrera	secondary	1	0	0	
+PA	3712384	Avenida Hugo Spadafora	residential	1	0	0	
+PA	3712384	Avenida Humberto A. Collado	residential	1	0	0	
+PA	3712384	Avenida Israel	residential	1	0	0	
+PA	3712384	Avenida Jesús Nazareno	residential	1	0	0	
+PA	3712384	Avenida Julio Arjona	residential	1	0	0	
+PA	3712384	Avenida María de la Cruz Bernal	residential	1	0	0	
+PA	3712384	Avenida Obadía	residential	1	0	0	
+PA	3712384	Avenida Pérez	tertiary	1	0	0	
+PA	3712384	Avenida San Juan de Dios	residential	1	0	0	
+PA	3712384	Calle 11 de Octubre	residential	1	0	0	
+PA	3712384	Calle 3a	residential	1	0	0	
+PA	3712384	Calle 5a	residential	1	0	0	
+PA	3712384	Calle A	residential	1	0	0	
+PA	3712401	Avenida Central	residential	1	0	0	
+PA	3712401	Vía Ballena	tertiary	1	0	0	
+PA	3712401	Vía Chiriquí Grande	secondary	1	0	0	
+PA	3712401	Vía El Bajo	residential	1	0	0	
+PA	3712419	Avenida 1a Este	residential	1	0	0	
+PA	3712419	Avenida 1a Oeste	residential	1	0	0	
+PA	3712419	Avenida 2a Este	residential	1	0	0	
+PA	3712419	Avenida 2a Oeste	residential	1	0	0	
+PA	3712419	Avenida 3a Este	residential	1	0	0	
+PA	3712419	Avenida 3a Oeste	residential	1	0	0	
+PA	3712419	Avenida 4a Este	residential	1	0	0	
+PA	3712419	Avenida 4a Oeste	residential	1	0	0	
+PA	3712419	Avenida 5a Este	residential	1	0	0	
+PA	3712419	Avenida Principal	residential	1	0	0	
+PA	3712419	Calle 1a Norte	residential	1	0	0	
+PA	3712419	Calle 1a Sur	residential	1	0	0	
+PA	3712455	Avenida Madden	secondary	1	0	0	
+PA	3712455	Calle Calzada Larga	tertiary	1	0	0	
+PA	3712455	Calle El Remanso	residential	1	0	0	
+PA	3712455	Calle La Amistad	residential	1	0	0	
+PA	3712455	Calle Llano Verde	residential	1	0	0	
+PA	3712455	Calle San José	residential	1	0	0	
+PA	3712455	Calle del IDAAN	unclassified	1	0	0	
+PA	3712455	Carretera Madden	primary	1	0	0	
+PA	3712455	Carretera Transístmica	primary	1	0	0	
+PA	3712455	Centro Educativo Básico General Presidente Roosevelt	residential	1	0	0	
+PA	3712455	Las Sabanas	residential	1	0	0	
+PA	3712459	Chiguiri Arriba	secondary	1	0	0	
+PA	3712459	Chiguiri arriba	secondary	1	0	0	
+PA	3712459	Laguillo Arriba	residential	1	0	0	
+PA	3712459	puente	secondary	1	0	0	
+PA	3712462	Carretera	unclassified	1	0	0	
+PA	3712462	Cristo Rey	residential	1	0	0	
+PA	3712462	Via Cristo Rey	residential	1	0	0	
+PA	3712462	Via hacia Sonadora	secondary	1	0	0	
+PA	3712481	Vía Peña Blanca	secondary	1	0	0	
+PA	3712505	Avenida Jorge A. Velásquez	tertiary	1	0	0	
+PA	3712505	Avenida José Agustín Arango	secondary	1	0	0	
+PA	3712505	Calle 1	residential	1	0	0	
+PA	3712505	Calle 11 de Octubre	residential	1	0	0	
+PA	3712505	Calle 2	residential	1	0	0	
+PA	3712505	Calle 3	residential	1	0	0	
+PA	3712505	Calle 4	residential	1	0	0	
+PA	3712505	Calle 5	residential	1	0	0	
+PA	3712505	Calle 6	residential	1	0	0	
+PA	3712505	Calle 7	residential	1	0	0	
+PA	3712505	Calle 8	residential	1	0	0	
+PA	3712505	Calle 9	residential	1	0	0	
+PA	3712505	Calle A	residential	1	0	0	
+PA	3712505	Calle B	residential	1	0	0	
+PA	3712505	Calle Balboa	residential	1	0	0	
+PA	3712505	Calle Balboa Norte	residential	1	0	0	
+PA	3712505	Calle Balboa Sur	residential	1	0	0	
+PA	3712505	Calle Bayano	residential	1	0	0	
+PA	3712505	Calle Bolívar	residential	1	0	0	
+PA	3712505	Calle C	residential	1	0	0	
+PA	3712505	Calle Central Cirilo J. Martínez	residential	1	0	0	
+PA	3712505	Calle Cuarta	residential	1	0	0	
+PA	3712505	Calle Córdoba	residential	1	0	0	
+PA	3712505	Calle D	residential	1	0	0	
+PA	3712514	Rio Iglesias - Chepigana	unclassified	1	0	0	
+PA	3712514	Vía Seteganti - Chepigana	residential	1	0	0	
+PA	3712560	Avenida 17 de Abril	tertiary	1	0	0	
+PA	3712560	Avenida Omar Torrijos Herrera	primary	1	0	0	
+PA	3712560	Calle 4 de Abril	residential	1	0	0	
+PA	3712560	Calle Capitán Manuel Niño	residential	1	0	0	
+PA	3712560	Calle Central	residential	1	0	0	
+PA	3712560	Calle Finca 6	tertiary	1	0	0	
+PA	3712560	Calle Hezekiah Reid	residential	1	0	0	
+PA	3712560	Callejo Finca 11	unclassified	1	0	0	
+PA	3712560	Carretera de Bonyik	tertiary	1	0	0	
+PA	3712560	Finca 8 Street	living_street	1	0	0	
+PA	3712560	Vía Changuinola - Guabito	primary	1	0	0	
+PA	3712560	Vía Charagre	unclassified	1	0	0	
+PA	3712560	Vía Finca 30	unclassified	1	0	0	
+PA	3712560	Vía Santa Marta	unclassified	1	0	0	
+PA	3712560	Vía Universidad	residential	1	0	0	
+PA	3712579	AV. La Paz	tertiary	1	0	0	
+PA	3712579	Calle 15 de Enero	residential	1	0	0	
+PA	3712579	Calle 19 de Marzo	residential	1	0	0	
+PA	3712579	Calle Agustín Pérez	secondary	1	0	0	
+PA	3712579	Calle Belisario Porras	tertiary	1	0	0	
+PA	3712579	Calle Cementerio	residential	1	0	0	
+PA	3712579	Calle Félix Calvo	residential	1	0	0	
+PA	3712579	Calle José Araúz	residential	1	0	0	
+PA	3712579	Calle Las Delicias	residential	1	0	0	
+PA	3712579	Calle Las Palmas	residential	1	0	0	
+PA	3712579	Calle Milly	residential	1	0	0	
+PA	3712579	Calle Mr Cook	residential	1	0	0	
+PA	3712602	Calle La Pita	secondary	1	0	0	
+PA	3712614	Vía Justo Fidel	tertiary	1	0	0	
+PA	3712628	Altos de Nazareth	living_street	1	0	0	
+PA	3712628	Paolo Ureno	residential	1	0	0	
+PA	3712636	Avenida Cerro Punta	tertiary	1	0	0	
+PA	3712636	Avenida Cerro Punta Sur	residential	1	0	0	
+PA	3712636	Avenida Entre Ríos	tertiary	1	0	0	
+PA	3712636	Avenida Guadalupe	tertiary	1	0	0	
+PA	3712636	CH-CP-05	unclassified	1	0	0	
+PA	3712636	CH-CP-07	unclassified	1	0	0	
+PA	3712636	CP-Las Nubes-01	unclassified	1	0	0	
+PA	3712636	Calle Garita	unclassified	1	0	0	
+PA	3712636	Calle La Filipina	unclassified	1	0	0	
+PA	3712636	Calle Los Fundadores Terralteños	tertiary	1	0	0	
+PA	3712636	Calle del Horticultor	tertiary	1	0	0	
+PA	3712636	Paseo Las Nubes	unclassified	1	0	0	
+PA	3712673	Vía Peña Blanca	secondary	1	0	0	
+PA	3712699	Vía Justo Fidel	unclassified	1	0	0	
+PA	3712765	Vía Cerro Cama - Arenosa	tertiary	1	0	0	
+PA	3712786	Ave Osaka	residential	1	0	0	
+PA	3712786	Avenida Los Cúmulos	residential	1	0	0	
+PA	3712786	Avenida los Geronios	residential	1	0	0	
+PA	3712786	Calle Antofalla	residential	1	0	0	
+PA	3712786	Calle Austuria	residential	1	0	0	
+PA	3712786	Calle Bruselas	residential	1	0	0	
+PA	3712786	Calle Camelias	residential	1	0	0	
+PA	3712786	Calle Copiapo	residential	1	0	0	
+PA	3712786	Calle Dlias	residential	1	0	0	
+PA	3712786	Calle Elbrus	residential	1	0	0	
+PA	3712786	Calle Finlandia	residential	1	0	0	
+PA	3712786	Calle Florencia	residential	1	0	0	
+PA	3712809	8013	tertiary	1	0	0	
+PA	3712828	Vía Aserrío de Gariché - San Andrés	secondary	1	0	0	
+PA	3712828	Vía Portón	tertiary	1	0	0	
+PA	3712862	Avenida Loma Azul	unclassified	1	0	0	
+PA	3712862	Avenida Tierra Oscura	unclassified	1	0	0	
+PA	3712862	Vía Almirante	primary	1	0	0	
+PA	3712862	Vía Rambála - Almirante	primary	1	0	0	
+PA	3712884	Avenida A	residential	1	0	0	
+PA	3712884	Avenida B	residential	1	0	0	
+PA	3712884	Avenida La Feria	residential	1	0	0	
+PA	3712884	Avenida Principal	residential	1	0	0	
+PA	3712884	Avenida Triunfante	tertiary	1	0	0	
+PA	3712884	Calle 1a	residential	1	0	0	
+PA	3712884	Calle 2a	residential	1	0	0	
+PA	3712884	Calle 3a	residential	1	0	0	
+PA	3712884	Calle 4a	residential	1	0	0	
+PA	3712884	Calle 5a	residential	1	0	0	
+PA	3712884	Calle 6a	residential	1	0	0	
+PA	3712884	Calle 7	residential	1	0	0	
+PA	3712884	Camino El Explosivo	tertiary	1	0	0	
+PA	3712884	Camino Llano Bonito	residential	1	0	0	
+PA	3712884	Camino Loma Bonita	residential	1	0	0	
+PA	3712884	Carretera Transístmica	primary	1	0	0	
+PA	3712884	Entrada Principal de Cativa	tertiary	1	0	0	
+PA	3712884	Vía Altos de los Lagos	tertiary	1	0	0	
+PA	3712884	Vía Bahía Las Minas	tertiary	1	0	0	
+PA	3712884	Vía Cativá	tertiary	1	0	0	
+PA	3712884	Vía San Judas Tadeo	residential	1	0	0	
+PA	3712884	Vía Villa del Carmen	tertiary	1	0	0	
+PA	3712951	Ruta Barsukan	tertiary	1	0	0	
+PA	3712951	Vía Nusagandi	secondary	1	0	0	
+PA	3713047	Avenida José Agustín Arango	residential	1	0	0	
+PA	3713047	Carretera Capira - Lídice	secondary	1	0	0	
+PA	3713047	Vía Cermeño	tertiary	1	0	0	
+PA	3713058	Avenida 12	residential	1	0	0	
+PA	3713058	Avenida 13	residential	1	0	0	
+PA	3713058	Avenida 17	residential	1	0	0	
+PA	3713058	Avenida 19	residential	1	0	0	
+PA	3713058	Avenida 2	residential	1	0	0	
+PA	3713058	Avenida 21	residential	1	0	0	
+PA	3713058	Avenida 23	residential	1	0	0	
+PA	3713058	Avenida 25	residential	1	0	0	
+PA	3713058	Avenida 27	residential	1	0	0	
+PA	3713058	Avenida 29	residential	1	0	0	
+PA	3713058	Avenida 29A	residential	1	0	0	
+PA	3713058	Avenida 3	residential	1	0	0	
+PA	3713065	Avenida 3	residential	26	48	88	
+PA	3713065	Avenida 1	residential	25	3	30	
+PA	3713065	Avenida 4	residential	12	1	27	
+PA	3713065	Calle 24 E Norte	secondary	12	1	23	
+PA	3713065	Avenida 2	residential	8	35	46	
+PA	3713065	Vereda 4	residential	7	59	69	
+PA	3713065	Vereda 3	residential	5	73	77	
+PA	3713065	Vereda 5	residential	5	65	70	
+PA	3713065	Vereda 2	residential	4	32	34	
+PA	3713065	Calle 1	residential	3	41	43	
+PA	3713065	22 C Norte	residential	1	0	0	
+PA	3713065	Andalucía	residential	1	0	0	
+PA	3713065	Avenida 17 D Norte	residential	1	0	0	
+PA	3713065	Avenida 18 E Norte	residential	1	0	0	
+PA	3713065	Avenida 19 E Norte	residential	1	0	0	
+PA	3713065	Avenida 20 C Norte	residential	1	0	0	
+PA	3713065	Avenida 20 E Norte	residential	1	0	0	
+PA	3713065	Avenida 21 E Norte	residential	1	0	0	
+PA	3713065	Avenida 22 C Norte	tertiary	1	0	0	
+PA	3713065	Avenida 23 C Norte	residential	1	0	0	
+PA	3713065	Avenida 24 C Norte	tertiary	1	0	0	
+PA	3713065	Avenida 24 D Norte	residential	1	0	0	
+PA	3713065	Avenida 25 D Norte	residential	1	0	0	
+PA	3713065	Avenida 26 C Norte	residential	1	0	0	
+PA	3713077	Bisira-Kankintu	unclassified	1	0	0	
+PA	3713131	Posible lindero	unclassified	1	0	0	
+PA	3713131	Posible lindero 1	unclassified	1	0	0	
+PA	3713131	Vía interna SBH Farms	unclassified	1	0	0	
+PA	3713189	Vía Cañazas - Pingandicito	unclassified	1	0	0	
+PA	3713196	Agua Amarilla - Cañazas	unclassified	1	0	0	
+PA	3713196	Agua Amarilla - Palo Verde	unclassified	1	0	0	
+PA	3713196	Calle Polo Sur	tertiary	1	0	0	
+PA	3713196	Las Trancas	tertiary	1	0	0	
+PA	3713196	Via Principal	secondary	1	0	0	
+PA	3713196	Vía Cañazas	secondary	1	0	0	
+PA	3713196	Vía San Juan de Dios	tertiary	1	0	0	
+PA	3713208	Vía Santa María - Madera	tertiary	1	0	0	
+PA	3713212	Calle Binacional	unclassified	1	0	0	
+PA	3713212	Calle Cañas Gordas	unclassified	1	0	0	
+PA	3713212	Calle Escuela	residential	1	0	0	
+PA	3713212	Calle Fernández Cruz	unclassified	1	0	0	
+PA	3713212	Calle La Laguna	unclassified	1	0	0	
+PA	3713212	Calle La Vuelta	unclassified	1	0	0	
+PA	3713212	Calle Los Castro	unclassified	1	0	0	
+PA	3713212	Calle Los Lobo	unclassified	1	0	0	
+PA	3713212	Calle Los Polacos	unclassified	1	0	0	
+PA	3713212	Calle Matasano	unclassified	1	0	0	
+PA	3713212	Calle Ramal Laguna 4	unclassified	1	0	0	
+PA	3713212	Calle Salón Comunal	unclassified	1	0	0	
+PA	3713224	Calle Las Veraneras	unclassified	1	0	0	
+PA	3713224	Vía Dr. Belisario Porras	secondary	1	0	0	
+PA	3713381	Vía Nuevo México - Nuevo Caimitillo	tertiary	1	0	0	
+PA	3713396	Cementerio de Calobre	unclassified	1	0	0	
+PA	3713396	Entrada Balneario los Chorros	unclassified	1	0	0	
+PA	3713415	Avenida Justo Arosemena	tertiary	1	0	0	
+PA	3713415	Calle 30 Este	residential	1	0	0	
+PA	3713415	Calle 31 Este	residential	1	0	0	
+PA	3713415	Calle 32 Este	residential	1	0	0	
+PA	3713430	<<Vía El Macano - Caldera>>	unclassified	1	0	0	
+PA	3713430	<<Vía Gualaca - Caldera>>	tertiary	1	0	0	
+PA	3713430	Caldera	tertiary	1	0	0	
+PA	3713430	Calderita	unclassified	1	0	0	
+PA	3713430	Calle 6	residential	1	0	0	
+PA	3713430	Calle 7	residential	1	0	0	
+PA	3713430	Puente sobre Río Caldera	tertiary	1	0	0	
+PA	3713430	Vía Caldera	tertiary	1	0	0	
+PA	3713430	Vía Gualaca - Caldera	tertiary	1	0	0	
+PA	3713490	Caimito	secondary	1	0	0	
+PA	3713490	Chiguiri Arriba	secondary	1	0	0	
+PA	3713490	Public access road , non-residential	unclassified	1	0	0	
+PA	3713491	Avenida 1a Este	unclassified	1	0	0	
+PA	3713491	Calle 2a Oeste	tertiary	1	0	0	
+PA	3713491	Calle Franklin Anguizola Sagel	unclassified	1	0	0	
+PA	3713491	Vía Boquete	primary	1	0	0	
+PA	3713491	Vía El Pinar	unclassified	1	0	0	
+PA	3713491	Vía Rincón Largo	tertiary	1	0	0	
+PA	3713499	Calle Calzada Larga	tertiary	1	0	0	
+PA	3713499	Calle San Simon	residential	1	0	0	
+PA	3713499	Vía Caimitillo - La Cabima	tertiary	1	0	0	
+PA	3713499	Vía Nuevo México - Nuevo Caimitillo	tertiary	1	0	0	
+PA	3713571	Vía. Cabuya	tertiary	1	0	0	
+PA	3713588	Avenida Llanos de Cerro Azul	residential	1	0	0	
+PA	3713588	Avenida Primera	residential	1	0	0	
+PA	3713588	Calle 1	residential	1	0	0	
+PA	3713588	Calle 10ma	residential	1	0	0	
+PA	3713588	Calle 2	residential	1	0	0	
+PA	3713588	Calle 5ta	residential	1	0	0	
+PA	3713588	Calle 7	residential	1	0	0	
+PA	3713588	Calle 8va	residential	1	0	0	
+PA	3713588	Calle 9na	residential	1	0	0	
+PA	3713588	Calle A	residential	1	0	0	
+PA	3713588	Calle De Cabra	residential	1	0	0	
+PA	3713588	Carretera José Múñoz Meneses	secondary	1	0	0	
+PA	3713637	Vía Antón - El Valle	secondary	1	0	0	
+PA	3713648	Calle J. Melony	tertiary	1	0	0	
+PA	3713648	Calle Los Mellos	residential	1	0	0	
+PA	3713648	Vereda 4	residential	1	0	0	
+PA	3713648	Vereda 6	residential	1	0	0	
+PA	3713664	Avenida 4a Norte	residential	1	0	0	
+PA	3713664	Calle El Encanto	residential	1	0	0	
+PA	3713664	Vía Bugabita Arriba	tertiary	1	0	0	
+PA	3713667	Calle 6a Este	residential	1	0	0	
+PA	3713667	Vía Santo Tomás	secondary	1	0	0	
+PA	3713678	Las Azucenas	residential	1	0	0	
+PA	3713678	Las Begonias	residential	1	0	0	
+PA	3713678	Los Rosales	residential	1	0	0	
+PA	3713678	Vía Bejuco - Sorá	secondary	1	0	0	
+PA	3713682	Vía Guayabito	tertiary	1	0	0	
+PA	3713715	Camino de la Fábrica de Minerales	unclassified	1	0	0	
+PA	3713715	Residencial Buena Vista	residential	1	0	0	
+PA	3713715	Vía Buena Vista - Altos de Divisa	residential	1	0	0	
+PA	3713715	Vía de Entrada a Sardinilla	tertiary	1	0	0	
+PA	3713783	Calle Altos del Brujo	unclassified	1	0	0	
+PA	3713783	Calle Cerro Brujo	unclassified	1	0	0	
+PA	3713783	Calle San Antonio	unclassified	1	0	0	
+PA	3713783	Chiriquí Viejo - Breñón	tertiary	1	0	0	
+PA	3713783	Salitral - Baitun	unclassified	1	0	0	
+PA	3713783	Vía Paso Canoas - Río Sereno	tertiary	1	0	0	
+PA	3713843	Calle Principal Boró	tertiary	1	0	0	
+PA	3713843	Vía Boró	tertiary	1	0	0	
+PA	3713860	Volcancito Village Street	living_street	16	1	14	
+PA	3713860	Village Drive	living_street	5	19	31	
+PA	3713860	Avenida El Santuario		2	361	1971	
+PA	3713860	Alto Chiquero	unclassified	1	0	0	
+PA	3713860	Avenida Arco Iris	residential	1	0	0	
+PA	3713860	Avenida Belisario Porras	pedestrian	1	0	0	
+PA	3713860	Avenida Buenos Aires	secondary	1	0	0	
+PA	3713860	Avenida C Oeste	residential	1	0	0	
+PA	3713860	Avenida Centenario	residential	1	0	0	
+PA	3713860	Avenida Central	primary	1	0	0	
+PA	3713860	Avenida Circunvalación Volcancito	tertiary	1	0	0	
+PA	3713860	Avenida D Oeste	residential	1	0	0	
+PA	3713860	Avenida Kevilgo	residential	1	0	0	
+PA	3713860	Bajo Mono	tertiary	1	0	0	
+PA	3713860	Calle 11 de abril	tertiary	1	0	0	
+PA	3713860	Calle 1a	residential	1	0	0	
+PA	3713860	Calle 1ra Norte	residential	1	0	0	
+PA	3713860	Calle 2a	residential	1	0	0	
+PA	3713860	Calle 2a Sur	residential	1	0	0	
+PA	3713860	Calle 2da Norte	tertiary	1	0	0	
+PA	3713860	Calle 3a	residential	1	0	0	
+PA	3713860	Calle 3a Norte	residential	1	0	0	
+PA	3713860	Calle 3a Sur	pedestrian	1	0	0	
+PA	3713860	Calle 4a Norte	residential	1	0	0	
+PA	3713873	Avenida Cerro Colorado	secondary	1	0	0	
+PA	3713873	Calle A	living_street	1	0	0	
+PA	3713873	Calle Cementerio	living_street	1	0	0	
+PA	3713873	Calle Corozal "B"	living_street	1	0	0	
+PA	3713873	Calle La Guinea	secondary	1	0	0	
+PA	3713873	Calle La Juventud "B"	living_street	1	0	0	
+PA	3713873	Calle Principal	living_street	1	0	0	
+PA	3713873	Vía Boquerón	secondary	1	0	0	
+PA	3713873	Vía Boquerón Viejo	tertiary	1	0	0	
+PA	3713873	Vía Boquerón-Bocalatun	tertiary	1	0	0	
+PA	3713873	Vía Bágala - Guabal	tertiary	1	0	0	
+PA	3713873	Vía Bágala - Majagua	tertiary	1	0	0	
+PA	3713959	Jungle Bluff Beach Paradise Road		7	4	6	
+PA	3713959	Avenida G	residential	4	47	2316	
+PA	3713959	Avenida A	residential	1	0	0	
+PA	3713959	Avenida B	residential	1	0	0	
+PA	3713959	Avenida C	residential	1	0	0	
+PA	3713959	Avenida Central	residential	1	0	0	
+PA	3713959	Avenida D	residential	1	0	0	
+PA	3713959	Avenida E	residential	1	0	0	
+PA	3713959	Avenida F	residential	1	0	0	
+PA	3713959	Avenida H	residential	1	0	0	
+PA	3713959	Calle 10a	residential	1	0	0	
+PA	3713959	Calle 11a	residential	1	0	0	
+PA	3713959	Calle 12a	residential	1	0	0	
+PA	3713959	Calle 13a	residential	1	0	0	
+PA	3713959	Calle 14a	residential	1	0	0	
+PA	3713959	Calle 15a	unclassified	1	0	0	
+PA	3713959	Calle 1a	residential	1	0	0	
+PA	3713959	Calle 2a	residential	1	0	0	
+PA	3713959	Calle 3a	residential	1	0	0	
+PA	3713959	Calle 4a	residential	1	0	0	
+PA	3713959	Calle 5a	residential	1	0	0	
+PA	3713959	Calle 6a	residential	1	0	0	
+PA	3713959	Calle 7a	residential	1	0	0	
+PA	3713959	Calle 8a	residential	1	0	0	
+PA	3714013	Vía Nuevo Chagres - Miguel de la Borda	secondary	1	0	0	
+PA	3714021	Vía Soloy	secondary	1	0	0	
+PA	3714063	Paso Aguila		8	1	8	
+PA	3714063	Via Punta Bejuco	residential	1	0	0	
+PA	3714063	Vía Boca Chica	secondary	1	0	0	
+PA	3714063	Vía Playa Hermosa	residential	1	0	0	
+PA	3714101	Bisira-Kankintu	unclassified	1	0	0	
+PA	3714101	Vía Kankintú	secondary	1	0	0	
+PA	3714123	Vía Bijagual	residential	1	0	0	
+PA	3714166	Avenida Central España	secondary	1	0	0	
+PA	3714176	Vía Dr. Belisario Porras	primary	1	0	0	
+PA	3714201	Avenida Roosevelt	residential	1	0	0	
+PA	3714201	Las Torres	unclassified	1	0	0	
+PA	3714201	Vía Bejuco - Sorá	secondary	1	0	0	
+PA	3714201	Vía Punta Chame	secondary	1	0	0	
+PA	3714231	Vía Canajagua	unclassified	1	0	0	
+PA	3714260	Red Frog Beach Residential I	residential	1	0	0	
+PA	3714260	Red Frog Beach Residential II	unclassified	1	0	0	
+PA	3714334	Carretera Toza - Las Huacas	tertiary	1	0	0	
+PA	3714336	Calle Fincas Bananeras	unclassified	1	0	0	
+PA	3714336	Calle La Finca	unclassified	1	0	0	
+PA	3714336	Calle Tanagra	unclassified	1	0	0	
+PA	3714336	Calle Zavala	unclassified	1	0	0	
+PA	3714336	Corredor Caribe	primary	1	0	0	
+PA	3714426	Avenida Emanuel Vergara	residential	1	0	0	
+PA	3714426	Calle Ernesto J. Castillero	residential	1	0	0	
+PA	3714426	Calle Ladislao Osorio	unclassified	1	0	0	
+PA	3714439	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	3714513	Avenida B Este	residential	1	0	0	
+PA	3714513	Avenida B Oeste	residential	1	0	0	
+PA	3714513	Avenida Buenos Aires	residential	1	0	0	
+PA	3714513	Avenida Centenario	residential	1	0	0	
+PA	3714513	Avenida Circunvalación Volcancito	tertiary	1	0	0	
+PA	3714513	Calle 10a Sur	residential	1	0	0	
+PA	3714513	Calle 11a Sur	residential	1	0	0	
+PA	3714513	Calle 12a Sur	residential	1	0	0	
+PA	3714513	Calle 13a Sur	residential	1	0	0	
+PA	3714513	Calle 14a Sur	residential	1	0	0	
+PA	3714513	Calle 4a Sur	tertiary	1	0	0	
+PA	3714513	Calle 6a Sur	residential	1	0	0	
+PA	3714543	Calle Santa Lucia	residential	1	0	0	
+PA	3714543	Vía Bágala	residential	1	0	0	
+PA	3714543	Vía Bágala - Majagua	tertiary	1	0	0	
+PA	3714579	Vía Dr. Belisario Porras	tertiary	1	0	0	
+PA	3714598	Avenida B	residential	1	0	0	
+PA	3714598	Avenida Central	secondary	1	0	0	
+PA	3714598	Avenida E	residential	1	0	0	
+PA	3714598	Avenida G	residential	1	0	0	
+PA	3714598	Avenida Jesús Nazareno	residential	1	0	0	
+PA	3714598	Avenida Primera	residential	1	0	0	
+PA	3714598	Avenida Sur	residential	1	0	0	
+PA	3714598	Calle 1	residential	1	0	0	
+PA	3714598	Calle 10	residential	1	0	0	
+PA	3714598	Calle 11	residential	1	0	0	
+PA	3714598	Calle 12	residential	1	0	0	
+PA	3714598	Calle 13	residential	1	0	0	
+PA	3714611	Antiguas Líneas del Ferrocarril	residential	1	0	0	
+PA	3714611	Aserrío de Gariché - Barro Blanco	unclassified	1	0	0	
+PA	3714611	Calle de Qbda Negra	residential	1	0	0	
+PA	3714611	Vía Aserrío de Gariché - San Andrés	secondary	1	0	0	
+PA	3714637	Calle G	residential	9	104	112	
+PA	3714637	Acceso 1	living_street	1	0	0	
+PA	3714637	Acceso 10	living_street	1	0	0	
+PA	3714637	Acceso 11	living_street	1	0	0	
+PA	3714637	Acceso 2	living_street	1	0	0	
+PA	3714637	Acceso 3	living_street	1	0	0	
+PA	3714637	Acceso 4	living_street	1	0	0	
+PA	3714637	Avenida	residential	1	0	0	
+PA	3714637	Avenida 1	residential	1	0	0	
+PA	3714637	Avenida 2	residential	1	0	0	
+PA	3714637	Avenida 20 de Agosto	unclassified	1	0	0	
+PA	3714637	Avenida 3	residential	1	0	0	
+PA	3714637	Avenida Altos de Cáceres	residential	1	0	0	
+PA	3714637	Avenida Bertsch	residential	1	0	0	
+PA	3714637	Avenida Bottoms	residential	1	0	0	
+PA	3714637	Avenida Brisas del Sol	residential	1	0	0	
+PA	3714637	Avenida Continental	tertiary	1	0	0	
+PA	3714637	Avenida El Palmar	residential	1	0	0	
+PA	3714637	Avenida El Sol	residential	1	0	0	
+PA	3714637	Avenida Goffey	residential	1	0	0	
+PA	3714637	Avenida Goodman	residential	1	0	0	
+PA	3714637	Avenida Hendrikson	unclassified	1	0	0	
+PA	3714637	Avenida King	unclassified	1	0	0	
+PA	3714637	Avenida La Arboleda	residential	1	0	0	
+PA	3714637	Avenida La Estancia	residential	1	0	0	
+PA	3714637	Avenida La Gran Vía	residential	1	0	0	
+PA	3714637	Avenida La Luna	residential	1	0	0	
+PA	3714637	Avenida Lamp Row	unclassified	1	0	0	
+PA	3714637	Avenida Las Acacias	tertiary	1	0	0	
+PA	3714637	Avenida Lloyd	residential	1	0	0	
+PA	3714637	Avenida Mitchum	residential	1	0	0	
+PA	3714637	Avenida Montevista	residential	1	0	0	
+PA	3714637	Avenida Moths Row	unclassified	1	0	0	
+PA	3714637	Avenida Mulvehill	unclassified	1	0	0	
+PA	3714637	Avenida Omar Torrijos	secondary	1	0	0	
+PA	3714637	Avenida Panamá Pacífico	secondary	1	0	0	
+PA	3714637	Avenida Pelfrey	residential	1	0	0	
+PA	3714637	Avenida Pitcher	residential	1	0	0	
+PA	3714637	Avenida Principal La Arboleda	residential	1	0	0	
+PA	3714637	Avenida Rofi	unclassified	1	0	0	
+PA	3714637	Avenida Rogelio Arosemena	tertiary	1	0	0	
+PA	3714637	Avenida Vargas	residential	1	0	0	
+PA	3714637	Avenida Villas El Corrizal	residential	1	0	0	
+PA	3714637	Avenida del Espavé	residential	1	0	0	
+PA	3714637	Boulevard Principal	residential	1	0	0	
+PA	3714637	Bulevar Andrews	secondary	1	0	0	
+PA	3714637	Bulevar de las Américas	secondary	1	0	0	
+PA	3714637	CALLE B	residential	1	0	0	
+PA	3714637	Calle 1	residential	1	0	0	
+PA	3714637	Calle 10	residential	1	0	0	
+PA	3714637	Calle 10a	residential	1	0	0	
+PA	3714637	Calle 11	residential	1	0	0	
+PA	3714637	Calle 11 de Octubre	residential	1	0	0	
+PA	3714637	Calle 12	residential	1	0	0	
+PA	3714637	Calle 13	residential	1	0	0	
+PA	3714637	Calle 14	residential	1	0	0	
+PA	3714637	Calle 15	residential	1	0	0	
+PA	3714637	Calle 16	residential	1	0	0	
+PA	3714637	Calle 1a	residential	1	0	0	
+PA	3714637	Calle 1ª	residential	1	0	0	
+PA	3714637	Calle 2	residential	1	0	0	
+PA	3714637	Calle 2 de Mayo	tertiary	1	0	0	
+PA	3714637	Calle 25 de Diciembre	residential	1	0	0	
+PA	3714637	Calle 28 de Noviembre	residential	1	0	0	
+PA	3714637	Calle 2a	residential	1	0	0	
+PA	3714637	Calle 2ª	residential	1	0	0	
+PA	3714637	Calle 3	residential	1	0	0	
+PA	3714637	Calle 3a	residential	1	0	0	
+PA	3714637	Calle 3ra.	residential	1	0	0	
+PA	3714637	Calle 3ª	residential	1	0	0	
+PA	3714637	Calle 4	residential	1	0	0	
+PA	3714637	Calle 4a	residential	1	0	0	
+PA	3714637	Calle 4ta.	residential	1	0	0	
+PA	3714637	Calle 4ª	residential	1	0	0	
+PA	3714637	Calle 5	residential	1	0	0	
+PA	3714637	Calle 50	unclassified	1	0	0	
+PA	3714637	Calle 53 Oeste	residential	1	0	0	
+PA	3714637	Calle 54 Oeste	residential	1	0	0	
+PA	3714637	Calle 56 Oeste	residential	1	0	0	
+PA	3714637	Calle 57 Oeste	residential	1	0	0	
+PA	3714637	Calle 5a	residential	1	0	0	
+PA	3714637	Calle 5ta	residential	1	0	0	
+PA	3714637	Calle 5ª	residential	1	0	0	
+PA	3714637	Calle 6	residential	1	0	0	
+PA	3714637	Calle 6a	residential	1	0	0	
+PA	3714637	Calle 6ta	living_street	1	0	0	
+PA	3714637	Calle 6ta Ph Caobos	residential	1	0	0	
+PA	3714637	Calle 6ª	residential	1	0	0	
+PA	3714637	Calle 7	residential	1	0	0	
+PA	3714637	Calle 7 J	residential	1	0	0	
+PA	3714637	Calle 7 de Septiembre	tertiary	1	0	0	
+PA	3714637	Calle 7a	residential	1	0	0	
+PA	3714637	Calle 7ma	residential	1	0	0	
+PA	3714637	Calle 7ma.	residential	1	0	0	
+PA	3714637	Calle 8	residential	1	0	0	
+PA	3714637	Calle 8 J	residential	1	0	0	
+PA	3714637	Calle 8 de Diciembre	residential	1	0	0	
+PA	3714637	Calle 8a	residential	1	0	0	
+PA	3714637	Calle 9	residential	1	0	0	
+PA	3714637	Calle 9a	residential	1	0	0	
+PA	3714658	Vía Cerro Cama - Arenosa	residential	1	0	0	
+PA	3714710	Avenida 10a	residential	1	0	0	
+PA	3714710	Avenida 11a	residential	1	0	0	
+PA	3714710	Avenida 12a	residential	1	0	0	
+PA	3714710	Avenida 13a	residential	1	0	0	
+PA	3714710	Avenida 1a	residential	1	0	0	
+PA	3714710	Avenida 2a	residential	1	0	0	
+PA	3714710	Avenida 3a	residential	1	0	0	
+PA	3714710	Avenida 4a	residential	1	0	0	
+PA	3714710	Avenida 5a	residential	1	0	0	
+PA	3714710	Avenida 6a	residential	1	0	0	
+PA	3714710	Avenida 7a	residential	1	0	0	
+PA	3714710	Avenida 8a	residential	1	0	0	
+PA	3714710	Avenida 9a	residential	1	0	0	
+PA	3714710	Calle 10a	residential	1	0	0	
+PA	3714710	Calle 11a	residential	1	0	0	
+PA	3714710	Calle 12a	residential	1	0	0	
+PA	3714710	Calle 13a	residential	1	0	0	
+PA	3714710	Calle 14a	residential	1	0	0	
+PA	3714710	Calle 15a	residential	1	0	0	
+PA	3714710	Calle 1a	residential	1	0	0	
+PA	3714710	Calle 2a	residential	1	0	0	
+PA	3714710	Calle 3a	residential	1	0	0	
+PA	3714710	Calle 4a	residential	1	0	0	
+PA	3714710	Calle 5a	residential	1	0	0	
+PA	3714734	Avenida Omar Torrijos Herrera	primary	4	0	0	
+PA	3714734	Las Cruces Street	residential	3	744	748	
+PA	3714734	Avenida Balboa (Arnulfo A Madrid)		2	752	754	
+PA	3714734	Avenida Romulo Escobar Bethancourt		2	743	761	
+PA	3714734	Calle Erasmo Mendez Icaza		2	116	118	
+PA	3714734	Calle del Prado		2	722	722	
+PA	3714734	Ashton	residential	1	0	0	
+PA	3714734	Avenida Amador	primary	1	0	0	
+PA	3714734	Avenida Arnulfo Arias Madrid	primary	1	0	0	
+PA	3714734	Avenida Ascanio Arosemena Chávez	primary	1	0	0	
+PA	3714734	Avenida Ascanio Villalaz	secondary	1	0	0	
+PA	3714734	Avenida Emanuel Vergara	residential	1	0	0	
+PA	3714734	Avenida Roberto F. Chiari	residential	1	0	0	
+PA	3714734	Avenida Roosevelt	primary	1	0	0	
+PA	3714734	Avenida de la Amistad	primary	1	0	0	
+PA	3714734	Barnebey	residential	1	0	0	
+PA	3714734	Calle Amelia Denis de Icaza	residential	1	0	0	
+PA	3714734	Calle Bayano	residential	1	0	0	
+PA	3714734	Calle Chagres	residential	1	0	0	
+PA	3714734	Calle Couvreux	unclassified	1	0	0	
+PA	3714734	Calle Culebra Rl	residential	1	0	0	
+PA	3714734	Calle Dirks	residential	1	0	0	
+PA	3714734	Calle Enrique Laures	residential	1	0	0	
+PA	3714734	Calle Erasmo Méndez Icaza	residential	1	0	0	
+PA	3714734	Calle Estacionamientos	residential	1	0	0	
+PA	3714734	Calle Estudiante	residential	1	0	0	
+PA	3714734	Calle Fontant	residential	1	0	0	
+PA	3714734	Calle George W. Goethals	residential	1	0	0	
+PA	3714734	Calle Gorgas	tertiary	1	0	0	
+PA	3714734	Calle H	residential	1	0	0	
+PA	3714734	Calle Haychel Wong de González	residential	1	0	0	
+PA	3714734	Calle I	residential	1	0	0	
+PA	3714734	Calle John F. Stevens	residential	1	0	0	
+PA	3714734	Calle Juan de Arco Galindo	residential	1	0	0	
+PA	3714734	Calle Leonardo Villanueva	residential	1	0	0	
+PA	3714734	Calle Loro	residential	1	0	0	
+PA	3714734	Calle Manzanillo	residential	1	0	0	
+PA	3714734	Calle Perico	residential	1	0	0	
+PA	3714734	Calle Portobelo	residential	1	0	0	
+PA	3714734	Calle Roberto López Fábrega	tertiary	1	0	0	
+PA	3714734	Calle Tabernilla	residential	1	0	0	
+PA	3714734	Calle Tomás Guardia	residential	1	0	0	
+PA	3714734	Calle Voise	residential	1	0	0	
+PA	3714734	Calle Víctor Tejeira	residential	1	0	0	
+PA	3714734	Calle de la Boca	residential	1	0	0	
+PA	3714734	Camino Quarry Heights	residential	1	0	0	
+PA	3714734	Carretera Wahoo	unclassified	1	0	0	
+PA	3714734	Cascadas Road	residential	1	0	0	
+PA	3714771	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	3714776	Alto Chiquero	unclassified	1	0	0	
+PA	3714776	Bajo Mono	unclassified	1	0	0	
+PA	3714776	Calle Basilo Quíel Araúz	unclassified	1	0	0	
+PA	3714776	Calle a Alto Quiel	unclassified	1	0	0	
+PA	3714776	Callejón Seco	unclassified	1	0	0	
+PA	3714776	Cima del Volcán Barú (PNVB)	unclassified	1	0	0	
+PA	3714776	Horqueta	unclassified	1	0	0	
+PA	3714776	Sendero Los Quetzales	unclassified	1	0	0	
+PA	3714784	Avenida Buenos Aires	secondary	1	0	0	
+PA	3714784	Avenida El Santuario	residential	1	0	0	
+PA	3714849	Avenida Principal	secondary	2	983	983	
+PA	3714849	Alto de la Estancia	secondary	1	0	0	
+PA	3714849	Alto de la estancia	secondary	1	0	0	
+PA	3714849	Calle Coronado	residential	1	0	0	
+PA	3714849	Calle La Compañía	secondary	1	0	0	
+PA	3714849	Calle La Pintada	tertiary	1	0	0	
+PA	3714849	Calle La Planta	residential	1	0	0	
+PA	3714849	Calle La Reforma	residential	1	0	0	
+PA	3714849	Calle Lopez	residential	1	0	0	
+PA	3714849	Calle Los Millionares	tertiary	1	0	0	
+PA	3714849	Calle Mariagar	residential	1	0	0	
+PA	3714849	Calle del Macho	tertiary	1	0	0	
+PA	3714873	Vía Peña Blanca	secondary	1	0	0	
+PA	3714875	Calle Nísperos	living_street	5	90	139	
+PA	3714875	Avenida 1a Este	residential	1	0	0	
+PA	3714875	Avenida 1a Oeste	residential	1	0	0	
+PA	3714875	Avenida 2a Este	residential	1	0	0	
+PA	3714875	Avenida 2a Oeste	residential	1	0	0	
+PA	3714875	Avenida 3a Este	residential	1	0	0	
+PA	3714875	Avenida 3a Oeste	residential	1	0	0	
+PA	3714875	Avenida 4a Este	residential	1	0	0	
+PA	3714875	Avenida 4a Oeste	residential	1	0	0	
+PA	3714875	Avenida 5a Oeste	residential	1	0	0	
+PA	3714875	Avenida 6a Oeste	residential	1	0	0	
+PA	3714875	Avenida 7a Oeste	residential	1	0	0	
+PA	3714896	Antiguo Ferrocarril	tertiary	1	0	0	
+PA	3714896	Avenida 1	residential	1	0	0	
+PA	3714896	Avenida 10	residential	1	0	0	
+PA	3714896	Avenida 11	residential	1	0	0	
+PA	3714896	Avenida 2	residential	1	0	0	
+PA	3714896	Avenida 3	residential	1	0	0	
+PA	3714896	Avenida 4	residential	1	0	0	
+PA	3714896	Avenida 5	residential	1	0	0	
+PA	3714896	Avenida 6	residential	1	0	0	
+PA	3714896	Avenida 8	residential	1	0	0	
+PA	3714896	Avenida Nance de Riscó	tertiary	1	0	0	
+PA	3714896	Calle D Norte	residential	1	0	0	
+PA	3714896	Calle E Norte	residential	1	0	0	
+PA	3714896	Calle F Norte	residential	1	0	0	
+PA	3714896	Calle G Norte	residential	1	0	0	
+PA	3714896	Calle H Norte	residential	1	0	0	
+PA	3714896	Calle I Norte	residential	1	0	0	
+PA	3714896	Calle I Sur	tertiary	1	0	0	
+PA	3714896	Calle J Norte	residential	1	0	0	
+PA	3714896	Calle J Sur	residential	1	0	0	
+PA	3714896	Calle K Sur	residential	1	0	0	
+PA	3714896	Calle L Sur	residential	1	0	0	
+PA	3714896	Calle M Norte	residential	1	0	0	
+PA	3714896	Calle N Norte	residential	1	0	0	
+PA	3714932	Avenida Bolivariana	tertiary	1	0	0	
+PA	3714932	Avenida Francisco Arias Paredes	tertiary	1	0	0	
+PA	3714932	Barriada las Balnina	residential	1	0	0	
+PA	3714932	Calle Alto Milagro - hacia galera	residential	1	0	0	
+PA	3714932	Calle América	residential	1	0	0	
+PA	3714932	Calle Atardecer	residential	1	0	0	
+PA	3714932	Calle Boyacá	residential	1	0	0	
+PA	3714932	Calle Central Alcalde Díaz	tertiary	1	0	0	
+PA	3714932	Calle Colón	residential	1	0	0	
+PA	3714932	Calle Cuarta	residential	1	0	0	
+PA	3714932	Calle E	residential	1	0	0	
+PA	3714932	Calle Ecuador	residential	1	0	0	
+PA	3714932	Calle El Bosque	residential	1	0	0	
+PA	3714932	Calle El Valle	residential	1	0	0	
+PA	3714932	Calle Garrido	residential	1	0	0	
+PA	3714932	Calle Guyaquil	residential	1	0	0	
+PA	3714932	Calle H	residential	1	0	0	
+PA	3714932	Calle Huanuco	residential	1	0	0	
+PA	3714932	Calle I	residential	1	0	0	
+PA	3714932	Calle La Esperanza	residential	1	0	0	
+PA	3714932	Calle La Montaña	residential	1	0	0	
+PA	3714932	Calle La Pintada	residential	1	0	0	
+PA	3714932	Calle Las Camelias	residential	1	0	0	
+PA	3714932	Calle Las Tablas	residential	1	0	0	
+PA	3714932	Calle Los Rayitos	residential	1	0	0	
+PA	3714932	Calle Novena	residential	1	0	0	
+PA	3714932	Calle Octava	residential	1	0	0	
+PA	3714932	Calle Olá	residential	1	0	0	
+PA	3714932	Calle Otoño	residential	1	0	0	
+PA	3714932	Calle Primera	residential	1	0	0	
+PA	3714932	Calle Quinta	residential	1	0	0	
+PA	3714932	Calle San Martín	residential	1	0	0	
+PA	3714932	Calle San Simon	residential	1	0	0	
+PA	3714932	Calle Santa Gertrudis	residential	1	0	0	
+PA	3714932	Calle Santa Rosa	residential	1	0	0	
+PA	3714932	Calle Santa Rosa Chica	residential	1	0	0	
+PA	3714932	Calle Segunda	residential	1	0	0	
+PA	3714932	Calle Sexta	residential	1	0	0	
+PA	3714932	Calle Séptima	residential	1	0	0	
+PA	3714932	Calle Tercera	residential	1	0	0	
+PA	3714932	Calle Valencia	residential	1	0	0	
+PA	3714932	Calle Verdoa	residential	1	0	0	
+PA	3714932	Calle Victoria	residential	1	0	0	
+PA	3714932	Calle de la Arboleda	residential	1	0	0	
+PA	3714932	Calle de las Veraneras	residential	1	0	0	
+PA	3714932	Calle del IDAAN	unclassified	1	0	0	
+PA	3714932	Calle del Manantial	residential	1	0	0	
+PA	3714932	Calle del Sol	residential	1	0	0	
+PA	3714939	Alanje 14	unclassified	1	0	0	
+PA	3714939	Antiguas Vías de Ferrocarril	unclassified	1	0	0	
+PA	3714939	Calle Aurelio Quintero	residential	1	0	0	
+PA	3714939	Calle Carlos E. Aparicio	tertiary	1	0	0	
+PA	3714939	Calle Euclides Torres	residential	1	0	0	
+PA	3714939	Calle La Barqueta	tertiary	1	0	0	
+PA	3714939	Calle La Pita	tertiary	1	0	0	
+PA	3714939	Calle Manuel Morales	unclassified	1	0	0	
+PA	3714939	Calle Mostrenco	tertiary	1	0	0	
+PA	3714939	Calle Nico Olaya	residential	1	0	0	
+PA	3714939	Las Moras - Guasimo	unclassified	1	0	0	
+PA	3714939	Palo Grande	unclassified	1	0	0	
+PA	3715042	Avenida 03 de Nobiembre	residential	1	0	0	
+PA	3715042	Avenida 08 de Diciembre	residential	1	0	0	
+PA	3715042	Avenida 23 de Febrero	residential	1	0	0	
+PA	3715042	Avenida 26 de Julio	residential	1	0	0	
+PA	3715042	Avenida 28 de Noviembre	residential	1	0	0	
+PA	3715042	Avenida 4a Oeste	residential	1	0	0	
+PA	3715042	Avenida Alejandro Tapia	tertiary	1	0	0	
+PA	3715042	Avenida Alto Lindo	residential	1	0	0	
+PA	3715042	Avenida Central Bulevar	residential	1	0	0	
+PA	3715042	Avenida Chiriquí	residential	1	0	0	
+PA	3715042	Avenida Cuba	residential	1	0	0	
+PA	3715042	Avenida Domingo de León	residential	1	0	0	
+PA	3715042	Avenida Don Bosco	residential	1	0	0	
+PA	3715042	Avenida El Estudiante	residential	1	0	0	
+PA	3715042	Avenida Holanda	residential	1	0	0	
+PA	3715042	Avenida Los Marineros	residential	1	0	0	
+PA	3715042	Avenida Los Pinos	residential	1	0	0	
+PA	3715042	Avenida Manuel Robles	residential	1	0	0	
+PA	3715042	Avenida Marco Robles	residential	1	0	0	
+PA	3715042	Avenida Melchor Lasso de la Vega	residential	1	0	0	
+PA	3715042	Avenida Octavio Méndez	tertiary	1	0	0	
+PA	3715042	Avenida Olá	residential	1	0	0	
+PA	3715042	Avenida Pablo Arosemena	residential	1	0	0	
+PA	3715042	Avenida Pozo Azul	residential	1	0	0	
+PA	3715088	Avenida 2a	living_street	1	0	0	
+PA	3715088	Calle 5a	living_street	1	0	0	
+PA	3715088	Paso Aguacatal	residential	1	0	0	
+PA	3715111	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	3715161	Vía La Treinticinco	secondary	1	0	0	
+PA	3764114	Carretera Panamericana	primary	1	0	0	
+PA	3764343	Camino Sierra Llorona	tertiary	1	0	0	
+PA	7543540	Carretera Panamericana	primary	1	0	0	
+PA	8643384	Vía Garachiné - Sambú	residential	1	0	0	
+PA	8643384	Vía Taimatí - Sambú	tertiary	1	0	0	
+PA	9252016	Vía Garachiné - Sambú	tertiary	1	0	0	
+PA	9252016	Vía Río Sábalo	tertiary	1	0	0	
+PA	9409143	Avenida Mimosa	residential	1	0	0	
+PA	9409143	Avenida Panamá Pacífico	secondary	1	0	0	
+PA	9409143	Avenida Poinciana	residential	1	0	0	
+PA	9409143	Calle 50	residential	1	0	0	
+PA	9409143	Calle Amarillo	residential	1	0	0	
+PA	9409143	Calle Banyane	residential	1	0	0	
+PA	9409143	Calle Caralito	residential	1	0	0	
+PA	9409143	Calle Dahlia	residential	1	0	0	
+PA	9409143	Calle Frangipany	residential	1	0	0	
+PA	9409143	Calle Gladiola	residential	1	0	0	
+PA	9409143	Calle Nevada	residential	1	0	0	
+PA	9409143	Calle Washington	residential	1	0	0	
+PA	10179291	Carretera Dorindo Cárdenas	secondary	1	0	0	
+PA	10179292	Camino Al CEdro	tertiary	1	0	0	
+PA	10179292	Camino del Guasimo a El Cedro	tertiary	1	0	0	
+PA	10179345	Avenida Doctor Arnulfo Escalona	secondary	1	0	0	
+PA	10179345	Avenida Humberto A. Collado	residential	1	0	0	
+PA	10179345	Calle El Estudiante	residential	1	0	0	
+PA	10179345	Calle José Burgos	residential	1	0	0	
+PA	10179345	Calle Julio Botello	residential	1	0	0	
+PA	10179345	Calle La Isla	residential	1	0	0	
+PA	10179345	Calle Luis Ríos	residential	1	0	0	
+PA	10179345	Calle Manuel María Correa	residential	1	0	0	
+PA	10179345	Calle Pastor Solís	residential	1	0	0	
+PA	10179345	Vía Monagre	residential	1	0	0	
+PA	10179345	Vía Playa El Rompío	unclassified	1	0	0	
+PA	10179832	Carretera Portobelo - La Guaira	secondary	1	0	0	
+PA	10180007	Vía Madroñal		9	0	0	
+PA	10180007	Avenida Madden	unclassified	1	0	0	
+PA	10180007	Calle Gabriel Santos	residential	1	0	0	
+PA	10180007	Carretera Transístmica	primary	1	0	0	
+PA	10180007	Villa Unida	tertiary	1	0	0	
+PA	10180024	Calle Calzada Larga	tertiary	1	0	0	
+PA	10180024	Vía Nuevo México - Nuevo Caimitillo	tertiary	1	0	0	
+PA	10180075	Calle 3	residential	1	0	0	
+PA	10180075	Calle 3B	residential	1	0	0	
+PA	10180075	Calle 4	residential	1	0	0	
+PA	10180075	Calle 4B	residential	1	0	0	
+PA	10180075	Calle 5	residential	1	0	0	
+PA	10180075	Calle 6	residential	1	0	0	
+PA	10180075	Calle 9	residential	1	0	0	
+PA	10180075	Calle C	residential	1	0	0	
+PA	10180075	Calle de los Cabos	tertiary	1	0	0	
+PA	10180075	Vía Panamá Norte	primary	1	0	0	
+PA	10180082	Acintamiento	residential	1	0	0	
+PA	10180082	An San Judas Tadeo	residential	1	0	0	
+PA	10180082	Avenida José Agustín Arango	secondary	1	0	0	
+PA	10180082	Avenida José María Torrijos	secondary	1	0	0	
+PA	10180082	Calle 3a Oeste	residential	1	0	0	
+PA	10180082	Calle 4a Oeste	residential	1	0	0	
+PA	10180082	Calle 6a Oeste	residential	1	0	0	
+PA	10180082	Calle 7a Oeste	residential	1	0	0	
+PA	10180082	Calle 9na Oeste	residential	1	0	0	
+PA	10180082	Calle Agua Buena	residential	1	0	0	
+PA	10180082	Calle Bisbita	residential	1	0	0	
+PA	10180082	Calle Cortada	residential	1	0	0	
+PA	10180082	Calle Divisa	residential	1	0	0	
+PA	10180082	Calle El Turicentro	residential	1	0	0	
+PA	10180082	Calle Guanico	residential	1	0	0	
+PA	10180082	Calle Guarare	tertiary	1	0	0	
+PA	10180082	Calle Góngora	residential	1	0	0	
+PA	10180082	Calle Herrera	residential	1	0	0	
+PA	10180082	Calle La Alainza	residential	1	0	0	
+PA	10180082	Calle Las Trancas	residential	1	0	0	
+PA	10180082	Calle Lope De Vega	residential	1	0	0	
+PA	10180082	Calle Mariable	residential	1	0	0	
+PA	10180082	Calle Octava Oeste	residential	1	0	0	
+PA	10180082	Calle Parita	residential	1	0	0	
+PA	10180082	Calle Pocri	residential	1	0	0	
+PA	10180082	Calle Portobelillo	residential	1	0	0	
+PA	10180082	Calle Primera	residential	1	0	0	
+PA	10180082	Calle Principal	tertiary	1	0	0	
+PA	10180082	Calle Pérez Galdoz	residential	1	0	0	
+PA	10180082	Calle Quinta Oeste	residential	1	0	0	
+PA	10180082	Calle Sector 6	residential	1	0	0	
+PA	10180082	Calle Tersina	living_street	1	0	0	
+PA	10180082	Calle Unamuno	tertiary	1	0	0	
+PA	10180082	Calle Valle Rico	residential	1	0	0	
+PA	10180082	Calle Vireo	residential	1	0	0	
+PA	10180082	Calle Zamarrito	residential	1	0	0	
+PA	10180082	Calle la Bajada del Cielo	residential	1	0	0	
+PA	10180082	Calle Ángel	residential	1	0	0	
+PA	10180082	Las Américas	residential	1	0	0	
+PA	10180082	Nazareno	residential	1	0	0	
+PA	10180082	Punta del Este	residential	1	0	0	
+PA	10180082	Río Grande	residential	1	0	0	
+PA	10180082	San Jose	residential	1	0	0	
+PA	10180082	San Martín de Porres	residential	1	0	0	
+PA	10180082	Sector Nueva Celia	residential	1	0	0	
+PA	10180086	Calle El Higo	residential	1	0	0	
+PA	10180086	Calle Unamuno	residential	1	0	0	
+PA	10181512	Calle 2nda El Valle de Cerro Azul	residential	1	0	0	
+PA	10181512	Calle 5ta El Valle de Cerro Azul	residential	1	0	0	
+PA	10181512	Calle 7	residential	1	0	0	
+PA	10181512	Calle San José	tertiary	1	0	0	
+PA	10181512	Carretera José Múñoz Meneses	secondary	1	0	0	
+PA	10181512	Paseo de los Guayacanes	residential	1	0	0	
+PA	10181512	Vía Cerro Azul - Alto de Pacora	tertiary	1	0	0	
+PA	10181534	Calle 5	residential	4	154	169	
+PA	10181534	Avenida Los Jardines	residential	1	0	0	
+PA	10181534	Avenida Tamarindo	residential	1	0	0	
+PA	10181534	Brisas del Mirador 1	residential	1	0	0	
+PA	10181534	Brisas del Mirador 2	residential	1	0	0	
+PA	10181534	Calle 1	residential	1	0	0	
+PA	10181534	Calle 10	residential	1	0	0	
+PA	10181534	Calle 10 A	residential	1	0	0	
+PA	10181534	Calle 10ma N	residential	1	0	0	
+PA	10181534	Calle 11	residential	1	0	0	
+PA	10181534	Calle 11va N	residential	1	0	0	
+PA	10181534	Calle 12	residential	1	0	0	
+PA	10181534	Calle 13	residential	1	0	0	
+PA	10181534	Calle 14	residential	1	0	0	
+PA	10181534	Calle 15	residential	1	0	0	
+PA	10181534	Calle 16	residential	1	0	0	
+PA	10181534	Calle 17	residential	1	0	0	
+PA	10181534	Calle 18	residential	1	0	0	
+PA	10181534	Calle 19	residential	1	0	0	
+PA	10181534	Calle 1era Oeste	residential	1	0	0	
+PA	10181534	Calle 1ra El Trébol	residential	1	0	0	
+PA	10181534	Calle 1ra Oeste	residential	1	0	0	
+PA	10181534	Calle 20	residential	1	0	0	
+PA	10181534	Calle 21	residential	1	0	0	
+PA	10181567	Avenida José Agustín Arango	secondary	1	0	0	
+PA	10194186	Carretera Panamericana	primary	1	0	0	
+PA	10194271	CAMINO DE BARRIALES A EL COJO	unclassified	1	0	0	
+PA	10194321	Carretera Panamericana	primary	1	0	0	
+PA	10194321	Vía Quebrada Honda - Puerto Lara	unclassified	1	0	0	
+PA	10194321	hacia Rio Chucunaque	unclassified	1	0	0	
+PA	10194322	Carretera Panamericana	primary	1	0	0	
+PA	10194322	Vía CPA - Arretí	unclassified	1	0	0	
+PA	10194322	Vía Quebrada Honda - Puerto Lara	unclassified	1	0	0	
+PA	10194335	Carretera Panamericana	primary	1	0	0	
+PA	10194746	Vía Yaviza - El Real	residential	1	0	0	
+PA	10194898	CAMINO	unclassified	1	0	0	
+PA	10194898	Carretera Panamericana	primary	1	0	0	
+PA	10194898	Vía Agua Fría N°2 - Guayabito	residential	1	0	0	
+PA	10202392	Vía Río Sábalo	tertiary	1	0	0	
+PA	10211093	Vía Almirante	primary	1	0	0	
+PA	10211200	Calle Casa Azul	unclassified	1	0	0	
+PA	10211200	Calle Catarina	unclassified	1	0	0	
+PA	10211200	Calle Catracho	unclassified	1	0	0	
+PA	10211200	Calle Gaveto	unclassified	1	0	0	
+PA	10211200	Calle Laguna Ania	unclassified	1	0	0	
+PA	10211200	Calle Paraíso	unclassified	1	0	0	
+PA	10211200	Calle Paraíso al Río	unclassified	1	0	0	
+PA	10211200	Calle Parcelas del IDA	unclassified	1	0	0	
+PA	10211200	Calle Pueblo Civil	unclassified	1	0	0	
+PA	10211200	Calle Río Sixaola	unclassified	1	0	0	
+PA	10211200	Calle Valverde	unclassified	1	0	0	
+PA	10211200	Corredor Caribe	primary	1	0	0	
+PA	10211213	Calle Daytonia	residential	1	0	0	
+PA	10211213	Calle Noventa y Seis	unclassified	1	0	0	
+PA	10211213	Corredor Caribe	primary	1	0	0	
+PA	10347245	Calle Abrojo	unclassified	1	0	0	
+PA	10347245	Calle Binacional	unclassified	1	0	0	
+PA	10347245	Calle Limoncito	unclassified	1	0	0	
+PA	10347245	Calle Los Planes	unclassified	1	0	0	
+PA	10347245	Calle Roma	unclassified	1	0	0	
+PA	10347245	Calle Villa Roma	unclassified	1	0	0	
+PA	10347245	Vía Paso Canoas - Río Sereno	tertiary	1	0	0	
+PA	10347249	Chiriquí Viejo - Breñón	tertiary	1	0	0	
+PA	10347249	San Andrés - Salitral Ruta Santa Cruz	secondary	1	0	0	
+PA	10347255	Calle Pata Gallina	unclassified	1	0	0	
+PA	10347255	Calle Pata Gallina 2	unclassified	1	0	0	
+PA	10347255	Calle Piangua	residential	1	0	0	
+PA	10347255	Calle Piangua 2	residential	1	0	0	
+PA	10347255	Calle San Cristóbal	unclassified	1	0	0	
+PA	10347255	Calle San Gil	unclassified	1	0	0	
+PA	10347255	Calle San Jorge	unclassified	1	0	0	
+PA	10347255	Calle San Martín	residential	1	0	0	
+PA	10347255	Calle San Martín 3	residential	1	0	0	
+PA	10347255	Calle San Miguel	unclassified	1	0	0	
+PA	10347255	Calle San Miguel 2	unclassified	1	0	0	
+PA	10347255	Calle Tajo Tobías	unclassified	1	0	0	
+PA	10347257	Calle Cuervito 2	unclassified	1	0	0	
+PA	10347257	Calle El Rodeo	unclassified	1	0	0	
+PA	10347257	Calle La Aurora	residential	1	0	0	
+PA	10347257	Calle Manfred	unclassified	1	0	0	
+PA	10347257	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	10347259	Carretera Progreso - Quira	residential	1	0	0	
+PA	10347263	Calle El Control	unclassified	1	0	0	
+PA	10347263	Calle El Control 2	unclassified	1	0	0	
+PA	10347263	Calle La Brujita	unclassified	1	0	0	
+PA	10347263	Calle Peral 2	unclassified	1	0	0	
+PA	10347263	Santa María	residential	1	0	0	
+PA	10347264	Avenida 0	residential	1	0	0	
+PA	10347264	Avenida 1	residential	1	0	0	
+PA	10347264	Avenida 2	residential	1	0	0	
+PA	10347264	Avenida 4	residential	1	0	0	
+PA	10347264	Avenida 6	residential	1	0	0	
+PA	10347264	Avenida Primera	residential	1	0	0	
+PA	10347264	Avenida Segunda	residential	1	0	0	
+PA	10347264	Avenida Tercera	residential	1	0	0	
+PA	10347264	Bananeras-Manaca Civil	tertiary	1	0	0	
+PA	10347264	Calle 0	residential	1	0	0	
+PA	10347264	Calle 1	residential	1	0	0	
+PA	10347264	Calle 12	residential	1	0	0	
+PA	10347282	Agua Buena	unclassified	1	0	0	
+PA	10347282	Avenida 1ª	residential	1	0	0	
+PA	10347282	Avenida 3ª	residential	1	0	0	
+PA	10347282	Avenida 4ª	residential	1	0	0	
+PA	10347282	Avenida Palma Sur	residential	1	0	0	
+PA	10347282	Bananeras-Manaca Civil	tertiary	1	0	0	
+PA	10347282	Corazón de Jesús	unclassified	1	0	0	
+PA	10347282	Corredor Majagua	unclassified	1	0	0	
+PA	10347282	La Cuchilla	residential	1	0	0	
+PA	10347282	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	10347282	San Bartolo Higuito	residential	1	0	0	
+PA	10347282	Vía San Bartolo Línea	tertiary	1	0	0	
+PA	10347283	Camino Quebrada de Piedra	unclassified	1	0	0	
+PA	10347283	Vía Agua Buena	unclassified	1	0	0	
+PA	10347288	Avenida Charco Azul	secondary	1	0	0	
+PA	10347288	Avenida Monte Verde	unclassified	1	0	0	
+PA	10347288	Calle Vásquez	residential	1	0	0	
+PA	10347288	Paso Llano Bonito	unclassified	1	0	0	
+PA	10347297	Calle Principal	residential	1	0	0	
+PA	10347301	Avenida Báco	tertiary	1	0	0	
+PA	10347301	Avineda Baco	tertiary	1	0	0	
+PA	10347301	Calle	residential	1	0	0	
+PA	10347301	Lima	residential	1	0	0	
+PA	10347301	Los Tecales	residential	1	0	0	
+PA	10347301	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	10347303	Bananeras-Manaca Civil	tertiary	1	0	0	
+PA	10347303	Los Olivos	residential	1	0	0	
+PA	10347303	Manaca Norte	residential	1	0	0	
+PA	10347303	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	10347304	Manaca Sur	residential	1	0	0	
+PA	10347304	Paso Canoas-Puerto Armuelles	primary	1	0	0	
+PA	10347320	Avenida A	living_street	1	0	0	
+PA	10347320	Avenida B	living_street	1	0	0	
+PA	10347320	Avenida C	living_street	1	0	0	
+PA	10347320	Avenida D	living_street	1	0	0	
+PA	10347320	Avenida E	living_street	1	0	0	
+PA	10347320	Avenida F	living_street	1	0	0	
+PA	10347320	Avenida G	living_street	1	0	0	
+PA	10347320	Avenida H	living_street	1	0	0	
+PA	10347320	Calle A Norte	living_street	1	0	0	
+PA	10347320	Calle A Sur	living_street	1	0	0	
+PA	10347320	Calle B Sur	residential	1	0	0	
+PA	10347320	Calle Central	living_street	1	0	0	
+PA	10347321	Avenida B	living_street	1	0	0	
+PA	10347321	Avenida Joseph Halphen	secondary	1	0	0	
+PA	10347321	Avenida Principal	living_street	1	0	0	
+PA	10347321	Calle 1ª	living_street	1	0	0	
+PA	10347321	Calle 2ª	living_street	1	0	0	
+PA	10347337	Calle Jaramillo	unclassified	1	0	0	
+PA	10347337	Calle Los Libertadores	residential	1	0	0	
+PA	10347337	Calle Principal Rambala	unclassified	1	0	0	
+PA	10347337	Vía Almirante	primary	1	0	0	
+PA	10347337	Vía Gualaca - Rambála	primary	1	0	0	
+PA	10347339	Vía Gualaca - Rambála	primary	1	0	0	
+PA	10347348	Vía Chiriquicito	tertiary	1	0	0	
+PA	10347348	Vía Gualaca - Rambála	primary	1	0	0	
+PA	10347377	Vía Kankintú	secondary	1	0	0	
+PA	10347390	Vía Soloy	tertiary	1	0	0	
+PA	10347473	Vía Llano Tugrí	primary	1	0	0	
+PA	10347489	Vía Remedios	primary	1	0	0	
+PA	10347489	Vía Santa Lucia	secondary	1	0	0	
+PA	10347490	Vía Santa Lucia	secondary	1	0	0	
+PA	10347864	Vía Justo Fidel	unclassified	1	0	0	
+PA	10348027	Calle Binacional	residential	1	0	0	
+PA	10348027	Calle La Chanchera	unclassified	1	0	0	
+PA	10348027	Calle La Chanchera 2	residential	1	0	0	
+PA	10348027	Calle La Cuesta	unclassified	1	0	0	
+PA	10348027	Calle Los Mora	unclassified	1	0	0	
+PA	10348027	Calle Los Navarro	unclassified	1	0	0	
+PA	10348027	Calle Los Navarro 2	unclassified	1	0	0	
+PA	10348027	Calle Los Venegas	unclassified	1	0	0	
+PA	10348027	Calle Mellizas	unclassified	1	0	0	
+PA	10348027	Calle San Francisco	unclassified	1	0	0	
+PA	10348027	Paseo Candela	tertiary	1	0	0	
+PA	10348027	Vía 613	tertiary	1	0	0	
+PA	10348109	Vìa Lajero	tertiary	1	0	0	
+PA	10348128	Carretera San Bartolo Línea-Boquilla	unclassified	1	0	0	
+PA	10348472	Bocas las minas	tertiary	1	0	0	
+PA	10348472	Carretera Río Indio-El Valle de Antón	tertiary	1	0	0	
+PA	10348504	Vía La Pintada	secondary	1	0	0	
+PA	10348668	Via Los Bajos	unclassified	1	0	0	
+PA	10348668	Via Virigua Centro	unclassified	1	0	0	
+PA	10348753	Vía hacia El Murciélago	tertiary	1	0	0	
+PA	11398367	8016	unclassified	1	0	0	
+PA	11398367	Avenida El Crisol	residential	1	0	0	
+PA	11398367	Avenida El Lucero	residential	1	0	0	
+PA	11398367	Avenida Las Vírgenes	residential	1	0	0	
+PA	11398367	Avenida Montreal	residential	1	0	0	
+PA	11398367	Avenida Panamá	residential	1	0	0	
+PA	11398367	Avenida San Felipe	residential	1	0	0	
+PA	11398367	Avenida San José	residential	1	0	0	
+PA	11398367	Calle Cerro Largo	residential	1	0	0	
+PA	11398367	Calle El Crisol	residential	1	0	0	
+PA	11398367	Calle El Trébol	residential	1	0	0	
+PA	11398367	Calle Iris	residential	1	0	0	
+PA	11398367	Calle La Defensa	unclassified	1	0	0	
+PA	11398367	Calle La Pesa	residential	1	0	0	
+PA	11398367	Calle Las Gardenias	residential	1	0	0	
+PA	11398367	Los Anastacios	residential	1	0	0	
+PA	11398367	Vía La Valdeza - Llano Largo	residential	1	0	0	
+PA	11398367	Vía a Loma Guadalupe	tertiary	1	0	0	
+PA	11398374	Calle Martinez	residential	1	0	0	
+PA	11398374	Calle Rodriguez	residential	1	0	0	
+PA	11398374	Santa Cruz	tertiary	1	0	0	
+PA	11398376	Avenida El Sol	residential	1	0	0	
+PA	11398376	Calle La Sosa	residential	1	0	0	
+PA	11398376	Vereda 5	residential	1	0	0	
+PA	11398376	Vereda 7	residential	1	0	0	
+PA	11398376	Vía Granada	residential	1	0	0	

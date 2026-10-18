@@ -84,8 +84,10 @@ struct address_request
     ///        never have one.
     std::optional<double> unit_chance{std::nullopt};
 
-    /// @brief The script of the layout. Street names are written as OpenStreetMap
-    ///        has them and place names in Latin, whatever the script.
+    /// @brief The script of the layout and of the street name. With `latin`, a
+    ///        street named in another script is given by its Latin name when
+    ///        the data has one (OpenStreetMap's `name:en` and similar tags);
+    ///        otherwise it keeps the local name. Place names are Latin either way.
     address_script script{address_script::local};
 };
 
@@ -96,6 +98,7 @@ struct street_request
     std::optional<std::string> country{std::nullopt}; ///< ISO 3166-1 alpha-2, or drawn when absent.
     std::optional<place_ref> place{std::nullopt};     ///< Anchor to this place instead of drawing one.
     bool weighted{true};                              ///< Streets by address count; false is uniform.
+    address_script script{address_script::local};     ///< `latin` gives the Latin name where the data has one.
 };
 
 /// @brief What a postcode call asks for.
@@ -371,7 +374,7 @@ class adg
         // Street and number.
         auto sr = call.split("street");
         const street_pick pick = pick_street_(r, request.weighted, sr);
-        v.street = pick.name;
+        v.street = request.script == address_script::latin && !pick.latin.empty() ? pick.latin : pick.name;
         v.real_street = pick.real;
         auto nr = call.split("number");
         if (fmt.number_blocks)
@@ -432,7 +435,7 @@ class adg
         const resolved r = resolve_place_(request.country, request.place, request.weighted, call);
         auto sr = call.split("street");
         const street_pick pick = pick_street_(r, request.weighted, sr);
-        v.name = pick.name;
+        v.name = request.script == address_script::latin && !pick.latin.empty() ? pick.latin : pick.name;
         v.real_street = pick.real;
         v.country_code = r.country;
         v.city = r.city;
@@ -901,7 +904,7 @@ class adg
         case table::streets:
             return {.key = {"geonameid", "name"},
                     .required = {"country_code", "weight"},
-                    .optional = {"class", "min_number", "max_number"}};
+                    .optional = {"class", "min_number", "max_number", "name_latin"}};
         case table::postcodes:
             return {.key = {"geonameid", "postcode"}, .required = {"country_code", "weight"}, .optional = {"partial"}};
         case table::street_types:
@@ -952,6 +955,7 @@ class adg
     struct street_data
     {
         std::string name;
+        std::string latin; // the Latin name of a street named in another script, else empty
         std::uint32_t min_number{0};
         std::uint32_t max_number{0};
     };
@@ -1177,6 +1181,7 @@ class adg
         const auto lo = row.get_or<int>("min_number", 0);
         const auto hi = row.get_or<int>("max_number", 0);
         if (lo < 0 || hi < lo) throw row.error("max_number", "must not be below min_number, and numbers not negative");
+        s.street.latin = row.get_or<std::string>("name_latin", "");
         s.street.min_number = static_cast<std::uint32_t>(lo);
         s.street.max_number = static_cast<std::uint32_t>(hi);
         return s;
@@ -1542,6 +1547,7 @@ class adg
     struct street_pick
     {
         std::string name;
+        std::string latin;
         std::uint32_t lo{0};
         std::uint32_t hi{0};
         bool real{false};
@@ -1552,10 +1558,10 @@ class adg
     {
         const place_streets* ps = r.index != none_ ? streets_of_(r.country, r.id) : nullptr;
         if (ps != nullptr && weighted && !(ps->weights.total_weight() > 0.0)) ps = nullptr; // all switched off
-        if (ps == nullptr) return {.name = composed_street_(r.country, sr), .lo = 0, .hi = 0, .real = false};
+        if (ps == nullptr) return {.name = composed_street_(r.country, sr), .latin = {}, .lo = 0, .hi = 0, .real = false};
         const auto& s = ps->streets[weighted ? ps->weights.pick_index(sr)
                                              : core::uniform_int<std::size_t>(sr, 0, ps->streets.size() - 1)];
-        return {.name = s.name, .lo = s.min_number, .hi = s.max_number, .real = true};
+        return {.name = s.name, .latin = s.latin, .lo = s.min_number, .hi = s.max_number, .real = true};
     }
 
     [[nodiscard]] std::string pick_postcode_(const resolved& r, const format_data& fmt, core::rng& zr) const

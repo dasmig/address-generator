@@ -1,0 +1,363 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+BS	3571224	Queen's Highway	tertiary	1	0	0	
+BS	3571375	Bain Lane	residential	1	0	0	
+BS	3571375	Blackwoods Road	residential	1	0	0	
+BS	3571375	Bluff Road	tertiary	1	0	0	
+BS	3571375	Edgewater Drive	residential	1	0	0	
+BS	3571375	Gene's Bay Road	tertiary	1	0	0	
+BS	3571375	Gun Point Avenue	residential	1	0	0	
+BS	3571375	Long Point Road	unclassified	1	0	0	
+BS	3571375	Pelican Drive	residential	1	0	0	
+BS	3571375	Preacher’s Cave Way	unclassified	1	0	0	
+BS	3571375	Queen's Highway	tertiary	1	0	0	
+BS	3571375	Seagull Lane	residential	1	0	0	
+BS	3571375	Seashore Drive	residential	1	0	0	
+BS	3571523	Conch Sound Drive	residential	1	0	0	
+BS	3571523	Main Lumber Road	unclassified	1	0	0	
+BS	3571523	Queen's Highway	tertiary	1	0	0	
+BS	3571650	Old Port Nelson Airport	residential	1	0	0	
+BS	3571824	Soldier Road	secondary	162	19	371	
+BS	3571824	Cottonwood Street	residential	105	6	109	
+BS	3571824	Cow Pen Road	secondary	101	6	326	
+BS	3571824	Meadows Boulevard	tertiary	82	5	94	
+BS	3571824	Gilbert Street	residential	73	5	93	
+BS	3571824	Sis Maria Rahming Drive	residential	64	5	65	
+BS	3571824	Isabella Boulevard	residential	61	7	84	
+BS	3571824	Yamacraw Drive	residential	60	4	74	
+BS	3571824	McKinney Avenue	residential	59	3	81	
+BS	3571824	Killdeer Drive	residential	58	7	72	
+BS	3571824	Collies Avenue	residential	56	5	77	
+BS	3571824	Kennedy Subdivision Road	unclassified	56	7	73	
+BS	3571824	H. A. Roach Drive	residential	51	5	59	
+BS	3571824	Blue Bonnet Drive	residential	50	3	66	
+BS	3571824	Tucker-A-Way Road	residential	49	4	61	
+BS	3571824	Zion Boulevard	secondary	48	3	86	
+BS	3571824	Florence L. Nixon Crescent	residential	46	5	53	
+BS	3571824	Marathon Road	primary	46	9	85	
+BS	3571824	Nina Crescent	residential	44	5	50	
+BS	3571824	Yamacraw Crescent	residential	43	4	55	
+BS	3571824	Grace Avenue	residential	42	3	56	
+BS	3571824	Chrysanthemum Avenue	residential	41	5	51	
+BS	3571824	Robinson Road	secondary	41	5	48	
+BS	3571824	Cox Way	residential	40	2	49	
+BS	3571824	Haslemere Road	residential	40	2	48	
+BS	3571824	Windsor Street	tertiary	40	2	57	
+BS	3571824	Caspian Road East	residential	39	5	61	
+BS	3571824	Ruebens Close	residential	38	2	26	
+BS	3571824	Bay Lilly Drive	secondary	37	7	63	
+BS	3571824	Palmetto Crescent	residential	36	4	41	
+BS	3571824	Poniciana Avenue	residential	36	2	41	
+BS	3571824	Wellington Road	residential	36	3	46	
+BS	3571824	Commonwealth Avenue	residential	34	4	66	
+BS	3571824	Graham Avenue	residential	34	2	37	
+BS	3571824	Passion Drive	residential	34	4	42	
+BS	3571824	Prince Charles Drive		34	304	427	
+BS	3571824	Richmond Avenue	residential	34	3	49	
+BS	3571824	Rugby Drive		34	13	50	
+BS	3571824	S. N. McKinney Crescent	residential	34	2	39	
+BS	3571824	Collins Avenue	tertiary	33	10	140	
+BS	3571824	Kent Avenue	residential	33	3	38	
+BS	3571824	Michelle Avenue	residential	33	2	32	
+BS	3571824	York Avenue	residential	33	4	37	
+BS	3571824	Blenheim Road	residential	32	2	38	
+BS	3571824	Mary Outten Crescent	residential	32	2	37	
+BS	3571824	Buccaneer Road	residential	31	2	38	
+BS	3571824	Gerald Bartlette Drive		30	2	31	
+BS	3571824	Orange Drive	residential	30	9	48	
+BS	3571824	Seagrape Avenue	residential	30	2	36	
+BS	3571824	Yemetto Drive East		29	3	30	
+BS	3571824	Baillou Hill Road	primary	28	60	553	
+BS	3571824	Dennis Court West	residential	28	2	27	
+BS	3571824	Knollwood Drive	residential	28	4	42	
+BS	3571824	Marigold Lane	residential	27	4	37	
+BS	3571824	Pinecrest Drive West	residential	27	4	60	
+BS	3571824	Ferguson Way	residential	26	6	43	
+BS	3571824	Canary Terrace	residential	25	2	28	
+BS	3571824	Sixth Terrace	unclassified	25	3	25	
+BS	3571824	Brooklyn Road	residential	24	3	29	
+BS	3571824	Calvin Street	residential	24	3	29	
+BS	3571824	College Garden Road	residential	24	2	25	
+BS	3571824	Ferdinard Drive	residential	23	4	33	
+BS	3571824	Hillside Park Road	tertiary	23	5	43	
+BS	3571824	Sybil Blyden Road	residential	23	10	34	
+BS	3571824	Halifax Road	residential	22	7	40	
+BS	3571824	Honeyburn Lane	residential	22	5	36	
+BS	3571824	Thompson Street	residential	22	3	35	
+BS	3571824	Linkford Street	residential	21	2	29	
+BS	3571824	Lucaya Circle	residential	21	3	27	
+BS	3571824	Morning Street	residential	21	2	25	
+BS	3571824	Village Road	secondary	21	6	72	
+BS	3571824	Weybridge Road	residential	21	3	24	
+BS	3571824	Benson Crescent	residential	20	1	28	
+BS	3571824	Dawson Street	residential	20	4	29	
+BS	3571824	Essex Street	residential	20	1	26	
+BS	3571824	Honest Road	residential	20	1	26	
+BS	3571824	Saint Andrews Drive	unclassified	20	2	28	
+BS	3571824	Saint Michael Road	residential	20	1	29	
+BS	3571824	Turnquest Alley	residential	20	1	33	
+BS	3571824	Emerald Ridge Road	residential	19	2	29	
+BS	3571824	Guanahani Circle	residential	19	4	28	
+BS	3571824	Harry Allen Drive North	residential	19	1	22	
+BS	3571824	Jean Street	tertiary	19	1	30	
+BS	3571824	Albany Street	residential	18	2	19	
+BS	3571824	Margaret Avenue	residential	18	1	27	
+BS	3571824	Maria Avenue	residential	18	2	28	
+BS	3571824	Middle Lake Drive	residential	18	1	24	
+BS	3571824	Peter Avenue	residential	18	2	38	
+BS	3571824	Sis Maria Rahming Close	residential	18	1	29	
+BS	3571824	Skylark Court	residential	18	2	28	
+BS	3571824	Thompson Court	residential	18	1	19	
+BS	3571824	Trafalgar Street	residential	18	3	20	
+BS	3571824	Bristol Street	residential	17	1	18	
+BS	3571824	Duncanson Subdivision Road	residential	17	2	23	
+BS	3571824	Everglades Road	residential	17	2	30	
+BS	3571824	Holly Road	residential	17	1	33	
+BS	3571824	Porkfish Road	residential	17	1	31	
+BS	3571824	Treasure Street	residential	17	1	22	
+BS	3571824	Windsor Avenue	residential	17	1	20	
+BS	3571824	Anns Drive	residential	16	3	26	
+BS	3571898	Astwood Street	unclassified	1	0	0	
+BS	3571898	Gregory Street	residential	1	0	0	
+BS	3571898	Victoria Street	residential	1	0	0	
+BS	3571913	Albury Lane	residential	1	0	0	
+BS	3571913	Ammon Drive	residential	1	0	0	
+BS	3571913	Archer's Hill	residential	1	0	0	
+BS	3571913	Ben Curry Drive	residential	1	0	0	
+BS	3571913	Bethel Avenue	residential	1	0	0	
+BS	3571913	Bettee's Way	residential	1	0	0	
+BS	3571913	Black Knight Circle	residential	1	0	0	
+BS	3571913	Bougainville Drive	residential	1	0	0	
+BS	3571913	Bougainvillea Drive	residential	1	0	0	
+BS	3571913	Bromeliad Lane	residential	1	0	0	
+BS	3571913	Butterfly Court	residential	1	0	0	
+BS	3571913	Captain Shervin Archer Circle	secondary	1	0	0	
+BS	3571913	Charles Sawyer Boulevard	tertiary	1	0	0	
+BS	3571913	Church Street	residential	1	0	0	
+BS	3571913	Clownfish Drive	residential	1	0	0	
+BS	3571913	Concord Drive	residential	1	0	0	
+BS	3571913	Cottman Lane	residential	1	0	0	
+BS	3571913	Crockett Drive	tertiary	1	0	0	
+BS	3571913	Cubell Avenue	residential	1	0	0	
+BS	3571913	Curry's Lane	residential	1	0	0	
+BS	3571913	Dawkins Place	residential	1	0	0	
+BS	3571913	Don Mackay Boulevard	secondary	1	0	0	
+BS	3571913	East Bay Street	tertiary	1	0	0	
+BS	3571913	Eastern Shores	residential	1	0	0	
+BS	3571971	Hawaii Avenue	residential	25	12	506	
+BS	3571971	Spanish Main Drive	residential	21	5	77	
+BS	3571971	Waterfall Drive	residential	21	7	33	
+BS	3571971	Fortune Bay Point	residential	17	8	71	
+BS	3571971	Grenada Avenue	residential	17	2	470	
+BS	3571971	S Ringwood Drive	residential	16	3	25	
+BS	3571971	Albacore Drive	residential	12	2	501	
+BS	3571971	Easter Avenue	residential	12	8	404	
+BS	3571971	Ferry Horse Lane	residential	12	2	19	
+BS	3571971	Nelson Road	residential	12	33	77	
+BS	3571971	Churchill Drive	tertiary	11	3	47	
+BS	3571971	Inagua Avenue	residential	11	18	548	
+BS	3571971	Privateer Drive	residential	11	1	43	
+BS	3571971	Dominica Avenue	residential	10	13	364	
+BS	3571971	Fiddlers Green Road	residential	10	9	37	
+BS	3571971	Tarrytown Street	residential	10	6	53	
+BS	3571971	East Indiaman Road	residential	9	6	32	
+BS	3571971	Gambier Loop	residential	9	11	56	
+BS	3571971	Jamaica Avenue	residential	9	59	582	
+BS	3571971	Pearl Drive	residential	9	2	25	
+BS	3571971	Royal Palm Way	residential	9	6	53	
+BS	3571971	Faith Avenue	residential	8	14	58	
+BS	3571971	Gambier Drive	unclassified	8	22	416	
+BS	3571971	Ganymede Drive	residential	8	6	20	
+BS	3571971	Westchester Street	residential	8	2	1213	
+BS	3571971	Ariel Place	residential	7	1	34	
+BS	3571971	Bentley Drive	residential	7	1	46	
+BS	3571971	Cromwell Drive	residential	7	3	33	
+BS	3571971	Crossbones Close	residential	7	37	53	
+BS	3571971	Pearl Way	residential	7	3	9	
+BS	3571971	Pike Close	residential	7	31	42	
+BS	3571971	Prospero Drive	residential	7	15	33	
+BS	3571971	Sir Francis Point	residential	7	34	55	
+BS	3571971	Bayshore Road	residential	6	11	24	
+BS	3571971	Booty Drive	residential	6	3	89	
+BS	3571971	Brig Lane	residential	6	85	94	
+BS	3571971	Brinkhill Road	residential	6	1	33	
+BS	3571971	Fiji Avenue	residential	6	375	434	
+BS	3571971	King Neptune Drive	residential	6	8	28	
+BS	3571971	Scuttlers Avenue	residential	6	48	63	
+BS	3571971	Seahawk Cay	residential	6	1	106	
+BS	3571971	Symonette Drive	residential	6	1	31	
+BS	3571971	Villa Marina		6	1	6	
+BS	3571971	Copper Road	residential	5	4	13	
+BS	3571971	Dolphin Street	residential	5	192	223	
+BS	3571971	East Beach Drive	unclassified	5	50	75	
+BS	3571971	Flamingo Lane	residential	5	2	22	
+BS	3571971	Fortune Bay Drive	tertiary	5	20	62	
+BS	3572106	West Bay Street	secondary	30	304	924	
+BS	3572106	Carmichael Road	primary	16	729	769	
+BS	3572106	Westridge Drive	residential	9	1	42	
+BS	3572106	Aarons Close	residential	1	0	0	
+BS	3572106	Acklins Drive	residential	1	0	0	
+BS	3572106	Adelaide Road	primary	1	0	0	
+BS	3572106	Airport Industrial Park Road	unclassified	1	0	0	
+BS	3572106	All Saints Way	residential	1	0	0	
+BS	3572106	Allen Road	residential	1	0	0	
+BS	3572106	Alouise Lane	residential	1	0	0	
+BS	3572106	Astra Close	residential	1	0	0	
+BS	3572106	Astrania Close	residential	1	0	0	
+BS	3572106	Atlantic Close	residential	1	0	0	
+BS	3572106	Bacardi Road	tertiary	1	0	0	
+BS	3572106	Bahama Lane	residential	1	0	0	
+BS	3572106	Bahamia West Drive	residential	1	0	0	
+BS	3572106	Barns Road	residential	1	0	0	
+BS	3572106	Barren Court	residential	1	0	0	
+BS	3572106	Bashful Lane	residential	1	0	0	
+BS	3572106	Bay Leaf Lane	residential	1	0	0	
+BS	3572106	Beach Lane	residential	1	0	0	
+BS	3572106	Bedrock Court	residential	1	0	0	
+BS	3572106	Bernard Close	residential	1	0	0	
+BS	3572106	Blake Road	secondary	1	0	0	
+BS	3572106	Blue Heron Crescent	residential	1	0	0	
+BS	3572106	Blue Marlin Drive	residential	1	0	0	
+BS	3572106	Blyden Road	residential	1	0	0	
+BS	3572106	Boatswain Hill	residential	1	0	0	
+BS	3572106	Breezy Lane	residential	1	0	0	
+BS	3572106	Bricknoch Subdivision	residential	1	0	0	
+BS	3572106	Button Wood Court	residential	1	0	0	
+BS	3572106	Candy Lane	residential	1	0	0	
+BS	3572106	Captain Road	residential	1	0	0	
+BS	3572106	Cardney Close	residential	1	0	0	
+BS	3572106	Carmilla Way	residential	1	0	0	
+BS	3572106	Castor Bean Road	residential	1	0	0	
+BS	3572106	Casuarina Close	residential	1	0	0	
+BS	3572106	Cattleya Lane	residential	1	0	0	
+BS	3572106	Cedar Street	residential	1	0	0	
+BS	3572106	Cedar Wood Road	residential	1	0	0	
+BS	3572106	Central Drive	residential	1	0	0	
+BS	3572106	Central Drive East	residential	1	0	0	
+BS	3572106	Charlotteville Boulevard	residential	1	0	0	
+BS	3572106	Clipper Island	residential	1	0	0	
+BS	3572106	Cochran Street	residential	1	0	0	
+BS	3572106	Coral Beach	residential	1	0	0	
+BS	3572106	Coral Boulevard	tertiary	1	0	0	
+BS	3572106	Coral East Boulevard	residential	1	0	0	
+BS	3572189	Emmanuel Way	residential	1	0	0	
+BS	3572189	Felix Slope	residential	1	0	0	
+BS	3572189	Grand Bahama Highway	secondary	1	0	0	
+BS	3572189	Seagrape Lane	residential	1	0	0	
+BS	3572189	Solomon Way	residential	1	0	0	
+BS	3572189	Tamarind Lane	residential	1	0	0	
+BS	3572313	Bay Street	residential	1	0	0	
+BS	3572313	Beach Access	residential	1	0	0	
+BS	3572313	Benson Lane	residential	1	0	0	
+BS	3572313	Casuarina Avenue	residential	1	0	0	
+BS	3572313	Church Street	tertiary	1	0	0	
+BS	3572313	Harlem Road	residential	1	0	0	
+BS	3572313	Haynes Avenue	residential	1	0	0	
+BS	3572313	Highpoint Court	residential	1	0	0	
+BS	3572313	Jacaranda Drive	residential	1	0	0	
+BS	3572313	LA Drive	residential	1	0	0	
+BS	3572313	Main Driveway	tertiary	1	0	0	
+BS	3572313	Medora Street	residential	1	0	0	
+BS	3572349	Barque Road	residential	1	0	0	
+BS	3572349	Caravelle Road	residential	1	0	0	
+BS	3572349	Clipper Road	residential	1	0	0	
+BS	3572349	Frigate Road	residential	1	0	0	
+BS	3572349	Galleon Road	residential	1	0	0	
+BS	3572349	Garden Road	unclassified	1	0	0	
+BS	3572349	Guana Cay Road	residential	1	0	0	
+BS	3572349	Ketch Road	residential	1	0	0	
+BS	3572349	Main Street	tertiary	1	0	0	
+BS	3572349	MossTown Road	tertiary	1	0	0	
+BS	3572349	Old Airport Road	tertiary	1	0	0	
+BS	3572349	Queen's Highway	secondary	1	0	0	
+BS	3572349	Schooner Road	residential	1	0	0	
+BS	3572349	Seaview Lane	residential	1	0	0	
+BS	3572349	Yawl Road	residential	1	0	0	
+BS	3572375	Pioneer's Way West	residential	17	3	119	
+BS	3572375	Brighton Drive	residential	12	29	62	
+BS	3572375	Yorkshire Drive	tertiary	10	2	42	
+BS	3572375	Westwind Road		9	86	110	
+BS	3572375	Frobisher Drive	residential	7	58	136	
+BS	3572375	Brompton Road	residential	6	11	93	
+BS	3572375	Victoria Lane	residential	6	16	93	
+BS	3572375	Montrose Drive	residential	5	2	19	
+BS	3572375	Pinta Avenue West	tertiary	5	3	93	
+BS	3572375	Santa Maria Avenue	tertiary	5	5	42	
+BS	3572375	Braemar Drive	residential	4	5	10	
+BS	3572375	Scott Avenue	residential	4	123	448	
+BS	3572375	Sloan Street	residential	4	124	160	
+BS	3572375	South Mall Drive	tertiary	4	111	129	
+BS	3572375	Bone Fish Street	residential	3	92	151	
+BS	3572375	Queen's Highway	primary	3	1	9	
+BS	3572375	Santa Maria North Avenue	unclassified	3	16	25	
+BS	3572375	St George's	residential	3	16	29	
+BS	3572375	Belgrave Crescent	residential	2	15	17	
+BS	3572375	Belgrave Lane	residential	2	13	21	
+BS	3572375	Bruce Avenue	residential	2	49	51	
+BS	3572375	Cadwallader Jones Drive	unclassified	2	4	185	
+BS	3572375	Coral Fish Street		2	120	122	
+BS	3572375	East Atlantic Drive	unclassified	2	31	33	
+BS	3572375	Explorer's Way	unclassified	2	111	175	
+BS	3572375	Oak Street	unclassified	2	5	18	
+BS	3572375	Oxford Street	residential	2	5	66	
+BS	3572375	Point Lookout Drive	residential	2	2	12	
+BS	3572375	Richmond Avenue	unclassified	2	183	186	
+BS	3572375	Settler's Way	secondary	2	14	16	
+BS	3572375	South Shipton Drive	residential	2	37	120	
+BS	3572375	Straford Way	residential	2	39	44	
+BS	3572375	Sunridge Road	residential	2	59	117	
+BS	3572375	Tamarind Street	residential	2	106	116	
+BS	3572375	Whymper Lane	residential	2	59	82	
+BS	3572375	Abaco Drive	residential	1	0	0	
+BS	3572375	Abbey Court	residential	1	0	0	
+BS	3572375	Abbey Place	residential	1	0	0	
+BS	3572375	Aberdeen Drive	residential	1	0	0	
+BS	3572375	Aberdeen Place	residential	1	0	0	
+BS	3572375	Adventurers Way	unclassified	1	0	0	
+BS	3572375	Aintree Drive	residential	1	0	0	
+BS	3572375	Airport Road	unclassified	1	0	0	
+BS	3572375	Amarylus Close	residential	1	0	0	
+BS	3572375	Amundsen Lane	residential	1	0	0	
+BS	3572375	Andros Drive	tertiary	1	0	0	
+BS	3572375	Angelfish Lane	residential	1	0	0	
+BS	3572375	Arawack Lane	residential	1	0	0	
+BS	3572462	Alice Street	residential	1	0	0	
+BS	3572462	Barrack Street	tertiary	1	0	0	
+BS	3572462	Bay Street	tertiary	1	0	0	
+BS	3572462	Chapel Street	residential	1	0	0	
+BS	3572462	Church Street	residential	1	0	0	
+BS	3572462	Clarence Street	residential	1	0	0	
+BS	3572462	Coconut Grove Avenue	tertiary	1	0	0	
+BS	3572462	Colebrooke Street	tertiary	1	0	0	
+BS	3572462	Court Street	residential	1	0	0	
+BS	3572462	Crown Street	residential	1	0	0	
+BS	3572462	Duke Street	residential	1	0	0	
+BS	3572462	Dunmore Street	tertiary	1	0	0	
+BS	3572601	S. C. Bootle Highway	secondary	1	0	0	
+BS	3572627	Queen's Highway	tertiary	1	0	0	
+BS	3572906	Queen's Highway	unclassified	1	0	0	
+BS	3572924	Air Port Road	tertiary	1	0	0	
+BS	3572924	Bimini Bay Way	tertiary	1	0	0	
+BS	3572924	Bimini Sands Road	tertiary	1	0	0	
+BS	3572924	Bimini Way	residential	1	0	0	
+BS	3572924	Blue Lagoon	tertiary	1	0	0	
+BS	3572924	Ellis Bend	residential	1	0	0	
+BS	3572924	Gateway Roundabout	residential	1	0	0	
+BS	3572924	King's Highway	tertiary	1	0	0	
+BS	3572924	King's Highway (Lower Road)	residential	1	0	0	
+BS	3572924	Kings's Highway (Upper Road)	tertiary	1	0	0	
+BS	3572924	Port Royale	residential	1	0	0	
+BS	3572924	Port Royale Road	unclassified	1	0	0	
+BS	7535668	Anchorage Drive	residential	1	0	0	
+BS	7535668	Banyan Crescent	residential	1	0	0	
+BS	7535668	Beakhead Way	residential	1	0	0	
+BS	7535668	Bougainvillea Lane	residential	1	0	0	
+BS	7535668	Brigantine Bay Drive	residential	1	0	0	
+BS	7535668	Brigantine Beach Road	residential	1	0	0	
+BS	7535668	Brigsail Crescent	residential	1	0	0	
+BS	7535668	Carter Close	residential	1	0	0	
+BS	7535668	Coral Way	residential	1	0	0	
+BS	7535668	Cut Water Way	residential	1	0	0	
+BS	7535668	Dolphin Drive	residential	1	0	0	
+BS	7535668	Doubloon Way	residential	1	0	0	
+BS	10793775	Chris Fireman Brown Boulevard	residential	1	0	0	
+BS	10793775	Queen's Highway	secondary	1	0	0	

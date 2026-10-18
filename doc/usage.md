@@ -106,7 +106,7 @@ r.script = dasmig::address_script::latin;           // the Latin layout, where a
 - **Place.** The anchor for an address whose city was drawn elsewhere (`persona-generator` passes its city). The name is matched without regard to case; `region` (a name or a code) tells places of one name apart, and without it the most populous wins. A place the data lacks needs `country` and is used as given: its street is composed and its postcode comes from the country's pattern.
 - **Weighted.** Places by population, streets by the number of addresses on them, postcodes by their weight. Unweighted draws are uniform.
 - **Unit chance.** Countries without a unit style (Japan, Korea, China, and any territory the table does not give one) never have a unit.
-- **Script.** `address_script::local` (the default) uses the country's own layout; `latin` uses the Latin-script layout for the 14 territories that have one (AE, AM, CN, EG, HK, JP, KP, KR, MO, RU, TH, TW, UA, VN) and changes nothing elsewhere. It changes the layout only: street names stay as OpenStreetMap has them (Japanese streets are in Japanese) and place names are the Latin names GeoNames gives, in either script.
+- **Script.** `address_script::local` (the default) uses the country's own layout; `latin` uses the Latin-script layout for the 14 territories that have one (AE, AM, CN, EG, HK, JP, KP, KR, MO, RU, TH, TW, UA, VN) and changes nothing elsewhere. It also writes a street named in another script by its Latin name (OpenStreetMap's `name:en` and similar) when the data has one, in every country; otherwise the street keeps its local name. Place names are the Latin names GeoNames gives, in either script.
 
 ### Japan
 

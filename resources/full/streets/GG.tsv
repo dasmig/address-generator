@@ -1,0 +1,202 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+GG	3042274	Chemin Le Roi	unclassified	1	0	0	
+GG	3042274	La Hougue Anthan	primary	1	0	0	
+GG	3042274	La Route des Sages	secondary	1	0	0	
+GG	3042274	La Route du Coudré	secondary	1	0	0	
+GG	3042274	La Rue de la Vallée	unclassified	1	0	0	
+GG	3042274	La Rue des Cambrées	unclassified	1	0	0	
+GG	3042274	La Rue des Issues	unclassified	1	0	0	
+GG	3042274	Le Château Clos	residential	1	0	0	
+GG	3042274	Le Clos	unclassified	1	0	0	
+GG	3042274	Les Buttes	unclassified	1	0	0	
+GG	3042274	Rocque Du Coudré	unclassified	1	0	0	
+GG	3042274	Route De Pleinmont	primary	1	0	0	
+GG	3042286	Charing Clos	residential	5	1	5	
+GG	3042286	Church Road Terrace		4	1	4	
+GG	3042286	Mont Morin Court		4	1	4	
+GG	3042286	Braye Road	primary	3	1	3	
+GG	3042286	New Road	secondary	3	1	5	
+GG	3042286	Bailloterie Lane	living_street	1	0	0	
+GG	3042286	Bank Place	unclassified	1	0	0	
+GG	3042286	Basses Capelles Lane	unclassified	1	0	0	
+GG	3042286	Baubigny Road	secondary	1	0	0	
+GG	3042286	Belle Cour	residential	1	0	0	
+GG	3042286	Bridge Avenue	unclassified	1	0	0	
+GG	3042286	Brock Road	secondary	1	0	0	
+GG	3042286	Camp Code Clos	residential	1	0	0	
+GG	3042286	Camp Code Lane	unclassified	1	0	0	
+GG	3042286	Carriere Lane	unclassified	1	0	0	
+GG	3042286	Castle Road	primary	1	0	0	
+GG	3042286	Clos De L'Horizon Bleu	unclassified	1	0	0	
+GG	3042286	Clos De Priauix	residential	1	0	0	
+GG	3042286	Clos De Roberge	residential	1	0	0	
+GG	3042286	Clos De Sept	residential	1	0	0	
+GG	3042286	Clos Des Petttes Maisons	residential	1	0	0	
+GG	3042286	Clos Des Sablons	unclassified	1	0	0	
+GG	3042286	Clos du Murier	residential	1	0	0	
+GG	3042286	Commercial Road	unclassified	1	0	0	
+GG	3042287	Les Genats Estate		89	5	113	
+GG	3042287	Rue Jehannet	residential	82	7	56	
+GG	3042287	Pre du Quertier	residential	57	3	55	
+GG	3042287	Courtil St Jacques	residential	56	10	69	
+GG	3042287	Clos des Pecqueries	residential	52	4	66	
+GG	3042287	L'Aumone Estate	residential	52	3	50	
+GG	3042287	Valnord Estate	residential	48	3	46	
+GG	3042287	La Vrangue Estate	residential	46	3	48	
+GG	3042287	Courtil Ollivier	residential	44	3	43	
+GG	3042287	Millbrook Estate	unclassified	42	3	40	
+GG	3042287	Rue Jamouneau	residential	42	3	40	
+GG	3042287	Collings Road Estate	residential	40	2	39	
+GG	3042287	Le Villocq Estate	residential	40	2	39	
+GG	3042287	Courtil Bris	residential	38	2	37	
+GG	3042287	Rue Sarchet	residential	38	2	37	
+GG	3042287	Clairval Estate	residential	35	2	30	
+GG	3042287	Les Cherfs	residential	33	4	33	
+GG	3042287	Chemin des Monts	residential	29	2	28	
+GG	3042287	Jardin de l'Epine	residential	29	2	28	
+GG	3042287	Couture Close	residential	28	2	27	
+GG	3042287	Balmoral	residential	27	2	39	
+GG	3042287	La Neuve Rue Estate	residential	26	2	25	
+GG	3042287	Clos Barnier	residential	24	2	23	
+GG	3042287	Clos de Bas	residential	24	2	23	
+GG	3042287	Clos le Noury	residential	22	2	21	
+GG	3042287	Coronation Road	tertiary	22	2	21	
+GG	3042287	Courtil Portier	residential	22	2	21	
+GG	3042287	Manor Gardens	residential	20	1	20	
+GG	3042287	Rue au Prêtre	residential	20	1	20	
+GG	3042287	Rue de la Croix	residential	20	1	20	
+GG	3042287	Acacia Clos	residential	19	1	20	
+GG	3042287	La Planque	residential	19	1	19	
+GG	3042287	The Hawthornes	residential	19	1	19	
+GG	3042287	Clos du Villocq	residential	18	6	32	
+GG	3042287	Chemin Robin	residential	16	1	16	
+GG	3042287	Clos Gravier	residential	15	1	17	
+GG	3042287	Rue de la Douzaine	residential	15	1	36	
+GG	3042287	The Oaks	residential	15	1	15	
+GG	3042287	Clos des Covins	residential	14	1	14	
+GG	3042287	Meadow Drive	residential	14	4	17	
+GG	3042287	Collings Rise	residential	13	2	15	
+GG	3042287	Rue de la Cache	residential	13	1	13	
+GG	3042287	Clos de Belle Vue	residential	12	1	14	
+GG	3042287	Guildown Close	residential	12	1	12	
+GG	3042287	Les Douze Maisons	residential	12	1	12	
+GG	3042287	Victoria Road	secondary	12	18	105	
+GG	3042287	Clos Galliotte	residential	11	1	11	
+GG	3042287	Clos des Fontaines	residential	11	1	11	
+GG	3042289	Route de Braye	unclassified	16	7	21	
+GG	3042289	Victoria Street	residential	12	2	56	
+GG	3042289	Albert Mews	pedestrian	2	4	4	
+GG	3042289	High Street	residential	2	14	16	
+GG	3042289	Le Huret	residential	2	6	6	
+GG	3042289	Alderney Breakwater	unclassified	1	0	0	
+GG	3042289	Allée es Fées	residential	1	0	0	
+GG	3042289	Archie's Rowe	residential	1	0	0	
+GG	3042289	Braye Lane	residential	1	0	0	
+GG	3042289	Braye Street	unclassified	1	0	0	
+GG	3042289	Butes Road	unclassified	1	0	0	
+GG	3042289	Carriere Viront	residential	1	0	0	
+GG	6424194	Rue Des Crabbes		10	1	10	
+GG	6424194	Bas Rouvets	unclassified	1	0	0	
+GG	6424194	Clos de Perelle	residential	1	0	0	
+GG	6424194	La Grande Rue	primary	1	0	0	
+GG	6424194	Le Chemin Le Roi	unclassified	1	0	0	
+GG	6424194	Les Rouvets de Bas	residential	1	0	0	
+GG	6424194	Rue Perelle	secondary	1	0	0	
+GG	6424194	Rue de St Apolline	living_street	1	0	0	
+GG	6424194	Rue de la Girouette	unclassified	1	0	0	
+GG	6692239	Hillside	residential	6	1	6	
+GG	6692239	Clos Beaumont	residential	1	0	0	
+GG	6692239	Clos d'Albecq	residential	1	0	0	
+GG	6692239	Clos du Barmer	residential	1	0	0	
+GG	6692239	Clos du Baumère	residential	1	0	0	
+GG	6692239	Clos du Cordage	residential	1	0	0	
+GG	6692239	Glen Drive	residential	1	0	0	
+GG	6692239	La Banquette	tertiary	1	0	0	
+GG	6692239	La Bissonerie	residential	1	0	0	
+GG	6692239	La Giffardière	tertiary	1	0	0	
+GG	6692239	La Hougette	secondary	1	0	0	
+GG	6692239	La Neuve Rue	primary	1	0	0	
+GG	6692240	Bouillon Road	secondary	1	0	0	
+GG	6692240	Clos de la Mare	residential	1	0	0	
+GG	6692240	L'Écluse	unclassified	1	0	0	
+GG	6692240	La Mare	secondary	1	0	0	
+GG	6692240	La Rue de Rocquettes	unclassified	1	0	0	
+GG	6692240	La Rue des Rocquettes	unclassified	1	0	0	
+GG	6692240	La Vassalerie	unclassified	1	0	0	
+GG	6692240	Le Grais Lane	living_street	1	0	0	
+GG	6692240	Les Buttes	unclassified	1	0	0	
+GG	6692240	Les Friquets	living_street	1	0	0	
+GG	6692240	Les Hunquets	unclassified	1	0	0	
+GG	6692240	Les Niaux	living_street	1	0	0	
+GG	6696201	Aval du Creux Lane	residential	1	0	0	
+GG	6696201	Dixcart Lane	residential	1	0	0	
+GG	6696201	Harbour Hill	unclassified	1	0	0	
+GG	6696201	L'Ecluse Lane	residential	1	0	0	
+GG	6696201	La Chasse Marette	residential	1	0	0	
+GG	6696201	La Tour	residential	1	0	0	
+GG	6696201	Mill Lane	unclassified	1	0	0	
+GG	6696201	Port à la Jument Lane	unclassified	1	0	0	
+GG	6696201	Rue Lucas	unclassified	1	0	0	
+GG	6696201	Rue Pot	unclassified	1	0	0	
+GG	6696201	Rue de Hotton	unclassified	1	0	0	
+GG	6696201	Rue de La Coupée	residential	1	0	0	
+GG	6696773	Route des Coutures	tertiary	28	2	27	
+GG	6696773	Rockwell Terrace		10	1	10	
+GG	6696773	Burnt Lane	tertiary	1	0	0	
+GG	6696773	Camps Du Moulin	tertiary	1	0	0	
+GG	6696773	La Bellieuse	tertiary	1	0	0	
+GG	6696773	La Fosse de Haut	tertiary	1	0	0	
+GG	6696773	La Grande Rue	primary	1	0	0	
+GG	6696773	La Rue de la Vallée	living_street	1	0	0	
+GG	6696773	La Vequesse	living_street	1	0	0	
+GG	6696773	Le Grand Manel	residential	1	0	0	
+GG	6696773	Les Camps	primary	1	0	0	
+GG	6696773	Les Merriennes	secondary	1	0	0	
+GG	13527037	Belval Road	tertiary	1	0	0	
+GG	13527037	Bordel Lane	unclassified	1	0	0	
+GG	13527037	Bunker Hill	unclassified	1	0	0	
+GG	13527037	Canurie Road	living_street	1	0	0	
+GG	13527037	Clos Du Bordel	residential	1	0	0	
+GG	13527037	Clos Du Ville Baudu	residential	1	0	0	
+GG	13527037	Clos Mare	residential	1	0	0	
+GG	13527037	Clos de Beauvoir	residential	1	0	0	
+GG	13527037	Clos du Baugy	residential	1	0	0	
+GG	13527037	Clos du Grande Rue	residential	1	0	0	
+GG	13527037	Corvee Road	living_street	1	0	0	
+GG	13527037	Cotes des Amarreurs	living_street	1	0	0	
+GG	13527037	Courtil les Clements	residential	1	0	0	
+GG	13527037	Croix du Bois	secondary	1	0	0	
+GG	13527037	Crout Becrel	living_street	1	0	0	
+GG	13527037	Grande Rue	primary	1	0	0	
+GG	13527037	Hamilton Close	residential	1	0	0	
+GG	13527037	Hougue Ricart	tertiary	1	0	0	
+GG	13527037	Hougue du Moulin	unclassified	1	0	0	
+GG	13527037	Houmet Du Nord	unclassified	1	0	0	
+GG	13527037	Houmtel Lane	unclassified	1	0	0	
+GG	13527037	Jamblin Road	living_street	1	0	0	
+GG	13527037	L'Ancresse Road	primary	1	0	0	
+GG	13527037	La Blanche Carriere	unclassified	1	0	0	
+GG	13527040	Les Landes Estate	residential	5	1	5	
+GG	13527040	Bouillon Road	secondary	1	0	0	
+GG	13527040	Chasse des Galliennes	living_street	1	0	0	
+GG	13527040	Chemin de L'Église	unclassified	1	0	0	
+GG	13527040	Chemin le Roi	living_street	1	0	0	
+GG	13527040	Highfield Estate	residential	1	0	0	
+GG	13527040	La Carrière	living_street	1	0	0	
+GG	13527040	La Guillard Lane	living_street	1	0	0	
+GG	13527040	La Planque	residential	1	0	0	
+GG	13527040	La Robèrge	living_street	1	0	0	
+GG	13527040	La Route de la Forêt	primary	1	0	0	
+GG	13527040	La Route des Bordages	unclassified	1	0	0	
+GG	13527042	Clos du Fillage	residential	1	0	0	
+GG	13527042	Fief La Comte	primary	1	0	0	
+GG	13527042	La Biloterie Road	living_street	1	0	0	
+GG	13527042	La Croix Martin	primary	1	0	0	
+GG	13527042	La Fontenelle	unclassified	1	0	0	
+GG	13527042	La Grande Rue	primary	1	0	0	
+GG	13527042	La Margion	residential	1	0	0	
+GG	13527042	La Route Des Jenemes	tertiary	1	0	0	
+GG	13527042	La Route de la Margion	primary	1	0	0	
+GG	13527042	La Rue Canteraine	tertiary	1	0	0	
+GG	13527042	La Rue Du Hamel	unclassified	1	0	0	
+GG	13527042	La Rue Du Val	unclassified	1	0	0	

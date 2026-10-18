@@ -1,0 +1,449 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+GY	3375103	Back Street	residential	1	0	0	
+GY	3375103	Backdam Road	residential	1	0	0	
+GY	3375103	Church Street	residential	1	0	0	
+GY	3375103	Corina Ida Road	residential	1	0	0	
+GY	3375103	Cummings Street	residential	1	0	0	
+GY	3375103	Enid Vangendren Street	residential	1	0	0	
+GY	3375103	Fellowship Street	residential	1	0	0	
+GY	3375103	Fifth Street	residential	1	0	0	
+GY	3375103	First Street	residential	1	0	0	
+GY	3375103	Fourth Street	residential	1	0	0	
+GY	3375103	Hanuman Street	residential	1	0	0	
+GY	3375103	Langevine Street	residential	1	0	0	
+GY	3375409	Independence Street	tertiary	4	1211	1227	
+GY	3375409	Best Road	residential	1	0	0	
+GY	3375409	Canal #1 Polder	tertiary	1	0	0	
+GY	3375409	Dairy Road	tertiary	1	0	0	
+GY	3375409	Drumset Street	residential	1	0	0	
+GY	3375409	East Bank Road	primary	1	0	0	
+GY	3375409	Eight Street	residential	1	0	0	
+GY	3375409	Eighteenth Street	residential	1	0	0	
+GY	3375409	Eleventh Street	residential	1	0	0	
+GY	3375409	Fifteenth Street	residential	1	0	0	
+GY	3375409	Fifth Avenue	residential	1	0	0	
+GY	3375409	Fifth Street	residential	1	0	0	
+GY	3375522	1st Street	residential	1	0	0	
+GY	3375522	2nd Street	residential	1	0	0	
+GY	3375522	3rd Street	residential	1	0	0	
+GY	3375522	4th Street	residential	1	0	0	
+GY	3375522	5th Street	residential	1	0	0	
+GY	3375522	Albert Lou Street	residential	1	0	0	
+GY	3375522	Alice Street	residential	1	0	0	
+GY	3375522	Amsterdam Road	secondary	1	0	0	
+GY	3375522	Back Street	residential	1	0	0	
+GY	3375522	Boorie Street	residential	1	0	0	
+GY	3375522	Brotherdam Street	residential	1	0	0	
+GY	3375522	Bruda Street	residential	1	0	0	
+GY	3375522	Bud Street	residential	1	0	0	
+GY	3375522	Bus Shed Street	residential	1	0	0	
+GY	3375522	Camp Street	residential	1	0	0	
+GY	3375522	Devil Dam Road	residential	1	0	0	
+GY	3375522	Estate Road	tertiary	1	0	0	
+GY	3375522	Factory Road	residential	1	0	0	
+GY	3375522	First Street	residential	1	0	0	
+GY	3375522	Health Centre Street	residential	1	0	0	
+GY	3375522	Hospital Road	residential	1	0	0	
+GY	3375522	Institute Road	residential	1	0	0	
+GY	3375522	Kingston Street	residential	1	0	0	
+GY	3375522	Leguan Public Road	secondary	1	0	0	
+GY	3375941	Public Road	unclassified	3	21	3392	
+GY	3375941	skeldon public road		2	3392	3392	
+GY	3375941	Albert Street	residential	1	0	0	
+GY	3375941	Backilall Street	residential	1	0	0	
+GY	3375941	Baljeet Street	residential	1	0	0	
+GY	3375941	Ballfield Street	residential	1	0	0	
+GY	3375941	Bank Road	residential	1	0	0	
+GY	3375941	Baul Street	residential	1	0	0	
+GY	3375941	Black Water Street	residential	1	0	0	
+GY	3375941	Boey Sideline	residential	1	0	0	
+GY	3375941	Bouville Street	residential	1	0	0	
+GY	3375941	Cemetery Dam	residential	1	0	0	
+GY	3375941	Cheddi B. Jagan Street	residential	1	0	0	
+GY	3375941	Church Street	residential	1	0	0	
+GY	3375941	Church Street (Middle Street)	residential	1	0	0	
+GY	3375941	Circle Street	unclassified	1	0	0	
+GY	3375941	Corentyne Highway	primary	1	0	0	
+GY	3375941	Embassy Street (Middle Street)	residential	1	0	0	
+GY	3375941	Farouk Street	residential	1	0	0	
+GY	3375941	Ganesh Sawmill Damn	residential	1	0	0	
+GY	3375941	Hashim Street	residential	1	0	0	
+GY	3375941	Itabu Street	residential	1	0	0	
+GY	3375941	James Street	residential	1	0	0	
+GY	3375941	Jumai Street	unclassified	1	0	0	
+GY	3376223	Rosignol Public Road	secondary	44	17	288	
+GY	3376223	Edward Street	residential	30	15	159	
+GY	3376223	Welcome Street North	residential	30	7	155	
+GY	3376223	Mohan Street	residential	25	101	206	
+GY	3376223	Ogeer Street	residential	24	93	198	
+GY	3376223	Ali Street	residential	21	109	195	
+GY	3376223	McRae Street North	residential	21	12	156	
+GY	3376223	Jarvis Street	residential	18	4	173	
+GY	3376223	Geraldine Street	residential	17	258	294	
+GY	3376223	Murphy Dam	unclassified	17	202	217	
+GY	3376223	Hossana Street North	residential	15	8	169	
+GY	3376223	Welcome Street South	residential	13	189	250	
+GY	3376223	Ritz Street (William Street)	residential	12	198	222	
+GY	3376223	Burnham Avenue (School Street)	residential	8	174	186	
+GY	3376223	Line East	residential	8	252	336	
+GY	3376223	DinDial Street	residential	6	187	243	
+GY	3376223	Dindial Street	residential	6	268	292	
+GY	3376223	McRae Street South	residential	6	188	232	
+GY	3376223	Stelling Road	secondary	6	297	302	
+GY	3376223	Henry Street	residential	5	236	241	
+GY	3376223	Hossana Street South	residential	5	192	247	
+GY	3376223	West Berbice Highway	primary	3	3	55	
+GY	3376223	Public Road		2	8	11	
+GY	3376223	Ali Street (North)	residential	1	0	0	
+GY	3376227	Outpost Dam	residential	2	0	0	
+GY	3376227	4th Street	residential	1	0	0	
+GY	3376227	5th Street	residential	1	0	0	
+GY	3376227	6th Street	residential	1	0	0	
+GY	3376227	7th Street	residential	1	0	0	
+GY	3376227	Acrobat Street	residential	1	0	0	
+GY	3376227	Anamayah Street	residential	1	0	0	
+GY	3376227	Archway Road	residential	1	0	0	
+GY	3376227	Arjune Street	residential	1	0	0	
+GY	3376227	Babu John Dam	residential	1	0	0	
+GY	3376227	Belvedere Inn Street	residential	1	0	0	
+GY	3376227	Bozeana Road	residential	1	0	0	
+GY	3376227	Bullet Wood Street	residential	1	0	0	
+GY	3376227	Campbell Street	residential	1	0	0	
+GY	3376227	Carpen Street	residential	1	0	0	
+GY	3376227	Center Street	residential	1	0	0	
+GY	3376227	Chandisngh School Street	residential	1	0	0	
+GY	3376227	Chands Road	residential	1	0	0	
+GY	3376227	Chesney Dam	residential	1	0	0	
+GY	3376227	Church Street	residential	1	0	0	
+GY	3376227	Cloud 9 Street	residential	1	0	0	
+GY	3376227	Corentyne Highway	primary	1	0	0	
+GY	3376227	Courtland Road	residential	1	0	0	
+GY	3376227	Cropper Street	residential	1	0	0	
+GY	3376520	Charles Street	residential	1	0	0	
+GY	3376520	Crown Dam	residential	1	0	0	
+GY	3376520	Facade Trench Road	residential	1	0	0	
+GY	3376520	Kent Dam	residential	1	0	0	
+GY	3376520	Leguan Public Road	secondary	1	0	0	
+GY	3376520	Old Road	residential	1	0	0	
+GY	3376520	Parika Backdam Road	residential	1	0	0	
+GY	3376520	Peters Street	residential	1	0	0	
+GY	3376520	Ruby Backdam Road	unclassified	1	0	0	
+GY	3376520	South Essequibo Road	secondary	1	0	0	
+GY	3376520	West Demerara Highway	primary	1	0	0	
+GY	3376538	Orchid Street	residential	3	81	83	
+GY	3376538	10th Street	residential	1	0	0	
+GY	3376538	11th Street	residential	1	0	0	
+GY	3376538	12th Street	residential	1	0	0	
+GY	3376538	13th Street	residential	1	0	0	
+GY	3376538	14th Street	residential	1	0	0	
+GY	3376538	15th Street	residential	1	0	0	
+GY	3376538	16th Street	residential	1	0	0	
+GY	3376538	17th Street	residential	1	0	0	
+GY	3376538	18th Street	residential	1	0	0	
+GY	3376538	19th Street	residential	1	0	0	
+GY	3376538	1st Martyr's Ville	residential	1	0	0	
+GY	3376762	Middle Street	residential	53	38	101	
+GY	3376762	Back Street	residential	9	71	112	
+GY	3376762	Public Rd		9	1	10	
+GY	3376762	Public Road	tertiary	5	2	518	
+GY	3376762	Main Street	tertiary	3	15	16	
+GY	3376762	1st Cross Street	residential	2	4	28	
+GY	3376762	Blarmont 1		2	67	68	
+GY	3376762	Strand Road	tertiary	2	3	16	
+GY	3376762	2nd Cross Street	residential	1	0	0	
+GY	3376762	Adams Street	residential	1	0	0	
+GY	3376762	Alexander Street	tertiary	1	0	0	
+GY	3376762	Andrews Street	residential	1	0	0	
+GY	3376762	Angoys Avenue	tertiary	1	0	0	
+GY	3376762	Anthony Street	residential	1	0	0	
+GY	3376762	Arnold Street	residential	1	0	0	
+GY	3376762	Asylum Street	residential	1	0	0	
+GY	3376762	Bamboo Dam	unclassified	1	0	0	
+GY	3376762	Berbice Bridge	primary	1	0	0	
+GY	3376762	Berbice Highway	primary	1	0	0	
+GY	3376762	Blairmont Stelling Road	residential	1	0	0	
+GY	3376762	Bristol Street	residential	1	0	0	
+GY	3376762	Canjie Bridge	secondary	1	0	0	
+GY	3376762	Cemetery Road	residential	1	0	0	
+GY	3376762	Chandda Street	residential	1	0	0	
+GY	3376762	Chandike Street	residential	1	0	0	
+GY	3376762	Chapel Street	residential	1	0	0	
+GY	3376762	Charles Place	residential	1	0	0	
+GY	3376762	Charlotte Street	residential	1	0	0	
+GY	3376762	Church Street	residential	1	0	0	
+GY	3376762	Cooper Lane	residential	1	0	0	
+GY	3376762	Corentyne Highway	secondary	1	0	0	
+GY	3376762	Critchlow Street	residential	1	0	0	
+GY	3376762	Dam	unclassified	1	0	0	
+GY	3376762	Douglas Street	residential	1	0	0	
+GY	3376762	East Berbice Highway	primary	1	0	0	
+GY	3376762	East Berbice Road	tertiary	1	0	0	
+GY	3376762	Eddie Singh Street	residential	1	0	0	
+GY	3376762	Emmanuel Lane	residential	1	0	0	
+GY	3376762	Ernest Street	residential	1	0	0	
+GY	3376762	Essex Street	residential	1	0	0	
+GY	3376762	Estate Road	tertiary	1	0	0	
+GY	3376762	First Street	residential	1	0	0	
+GY	3376762	Forbes Avenue	residential	1	0	0	
+GY	3376762	Fort Ordinance Road	residential	1	0	0	
+GY	3376762	Frantzen Street	residential	1	0	0	
+GY	3376762	Harkman's Lane	residential	1	0	0	
+GY	3376762	Harold Street	residential	1	0	0	
+GY	3376762	Health Center Street	residential	1	0	0	
+GY	3377263	Mabura - Mahdia Road	tertiary	1	0	0	
+GY	3377265	Airy Hall Seaside Road	residential	1	0	0	
+GY	3377265	Barton Street	residential	1	0	0	
+GY	3377265	Cruickshank Street	residential	1	0	0	
+GY	3377265	Mahaicony Road	residential	1	0	0	
+GY	3377265	Patterson Street	residential	1	0	0	
+GY	3377265	Purcell Street	residential	1	0	0	
+GY	3377265	Road Georgetown To Rossignol	primary	1	0	0	
+GY	3377265	West Berbice Highway	primary	1	0	0	
+GY	3377267	1st Street	residential	1	0	0	
+GY	3377267	2nd Street	residential	1	0	0	
+GY	3377267	3rd Street	residential	1	0	0	
+GY	3377267	Bendula Dam	residential	1	0	0	
+GY	3377267	Black Water Trench Road	residential	1	0	0	
+GY	3377267	Bygeval Road	tertiary	1	0	0	
+GY	3377267	Bypass Market	tertiary	1	0	0	
+GY	3377267	Bypass Market Road	tertiary	1	0	0	
+GY	3377267	Cane Grove Road	tertiary	1	0	0	
+GY	3377267	Creek Dam	residential	1	0	0	
+GY	3377267	First Street	residential	1	0	0	
+GY	3377267	Little Biabu Road	residential	1	0	0	
+GY	3377301	Airport Street	residential	1	0	0	
+GY	3377301	Hubo Street	tertiary	1	0	0	
+GY	3377408	1st Alley	residential	1	0	0	
+GY	3377408	1st Corner	residential	1	0	0	
+GY	3377408	1st Street	residential	1	0	0	
+GY	3377408	2nd Alley	residential	1	0	0	
+GY	3377408	2nd Corner	residential	1	0	0	
+GY	3377408	2nd Street	residential	1	0	0	
+GY	3377408	3rd Alley	residential	1	0	0	
+GY	3377408	3rd Corner	residential	1	0	0	
+GY	3377408	3rd Street	residential	1	0	0	
+GY	3377408	Amelia's Way	residential	1	0	0	
+GY	3377408	Anwa Oval	residential	1	0	0	
+GY	3377408	Back Road	residential	1	0	0	
+GY	3377408	Banyaballi Street	residential	1	0	0	
+GY	3377408	Berbice Road	residential	1	0	0	
+GY	3377408	Bernard Street	residential	1	0	0	
+GY	3377408	Block Moses Street	residential	1	0	0	
+GY	3377408	Bucktown Road	residential	1	0	0	
+GY	3377408	Bulletwood Street	residential	1	0	0	
+GY	3377408	Burdas Oval	residential	1	0	0	
+GY	3377408	Burnham Drive	tertiary	1	0	0	
+GY	3377408	Casino Drive	residential	1	0	0	
+GY	3377408	Cedar Street	residential	1	0	0	
+GY	3377408	Co-op Crescent	residential	1	0	0	
+GY	3377408	Crabwood Street	residential	1	0	0	
+GY	3377408	Dakama Circle	residential	1	0	0	
+GY	3377408	Damon Avenue	residential	1	0	0	
+GY	3377408	Danjou Road	residential	1	0	0	
+GY	3377408	Dennis Avenue	residential	1	0	0	
+GY	3377408	Determa Street	unclassified	1	0	0	
+GY	3377408	Dutchi Street	residential	1	0	0	
+GY	3377408	Empire Drive	residential	1	0	0	
+GY	3377408	Greenheart Street	residential	1	0	0	
+GY	3377408	Greenville Street	residential	1	0	0	
+GY	3377408	Halmara Street	residential	1	0	0	
+GY	3377408	Headley Haven	residential	1	0	0	
+GY	3377408	Hipani Oval	residential	1	0	0	
+GY	3377408	Hodege Lane	residential	1	0	0	
+GY	3377408	Hospital Road	residential	1	0	0	
+GY	3377408	Independence Avenue	unclassified	1	0	0	
+GY	3377408	Kumarrow Street	residential	1	0	0	
+GY	3377408	Lewis Street	residential	1	0	0	
+GY	3377408	Lin Drive	residential	1	0	0	
+GY	3377408	Lovers Lane	residential	1	0	0	
+GY	3377408	Main Street	residential	1	0	0	
+GY	3377408	Manni Street	residential	1	0	0	
+GY	3377408	Matthew Lane	residential	1	0	0	
+GY	3377408	Middle Road	residential	1	0	0	
+GY	3377408	Mora Street	residential	1	0	0	
+GY	3377425	Airport Road	tertiary	1	0	0	
+GY	3377425	Avenida Cilicina Ampolino	residential	1	0	0	
+GY	3377425	Avenida Cilicina Perreira Ampolino	residential	1	0	0	
+GY	3377425	Avenida Duque de Caxias	residential	1	0	0	
+GY	3377425	Avenida Getúlio Vargas	tertiary	1	0	0	
+GY	3377425	Avenida Rodrigo José da Silva	residential	1	0	0	
+GY	3377425	Avenida Rodrigues Pires de Figueiredo	tertiary	1	0	0	
+GY	3377425	Avenida São Sebastião	residential	1	0	0	
+GY	3377425	Avenida Tuxaua de Farias	secondary	1	0	0	
+GY	3377425	Avenida da Indústria	residential	1	0	0	
+GY	3377425	Avenida do Comércio	residential	1	0	0	
+GY	3377425	Beverly Hill Drive	residential	1	0	0	
+GY	3378198	Riverside Drive	tertiary	1	0	0	
+GY	3378444	Bygeval Road	tertiary	1	0	0	
+GY	3378444	Bypass Market Road	tertiary	1	0	0	
+GY	3378444	Cemetery Street	residential	1	0	0	
+GY	3378444	Fifth Street	residential	1	0	0	
+GY	3378444	First Street	residential	1	0	0	
+GY	3378444	Fourth Street	residential	1	0	0	
+GY	3378444	Middle Walk Street	residential	1	0	0	
+GY	3378444	School Road	residential	1	0	0	
+GY	3378444	Second Street	residential	1	0	0	
+GY	3378444	Sixth Street	residential	1	0	0	
+GY	3378444	Third Street	residential	1	0	0	
+GY	3378644	Regent Road	secondary	11	110	135	
+GY	3378644	Durban Street Lodge		10	12	28	
+GY	3378644	Brickdam		7	18	82	
+GY	3378644	Mandela Avenue	secondary	7	2	668	
+GY	3378644	Freeman Street	residential	6	180	212	
+GY	3378644	Garnett Street	tertiary	6	75	227	
+GY	3378644	Church Street	tertiary	5	133	308	
+GY	3378644	Durban Street	tertiary	5	10	80	
+GY	3378644	Norton Street Lodge		5	75	84	
+GY	3378644	South Road	tertiary	5	226	252	
+GY	3378644	Campbell Avenue	tertiary	4	12	97	
+GY	3378644	Croal Street	tertiary	4	39	102	
+GY	3378644	Dennis Street	tertiary	4	19	19	
+GY	3378644	East Ruimveldt		4	332	751	
+GY	3378644	Laluni Street	residential	4	121	126	
+GY	3378644	Main Street	secondary	4	32	55	
+GY	3378644	Munipur Street	residential	4	222	234	
+GY	3378644	North Road	tertiary	4	9	26	
+GY	3378644	Norton Street	residential	4	2	49	
+GY	3378644	Princess Street Lodge		4	59	74	
+GY	3378644	Quamina Street	residential	4	70	253	
+GY	3378644	Thomas Street	unclassified	4	179	296	
+GY	3378644	Brickdam Street	tertiary	3	1	44	
+GY	3378644	Charlotte Street	residential	3	189	2316	
+GY	3378644	Forshaw Street	residential	3	235	283	
+GY	3378644	Lamaha Street	tertiary	3	41	216	
+GY	3378644	Light Street	residential	3	12	90	
+GY	3378644	Middle Street	residential	3	91	316	
+GY	3378644	Penny Lane	residential	3	702	730	
+GY	3378644	Railway Embankment Road	secondary	3	8	29	
+GY	3378644	Regent & Hinck Streets		3	32	32	
+GY	3378644	Waterloo Street	tertiary	3	167	188	
+GY	3378644	3rd Street	residential	2	62	64	
+GY	3378644	Anira Street	residential	2	30	66	
+GY	3378644	Austin Street	residential	2	20	37	
+GY	3378644	Barima Avenue	residential	2	148	337	
+GY	3378644	Brummel Place	residential	2	66	66	
+GY	3378644	Camp Street	secondary	2	195	205	
+GY	3378644	Cane View Avenue		2	1	501	
+GY	3378644	Carmichael Street	tertiary	2	226	226	
+GY	3378644	Delhi Street	tertiary	2	35	130	
+GY	3378644	Duke Street	residential	2	94	100	
+GY	3378644	Duncan Street	tertiary	2	80	242	
+GY	3378644	East La Penitence , Freeman Street		2	0	0	
+GY	3378644	Eldorado Avenue	residential	2	141	143	
+GY	3378644	Eping Avenue	residential	2	186	187	
+GY	3378644	First Street	residential	2	89	130	
+GY	3378644	Freeman Street East La Penitence		2	0	0	
+GY	3378644	Front Circle	residential	2	516	615	
+GY	3378644	Greenheart Street	residential	2	213	214	
+GY	3378644	Hadfield Street	residential	2	43	64	
+GY	3378644	Hadfield Street and Austin Place		2	56	56	
+GY	3378644	Hincks Street		2	21	32	
+GY	3378644	Irving Street	primary	2	78	234	
+GY	3378644	Ixora Lane		2	235	237	
+GY	3378644	Joseph Pollydore Street Lodge		2	0	0	
+GY	3378644	Lindley Avenue	residential	2	137	143	
+GY	3378644	Lombard Street	secondary	2	14	15	
+GY	3378644	Mandela Avenue, East La Penitence		2	0	0	
+GY	3378644	New Garden Street	residential	2	54	300	
+GY	3378644	Oleander Avenue	residential	2	51	54	
+GY	3378644	Oronoque Street	residential	2	89	92	
+GY	3378644	Pineapple Street East Ruimveldt		2	104	114	
+GY	3378644	Public Road	primary	2	3	32	
+GY	3378644	Regent & Light Street		2	108	139	
+GY	3378644	Regent Street	secondary	2	93	131	
+GY	3378644	Robb Street	tertiary	2	80	80	
+GY	3378644	Rose Street	residential	2	394	394	
+GY	3378644	Sandy Babb Street	tertiary	2	7	36	
+GY	3378644	Silverballi Road	residential	2	87	88	
+GY	3378644	Stone Avenue	residential	2	80	108	
+GY	3378644	Sunflower Close	residential	2	302	339	
+GY	3378644	Trench Road East Ruimvelt		2	160	510	
+GY	3378644	Abary Street	residential	1	0	0	
+GY	3378644	Adelaide Street	residential	1	0	0	
+GY	3378644	Airstrip Access Road	tertiary	1	0	0	
+GY	3378644	Akawini Street	residential	1	0	0	
+GY	3378644	Alboys Street	residential	1	0	0	
+GY	3378644	Alexander Street	tertiary	1	0	0	
+GY	3378644	Amatauk Lane	residential	1	0	0	
+GY	3378644	America Street	residential	1	0	0	
+GY	3378644	Amla Avenue West	residential	1	0	0	
+GY	3378644	Apalawa Lane	residential	1	0	0	
+GY	3378644	Arapaima Street	residential	1	0	0	
+GY	3378644	Arawak Avenue	residential	1	0	0	
+GY	3378644	Austin Place	residential	1	0	0	
+GY	3378644	B13	residential	1	0	0	
+GY	3378644	Back Street	residential	1	0	0	
+GY	3378644	Back Street Squatting Area	residential	1	0	0	
+GY	3378644	Banks Avenue	residential	1	0	0	
+GY	3378644	Baramita Street	residential	1	0	0	
+GY	3378644	Barbershop Street	residential	1	0	0	
+GY	3378644	Barclay Street	residential	1	0	0	
+GY	3378644	Barr Street	residential	1	0	0	
+GY	3378644	Bartica Avenue	residential	1	0	0	
+GY	3378644	Battery Road	tertiary	1	0	0	
+GY	3378644	Beaver Street	residential	1	0	0	
+GY	3378644	Bel Air Gardens	residential	1	0	0	
+GY	3378644	Bel Air Gas Station Road	residential	1	0	0	
+GY	3378644	Bel Air Road	residential	1	0	0	
+GY	3379507	3rd Avenue	residential	2	20	20	
+GY	3379507	1st Street	residential	1	0	0	
+GY	3379507	2nd Avenue	residential	1	0	0	
+GY	3379507	2nd Street	residential	1	0	0	
+GY	3379507	3rd Street	residential	1	0	0	
+GY	3379507	4th Avenue	residential	1	0	0	
+GY	3379507	4th Street	residential	1	0	0	
+GY	3379507	5th Avenue	residential	1	0	0	
+GY	3379507	5th Street	secondary	1	0	0	
+GY	3379507	6th Avenue	residential	1	0	0	
+GY	3379507	6th Street	secondary	1	0	0	
+GY	3379507	7th Avenue	residential	1	0	0	
+GY	3379507	7th Street	residential	1	0	0	
+GY	3379507	8th Street	residential	1	0	0	
+GY	3379507	9th Street	residential	1	0	0	
+GY	3379507	Airport Road	residential	1	0	0	
+GY	3379507	Bartica-Potaro Road	secondary	1	0	0	
+GY	3379507	Buck Island Road	residential	1	0	0	
+GY	3379507	Byderabo Front Road	residential	1	0	0	
+GY	3379507	Teperu Road	tertiary	1	0	0	
+GY	3379507	W. Hill Road	residential	1	0	0	
+GY	7303406	Back Street	residential	1	0	0	
+GY	7303406	Essequibo Coast Road	primary	1	0	0	
+GY	7303406	Mainstay Road	tertiary	1	0	0	
+GY	7303406	Old Road	residential	1	0	0	
+GY	7303406	School Road	residential	1	0	0	
+GY	8314122	Center Street	residential	2	0	0	
+GY	8314122	Abary Road	residential	1	0	0	
+GY	8314122	Agricultural Road	residential	1	0	0	
+GY	8314122	Airport Road	residential	1	0	0	
+GY	8314122	Baker Street	residential	1	0	0	
+GY	8314122	Cemetery Road	residential	1	0	0	
+GY	8314122	Derek Street	residential	1	0	0	
+GY	8314122	Double R Street	residential	1	0	0	
+GY	8314122	Eighth Street	residential	1	0	0	
+GY	8314122	Emmanuel Drive	residential	1	0	0	
+GY	8314122	Esau Street	residential	1	0	0	
+GY	8314122	Estate Road	residential	1	0	0	
+GY	13589438	#75 Village		2	0	0	
+GY	13589438	Achillea Street	residential	1	0	0	
+GY	13589438	Blue Orchid Street	residential	1	0	0	
+GY	13589438	Cemetery Street	residential	1	0	0	
+GY	13589438	Corentyne Highway	primary	1	0	0	
+GY	13589438	Cosmos Street	residential	1	0	0	
+GY	13589438	Dhad Street	residential	1	0	0	
+GY	13589438	Dukestown Street	residential	1	0	0	
+GY	13589438	Fitz O'Brian Bridge	residential	1	0	0	
+GY	13589438	Forget Me Not Street	residential	1	0	0	
+GY	13589438	Hibiscus Street	residential	1	0	0	
+GY	13589438	Jasmine Street	residential	1	0	0	
+GY	13589438	Jump And Kiss Street	residential	1	0	0	
+GY	13589438	Kim Jong Il Road (John Culvert Street)	residential	1	0	0	
+GY	13589438	Lily Street	residential	1	0	0	
+GY	13589438	Lily of the Valley Street	residential	1	0	0	
+GY	13589438	Lotus Street	residential	1	0	0	
+GY	13589438	Middle Street	residential	1	0	0	
+GY	13589438	Morning Glory Street	residential	1	0	0	
+GY	13589438	No. 63 Beach Road	residential	1	0	0	
+GY	13589438	Racecourse Street (Well Street)	residential	1	0	0	
+GY	13589438	Scottsburg Street	residential	1	0	0	
+GY	13589438	Sunflower Street	residential	1	0	0	
+GY	13589438	Thompson Bridge Street	residential	1	0	0	

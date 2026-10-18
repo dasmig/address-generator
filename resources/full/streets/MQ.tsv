@@ -1,0 +1,713 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+MQ	3569886	Route de Grand Fond	residential	74	456	4740	
+MQ	3569886	Avenue de l'Europe	residential	57	33	591	
+MQ	3569886	Avenue Corail	residential	49	101	598	
+MQ	3569886	Rue Victor M'Quiby	residential	39	25	512	
+MQ	3569886	Rue de l'Oiseau du Paradis	residential	36	104	420	
+MQ	3569886	Rue des Balisiers	residential	36	63	620	
+MQ	3569886	Route du Cap	residential	33	56	892	
+MQ	3569886	Rue de la Canne	residential	25	43	462	
+MQ	3569886	Impasse du Fromager	residential	24	34	210	
+MQ	3569886	Rue Hector Orville	unclassified	21	27	154	
+MQ	3569886	Rue Victor Sévère	unclassified	21	28	210	
+MQ	3569886	Allée des Bégonias	residential	18	9	114	
+MQ	3569907	Route des Pitons	residential	88	294	1946	
+MQ	3569907	Route de L'Urion	residential	60	282	1070	
+MQ	3569907	Rue Gabriel Péri	primary	45	12	78	
+MQ	3569907	Route de Lacroix	secondary	41	327	1339	
+MQ	3569907	Route de Canton Suisse	residential	39	25	1658	
+MQ	3569907	Route de Bel Event	secondary	35	63	1841	
+MQ	3569907	Route des Distilleries	tertiary	34	26	2300	
+MQ	3569907	Rue Méry Lecurieux-Lafayette	secondary	33	24	394	
+MQ	3569907	Route des Maraîchers	unclassified	27	132	1517	
+MQ	3569907	Allée de la Poudrière	residential	26	16	293	
+MQ	3569907	Route de Manavit	unclassified	26	472	2304	
+MQ	3569907	Rue Louis Morin	unclassified	26	25	246	
+MQ	3569915	Chemin de Bahuaud	unclassified	116	131	2758	
+MQ	3569915	Chemin Séailles	residential	99	147	1677	
+MQ	3569915	Chemin Allée	residential	98	22	1281	
+MQ	3569915	Chemin Choco	residential	94	40	1370	
+MQ	3569915	Chemin Morne Basset	residential	90	77	1676	
+MQ	3569915	Chemin Bois Neuf Montrose	residential	87	35	855	
+MQ	3569915	Chemin Morne Poirier	residential	85	29	1621	
+MQ	3569915	Chemin Là-Haut	residential	70	53	811	
+MQ	3569915	Chemin Rabuchon	residential	66	57	1560	
+MQ	3569915	Chemin Sérail	residential	64	861	3100	
+MQ	3569915	Chemin Long Bois	unclassified	59	1	63	
+MQ	3569915	Chemin de Prospérité	residential	58	237	1633	
+MQ	3569915	Chemin Choisy	residential	57	2	53	
+MQ	3569915	Chemin Seailles Cark	residential	56	20	645	
+MQ	3569915	Chemin Salubre	tertiary	54	3	61	
+MQ	3569915	Chemin Rosière	residential	50	26	1941	
+MQ	3569915	Chemin Balata	residential	49	38	1153	
+MQ	3569915	Chemin l’Étang	residential	45	120	693	
+MQ	3569915	Rue Kevin Jeanne Rose	tertiary	45	90	1670	
+MQ	3569915	Lotissement le Verger	residential	44	4	432	
+MQ	3569915	Chemin Morne Bossu	residential	43	65	1340	
+MQ	3569915	Chemin Joseph Lagrosillière	unclassified	39	58	3293	
+MQ	3569915	Chemin Ti Baume	residential	38	30	458	
+MQ	3569915	Impasse Zépeng-Tranblan	residential	38	9	257	
+MQ	3569915	Impasse des Alizées	residential	38	2	47	
+MQ	3569915	Chemin Bois Neuf	unclassified	37	220	946	
+MQ	3569915	Chemin Derainville	residential	37	8	367	
+MQ	3569915	Rue Paul Franc	residential	36	22	191	
+MQ	3569915	Rue Eugène Maillard	tertiary	35	2	43	
+MQ	3569915	Rue Guy Cabort-Masson	residential	35	2	48	
+MQ	3569915	Chemin Morne Marc	residential	32	161	1075	
+MQ	3569915	Chemin Bois Neuf Rivière Blanche	residential	31	70	640	
+MQ	3569915	Chemin Saint-Domaine	residential	31	143	1436	
+MQ	3569915	Chemin Cité Luco	residential	30	39	431	
+MQ	3569915	Allée des Palmiers	residential	28	42	380	
+MQ	3569915	Chemin de l’Habituée	residential	27	50	521	
+MQ	3569915	Allée des Orchidées	residential	26	15	300	
+MQ	3569915	Chemin En Belliard	residential	26	121	371	
+MQ	3569915	Chemin Virapin	residential	26	44	694	
+MQ	3569915	Rue Schoelcher	tertiary	26	2	33	
+MQ	3569915	Chemin Pamphile Nellien	residential	25	30	443	
+MQ	3569915	Chemin Rivière Monsieur	residential	24	80	1207	
+MQ	3569915	Rue Séphora Louis-Félix	residential	24	2	34	
+MQ	3569915	Chemin Bois Goudou	unclassified	23	86	476	
+MQ	3569915	Chemin Ostologue	residential	23	60	351	
+MQ	3569915	Route de Bélème	secondary	22	310	1047	
+MQ	3569915	Chemin Courbaril	residential	21	112	908	
+MQ	3569915	Chemin Damas	residential	21	36	403	
+MQ	3569926	Rue Victor Schoelcher	residential	100	7	116	
+MQ	3569926	Rue de la Liberté	secondary	73	5	99	
+MQ	3569926	Rue du Pavé	tertiary	72	36	1869	
+MQ	3569926	Rue Vaton	residential	63	103	1441	
+MQ	3569926	Rue de la Concorde	residential	62	40	1027	
+MQ	3569926	Route de Bois Jadé	residential	61	59	1684	
+MQ	3569926	Rue de Saint Aroman	tertiary	61	107	1928	
+MQ	3569926	Boulevard de la Voie Lactée	residential	59	3	67	
+MQ	3569926	Rue Félix	residential	58	61	1127	
+MQ	3569926	Rue du Calvaire	residential	56	16	1026	
+MQ	3569926	Rue Robin	residential	55	603	1272	
+MQ	3569926	Route Départementale 15 Bezaudin	secondary	52	230	1179	
+MQ	3569926	Route Départementale 25 Rodon	secondary	52	157	1068	
+MQ	3569926	Rue du Muguet	residential	49	3	47	
+MQ	3569926	Route Départementale 25 Bon Air	secondary	48	102	1235	
+MQ	3569926	Rue Maziere	residential	48	35	555	
+MQ	3569926	Rue Tambouyé	residential	46	30	878	
+MQ	3569926	Rue Rose des Vents	residential	42	3	49	
+MQ	3569926	Allée de l'Amitié	residential	41	3	54	
+MQ	3569926	Rue Rivière Canaris	residential	40	19	424	
+MQ	3569926	Rue des Fruits à Pain	residential	40	2	56	
+MQ	3569926	Rue Louis des Étages	residential	39	2	74	
+MQ	3569926	Rue de la Ferme	residential	39	167	773	
+MQ	3569926	Rue Desroses	residential	38	382	979	
+MQ	3569926	Rue Morinière	residential	36	10	439	
+MQ	3569926	Rue de Félicité	residential	36	150	1548	
+MQ	3569926	Rue des 3 Frères	residential	36	6	561	
+MQ	3569926	Allée de la Tolérance		35	4	66	
+MQ	3569926	Rue Fond Moulin	residential	35	48	876	
+MQ	3569926	Rue Lari Deye	residential	35	32	834	
+MQ	3569926	Rue Source Marie d'Eau	residential	35	11	622	
+MQ	3569926	Rue des Flèches Bambous	residential	35	11	449	
+MQ	3569926	Rue des Hibiscus	residential	34	2	48	
+MQ	3569926	Rue Blampuy	residential	33	90	576	
+MQ	3569926	Rue Tilape	residential	33	82	860	
+MQ	3569926	Rue Sapotille	residential	32	41	790	
+MQ	3569926	Rue Épineux	residential	32	23	938	
+MQ	3569926	Avenue des Jeunes	secondary	31	2	41	
+MQ	3569926	Rue Derrière	residential	31	44	303	
+MQ	3569926	Rue de Beaufort	residential	31	58	2310	
+MQ	3569926	Rue de la Citerne	residential	31	14	740	
+MQ	3569926	Avenue Lassalle	residential	30	2	30	
+MQ	3569926	Rue Fond Cacao	residential	30	59	528	
+MQ	3569926	Rue Morne Macroix	residential	30	95	755	
+MQ	3569926	Rue Claire Plessis	residential	29	108	1071	
+MQ	3569926	Rue de la Croix	residential	29	110	685	
+MQ	3569926	Rue des Vanniers	residential	29	72	519	
+MQ	3569926	Route de la Passerelle	residential	28	91	1073	
+MQ	3569928	Route Chefs Caraïbes	unclassified	62	127	1610	
+MQ	3569928	Rue Tou Manman	residential	43	132	578	
+MQ	3569928	Allée de la Daurade	residential	32	20	314	
+MQ	3569928	Allée des Palétuviers	residential	32	55	823	
+MQ	3569928	Allée des Gommiers	residential	31	144	802	
+MQ	3569928	Rue Schoelcher	tertiary	30	13	70	
+MQ	3569928	Rue Victor Hugo	residential	19	1	48	
+MQ	3569928	Allée de la Carangue	residential	18	12	112	
+MQ	3569928	Allée de la Bonite	residential	16	45	484	
+MQ	3569928	Allée du Bois Ti-Baume	residential	16	129	342	
+MQ	3569928	Allée de la Yole Ronde	residential	11	15	120	
+MQ	3569928	Impasse des Palétuviers	unclassified	11	14	185	
+MQ	3569928	Rue Paul Langevin	residential	11	2	14	
+MQ	3569928	impasse Suzanne Maran	residential	10	44	150	
+MQ	3569928	impasse Kaloré	residential	9	32	86	
+MQ	3569928	Impasse Fanote	residential	8	3	46	
+MQ	3569928	Impasse du Bakoua	residential	8	41	175	
+MQ	3569928	Impasse des Arawaks	residential	7	12	63	
+MQ	3569928	Impasse Paruline	residential	6	31	179	
+MQ	3569928	Impasse du Thazard	residential	6	7	97	
+MQ	3569928	Impasse du Zamana	residential	6	28	106	
+MQ	3569928	Rue Jean Jaurès	secondary	6	1	12	
+MQ	3569928	Chemin Mancenillier	unclassified	5	54	342	
+MQ	3569928	Impasse Aronia	unclassified	5	69	201	
+MQ	3569970	Route Départementale 34	tertiary	154	324	4381	
+MQ	3569970	Route Nationale 8	primary	132	134	4951	
+MQ	3569970	Route de Rivière Pilote	secondary	129	2708	5732	
+MQ	3569970	Chemin la Débat	unclassified	116	188	3062	
+MQ	3569970	Route de Saint-Vincent	residential	105	148	2883	
+MQ	3569970	Chemin de Préfontaine	unclassified	83	128	2909	
+MQ	3569970	Route de Perrine	unclassified	83	148	1545	
+MQ	3569970	Route Départementale 8	secondary	77	92	2535	
+MQ	3569970	Chemin de Morne Roches	residential	75	76	2093	
+MQ	3569970	Chemin Soldats	residential	61	120	1965	
+MQ	3569970	Route Départementale 18	secondary	59	109	5219	
+MQ	3569970	Rue du Marronnage	residential	59	98	719	
+MQ	3569970	Chemin Agapanthe	unclassified	58	93	2068	
+MQ	3569970	Avenue des Insurrections Anti-Esclavagistes	primary	52	58	365	
+MQ	3569970	Chemin de Morne Escarpe	tertiary	52	315	1504	
+MQ	3569970	Chemin de Desruisseaux	residential	46	187	1443	
+MQ	3569970	Allée Arkansyel	residential	42	3	50	
+MQ	3569970	Route de l'Insurrection du Sud de 1870	primary	42	145	2931	
+MQ	3569970	Chemin Pomaré	residential	40	284	1316	
+MQ	3569970	Rue An Bélay	unclassified	40	58	1086	
+MQ	3569970	Avenue Wanakaera	primary	39	7	390	
+MQ	3569970	Chemin du Radar	residential	39	14	1282	
+MQ	3569970	Chemin Brie	residential	36	29	1087	
+MQ	3569970	Route de Desmartinières	unclassified	36	10	811	
+MQ	3570392	Rue Maurice Mélidor Fuxis	unclassified	88	96	1162	
+MQ	3570392	Route Paul Welter	unclassified	71	431	3102	
+MQ	3570392	Rue Sabine Andrivon-Milton	residential	65	5	78	
+MQ	3570392	Route Saimbert Troudart	unclassified	62	100	1403	
+MQ	3570392	Route de Cocotte	residential	59	96	2453	
+MQ	3570392	Route de la Pierre Noire	residential	48	39	2038	
+MQ	3570392	Allée des Constellations	residential	44	3	44	
+MQ	3570392	Rue Victor Hugo	unclassified	44	3	46	
+MQ	3570392	Route de la Montagne	tertiary	43	156	2195	
+MQ	3570392	Boulevard Léopold Bissol	residential	42	2	66	
+MQ	3570392	Route de la Citoyenneté	unclassified	42	44	1462	
+MQ	3570392	Rue de la Clarinette	residential	42	267	786	
+MQ	3570392	Allée des Danses	residential	41	37	656	
+MQ	3570392	Chemin Plantain	residential	40	3	1749	
+MQ	3570392	Allée des Acacias	residential	39	282	608	
+MQ	3570392	Résidence Concorde	residential	38	2	37	
+MQ	3570392	Rue de la Madone	residential	37	2	37	
+MQ	3570392	Rue des Rosiers	residential	37	22	84	
+MQ	3570392	Allée des Hibiscus	unclassified	35	2	62	
+MQ	3570392	Boulevard Général de Gaulle	residential	35	2	47	
+MQ	3570392	Chemin En Pérette	residential	35	82	1464	
+MQ	3570392	Route de Belle Étoile	unclassified	35	1299	2715	
+MQ	3570392	Rue René Cassin	residential	34	2	49	
+MQ	3570392	Chemin des Iles	residential	33	215	609	
+MQ	3570396	Rue Man Hippolyte Ravin	residential	48	109	1415	
+MQ	3570396	Rue du Poinsettia	residential	39	2	64	
+MQ	3570396	Rue de l'amitié	tertiary	38	220	1751	
+MQ	3570396	Allée des Colibris	residential	33	40	800	
+MQ	3570396	Quartier Poterie		30	3	48	
+MQ	3570396	Allée des Campêches	residential	29	48	663	
+MQ	3570396	Rue Osman Durand	residential	28	52	489	
+MQ	3570396	Allée de la Muscade	residential	27	2	27	
+MQ	3570396	Allée des Caramboliers	residential	25	3	37	
+MQ	3570396	Rue de l'Amitié	tertiary	23	1852	2566	
+MQ	3570396	Allée du Safran	residential	20	1	25	
+MQ	3570396	Rue Eugène Larcher	residential	20	1	24	
+MQ	3570396	Allée de Bel Air	residential	18	63	394	
+MQ	3570396	Allée des Ortolans	residential	18	2	25	
+MQ	3570396	Allée des Sucriers	residential	18	1	22	
+MQ	3570396	Chemin Orange Amère	residential	18	81	1410	
+MQ	3570396	Rue Galice	residential	18	1	20	
+MQ	3570396	Allée Mare Jeanville	residential	15	55	366	
+MQ	3570396	Rue des Mangles	residential	12	5	18	
+MQ	3570396	Allée An Diri	residential	11	9	288	
+MQ	3570396	Allée des Merles	residential	11	8	24	
+MQ	3570396	Allée des Pommes Cannelle	residential	11	2	13	
+MQ	3570396	Rue Président Kennedy	residential	11	2	173	
+MQ	3570396	Rue du Quadrille	residential	10	1	20	
+MQ	3570410	Route Départementale 34	secondary	77	4568	5610	
+MQ	3570410	Rue Schoelcher	secondary	71	4	84	
+MQ	3570410	Route Nationale 8	primary	65	5472	7562	
+MQ	3570410	Chemin Abondance	secondary	53	287	1971	
+MQ	3570410	Route Départementale 17 Morne Honoré	secondary	47	43	1108	
+MQ	3570410	Rue Capitaine Pierre-Rose	unclassified	43	2	49	
+MQ	3570410	Chemin de Massonville	unclassified	36	95	1310	
+MQ	3570410	Route de Vignette	unclassified	35	142	789	
+MQ	3570410	Route de Desmartinières	unclassified	33	843	1654	
+MQ	3570410	Route de Guinée Fleury	tertiary	30	177	2023	
+MQ	3570410	Chemin Beauville	residential	27	38	328	
+MQ	3570410	Chemin de Nouvelle Guinée	unclassified	26	611	1289	
+MQ	3570410	Chemin Morency	residential	23	110	1010	
+MQ	3570410	Chemin de Rodalie	residential	20	9	771	
+MQ	3570410	Route de Dufresne	tertiary	20	30	647	
+MQ	3570410	Route de Régale	tertiary	20	3	812	
+MQ	3570410	Chemin Piton	residential	19	15	520	
+MQ	3570410	Impasse Echinops	residential	19	37	431	
+MQ	3570410	Chemin Agapanthe		16	2108	2269	
+MQ	3570410	Impasse Arnerin	residential	16	14	315	
+MQ	3570410	Impasse Man Jen	residential	16	20	408	
+MQ	3570410	Chemin Vielles Terres	residential	15	20	493	
+MQ	3570410	Chemin d'Abadie	residential	14	7	490	
+MQ	3570410	Chemin des Macarés	residential	13	20	263	
+MQ	3570412	Impasse Groseille	residential	30	67	533	
+MQ	3570412	Chemin Manzelle	residential	29	43	1006	
+MQ	3570412	Chemin Beauvais	residential	25	58	1012	
+MQ	3570412	Chemin Fond Citron	residential	19	19	478	
+MQ	3570412	Chemin Jean Baptiste	residential	19	38	522	
+MQ	3570412	Chemin Philibo	residential	18	14	610	
+MQ	3570412	Rue des Goyaviers	residential	17	1	37	
+MQ	3570412	Fond Giromond		10	2	137	
+MQ	3570412	Rue des Campêchers		9	1	16	
+MQ	3570412	Impasse Surette	residential	7	9	255	
+MQ	3570412	Impasse Étienne	residential	7	67	204	
+MQ	3570412	Chemin Oliny	residential	6	84	182	
+MQ	3570412	Impasse Labejof	residential	6	27	103	
+MQ	3570412	Rue Vincent Allègre	unclassified	6	6	57	
+MQ	3570412	Impasse Plancel	residential	5	78	152	
+MQ	3570412	Impasse Mabi	residential	4	37	143	
+MQ	3570412	Rue Émile Delblond	residential	4	1	9	
+MQ	3570412	Impasse Jeanville		3	70	206	
+MQ	3570412	Rue Schoelcher	tertiary	3	27	37	
+MQ	3570412	Allée des Moubins	residential	2	11	11	
+MQ	3570412	Impasse des Colibris	residential	2	2	4	
+MQ	3570412	Rue du Père Labat	residential	2	7	13	
+MQ	3570412	Allée Marlet	residential	1	0	0	
+MQ	3570412	Allée Opale	residential	1	0	0	
+MQ	3570412	Allée de la Mutualité	residential	1	0	0	
+MQ	3570412	Allée des Amandes	residential	1	0	0	
+MQ	3570412	Allée des Cocotiers	residential	1	0	0	
+MQ	3570412	Allée des Hibiscus	residential	1	0	0	
+MQ	3570412	Allée des Lataniers	residential	1	0	0	
+MQ	3570412	Allée des Lauriers	residential	1	0	0	
+MQ	3570412	Allée des Palmistes	residential	1	0	0	
+MQ	3570412	Allée des Roseaux	residential	1	0	0	
+MQ	3570412	Allée des Épineuses	residential	1	0	0	
+MQ	3570412	Allée des Épineux	residential	1	0	0	
+MQ	3570412	Allée du 12 Mars 1994	residential	1	0	0	
+MQ	3570412	Allée du Corail	residential	1	0	0	
+MQ	3570412	Avenue Contant Leray	tertiary	1	0	0	
+MQ	3570412	Avenue Léopold Bissol	primary	1	0	0	
+MQ	3570412	Avenue Marius Stéphanie Victoire	secondary	1	0	0	
+MQ	3570412	Avenue Nelson Mandela	tertiary	1	0	0	
+MQ	3570412	Avenue Paul Chillan	secondary	1	0	0	
+MQ	3570412	Avenue Paul Symphor	unclassified	1	0	0	
+MQ	3570412	Avenue de l'Agriculture	primary	1	0	0	
+MQ	3570412	Avenue des Bougainvilliers	residential	1	0	0	
+MQ	3570412	Avenue des Cayalis	residential	1	0	0	
+MQ	3570412	Avenue des Kalinagos	primary	1	0	0	
+MQ	3570412	Avenue des Poiriers	residential	1	0	0	
+MQ	3570412	Avenue du Docteur Édouard Pidéry	secondary	1	0	0	
+MQ	3570423	Rue Frantz Fanon	unclassified	104	110	2077	
+MQ	3570423	Avenue Edgard Nestoret	primary	78	27	913	
+MQ	3570423	Avenue du Général de Gaulle	secondary	54	108	734	
+MQ	3570423	Rue André Aliker	primary	50	50	959	
+MQ	3570423	Route la Denisienne	tertiary	49	425	2438	
+MQ	3570423	Rue Marcel Bouquety	secondary	48	88	1049	
+MQ	3570423	Rue Paulette Nardal	unclassified	47	96	975	
+MQ	3570423	Rue Aimé Césaire	residential	44	31	400	
+MQ	3570423	Rue du Val Joli	residential	44	80	459	
+MQ	3570423	Route de la Trace-Propreté	secondary	43	238	2622	
+MQ	3570423	Rue Patrick Chamoiseau	residential	42	14	138	
+MQ	3570423	Rue Gran Bwa	residential	40	4	325	
+MQ	3570423	Route des Sources	tertiary	39	704	2689	
+MQ	3570423	Rue du Canal des Esclaves		34	34	709	
+MQ	3570423	Rue Mont d'Éole	residential	33	75	1019	
+MQ	3570423	Rue Joseph Zobel	residential	32	19	424	
+MQ	3570423	Rue Louisy Massolin	residential	32	73	401	
+MQ	3570423	Chemin de la Digue	unclassified	31	40	1319	
+MQ	3570423	Rue Solange Fitt Duval	residential	31	20	159	
+MQ	3570423	Rue Clément Baur	residential	29	21	356	
+MQ	3570423	Rue Tablet-Koko	residential	29	20	146	
+MQ	3570423	Rue Émile Maurice	unclassified	28	23	281	
+MQ	3570423	Rue de l'Hippodrome	residential	27	30	404	
+MQ	3570423	Rue des Floralies	residential	27	19	310	
+MQ	3570426	Rue Abbé Saffache	tertiary	10	2	40	
+MQ	3570426	Rue Jean Marie Tjibaou	tertiary	10	10	29	
+MQ	3570426	Rue Rosalie Soleil	residential	6	4	20	
+MQ	3570426	Lotissment le Domaine de Belfond	residential	3	12	12	
+MQ	3570426	Boulevard Allègre	residential	2	11	37	
+MQ	3570426	Allée des bougainvilliers	residential	1	0	0	
+MQ	3570426	Allée des cocotiers	residential	1	0	0	
+MQ	3570426	Allée des ixoras	residential	1	0	0	
+MQ	3570426	Avenue Aimee Cesaire	unclassified	1	0	0	
+MQ	3570426	Avenue Aimé Césaire	primary	1	0	0	
+MQ	3570426	Avenue Frantz Fanon	tertiary	1	0	0	
+MQ	3570426	Avenue François Miterrand	primary	1	0	0	
+MQ	3570426	Avenue François Mitterrand	primary	1	0	0	
+MQ	3570426	Chemin de Mondesir Pointe Sable	unclassified	1	0	0	
+MQ	3570426	Chemin de Morne Gommier	tertiary	1	0	0	
+MQ	3570426	Chemin de la Berry	unclassified	1	0	0	
+MQ	3570426	Chemin de mondesir pointe sable	unclassified	1	0	0	
+MQ	3570426	Chemin du Morne Rouge	unclassified	1	0	0	
+MQ	3570426	Chemin rural du Morne Sulpice	residential	1	0	0	
+MQ	3570426	Cité Diaka	residential	1	0	0	
+MQ	3570426	Cité Flamboyants	residential	1	0	0	
+MQ	3570426	Cité Mongérald	residential	1	0	0	
+MQ	3570426	Cité Pointe Marin	residential	1	0	0	
+MQ	3570426	Espace Vincent Placoly	pedestrian	1	0	0	
+MQ	3570427	Chemin de Bon Repos	tertiary	104	1020	3612	
+MQ	3570427	Route de Carabin	residential	96	153	3342	
+MQ	3570427	Route Départementale 22	secondary	73	70	2552	
+MQ	3570427	Route de Morne Céron	residential	67	49	1938	
+MQ	3570427	Route de Macédoine	secondary	66	1562	3256	
+MQ	3570427	Rue du Calvaire	unclassified	65	369	1220	
+MQ	3570427	Route Castel Brando	residential	57	66	2031	
+MQ	3570427	Route de Vallon	residential	55	157	1177	
+MQ	3570427	Route de Morne Bois	residential	51	208	2023	
+MQ	3570427	Chemin de Morne Degras	residential	49	35	1041	
+MQ	3570427	Chemin Fond Grande Anse	residential	48	147	1371	
+MQ	3570427	Route de Morne Capot	unclassified	47	169	1120	
+MQ	3570427	Chemin Moreau	residential	46	145	1993	
+MQ	3570427	Chemin Étoile	residential	43	29	1243	
+MQ	3570427	Rue des Hibiscus	residential	41	63	321	
+MQ	3570427	Chemin de Maxime	residential	39	788	1404	
+MQ	3570427	Chemin Fond Cani	unclassified	36	193	2593	
+MQ	3570427	Chemin de Gens	residential	36	4	680	
+MQ	3570427	Rue Victor Schoelcher	primary	36	2	58	
+MQ	3570427	Chemin eau bouillie	residential	32	17	462	
+MQ	3570427	Impasse de la Vieille Usine	residential	32	21	395	
+MQ	3570427	Chemin Cassius	secondary	31	18	1345	
+MQ	3570427	Chemin de Lange	residential	30	372	961	
+MQ	3570427	Rue du Tabac	residential	30	109	354	
+MQ	3570428	Impasse des Lauriers	residential	88	7	915	
+MQ	3570428	Chemin Durocher	residential	63	23	1298	
+MQ	3570428	Route de Croix Rivail	secondary	48	96	1626	
+MQ	3570428	Chemin Village Cledor	residential	47	3	1081	
+MQ	3570428	Chemin de la Cécilie	residential	43	136	924	
+MQ	3570428	Rue Cadenat	residential	39	45	589	
+MQ	3570428	Impasse Latania	residential	38	114	633	
+MQ	3570428	Chemin Tulipe	residential	30	63	1109	
+MQ	3570428	Allée des Embruns	residential	29	20	274	
+MQ	3570428	Chemin Bagasse	residential	27	20	531	
+MQ	3570428	Chemin Bochette	unclassified	27	12	1029	
+MQ	3570428	Chemin Grand Champ	residential	27	3	464	
+MQ	3570428	Impasse Mexico	residential	27	55	522	
+MQ	3570428	Impasse Pervenche		24	27	1060	
+MQ	3570428	Impasse des Indes	residential	24	48	401	
+MQ	3570428	Fond Giromond	residential	23	153	480	
+MQ	3570428	Chemin le Balleu	residential	22	70	305	
+MQ	3570428	Impasse Blancha	residential	21	11	204	
+MQ	3570428	Chemin Verte Vallée	residential	18	86	488	
+MQ	3570428	Chemin de la Rosée		16	450	628	
+MQ	3570428	Chemin Derrière Bois		15	238	521	
+MQ	3570428	Route de Bélème		14	4	226	
+MQ	3570428	Chemin du Cachiman	residential	13	288	435	
+MQ	3570428	Impasse Chaudeau	residential	13	3	139	
+MQ	3570428	Impasse Vinasse	residential	13	30	451	
+MQ	3570428	Route des 2 Recensements		13	18	194	
+MQ	3570428	Allée des Printemps		12	1	12	
+MQ	3570428	Impasse Macarons	residential	11	4	234	
+MQ	3570428	Impasse Palmier Royal	residential	11	27	144	
+MQ	3570428	Allée des Orchidées		10	1	10	
+MQ	3570428	Allée du Guéri Tout	residential	10	8	132	
+MQ	3570428	Chemin Basse Gondeau	tertiary	10	271	1103	
+MQ	3570428	Impasse Barbadine	residential	10	14	1202	
+MQ	3570428	Impasse Eventail	residential	10	13	101	
+MQ	3570428	Allée des Alizés		8	1	8	
+MQ	3570428	Allée des Hibiscus		8	1	8	
+MQ	3570428	Allée des Rosiers		8	1	8	
+MQ	3570428	Chemin Barracuda	residential	8	29	127	
+MQ	3570428	Voie Pamplemousse	residential	8	16	27	
+MQ	3570428	Chemin Phoenix	residential	7	10	65	
+MQ	3570428	Impasse Boldo	residential	7	63	121	
+MQ	3570428	Route Départementale 4	secondary	7	3877	4069	
+MQ	3570428	Chemin Les Horizons	tertiary	6	282	544	
+MQ	3570428	Chemin Marie Sainte	residential	6	81	239	
+MQ	3570428	Impasse Fougères	residential	6	18	97	
+MQ	3570428	Impasse Joby Caumartin	residential	6	118	240	
+MQ	3570428	Impasse Élégance	residential	6	31	57	
+MQ	3570428	Chemin Catalpa	residential	5	47	750	
+MQ	3570429	Route des Épices	residential	60	402	2592	
+MQ	3570429	Route de la Montagne	tertiary	58	2549	4445	
+MQ	3570429	Chemin Sapotillier	unclassified	52	55	2851	
+MQ	3570429	Chemin la Saint-Pierre	residential	42	139	888	
+MQ	3570429	Chemin Coq	residential	24	15	441	
+MQ	3570429	Chemin des Pélicans		23	56	555	
+MQ	3570429	Chemin des Palmiers	residential	22	46	639	
+MQ	3570429	Route des 2 Recensements	residential	21	275	488	
+MQ	3570429	Chemin Muscade	residential	18	11	677	
+MQ	3570429	Impasse Pommier d'eau	residential	17	10	555	
+MQ	3570429	Impasse des Mésanges	residential	17	15	423	
+MQ	3570429	Chemin des Rouges-Gorges	residential	15	112	558	
+MQ	3570429	Impasse Naimo	residential	14	23	259	
+MQ	3570429	Allée le Grand Bleu	residential	13	102	508	
+MQ	3570429	Chemin de Plaisance	residential	13	1057	1230	
+MQ	3570429	Chemin des Baies	residential	13	4	346	
+MQ	3570429	Impasse Arbre à pain	residential	12	64	295	
+MQ	3570429	Impasse des Colombes	residential	12	18	324	
+MQ	3570429	Impasse des Merles	residential	12	80	179	
+MQ	3570429	Chemin Les Dames	residential	11	12	1333	
+MQ	3570429	Impasse des Chacha	residential	11	38	693	
+MQ	3570429	Route de Croix Rivail	secondary	11	1830	1902	
+MQ	3570429	Chemin des Colibris	unclassified	10	89	414	
+MQ	3570429	Impasse Dèyè Lariviè	residential	10	8	499	
+MQ	3570429	Impasse Tamarinier	residential	10	82	257	
+MQ	3570429	Impasse des Écoliers	residential	9	11	273	
+MQ	3570429	Chemin Cacaoyer	residential	8	8	378	
+MQ	3570429	Impasse des Sucriers	residential	8	26	181	
+MQ	3570429	Allée des Libellules	residential	7	37	96	
+MQ	3570429	Chemin Gloria	residential	7	101	561	
+MQ	3570429	Impasse Papayer	residential	7	36	200	
+MQ	3570429	Impasse Prune de Cythère	residential	7	41	476	
+MQ	3570429	Impasse des Agaves	residential	7	43	200	
+MQ	3570429	Chemin Fond Zamy		6	1632	1777	
+MQ	3570429	Impasse Laviolette	residential	6	41	87	
+MQ	3570429	Impasse Tandori	residential	6	14	315	
+MQ	3570429	Impasse Ti-Baume	residential	6	62	205	
+MQ	3570429	Impasse de la Praline		6	5	75	
+MQ	3570429	Impasse des Parulines	residential	6	30	54	
+MQ	3570429	Route de Pointe Chaudière		6	55	511	
+MQ	3570429	Allée Bleue		5	14	47	
+MQ	3570429	Allée des Cotonniers	residential	5	13	97	
+MQ	3570429	Impasse Bois Fè	residential	5	10	195	
+MQ	3570429	Impasse Harissa	residential	5	26	341	
+MQ	3570429	Impasse Quenettier	residential	5	44	138	
+MQ	3570429	Impasse des Hirondelles		5	322	355	
+MQ	3570429	Impasse des rossignols	residential	5	71	311	
+MQ	3570429	Impasse des Éperviers	residential	5	58	281	
+MQ	3570446	Impasse Bertilien	residential	11	8	90	
+MQ	3570446	Rue Joseph Lagrosillière	tertiary	7	14	131	
+MQ	3570446	Rue Deux Terres		4	359	440	
+MQ	3570446	Impasse Merveilleuse		2	224	300	
+MQ	3570446	Rue Jenny Robertin	unclassified	2	10	12	
+MQ	3570446	Allée Bout An Ba	residential	1	0	0	
+MQ	3570446	Allée Case á Farine	residential	1	0	0	
+MQ	3570446	Allée Pomme Rose	residential	1	0	0	
+MQ	3570446	Allée Ti-Punch	residential	1	0	0	
+MQ	3570446	Allée de l'Abordage	residential	1	0	0	
+MQ	3570446	Allée de la Bagasse	residential	1	0	0	
+MQ	3570446	Allée de la Canne à Sucre	residential	1	0	0	
+MQ	3570446	Allée de la Mandarine	residential	1	0	0	
+MQ	3570446	Allée des Amandiers	residential	1	0	0	
+MQ	3570446	Allée des Colibris	residential	1	0	0	
+MQ	3570446	Allée des Donjons	residential	1	0	0	
+MQ	3570446	Allée des Fourneaux	residential	1	0	0	
+MQ	3570446	Allée des Merles	residential	1	0	0	
+MQ	3570446	Allée des Moubins	residential	1	0	0	
+MQ	3570446	Allée des Tourterelles	residential	1	0	0	
+MQ	3570446	Allée du Chevalier	residential	1	0	0	
+MQ	3570446	Allée du Rhum Paille	residential	1	0	0	
+MQ	3570446	Avenue Casimir Branglidor	tertiary	1	0	0	
+MQ	3570446	Avenue des Peuples Garifuna	unclassified	1	0	0	
+MQ	3570446	Avenue des Raisiniers	tertiary	1	0	0	
+MQ	3570446	Avenue du Brésil	tertiary	1	0	0	
+MQ	3570446	Avenue du Raisinier	tertiary	1	0	0	
+MQ	3570446	Boulevard François Mitterrand	tertiary	1	0	0	
+MQ	3570446	Chemin Banni	residential	1	0	0	
+MQ	3570446	Chemin Boléro	residential	1	0	0	
+MQ	3570446	Chemin Cabria	residential	1	0	0	
+MQ	3570446	Chemin Degras	residential	1	0	0	
+MQ	3570446	Chemin Derriere Bois	residential	1	0	0	
+MQ	3570446	Chemin Dufferet	residential	1	0	0	
+MQ	3570446	Chemin Mangotine	residential	1	0	0	
+MQ	3570446	Chemin Morne Didi	residential	1	0	0	
+MQ	3570446	Chemin Ressource	residential	1	0	0	
+MQ	3570446	Chemin de Bagatelle	residential	1	0	0	
+MQ	3570446	Chemin de Bassignac	residential	1	0	0	
+MQ	3570446	Chemin de Bocage	residential	1	0	0	
+MQ	3570446	Chemin de Bois Cotelette	residential	1	0	0	
+MQ	3570446	Chemin de Bois Neuf	residential	1	0	0	
+MQ	3570446	Chemin de Brevette	residential	1	0	0	
+MQ	3570446	Chemin de Cosmy	unclassified	1	0	0	
+MQ	3570446	Chemin de Croix Guy	residential	1	0	0	
+MQ	3570446	Chemin de Desmarinieres	residential	1	0	0	
+MQ	3570446	Chemin de Gergault	residential	1	0	0	
+MQ	3570446	Chemin de L'Eolienne	residential	1	0	0	
+MQ	3570501	Route Madeleine Jouyé de Grandmaison	residential	121	185	2547	
+MQ	3570501	Boulevard de l'Unité	primary	109	72	1515	
+MQ	3570501	Avenue des Fromagers	primary	66	89	1435	
+MQ	3570501	Avenue de la Résistance	residential	55	23	432	
+MQ	3570501	Route Joachim Omère	residential	51	114	1130	
+MQ	3570501	Rue du Bèlè	residential	48	428	1829	
+MQ	3570501	Rue Fifi Lebielle	unclassified	43	102	1020	
+MQ	3570501	Chemin Dury	unclassified	36	31	1795	
+MQ	3570501	Impasse Babin	residential	34	62	338	
+MQ	3570501	Allée des Moubins	residential	33	21	164	
+MQ	3570501	Chemin de la Chapelle	residential	33	24	457	
+MQ	3570501	Rue du lotissement Démare	residential	27	22	233	
+MQ	3570584	Chemin Glotin	residential	137	179	3131	
+MQ	3570584	Chemin de Poirier	unclassified	109	70	1522	
+MQ	3570584	Route de Vert Pré	tertiary	101	182	2835	
+MQ	3570584	Chemin Barre d'Engleberne	unclassified	71	89	1483	
+MQ	3570584	Chemin Presqu'Île	tertiary	71	1071	2721	
+MQ	3570584	Route du Lamentin	tertiary	58	60	3356	
+MQ	3570584	Chemin de Lessema	unclassified	54	46	1058	
+MQ	3570584	Chemin Birot	unclassified	51	38	1504	
+MQ	3570584	Chemin Dumaine	residential	50	58	1123	
+MQ	3570584	Chemin Duverger	residential	49	65	1277	
+MQ	3570584	Chemin de Croix Odilon	residential	42	387	1062	
+MQ	3570584	Rue du Docteur Yviane Séraline	residential	41	3	41	
+MQ	3570584	Chemin de Bois d'Inde	residential	40	110	786	
+MQ	3570584	Chemin Boisette	residential	39	49	1161	
+MQ	3570584	Chemin Flamboyants	residential	39	89	1192	
+MQ	3570584	Chemin Rivière Pomme	residential	36	91	870	
+MQ	3570584	Chemin Kous Chouval	residential	35	25	807	
+MQ	3570584	Chemin Petite Tracée	residential	35	74	1419	
+MQ	3570584	Chemin la Borélie	unclassified	35	18	2096	
+MQ	3570584	Chemin Côte d'Or	residential	34	54	1319	
+MQ	3570584	Chemin de la Crèche	residential	34	39	870	
+MQ	3570584	Rue de la Paix	residential	32	50	925	
+MQ	3570584	Résidence la Fraicheur	residential	32	70	422	
+MQ	3570584	Chemin de Morne Congo	residential	31	93	1149	
+MQ	3570591	Rue des P et T	residential	23	2	25	
+MQ	3570591	Rue du Volcan		7	1	7	
+MQ	3570591	Ruelle Ti Ava Mesmin		6	1	9	
+MQ	3570591	Rue des Cendres		2	1	3	
+MQ	3570591	Rue du 8 Mai 1902		2	1	3	
+MQ	3570591	Avenue Général Charles de Gaulle	tertiary	1	0	0	
+MQ	3570591	Boulevard Sainte-Catherine	tertiary	1	0	0	
+MQ	3570591	Gite La Marie	unclassified	1	0	0	
+MQ	3570591	Habitation Céron	residential	1	0	0	
+MQ	3570591	Impasse Totor Louisin	residential	1	0	0	
+MQ	3570591	Lotissement Beauséjour	residential	1	0	0	
+MQ	3570591	Route Départementale 10	tertiary	1	0	0	
+MQ	3570675	Boulevard Hubert René Gamess	tertiary	398	8	407	
+MQ	3570675	Route de Balata	secondary	370	10	366	
+MQ	3570675	Route de Redoute	secondary	369	10	190	
+MQ	3570675	Avenue Maurice Bishop	primary	234	14	177	
+MQ	3570675	Route de Ravine Vilaine	secondary	228	14	335	
+MQ	3570675	Rue François Pavilla	residential	177	1	86	
+MQ	3570675	Rue Aurélie Dicanot	unclassified	173	4	125	
+MQ	3570675	Rue du Professeur Raymond Garcin	tertiary	153	6	1016	
+MQ	3570675	Route des Religieuses	secondary	148	8	185	
+MQ	3570675	Route de Moutte	tertiary	142	10	3008	
+MQ	3570675	Avenue Ti-Émile Casérus	residential	138	73	231	
+MQ	3570675	Rue Vincent Placoly	residential	133	3	76	
+MQ	3570675	Chemin Petit Bois	residential	118	6	129	
+MQ	3570675	Route de Châteauboeuf	secondary	108	23	108	
+MQ	3570675	Chemin Jules Beaunes	residential	101	5	1018	
+MQ	3570675	Résidence Les Alamandas	residential	100	5	96	
+MQ	3570675	Route de l'Entraide	tertiary	97	6	88	
+MQ	3570675	Route des Citronnelles	unclassified	97	176	3465	
+MQ	3570675	Avenue Victor Lamon	tertiary	93	14	108	
+MQ	3570675	Avenue Claude Lise	tertiary	92	118	223	
+MQ	3570675	Route de la Démarche	unclassified	92	3	113	
+MQ	3570675	Rue du Bal Blome	residential	91	4	67	
+MQ	3570675	Route de Ravine Touza	unclassified	89	185	2582	
+MQ	3570675	Chemin de Bois Thibault	tertiary	88	7	1082	
+MQ	3570675	Route de la Folie	tertiary	87	6	122	
+MQ	3570675	Rue François Rustal	unclassified	86	7	58	
+MQ	3570675	Lotissement la Norville	residential	85	3	362	
+MQ	3570675	Rue Jules Monnerot	tertiary	84	5	81	
+MQ	3570675	Rue Martin Luther King	tertiary	80	3	85	
+MQ	3570675	Avenue des Canéficiers	residential	79	3	78	
+MQ	3570675	Rocade du Bel Horizon	residential	78	4	69	
+MQ	3570675	Rue Emmanuel Ravoteur	residential	78	5	84	
+MQ	3570675	Avenue Jean Jaurès	tertiary	77	4	84	
+MQ	3570675	Rue Jean-Baptiste Rouam Sim	residential	76	60	147	
+MQ	3570675	Rue Patrice Lumumba	residential	76	1	70	
+MQ	3570675	Rue du Routoutou	residential	76	4	88	
+MQ	3570675	Avenue Georges Plissonneau	tertiary	74	4	65	
+MQ	3570675	Rue Robespierre	residential	74	5	81	
+MQ	3570675	Rue Lumina Sophie	residential	73	4	385	
+MQ	3570675	Avenue Léon Gontran Damas	unclassified	69	148	594	
+MQ	3570675	Cité de l’Amitié	residential	69	4	67	
+MQ	3570675	Avenue Professeur Judes Turiaf	residential	68	7	667	
+MQ	3570675	Rue Marie-Thérèse Lung-Fou	residential	68	33	82	
+MQ	3570675	Rue Osman Nadeau	residential	68	4	55	
+MQ	3570675	Boulevard Général de Gaulle	secondary	67	7	118	
+MQ	3570675	Rue Stéphane Clémenté	unclassified	67	4	83	
+MQ	3570675	Rue de l'Escalade	residential	67	3	45	
+MQ	3570675	Avenue Émile Maurice	residential	65	3	67	
+MQ	3570675	Rue du Château d'Eau	residential	64	4	88	
+MQ	3570675	Rue Devard Ambroisine	residential	63	32	109	
+MQ	3570675	Avenue Léona Gabriel	residential	62	28	237	
+MQ	3570675	Route de Tivoli	unclassified	62	4	54	
+MQ	3570675	Rue du Bel Air	residential	62	4	36	
+MQ	3570675	Rue du Docteur Fouche	residential	62	2	48	
+MQ	3570675	Impasse du Basilic	residential	61	1	46	
+MQ	3570675	Route du Petit Florentin	residential	61	7	80	
+MQ	3570675	Avenue de Coridon	residential	60	6	70	
+MQ	3570675	Avenue du Docteur Juvénal Linval	residential	59	3	60	
+MQ	3570675	Avenue Félix Éboué	residential	58	5	84	
+MQ	3570675	Rue des Avents	residential	58	7	60	
+MQ	3570675	Rue Gabriel Péri	residential	57	3	58	
+MQ	3570675	Rue Joseph Gaillard	residential	56	3	91	
+MQ	3570675	Rue Ti-Doudou	residential	56	4	68	
+MQ	3570675	Rue de la Belle Épine	residential	56	4	45	
+MQ	3570675	Rue Étienne Sicot	unclassified	56	2	56	
+MQ	3570675	Rue Camille Junkère	residential	55	1	79	
+MQ	3570675	Rue Henri Barbusse	residential	55	3	69	
+MQ	3570675	Boulevard de la Pointe des Nègres	residential	54	82	197	
+MQ	3570675	Rue René Maran	residential	54	7	48	
+MQ	3570675	Rue Théodore Tally	residential	54	285	365	
+MQ	3570675	Rue de Clairière	secondary	54	5	60	
+MQ	3570675	Chemin de Morne Laurent	residential	53	2	93	
+MQ	3570675	Lotissement Les Tropiques	residential	53	3	96	
+MQ	3570675	Rue Général Mangin	residential	53	5	46	
+MQ	3570675	Avenue Louis Domergue	secondary	52	3	73	
+MQ	3570675	Passage de la Grande Voile	residential	52	5	83	
+MQ	3570675	Rue Alexandre Trissot	residential	52	4	57	
+MQ	3570675	Avenue du Petit Paradis	residential	51	3	49	
+MQ	3570675	Rue Bertrand Anca	residential	50	4	92	
+MQ	3570675	Avenue des Balcons	residential	49	2	62	
+MQ	3570675	Rue Simon Bolivar	residential	49	3	81	
+MQ	3570675	Rue Solitude La Mulâtresse	residential	49	251	322	
+MQ	3570675	Rue des Lavandières	residential	49	5	58	
+MQ	3570675	Rue des Ursulines	residential	49	4	48	
+MQ	3570675	Rue du Gros Mombin	residential	49	4	62	
+MQ	3570675	Avenue Victor Coridun	residential	48	245	574	
+MQ	3570675	Rue Maurice Alcindor	residential	48	6	54	
+MQ	3570675	Rue de la Piété	residential	48	4	43	
+MQ	3570675	Rue des Lucioles	residential	48	2	38	
+MQ	3570675	Rue du Gardénia	residential	48	3	65	
+MQ	3570675	Entrée Bocharel	residential	47	3	46	
+MQ	3570675	Rue Anatole France	residential	47	2	49	
+MQ	3570675	Rue Henrick Vilette	residential	47	4	49	
+MQ	3570675	Rue de la Courtille	residential	47	36	72	
+MQ	3570675	Rue de la Glacière	residential	47	3	44	
+MQ	3570675	Rue des Eaux Découpées	residential	47	3	53	
+MQ	3570675	Rue du Chapeau l'Evêque	residential	47	2	89	
+MQ	3570675	Rue du Morne Morissot	residential	47	6	79	
+MQ	3570675	Rue Amilcar Cabral	tertiary	46	6	51	
+MQ	3570675	Rue Paul Langevin	residential	46	3	55	
+MQ	3570785	Route Départementale 4	secondary	133	236	3249	
+MQ	3570785	Route de Bois Neuf	unclassified	94	283	2052	
+MQ	3570785	Route de Grande Savane	unclassified	84	185	1930	
+MQ	3570785	Route du Bac	primary	80	100	1708	
+MQ	3570785	Route de Fond Brûlé	tertiary	68	70	980	
+MQ	3570785	Chemin Rural de Fonds Marie Rose		53	40	755	
+MQ	3570785	Route de Morne Carette	residential	52	64	1058	
+MQ	3570785	Route de La Chassaing	residential	50	92	1012	
+MQ	3570785	Route de Rivière Pilote	secondary	44	1165	2475	
+MQ	3570785	Rue de l'Afrique	residential	43	3	47	
+MQ	3570785	Rue des Gommiers	residential	40	36	416	
+MQ	3570785	Rue des Caraïbes	residential	36	2	35	
+MQ	3570785	Allée de la Grand Robe	residential	35	11	691	
+MQ	3570785	Chemin Morne Ludger	residential	35	21	582	
+MQ	3570785	Chemin Morne Adrien	residential	33	119	646	
+MQ	3570785	Chemin de Duchâtel	residential	33	8	654	
+MQ	3570785	Lotissement les Oréades	residential	31	2	34	
+MQ	3570785	Rue Raymond Berger		31	2	36	
+MQ	3570785	Chemin de la Rosée	residential	24	48	404	
+MQ	3570785	Rue des Senteurs	residential	24	2	26	
+MQ	3570785	Allée des Palétuviers	residential	23	63	254	
+MQ	3570785	Chemin Tantan	residential	23	29	284	
+MQ	3570785	Chemin de Baringthon	unclassified	23	73	594	
+MQ	3570785	Allée de la Titane	residential	21	28	193	
+MQ	3570785	Impasse des Arawaks	residential	21	38	53	
+MQ	3570785	Rue des Alizés	residential	21	2	21	
+MQ	3570785	Allée de l’Union	residential	20	1	20	
+MQ	3570785	Chemin Numa		19	30	327	
+MQ	3570785	Allée du Baobab	residential	18	1	18	
+MQ	3570785	Chemin de la Yole	residential	18	10	240	
+MQ	3570785	Lotissement Moabi	residential	18	15	151	
+MQ	3570785	Chemin Ludger Poncy	residential	17	42	494	
+MQ	3570785	Chemin de Mondesir	residential	17	7	275	
+MQ	3570785	Impasse du Cordonnier	residential	17	8	179	
+MQ	3570785	Allée Alamanda	residential	16	53	365	
+MQ	3570785	Allée de la Félicité	residential	16	37	52	
+MQ	3570785	Chemin la Saint-Pierre	residential	16	352	1411	
+MQ	3570785	Lotissement les Alizés	residential	16	1	19	
+MQ	3570785	Chemin Dolor Banal	residential	15	43	240	
+MQ	3570785	Rue du Bèlè	residential	15	20	291	
+MQ	3570785	Allée de la Gentillesse		14	6	112	
+MQ	3570785	Allée des Arums	residential	14	31	250	
+MQ	3570785	Impasse de la Ritournelle	residential	14	32	215	
+MQ	3570785	Place François Mitterrand	residential	14	21	178	
+MQ	3570785	Rue des Mangles	residential	14	22	291	
+MQ	3570785	Allée des Pommes Lianes	residential	13	2	26	
+MQ	3570785	Chemin La Retraite	residential	13	3	147	
+MQ	3570785	Rue Joinville Saint-Prix	secondary	13	1	64	
+MQ	3571097	Rue Félix Joachim	residential	133	633	2774	
+MQ	3571097	Avenue Louisa Mariéllo	tertiary	85	155	1209	
+MQ	3571097	Rue Aimé Césaire	residential	49	300	785	
+MQ	3571097	Rue de la Liberté	residential	46	107	507	
+MQ	3571097	Rue Cibielle	residential	39	93	1339	
+MQ	3571097	Rue de la Providence	residential	39	46	1724	
+MQ	3571097	Rue du Colibri	residential	38	16	272	
+MQ	3571097	Rue du Docteur Morestin	secondary	38	22	718	
+MQ	3571097	Chemin du Mahogany	residential	37	72	615	
+MQ	3571097	Route des 16 de Basse-Pointe	unclassified	36	1508	3140	
+MQ	3571097	Impasse Jules Roussel	residential	35	16	276	
+MQ	3571097	Rue des Raisiniers	residential	35	56	271	

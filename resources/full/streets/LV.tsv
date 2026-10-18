@@ -1,0 +1,3034 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+LV	453754	Rīgas iela	primary	279	4	87	
+LV	453754	Stacijas iela	secondary	102	1	49	
+LV	453754	Ziemeļu iela	residential	89	2	44	
+LV	453754	Austrumu iela	living_street	88	4	69	
+LV	453754	Loku iela	tertiary	87	1	82	
+LV	453754	Beātes iela	tertiary	81	2	49	
+LV	453754	Rūpniecības iela	tertiary	78	4	48	
+LV	453754	Brīvības iela	tertiary	73	2	62	
+LV	453754	Cēsu iela	primary	71	2	52	
+LV	453754	Pāvila Rozīša iela	tertiary	70	5	56	
+LV	453754	Sporta iela	residential	67	3	57	
+LV	453754	Georga Apiņa iela	tertiary	62	2	27	
+LV	453754	Jāņa Daliņa iela	tertiary	57	2	97	
+LV	453754	Senču iela	living_street	57	2	29	
+LV	453754	Krasta iela	residential	54	2	36	
+LV	453754	Ausekļa iela	tertiary	53	2	32	
+LV	453754	Palejas iela	living_street	53	2	25	
+LV	453754	Tērbatas iela	primary	53	2	41	
+LV	453754	Rubenes iela	secondary	50	3	51	
+LV	453754	Beverīnas iela	residential	49	3	46	
+LV	453754	Vienības iela	living_street	49	1	38	
+LV	453754	Cempu iela	secondary	46	2	27	
+LV	453754	Mūrmuižas iela	residential	46	7	34	
+LV	453754	Matīšu iela	residential	45	2	38	
+LV	453754	Raiņa iela	tertiary	44	2	16	
+LV	453754	Salacas iela	living_street	43	4	40	
+LV	453754	Ābeļu iela	residential	42	3	39	
+LV	453754	Annas iela	living_street	41	2	43	
+LV	453754	Marijas iela	tertiary	41	2	30	
+LV	453754	Limbažu iela	secondary	40	2	21	
+LV	453754	Voldemāra Baloža iela	secondary	40	1	22	
+LV	453754	Pilātu iela	tertiary	39	2	41	
+LV	453754	Parka iela	residential	38	1	20	
+LV	453754	Patversmes iela	unclassified	38	4	32	
+LV	453754	Straupes iela	residential	36	1	19	
+LV	453754	Valkas iela	secondary	36	1	60	
+LV	453754	Bērzu iela	living_street	35	2	33	
+LV	453754	Draudzības iela	residential	35	2	36	
+LV	453754	Linarda Laicena iela	primary	35	1	31	
+LV	453754	Dzirnavu iela	residential	34	2	28	
+LV	453754	Alejas iela	secondary	32	2	16	
+LV	453754	Kastaņu iela	living_street	32	2	27	
+LV	453754	Imantas iela	residential	31	1	22	
+LV	453754	Kārļa Baumaņa iela	tertiary	31	1	16	
+LV	453754	Mednieku iela	living_street	31	2	37	
+LV	453754	Mālu iela	tertiary	31	1	40	
+LV	453754	Rūjas iela	living_street	31	2	32	
+LV	453754	Skolas iela	residential	31	1	22	
+LV	453850	Brīvības iela	secondary	109	3	98	
+LV	453850	Raiņa iela	secondary	53	3	38	
+LV	453850	Domes iela	residential	52	4	63	
+LV	453850	Baznīcas iela	residential	51	1	43	
+LV	453850	Priežu iela	residential	49	2	48	
+LV	453850	Dārza iela	residential	39	2	33	
+LV	453850	Stacijas iela	residential	39	1	35	
+LV	453850	Lauku iela	residential	37	1	37	
+LV	453850	Meža iela	residential	36	2	34	
+LV	453850	Līvānu iela	residential	33	2	41	
+LV	453850	Muitas iela	residential	27	2	32	
+LV	453850	Parka iela	residential	25	3	33	
+LV	453922	Augstkalne — Bēne	secondary	1	0	0	
+LV	453922	Jelgava — Tērvete — Lietuvas robeža (Žagare)	primary	1	0	0	
+LV	453922	Svēte — Augstkalne	secondary	1	0	0	
+LV	453922	Veczāmeļi — Blankenfelde (Saulīte) — Augstkalne	secondary	1	0	0	
+LV	454002	Ievu iela	residential	66	4	72	
+LV	454002	Fazānu iela	living_street	49	2	46	
+LV	454002	Egļu iela	residential	45	3	43	
+LV	454002	Bajāru iela	living_street	44	3	43	
+LV	454002	Mākoņu iela	residential	44	3	53	
+LV	454002	Sūnu iela		44	3	55	
+LV	454002	Cīruļu iela	living_street	39	2	38	
+LV	454002	Salnas iela	residential	38	2	43	
+LV	454002	Kļavu iela	residential	37	2	47	
+LV	454002	Medņu iela	living_street	37	2	37	
+LV	454002	1. līnija	residential	36	2	27	
+LV	454002	7. līnija	residential	36	2	29	
+LV	454130	Liepnas iela	secondary	72	5	78	
+LV	454130	Eržepoles iela	unclassified	67	3	75	
+LV	454130	Pils iela	secondary	65	4	50	
+LV	454130	Tautas iela	residential	63	2	52	
+LV	454130	Balvu iela	primary	61	2	43	
+LV	454130	Abrenes iela	primary	55	2	42	
+LV	454130	Baznīcas iela	residential	49	1	56	
+LV	454130	Ostratu iela	residential	35	2	42	
+LV	454130	Parka iela	residential	32	2	49	
+LV	454130	Dzirnavu iela	residential	23	2	23	
+LV	454130	Dārzu iela	residential	23	1	22	
+LV	454130	Garnizona iela	residential	23	2	27	
+LV	454173	Ziedkalnes iela		42	9	53	
+LV	454173	Dārziņu iela		33	3	38	
+LV	454173	Līgo iela		20	1	28	
+LV	454173	Austrumu iela	residential	19	3	25	
+LV	454173	Alejas iela		13	1	17	
+LV	454173	Līvānu iela	residential	11	1	19	
+LV	454173	Madaru iela	residential	7	2	15	
+LV	454173	Purmaļu iela		7	1	5	
+LV	454173	Skolas iela	residential	7	2	10	
+LV	454173	Upes iela		7	1	11	
+LV	454173	Tautas nama iela	residential	6	2	12	
+LV	454173	Tērvetes iela		5	6	22	
+LV	454178	Brīvības iela	primary	96	3	55	
+LV	454178	Centrālā iela	residential	86	2	71	
+LV	454178	Rīgas iela	primary	83	5	57	
+LV	454178	Rēzeknes iela	secondary	49	2	36	
+LV	454178	Ceriņu iela	primary	43	5	26	
+LV	454178	Jersikas iela	residential	43	2	45	
+LV	454178	Raiņa iela	residential	40	2	37	
+LV	454178	Skolas iela	residential	35	2	37	
+LV	454178	Alejas iela	residential	34	2	25	
+LV	454178	Kaupres iela		34	3	32	
+LV	454178	Liepu iela	residential	32	1	23	
+LV	454178	Tevenānu iela		31	2	26	
+LV	454216	Smilšu iela	residential	101	2	42	
+LV	454216	Raiņa iela	secondary	70	3	59	
+LV	454216	Brīvības iela	residential	45	2	35	
+LV	454216	Sporta iela	living_street	40	2	27	
+LV	454216	Biržu iela	secondary	36	2	30	
+LV	454216	A. Brodeles iela	residential	31	3	40	
+LV	454216	Amatnieku iela	secondary	18	2	18	
+LV	454216	Ezera iela	residential	16	1	19	
+LV	454216	P. Stradiņa iela		16	1	20	
+LV	454216	Meža iela		15	1	23	
+LV	454216	Kaļķu iela	living_street	14	1	12	
+LV	454216	Kalna iela	residential	13	1	20	
+LV	454273	Rīgas iela	primary	114	3	56	
+LV	454273	Upes iela	residential	55	2	24	
+LV	454273	Kalna iela	residential	43	1	18	
+LV	454273	Jaunā iela	tertiary	40	2	37	
+LV	454273	Bērzu iela	living_street	38	1	13	
+LV	454273	Bauskas iela	primary	32	2	25	
+LV	454273	Ceriņu iela	residential	30	1	17	
+LV	454273	Pļavas iela	living_street	26	5	30	
+LV	454273	Baložu iela	residential	24	1	15	
+LV	454273	Dārza iela	residential	24	1	22	
+LV	454273	Kļavu iela	residential	24	4	20	
+LV	454273	Aizupes iela	living_street	20	1	21	
+LV	454310	Kraujas iela	residential	260	8	30	
+LV	454310	Staldzenes iela	tertiary	256	20	81	
+LV	454310	Vidusceļš	residential	233	7	88	
+LV	454310	Kuldīgas iela	tertiary	223	5	201	
+LV	454310	Doku iela	residential	184	8	16	
+LV	454310	Ganību iela	tertiary	158	8	154	
+LV	454310	Saules iela	tertiary	151	10	135	
+LV	454310	Robežu iela	primary	134	7	202	
+LV	454310	Lielais prospekts	secondary	133	3	74	
+LV	454310	Celtnieku iela	tertiary	126	3	43	
+LV	454310	Vārves iela	residential	126	6	105	
+LV	454310	Talsu iela	primary	120	5	200	
+LV	454310	Dzintaru iela	residential	119	7	90	
+LV	454310	Kaiju iela	residential	104	8	8	
+LV	454310	Inženieru iela	tertiary	100	5	101	
+LV	454310	Tukuma iela	residential	95	6	89	
+LV	454310	Tārgales iela	tertiary	93	5	83	
+LV	454310	Meža iela	residential	89	7	86	
+LV	454310	Katoļu iela	residential	88	6	81	
+LV	454310	Vītolu iela	residential	82	5	81	
+LV	454310	Packules iela	residential	81	10	30	
+LV	454310	Bangu iela	tertiary	79	10	57	
+LV	454310	Pils iela	residential	79	13	93	
+LV	454310	Virves iela	residential	79	3	64	
+LV	454310	Puķu iela	residential	77	6	59	
+LV	454310	Dīķu iela	secondary	76	2	98	
+LV	454310	Alkšņu iela	residential	68	7	34	
+LV	454310	Grīvas iela	residential	67	5	6	
+LV	454310	Priežu iela	residential	64	5	45	
+LV	454310	Aizupes iela	residential	63	12	14	
+LV	454310	Selgas iela	residential	63	2	43	
+LV	454310	Vasarnīcu iela	tertiary	63	2	90	
+LV	454310	Tērauda iela	residential	62	3	38	
+LV	454310	Brīvības iela	primary	60	1	62	
+LV	454310	Jūras iela	tertiary	60	1	47	
+LV	454310	Muitas iela	residential	60	2	64	
+LV	454310	Skrundas iela	residential	57	5	84	
+LV	454310	Sārnates iela	residential	57	3	63	
+LV	454310	Jēkaba iela	residential	56	2	66	
+LV	454310	Pļavas iela	residential	55	2	56	
+LV	454310	Riņķa iela	residential	54	5	87	
+LV	454310	Zvaigžņu iela	primary	52	5	94	
+LV	454310	Pīpiķu iela		50	3	14	
+LV	454310	Miera iela	residential	49	2	30	
+LV	454310	Bērzu iela	residential	47	5	54	
+LV	454310	Durbes iela	primary	47	2	40	
+LV	454310	Pulkveža iela	residential	46	5	46	
+LV	454310	Sarkanmuižas dambis	primary	46	2	29	
+LV	454408	Alauksta iela	tertiary	14	1	13	
+LV	454408	Ziemeļu iela	tertiary	13	1	13	
+LV	454408	Gaismas iela	primary	7	1	6	
+LV	454408	Meža iela	residential	2	1	2	
+LV	454408	Apkārt Alaukstam	unclassified	1	0	0	
+LV	454408	Cēsis — Vecpiebalga — Madona	primary	1	0	0	
+LV	454408	Garkalne — Alauksts	primary	1	0	0	
+LV	454408	Ineši — Mūrnieki	secondary	1	0	0	
+LV	454408	Ineši–Liede	secondary	1	0	0	
+LV	454408	Katlu iela	residential	1	0	0	
+LV	454408	Kūlas — Meirāni — Smetes	secondary	1	0	0	
+LV	454408	Liede — Cesvaine	secondary	1	0	0	
+LV	454530	Rīgas iela	secondary	99	4	95	
+LV	454530	Mehanizatoru iela	residential	64	3	61	
+LV	454530	Pils iela	residential	55	3	42	
+LV	454530	Jaunatnes iela	residential	46	2	35	
+LV	454530	Brīvības iela	residential	40	1	44	
+LV	454530	Rēzeknes iela	residential	38	1	30	
+LV	454530	Krustpils iela	residential	35	2	57	
+LV	454530	Zemgales iela	residential	32	4	42	
+LV	454530	Jēkabpils šoseja		29	1	35	
+LV	454530	Kosmonautu iela	secondary	25	3	22	
+LV	454530	Skolas iela	residential	25	3	47	
+LV	454530	Lubānas iela	secondary	23	1	21	
+LV	454537	Gaujas iela	secondary	104	4	26	
+LV	454537	Vidzemes iela	tertiary	38	1	18	
+LV	454537	Dārzu iela	tertiary	36	2	40	
+LV	454537	Senču iela	residential	34	2	25	
+LV	454537	Jaungožu iela	living_street	33	3	34	
+LV	454537	Avotu iela		28	1	16	
+LV	454537	Ezera iela		26	2	31	
+LV	454537	Gaismas iela	residential	24	2	22	
+LV	454537	Priežu iela	tertiary	24	1	16	
+LV	454537	Pirmais Straujupītes ceļš	residential	20	2	23	
+LV	454537	Parka iela	tertiary	18	2	40	
+LV	454537	Otrais Straujupītes ceļš	residential	15	1	16	
+LV	454572	Võru	secondary	327	7	116	
+LV	454572	Lielā Jaunā iela		285	11	264	
+LV	454572	Tartu	primary	269	6	101	
+LV	454572	Viljandi	primary	202	5	78	
+LV	454572	Mazā Avotkalna iela		156	8	150	
+LV	454572	Rīgas iela	secondary	146	4	82	
+LV	454572	Lai	residential	136	4	57	
+LV	454572	Julius Kuperjanovi	tertiary	114	6	69	
+LV	454572	Tālavas iela	residential	113	4	68	
+LV	454572	Lille	residential	111	2	44	
+LV	454572	Valli	residential	106	3	39	
+LV	454572	Oru	residential	105	3	38	
+LV	454584	Ambrakas iela	tertiary	41	4	43	
+LV	454584	Lielā iela	primary	37	2	28	
+LV	454584	Krišjāņa Valdemāra iela	secondary	34	2	41	
+LV	454584	Raiņa iela	secondary	24	2	27	
+LV	454584	Ezera iela	unclassified	22	2	20	
+LV	454584	Talsu iela	primary	22	2	49	
+LV	454584	Centra aleja	secondary	20	2	20	
+LV	454584	Dzirnavu iela	residential	20	1	31	
+LV	454584	Dižliepas iela	residential	17	1	48	
+LV	454584	Jaunā iela	residential	13	1	14	
+LV	454584	Liepu iela	residential	13	1	25	
+LV	454584	Īlenciema iela	residential	12	3	20	
+LV	454602	Raiņa iela	tertiary	87	1	60	
+LV	454602	Brīvības iela	secondary	54	2	47	
+LV	454602	Tirgoņu iela	secondary	49	1	41	
+LV	454602	Dārza iela	residential	39	1	39	
+LV	454602	Kungu iela	residential	37	3	33	
+LV	454602	J. Čakstes iela	residential	36	2	39	
+LV	454602	Kalna iela	residential	30	1	20	
+LV	454602	Baznīcas iela	residential	28	1	24	
+LV	454602	Teātra iela	residential	27	2	37	
+LV	454602	Ceriņu iela	residential	26	1	28	
+LV	454602	Dīķu iela	residential	22	2	21	
+LV	454602	Lauku iela	residential	22	1	9	
+LV	454714	Institūta iela	primary	132	1	80	
+LV	454714	Biķeru iela		101	2	4	
+LV	454714	Juglas iela	living_street	75	2	56	
+LV	454714	Jaunsišu iela	living_street	72	4	55	
+LV	454714	Gaujas iela		61	4	84	
+LV	454714	Gaigalu iela	residential	53	3	52	
+LV	454714	Dienvidu iela	residential	52	3	55	
+LV	454714	Poldera iela	tertiary	52	3	62	
+LV	454714	Acones iela	tertiary	49	2	30	
+LV	454714	Daugavas iela		47	3	57	
+LV	454714	Čiekuru iela	living_street	44	3	42	
+LV	454714	Līgo iela	living_street	42	1	44	
+LV	454714	Palienas iela	living_street	41	4	45	
+LV	454714	Granīta iela	secondary	40	25	43	
+LV	454714	Fazānu iela	residential	39	1	32	
+LV	454714	Irbenāju iela		39	1	25	
+LV	454714	Līkā iela	living_street	38	1	43	
+LV	454714	Gaiļu iela	living_street	37	1	21	
+LV	454714	Piķurgas iela	living_street	37	3	56	
+LV	454714	Indru iela	living_street	36	2	50	
+LV	454714	Lāču iela	living_street	36	4	50	
+LV	454714	Kalmju iela	living_street	35	2	35	
+LV	454714	Mārtiņrožu iela	residential	35	5	48	
+LV	454714	Parka iela	residential	35	2	35	
+LV	454722	Rīgas šoseja		19	1	15	
+LV	454722	Rūpnīcas iela		13	1	16	
+LV	454722	Skolas iela	secondary	12	1	43	
+LV	454722	Aburgas ceļš	unclassified	1	0	0	
+LV	454722	Baloži — Puzenieki — Puzes stacija	secondary	1	0	0	
+LV	454722	Bērziņu dambis	unclassified	1	0	0	
+LV	454722	Dandzītes — Puzenieki	secondary	1	0	0	
+LV	454722	Degums R	unclassified	1	0	0	
+LV	454722	Dzērveņu ceļš	unclassified	1	0	0	
+LV	454722	Egļukalna torņa ceļš	unclassified	1	0	0	
+LV	454722	Engures ceļš	unclassified	1	0	0	
+LV	454722	Grenču karjeras ceļš	unclassified	1	0	0	
+LV	454768	Lielā iela	tertiary	136	5	59	
+LV	454768	Talsu iela	secondary	117	3	74	
+LV	454768	Rīgas iela	secondary	113	4	92	
+LV	454768	Pasta iela	secondary	110	3	33	
+LV	454768	Kurzemes iela	primary	109	2	64	
+LV	454768	Raudas iela	secondary	104	5	68	
+LV	454768	Smilšu iela	residential	82	5	49	
+LV	454768	Meža iela	primary	77	3	38	
+LV	454768	Kuldīgas iela	tertiary	69	6	70	
+LV	454768	Stacijas iela	residential	64	2	31	
+LV	454768	Pils iela	tertiary	59	1	20	
+LV	454768	Durbes iela	secondary	55	3	55	
+LV	454768	M. Parka iela	residential	55	3	57	
+LV	454768	Ziedoņa iela	residential	53	2	40	
+LV	454768	J. Raiņa iela	residential	52	3	30	
+LV	454768	Brīvības laukums	tertiary	46	3	22	
+LV	454768	L. Dzelzceļa iela	tertiary	45	3	52	
+LV	454768	Jelgavas iela	primary	43	1	31	
+LV	454768	M. Gravas iela	living_street	43	3	42	
+LV	454768	Lauku iela	residential	42	2	46	
+LV	454768	Spartaka iela	residential	42	1	24	
+LV	454768	Gravas iela	residential	41	3	51	
+LV	454768	Pilskalna iela	residential	41	4	50	
+LV	454768	Taisnā iela	living_street	41	2	42	
+LV	454768	Dārza iela	residential	38	1	18	
+LV	454768	Harmonijas iela	residential	38	1	26	
+LV	454768	Pļavas iela	residential	38	1	47	
+LV	454768	Strēlnieku iela	living_street	38	3	45	
+LV	454768	Zemītes iela	primary	38	1	11	
+LV	454768	Birztalas iela	living_street	36	1	47	
+LV	454768	Saules iela	living_street	36	1	22	
+LV	454768	Vītolu iela	living_street	36	2	44	
+LV	454768	Alīnes iela	secondary	34	1	45	
+LV	454768	Veļķu iela	living_street	33	2	44	
+LV	454768	Dārzniecības iela	residential	32	2	23	
+LV	454768	Annas iela	living_street	30	2	21	
+LV	454768	Kandavas iela	secondary	30	2	25	
+LV	454768	Staru iela	living_street	29	3	38	
+LV	454768	Ausekļa iela	residential	28	2	30	
+LV	454768	Salas iela	residential	28	3	17	
+LV	454768	Dzirņu iela	living_street	27	3	36	
+LV	454768	Kalēju iela	residential	27	1	14	
+LV	454768	L. Parka iela	living_street	26	1	30	
+LV	454768	Noras iela	residential	26	2	36	
+LV	454768	Jumpravas iela	residential	25	4	44	
+LV	454768	Zvaigžņu iela	residential	25	2	25	
+LV	454768	Estrādes iela	residential	24	2	23	
+LV	454768	Progresa iela	living_street	24	2	23	
+LV	454848	Elīnas iela	unclassified	23	2	24	
+LV	454848	Viršu iela	residential	21	2	33	
+LV	454848	Vidus iela	residential	20	2	35	
+LV	454848	Rīgas iela	unclassified	19	3	31	
+LV	454848	Tīreļa iela	residential	16	1	42	
+LV	454848	Akmeņu iela	residential	12	6	23	
+LV	454848	Skariņu iela		8	1	8	
+LV	454848	Bērziņu ceļš		6	1	6	
+LV	454848	Ceriņu iela	residential	6	2	8	
+LV	454848	Dārza iela	residential	6	4	11	
+LV	454848	Kārklu iela	residential	6	6	13	
+LV	454848	Jaunā iela	residential	5	2	7	
+LV	454910	Ķirpēnu iela		17	1	15	
+LV	454910	Jaunā iela		12	1	11	
+LV	454910	Tērvetes iela		6	1	7	
+LV	454910	Krasta iela	living_street	5	1	14	
+LV	454910	Līvānu iela		5	1	5	
+LV	454910	Upes iela		5	1	5	
+LV	454910	Priežu iela	living_street	3	6	9	
+LV	454910	Apguldes stacija — Bukaiši	secondary	1	0	0	
+LV	454910	Dobele - Krimūnas - Zaļenieki	secondary	1	0	0	
+LV	454910	Dobele — Bauska	primary	1	0	0	
+LV	454910	Indrānu trase	unclassified	1	0	0	
+LV	454910	Iļļēnu ceļš	unclassified	1	0	0	
+LV	454970	Krišjāņa Valdemāra iela	residential	148	4	128	
+LV	454970	Lielā iela	tertiary	101	2	37	
+LV	454970	Raiņa iela	secondary	93	1	88	
+LV	454970	Ziemeļu iela	residential	75	2	85	
+LV	454970	Rīgas iela	secondary	63	5	25	
+LV	454970	Darba iela	residential	61	2	54	
+LV	454970	Dundagas iela	secondary	58	2	84	
+LV	454970	Talsciema iela	residential	54	4	83	
+LV	454970	Celtnieku iela	residential	49	2	27	
+LV	454970	Lielgabalu iela	residential	49	4	63	
+LV	454970	Rūpniecības iela	residential	49	2	38	
+LV	454970	Brīvības iela	secondary	48	2	30	
+LV	454970	Kārļa Mīlenbaha iela	secondary	48	2	40	
+LV	454970	Draudzības iela	residential	45	3	70	
+LV	454970	Laidzes iela	secondary	44	2	39	
+LV	454970	Ezera iela	tertiary	42	2	43	
+LV	454970	Anša Lerha-Puškaiša iela	residential	39	2	29	
+LV	454970	Loka iela	residential	38	1	30	
+LV	454970	Pļavu iela	residential	37	2	33	
+LV	454970	1. maija iela	residential	35	2	48	
+LV	454970	4. maija iela	residential	34	3	56	
+LV	454970	Jaunā iela	residential	29	2	27	
+LV	454970	Arāju iela	residential	27	3	33	
+LV	454970	Ielejas iela	residential	27	3	38	
+LV	455102	Domes iela	tertiary	59	2	58	
+LV	455102	Skolas iela	residential	29	3	32	
+LV	455102	Tirgus laukums	secondary	27	3	22	
+LV	455102	Baznīcas iela	residential	23	4	39	
+LV	455102	Upes iela	residential	22	5	29	
+LV	455102	Brīvības iela	secondary	21	3	26	
+LV	455102	Smilšu iela	residential	21	5	32	
+LV	455102	Gediškių g.	secondary	20	2	25	
+LV	455102	Jelgavas iela	secondary	20	1	34	
+LV	455102	Zaļmuižas iela	tertiary	15	1	3	
+LV	455102	Kalna iela	secondary	14	1	21	
+LV	455102	Priežu iela	residential	11	1	10	
+LV	455166	Trikātas iela	primary	61	1	30	
+LV	455166	Rīgas iela		57	3	33	
+LV	455166	Valkas iela		40	1	22	
+LV	455166	Pulkveža Zemitāna iela	secondary	37	4	34	
+LV	455166	Pulkveža Brieža iela	tertiary	24	2	21	
+LV	455166	Gaidu iela	unclassified	21	2	25	
+LV	455166	Slimnīcas iela	residential	18	1	16	
+LV	455166	Jāņa Ziemeļnieka iela	residential	17	1	13	
+LV	455166	Krasta iela	residential	14	1	12	
+LV	455166	Stacijas iela	residential	14	1	15	
+LV	455166	Gaujas iela	residential	13	1	11	
+LV	455166	Miera iela	unclassified	12	1	15	
+LV	455260	Brīvības iela	primary	74	2	76	
+LV	455260	Liepu iela	residential	46	1	45	
+LV	455260	Lielā iela	secondary	38	1	41	
+LV	455260	Rožu iela	residential	30	1	25	
+LV	455260	Stacijas iela	secondary	28	1	35	
+LV	455260	Robežu iela	residential	23	2	26	
+LV	455260	Torņu iela	residential	23	4	32	
+LV	455260	Kalna iela	unclassified	18	1	10	
+LV	455260	Strēlnieku iela	residential	18	1	25	
+LV	455260	Nākotnes iela	residential	17	2	26	
+LV	455260	Saules iela	residential	16	2	24	
+LV	455260	Dārza iela	residential	13	1	20	
+LV	455293	Baukalna iela		14	1	16	
+LV	455293	Braslas iela	residential	14	1	21	
+LV	455293	Līvānu iela	residential	10	1	12	
+LV	455293	Alejas iela	residential	8	1	8	
+LV	455293	Parka iela	tertiary	8	1	12	
+LV	455293	Pļavas iela	residential	7	1	10	
+LV	455293	Ābeļu iela	residential	7	1	8	
+LV	455293	Meža iela	residential	6	2	10	
+LV	455293	Senču iela	unclassified	6	2	12	
+LV	455293	Jāņa iela	residential	5	2	10	
+LV	455293	Liepu iela	residential	5	2	9	
+LV	455293	Cēsu iela	secondary	4	2	4	
+LV	455298	Lielā iela	residential	70	3	46	
+LV	455298	Salacas iela	residential	26	2	30	
+LV	455298	Dzirnavu iela	secondary	22	2	22	
+LV	455298	Audēju iela	residential	17	1	32	
+LV	455298	Planču iela	residential	16	1	16	
+LV	455298	Skolas iela	residential	16	1	21	
+LV	455298	Cepļu iela		11	1	11	
+LV	455298	Nākotnes iela	residential	11	1	10	
+LV	455298	Sporta iela	residential	11	1	8	
+LV	455298	Jūras iela	residential	9	1	10	
+LV	455298	Ceriņu iela	residential	8	2	12	
+LV	455298	Liepu iela	residential	8	1	8	
+LV	455406	Valmieras iela	residential	239	11	11	
+LV	455406	Daugavas iela	secondary	130	2	54	
+LV	455406	Raiņa iela	tertiary	115	4	91	
+LV	455406	Dārza iela	secondary	110	2	62	
+LV	455406	Dakteru iela	residential	97	3	69	
+LV	455406	Avotu iela	residential	77	4	19	
+LV	455406	Mežoles iela	secondary	75	2	10	
+LV	455406	Blaumaņa iela	residential	73	1	36	
+LV	455406	Rīgas iela	secondary	68	3	70	
+LV	455406	Baznīcas laukums	secondary	51	2	16	
+LV	455406	Dzirnavu iela	residential	49	1	23	
+LV	455406	Mētras iela	residential	46	2	11	
+LV	455406	Gaujas iela	primary	44	2	33	
+LV	455406	Jaunā iela	residential	41	1	28	
+LV	455406	Peldu iela	residential	39	2	30	
+LV	455406	Atmodas iela	primary	36	1	27	
+LV	455406	Veldes iela	residential	36	1	26	
+LV	455406	Galdnieku iela	residential	35	2	25	
+LV	455406	Vaļņu iela	residential	34	2	31	
+LV	455406	Audēju iela	primary	30	2	18	
+LV	455406	Cēsu iela	secondary	29	1	14	
+LV	455406	Upes iela		28	2	28	
+LV	455406	Lielā iela	residential	25	2	23	
+LV	455406	Parka iela	residential	25	1	16	
+LV	455427	Draudzības iela	secondary	17	1	18	
+LV	455427	Dārza iela	living_street	16	2	22	
+LV	455427	Jaunā iela	tertiary	16	1	30	
+LV	455427	Taisnā iela	living_street	15	1	15	
+LV	455427	Lapu iela	living_street	13	1	40	
+LV	455427	Meža iela	secondary	13	1	8	
+LV	455427	Strēlnieku iela	living_street	13	1	17	
+LV	455427	Nākotnes iela	living_street	11	1	11	
+LV	455427	Ozolu iela	living_street	11	1	11	
+LV	455427	Plieņu iela	residential	10	1	20	
+LV	455427	Zaļā iela	living_street	10	1	10	
+LV	455427	Stacijas iela	living_street	7	1	6	
+LV	455520	Liepājas iela	tertiary	91	3	49	
+LV	455520	Amatnieku iela	residential	65	3	40	
+LV	455520	Lielā iela	residential	65	1	27	
+LV	455520	Raiņa iela	primary	43	3	30	
+LV	455520	Cieceres iela	residential	38	1	23	
+LV	455520	Saldus iela	tertiary	34	2	21	
+LV	455520	Oskara Kalpaka iela	tertiary	32	2	19	
+LV	455520	Kalēju iela	tertiary	30	1	23	
+LV	455520	Kuldīgas iela	primary	30	1	26	
+LV	455520	Ventas iela		28	1	16	
+LV	455520	Klusā iela	residential	25	2	20	
+LV	455520	Celtnieku iela	residential	23	2	22	
+LV	455523	Daugavas iela	primary	168	24	140	
+LV	455523	Kalna iela	residential	94	4	89	
+LV	455523	Andreja Upīša iela	residential	51	1	53	
+LV	455523	Pīlādžu iela	residential	51	3	47	
+LV	455523	Birzes iela	residential	46	2	53	
+LV	455523	Dzelzceļnieku iela	residential	44	3	35	
+LV	455523	Sila iela	residential	43	5	43	
+LV	455523	Sporta iela	residential	40	2	39	
+LV	455523	Jāņa Purapuķes iela	secondary	36	4	33	
+LV	455523	Lakstīgalu iela	residential	35	2	44	
+LV	455523	Aizkraukles iela	residential	30	2	35	
+LV	455523	Draudzības iela	residential	30	4	34	
+LV	455677	Skaista iela		80	2	61	
+LV	455677	Ziedu iela		56	3	25	
+LV	455677	Riču iela		29	2	26	
+LV	455677	Skolas iela		28	2	23	
+LV	455677	Abiteļu iela	residential	24	2	27	
+LV	455677	Aizupes iela		21	1	18	
+LV	455677	Baznīcas iela	residential	14	1	15	
+LV	455677	Muižas iela		12	1	16	
+LV	455677	Aveņu iela		11	1	11	
+LV	455677	Miera iela	primary	9	1	10	
+LV	455677	Ceriņu iela		5	2	8	
+LV	455677	Mazā iela	residential	4	1	6	
+LV	455718	Pulkveža Brieža iela	tertiary	183	12	113	
+LV	455718	Strēlnieku iela	residential	141	2	84	
+LV	455718	Dārza iela	tertiary	94	2	47	
+LV	455718	Rožu iela	residential	80	1	37	
+LV	455718	Vidzemes šoseja		73	4	79	
+LV	455718	Saltavota iela	residential	71	15	84	
+LV	455718	Leona Paegles iela	residential	67	3	20	
+LV	455718	Nākotnes iela	tertiary	66	6	63	
+LV	455718	Pils iela	tertiary	66	1	25	
+LV	455718	Atbrīvotāju iela	residential	63	3	47	
+LV	455718	Rūdolfa Blaumaņa iela	tertiary	52	1	29	
+LV	455718	Kalna iela	tertiary	51	1	31	
+LV	455718	Šveices iela	tertiary	50	3	33	
+LV	455718	Gāles iela	primary	49	2	28	
+LV	455718	Ventas iela	residential	46	1	16	
+LV	455718	Klusā iela	living_street	43	3	51	
+LV	455718	Krišjāņa Barona iela	tertiary	42	3	35	
+LV	455718	Televīzijas iela	tertiary	41	5	32	
+LV	455718	Ausekļa iela	primary	39	2	10	
+LV	455718	Krišjāņa Valdemāra iela	residential	38	1	4	
+LV	455718	Saules iela	living_street	37	2	23	
+LV	455718	Viršu iela	living_street	36	1	38	
+LV	455718	Lauku iela	residential	34	1	14	
+LV	455718	Lakstīgalas iela	residential	33	3	18	
+LV	455786	Sporta iela	residential	25	1	13	
+LV	455786	Dārza iela	residential	20	3	27	
+LV	455786	Parka iela	residential	18	2	24	
+LV	455786	Tirgus iela	residential	16	1	7	
+LV	455786	Saules iela	residential	14	1	15	
+LV	455786	Zaļā iela	residential	13	1	10	
+LV	455786	Miera iela	primary	11	1	9	
+LV	455786	Celtnieku iela	residential	10	2	16	
+LV	455786	Brīvības iela	residential	9	1	10	
+LV	455786	Purva iela		7	8	13	
+LV	455786	Skolas laukums	primary	6	1	4	
+LV	455786	Meža iela	residential	3	2	5	
+LV	455812	Ainažu iela	secondary	304	4	113	
+LV	455812	Rīgas iela	secondary	186	8	99	
+LV	455812	Saules iela	residential	95	2	48	
+LV	455812	Celtnieku iela	residential	76	4	77	
+LV	455812	Vidrižu ceļš	secondary	74	5	92	
+LV	455812	Jūras prospekts	unclassified	71	3	86	
+LV	455812	Upes iela	tertiary	65	1	56	
+LV	455812	Mārtiņrožu iela	living_street	61	4	68	
+LV	455812	Draudzības iela	residential	59	3	64	
+LV	455812	Lauku iela	residential	59	3	57	
+LV	455812	Liedaga iela	residential	58	3	47	
+LV	455812	Edgara Liepiņa iela	residential	57	3	62	
+LV	455890	Dzirnavu iela	primary	232	11	31	
+LV	455890	Dārza iela	residential	214	1	15	
+LV	455890	Jelgavas iela	secondary	167	1	14	
+LV	455890	Lielā iela	secondary	162	2	81	
+LV	455890	Cieceres iela	residential	156	2	2	
+LV	455890	Striķu iela	secondary	154	3	102	
+LV	455890	Alejas iela	unclassified	151	4	19	
+LV	455890	Kuldīgas iela	secondary	148	3	88	
+LV	455890	Veides iela	unclassified	145	2	7	
+LV	455890	Bērzu iela	residential	137	2	38	
+LV	455890	Skrundas iela	unclassified	101	2	47	
+LV	455890	Līkā iela	unclassified	90	3	49	
+LV	455890	Kalna iela	residential	87	2	40	
+LV	455890	Brīvības iela	secondary	85	2	44	
+LV	455890	Ezera iela	residential	82	5	64	
+LV	455890	Varavīksnes iela	residential	82	5	74	
+LV	455890	J. Rozentāla iela	unclassified	77	2	20	
+LV	455890	Meža iela	unclassified	73	2	66	
+LV	455890	Ziemeļu iela	residential	69	3	31	
+LV	455890	Aspazijas iela	residential	68	1	37	
+LV	455890	Kalnsētas iela	residential	68	3	36	
+LV	455890	Vienības iela	residential	63	4	40	
+LV	455890	Robežu iela	primary	62	3	39	
+LV	455890	Jēkaba iela	residential	60	3	24	
+LV	455898	Līvzemes iela	tertiary	292	5	26	
+LV	455898	Rīgas iela	secondary	156	1	115	
+LV	455898	Meldru iela	residential	138	6	111	
+LV	455898	Gaismas iela	tertiary	101	3	39	
+LV	455898	Meža iela	tertiary	92	2	55	
+LV	455898	Miera iela	secondary	90	1	34	
+LV	455898	Igora iela	residential	86	5	85	
+LV	455898	Budeskalnu iela	tertiary	81	5	49	
+LV	455898	Skolas iela	tertiary	78	2	16	
+LV	455898	Dienvidu iela	tertiary	72	2	26	
+LV	455898	Ķirbju iela	residential	66	4	70	
+LV	455898	Smilgu iela	residential	62	3	69	
+LV	455898	Saules iela	living_street	59	3	45	
+LV	455898	Balto Ķiršu iela	residential	57	3	69	
+LV	455898	Brīvlauku iela	living_street	55	3	56	
+LV	455898	Pakalna iela		51	3	53	
+LV	455898	Pludmales iela	residential	49	2	33	
+LV	455898	Daugavmalas iela	living_street	46	2	39	
+LV	455898	Strazdiņu iela	residential	46	1	38	
+LV	455898	Kaudzīšu iela	tertiary	44	55	107	
+LV	455898	Pļavu iela	residential	44	3	37	
+LV	455898	Apogu iela	living_street	43	2	31	
+LV	455898	Raiņa iela	living_street	43	4	39	
+LV	455898	Stārķu iela	living_street	43	3	49	
+LV	455898	Tīrumu iela	residential	43	2	36	
+LV	455898	Migļu iela	tertiary	40	2	46	
+LV	455898	Fiziķu iela	living_street	37	2	36	
+LV	455898	Lauku iela	residential	37	1	34	
+LV	455898	Zviedru iela	unclassified	36	1	24	
+LV	455898	Buču iela	living_street	35	2	33	
+LV	455898	Niedru iela	residential	35	2	47	
+LV	455898	Saulrietu iela	tertiary	35	2	45	
+LV	455898	Sila iela	living_street	35	2	36	
+LV	455898	Voldemāra iela	residential	34	2	36	
+LV	455898	Bajāru iela		33	2	38	
+LV	455898	Jaunzemju iela	living_street	33	2	36	
+LV	455898	Ābeļu iela	living_street	32	1	28	
+LV	455898	Biologu iela	living_street	31	2	33	
+LV	455898	Botāniķu iela	living_street	31	2	30	
+LV	455898	Griezes iela	living_street	31	10	29	
+LV	455898	Kalnrozes iela	living_street	31	2	26	
+LV	455898	Kraujas iela	residential	31	1	21	
+LV	455898	Burtnieku iela	tertiary	30	6	32	
+LV	455898	Ošu iela		30	2	29	
+LV	455898	Kalnu iela	living_street	29	1	10	
+LV	455898	Silmaļu iela	living_street	29	2	27	
+LV	455898	Šķeltu iela	living_street	29	2	32	
+LV	455898	Gravu iela	unclassified	28	2	27	
+LV	455910	Pērnavas iela	residential	86	8	60	
+LV	455910	Smilšu iela	residential	59	4	68	
+LV	455910	Vidzemes iela		59	3	70	
+LV	455910	Sila iela	residential	50	2	70	
+LV	455910	Rīgas iela	residential	49	1	16	
+LV	455910	Baznīcas iela	secondary	43	3	48	
+LV	455910	Dārza iela	residential	41	2	26	
+LV	455910	Jūrmalas iela	residential	41	2	65	
+LV	455910	Atlantijas iela	residential	39	1	54	
+LV	455910	Meldru iela	residential	39	3	49	
+LV	455910	Jūras iela	residential	31	2	20	
+LV	455910	Tīruma iela	residential	31	2	37	
+LV	455915	Zaļā iela	residential	33	1	32	
+LV	455915	Alejas iela		22	2	10	
+LV	455915	Susējas iela	residential	18	1	22	
+LV	455915	Viesturu iela	residential	14	1	13	
+LV	455915	Meža iela	residential	11	5	23	
+LV	455915	Ābeļu iela	residential	11	1	12	
+LV	455915	Kļavu iela	residential	10	1	10	
+LV	455915	Skolas iela	residential	8	1	7	
+LV	455915	Bērzu iela	residential	6	1	9	
+LV	455915	Egļu iela	residential	5	2	6	
+LV	455915	Kalna iela	residential	5	1	3	
+LV	455915	Ozolkalna iela	residential	4	1	11	
+LV	455937	Ventspils iela	primary	74	1	76	
+LV	455937	Rīgas iela	primary	61	4	57	
+LV	455937	Blaumaņa iela	residential	54	3	64	
+LV	455937	Krišjāņa Barona iela	residential	32	1	41	
+LV	455937	Oskara Kalpaka iela	residential	32	3	42	
+LV	455937	Brīvības iela	secondary	18	2	27	
+LV	455937	Valdemāra iela	residential	17	2	17	
+LV	455937	Krasta iela	residential	15	2	27	
+LV	455937	Pilskalna iela	residential	13	1	14	
+LV	455937	Raiņa iela	residential	13	1	13	
+LV	455937	Talsu iela	secondary	13	1	17	
+LV	455937	Sporta iela	residential	12	1	14	
+LV	455976	Dārza iela	residential	34	1	21	
+LV	455976	Ezera iela	residential	31	4	36	
+LV	455976	Burtnieku iela	tertiary	26	1	24	
+LV	455976	Pils iela		24	1	28	
+LV	455976	Līvānu iela		21	2	26	
+LV	455976	Upmalas iela		16	1	30	
+LV	455976	Bērsteles iela	tertiary	15	1	39	
+LV	455976	Lejnieku iela		14	3	16	
+LV	455976	Doktorāta iela	unclassified	12	2	14	
+LV	455976	Jātnieku iela		12	2	27	
+LV	455976	Liepu iela	residential	12	1	16	
+LV	455976	Upes iela		10	1	17	
+LV	456008	Rīgas iela	primary	95	3	67	
+LV	456008	Valdemāra iela	secondary	71	2	50	
+LV	456008	Raiņa iela	tertiary	64	3	51	
+LV	456008	Skolas iela	residential	60	6	62	
+LV	456008	Kronvalda iela	residential	55	5	53	
+LV	456008	Brīvības iela	primary	51	7	54	
+LV	456008	Aspazijas iela	residential	41	5	44	
+LV	456008	Valmieras iela	residential	40	2	36	
+LV	456008	Ābeļu iela	residential	39	2	47	
+LV	456008	Dzirnavu iela	residential	36	3	40	
+LV	456008	Bumbieru iela	residential	34	2	33	
+LV	456008	Austrumu iela	residential	31	1	28	
+LV	456050	Desmitā iela		13	1	14	
+LV	456050	Astotā iela		11	1	11	
+LV	456050	Vienpadsmitā iela		11	1	13	
+LV	456050	Devītā iela		10	1	10	
+LV	456050	Septītā iela		10	1	12	
+LV	456050	Ceturtā iela		8	1	8	
+LV	456050	Divpadsmitā iela		7	1	13	
+LV	456050	Sestā iela		7	1	11	
+LV	456050	Trešā iela		7	1	7	
+LV	456050	Otrā iela		5	1	4	
+LV	456050	Pirmā iela		5	2	6	
+LV	456050	Četrpadsmitā iela		5	1	6	
+LV	456089	Vidzemes šoseja	primary	118	1	44	
+LV	456089	Priežu iela	residential	70	3	37	
+LV	456089	Saules iela	residential	65	2	33	
+LV	456089	Graudiņu iela	residential	64	4	62	
+LV	456089	Sēņu iela	residential	42	2	34	
+LV	456089	Kalnu iela	living_street	38	2	34	
+LV	456089	Zaļā iela	residential	35	1	22	
+LV	456089	Sporta iela	residential	28	2	36	
+LV	456089	Lielā zaļā iela	tertiary	26	2	25	
+LV	456089	Austrumu iela	secondary	25	2	24	
+LV	456089	Kastaņu iela		24	2	55	
+LV	456089	Ceriņu iela		23	2	21	
+LV	456107	Selgas iela	primary	111	1	68	
+LV	456107	Miera iela	unclassified	47	3	70	
+LV	456107	Upes iela	residential	42	2	28	
+LV	456107	Akas iela	residential	32	51	75	
+LV	456107	Torņa iela	residential	28	5	73	
+LV	456107	Talsu iela	residential	27	1	31	
+LV	456107	Peldu iela	unclassified	26	2	32	
+LV	456107	Priežu iela	unclassified	25	3	39	
+LV	456107	Silupītes iela	residential	22	1	24	
+LV	456107	Ķirķraga iela	residential	22	3	52	
+LV	456107	Krasta iela	unclassified	20	10	44	
+LV	456107	Zvejnieku iela	unclassified	19	1	20	
+LV	456172	Latgales iela	tertiary	1141	85	465	
+LV	456172	Brīvības gatve	residential	1042	201	432	
+LV	456172	Brīvības iela		550	39	188	
+LV	456172	Krišjāņa Barona iela	tertiary	472	7	136	
+LV	456172	Slokas iela	secondary	423	5	217	
+LV	456172	Aleksandra Čaka iela	primary	420	30	143	
+LV	456172	Biķernieku iela	secondary	415	11	222	
+LV	456172	Kalnciema iela	primary	375	1	173	
+LV	456172	Vienības gatve	secondary	370	14	194	
+LV	456172	Jaunciema gatve		360	19	298	
+LV	456172	Matīsa iela	tertiary	359	8	137	
+LV	456172	Augusta Deglava iela	secondary	353	25	160	
+LV	456172	Krišjāņa Valdemāra iela	primary	350	7	147	
+LV	456172	Lubānas iela	primary	340	12	129	
+LV	456172	Dzirnavu iela	residential	334	11	136	
+LV	456172	Kurzemes prospekts	secondary	334	1	137	
+LV	456172	Ģertrūdes iela	residential	334	6	125	
+LV	456172	Bruņinieku iela	residential	332	5	145	
+LV	456172	Dzelzavas iela	secondary	318	6	120	
+LV	456172	Stabu iela	residential	317	8	112	
+LV	456172	Jūrmalas gatve	secondary	314	7	154	
+LV	456172	Krustpils iela	secondary	314	6	151	
+LV	456172	Lāčplēša iela	primary	307	9	139	
+LV	456172	Mūkusalas iela	secondary	304	29	80	
+LV	456172	Ieriķu iela	primary	294	3	74	
+LV	456172	Avotu iela	tertiary	261	4	73	
+LV	456172	Daugavgrīvas iela	secondary	260	6	146	
+LV	456172	Tallinas iela	tertiary	259	4	95	
+LV	456172	Bauskas iela	tertiary	252	2	193	
+LV	456172	Ganību dambis	primary	249	4	45	
+LV	456172	Tērbatas iela	residential	246	2	90	
+LV	456172	Miera iela	tertiary	235	4	95	
+LV	456172	Prūšu iela	tertiary	222	1	104	
+LV	456172	Vecāķu prospekts		216	3	203	
+LV	456172	Krasta iela	primary	202	3	101	
+LV	456172	Dārziņu iela		197	31	256	
+LV	456172	Nometņu iela	residential	194	7	64	
+LV	456172	Andreja Saharova iela	tertiary	193	1	30	
+LV	456172	Mazā Nometņu iela	tertiary	191	7	87	
+LV	456172	Dzirciema iela	tertiary	188	5	123	
+LV	456172	Pērnavas iela	primary	185	5	86	
+LV	456172	Ūnijas iela	residential	181	6	85	
+LV	456172	Ropažu iela	tertiary	179	7	130	
+LV	456172	Kleistu iela	tertiary	178	6	69	
+LV	456172	Lielvārdes iela	secondary	175	7	136	
+LV	456172	Nīcgales iela	tertiary	171	2	53	
+LV	456172	Stirnu iela	tertiary	171	7	53	
+LV	456172	Zalves iela	residential	169	9	117	
+LV	456172	Valdeķu iela	tertiary	166	4	68	
+LV	456172	Elizabetes iela	residential	165	2	91	
+LV	456172	Volguntes iela	tertiary	165	6	102	
+LV	456172	Ilūkstes iela	tertiary	164	6	107	
+LV	456172	Duntes iela	primary	162	5	52	
+LV	456172	Dārzciema iela	secondary	162	5	109	
+LV	456172	Zolitūdes iela	tertiary	157	21	101	
+LV	456172	Artilērijas iela	residential	156	8	69	
+LV	456172	Juglas iela		151	2	95	
+LV	456172	Kantora iela	secondary	148	5	84	
+LV	456172	Murjāņu iela		148	8	101	
+LV	456172	Kārļa Ulmaņa gatve		147	1	182	
+LV	456172	Ezermalas iela	tertiary	144	2	53	
+LV	456172	Jāņogu iela		144	29	171	
+LV	456172	Anniņmuižas bulvāris	tertiary	143	4	90	
+LV	456172	Raunas iela	residential	138	6	58	
+LV	456172	Buļļu iela	tertiary	137	4	72	
+LV	456172	Šampētera iela	residential	136	2	153	
+LV	456172	Berģu iela		135	7	160	
+LV	456172	Viestura prospekts	primary	135	7	85	
+LV	456172	Augusta Dombrovska iela		134	7	82	
+LV	456172	Čiekurkalna 1. līnija	tertiary	134	1	80	
+LV	456172	Sakņu iela		133	7	118	
+LV	456172	Beberbeķu iela	residential	129	12	84	
+LV	456172	Jelgavas iela	tertiary	127	2	86	
+LV	456172	Airu iela		126	13	115	
+LV	456172	Lielirbes iela	primary	126	6	29	
+LV	456172	Ludzas iela	tertiary	126	9	89	
+LV	456172	Sējas iela	living_street	126	5	94	
+LV	456172	Tēriņu iela	primary	125	6	79	
+LV	456172	Ulbrokas iela	secondary	125	3	46	
+LV	456172	Cēsu iela	residential	121	3	35	
+LV	456172	Ojāra Vācieša iela	tertiary	121	2	75	
+LV	456172	Pildas iela	residential	120	8	89	
+LV	456172	Ķiburgas iela	residential	120	1	18	
+LV	456172	Ventspils iela	tertiary	118	5	70	
+LV	456172	Čiekurkalna 2. līnija	unclassified	116	4	73	
+LV	456172	Cēres iela	secondary	115	3	106	
+LV	456172	Baznīcas iela	residential	114	7	45	
+LV	456172	Marijas iela	primary	114	2	23	
+LV	456172	Cidoniju iela	living_street	113	2	75	
+LV	456172	Liepājas iela	tertiary	112	3	78	
+LV	456172	Graudu iela	secondary	111	9	68	
+LV	456172	Tvaika iela	tertiary	111	2	68	
+LV	456172	Stacijas laukums		110	2	4	
+LV	456172	Bramberģes iela	living_street	109	5	63	
+LV	456172	Daugavmalas iela		109	13	189	
+LV	456172	Jūrkalnes iela	tertiary	109	1	74	
+LV	456172	Gustava Zemgala gatve	primary	108	13	80	
+LV	456172	Kuldīgas iela	residential	108	3	53	
+LV	456172	Lokomotīves iela	tertiary	106	24	163	
+LV	456172	Skanstes iela	secondary	106	2	52	
+LV	456172	Taisnā iela		106	5	94	
+LV	456172	Lastādijas iela	tertiary	104	2	58	
+LV	456172	Drustu iela	living_street	101	1	44	
+LV	456172	Pilsoņu iela	residential	101	1	13	
+LV	456172	Kaivas iela		100	14	50	
+LV	456172	Lidoņu iela	tertiary	99	2	30	
+LV	456172	Uriekstes iela	unclassified	99	1	48	
+LV	456172	Apuzes iela	residential	98	4	68	
+LV	456172	Mežotnes iela	living_street	97	2	63	
+LV	456172	Mārupes iela	tertiary	97	1	55	
+LV	456172	Vestienas iela	primary	96	2	43	
+LV	456172	Dauguļu iela	living_street	95	5	98	
+LV	456172	Piedrujas iela	primary	95	6	30	
+LV	456172	Dzintara iela		94	11	65	
+LV	456172	Blaumaņa iela	residential	92	5	38	
+LV	456172	Daugavpils iela	residential	92	5	72	
+LV	456172	Gaujas iela	tertiary	92	2	57	
+LV	456172	Hipokrāta iela		92	2	49	
+LV	456172	Rēzeknes iela	residential	92	2	48	
+LV	456172	Sesku iela	residential	92	5	82	
+LV	456172	Eduarda Smiļģa iela	residential	91	3	50	
+LV	456172	Višķu iela		90	2	18	
+LV	456172	Codes iela	living_street	89	3	54	
+LV	456172	Mārkalnes iela		89	1	24	
+LV	456172	Stopiņu iela		89	4	50	
+LV	456172	Braslas iela	residential	88	16	63	
+LV	456172	Ernesta Birznieka-Upīša iela	residential	88	5	27	
+LV	456172	Vaļņu iela	living_street	88	1	43	
+LV	456172	Eksporta iela	secondary	87	1	16	
+LV	456172	Gunāra Astras iela	secondary	87	1	13	
+LV	456172	Kalēju iela	living_street	87	4	74	
+LV	456172	Katlakalna iela	tertiary	86	1	14	
+LV	456172	Rencēnu iela	unclassified	86	6	48	
+LV	456172	Atlantijas iela		85	4	107	
+LV	456172	Daugavgrīvas šoseja	secondary	85	1	11	
+LV	456172	Hospitāļu iela	residential	85	2	45	
+LV	456172	Ģimnastikas iela	residential	85	1	50	
+LV	456172	Beberbeķu 9. līnija		84	2	27	
+LV	456172	Rūpniecības iela	residential	84	4	52	
+LV	456172	Veiksmes iela		84	2	23	
+LV	456172	Kartupeļu iela	living_street	83	3	50	
+LV	456172	Krūzes iela	tertiary	83	2	49	
+LV	456172	Priedaines iela	residential	83	15	88	
+LV	456172	Mazā Juglas iela		82	3	47	
+LV	456172	Ozolciema iela	secondary	82	12	56	
+LV	456172	Pulkveža Brieža iela	primary	82	4	43	
+LV	456172	Purvciema iela	living_street	82	5	61	
+LV	456172	Skolas iela	residential	82	3	35	
+LV	456172	Rātsupītes iela	tertiary	81	2	22	
+LV	456172	Vagonu iela	unclassified	81	14	39	
+LV	456172	Ernestīnes iela	residential	80	3	45	
+LV	456172	Lielā iela	tertiary	80	3	71	
+LV	456172	Lizuma iela	tertiary	80	1	7	
+LV	456172	Sergeja Eizenšteina iela		80	8	79	
+LV	456172	Ābeļu iela	living_street	80	2	64	
+LV	456172	Dāliju iela	living_street	79	1	24	
+LV	456172	Pūces iela	residential	79	11	51	
+LV	456172	Tilta iela	primary	79	2	32	
+LV	456172	Satekles iela	primary	78	1	11	
+LV	456172	Malienas iela		77	2	76	
+LV	456172	Zvaigžņu iela	residential	77	1	30	
+LV	456172	Rudzu iela	residential	76	3	64	
+LV	456172	Kalna iela	tertiary	75	2	68	
+LV	456172	Līvciema iela	residential	74	4	51	
+LV	456172	Rītupes iela	residential	74	2	32	
+LV	456172	Ezera iela	residential	73	2	31	
+LV	456172	Melnsila iela	tertiary	73	2	25	
+LV	456172	Valmieras iela	primary	72	2	45	
+LV	456172	Ķeguma iela	residential	72	5	64	
+LV	456172	Gobas iela		71	5	37	
+LV	456172	Mālu iela	tertiary	71	3	30	
+LV	456172	Parādes iela		71	2	36	
+LV	456172	Stokholmas iela		71	3	61	
+LV	456172	Viskaļu iela	tertiary	71	2	43	
+LV	456172	Ziepniekkalna iela		71	2	68	
+LV	456172	Katoļu iela	residential	70	2	51	
+LV	456172	Lienes iela	residential	70	1	28	
+LV	456172	Tīraines iela	tertiary	70	1	38	
+LV	456172	Krustabaznīcas iela	unclassified	69	4	16	
+LV	456172	Mangaļu prospekts		69	1	62	
+LV	456172	Meža prospekts	primary	69	1	88	
+LV	456172	Bajāru iela	living_street	68	4	68	
+LV	456172	Brūkleņu iela	living_street	68	2	77	
+LV	456172	Misas iela	residential	68	3	50	
+LV	456172	Spilves iela	residential	68	4	35	
+LV	456172	Stūrmaņu iela		68	1	36	
+LV	456172	Dārziņu 20. līnija		67	4	67	
+LV	456172	Krāsotāju iela	residential	67	2	29	
+LV	456172	Salaspils iela	tertiary	67	2	22	
+LV	456172	Balasta dambis	residential	66	2	70	
+LV	456172	Elijas iela	residential	66	4	22	
+LV	456172	Firsa Sadovņikova iela	tertiary	66	9	41	
+LV	456172	Merķeļa iela	residential	66	1	21	
+LV	456172	Plostnieku iela		66	6	61	
+LV	456172	Robežu iela	living_street	66	2	52	
+LV	456172	Valtaiķu iela	living_street	66	2	57	
+LV	456172	Baltā iela	residential	65	1	22	
+LV	456172	Imantas iela	living_street	65	1	58	
+LV	456172	Jaunmoku iela	tertiary	65	8	30	
+LV	456172	Kārsavas iela	living_street	65	3	49	
+LV	456185	Viļānu iela		50	2	46	
+LV	456185	Rēzeknes iela		33	1	32	
+LV	456185	Liepu iela		30	2	22	
+LV	456185	Saules iela		22	2	27	
+LV	456185	Skolas iela		19	1	18	
+LV	456185	Kalnu iela		17	1	16	
+LV	456185	Lauku iela		16	1	16	
+LV	456185	Dārzu iela	unclassified	15	1	9	
+LV	456185	Aizupes iela		14	1	17	
+LV	456185	Līvānu iela	residential	14	1	16	
+LV	456185	Saimniecības iela		11	2	8	
+LV	456185	Miera iela		10	1	12	
+LV	456202	Atbrīvošanas aleja	primary	448	21	174	
+LV	456202	Rīgas iela	primary	172	6	89	
+LV	456202	Saules iela	residential	156	2	54	
+LV	456202	Dārzu iela	residential	155	3	84	
+LV	456202	Bukmuižas iela	residential	152	7	102	
+LV	456202	N. Rancāna iela		149	3	78	
+LV	456202	J. Tiņanova iela		131	13	80	
+LV	456202	Zilupes iela	secondary	121	5	109	
+LV	456202	Latgales iela	primary	116	15	108	
+LV	456202	A. Upīša iela		113	8	125	
+LV	456202	Liepu iela	residential	112	3	108	
+LV	456202	Kr. Barona iela		108	6	85	
+LV	456202	Varoņu iela	residential	103	4	41	
+LV	456202	F. Varslavāna iela	residential	101	6	84	
+LV	456202	Miera iela	residential	93	8	78	
+LV	456202	Brīvības iela	secondary	88	3	50	
+LV	456202	Stacijas iela	secondary	85	1	33	
+LV	456202	Jupatovkas iela	residential	84	1	22	
+LV	456202	Maskavas iela	residential	84	2	33	
+LV	456202	Raiņa iela	residential	84	5	60	
+LV	456202	Upes iela	residential	82	3	51	
+LV	456202	Zemnieku iela	residential	80	2	67	
+LV	456202	Meža iela	residential	78	1	47	
+LV	456202	F. Trasūna iela		77	6	90	
+LV	456202	Kr. Valdemāra iela		72	2	45	
+LV	456202	18. novembra iela	residential	68	2	41	
+LV	456202	Lauku iela	residential	64	2	48	
+LV	456202	V. Seiles iela		62	5	41	
+LV	456202	F. Kempa iela	residential	60	3	37	
+LV	456202	Lubānas iela	residential	60	2	72	
+LV	456202	Ausekļa iela	primary	58	3	43	
+LV	456202	Jelgavas iela	residential	58	3	38	
+LV	456202	Torņa iela	tertiary	57	4	45	
+LV	456202	Zavoloko iela	residential	57	3	49	
+LV	456202	Jaunpleikšņu iela	residential	56	2	32	
+LV	456202	Krasta iela	pedestrian	54	12	83	
+LV	456202	Dzelzceļnieku iela	residential	53	1	21	
+LV	456202	Parka iela	residential	53	2	41	
+LV	456202	Pulkveža Brieža iela	residential	53	1	41	
+LV	456202	Ļermontova iela	residential	49	2	52	
+LV	456202	Bērzpils iela	residential	48	2	38	
+LV	456202	Viļakas iela	residential	48	1	38	
+LV	456202	Kaunatas iela	residential	45	2	52	
+LV	456202	Ludzas iela	primary	45	2	52	
+LV	456202	Ķiršu iela		44	5	34	
+LV	456202	Daugavpils iela	residential	43	2	47	
+LV	456202	Ozolu iela	residential	42	2	30	
+LV	456202	Rēznas iela	primary	42	2	37	
+LV	456272	Kalna iela	residential	44	3	65	
+LV	456272	Vidzemes iela	secondary	28	1	28	
+LV	456272	Rīgas iela	secondary	26	1	32	
+LV	456272	Parka iela	tertiary	25	1	22	
+LV	456272	Valmieras iela	tertiary	22	1	22	
+LV	456272	Saules iela		21	2	32	
+LV	456272	Cēsu iela	tertiary	20	1	14	
+LV	456272	Krasta iela	residential	20	1	26	
+LV	456272	Jaunatnes iela	residential	12	1	15	
+LV	456272	Kraujas iela	residential	11	1	15	
+LV	456272	Smiltenes iela	primary	11	3	17	
+LV	456272	Tanīsa iela	residential	10	1	12	
+LV	456341	Tirgus iela	living_street	49	1	21	
+LV	456341	Dārza iela	residential	48	6	57	
+LV	456341	Saules iela	tertiary	38	1	37	
+LV	456341	Skolas iela	living_street	21	3	19	
+LV	456341	Ziemeļu iela		20	1	23	
+LV	456341	Gavēņu iela	residential	17	1	15	
+LV	456341	Meistaru iela	living_street	17	2	18	
+LV	456341	Vidus iela	living_street	11	1	12	
+LV	456341	Kļavu iela	residential	10	1	11	
+LV	456341	Jaunatnes iela	living_street	9	3	14	
+LV	456341	Kalna iela		9	1	14	
+LV	456341	Parka iela	living_street	9	1	4	
+LV	456344	Jaunā iela	primary	42	2	32	
+LV	456344	Stadiona iela	residential	42	1	37	
+LV	456344	Ezera iela	residential	40	1	39	
+LV	456344	Niedru iela	residential	40	1	34	
+LV	456344	Slocenes iela	residential	40	2	49	
+LV	456344	Laivu iela	residential	33	2	32	
+LV	456344	Liepu iela	secondary	31	2	24	
+LV	456344	Ozolu iela	residential	28	2	33	
+LV	456344	Pīlādžu iela	residential	26	2	25	
+LV	456344	Selgas iela	primary	26	1	23	
+LV	456344	Saules iela	residential	25	2	19	
+LV	456344	Bākas iela	residential	24	1	28	
+LV	456503	Cēsu prospekts	primary	50	1	46	
+LV	456503	Viļuma Skubiņa iela	residential	33	2	44	
+LV	456503	Meža iela	living_street	27	3	29	
+LV	456503	Selekcijas iela	secondary	25	2	18	
+LV	456503	Egļu gatve	residential	21	1	15	
+LV	456503	Dārza iela	residential	18	2	17	
+LV	456503	Rotas iela	living_street	18	1	18	
+LV	456503	Lāčplēša iela	residential	17	1	19	
+LV	456503	Raunas iela	tertiary	17	1	20	
+LV	456503	Toma iela		17	1	20	
+LV	456503	Vitas iela	living_street	16	1	18	
+LV	456503	Izmēģinātāju iela	residential	15	1	13	
+LV	456506	Brīvības iela	residential	75	3	74	
+LV	456506	Aizputes iela	primary	58	1	53	
+LV	456506	Galvenā iela	residential	54	1	50	
+LV	456506	Ķieģeļu iela	residential	48	2	35	
+LV	456506	Zāļu iela	residential	44	3	40	
+LV	456506	Liepājas iela	secondary	38	3	18	
+LV	456506	Parka iela	residential	38	3	32	
+LV	456506	Raiņa iela	residential	38	1	41	
+LV	456506	Baznīcas iela	residential	30	2	28	
+LV	456506	Paplakas iela	secondary	30	2	26	
+LV	456506	Ganību iela	residential	27	2	28	
+LV	456506	Vaiņodes iela	primary	26	2	17	
+LV	456530	Brīvības iela	primary	103	2	76	
+LV	456530	Daugavpils iela	secondary	94	3	75	
+LV	456530	Liepājas iela	residential	58	8	52	
+LV	456530	Aglonas iela	secondary	56	1	65	
+LV	456530	Miera iela	residential	49	1	26	
+LV	456530	Pils iela	residential	47	2	16	
+LV	456530	Rēzeknes iela	secondary	46	4	47	
+LV	456530	Celtnieku iela	residential	43	2	28	
+LV	456530	Raiņa bulvāris	residential	42	3	29	
+LV	456530	Rīgas iela		41	1	12	
+LV	456530	Talsu iela	residential	36	1	25	
+LV	456530	Jelgavas iela	residential	33	2	33	
+LV	456530	Skolas iela	residential	31	1	26	
+LV	456530	Atpūtas iela	residential	28	2	40	
+LV	456530	Rožu iela	residential	28	2	28	
+LV	456530	Latgales iela	residential	27	1	23	
+LV	456530	Tirdzniecības iela	residential	27	2	29	
+LV	456530	Cēsu iela	residential	26	3	36	
+LV	456530	Liepu iela	tertiary	26	1	28	
+LV	456530	Lauku iela	unclassified	25	2	27	
+LV	456530	Andreja Paulāna iela	residential	24	1	25	
+LV	456530	Mehanizatoru iela	residential	24	2	12	
+LV	456530	Pļaviņu iela	residential	24	3	23	
+LV	456530	Saules iela	residential	24	2	17	
+LV	456550	Skolas iela	tertiary	19	2	23	
+LV	456550	Vienības iela	tertiary	19	3	24	
+LV	456550	Saules iela	residential	13	1	15	
+LV	456550	Liepu iela	residential	12	1	12	
+LV	456550	Agu dambis	unclassified	1	0	0	
+LV	456550	Akmeņu ceļš	unclassified	1	0	0	
+LV	456550	Baraku dambis	unclassified	1	0	0	
+LV	456550	Bumbedru ceļš	unclassified	1	0	0	
+LV	456550	Bērzu ceļš	unclassified	1	0	0	
+LV	456550	Gardangas	unclassified	1	0	0	
+LV	456550	Grīžgala ceļš	unclassified	1	0	0	
+LV	456550	Grīžmežu ceļš	unclassified	1	0	0	
+LV	456635	Daugavas iela	secondary	160	4	185	
+LV	456635	Raiņa iela	residential	136	7	125	
+LV	456635	Meža iela	residential	67	2	73	
+LV	456635	Lielā iela	tertiary	63	4	67	
+LV	456635	Vidzemes iela	secondary	55	4	92	
+LV	456635	Rīgas iela	secondary	48	3	43	
+LV	456635	Bebrulejas iela		41	2	12	
+LV	456635	Kalna iela	residential	39	1	25	
+LV	456635	Liepu iela	residential	32	4	50	
+LV	456635	Odzienas iela	tertiary	31	1	24	
+LV	456635	Saules iela		30	2	26	
+LV	456635	Vietalvas iela	residential	25	1	20	
+LV	456685	Spilves iela	living_street	81	2	75	
+LV	456685	Jūrmalas iela	secondary	73	3	48	
+LV	456685	Jaunā iela	residential	60	3	12	
+LV	456685	Liepu aleja	tertiary	59	2	48	
+LV	456685	Rīgas iela	secondary	55	1	23	
+LV	456685	Gravu iela	living_street	53	6	72	
+LV	456685	Meža iela	residential	52	1	51	
+LV	456685	Cidonijas iela	residential	42	1	29	
+LV	456685	Elizabetes iela	living_street	42	3	51	
+LV	456685	Kalna iela	living_street	40	2	47	
+LV	456685	Briežu iela	living_street	37	2	36	
+LV	456685	Aveņu iela	residential	35	2	30	
+LV	456696	Lielā iela	secondary	78	2	80	
+LV	456696	Jelgavas iela	secondary	37	4	81	
+LV	456696	Ventas iela	residential	35	1	38	
+LV	456696	Maija iela	residential	34	2	29	
+LV	456696	Jura Mātera iela	secondary	29	3	53	
+LV	456696	Liepu iela	residential	28	1	68	
+LV	456696	Skolas iela	unclassified	17	1	10	
+LV	456696	Bestes ceļš	unclassified	16	1	29	
+LV	456696	Ķiršu iela	residential	16	2	30	
+LV	456696	Ganību iela	residential	15	1	18	
+LV	456696	Peldu iela	living_street	13	5	24	
+LV	456696	Raiņa iela	unclassified	12	3	31	
+LV	456827	Dzintaru iela	secondary	140	1	115	
+LV	456827	Brīvības iela	residential	58	1	44	
+LV	456827	Parka iela	residential	43	2	38	
+LV	456827	Kalna iela	residential	37	2	41	
+LV	456827	Ostmalas iela	unclassified	32	2	18	
+LV	456827	Viļņu iela	residential	29	2	22	
+LV	456827	Lejas iela	residential	28	2	22	
+LV	456827	Krasta iela	residential	27	2	29	
+LV	456827	Smilšu iela	residential	25	1	18	
+LV	456827	Klusā iela	residential	24	2	29	
+LV	456827	Sakas iela	residential	24	3	21	
+LV	456827	Tirgus iela	residential	24	1	14	
+LV	456954	Spartaka iela	residential	53	1	28	
+LV	456954	Skolas iela	residential	49	1	21	
+LV	456954	Saules iela	residential	47	2	20	
+LV	456954	Rīgas iela	primary	39	1	52	
+LV	456954	Stadiona iela	residential	37	1	22	
+LV	456954	Viktorijas iela	residential	37	2	42	
+LV	456954	Viršu iela		37	1	32	
+LV	456954	Zemgales iela	residential	37	1	23	
+LV	456954	Cidoniju iela	living_street	33	2	33	
+LV	456954	Matīsa iela	living_street	33	2	38	
+LV	456954	Pavasara iela	residential	33	2	29	
+LV	456954	Upes iela	residential	30	2	49	
+LV	457004	Skolas iela		31	2	20	
+LV	457004	Zvidzienas iela		13	1	11	
+LV	457004	Celtnieku iela		10	1	14	
+LV	457004	Meža iela		8	1	10	
+LV	457004	Oškalna iela		6	1	12	
+LV	457004	Torņa iela		5	1	6	
+LV	457004	Liepu iela		4	1	4	
+LV	457004	Līvānu iela		4	1	4	
+LV	457004	Dārza iela		3	2	6	
+LV	457004	Barkava — Lubāna	secondary	1	0	0	
+LV	457004	Gaigalava — Kvāpāni — Degumnieki	secondary	1	0	0	
+LV	457004	Inķērsalas ceļš	unclassified	1	0	0	
+LV	457052	Zemgales iela	secondary	110	1	57	
+LV	457052	Pionieru iela	living_street	106	2	89	
+LV	457052	Akācijas iela	living_street	92	5	86	
+LV	457052	Vendijas iela	living_street	81	5	89	
+LV	457052	Rītupes iela	living_street	74	4	68	
+LV	457052	Priežu iela	living_street	55	1	52	
+LV	457052	Rīgas iela	unclassified	52	1	28	
+LV	457052	Zeiferta iela	tertiary	51	2	22	
+LV	457052	Stacijas iela	residential	50	3	58	
+LV	457052	Siliņu iela	living_street	45	2	54	
+LV	457052	Saules iela	residential	44	3	41	
+LV	457052	Jelgavas iela	tertiary	41	2	32	
+LV	457052	Madaru iela	living_street	39	2	31	
+LV	457052	Kūdras iela	residential	38	1	27	
+LV	457052	Vērdiņu iela	residential	37	2	43	
+LV	457052	Mēness iela	living_street	35	2	40	
+LV	457052	Mazā Siliņu iela	living_street	34	1	20	
+LV	457052	Upenieku iela	residential	34	2	35	
+LV	457052	Zvaigžņu iela	living_street	34	2	35	
+LV	457052	Loka iela	living_street	32	1	34	
+LV	457052	Austrumu iela	living_street	28	2	34	
+LV	457052	Kalmes iela	residential	26	2	26	
+LV	457052	Baznīcas iela	tertiary	24	1	11	
+LV	457052	Vidagas iela	living_street	24	2	22	
+LV	457065	Brīvības iela	secondary	231	6	123	
+LV	457065	Mālkalnes prospekts	secondary	151	2	38	
+LV	457065	Rīgas iela	residential	145	6	100	
+LV	457065	Jaunā gatve	residential	118	7	170	
+LV	457065	Pureņu iela	residential	107	6	132	
+LV	457065	Akmeņu iela	residential	93	9	68	
+LV	457065	Daugavpils iela	residential	89	1	74	
+LV	457065	Pārogres gatve	residential	89	6	75	
+LV	457065	Skolas iela	secondary	79	2	20	
+LV	457065	Vidus prospekts	residential	69	1	35	
+LV	457065	Mednieku iela	tertiary	68	3	24	
+LV	457065	Rūpnieku iela	living_street	68	2	65	
+LV	457065	Strēlnieku prospekts	tertiary	62	3	43	
+LV	457065	Jaunogres prospekts	secondary	61	4	49	
+LV	457065	Zvejnieku iela	residential	61	6	62	
+LV	457065	Malvu iela	residential	54	3	61	
+LV	457065	Dārza iela	tertiary	53	3	36	
+LV	457065	Rožu iela	living_street	52	2	48	
+LV	457065	Jāņa Čakstes prospekts	tertiary	50	2	32	
+LV	457065	Vijolīšu iela	residential	50	3	70	
+LV	457065	Celtnieku iela	residential	49	2	41	
+LV	457065	Ausekļa prospekts	residential	48	1	26	
+LV	457065	Dārziņu Bērzu iela	residential	48	3	50	
+LV	457065	Kamēliju iela	residential	47	3	45	
+LV	457065	Lavandu iela	residential	44	4	45	
+LV	457065	Lazdu gatve	residential	44	2	33	
+LV	457065	Andreja iela	residential	42	2	34	
+LV	457065	Daugavas iela	residential	42	1	22	
+LV	457065	Neļķu iela	residential	42	3	40	
+LV	457065	Draudzības iela	residential	41	2	29	
+LV	457065	Piekalnes iela	residential	41	4	43	
+LV	457065	Poruka iela	living_street	41	2	30	
+LV	457065	Uzvaras iela	residential	41	1	33	
+LV	457065	Amatnieku iela	living_street	40	1	47	
+LV	457065	Jumpravas iela	residential	40	2	54	
+LV	457065	Kallu iela	residential	40	2	42	
+LV	457065	Stirnu iela	residential	40	1	45	
+LV	457065	Upes prospekts	secondary	40	1	22	
+LV	457065	Mazā Ķentes iela	tertiary	39	2	42	
+LV	457065	Turkalnes iela	secondary	39	1	29	
+LV	457065	Anemoņu iela	residential	37	2	38	
+LV	457065	Krastmalas iela	residential	37	1	42	
+LV	457065	Mārtiņa iela	living_street	36	2	46	
+LV	457065	Bārbeļu iela	residential	35	2	35	
+LV	457065	Grīvas prospekts	residential	35	2	29	
+LV	457065	Sila iela	living_street	35	1	26	
+LV	457065	Birzgales iela	living_street	34	2	41	
+LV	457065	Dārziņu Upes iela	residential	34	2	37	
+LV	457142	Dārza iela	living_street	175	6	15	
+LV	457142	Skolas iela	residential	17	1	14	
+LV	457142	Bārtas iela	residential	13	1	11	
+LV	457142	Saules iela	living_street	10	1	9	
+LV	457142	Upes iela	residential	4	1	5	
+LV	457142	Autoceļa atzars	unclassified	1	0	0	
+LV	457142	Baidu dambis	unclassified	1	0	0	
+LV	457142	Cepurīšu ceļš	unclassified	1	0	0	
+LV	457142	Galēju nobrauktuve	unclassified	1	0	0	
+LV	457142	Garais dambis	unclassified	1	0	0	
+LV	457142	Jaunais zviedru ceļš	unclassified	1	0	0	
+LV	457142	Ječupes ceļš	unclassified	1	0	0	
+LV	457148	Kalēju iela	residential	83	8	101	
+LV	457148	Raiņa iela	secondary	33	2	26	
+LV	457148	Pasta iela	residential	32	1	20	
+LV	457148	Panemunio g.	secondary	25	2	26	
+LV	457148	Naujoji g.	residential	23	2	23	
+LV	457148	Ziedu iela	residential	23	2	28	
+LV	457148	Ratkūnų g.	unclassified	22	3	23	
+LV	457148	Rīgas iela	primary	21	1	21	
+LV	457148	Pētera Lodziņa iela	residential	20	1	24	
+LV	457148	Dzirnavu iela	primary	17	1	19	
+LV	457148	Nākotnes iela		17	1	41	
+LV	457148	Jēkabpils iela	primary	13	2	24	
+LV	457161	Andricēni–Nurmi	secondary	1	0	0	
+LV	457161	Dambji-Sporas	unclassified	1	0	0	
+LV	457161	Lāriņi-Doles	unclassified	1	0	0	
+LV	457161	Naukšēni - Piksāri - Veckārķi	secondary	1	0	0	
+LV	457161	Naukšēni — Doles	secondary	1	0	0	
+LV	457161	Naukšēni-Piksāri-Veckārķi	secondary	1	0	0	
+LV	457161	Nurmu ceļš	unclassified	1	0	0	
+LV	457161	Piksāru skola-Lāriņi 1.piev.	unclassified	1	0	0	
+LV	457161	Ragsila ceļš	unclassified	1	0	0	
+LV	457161	Valka — Rūjiena	primary	1	0	0	
+LV	457161	Vecais Vārnu sila ceļš	unclassified	1	0	0	
+LV	457161	Vārnu sila ceļš	unclassified	1	0	0	
+LV	457211	Mētru iela		12	4	25	
+LV	457211	Tālavas iela		5	1	8	
+LV	457211	Cempi — Brenguļi — Trikāta — Vijciems	secondary	1	0	0	
+LV	457211	Cempmuižas ceļš	unclassified	1	0	0	
+LV	457211	Dibinu ceļš	unclassified	1	0	0	
+LV	457211	Dūķeri — Kocēni — Ķiene	secondary	1	0	0	
+LV	457211	Liepa — Smiltene	secondary	1	0	0	
+LV	457211	Rauna — Mārsnēni — Ķerves	secondary	1	0	0	
+LV	457211	Skangaļu ceļš	unclassified	1	0	0	
+LV	457211	Strenči - Trikāta - Miega	secondary	1	0	0	
+LV	457211	Valmiera — Cēsis — Drabeši	primary	1	0	0	
+LV	457211	Valmiera — Rauna	secondary	1	0	0	
+LV	457297	Putnu iela	residential	8	1	9	
+LV	457297	Kalna iela	residential	4	1	7	
+LV	457297	Pļavas iela	residential	4	2	8	
+LV	457297	Šlokenbekas iela	unclassified	4	9	29	
+LV	457297	Damkalnu iela	residential	2	16	18	
+LV	457297	Cērkste - Rauda	secondary	1	0	0	
+LV	457297	Cērkstes ceļš	unclassified	1	0	0	
+LV	457297	Kalnu ceļš	unclassified	1	0	0	
+LV	457297	Lāču-Kalnu ceļš	unclassified	1	0	0	
+LV	457297	Līvānu iela	residential	1	0	0	
+LV	457297	Milzkalne — Cērkste — Apšuciems	secondary	1	0	0	
+LV	457297	Milzkalnes ceļš	unclassified	1	0	0	
+LV	457388	Annas Sakses iela	living_street	1	0	0	
+LV	457388	Aplokciema iela	living_street	1	0	0	
+LV	457388	Atpūtas aleja	living_street	1	0	0	
+LV	457388	Bergenas iela	living_street	1	0	0	
+LV	457388	Bernātu iela	living_street	1	0	0	
+LV	457388	Emīla Dārziņa iela	living_street	1	0	0	
+LV	457388	Ernsta Bergmaņa iela	living_street	1	0	0	
+LV	457388	Gatartas iela	living_street	1	0	0	
+LV	457388	Gdaņskas iela	living_street	1	0	0	
+LV	457388	Glika iela	living_street	1	0	0	
+LV	457388	Hamburgas iela	living_street	1	0	0	
+LV	457388	Klaipēdas iela	living_street	1	0	0	
+LV	457408	Lielā iela	residential	166	9	156	
+LV	457408	Bākas iela	tertiary	89	4	56	
+LV	457408	Ceriņu iela	residential	53	2	41	
+LV	457408	Ezera iela	residential	53	3	43	
+LV	457408	Priežu iela	residential	49	3	28	
+LV	457408	Ozolu iela	residential	46	3	44	
+LV	457408	Zvejnieku iela	residential	39	2	29	
+LV	457408	Kanāla iela	residential	36	2	34	
+LV	457408	Rožu iela	residential	36	2	32	
+LV	457408	Brūkleņu iela		34	2	36	
+LV	457408	Vēju iela	residential	33	1	27	
+LV	457408	Bānīša iela	residential	16	1	14	
+LV	457533	Pērnavas iela	secondary	46	4	41	
+LV	457533	Parka iela	residential	42	2	35	
+LV	457533	Baznīcas iela	secondary	32	1	28	
+LV	457533	Rūjienas iela	primary	28	2	29	
+LV	457533	Dzirnavu iela	residential	24	1	14	
+LV	457533	Skaņkalnes iela	unclassified	24	2	28	
+LV	457533	Pļavas iela	residential	23	2	22	
+LV	457533	Robežu iela	residential	23	1	11	
+LV	457533	Rīgas iela	primary	21	1	17	
+LV	457533	Kalna iela	residential	19	1	17	
+LV	457533	Avotu iela	residential	18	1	18	
+LV	457533	Lielā iela	unclassified	18	1	17	
+LV	457615	Jaunatnes iela	tertiary	35	1	24	
+LV	457615	Valmieras iela	primary	35	1	22	
+LV	457615	Skolas iela	tertiary	25	2	24	
+LV	457615	Ezera iela	tertiary	21	1	13	
+LV	457615	Upes iela	tertiary	19	1	22	
+LV	457615	Ozolu iela	unclassified	18	1	13	
+LV	457615	Parka iela	residential	15	1	18	
+LV	457615	Liepu iela	residential	12	1	20	
+LV	457615	Mazsalacas iela	primary	12	1	19	
+LV	457615	Lāčplēša iela	residential	11	1	14	
+LV	457615	Rūpniecības iela	tertiary	10	2	20	
+LV	457615	Robežu iela	unclassified	8	1	10	
+LV	457714	Saules iela	secondary	179	4	67	
+LV	457714	Rūpniecības iela	primary	108	12	71	
+LV	457714	Rīgas iela	secondary	104	2	46	
+LV	457714	Raiņa iela	secondary	88	5	56	
+LV	457714	Blaumaņa iela	tertiary	80	6	65	
+LV	457714	Lazdonas iela	tertiary	72	4	57	
+LV	457714	Skolas iela	residential	69	3	59	
+LV	457714	Ezera iela	residential	68	2	37	
+LV	457714	Kalna iela	secondary	66	2	45	
+LV	457714	Dārza iela	residential	58	1	28	
+LV	457714	Augu iela	tertiary	54	2	27	
+LV	457714	Gaujas iela	residential	50	3	37	
+LV	457714	Avotu iela	tertiary	47	2	33	
+LV	457714	Daugavas iela	residential	42	3	23	
+LV	457714	Bērzu iela	tertiary	35	1	22	
+LV	457714	Meža iela	residential	34	1	33	
+LV	457714	Ozolu iela	residential	32	2	33	
+LV	457714	Lazdu iela	tertiary	31	1	20	
+LV	457714	Dumpu iela	residential	30	2	32	
+LV	457714	Krasta iela	residential	27	1	28	
+LV	457714	Liepu iela		27	1	10	
+LV	457714	Valdemāra bulvāris	tertiary	27	2	30	
+LV	457714	Ziedu iela	residential	26	1	12	
+LV	457714	Parka iela	residential	25	2	12	
+LV	457776	Latgales iela	primary	371	13	245	
+LV	457776	Tālavijas iela	primary	184	11	142	
+LV	457776	Stacijas iela	residential	102	8	90	
+LV	457776	Kr. Barona iela		101	9	103	
+LV	457776	Liepājas iela	residential	83	2	56	
+LV	457776	Jelgavas iela	residential	72	6	58	
+LV	457776	Raiņa iela	residential	71	6	64	
+LV	457776	Parku iela	living_street	70	6	53	
+LV	457776	J. Soikāna iela		65	2	39	
+LV	457776	Skolas iela	residential	60	4	55	
+LV	457776	Krāslavas iela	secondary	58	1	50	
+LV	457776	Blaumaņa iela	residential	51	4	51	
+LV	457776	Baznīcas iela	residential	50	4	54	
+LV	457776	Odu iela	residential	50	3	54	
+LV	457776	P. Miglinīka iela	residential	49	4	46	
+LV	457776	Stroda iela	residential	42	1	42	
+LV	457776	Zvirgzdenes iela	residential	41	3	107	
+LV	457776	Rekašova iela	residential	40	3	44	
+LV	457776	Saules iela	residential	40	1	25	
+LV	457776	Meldru iela		39	2	66	
+LV	457776	Sporta iela	residential	38	1	30	
+LV	457776	Dunakļu iela	residential	37	2	40	
+LV	457776	Puškina iela	residential	36	3	32	
+LV	457776	Kuļņeva iela	residential	34	2	45	
+LV	457799	Oskara Kalpaka iela	residential	41	2	45	
+LV	457799	Latgales iela	residential	40	3	71	
+LV	457799	Jaunā iela	residential	34	6	45	
+LV	457799	Barkavas iela	secondary	27	4	35	
+LV	457799	Krasta iela	secondary	27	1	32	
+LV	457799	Ozolu iela	residential	22	2	20	
+LV	457799	Brīvības iela	residential	21	3	33	
+LV	457799	Sporta iela	residential	20	1	24	
+LV	457799	Tilta iela	secondary	19	1	17	
+LV	457799	Baznīcas iela	residential	18	1	21	
+LV	457799	Parka iela	primary	17	1	22	
+LV	457799	Stacijas iela	residential	17	1	16	
+LV	457860	Rīgas iela		312	6	294	
+LV	457860	Vidzemes iela	residential	69	2	51	
+LV	457860	Jelgavas iela	residential	68	5	70	
+LV	457860	Liepu iela	residential	58	2	32	
+LV	457860	Celtniecības iela	residential	54	2	29	
+LV	457860	Zaļā iela	residential	47	3	44	
+LV	457860	Zemgales iela	residential	42	3	26	
+LV	457860	Dubnas iela	residential	39	1	33	
+LV	457860	Baznīcas iela	residential	38	2	25	
+LV	457860	Uzvaras iela	residential	38	1	26	
+LV	457860	Brīvības iela	residential	37	2	31	
+LV	457860	Krustpils iela	residential	36	7	92	
+LV	457860	Lauku iela	residential	36	2	26	
+LV	457860	Lāčplēša iela	residential	36	1	28	
+LV	457860	Daugavpils iela	residential	35	16	48	
+LV	457860	Celtuves iela	residential	34	1	32	
+LV	457860	Daugavas iela	residential	33	3	31	
+LV	457860	Dzirnavu iela	secondary	33	3	34	
+LV	457860	Fabrikas iela	residential	33	1	29	
+LV	457860	Bērzu iela		29	1	15	
+LV	457860	Rudzu iela	residential	29	4	36	
+LV	457860	Stacijas iela	primary	29	2	22	
+LV	457860	Meža iela	residential	28	2	23	
+LV	457860	Parka iela	residential	28	2	27	
+LV	457890	Garāžu iela		209	1	8	
+LV	457890	Mazā Krasta iela		205	1	13	
+LV	457890	Rīgas iela	primary	108	3	65	
+LV	457890	Cēsu iela	primary	97	3	45	
+LV	457890	Jūras iela	primary	76	2	58	
+LV	457890	Krasta iela	living_street	68	3	21	
+LV	457890	Jaunā iela	tertiary	62	2	30	
+LV	457890	Burtnieku iela	living_street	60	2	63	
+LV	457890	Avotu iela	residential	55	4	10	
+LV	457890	Stacijas iela	tertiary	52	1	54	
+LV	457890	Mehanizācijas iela	tertiary	51	1	9	
+LV	457890	Parka iela	residential	49	2	38	
+LV	457890	Lakstīgalu iela	residential	37	2	39	
+LV	457890	Ciema iela	secondary	34	2	37	
+LV	457890	Dārza iela	tertiary	34	4	27	
+LV	457890	Ābeļu iela	living_street	33	1	29	
+LV	457890	Gulbju iela	residential	32	2	31	
+LV	457890	Stārķu iela	residential	32	2	31	
+LV	457890	Vālodzes iela	residential	31	2	34	
+LV	457890	Lielezera iela	residential	27	2	33	
+LV	457890	Sārmes iela	residential	27	3	21	
+LV	457890	Robežu iela	living_street	26	1	35	
+LV	457890	Pasta iela	tertiary	25	1	11	
+LV	457890	Zāles iela	tertiary	24	2	17	
+LV	457912	Gaujas iela	secondary	54	2	34	
+LV	457912	Ķempju iela	secondary	34	2	27	
+LV	457912	Dārza iela	secondary	32	1	14	
+LV	457912	Stacijas iela	tertiary	31	2	31	
+LV	457912	Spriņģu iela	secondary	29	1	15	
+LV	457912	Ošu iela	tertiary	25	2	37	
+LV	457912	Nītaures iela	residential	23	4	11	
+LV	457912	Sporta iela	secondary	21	2	22	
+LV	457912	Ziedu iela	residential	19	2	20	
+LV	457912	Liepu iela	residential	18	2	24	
+LV	457912	Vildogas iela	residential	18	1	21	
+LV	457912	Pilsoņu iela	residential	17	1	10	
+LV	457915	Bērzu iela		16	1	26	
+LV	457915	Ozolu iela	unclassified	15	1	12	
+LV	457915	Vidzemes iela		13	1	17	
+LV	457915	Dziļūkstes iela	unclassified	6	2	6	
+LV	457915	Jaunatnes iela	unclassified	6	1	6	
+LV	457915	Nākotnes iela	residential	5	1	5	
+LV	457915	Zaļā iela	residential	5	1	5	
+LV	457915	Lauku iela	residential	4	1	3	
+LV	457915	Parka iela		3	1	4	
+LV	457915	Apsāju ceļš	unclassified	1	0	0	
+LV	457915	Bluķu ceļš	unclassified	1	0	0	
+LV	457915	Dzilnīšu līnija	unclassified	1	0	0	
+LV	457954	Ganību iela	unclassified	199	19	194	
+LV	457954	Klaipēdas iela	secondary	192	9	130	
+LV	457954	Brīvības iela	secondary	186	18	207	
+LV	457954	Zirņu iela		148	9	159	
+LV	457954	Pļavu iela	residential	130	9	123	
+LV	457954	Uliha iela	secondary	119	12	145	
+LV	457954	Kviešu iela	residential	113	8	56	
+LV	457954	Oskara Kalpaka iela	secondary	105	21	117	
+LV	457954	Lielā iela	tertiary	94	1	14	
+LV	457954	Kungu iela	tertiary	91	5	88	
+LV	457954	Rīgas iela	secondary	87	7	71	
+LV	457954	Ģenerāļa Baloža iela		87	1	53	
+LV	457954	Dzintaru iela	residential	86	3	91	
+LV	457954	Ventspils iela	tertiary	85	6	56	
+LV	457954	Atmodas bulvāris		82	2	42	
+LV	457954	Krūmu iela	tertiary	81	7	66	
+LV	457954	Ziemeļu iela	tertiary	68	12	58	
+LV	457954	Grīzupes iela	primary	67	2	96	
+LV	457954	Krišjāņa Valdemāra iela	residential	66	3	74	
+LV	457954	Pulkveža Brieža iela		65	3	48	
+LV	457954	Raiņa iela	secondary	64	3	54	
+LV	457954	Zāļu iela	residential	64	3	66	
+LV	457954	Mežu iela	residential	63	27	70	
+LV	457954	Ābeļu iela	residential	62	1	27	
+LV	457954	Klāva Ukstiņa iela	tertiary	61	6	71	
+LV	457954	Ploču iela	residential	61	4	22	
+LV	457954	14. novembra bulvāris	primary	60	17	149	
+LV	457954	Ezera iela	tertiary	60	39	98	
+LV	457954	Lāčplēša iela	residential	58	5	66	
+LV	457954	Peldu iela	tertiary	58	5	60	
+LV	457954	Cenkones iela	residential	56	4	51	
+LV	457954	Jāņa Asara iela	residential	55	3	38	
+LV	457954	Lauku iela	residential	55	3	59	
+LV	457954	Toma iela	residential	55	4	69	
+LV	457954	Graudu iela	tertiary	54	9	50	
+LV	457954	Bērzu iela	residential	53	2	26	
+LV	457954	Bāriņu iela	residential	52	3	37	
+LV	457954	Dzērves iela	residential	52	1	52	
+LV	457954	Jaunā iela	residential	52	3	76	
+LV	457954	Cukura iela	secondary	51	1	38	
+LV	457954	Kuršu iela	tertiary	49	2	31	
+LV	457954	Nīcas iela	residential	48	2	39	
+LV	457954	Bernātu iela	residential	47	5	50	
+LV	457954	Kuldīgas iela	residential	47	4	43	
+LV	457954	Ozolu iela	residential	47	4	49	
+LV	457954	Ventas iela	residential	46	3	37	
+LV	457954	Pērkones iela	residential	45	2	30	
+LV	457954	Siļķu iela	residential	45	1	39	
+LV	457954	Alejas iela	residential	44	3	55	
+LV	457954	Apšu iela	residential	44	2	38	
+LV	457954	Friča Brīvzemnieka iela	residential	44	7	56	
+LV	457954	Miera iela	residential	44	3	50	
+LV	457954	Priežu iela	residential	44	15	55	
+LV	457954	Zemnieku iela	secondary	44	2	66	
+LV	457954	Spīdolas iela		43	1	43	
+LV	457954	1905. gada iela	residential	42	11	52	
+LV	457954	Dārza iela	residential	42	4	55	
+LV	457954	Talsu iela	residential	42	4	61	
+LV	457954	Jelgavas iela	unclassified	41	6	58	
+LV	457954	Pulvera iela	secondary	41	2	32	
+LV	457954	Egļu iela	residential	40	3	43	
+LV	457954	Kūrmājas prospekts	secondary	40	2	28	
+LV	457954	Skuju iela	residential	40	3	61	
+LV	457954	Vecā ostmala	unclassified	40	3	59	
+LV	457954	Mirdzas Ķempes iela	residential	39	2	30	
+LV	457954	Turaidas iela		39	2	24	
+LV	457954	Kazdangas iela	unclassified	38	1	35	
+LV	457954	Kārļa Zāles laukums	secondary	38	2	8	
+LV	457954	Riņķu iela	residential	38	3	33	
+LV	457954	Vaiņodes iela	residential	38	9	41	
+LV	457954	Eduarda Veidenbauma iela	residential	36	2	28	
+LV	457954	Salmu iela	residential	36	4	54	
+LV	457954	Stārķu iela	residential	36	22	46	
+LV	457954	Tirgus iela	residential	36	11	59	
+LV	457954	Ķieģeļu iela	residential	36	4	43	
+LV	457954	Cīravas iela	unclassified	35	1	31	
+LV	457954	Saldus iela	residential	35	3	34	
+LV	457954	Sporta iela	residential	35	2	24	
+LV	457954	Strautu iela	residential	35	2	41	
+LV	457954	Jūrmalas iela	tertiary	34	1	34	
+LV	457954	Kaļķu iela	residential	34	4	40	
+LV	457954	Mālu iela	residential	34	2	40	
+LV	457954	Nidas iela	residential	34	5	37	
+LV	457954	Noliktavas iela	residential	34	1	18	
+LV	457954	Zivju iela	pedestrian	34	2	14	
+LV	457954	Cieceres iela	residential	33	3	53	
+LV	457954	Otaņķu iela	residential	33	3	32	
+LV	457954	Papes iela	residential	33	2	20	
+LV	457954	Vidusceļa iela	residential	33	6	43	
+LV	457954	Ziemupes iela	residential	33	4	46	
+LV	457954	Ūdens iela	residential	33	2	40	
+LV	457954	Aldaru iela	unclassified	32	2	49	
+LV	457954	Pīļu iela	residential	32	4	42	
+LV	457954	Strazdu iela	residential	32	4	40	
+LV	457954	Dorupes iela	residential	31	4	49	
+LV	457954	Roņu iela	residential	31	2	9	
+LV	457954	Tukuma iela	tertiary	31	1	26	
+LV	457954	Jaunā ostmala	secondary	30	1	33	
+LV	457954	Jūras iela	secondary	30	3	28	
+LV	457954	Pīlādžu iela	unclassified	30	4	38	
+LV	457965	Lāčplēša iela		114	4	55	
+LV	457965	Andreja Pumpura iela	tertiary	84	2	37	
+LV	457965	Rembates iela	secondary	62	4	35	
+LV	457965	Skolas iela	residential	62	2	34	
+LV	457965	Raiņa iela	tertiary	60	1	48	
+LV	457965	Meža iela	residential	57	1	22	
+LV	457965	Ausekļa iela	residential	56	2	31	
+LV	457965	Laimdotas iela		45	2	49	
+LV	457965	Roberta Rubeņa iela	residential	43	2	43	
+LV	457965	Miera iela	residential	41	2	34	
+LV	457965	Uzvaras iela	tertiary	41	1	20	
+LV	457965	Zvaigžņu iela	residential	40	1	48	
+LV	457965	Parka iela	residential	39	1	19	
+LV	457965	Liepu iela	residential	34	1	28	
+LV	457965	Edgara Kauliņa aleja	pedestrian	32	3	22	
+LV	457965	Slimnīcas iela	residential	30	1	33	
+LV	457965	Putnu iela	residential	28	1	24	
+LV	457965	Stacijas iela	residential	28	2	48	
+LV	457965	Gaismas iela	residential	27	2	22	
+LV	457965	Upes iela	residential	27	1	25	
+LV	457965	Vītolu iela	residential	27	2	23	
+LV	457965	Mēness iela	residential	26	1	16	
+LV	457965	Ozolu iela	residential	26	1	12	
+LV	457965	Bērzu iela	residential	24	2	23	
+LV	458065	Celtnieku iela	residential	17	1	10	
+LV	458065	Alejas iela	residential	6	1	9	
+LV	458065	Parka iela	residential	4	2	2	
+LV	458065	Rīgas iela	residential	2	1	3	
+LV	458065	Aisteres ceļš	unclassified	1	0	0	
+LV	458065	Bitītes ceļš	unclassified	1	0	0	
+LV	458065	Durbe — Aistere	secondary	1	0	0	
+LV	458065	Durbe — Tadaiķi — Bunka — Priekule	secondary	1	0	0	
+LV	458065	Gailīšu ceļš	unclassified	1	0	0	
+LV	458065	Grobiņa — Tadaiķi	secondary	1	0	0	
+LV	458065	Kuldīga — Aizpute — Līči	primary	1	0	0	
+LV	458065	Lazdu ceļš	unclassified	1	0	0	
+LV	458460	Liepājas iela	tertiary	130	3	69	
+LV	458460	Vienības iela	tertiary	115	6	77	
+LV	458460	Jelgavas iela	secondary	108	3	90	
+LV	458460	Ventspils iela	secondary	100	4	106	
+LV	458460	Planīcas iela	secondary	96	2	73	
+LV	458460	Ķiršu iela	residential	75	3	64	
+LV	458460	Ēdoles iela	residential	71	3	54	
+LV	458460	Dzirnavu iela	tertiary	64	5	48	
+LV	458460	Baznīcas iela	tertiary	60	2	34	
+LV	458460	Vidus iela	tertiary	53	3	52	
+LV	458460	Stendes iela	tertiary	51	3	41	
+LV	458460	Virkas iela	residential	51	3	36	
+LV	458460	Akāciju aleja	residential	50	3	49	
+LV	458460	Mucenieku iela	secondary	50	6	47	
+LV	458460	Skrundas iela	tertiary	50	3	47	
+LV	458460	Apšu iela	residential	48	2	41	
+LV	458460	Bērzu iela	residential	47	2	30	
+LV	458460	Dzelzceļa iela	tertiary	47	2	36	
+LV	458460	Lazdu aleja	residential	46	3	45	
+LV	458460	Cīrulīšu aleja	residential	44	3	42	
+LV	458460	Graudu iela	primary	44	3	27	
+LV	458460	Ievu aleja	residential	44	3	45	
+LV	458460	Kaļķu iela	residential	44	3	34	
+LV	458460	Grants iela	tertiary	43	4	46	
+LV	458511	Aizkraukles iela	residential	1	0	0	
+LV	458511	Aizupes iela	residential	1	0	0	
+LV	458511	Artilērijas iela	tertiary	1	0	0	
+LV	458511	Barona iela	residential	1	0	0	
+LV	458511	Cukura iela	residential	1	0	0	
+LV	458511	Cukurfabrikas iela	residential	1	0	0	
+LV	458511	Daugavsalas iela	residential	1	0	0	
+LV	458511	Donaviņas iela	residential	1	0	0	
+LV	458511	Dzelzceļa iela	residential	1	0	0	
+LV	458511	Enerģijas iela	residential	1	0	0	
+LV	458511	Gostiņu iela	residential	1	0	0	
+LV	458511	Jaunāmuiža – Ratītes – Mežāre	secondary	1	0	0	
+LV	458511	Jūlija iela	residential	1	0	0	
+LV	458511	Kalpu iela	residential	1	0	0	
+LV	458511	Kavalērijas iela	residential	1	0	0	
+LV	458511	Kazarmu iela	residential	1	0	0	
+LV	458511	Krustpils iela	tertiary	1	0	0	
+LV	458511	Krāces iela	residential	1	0	0	
+LV	458511	Kungu iela	residential	1	0	0	
+LV	458511	Lāčplēša iela	residential	1	0	0	
+LV	458511	Madonas iela	secondary	1	0	0	
+LV	458511	Mazā Dzelzceļa iela	residential	1	0	0	
+LV	458511	Mazā Zvaigžņu iela	residential	1	0	0	
+LV	458511	Medņu iela	residential	1	0	0	
+LV	458623	Rīgas iela		210	14	175	
+LV	458623	Vienības iela	tertiary	151	7	124	
+LV	458623	Dārza iela	residential	87	2	60	
+LV	458623	Augusta iela		86	2	74	
+LV	458623	Indras iela	primary	78	5	47	
+LV	458623	Rēzeknes iela	tertiary	74	3	51	
+LV	458623	Lielā iela	residential	72	3	63	
+LV	458623	Vasarnieku iela	residential	56	2	34	
+LV	458623	1. līnija	unclassified	53	3	59	
+LV	458623	Skaistas iela	tertiary	47	3	43	
+LV	458623	Raiņa iela	residential	44	3	39	
+LV	458623	Sila iela	residential	40	2	42	
+LV	458623	Miesnieku iela	residential	39	1	36	
+LV	458623	Sauleskalna iela	residential	38	2	33	
+LV	458623	N. Rancāna iela		34	2	51	
+LV	458623	11. līnija	residential	33	2	36	
+LV	458623	Siena iela	residential	33	2	35	
+LV	458623	Lakstīgalu iela	residential	32	2	30	
+LV	458623	Strēlnieku iela	residential	32	3	38	
+LV	458623	2. līnija	residential	31	2	37	
+LV	458623	Brīvības iela	tertiary	30	4	28	
+LV	458623	Celtnieku iela	residential	30	1	17	
+LV	458623	Lāčplēša iela	tertiary	30	2	30	
+LV	458623	Podnieku iela	residential	30	2	32	
+LV	458687	1905. gada iela	residential	116	4	80	
+LV	458687	Dzeņu iela	residential	45	3	37	
+LV	458687	Blaumaņa iela	tertiary	39	1	32	
+LV	458687	Daugavas iela	residential	38	1	42	
+LV	458687	Austrumu iela	residential	31	1	19	
+LV	458687	Melioratoru iela		29	1	15	
+LV	458687	Paugu iela	residential	29	1	25	
+LV	458687	Parka iela	living_street	28	1	27	
+LV	458687	Līgo iela	residential	27	2	31	
+LV	458687	Vērenes iela	secondary	26	1	24	
+LV	458687	Hanzas iela	residential	25	1	17	
+LV	458687	Zemeņu iela	residential	25	1	17	
+LV	458695	Alejas iela	tertiary	35	2	23	
+LV	458695	Dārza iela	residential	27	3	29	
+LV	458695	Kalna iela	residential	26	1	16	
+LV	458695	Avotu iela	residential	19	1	22	
+LV	458695	Valmieras iela	secondary	18	1	23	
+LV	458695	Ozolu iela	residential	13	2	22	
+LV	458695	Parka iela	residential	13	1	14	
+LV	458695	Jāņa Ķenča iela	secondary	12	2	11	
+LV	458695	Ošu iela	residential	8	1	10	
+LV	458695	Sporta iela	residential	8	1	10	
+LV	458695	Aveņu iela	residential	7	2	12	
+LV	458695	Bērzu iela	residential	7	1	11	
+LV	458880	Rīgas iela	primary	144	7	105	
+LV	458880	Gaismas iela	secondary	73	1	23	
+LV	458880	Nākotnes iela	residential	64	1	38	
+LV	458880	Celmiņu iela	residential	52	14	70	
+LV	458880	Bebru iela		51	3	51	
+LV	458880	Ainavas iela	residential	45	3	53	
+LV	458880	Rosmes iela	residential	42	3	39	
+LV	458880	Rozenieku iela	residential	41	2	43	
+LV	458880	Ezermalas iela		39	2	49	
+LV	458880	Inešu iela		39	2	53	
+LV	458880	Dārznieku iela	residential	38	2	56	
+LV	458880	Saules iela	living_street	36	2	34	
+LV	458880	Pļavu iela	unclassified	33	2	81	
+LV	458880	Ziedu iela	living_street	31	2	30	
+LV	458880	Kreimeņu iela	residential	29	2	30	
+LV	458880	Odukalna iela	living_street	29	1	23	
+LV	458880	Lejas iela	living_street	27	1	27	
+LV	458880	Mālu iela	living_street	27	3	58	
+LV	458880	Vasaras iela	residential	26	9	31	
+LV	458880	Celtnieku iela	unclassified	25	2	21	
+LV	458880	Kastaņu iela	living_street	25	2	26	
+LV	458880	Lauku iela	living_street	25	2	21	
+LV	458880	Laimas iela		24	2	27	
+LV	458880	Mazā Senču iela	residential	24	5	40	
+LV	458892	Celtnieku iela	primary	43	1	29	
+LV	458892	Ozolu iela	residential	41	1	32	
+LV	458892	Ķeguma prospekts	primary	41	1	13	
+LV	458892	Priežu iela	living_street	39	2	34	
+LV	458892	Uzvaras iela	residential	36	1	28	
+LV	458892	Birzes iela	residential	33	3	30	
+LV	458892	Torņa iela	residential	26	2	20	
+LV	458892	Kuģu iela	residential	24	2	19	
+LV	458892	Daugavgrīvas iela	residential	22	1	31	
+LV	458892	Ogres iela	residential	20	1	27	
+LV	458892	Tilta iela	residential	20	1	28	
+LV	458892	Estrādes iela	residential	19	1	18	
+LV	458972	Vienības iela	primary	138	7	99	
+LV	458972	Stacijas iela	tertiary	87	3	48	
+LV	458972	Alejas iela	residential	63	2	90	
+LV	458972	Saules iela	unclassified	62	2	37	
+LV	458972	Sporta iela	residential	49	2	29	
+LV	458972	Smilšu iela	residential	42	3	39	
+LV	458972	Zaļā iela	residential	42	3	30	
+LV	458972	Teātra iela	residential	39	2	46	
+LV	458972	Telegrāfa iela	residential	38	3	37	
+LV	458972	Malnavas iela	secondary	33	2	49	
+LV	458972	Avotu iela	residential	32	2	26	
+LV	458972	Skolas iela	residential	31	2	24	
+LV	458972	Lauku iela	residential	28	3	30	
+LV	458972	Dzirnavu iela	residential	27	2	38	
+LV	458972	Latgales iela	residential	27	2	24	
+LV	458972	Šosejas iela		27	1	29	
+LV	458972	Kļavu iela	unclassified	26	1	26	
+LV	458972	Kalēju iela	residential	24	2	26	
+LV	458972	Miera iela	residential	22	2	22	
+LV	458972	Puškina iela	residential	21	3	35	
+LV	458972	Dārzu iela	residential	18	1	18	
+LV	458972	Raiņa iela	residential	17	2	9	
+LV	458972	Meža iela	residential	16	1	13	
+LV	458972	Baznīcas iela	secondary	10	1	12	
+LV	458995	Piecpadsmitā iela	residential	50	2	47	
+LV	458995	Septiņpadsmitā iela	residential	50	3	48	
+LV	458995	Četrpadsmitā iela	residential	49	2	46	
+LV	458995	Trīsdesmit sestā iela	residential	47	1	44	
+LV	458995	Divdesmit devītā iela	residential	46	3	44	
+LV	458995	Astotā iela	residential	45	2	41	
+LV	458995	Trīsdesmitā iela	residential	45	2	46	
+LV	458995	Trīspadsmitā iela	residential	45	2	43	
+LV	458995	Desmitā iela	residential	44	2	42	
+LV	458995	Devītā iela	residential	44	2	42	
+LV	458995	Divdesmit sestā iela	residential	44	2	44	
+LV	458995	Divpadsmitā iela	residential	44	2	42	
+LV	458995	Trīsdesmit piektā iela	residential	44	2	44	
+LV	458995	Vienpadsmitā iela	residential	43	2	42	
+LV	458995	Sestā iela	residential	42	2	38	
+LV	458995	Sešpadsmitā iela	residential	42	3	40	
+LV	458995	Ceturtā iela	residential	41	2	38	
+LV	458995	Otrā iela	residential	41	3	38	
+LV	458995	Septītā iela	residential	41	2	41	
+LV	458995	Piektā iela	residential	40	1	40	
+LV	458995	Trīsdesmit ceturtā iela	residential	40	2	46	
+LV	458995	Trīsdesmit trešā iela	residential	40	1	43	
+LV	458995	Astoņpadsmitā iela	residential	38	4	57	
+LV	458995	Trešā iela	residential	38	2	39	
+LV	459031	Lielā iela	tertiary	91	3	57	
+LV	459031	Rūmenes iela	tertiary	67	3	64	
+LV	459031	Abavas iela	primary	52	2	36	
+LV	459031	Uzvaras iela	residential	51	1	49	
+LV	459031	Zemītes iela	primary	43	2	44	
+LV	459031	Raiņa iela	residential	41	2	29	
+LV	459031	Sabiles iela	tertiary	38	1	34	
+LV	459031	Talsu iela	tertiary	37	2	39	
+LV	459031	Daigones iela	tertiary	34	2	24	
+LV	459031	Ozolu iela	residential	33	4	44	
+LV	459031	Jelgavas iela	secondary	32	1	17	
+LV	459031	Zīļu iela	residential	32	1	28	
+LV	459099	Zaļo vārnu iela	residential	110	3	21	
+LV	459099	Sloku iela	residential	84	5	25	
+LV	459099	Cīruļu iela	tertiary	79	4	89	
+LV	459099	Lielā iela	residential	64	5	74	
+LV	459099	Mežciema iela	tertiary	57	5	55	
+LV	459099	Medus iela	residential	55	2	52	
+LV	459099	Sēņu iela	residential	55	3	53	
+LV	459099	Liliju iela	residential	49	3	50	
+LV	459099	Dzeguzes iela	residential	48	3	48	
+LV	459099	Mežgarciema iela	secondary	47	11	62	
+LV	459099	Ērgļu iela	residential	47	1	29	
+LV	459099	Birzes iela	residential	45	1	46	
+LV	459102	Jelgavas iela	secondary	73	8	106	
+LV	459102	Lielupes iela	residential	45	5	75	
+LV	459102	Celtnieku iela	unclassified	36	2	39	
+LV	459102	Draudzības iela	residential	17	2	15	
+LV	459102	Saules iela	unclassified	12	2	17	
+LV	459102	Lielā iela	residential	11	2	15	
+LV	459102	Liepu iela	residential	10	3	25	
+LV	459102	Robežu iela	unclassified	10	1	19	
+LV	459102	Smilšu iela	residential	8	1	15	
+LV	459102	Stadiona iela		7	1	6	
+LV	459102	Lapu iela	residential	4	2	8	
+LV	459102	Jaunības iela	living_street	3	1	2	
+LV	459201	Bulduru prospekts	tertiary	275	5	135	
+LV	459201	Dubultu prospekts	primary	275	5	114	
+LV	459201	Slokas iela	secondary	229	7	109	
+LV	459201	Jāņa Pliekšāna iela	residential	217	6	99	
+LV	459201	Jomas iela	primary	215	6	88	
+LV	459201	Kāpu iela	living_street	195	15	143	
+LV	459201	Raiņa iela		171	4	114	
+LV	459201	Meža prospekts	secondary	166	7	131	
+LV	459201	Mellužu prospekts	primary	161	6	85	
+LV	459201	Viktorijas iela	residential	160	8	103	
+LV	459201	Turaidas iela	residential	157	7	106	
+LV	459201	Cīruļu iela	residential	145	11	119	
+LV	459201	Dzirnavu iela		144	4	101	
+LV	459201	Ventspils šoseja		142	5	80	
+LV	459201	Rīgas iela	tertiary	138	2	92	
+LV	459201	Dzintaru prospekts	tertiary	136	3	70	
+LV	459201	Jaunā iela	residential	136	7	86	
+LV	459201	Zemeņu iela	living_street	135	5	85	
+LV	459201	Gulbju iela	residential	131	4	87	
+LV	459201	Medņu iela	residential	128	6	104	
+LV	459201	Dāvja iela	residential	127	6	92	
+LV	459201	Talsu šoseja		127	11	64	
+LV	459201	Puķu iela	living_street	125	7	85	
+LV	459201	Dārzu iela	secondary	121	9	73	
+LV	459201	Jūras iela	tertiary	121	6	60	
+LV	459201	Edinburgas prospekts	tertiary	120	5	91	
+LV	459201	Viestura iela	secondary	120	3	60	
+LV	459201	Vasaras iela	living_street	118	4	69	
+LV	459201	Ķemeru iela	residential	118	2	76	
+LV	459201	Rubeņu iela	residential	116	10	102	
+LV	459201	Strēlnieku prospekts	primary	114	2	100	
+LV	459201	Kalēju iela	residential	112	5	72	
+LV	459201	Konkordijas iela	living_street	112	9	69	
+LV	459201	Vikingu iela	secondary	111	5	80	
+LV	459201	Kanālu iela	living_street	107	3	52	
+LV	459201	Skolas iela		104	5	75	
+LV	459201	Žubītes iela	living_street	103	4	56	
+LV	459201	Poruka prospekts	residential	102	8	87	
+LV	459201	Asaru prospekts	primary	96	4	72	
+LV	459201	Upes iela	living_street	93	1	48	
+LV	459201	Valtera prospekts	secondary	90	4	65	
+LV	459201	Lienes iela	primary	88	2	53	
+LV	459201	Grāvju iela	living_street	85	4	69	
+LV	459201	Nometņu iela		85	2	26	
+LV	459201	Vidus prospekts	residential	85	12	77	
+LV	459201	Vienības prospekts	secondary	85	6	36	
+LV	459201	Teātra iela	residential	83	7	67	
+LV	459201	Vārnukroga ceļš		83	4	24	
+LV	459201	Baltās kāpas iela		82	3	29	
+LV	459201	Olgas iela	residential	80	7	63	
+LV	459201	Dzelzceļa iela	living_street	79	4	67	
+LV	459201	Leona Paegles iela		77	3	67	
+LV	459201	Piekrastes iela	secondary	76	3	44	
+LV	459201	Brīvības prospekts	living_street	72	20	112	
+LV	459201	Zigfrīda Meierovica prospekts	primary	72	2	43	
+LV	459201	Aveņu iela	residential	71	2	55	
+LV	459201	Spuņciema iela	residential	71	4	64	
+LV	459201	Ezeru iela	residential	66	4	52	
+LV	459201	Dzirksteles iela		65	2	59	
+LV	459201	Kleistes iela		62	1	18	
+LV	459201	Rītupes iela	residential	62	1	32	
+LV	459201	Stirnu iela	living_street	62	2	41	
+LV	459201	Kaugurciema iela		61	4	69	
+LV	459201	Krišjāņa Barona iela	residential	59	4	32	
+LV	459201	Pļaviņu iela		58	4	50	
+LV	459201	Tukuma iela		58	2	33	
+LV	459201	Irbju iela	living_street	57	3	53	
+LV	459201	Miera iela	residential	57	4	31	
+LV	459201	Zemgales iela	living_street	56	4	78	
+LV	459201	Mežsargu iela	living_street	55	4	41	
+LV	459201	Muižas iela	tertiary	55	6	25	
+LV	459201	Robežu iela		55	3	41	
+LV	459201	Kārsas iela		54	3	37	
+LV	459201	Viņķu iela	residential	54	2	32	
+LV	459201	Friča Brīvzemnieka iela	residential	53	4	7	
+LV	459201	Lielais prospekts	tertiary	53	2	30	
+LV	459201	Mirdzas iela	residential	53	4	42	
+LV	459201	Silu iela	living_street	53	3	34	
+LV	459201	Atbalss iela	residential	52	1	19	
+LV	459201	Tallinas iela		52	3	46	
+LV	459201	Sūnu iela	living_street	51	1	30	
+LV	459201	Vilhelma Purvīša iela		51	3	45	
+LV	459201	Vēju iela	living_street	51	2	39	
+LV	459201	Ceriņu iela	residential	49	3	38	
+LV	459201	Lašu iela		49	2	31	
+LV	459201	Ozolu iela	living_street	48	2	20	
+LV	459201	Kalnu iela	residential	47	1	29	
+LV	459201	Tirgoņu iela	residential	47	3	29	
+LV	459201	Lielupes iela	residential	46	14	30	
+LV	459201	Mežmalas iela	secondary	46	1	41	
+LV	459201	Partizānu iela		46	2	42	
+LV	459201	Pulkveža Brieža iela	residential	46	6	58	
+LV	459201	Smilšu iela	residential	46	3	32	
+LV	459201	Pilsoņu iela	residential	45	2	29	
+LV	459201	Pārslas iela		45	3	27	
+LV	459201	Tirzas iela		45	2	44	
+LV	459201	Tērbatas iela		44	3	45	
+LV	459201	Baznīcas iela	living_street	43	2	29	
+LV	459201	Kadiķu iela	living_street	43	3	30	
+LV	459201	Lauku iela		43	3	30	
+LV	459220	Daugavas iela	secondary	30	2	34	
+LV	459220	Vidus iela	residential	25	1	17	
+LV	459220	Saules iela	unclassified	19	1	21	
+LV	459220	Liepu iela	residential	15	1	16	
+LV	459220	Ozolu iela	residential	13	1	14	
+LV	459220	Dārziņu iela	tertiary	11	1	25	
+LV	459220	Krapes iela	tertiary	11	1	31	
+LV	459220	Bērzu iela	residential	10	1	10	
+LV	459220	Rītupītes iela	residential	8	1	12	
+LV	459220	Ceriņu iela	residential	7	2	3	
+LV	459220	Dzelzceļa iela	residential	6	1	8	
+LV	459220	Inženieru iela	residential	6	1	6	
+LV	459279	Tērvetes iela	primary	304	40	261	
+LV	459279	Kalnciema ceļš	primary	271	12	128	
+LV	459279	3. līnija	residential	221	5	36	
+LV	459279	Dobeles šoseja	primary	169	2	114	
+LV	459279	Garozas iela	secondary	162	7	105	
+LV	459279	Rogu ceļš	residential	159	2	30	
+LV	459279	Rūpniecības iela	primary	155	6	107	
+LV	459279	Rīgas iela	primary	153	2	58	
+LV	459279	4. līnija	tertiary	152	5	76	
+LV	459279	2. līnija	residential	147	2	21	
+LV	459279	Lielā iela	primary	128	2	41	
+LV	459279	Ganību iela	residential	126	7	122	
+LV	459279	Bērzu ceļš	tertiary	123	4	107	
+LV	459279	Meža ceļš	unclassified	122	10	30	
+LV	459279	6. līnija	residential	121	17	106	
+LV	459279	Lāču iela	residential	116	4	92	
+LV	459279	Filozofu iela	tertiary	115	3	74	
+LV	459279	Raiņa iela	secondary	109	7	42	
+LV	459279	Viskaļu iela	unclassified	107	4	123	
+LV	459279	Dambja iela	tertiary	105	2	90	
+LV	459279	Viršu iela	residential	104	4	57	
+LV	459279	Parka iela	residential	103	4	79	
+LV	459279	Meiju ceļš	tertiary	99	4	83	
+LV	459279	Vecais ceļš	residential	99	2	73	
+LV	459279	Aviācijas iela	secondary	98	3	48	
+LV	459279	Satiksmes iela	tertiary	94	2	76	
+LV	459279	Zirgu iela	residential	93	5	81	
+LV	459279	Pasta iela	secondary	91	24	63	
+LV	459279	Staļģenes iela	residential	91	1	72	
+LV	459279	Asteru iela	tertiary	90	1	22	
+LV	459279	Mātera iela	tertiary	89	22	66	
+LV	459279	Vidus iela	tertiary	88	5	88	
+LV	459279	5. līnija	unclassified	87	1	35	
+LV	459279	Platones iela	residential	84	5	113	
+LV	459279	Kadiķu ceļš	residential	83	1	100	
+LV	459279	Lietuvas šoseja	primary	83	2	108	
+LV	459279	Uzvaras iela	secondary	81	2	66	
+LV	459279	Melleņu iela	residential	78	4	74	
+LV	459279	Romas iela	residential	78	2	78	
+LV	459279	Pumpura iela	residential	76	3	74	
+LV	459279	Bebru ceļš	residential	75	4	96	
+LV	459279	Loka maģistrāle	primary	74	1	47	
+LV	459279	Celtnieku iela	residential	73	1	34	
+LV	459279	Robežu iela	residential	73	2	58	
+LV	459279	Smilšu iela	residential	73	2	56	
+LV	459279	Vangaļu ceļš	residential	73	3	17	
+LV	459279	Miezītes ceļš	residential	72	4	70	
+LV	459279	Bauskas iela	tertiary	70	1	13	
+LV	459279	Lazdu iela	residential	69	2	58	
+LV	459279	Stadiona iela	residential	69	6	67	
+LV	459279	Zileņu iela	residential	69	3	63	
+LV	459279	Brīvības bulvāris	residential	67	1	35	
+LV	459279	Zaļā iela	residential	67	3	54	
+LV	459279	Rubeņu ceļš	residential	66	2	62	
+LV	459279	Spāru iela	residential	66	4	67	
+LV	459279	Lapskalna iela	secondary	65	2	45	
+LV	459279	Sesavas iela	residential	65	4	52	
+LV	459279	1. līnija	residential	64	3	19	
+LV	459279	Malkas ceļš	residential	64	1	9	
+LV	459279	Pambakaru ceļš	residential	64	1	29	
+LV	459279	Aveņu iela	residential	63	2	44	
+LV	459279	Baložu iela	tertiary	63	4	50	
+LV	459279	Bumbieru ceļš	residential	63	4	51	
+LV	459279	Ošu ceļš	residential	62	1	13	
+LV	459279	Skolas iela	residential	62	1	20	
+LV	459279	Akadēmijas iela	secondary	61	1	26	
+LV	459279	Zīles ceļš	residential	61	1	12	
+LV	459279	Atmodas iela	secondary	60	6	102	
+LV	459279	Bērzu iela	residential	60	1	25	
+LV	459279	Kārklu iela	residential	60	2	67	
+LV	459279	Ceriņu iela	residential	59	1	33	
+LV	459279	Riņķa iela	residential	59	2	37	
+LV	459279	Birzes iela	residential	58	2	45	
+LV	459279	Druvienas iela	residential	58	3	56	
+LV	459279	Strautu ceļš	residential	57	1	70	
+LV	459279	Vīksnas iela	residential	57	3	72	
+LV	459279	Ābeļu iela	residential	57	1	38	
+LV	459279	Lediņu ceļš	unclassified	56	2	61	
+LV	459279	Saulītes iela	residential	56	3	64	
+LV	459279	Stārķu iela	residential	56	2	35	
+LV	459279	Dobeles iela	secondary	55	8	62	
+LV	459279	Eduarda Veidenbauma iela	residential	55	3	45	
+LV	459279	Līduma iela	residential	55	3	53	
+LV	459279	Upes iela	residential	54	1	30	
+LV	459279	Klijēnu ceļš	tertiary	53	2	21	
+LV	459279	Strautnieku iela	residential	53	2	35	
+LV	459279	Zemeņu iela	residential	52	2	25	
+LV	459279	Ausekļa iela	residential	51	6	66	
+LV	459279	Gulbju iela	residential	51	3	60	
+LV	459279	Pulkveža Oskara Kalpaka iela	tertiary	51	5	35	
+LV	459279	Viktorijas iela	residential	51	3	46	
+LV	459279	Apiņu iela	residential	50	3	40	
+LV	459279	Dārza iela	residential	50	1	23	
+LV	459279	Lielupes iela	living_street	50	2	46	
+LV	459279	Vasaras iela	residential	50	2	29	
+LV	459279	Kazarmes iela	residential	49	1	36	
+LV	459279	Kronvalda iela	residential	49	2	38	
+LV	459279	Kameņu iela	living_street	48	2	36	
+LV	459279	Rožu iela	residential	48	1	20	
+LV	459279	Dzeņu iela	residential	47	2	58	
+LV	459283	Brīvības iela	secondary	336	2	301	
+LV	459283	Rīgas iela	secondary	333	33	243	
+LV	459283	Zīlānu iela	secondary	137	4	135	
+LV	459283	Jaunā iela	residential	125	5	79	
+LV	459283	Andreja Pormaļa iela	tertiary	119	7	117	
+LV	459283	Jēkaba iela	residential	109	8	133	
+LV	459283	Madonas iela	secondary	107	5	95	
+LV	459283	Pasta iela	secondary	102	10	107	
+LV	459283	Pļaviņu iela	residential	93	15	95	
+LV	459283	Dzirnavu iela	residential	92	2	77	
+LV	459283	Raiņa iela	tertiary	79	8	81	
+LV	459283	Zvanītāju iela	tertiary	76	5	68	
+LV	459283	Nameja iela	tertiary	75	3	109	
+LV	459283	Viestura iela	tertiary	75	5	54	
+LV	459283	Jāņa Akuratera iela	residential	69	5	61	
+LV	459283	Zemgales iela	tertiary	61	5	60	
+LV	459283	Vienības iela	secondary	60	1	7	
+LV	459283	Kaļķu iela	residential	57	3	80	
+LV	459283	Palejas iela	tertiary	55	2	48	
+LV	459283	Viesītes iela	residential	55	8	73	
+LV	459283	Aldaunas iela	tertiary	54	1	60	
+LV	459283	Bebru iela	residential	53	2	104	
+LV	459283	Zaļā iela	secondary	50	2	30	
+LV	459283	Krasta iela	residential	49	2	63	
+LV	459283	Latgales iela	residential	48	4	50	
+LV	459283	Pils Rajons		47	38	218	
+LV	459283	Robežu iela	residential	45	2	34	
+LV	459283	Neretas iela	primary	44	6	131	
+LV	459283	Ezera iela	residential	42	2	38	
+LV	459283	Ozolu iela	unclassified	42	2	24	
+LV	459283	Ķieģeļu iela	residential	42	2	21	
+LV	459283	Lielā iela	residential	41	3	33	
+LV	459283	Celtnieku iela	tertiary	37	2	26	
+LV	459283	Siliņu iela	residential	37	1	37	
+LV	459283	Atpūtas iela	residential	36	4	45	
+LV	459283	Sporta iela	residential	36	2	28	
+LV	459283	Kazarmu iela		35	1	23	
+LV	459283	Ārijas Elksnes iela	tertiary	35	2	20	
+LV	459283	Draudzības aleja	residential	34	2	28	
+LV	459283	Kalna iela	residential	33	3	33	
+LV	459283	Augusta iela	residential	32	11	26	
+LV	459283	Donaviņas iela		32	2	30	
+LV	459283	Smilgu iela	residential	32	1	31	
+LV	459283	Slimnīcas iela	residential	31	1	9	
+LV	459283	Akmeņu iela	residential	30	1	31	
+LV	459283	Artilērijas iela		30	2	20	
+LV	459283	Parka iela	residential	30	1	16	
+LV	459283	Dambja iela	residential	29	1	23	
+LV	459357	Dārza iela	residential	17	1	13	
+LV	459357	Skolas iela	residential	15	1	10	
+LV	459357	Draudzības iela	residential	8	1	4	
+LV	459357	Abavas ceļš	unclassified	1	0	0	
+LV	459357	Aizupe — Alkšņi — Strutele — Auziņas	secondary	1	0	0	
+LV	459357	Annenieki — Jaunpils	secondary	1	0	0	
+LV	459357	Apšenieku ceļš	unclassified	1	0	0	
+LV	459357	Arāju iela	residential	1	0	0	
+LV	459357	Austrumu iela	residential	1	0	0	
+LV	459357	Baronu iela	residential	1	0	0	
+LV	459357	Baznīcas iela	residential	1	0	0	
+LV	459357	Bebru iela	residential	1	0	0	
+LV	459379	Mazcenu aleja	secondary	78	2	43	
+LV	459379	Priežu iela	residential	68	4	94	
+LV	459379	Ozolu iela	secondary	54	1	57	
+LV	459379	Vītolu iela	residential	44	3	47	
+LV	459379	Briežu iela	living_street	42	27	92	
+LV	459379	Birzes iela	residential	37	3	49	
+LV	459379	Kadiķu iela	living_street	36	2	45	
+LV	459379	Loka ceļš	secondary	35	2	65	
+LV	459379	Kārkliņu iela	residential	31	1	32	
+LV	459379	Ošu iela	residential	28	1	18	
+LV	459379	Auziņu iela	living_street	25	1	23	
+LV	459379	Rudzu iela	residential	23	1	42	
+LV	459402	Jelgavas iela	primary	88	1	69	
+LV	459402	Zaļās Noras iela	living_street	76	2	71	
+LV	459402	Jaunā iela	residential	66	3	47	
+LV	459402	Liepu iela	residential	65	5	42	
+LV	459402	Brīvības iela	primary	56	2	45	
+LV	459402	Jēkabpils iela	primary	54	2	36	
+LV	459402	Saulkrastu iela	residential	46	1	25	
+LV	459402	Uzvaras iela	residential	45	1	27	
+LV	459402	Lauku iela	residential	44	3	20	
+LV	459402	Kalna iela	residential	35	1	30	
+LV	459402	Rīgas iela	primary	34	1	34	
+LV	459402	Smilšu iela	residential	34	2	33	
+LV	459419	Zundagu iela	residential	14	2	24	
+LV	459419	Delfīnu iela		13	23	56	
+LV	459419	Cepļu iela	residential	11	1	11	
+LV	459419	Varavīksnes iela	residential	10	1	12	
+LV	459419	Roņu iela		9	33	41	
+LV	459419	Mežgarciema iela		3	69	71	
+LV	459419	Gliemežu iela	residential	2	15	18	
+LV	459419	Aveņu iela	residential	1	0	0	
+LV	459419	Baraviku iela	living_street	1	0	0	
+LV	459419	Belteskakta iela	residential	1	0	0	
+LV	459419	Gaileņu iela	living_street	1	0	0	
+LV	459419	Jaunciema 1. šķērslīnija	living_street	1	0	0	
+LV	459448	Rušonas iela	secondary	22	2	20	
+LV	459448	Dzelzceļa iela		11	1	10	
+LV	459448	Lauku iela		11	1	11	
+LV	459448	Parka iela	unclassified	10	1	6	
+LV	459448	Aglonas iela		9	1	11	
+LV	459448	Ezerkalna iela	unclassified	9	1	6	
+LV	459448	Naudaskalna iela		7	1	11	
+LV	459448	Dzirnavu iela	unclassified	6	1	11	
+LV	459448	Dārza iela		5	2	10	
+LV	459448	Krasta iela		5	1	8	
+LV	459448	Avotu iela		4	1	4	
+LV	459448	Kapiņu iela	secondary	3	2	5	
+LV	459563	Garā iela	residential	135	7	154	
+LV	459563	Egļupes iela	living_street	77	4	76	
+LV	459563	Plānupes iela	tertiary	55	1	31	
+LV	459563	Krasta iela	residential	54	2	56	
+LV	459563	Smilšu iela	living_street	54	4	238	
+LV	459563	Zvaigžņu iela	living_street	53	2	65	
+LV	459563	Gaujaslīču iela	residential	52	5	52	
+LV	459563	Atmodas iela	tertiary	51	2	34	
+LV	459563	Rietumu iela	living_street	45	3	43	
+LV	459563	Cīruļu iela	residential	43	2	24	
+LV	459563	Neļķu iela	living_street	43	3	47	
+LV	459563	Jasmīnu iela	living_street	39	2	50	
+LV	459586	Raiņa iela	primary	79	2	52	
+LV	459586	Pilskalnes iela	secondary	76	2	67	
+LV	459586	Brīvības iela	primary	67	3	55	
+LV	459586	Strēlnieku iela	residential	59	5	56	
+LV	459586	Kastaņu iela	residential	43	3	40	
+LV	459586	Jaunatnes iela	unclassified	39	1	35	
+LV	459586	Jēkabpils iela	residential	35	3	27	
+LV	459586	Ozolu iela	residential	35	4	33	
+LV	459586	Pļavu iela	residential	35	1	43	
+LV	459586	Avotu iela	residential	34	8	41	
+LV	459586	Zemnieku iela	residential	34	3	48	
+LV	459586	Dīķu iela	residential	28	1	34	
+LV	459598	Rīgas iela	tertiary	117	4	171	
+LV	459598	Lībiešu iela	residential	82	7	88	
+LV	459598	Daugavas prospekts	residential	81	2	61	
+LV	459598	Lejas iela	residential	73	3	49	
+LV	459598	Ozolu iela	tertiary	72	3	82	
+LV	459598	Indrānu iela	residential	67	3	71	
+LV	459598	Līvciema iela	tertiary	67	5	108	
+LV	459598	Māras iela	residential	66	2	62	
+LV	459598	Lupīnu iela	residential	65	3	58	
+LV	459598	Mārtiņa iela	residential	60	3	58	
+LV	459598	Birzes iela	residential	51	3	49	
+LV	459598	Ausekļa iela	residential	49	3	38	
+LV	459598	Ezera iela	tertiary	47	3	63	
+LV	459598	Riekstu iela	tertiary	47	2	38	
+LV	459598	Kārklu iela	residential	44	4	53	
+LV	459598	Priežu iela	residential	44	2	26	
+LV	459598	Mazmuižas iela		42	3	40	
+LV	459598	Jāņa Kugas iela	residential	37	2	37	
+LV	459598	Melioratoru iela	residential	37	1	25	
+LV	459598	Irbenāju iela	unclassified	35	2	50	
+LV	459598	Peldu iela	tertiary	35	2	26	
+LV	459598	Papeļu iela	residential	33	2	28	
+LV	459598	Pusmuižas iela		32	2	38	
+LV	459598	Stacijas iela	living_street	32	1	33	
+LV	459624	Rīgas iela		138	2	55	
+LV	459624	Sila iela	secondary	122	6	32	
+LV	459624	Edvarta Virzas iela	secondary	105	1	51	
+LV	459624	Baldones iela	secondary	94	2	65	
+LV	459624	Skolas iela	residential	94	4	96	
+LV	459624	Zemgales iela	residential	79	2	46	
+LV	459624	Dzirnavu iela	residential	43	1	22	
+LV	459624	Upes iela	tertiary	43	2	23	
+LV	459624	Bumbieru iela		42	3	36	
+LV	459624	Ķiršu iela		42	3	36	
+LV	459624	Aveņu iela		41	3	36	
+LV	459624	Cidoniju iela		39	1	36	
+LV	459668	Brīvības iela	primary	168	6	97	
+LV	459668	Rīgas iela	primary	121	4	69	
+LV	459668	Blaumaņa iela	primary	108	3	68	
+LV	459668	Robežu iela	residential	103	5	29	
+LV	459668	Vidus iela	residential	103	3	72	
+LV	459668	Raiņa iela	residential	85	4	99	
+LV	459668	Skolas iela	residential	83	1	28	
+LV	459668	Līkā iela	residential	80	2	52	
+LV	459668	Ozolu iela	residential	79	2	70	
+LV	459668	O. Kalpaka iela		78	5	84	
+LV	459668	Viestura iela	residential	60	3	41	
+LV	459668	Dzelzceļa iela	tertiary	59	1	21	
+LV	459668	Dzirnavu iela	secondary	50	3	34	
+LV	459668	Litenes iela	residential	49	2	50	
+LV	459668	Miera iela	tertiary	48	2	57	
+LV	459668	Dārza iela	residential	43	2	17	
+LV	459668	Zvaigžņu iela	residential	43	3	48	
+LV	459668	Krasta iela	residential	40	1	23	
+LV	459668	Bērzu iela	residential	37	3	26	
+LV	459668	Ābeļu iela	residential	36	1	26	
+LV	459668	Nākotnes iela	living_street	32	2	22	
+LV	459668	Pļavu iela	residential	30	2	28	
+LV	459668	Tilta iela	residential	28	2	37	
+LV	459668	Saules iela	residential	27	1	11	
+LV	459692	Lielā iela	secondary	185	8	148	
+LV	459692	Celtnieku iela	residential	128	8	77	
+LV	459692	Saules iela	residential	109	3	103	
+LV	459692	Priežu iela	residential	99	2	13	
+LV	459692	Ālandes iela	residential	65	12	56	
+LV	459692	Kalēju iela	residential	63	18	112	
+LV	459692	Apšu iela	residential	48	9	84	
+LV	459692	Egļu iela	residential	38	2	36	
+LV	459692	Rīgas iela		36	15	75	
+LV	459692	Stirnu iela	residential	31	1	29	
+LV	459692	M. Namiķa iela	residential	28	1	25	
+LV	459692	Atpūtas iela	residential	27	2	32	
+LV	459908	Pulkveža iela	residential	45	5	63	
+LV	459908	Senču prospekts	tertiary	44	1	51	
+LV	459908	Krastmalas iela	tertiary	40	4	93	
+LV	459908	Ābeļu iela		37	5	56	
+LV	459908	Miera iela	residential	31	1	60	
+LV	459908	Ķiršu iela	residential	31	2	41	
+LV	459908	Mārtiņrožu iela	tertiary	30	55	114	
+LV	459908	Kadetu iela	residential	29	2	29	
+LV	459908	Upesgrīvas iela	residential	28	4	26	
+LV	459908	Grīzupes iela	residential	26	2	26	
+LV	459908	Līču iela	residential	26	2	23	
+LV	459908	Ceļmalas iela	living_street	25	4	42	
+LV	459908	Kaprāļa iela	residential	25	2	26	
+LV	459908	Viskanta iela	residential	24	2	22	
+LV	459908	Leitnanta iela	residential	23	3	20	
+LV	459908	Sunīšu iela	residential	23	4	33	
+LV	459908	Rutku iela	residential	20	1	31	
+LV	459908	Rīgas iela	tertiary	20	1	34	
+LV	459908	Draugu iela	residential	19	1	25	
+LV	459908	Ērkšķu iela		19	2	22	
+LV	459908	Jaunaudzes iela	residential	17	1	21	
+LV	459908	Kapteiņa iela	residential	17	1	24	
+LV	459908	Radinieku iela	residential	17	1	18	
+LV	459908	Skuju iela	residential	17	1	14	
+LV	460001	Rīgas iela	primary	63	3	45	
+LV	460001	Parka iela	tertiary	44	2	38	
+LV	460001	Cēsu iela	primary	28	2	25	
+LV	460001	Oškalna iela	tertiary	23	2	22	
+LV	460001	Zaļā iela		23	1	31	
+LV	460001	Piebalgas iela	primary	20	1	79	
+LV	460001	Vestienas iela	primary	18	1	28	
+LV	460001	Blaumaņa iela	residential	17	1	15	
+LV	460001	Rūpniecības iela	residential	14	1	15	
+LV	460001	Gaismas iela	secondary	13	1	6	
+LV	460001	Jaunā iela	residential	13	1	16	
+LV	460001	Jumurdas iela	residential	13	1	21	
+LV	460019	Jūras iela		173	9	115	
+LV	460019	Krišjāņa Valdemāra iela	residential	43	3	78	
+LV	460019	Bērzu iela	residential	34	3	32	
+LV	460019	Ostas iela	residential	32	1	25	
+LV	460019	Lašu iela	residential	31	4	24	
+LV	460019	Kursas iela	residential	30	2	38	
+LV	460019	Graudu iela	residential	26	2	18	
+LV	460019	Teitupes iela		26	2	32	
+LV	460019	Skolas iela	residential	24	2	20	
+LV	460019	Albatrosa iela		23	2	20	
+LV	460019	Liepu iela	residential	22	1	20	
+LV	460019	Gatves iela		19	1	16	
+LV	460071	Dārza iela	residential	9	1	7	
+LV	460071	Ķiršu iela	living_street	2	11	13	
+LV	460071	Adze — Gudenieki — Ēdole	secondary	1	0	0	
+LV	460071	Alsunga — Tērande — Ziras	secondary	1	0	0	
+LV	460071	Andiņi – Kalnarāji	unclassified	1	0	0	
+LV	460071	Andiņu ceļš	unclassified	1	0	0	
+LV	460071	Antiņi - Centrs	unclassified	1	0	0	
+LV	460071	Antiņi - Pretiči	unclassified	1	0	0	
+LV	460071	Apuzes - Eglinieki	unclassified	1	0	0	
+LV	460071	Apvedceļš	unclassified	1	0	0	
+LV	460071	Apšenieki - Ēdole	unclassified	1	0	0	
+LV	460071	Apšenieki - Ērmaņi	unclassified	1	0	0	
+LV	460171	Raiņa iela	tertiary	87	6	71	
+LV	460171	Skolas iela	secondary	24	2	24	
+LV	460171	Aizputes iela	tertiary	17	2	11	
+LV	460171	Tirgus iela	residential	15	1	12	
+LV	460171	Nākotnes iela		10	2	12	
+LV	460171	Sporta iela	residential	9	1	12	
+LV	460171	Avotu iela	residential	8	2	8	
+LV	460171	Līvas iela	residential	8	1	11	
+LV	460171	Saules iela	residential	8	1	18	
+LV	460171	Ganību iela	residential	7	1	11	
+LV	460171	Jaunā iela	residential	7	1	7	
+LV	460171	Rīgas iela		6	5	15	
+LV	460187	Talsu iela	primary	56	1	23	
+LV	460187	Pils iela	residential	29	1	20	
+LV	460187	Brīvības iela	secondary	20	1	23	
+LV	460187	Vīdales iela	secondary	20	1	17	
+LV	460187	Andreja Upīša iela	primary	19	1	23	
+LV	460187	Pāces iela	primary	18	1	25	
+LV	460187	Saules iela	residential	18	1	18	
+LV	460187	Meža iela	residential	17	1	27	
+LV	460187	1905. gada iela	residential	14	1	13	
+LV	460187	Krišjāņa Barona iela	residential	14	1	19	
+LV	460187	Raiņa iela	secondary	13	1	21	
+LV	460187	Šlīteres iela	primary	12	1	15	
+LV	460274	Cidoniju iela	living_street	57	3	58	
+LV	460274	Garā iela	tertiary	48	4	45	
+LV	460274	Bērziņu iela	residential	47	3	45	
+LV	460274	Aroniju iela	living_street	44	1	38	
+LV	460274	Asteru iela	residential	40	2	44	
+LV	460274	Ozolu iela	residential	38	1	32	
+LV	460274	Priedkalnu iela	residential	38	2	44	
+LV	460274	Dukātu iela	living_street	28	2	30	
+LV	460274	Kļavu iela	living_street	28	2	25	
+LV	460274	Rakstiņu iela	living_street	28	2	29	
+LV	460274	Lielā Strazdiņu iela	residential	27	2	24	
+LV	460274	Paleju iela	living_street	26	2	27	
+LV	460274	Granīta iela		25	13	32	
+LV	460274	Betona iela	secondary	24	2	22	
+LV	460274	Zaļenieku iela	living_street	24	2	29	
+LV	460274	Jāņogu iela	living_street	23	2	19	
+LV	460274	Ziedu iela	residential	23	2	22	
+LV	460274	Plūmju iela	living_street	21	2	19	
+LV	460274	Bumbieru iela	living_street	20	1	20	
+LV	460274	Ceriņu iela	living_street	17	1	17	
+LV	460274	Piparu iela	residential	17	1	23	
+LV	460274	Rudzu iela	residential	17	1	25	
+LV	460274	Kadiķu iela	living_street	16	1	16	
+LV	460274	Dzīparu iela	residential	15	2	30	
+LV	460285	Kumadas iela	residential	22	3	38	
+LV	460285	Krasta iela	residential	13	3	21	
+LV	460285	Lielā iela	secondary	10	6	40	
+LV	460285	Ozolu iela	residential	7	17	42	
+LV	460285	Cecīļu iela	tertiary	5	2	12	
+LV	460285	Ramockas iela		5	1	11	
+LV	460285	Cepļa iela		4	1	7	
+LV	460285	Liepu iela	residential	4	1	16	
+LV	460285	Freija iela	residential	3	1	5	
+LV	460285	Palejas iela	residential	3	1	7	
+LV	460285	Stacijas iela	residential	3	2	13	
+LV	460285	Dārdu iela	unclassified	2	1	7	
+LV	460312	Zaļā iela	secondary	188	7	110	
+LV	460312	Brīvības iela	primary	146	2	62	
+LV	460312	Uzvaras iela	tertiary	114	3	57	
+LV	460312	Skolas iela	tertiary	101	2	47	
+LV	460312	Meža prospekts	tertiary	98	4	75	
+LV	460312	Zemgales iela	residential	79	2	50	
+LV	460312	Miera iela	residential	76	2	59	
+LV	460312	Tērvetes iela	primary	73	1	51	
+LV	460312	Dārza iela	residential	67	1	52	
+LV	460312	Kooperācijas iela	residential	65	1	19	
+LV	460312	Deglava iela	residential	58	1	32	
+LV	460312	Liepājas šoseja	primary	55	3	33	
+LV	460312	Ādama iela	residential	52	1	23	
+LV	460312	Robežu iela	residential	50	2	41	
+LV	460312	Jāņa Čakstes iela	tertiary	47	1	38	
+LV	460312	Liepu iela	residential	47	1	12	
+LV	460312	Zvaigžņu iela	residential	46	2	43	
+LV	460312	Ausmas iela	residential	44	1	35	
+LV	460312	Priežu iela	residential	43	1	30	
+LV	460312	Gaismas iela	residential	39	2	31	
+LV	460312	Baznīcas iela	secondary	38	1	22	
+LV	460312	Krišjāņa Barona iela	residential	38	1	25	
+LV	460312	Bērzes iela	residential	34	2	30	
+LV	460312	Lauku iela	primary	34	1	98	
+LV	460413	Vidzemes iela	tertiary	1443	15	1392	
+LV	460413	18. novembra iela	primary	480	14	414	
+LV	460413	Balvu iela	residential	286	1	130	
+LV	460413	Dravnieku iela	residential	266	14	136	
+LV	460413	2. Preču iela	residential	233	10	188	
+LV	460413	2. Pasažieru iela	residential	216	11	284	
+LV	460413	Dīķu iela	residential	208	11	197	
+LV	460413	Andreja Pumpura iela	residential	188	6	154	
+LV	460413	Lielā iela	primary	183	8	274	
+LV	460413	Nometņu iela	tertiary	181	14	159	
+LV	460413	Kauņas iela	residential	179	7	178	
+LV	460413	Miera iela	residential	175	4	135	
+LV	460413	Piekrastes iela	unclassified	170	3	171	
+LV	460413	Pārdaugavas iela	residential	162	7	173	
+LV	460413	Begoniju iela	residential	156	7	133	
+LV	460413	Strādnieku iela	residential	153	1	103	
+LV	460413	Smilšu iela	tertiary	151	7	103	
+LV	460413	Daugavas iela	primary	147	3	124	
+LV	460413	Ventspils iela	tertiary	145	4	147	
+LV	460413	Jātnieku iela	tertiary	135	8	93	
+LV	460413	Senlejas iela	living_street	131	25	140	
+LV	460413	Strautu iela	residential	126	7	122	
+LV	460413	Sēlijas iela	primary	123	11	150	
+LV	460413	Rīgas iela	residential	119	8	81	
+LV	460413	Bauskas iela	residential	117	6	114	
+LV	460413	Malu iela	residential	114	2	86	
+LV	460413	Valkas iela	tertiary	114	2	63	
+LV	460413	Jelgavas iela	tertiary	113	1	90	
+LV	460413	Stacijas iela	tertiary	113	20	129	
+LV	460413	Vaļņu iela	residential	111	4	77	
+LV	460413	Īrisu iela	residential	108	6	89	
+LV	460413	Tukuma iela	residential	107	7	115	
+LV	460413	Ventas iela	tertiary	107	2	97	
+LV	460413	Arodu iela	residential	103	11	106	
+LV	460413	Asteru iela	residential	99	4	105	
+LV	460413	Cietokšņa iela	tertiary	98	5	87	
+LV	460413	Puškina iela	residential	98	7	125	
+LV	460413	Tirgoņu iela	residential	97	4	92	
+LV	460413	Upeņu iela	residential	94	5	90	
+LV	460413	Valmieras iela	residential	94	4	88	
+LV	460413	Garā iela	residential	92	6	104	
+LV	460413	Komunālā iela	tertiary	92	4	108	
+LV	460413	Baznīcas iela	residential	90	23	133	
+LV	460413	Aroniju iela	residential	86	3	74	
+LV	460413	Transporta iela	residential	86	2	70	
+LV	460413	Jasmīnu iela	residential	85	5	81	
+LV	460413	Lielā Dārza iela	residential	83	5	101	
+LV	460413	Varšavas iela	tertiary	83	1	62	
+LV	460413	Noras iela	residential	80	5	93	
+LV	460413	Kraujas iela	tertiary	77	1	44	
+LV	460413	Ezeru iela	residential	76	4	65	
+LV	460413	Līksnas iela	residential	76	3	64	
+LV	460413	Dunduru iela	tertiary	75	2	30	
+LV	460413	Grodņas iela	residential	74	2	102	
+LV	460413	Liepziedu iela	residential	74	1	80	
+LV	460413	Saules iela	residential	74	4	71	
+LV	460413	Višķu iela	tertiary	74	5	32	
+LV	460413	Salviju iela	residential	73	4	69	
+LV	460413	Samteņu iela	residential	73	4	70	
+LV	460413	Vecpils iela	living_street	73	5	60	
+LV	460413	Viestura iela	tertiary	72	2	86	
+LV	460413	Avotu iela	residential	71	5	34	
+LV	460413	Dzintaru iela	residential	71	2	83	
+LV	460413	Ķieģeļu iela	unclassified	69	1	24	
+LV	460413	Ozolu iela	residential	68	2	29	
+LV	460413	Oškalna iela	residential	68	5	82	
+LV	460413	Liepājas iela	residential	63	4	82	
+LV	460413	Spaļu iela	residential	63	1	10	
+LV	460413	Tautas iela	residential	63	7	99	
+LV	460413	Raiņa iela	tertiary	62	3	31	
+LV	460413	Turaidas iela	residential	61	15	68	
+LV	460413	Klusā iela	residential	60	2	20	
+LV	460413	Dārza iela	residential	58	1	53	
+LV	460413	Liginišķu iela	residential	58	5	26	
+LV	460413	Ceriņu iela	residential	57	8	74	
+LV	460413	Vīnogu iela	residential	57	2	42	
+LV	460413	Vienības iela	residential	56	3	42	
+LV	460413	Staru iela	residential	55	3	76	
+LV	460413	Alejas iela	residential	54	7	111	
+LV	460413	Siguldas iela	residential	54	2	45	
+LV	460413	Kalkūnes iela	secondary	53	2	25	
+LV	460413	Parādes iela	residential	53	1	34	
+LV	460413	Stiklu iela	tertiary	53	1	18	
+LV	460413	Zeltkalna iela	residential	53	4	49	
+LV	460413	Ģimnāzijas iela	residential	53	3	46	
+LV	460413	Blaumaņa iela	residential	52	3	71	
+LV	460413	Flokšu iela	residential	51	4	66	
+LV	460413	Liliju iela	residential	51	3	55	
+LV	460413	Meža iela	living_street	50	1	33	
+LV	460413	Lāčplēša iela	residential	49	6	77	
+LV	460413	Muitas iela	residential	49	1	18	
+LV	460413	Viršu iela	secondary	49	14	56	
+LV	460413	Kandavas iela	residential	48	1	21	
+LV	460413	Krimuldas iela	residential	48	15	68	
+LV	460413	Oktobra iela	tertiary	48	1	37	
+LV	460413	Upes iela	residential	48	2	29	
+LV	460413	Ūdens iela	residential	48	8	65	
+LV	460413	Aglonas iela	residential	47	4	53	
+LV	460413	Mihoelsa iela	residential	47	4	68	
+LV	460413	Artilērijas iela	residential	46	5	38	
+LV	460416	Birutas Baumanes aleja	residential	1	0	0	
+LV	460416	Birzes iela	residential	1	0	0	
+LV	460416	Dzelzs iela	residential	1	0	0	
+LV	460416	Dzintara iela	tertiary	1	0	0	
+LV	460416	Esplanādes iela	residential	1	0	0	
+LV	460416	Flotes iela	residential	1	0	0	
+LV	460416	Kapteiņu iela	tertiary	1	0	0	
+LV	460416	Kodola iela	living_street	1	0	0	
+LV	460416	Lašu iela	unclassified	1	0	0	
+LV	460416	Lielā iela	residential	1	0	0	
+LV	460416	Lēpju iela	residential	1	0	0	
+LV	460416	Mangaļsalas iela	living_street	1	0	0	
+LV	460416	Mencu iela	living_street	1	0	0	
+LV	460416	Parādes iela	tertiary	1	0	0	
+LV	460416	Piekrastes iela	unclassified	1	0	0	
+LV	460416	Plēksnes iela	residential	1	0	0	
+LV	460416	Slimnīcas iela	residential	1	0	0	
+LV	460416	Smēdes iela	residential	1	0	0	
+LV	460416	Traleru iela	secondary	1	0	0	
+LV	460416	Vižņu iela	living_street	1	0	0	
+LV	460416	Vārnukroga ceļš	living_street	1	0	0	
+LV	460416	Zvīņu iela	residential	1	0	0	
+LV	460474	Liepājas iela	tertiary	87	6	76	
+LV	460474	Asūnes iela	secondary	78	4	63	
+LV	460474	Pasta iela	residential	78	2	51	
+LV	460474	Alejas iela	secondary	69	3	41	
+LV	460474	Brīvības iela	residential	59	3	33	
+LV	460474	Ezermalas iela	residential	42	2	32	
+LV	460474	Daugavpils iela	primary	41	2	19	
+LV	460474	Pļavu iela	secondary	34	1	16	
+LV	460474	Lāčplēša iela	residential	32	1	21	
+LV	460474	Saules iela	tertiary	31	2	27	
+LV	460474	Jaunatnes iela	residential	29	2	26	
+LV	460474	Tirgus iela	residential	28	3	33	
+LV	460557	Bērzpils iela	residential	1	0	0	
+LV	460557	Dzirnezera iela	residential	1	0	0	
+LV	460557	Gaujas iela	tertiary	1	0	0	
+LV	460557	Liepupes iela	residential	1	0	0	
+LV	460557	Rusova iela	tertiary	1	0	0	
+LV	460557	Saulkrastu iela	residential	1	0	0	
+LV	460557	Starta iela	residential	1	0	0	
+LV	460557	Stienes iela	residential	1	0	0	
+LV	460557	Ungura iela	living_street	1	0	0	
+LV	460557	Vijciema iela	residential	1	0	0	
+LV	460557	Čiekurkalna 1. līnija	tertiary	1	0	0	
+LV	460557	Čiekurkalna 2. līnija	residential	1	0	0	
+LV	460557	Čiekurkalna 2. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 3. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 4. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 5. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 6. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 7. šķērslīnija	residential	1	0	0	
+LV	460557	Čiekurkalna 8. šķērslīnija	residential	1	0	0	
+LV	460568	Rīgas iela	tertiary	31	2	27	
+LV	460568	Bērzu iela	secondary	28	2	33	
+LV	460568	Brīvības iela	unclassified	27	3	28	
+LV	460568	Raiņa iela	tertiary	27	2	12	
+LV	460568	Augusta Saulieša iela	primary	24	2	14	
+LV	460568	Parka iela	residential	22	1	14	
+LV	460568	Stacijas iela	secondary	21	2	22	
+LV	460568	Pils iela	tertiary	19	1	14	
+LV	460568	J. Ramaņa iela		14	1	13	
+LV	460568	Veidenbauma iela	tertiary	14	1	18	
+LV	460568	Nesaules iela	residential	13	2	22	
+LV	460568	Rūpnīcas iela	unclassified	13	1	10	
+LV	460570	Rīgas iela	living_street	139	4	94	
+LV	460570	Gaujas iela	secondary	124	4	83	
+LV	460570	Piebalgas iela	tertiary	103	2	91	
+LV	460570	Ata Kronvalda iela	residential	98	5	70	
+LV	460570	Līgatnes iela	tertiary	80	3	91	
+LV	460570	Lenču iela	tertiary	71	1	46	
+LV	460570	Vaives iela	residential	67	4	41	
+LV	460570	Jāņa Poruka iela	secondary	61	2	54	
+LV	460570	Cīrulīšu iela	residential	58	3	68	
+LV	460570	Raiņa iela	tertiary	58	5	40	
+LV	460570	Valmieras iela	tertiary	57	2	27	
+LV	460570	Lauku iela	living_street	56	3	29	
+LV	460570	Ģimnāzijas iela	residential	56	2	27	
+LV	460570	Rožu iela	residential	53	2	52	
+LV	460570	Strautmaļu iela	residential	51	3	49	
+LV	460570	Raunas iela	tertiary	50	3	15	
+LV	460570	Asteru iela	residential	48	3	66	
+LV	460570	Bērzaines iela	tertiary	48	2	36	
+LV	460570	Dzintara iela	tertiary	48	2	43	
+LV	460570	Puķuzirņu iela	residential	45	3	62	
+LV	460570	Festivāla iela	secondary	43	6	44	
+LV	460570	Palasta iela	secondary	43	2	24	
+LV	460570	Uzvaras bulvāris	tertiary	42	1	40	
+LV	460570	Ķiršu iela	residential	42	5	53	
+LV	460570	Dzirnavu iela	unclassified	41	5	62	
+LV	460570	Vaļņu iela	tertiary	40	2	37	
+LV	460570	Alejas iela	residential	36	1	23	
+LV	460570	Ezera iela	residential	36	2	42	
+LV	460570	Miera iela	residential	36	3	49	
+LV	460570	Atpūtas iela	residential	35	4	43	
+LV	460570	Ausekļa iela	residential	34	4	24	
+LV	460570	Pāvila iela	residential	34	4	47	
+LV	460570	Rūdolfa Blaumaņa bulvāris	residential	34	4	32	
+LV	460570	Pērļu iela	living_street	33	3	36	
+LV	460570	Egļu iela	residential	32	1	26	
+LV	460570	Briežu iela	secondary	31	4	31	
+LV	460570	Zaķu iela	residential	31	2	25	
+LV	460570	Aveņu iela	residential	30	2	33	
+LV	460570	Kalna iela	tertiary	30	1	14	
+LV	460570	Noras iela	residential	30	2	30	
+LV	460570	Vārnu iela	residential	30	3	32	
+LV	460570	Avotu iela	residential	29	1	36	
+LV	460570	Mednieku iela	residential	29	2	34	
+LV	460570	Zirņu iela	residential	29	2	28	
+LV	460570	Lielā Katrīnas iela	living_street	28	2	28	
+LV	460570	Vāveres iela	residential	28	1	16	
+LV	460570	Amatas iela	living_street	27	4	30	
+LV	460570	Oktobra iela	residential	27	4	29	
+LV	460721	Ādažu iela	tertiary	65	12	94	
+LV	460721	Miglas iela	residential	59	3	74	
+LV	460721	Liedaga iela	residential	42	3	37	
+LV	460721	Vecupes iela	living_street	34	1	32	
+LV	460721	Muižas iela	residential	27	2	27	
+LV	460721	Atvaru iela	residential	22	2	21	
+LV	460721	Ainavas iela	residential	20	1	28	
+LV	460721	Asteru iela	living_street	18	1	18	
+LV	460721	Neļķu iela	living_street	18	1	18	
+LV	460721	Kaiju iela		16	1	14	
+LV	460721	Lāču iela	residential	15	1	15	
+LV	460721	Saulkrastu iela	living_street	15	1	23	
+LV	460786	Lielcieceres iela	secondary	76	1	65	
+LV	460786	Krasta iela	residential	43	1	34	
+LV	460786	Kalna iela	residential	32	5	25	
+LV	460786	Skolas iela	residential	31	2	25	
+LV	460786	Gravas iela		25	2	36	
+LV	460786	Dienvidu iela		21	3	24	
+LV	460786	Saules iela		21	2	23	
+LV	460786	Upes iela	residential	20	1	20	
+LV	460786	Zaļā iela		16	1	18	
+LV	460786	Apakšstacijas iela	residential	13	1	6	
+LV	460786	Liepnieku iela	residential	13	1	16	
+LV	460786	Sētas iela		13	420	432	
+LV	460885	Magoņu iela		29	2	30	
+LV	460885	Stīgu iela	residential	26	2	33	
+LV	460885	Laimas iela	residential	22	3	21	
+LV	460885	Sapņu iela	residential	21	2	18	
+LV	460885	Samteņu iela		19	1	19	
+LV	460885	Vizbuļu iela		17	24	56	
+LV	460885	Zīļu iela	living_street	17	4	24	
+LV	460885	Pūpēžu iela	living_street	16	1	16	
+LV	460885	Kārklu iela	residential	15	2	30	
+LV	460885	Stiebru iela	residential	15	13	29	
+LV	460885	Strupu ceļš	unclassified	15	10	40	
+LV	460885	Laukmales iela	residential	14	1	18	
+LV	460885	Skaņu iela	residential	14	1	14	
+LV	460885	Sūnu iela	residential	14	1	14	
+LV	460885	Mušmiru iela	living_street	13	1	17	
+LV	460885	Staru iela	residential	12	1	12	
+LV	460885	Krūmu iela	residential	11	1	20	
+LV	460885	Ošu iela	residential	11	2	20	
+LV	460885	Ganu iela	unclassified	10	1	9	
+LV	460885	Dreimaņu iela	living_street	8	10	27	
+LV	460885	Selgas iela	living_street	8	1	9	
+LV	460885	Māras iela	residential	7	1	11	
+LV	460885	Kadiķu iela		5	1	5	
+LV	460885	Mango iela	living_street	5	2	10	
+LV	461064	Elenburgas iela	secondary	80	2	103	
+LV	461064	Divupes iela		68	1	39	
+LV	461064	Irbenāju iela	residential	67	2	35	
+LV	461064	Promenādes iela	living_street	59	3	62	
+LV	461064	Padebešu iela	residential	56	16	59	
+LV	461064	Ziedu iela	residential	56	2	49	
+LV	461064	Pērses iela	unclassified	54	14	44	
+LV	461064	Taku iela	living_street	49	3	48	
+LV	461064	Jaunības iela	living_street	44	15	42	
+LV	461064	Līgo iela	living_street	43	3	39	
+LV	461064	Akmeņu iela	living_street	42	2	28	
+LV	461064	Krievupes iela	residential	40	1	21	
+LV	461114	Bērzu iela	residential	818	22	22	
+LV	461114	Dārza iela	residential	239	7	36	
+LV	461114	Rīgas iela	tertiary	132	3	73	
+LV	461114	Mēmeles iela	tertiary	130	1	39	
+LV	461114	Bērzkalnu iela	secondary	116	5	77	
+LV	461114	Zemgaļu iela	residential	111	3	47	
+LV	461114	Pilskalna iela	tertiary	103	5	51	
+LV	461114	Zaļā iela		98	2	50	
+LV	461114	Centra iela	residential	84	5	135	
+LV	461114	Plūdoņa iela	tertiary	83	4	58	
+LV	461114	Pionieru iela	tertiary	77	1	30	
+LV	461114	Biržu iela	residential	69	4	52	
+LV	461114	Īslīces iela	secondary	66	3	17	
+LV	461114	Liepu iela	residential	55	2	36	
+LV	461114	Lakāju iela	residential	53	3	48	
+LV	461114	Draudzības iela	primary	50	1	36	
+LV	461114	Salātu iela	tertiary	47	3	30	
+LV	461114	Miera iela	residential	46	3	44	
+LV	461114	Uzvaras iela	primary	45	1	23	
+LV	461114	Zemeņu iela	residential	44	3	41	
+LV	461114	Imantas iela	unclassified	42	3	13	
+LV	461114	Jauncodes iela	residential	42	4	40	
+LV	461114	Skolas iela	residential	42	1	39	
+LV	461114	Strauta iela	residential	42	1	29	
+LV	461163	Daugavpils iela	residential	570	74	76	
+LV	461163	Ezera iela	residential	228	7	51	
+LV	461163	Brīvības iela	primary	196	1	128	
+LV	461163	Vidzemes iela	residential	157	3	28	
+LV	461163	Bērzpils iela	primary	109	1	66	
+LV	461163	Skolas iela	residential	100	4	93	
+LV	461163	Stacijas iela	primary	84	3	28	
+LV	461163	Dārza iela	residential	80	2	42	
+LV	461163	Partizānu iela	residential	72	3	57	
+LV	461163	5. Steķintavas līnija	living_street	71	260	344	
+LV	461163	Jaunatnes iela	residential	67	3	60	
+LV	461163	Raiņa iela	residential	66	4	78	
+LV	461163	4. Steķintavas līnija	living_street	62	207	334	
+LV	461163	Baznīcas iela	residential	59	4	61	
+LV	461163	Lauku iela	residential	59	7	40	
+LV	461163	Kalna iela	residential	57	2	40	
+LV	461163	3. Steķintavas līnija	living_street	52	163	328	
+LV	461163	Balvu iela	tertiary	50	1	19	
+LV	461163	Krasta iela	secondary	44	1	32	
+LV	461163	Ceļinieku iela	residential	43	2	29	
+LV	461163	Sporta iela	residential	38	2	49	
+LV	461163	Zaļā iela	residential	38	2	36	
+LV	461163	Celtnieku iela	residential	32	4	45	
+LV	461163	Bērzu iela	residential	31	2	22	
+LV	461224	Rīgas iela	secondary	111	2	91	
+LV	461224	Daugavas iela	secondary	71	2	48	
+LV	461224	Pilskalna iela	residential	48	3	39	
+LV	461224	Skolas iela	residential	47	3	40	
+LV	461224	Upmalas iela	residential	47	7	61	
+LV	461224	Vanagkalnu iela	tertiary	46	11	63	
+LV	461224	Zīļu iela	tertiary	46	2	46	
+LV	461224	Ķeguma prospekts	secondary	44	3	42	
+LV	461224	Parka iela	living_street	43	3	39	
+LV	461224	Zeltkalnu iela	residential	31	2	39	
+LV	461224	Liepu aleja	residential	30	1	27	
+LV	461224	Silmaču iela	tertiary	29	6	76	
+LV	461336	Bēnes iela	residential	78	4	54	
+LV	461336	Raiņa iela	primary	66	3	47	
+LV	461336	Puškina iela	residential	63	3	46	
+LV	461336	Vītiņu iela	residential	63	1	63	
+LV	461336	Kapsētas iela	residential	62	3	46	
+LV	461336	Liepu iela	residential	48	1	25	
+LV	461336	Annas Brigaderes iela	residential	45	3	44	
+LV	461336	Jura Mātera iela		45	1	34	
+LV	461336	Jelgavas iela	primary	37	1	45	
+LV	461336	Lejas iela	residential	32	3	20	
+LV	461336	Zemgales iela	residential	32	3	18	
+LV	461336	Oskara Kalpaka iela	residential	31	2	28	
+LV	461442	Stacijas iela	residential	56	2	45	
+LV	461442	Pasta iela	secondary	54	2	39	
+LV	461442	Dzirnavu iela	secondary	42	1	26	
+LV	461442	Rūpniecības iela	unclassified	23	2	20	
+LV	461442	Skolas iela	residential	21	2	16	
+LV	461442	Vaidavas iela	unclassified	18	1	29	
+LV	461442	Avotu iela	residential	15	1	15	
+LV	461442	Klusā iela	residential	15	1	16	
+LV	461442	Brīvības iela	residential	13	2	17	
+LV	461442	Rīgas iela	residential	13	2	16	
+LV	461442	Jāņa iela	residential	12	1	10	
+LV	461442	Smilšu iela	residential	11	3	14	
+LV	461528	Pils iela	primary	143	7	80	
+LV	461528	Helēnas iela	tertiary	140	2	83	
+LV	461528	Jāņkalna iela	primary	67	8	53	
+LV	461528	Latgales iela	secondary	66	3	34	
+LV	461528	Miera iela	tertiary	59	2	39	
+LV	461528	Ezermalas iela	residential	55	1	59	
+LV	461528	Dīķa iela	residential	54	3	53	
+LV	461528	Torņa iela	residential	47	2	61	
+LV	461528	Dārza iela	secondary	46	2	23	
+LV	461528	Merķeļa iela	tertiary	45	2	21	
+LV	461528	Tālavas iela	primary	45	4	24	
+LV	461528	Druvu iela	residential	43	4	44	
+LV	461528	Lielā Ezera iela	secondary	42	1	23	
+LV	461528	Rūpniecības iela		41	2	8	
+LV	461528	Mežkalna iela	residential	39	3	41	
+LV	461528	Krišjāņa Barona iela	residential	36	2	25	
+LV	461528	Gulbenes iela	residential	35	1	10	
+LV	461528	Torņkalna iela	residential	35	2	34	
+LV	461528	Valkas iela	residential	34	2	28	
+LV	461528	Kanaviņu iela	tertiary	33	3	17	
+LV	461528	Pilsētas bulvāris	residential	31	2	22	
+LV	461528	Gravu iela	residential	30	2	40	
+LV	461528	Rožu iela	residential	29	2	34	
+LV	461528	Brīvības iela	residential	28	3	23	
+LV	461534	Skolas iela	tertiary	37	3	26	
+LV	461534	Raiņa iela	primary	31	2	26	
+LV	461534	Maija iela	residential	23	2	28	
+LV	461534	Aizputes iela	tertiary	21	1	16	
+LV	461534	Ēdoles iela	residential	21	2	26	
+LV	461534	Liepu iela	residential	13	1	18	
+LV	461534	Pils iela	tertiary	13	1	11	
+LV	461534	Kuršu iela	residential	12	1	14	
+LV	461534	Kalna iela	residential	8	2	11	
+LV	461534	Krasta iela	residential	8	1	8	
+LV	461534	Miera iela	residential	7	1	8	
+LV	461534	Upes iela	residential	6	1	6	
+LV	461539	Jūras iela	secondary	64	1	50	
+LV	461539	Rīgas iela	residential	37	1	26	
+LV	461539	Baznīcas iela	secondary	32	2	28	
+LV	461539	Jaunā iela	residential	25	2	26	
+LV	461539	Brīvības iela	residential	23	2	44	
+LV	461539	Dārza iela	residential	23	1	30	
+LV	461539	Lidlauka iela	residential	20	1	27	
+LV	461539	Kalēju iela	residential	19	1	15	
+LV	461539	Kluba iela	residential	17	1	15	
+LV	461539	Ausekļa iela	residential	13	1	7	
+LV	461539	Jāņa Čakstes iela	residential	13	1	17	
+LV	461539	Limbažu iela	secondary	13	1	9	
+LV	461566	Augšzemes iela	primary	77	5	76	
+LV	461566	Skolas iela	primary	59	2	33	
+LV	461566	Saltupes iela	living_street	27	2	23	
+LV	461566	Avotu iela	residential	26	1	24	
+LV	461566	Dzirnavu iela		25	3	26	
+LV	461566	Tirgus iela	residential	24	2	30	
+LV	461566	Līvānu iela	tertiary	23	2	30	
+LV	461566	Liepu iela	residential	21	1	24	
+LV	461566	Lauku iela	residential	18	1	37	
+LV	461566	Krasta iela	residential	14	1	24	
+LV	461566	Smilšu iela	residential	12	1	12	
+LV	461566	Parka iela		11	1	9	
+LV	461602	Kalvenes iela	primary	105	4	80	
+LV	461602	Atmodas iela	primary	83	6	32	
+LV	461602	Jura Mātera iela	residential	66	2	88	
+LV	461602	Brīvības iela	residential	52	1	56	
+LV	461602	Padures iela	residential	51	2	37	
+LV	461602	Jelgavas iela	primary	46	4	56	
+LV	461602	Raiņa bulvāris	residential	45	2	46	
+LV	461602	Liepājas iela	primary	39	4	32	
+LV	461602	Ceriņu iela	residential	38	2	31	
+LV	461602	Austrumu iela	unclassified	37	1	26	
+LV	461602	Kuldīgas iela	primary	36	2	26	
+LV	461602	Kalnu iela	residential	34	2	25	
+LV	461602	Robežu iela	residential	33	6	27	
+LV	461602	Sakas iela	secondary	33	6	33	
+LV	461602	Zvaigžņu iela	residential	33	1	8	
+LV	461602	Ziedu iela	residential	31	1	20	
+LV	461602	Lažas iela	residential	28	1	19	
+LV	461602	Fabrikas iela	unclassified	25	2	16	
+LV	461602	Avotu iela	residential	24	2	19	
+LV	461602	Sporta iela	residential	22	2	14	
+LV	461602	Brīvzemnieka bulvāris	residential	21	1	27	
+LV	461602	Ezera iela	living_street	20	2	23	
+LV	461602	Cepļa iela	living_street	19	1	8	
+LV	461602	Parka iela	residential	19	1	13	
+LV	461615	Lāčplēša iela	residential	90	2	54	
+LV	461615	Jaunceltnes iela	residential	75	1	45	
+LV	461615	Gaismas iela	secondary	62	1	35	
+LV	461615	Krasta iela	living_street	49	93	331	
+LV	461615	Rūpniecības iela	residential	48	1	14	
+LV	461615	Akāciju iela	living_street	47	941	981	
+LV	461615	Lazdu iela	living_street	44	984	1025	
+LV	461615	Spīdolas iela	residential	43	2	20	
+LV	461615	Saules iela	living_street	41	1	38	
+LV	461615	Smilšu iela	living_street	38	3	88	
+LV	461615	Vītolu iela	living_street	38	421	598	
+LV	461615	Zaļā iela	living_street	37	165	297	
+LV	461615	Ozolu iela	living_street	36	2	401	
+LV	461615	Ķiršu iela	living_street	36	137	302	
+LV	461615	Garā iela	residential	35	2	35	
+LV	461615	Pīlādžu iela	living_street	35	436	589	
+LV	461615	Jasmīnu iela	living_street	33	453	587	
+LV	461615	Ābolu iela	living_street	33	107	304	
+LV	461615	Gulbju iela	residential	31	1303	1372	
+LV	461615	Lakstīgalu iela	residential	31	3	1377	
+LV	461615	Oša iela	living_street	31	405	631	
+LV	461615	Aroniju iela	living_street	28	276	604	
+LV	461615	Bērzu iela	residential	28	1	14	
+LV	461615	Druvas iela		27	2	27	
+LV	461628	Valdemāra iela	tertiary	167	9	131	
+LV	461628	Parka iela	residential	26	3	20	
+LV	461628	Krišjāņa Barona iela	tertiary	21	3	12	
+LV	461628	Ozolu iela	residential	16	1	13	
+LV	461628	Sporta iela	residential	16	1	14	
+LV	461628	Aizsaules iela	residential	13	1	7	
+LV	461628	Vidus iela		13	1	13	
+LV	461628	Brīvības iela	primary	11	2	16	
+LV	461628	Liepu iela	residential	11	1	12	
+LV	461628	Zaļā iela	residential	11	1	11	
+LV	461628	Dārza iela	unclassified	10	1	10	
+LV	461628	Jūrmalas iela		10	1	11	
+LV	461631	Somersētas iela	primary	63	3	38	
+LV	461631	Daugavpils iela	residential	52	2	42	
+LV	461631	Jaunciema iela		36	2	33	
+LV	461631	Ciriša iela	residential	20	1	8	
+LV	461631	Jaunaglonas iela	secondary	20	1	22	
+LV	461631	4. maija iela	residential	19	1	20	
+LV	461631	Jaudzemu iela	secondary	18	1	9	
+LV	461631	Kalna iela	residential	17	1	17	
+LV	461631	Krāslavas iela	primary	15	1	18	
+LV	461631	Aloīza Broka iela		14	1	9	
+LV	461631	Aglonas iela	residential	13	1	16	
+LV	461631	Livdānu iela	unclassified	11	1	11	
+LV	461650	Rīgas gatve	secondary	171	4	132	
+LV	461650	Gaujas iela	tertiary	155	2	62	
+LV	461650	Mārsilu iela	living_street	119	6	116	
+LV	461650	Dzirnupes iela	tertiary	101	13	106	
+LV	461650	Draudzības iela	tertiary	78	2	72	
+LV	461650	Pirmā iela	residential	72	4	44	
+LV	461650	Baltezera iela	unclassified	69	7	89	
+LV	461650	Tallinas šoseja		69	22	90	
+LV	461650	Alderu iela	secondary	66	27	106	
+LV	461650	Ozolu iela	living_street	66	2	48	
+LV	461650	Straumes iela	living_street	64	4	48	
+LV	461650	Austrumu iela	unclassified	62	15	87	
+LV	461650	Kanāla iela	secondary	61	5	80	
+LV	461650	Saulītes iela	living_street	61	4	58	
+LV	461650	Ziedu iela	living_street	61	2	37	
+LV	461650	Cīruļu iela	living_street	60	3	86	
+LV	461650	Māras iela	living_street	59	6	61	
+LV	461650	Zušu iela	residential	59	2	40	
+LV	461650	Vārpu iela	residential	58	1	44	
+LV	461650	Ogu iela	tertiary	54	2	45	
+LV	461650	Vītolu iela	living_street	53	2	32	
+LV	461650	Vecupes iela	living_street	52	2	36	
+LV	461650	Sila iela	tertiary	51	9	84	
+LV	461650	Kalmju iela	residential	48	2	51	
+LV	864235	Pavasara iela	living_street	30	3	42	
+LV	864235	Rudens iela	living_street	12	1	18	
+LV	864235	Priežu iela		3	5	20	
+LV	864235	Smilšu iela	living_street	2	19	20	
+LV	864235	Beberbeķu 5. līnija	living_street	1	0	0	
+LV	864235	Beberbeķu 6. līnija	living_street	1	0	0	
+LV	864235	Beberbeķu 7. līnija	living_street	1	0	0	
+LV	864235	Beberbeķu 9. līnija	living_street	1	0	0	
+LV	864235	Beberbeķu iela	residential	1	0	0	
+LV	864235	Krotes iela	living_street	1	0	0	
+LV	864235	Purmsātu iela	residential	1	0	0	
+LV	864235	Sātiņu iela	living_street	1	0	0	
+LV	864721	Pļavniekkalna iela	residential	88	3	71	
+LV	864721	Medemciema iela	residential	71	33	79	
+LV	864721	Saulaines iela	living_street	68	8	77	
+LV	864721	Stabuļu iela	living_street	66	8	87	
+LV	864721	Rīgas iela	secondary	62	3	47	
+LV	864721	Uzvaras prospekts	living_street	56	1	70	
+LV	864721	Ezermalas iela	living_street	49	3	60	
+LV	864721	Lakstīgalu iela	living_street	47	2	40	
+LV	864721	Asteru iela	residential	46	3	44	
+LV	864721	Arumu iela	living_street	45	3	48	
+LV	864721	Olektes iela	residential	39	2	38	
+LV	864721	Rakaru iela	living_street	39	2	31	
+LV	864721	Pavasara iela	living_street	37	2	38	
+LV	864721	Skolas iela	residential	37	2	47	
+LV	864721	Graudu iela		36	2	36	
+LV	864721	Kūdras iela	residential	36	2	45	
+LV	864721	Mēness iela	living_street	35	2	37	
+LV	864721	Salnas iela	living_street	35	2	35	
+LV	864721	Cālīšpurva iela	living_street	34	1	27	
+LV	864721	Liepziedu iela	residential	34	1	36	
+LV	864721	Titurgas iela	living_street	34	1	34	
+LV	864721	Ziedu iela	living_street	34	2	36	
+LV	864721	Pļavu iela	living_street	31	3	38	
+LV	864721	Ilūkstes iela	living_street	30	2	31	
+LV	864723	Ozolmuižas iela	living_street	148	8	161	
+LV	864723	Lielā iela		120	10	144	
+LV	864723	Medema iela	living_street	118	6	151	
+LV	864723	Liliju iela	residential	115	6	112	
+LV	864723	Paleju iela		112	4	100	
+LV	864723	Zeltiņu iela	residential	101	6	130	
+LV	864723	Pededzes iela	residential	86	1	70	
+LV	864723	Avotu iela	living_street	79	3	60	
+LV	864723	Daugavas iela	primary	79	1	38	
+LV	864723	Mārupītes gatve	tertiary	77	2	96	
+LV	864723	Mežsarga iela	living_street	76	3	62	
+LV	864723	Mēmeles iela	living_street	73	1	48	
+LV	864723	Rožu iela	tertiary	67	2	78	
+LV	864723	Vārpu iela		66	3	62	
+LV	864723	Skultes iela	secondary	64	4	50	
+LV	864723	Gaujas iela	residential	61	5	110	
+LV	864723	Penkules iela		59	41	128	
+LV	864723	Stīpnieku ceļš	secondary	59	3	44	
+LV	864723	Krones iela	living_street	56	5	81	
+LV	864723	Ventas iela	living_street	56	2	55	
+LV	864723	Kurmales iela	living_street	54	15	92	
+LV	864723	Sēļu iela		53	4	41	
+LV	864723	Upesgrīvas iela		53	1	78	
+LV	864723	Rītausmas iela	living_street	52	2	36	
+LV	864723	Dravnieku iela	living_street	47	2	39	
+LV	864723	Kabiles iela		47	28	65	
+LV	864723	Sīpeles iela	living_street	47	4	80	
+LV	864723	Lambertu iela		45	3	38	
+LV	864723	Vienības gatve		45	125	171	
+LV	864723	Bebru iela	residential	44	2	44	
+LV	864723	Veczariņu iela		43	3	55	
+LV	864723	Māliņu iela	living_street	42	4	48	
+LV	864723	Ledaiņu iela		41	2	38	
+LV	864723	Torņa iela	living_street	41	2	44	
+LV	864723	Grāvkalnu iela		40	2	48	
+LV	864723	Kantora iela		39	91	138	
+LV	864723	Daibes iela		37	21	56	
+LV	864723	Dzelzceļa iela		37	31	91	
+LV	864723	Mauriņu iela		37	2	36	
+LV	864723	Mūsas iela		37	2	43	
+LV	864723	Vīnkalnu iela	residential	37	1	55	
+LV	864723	Silnieku iela		36	1	46	
+LV	864723	Brūkleņu iela	living_street	34	102	121	
+LV	864723	Kokles iela	living_street	34	2	33	
+LV	864723	Zvaigznāju iela	residential	34	2	38	
+LV	864723	Pētera iela		33	2	30	
+LV	864723	Meldriņu iela		32	4	45	
+LV	864723	Svēteļu iela	living_street	32	2	30	
+LV	13192644	Kaudzīšu iela	tertiary	47	4	52	
+LV	13192644	Getliņu iela	tertiary	35	5	31	
+LV	13192644	Indriķa iela	residential	25	2	26	
+LV	13192644	Zeltozola iela	residential	22	3	26	
+LV	13192644	Bitenieku iela	unclassified	21	2	26	
+LV	13192644	Gaitiņu iela	residential	17	1	18	
+LV	13192644	Veldres iela	residential	14	1	16	
+LV	13192644	Brīvnieku iela	unclassified	9	1	19	
+LV	13192644	Granīta iela		8	13	32	
+LV	13192644	Krastmalas iela	residential	7	11	19	
+LV	13192644	Plieņu iela	residential	7	1	7	
+LV	13192644	Vizbuļu iela	residential	7	1	7	
+LV	13192644	Dālderu iela		6	1	10	
+LV	13192644	Lapsu iela	residential	6	2	12	
+LV	13192644	Spāriņu iela	residential	5	1	9	
+LV	13192644	Pureņu iela		4	2	8	
+LV	13192644	Jaudas iela	unclassified	3	20	24	
+LV	13192644	Cepļa iela	residential	2	1	3	
+LV	13192644	Aizvaru iela	living_street	1	0	0	
+LV	13192644	Atbalss iela	unclassified	1	0	0	
+LV	13192644	Augusta Deglava iela	secondary	1	0	0	
+LV	13192644	Ceļteku iela	residential	1	0	0	
+LV	13192644	Drujas iela	living_street	1	0	0	
+LV	13192644	Dārzciema iela	secondary	1	0	0	
+LV	13192644	Franča Trasuna iela	living_street	1	0	0	
+LV	13192644	Gaismas iela	living_street	1	0	0	
+LV	13192644	Grauleņu iela	residential	1	0	0	
+LV	13192644	Gravas iela	living_street	1	0	0	
+LV	13192644	Grīšļu iela	living_street	1	0	0	
+LV	13192644	Itas Kozakevičas iela	residential	1	0	0	
+LV	13192644	Jaunrozes iela	residential	1	0	0	
+LV	13192644	Jenotu iela	living_street	1	0	0	
+LV	13192644	Kaibalas iela	residential	1	0	0	
+LV	13192644	Kraukļu iela	living_street	1	0	0	
+LV	13192644	Krustpils iela	tertiary	1	0	0	
+LV	13192644	Kārsavas iela	living_street	1	0	0	
+LV	13192644	Lokomotīves iela	unclassified	1	0	0	
+LV	13192644	Malēju iela	living_street	1	0	0	
+LV	13192644	Mazjumpravas iela	unclassified	1	0	0	
+LV	13192644	Noras iela	residential	1	0	0	
+LV	13192644	Nulpes iela	unclassified	1	0	0	
+LV	13192644	Nātru iela	residential	1	0	0	
+LV	13192644	Nīcgales iela	tertiary	1	0	0	
+LV	13192644	Papardes iela	residential	1	0	0	
+LV	13192644	Piedrujas iela	primary	1	0	0	
+LV	13192644	Pildas iela	tertiary	1	0	0	
+LV	13192644	Radžu iela	residential	1	0	0	
+LV	13192644	Rubeņkalna iela	living_street	1	0	0	

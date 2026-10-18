@@ -1,0 +1,2784 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+HT	3716044	Impact Center Cir		3	2019	2019	
+HT	3716044	Les Forges	unclassified	1	0	0	
+HT	3716044	Route Départementale 101	secondary	1	0	0	
+HT	3716044	Route de Ternette	unclassified	1	0	0	
+HT	3716044	Route du Canal	unclassified	1	0	0	
+HT	3716044	Rue Boyer	residential	1	0	0	
+HT	3716044	Rue Chalotin	unclassified	1	0	0	
+HT	3716044	Rue Demeza	residential	1	0	0	
+HT	3716044	Rue Dumarsais Estimé	residential	1	0	0	
+HT	3716044	Rue Geffrard	residential	1	0	0	
+HT	3716044	Rue Jubilée	residential	1	0	0	
+HT	3716044	Rue Paul Eugène Magloire	residential	1	0	0	
+HT	3716044	Rue Pétion	residential	1	0	0	
+HT	3716044	Rue Sténio Vincent	residential	1	0	0	
+HT	3716044	Rue Toussaint Louverture	residential	1	0	0	
+HT	3716044	Rue de la Paix	residential	1	0	0	
+HT	3716044	Rue des Remparts	residential	1	0	0	
+HT	3716044	Rue du Cimetière	residential	1	0	0	
+HT	3716044	Rue du Marché Est	residential	1	0	0	
+HT	3716044	Rue du Marché Ouest	residential	1	0	0	
+HT	3716044	Rue du Marché Sud	residential	1	0	0	
+HT	3716044	Rue du Sânon	residential	1	0	0	
+HT	3716044	Toby	unclassified	1	0	0	
+HT	3716224	inconnu	residential	122	0	0	
+HT	3716224	in	residential	2	0	0	
+HT	3716224	Ancienne Route Nationale 6	secondary	1	0	0	
+HT	3716224	Entrée Lycée	residential	1	0	0	
+HT	3716224	Pont Devaraine	unclassified	1	0	0	
+HT	3716224	Route Communale 600B	tertiary	1	0	0	
+HT	3716224	Route Nappe	residential	1	0	0	
+HT	3716224	Route Nationale # 6	primary	1	0	0	
+HT	3716224	Route de Cacheman	unclassified	1	0	0	
+HT	3716224	Route de Caracol	tertiary	1	0	0	
+HT	3716224	Route de Faugère	residential	1	0	0	
+HT	3716224	Route de Modren	unclassified	1	0	0	
+HT	3716224	Route de Pistère	unclassified	1	0	0	
+HT	3716224	Route de Roche Plate	tertiary	1	0	0	
+HT	3716224	Rue Balthazar	residential	1	0	0	
+HT	3716224	Rue Dauphiné	residential	1	0	0	
+HT	3716224	Rue Fermée	residential	1	0	0	
+HT	3716224	Rue La Poudrière Prolongée	residential	1	0	0	
+HT	3716224	Rue Lacroix	residential	1	0	0	
+HT	3716224	Rue Saint-Alexandre	residential	1	0	0	
+HT	3716224	Rue Saint-Antoine	residential	1	0	0	
+HT	3716224	Rue Saint-Augustin	residential	1	0	0	
+HT	3716224	Rue Saint-Charles	residential	1	0	0	
+HT	3716224	Rue Saint-Joseph	residential	1	0	0	
+HT	3716403	Route Communale 205B	tertiary	1	0	0	
+HT	3716403	Route Départementale # 205	secondary	1	0	0	
+HT	3716403	Route de la Frésilière	unclassified	1	0	0	
+HT	3716403	Rue Saint Joseph	unclassified	1	0	0	
+HT	3716619	Route Départementale 702	secondary	1	0	0	
+HT	3716619	Rue A. Roman	residential	1	0	0	
+HT	3716619	Rue Indigène	residential	1	0	0	
+HT	3716663	Route Frère	unclassified	1	0	0	
+HT	3716663	Route Nationale # 3	primary	1	0	0	
+HT	3716667	Avenue Hyppolit	secondary	1	0	0	
+HT	3716667	Route Nationale # 3	primary	1	0	0	
+HT	3716667	Route de Cornillon	secondary	1	0	0	
+HT	3716667	Route de Dimulseau	unclassified	1	0	0	
+HT	3716667	Route de Pacot	tertiary	1	0	0	
+HT	3716667	Route de Thomazeau	secondary	1	0	0	
+HT	3716667	Rue André	residential	1	0	0	
+HT	3716667	Rue Getereau	residential	1	0	0	
+HT	3716667	Rue Malibou	residential	1	0	0	
+HT	3716667	Rue Toussaint Louverture	residential	1	0	0	
+HT	3716667	Rue de la Cathédrale	secondary	1	0	0	
+HT	3716669	Ravine d'Lo Higuey	residential	1	0	0	
+HT	3716669	Route Départementale 302	secondary	1	0	0	
+HT	3716669	Route Nan Lakou	residential	1	0	0	
+HT	3716669	Rue Alexandre Pétion	residential	1	0	0	
+HT	3716669	Rue Jean-Jacques Dessalines	secondary	1	0	0	
+HT	3716679	Route Départementale 102 / 112	secondary	1	0	0	
+HT	3716679	Route Départementale 112	secondary	1	0	0	
+HT	3716679	Route de Bodaire	tertiary	1	0	0	
+HT	3716679	Rue Macpella	secondary	1	0	0	
+HT	3716679	Rue Milery	residential	1	0	0	
+HT	3716679	Rue Philoclès	unclassified	1	0	0	
+HT	3716679	Rue Saimplice	unclassified	1	0	0	
+HT	3716679	Rue Tete Morne	residential	1	0	0	
+HT	3716679	Rue du Lycée	residential	1	0	0	
+HT	3716679	Rue du Sacré-Cœur	residential	1	0	0	
+HT	3716737	inconnu	residential	84	0	0	
+HT	3716737	Village of Thank Terrier-Rouge		40	11	1034	
+HT	3716737	Village Nativity Terrier-Rouge		33	869	869	
+HT	3716737	Route Nationale # 6	primary	3	107	137	
+HT	3716737	Ancienne Route Nationale 6	secondary	1	0	0	
+HT	3716737	Avenue Industrielle	residential	1	0	0	
+HT	3716737	Bois de l'Église	residential	1	0	0	
+HT	3716737	Pont Nan Boss Ti Louis	residential	1	0	0	
+HT	3716737	Pont Nan Nordia	unclassified	1	0	0	
+HT	3716737	Route de Caracol	tertiary	1	0	0	
+HT	3716737	Route de Jacquezil	tertiary	1	0	0	
+HT	3716737	Route de Paulette	tertiary	1	0	0	
+HT	3716737	Rue Jonathan	residential	1	0	0	
+HT	3716737	Rue Mascriti	residential	1	0	0	
+HT	3716737	Rue Mayard	residential	1	0	0	
+HT	3716737	Rue Morgue	unclassified	1	0	0	
+HT	3716737	Rue Notre-Dame	tertiary	1	0	0	
+HT	3716737	Rue Saint-Pierre	residential	1	0	0	
+HT	3716737	Rue Ti Soeurcas	residential	1	0	0	
+HT	3716737	Rue de Bayard	residential	1	0	0	
+HT	3716737	Rue du Cimetière	residential	1	0	0	
+HT	3716737	Rue du Temple Adventiste	residential	1	0	0	
+HT	3716737	Rue du Vieux Marché	residential	1	0	0	
+HT	3716737	Ruelle Barthélémy	residential	1	0	0	
+HT	3716737	Ruelle Derrière Cimetière	residential	1	0	0	
+HT	3716737	Ruelle Derrière le Cimetière	residential	1	0	0	
+HT	3716737	Ruelle Quartier Miraille	residential	1	0	0	
+HT	3716737	Ruelle Ti Soeurcas	residential	1	0	0	
+HT	3716737	Ruelle de Chavanon	residential	1	0	0	
+HT	3716737	Ti Pont Grand-Bassin	tertiary	1	0	0	
+HT	3716737	in	residential	1	0	0	
+HT	3716785	Route Communale 100K	tertiary	1	0	0	
+HT	3716785	riviere froide	unclassified	1	0	0	
+HT	3717546	route nationale #3		2	0	0	
+HT	3717546	Route Bois Noeuf	unclassified	1	0	0	
+HT	3717546	Route Départementale 103	secondary	1	0	0	
+HT	3717546	Route Nationale # 3	primary	1	0	0	
+HT	3717546	Route de Guacimale	unclassified	1	0	0	
+HT	3717546	Route de Mathurin	tertiary	1	0	0	
+HT	3717546	Route de la Grotte de Saint Raphaël	residential	1	0	0	
+HT	3717546	Route du Canal	unclassified	1	0	0	
+HT	3717546	Rue Do Kay Tanier Phidel	residential	1	0	0	
+HT	3717546	Rue Justin Monero	residential	1	0	0	
+HT	3717546	Rue Saint-Jean	residential	1	0	0	
+HT	3717546	Rue Saint-Pierre	residential	1	0	0	
+HT	3717546	Rue Savane Bouque	unclassified	1	0	0	
+HT	3717546	Rue Sylvestre	residential	1	0	0	
+HT	3717546	Rue de la Paroisse	residential	1	0	0	
+HT	3717546	Rue du Marché	unclassified	1	0	0	
+HT	3717546	Rue du Muscadin	residential	1	0	0	
+HT	3717546	Ruelle des Fleurs	residential	1	0	0	
+HT	3717560	Rue Guerrier	secondary	5	1	48	
+HT	3717560	Rue Christophe	residential	3	2	42	
+HT	3717560	Rue Trajan	residential	2	17	42	
+HT	3717560	Boulevard Jean-Jacques Dessalines	tertiary	1	0	0	
+HT	3717560	CVSMA	living_street	1	0	0	
+HT	3717560	Cannon de la Place	living_street	1	0	0	
+HT	3717560	Cité Diedonne	residential	1	0	0	
+HT	3717560	Cité Noé	residential	1	0	0	
+HT	3717560	Impasse Citron	residential	1	0	0	
+HT	3717560	Impasse Lubin	residential	1	0	0	
+HT	3717560	Impasse du Magnum	residential	1	0	0	
+HT	3717560	Kiosque de la Place	living_street	1	0	0	
+HT	3717560	Latanier	residential	1	0	0	
+HT	3717560	Nan Parandi	residential	1	0	0	
+HT	3717560	PPSMA1	living_street	1	0	0	
+HT	3717560	Place des Jeunes	residential	1	0	0	
+HT	3717560	Route Dessalines-Saint-Michel	tertiary	1	0	0	
+HT	3717560	Route Départementale 103	secondary	1	0	0	
+HT	3717560	Route Départementale 304	secondary	1	0	0	
+HT	3717560	Route Eagle	residential	1	0	0	
+HT	3717560	Route Ennery (Gonaives)	secondary	1	0	0	
+HT	3717560	Route Marmelade	tertiary	1	0	0	
+HT	3717560	Route Saint-Francisque	residential	1	0	0	
+HT	3717560	Route Ti Mango	residential	1	0	0	
+HT	3717560	Route de Bas de Sault	tertiary	1	0	0	
+HT	3717560	Route de Camahe	secondary	1	0	0	
+HT	3717560	Route de Lalomas	unclassified	1	0	0	
+HT	3717560	Route de Platana	unclassified	1	0	0	
+HT	3717560	Route de l'Ermitage	unclassified	1	0	0	
+HT	3717560	Route de l'Ermitage (5ème Section)	unclassified	1	0	0	
+HT	3717560	Rue Aine Diaquois	residential	1	0	0	
+HT	3717560	Rue Ainé Diaquois	residential	1	0	0	
+HT	3717560	Rue Alexandre Pétion	residential	1	0	0	
+HT	3717560	Rue Calevaire	secondary	1	0	0	
+HT	3717560	Rue Capitaine	residential	1	0	0	
+HT	3717560	Rue Capois	residential	1	0	0	
+HT	3717560	Rue Charles Cato	secondary	1	0	0	
+HT	3717560	Rue Desroches	residential	1	0	0	
+HT	3717560	Rue Elidye	residential	1	0	0	
+HT	3717560	Rue Louverture	residential	1	0	0	
+HT	3717560	Rue Léopold	residential	1	0	0	
+HT	3717560	Rue Phanord	residential	1	0	0	
+HT	3717560	Rue Saint-Fleur	residential	1	0	0	
+HT	3717560	Rue Salnave	residential	1	0	0	
+HT	3717560	Rue Tayan	residential	1	0	0	
+HT	3717560	Rue Thomas	residential	1	0	0	
+HT	3717560	Rue Trajean	tertiary	1	0	0	
+HT	3717560	Rue Verdieu	residential	1	0	0	
+HT	3717560	Rue de Bonne Espérance	residential	1	0	0	
+HT	3717560	Rue de Hôtel	residential	1	0	0	
+HT	3717560	Rue de Siloë	residential	1	0	0	
+HT	3717560	Rue de l'Avenir	secondary	1	0	0	
+HT	3717560	Rue de la Force	residential	1	0	0	
+HT	3717560	Rue de la Loge	residential	1	0	0	
+HT	3717560	Rue de la Paix	residential	1	0	0	
+HT	3717560	Rue de la Réunion	residential	1	0	0	
+HT	3717560	Rue du Chenêt	residential	1	0	0	
+HT	3717560	Rue du Cimetière	residential	1	0	0	
+HT	3717560	Rue du Silo	residential	1	0	0	
+HT	3717560	Rue du Vernet	residential	1	0	0	
+HT	3717560	Ruelle Macolas	residential	1	0	0	
+HT	3717560	Ruelle de l'Espoir	residential	1	0	0	
+HT	3717588	Rue Pétion	residential	40	32	185	
+HT	3717588	Rue savannah		37	45	249	
+HT	3717588	Imp Gaston Saget		35	4	61	
+HT	3717588	Rue Christophe	residential	29	8	157	
+HT	3717588	Mauris Kenol		26	2	26	
+HT	3717588	Lascirie Bonet		23	3	31	
+HT	3717588	Rue Geffrard	unclassified	22	13	40	
+HT	3717588	Rue Louverture	primary	22	47	336	
+HT	3717588	Blockauss3		21	6	34	
+HT	3717588	Rue Armand Thoby	residential	20	4	185	
+HT	3717588	Rue Bonnet	residential	20	2	38	
+HT	3717588	Fleurenceau		19	1	77	
+HT	3717588	Portail Guepe, Saint Marc, Route National no1		19	15	410	
+HT	3717588	Rue Savannah	residential	19	22	208	
+HT	3717588	Rue Petion		17	161	240	
+HT	3717588	Rue Chavannes		16	4	229	
+HT	3717588	Boulevard de la Liberte		14	29	95	
+HT	3717588	Lascirie Prolongée		14	1	13	
+HT	3717588	Lascirie prolongée		14	4	88	
+HT	3717588	Imp.Père Marrec		13	3	30	
+HT	3717588	Rue Père Primet	residential	13	1	20	
+HT	3717588	Avenue Gabard		12	6	167	
+HT	3717588	Route National #1		10	134	181	
+HT	3717588	Rue Bonet		10	13	186	
+HT	3717588	Blaucauss A		9	7	29	
+HT	3717588	Blockauss2		9	23	86	
+HT	3717588	Boulevard de la Liberté	residential	9	12	90	
+HT	3717588	Pont-Tambour		9	4	72	
+HT	3717588	Rue DR larose		9	5	52	
+HT	3717588	Ruelle des Princes	residential	9	73	99	
+HT	3717588	2e Cite Saieh		8	7	256	
+HT	3717588	Imp Chretienne		8	1	37	
+HT	3717588	Imp Fanni Paultre		8	6	26	
+HT	3717588	Rue Chavanne		8	33	48	
+HT	3717588	Rue Fontain		8	11	22	
+HT	3717588	Rue Surpris Laurent	residential	8	12	80	
+HT	3717588	Ruelle Adée		8	5	27	
+HT	3717588	impasse volcy		8	35	48	
+HT	3717588	Angle Rue Duplan et Roge Larose		7	5	655	
+HT	3717588	Imp Polinice		7	5	83	
+HT	3717588	Jacques Louis		7	226	308	
+HT	3717588	Rue Bonet Prolongée		7	9	181	
+HT	3717588	savannah		7	116	124	
+HT	3717588	Boulevard de la liberté		6	36	67	
+HT	3717588	Cité Bertin		6	2	10	
+HT	3717588	Lascirie Prolonge		6	1	69	
+HT	3717588	Rue Duplan		6	1	14	
+HT	3717588	Rue du Plan	residential	6	6	258	
+HT	3717588	Avenue Maurepas		5	3	28	
+HT	3717588	Imp Canada et Carmelot		5	2	8	
+HT	3717588	Pivert		5	7	35	
+HT	3717588	Route Nationale #1		5	350	414	
+HT	3717588	Rue Bonet Prolongee		5	7	308	
+HT	3717588	Rue Christoph		5	74	87	
+HT	3717588	Rue Nissage Saget	tertiary	5	8	18	
+HT	3717588	Rue Pasteur Harris	unclassified	5	8	653	
+HT	3717588	Rue Stéphen Léonard	residential	5	49	61	
+HT	3717588	Sacré-Coeur		5	8	94	
+HT	3717588	Avenue Jean-Jacques Dessalines	tertiary	4	48	115	
+HT	3717588	Cite kebrau		4	1	25	
+HT	3717588	Imp Chanvanne		4	158	159	
+HT	3717588	Imp Polinice II		4	16	75	
+HT	3717588	Imp Telemaque		4	2	33	
+HT	3717588	Impasse Henriette		4	1	76	
+HT	3717588	Lascyrie-Pivert		4	67	126	
+HT	3717588	Nazaire		4	1	35	
+HT	3717588	Rue Louverture Elma	residential	4	25	99	
+HT	3717588	Rue Normil Charles	residential	4	3	10	
+HT	3717588	Rue Pivert		4	65	71	
+HT	3717588	Rue William Destin	residential	4	16	47	
+HT	3717588	Angle Blaucauss A		3	22	30	
+HT	3717588	Artibonite,St Marc,rue louverture		3	348	350	
+HT	3717588	Cite Philippe I		3	10	44	
+HT	3717588	Cite Saieh		3	16	28	
+HT	3717588	Cite Vernat		3	37	54	
+HT	3717588	Cité Philippe2		3	6	312	
+HT	3717588	Frécyneau 2		3	40	147	
+HT	3717588	Imp Bertin 2		3	12	25	
+HT	3717588	Imp Chanvanne 2		3	6	10	
+HT	3717588	Marc Donald		3	18	77	
+HT	3717588	Route Nationale no 1		3	334	340	
+HT	3717588	Route Nationale#1 Perisse		3	88	88	
+HT	3717588	Route Pont-Tambour		3	12	243	
+HT	3717588	Route de Fleurenceau	residential	3	1	99	
+HT	3717588	Rte Nationale		3	15	205	
+HT	3717588	Rue Bonet Prolonger		3	17	33	
+HT	3717588	Rue Docteur larose		3	237	242	
+HT	3717588	Rue Géfrard		3	6	8	
+HT	3717588	Rue Lascirie Bonnet		3	49	63	
+HT	3717588	Rue Louverture#1		3	295	311	
+HT	3717588	Ruelle Desir		3	14	47	
+HT	3717588	Ruelle Jasmin		3	4	25	
+HT	3717588	Ruelle Mavum(Barbe)	residential	3	37	37	
+HT	3717588	ruelle Marabout		3	2	34	
+HT	3717588	3e Cite Saieh		2	3	10	
+HT	3717588	Angle des Rues Nazaire et Jasmin		2	10	10	
+HT	3717588	Artibonite,St Marc_pivert		2	7	39	
+HT	3717588	Cite Dalencourt	residential	2	105	106	
+HT	3717588	Cite nelchor		2	11	11	
+HT	3717588	Cité Dalencourt	residential	2	15	105	
+HT	3717596	Route Nationale # 2	primary	1	0	0	
+HT	3717596	Rue Chartres	residential	1	0	0	
+HT	3717596	Rue Jean-Jacques Dessalines	residential	1	0	0	
+HT	3717596	Rue Sainte	residential	1	0	0	
+HT	3717596	Rue Toussaint Louventure	unclassified	1	0	0	
+HT	3717596	Rue de la Cathédrale	unclassified	1	0	0	
+HT	3717596	Rue de la Place	residential	1	0	0	
+HT	3717596	Rue du Gouvernement	residential	1	0	0	
+HT	3717596	Rue du Presbytère	residential	1	0	0	
+HT	3717600	Chemin Desgranges	unclassified	1	0	0	
+HT	3717600	Rue de l'Hôpital	residential	1	0	0	
+HT	3717617	Chemin de Coteaux	residential	1	0	0	
+HT	3717617	Route Communale 205C	tertiary	1	0	0	
+HT	3717617	Route Départementale # 205	secondary	1	0	0	
+HT	3717617	Route de Dumont	tertiary	1	0	0	
+HT	3717916	La Nationale Sud-Ouest	secondary	1	0	0	
+HT	3717916	Route Départementale # 205	secondary	1	0	0	
+HT	3718199	Rue Lubin	residential	1	0	0	
+HT	3718199	Rue de Providence	unclassified	1	0	0	
+HT	3718199	Rue de l’Union	residential	1	0	0	
+HT	3718199	Rue du Calvaire	unclassified	1	0	0	
+HT	3718199	Rue Égyptienne	unclassified	1	0	0	
+HT	3718278	inconnu	residential	461	0	0	
+HT	3718278	Inconnu		22	0	0	
+HT	3718278	in		9	0	0	
+HT	3718278	je ne sais pas		7	0	0	
+HT	3718278	La place		6	1	5	
+HT	3718278	Corridor Barré Carré	residential	1	0	0	
+HT	3718278	Corridor Kay Élie	residential	1	0	0	
+HT	3718278	Impasse Alcime	residential	1	0	0	
+HT	3718278	Lesly	residential	1	0	0	
+HT	3718278	Nan Dokte Gogo	unclassified	1	0	0	
+HT	3718278	Route Nationale # 6	primary	1	0	0	
+HT	3718278	Route Nationale # 6 (Pont Parois)	primary	1	0	0	
+HT	3718411	Route Départementale 110	tertiary	1	0	0	
+HT	3718420	Rue Dumarsais Estimé	primary	2	244	277	
+HT	3718420	1e Rue Chalet	residential	1	0	0	
+HT	3718420	Avenue Pétion	residential	1	0	0	
+HT	3718420	Boulevard Jovenel Moïse	primary	1	0	0	
+HT	3718420	Impasse Myriam	residential	1	0	0	
+HT	3718420	Route de Blokos	residential	1	0	0	
+HT	3718420	Route de Demelus	residential	1	0	0	
+HT	3718420	Route de Djerilon	residential	1	0	0	
+HT	3718420	Route de Ti Fon	residential	1	0	0	
+HT	3718420	Rue 3 Grâces	residential	1	0	0	
+HT	3718420	Rue Andral	residential	1	0	0	
+HT	3718420	Rue Benito Sylvain	secondary	1	0	0	
+HT	3718420	Rue Boisrond Tonnerre	residential	1	0	0	
+HT	3718420	Rue Capois La Mort	residential	1	0	0	
+HT	3718420	Rue Chalet	residential	1	0	0	
+HT	3718420	Rue Christophe	residential	1	0	0	
+HT	3718420	Rue Chritophe	residential	1	0	0	
+HT	3718420	Rue Courte	unclassified	1	0	0	
+HT	3718420	Rue Dalma Si	residential	1	0	0	
+HT	3718420	Rue Dessalines	residential	1	0	0	
+HT	3718420	Rue Frederis	residential	1	0	0	
+HT	3718420	Rue Geffard	primary	1	0	0	
+HT	3718420	Rue Holiday Beach	residential	1	0	0	
+HT	3718420	Rue Jasmin	residential	1	0	0	
+HT	3718420	Rue Jean-Pierre	residential	1	0	0	
+HT	3718420	Rue Jugilonissee	residential	1	0	0	
+HT	3718420	Rue KH Renage	residential	1	0	0	
+HT	3718420	Rue Laulier	residential	1	0	0	
+HT	3718420	Rue Luis Andre	residential	1	0	0	
+HT	3718420	Rue Maurepas	residential	1	0	0	
+HT	3718420	Rue Myriam 1	unclassified	1	0	0	
+HT	3718420	Rue Myriam 2	unclassified	1	0	0	
+HT	3718420	Rue Notre-Dame	primary	1	0	0	
+HT	3718420	Rue Paul Eugène Magloire	residential	1	0	0	
+HT	3718420	Rue Rébecca	residential	1	0	0	
+HT	3718420	Rue Saint-Vincent	primary	1	0	0	
+HT	3718420	Rue Sebahin	residential	1	0	0	
+HT	3718420	Rue Stode	residential	1	0	0	
+HT	3718420	Rue Sténio Vincent	residential	1	0	0	
+HT	3718420	Rue Telfort	residential	1	0	0	
+HT	3718420	Rue Universal	residential	1	0	0	
+HT	3718420	Rue Venus 1	residential	1	0	0	
+HT	3718420	Rue Venus 2	residential	1	0	0	
+HT	3718420	Rue Venus 3	residential	1	0	0	
+HT	3718420	Rue Venus 4	residential	1	0	0	
+HT	3718420	Rue Voit Toillis	residential	1	0	0	
+HT	3718420	Rue William	residential	1	0	0	
+HT	3718420	Rue de Plaza	residential	1	0	0	
+HT	3718420	Rue de Rouen	unclassified	1	0	0	
+HT	3718420	Rue de l'Hôpital	residential	1	0	0	
+HT	3718420	Rue de la Forêt	residential	1	0	0	
+HT	3718420	Rue de la Place	residential	1	0	0	
+HT	3718420	Rue du Lycée	residential	1	0	0	
+HT	3718420	Rue du Parc	residential	1	0	0	
+HT	3718420	Rue du Quai	unclassified	1	0	0	
+HT	3718420	Ruelle Brice	residential	1	0	0	
+HT	3718420	Ruelle Rendez-Vous	residential	1	0	0	
+HT	3718426	Avenue John Brown	secondary	16	151	312	
+HT	3718426	Rue Capois	tertiary	14	10	143	
+HT	3718426	Boulevard Jean-Jacques Dessalines	primary	13	622	847	
+HT	3718426	Avenue Christophe	tertiary	10	1	170	
+HT	3718426	Avenue Martin Luther King	secondary	10	29	183	
+HT	3718426	Avenue N	residential	9	9	70	
+HT	3718426	Rue Alerte	tertiary	9	40	210	
+HT	3718426	Rue du Centre	residential	9	180	378	
+HT	3718426	Rue Lysius Salomon	unclassified	7	3	83	
+HT	3718426	Avenue Jean Paul II		6	14	186	
+HT	3718426	Rue 4 Pacot		6	3	13	
+HT	3718426	Rue Cameau	residential	6	34	100	
+HT	3718426	rue volcy		6	43	154	
+HT	3718426	Avenue Lamartinière	tertiary	5	10	100	
+HT	3718426	Boulevard Toussaint Louverture	secondary	5	18	50	
+HT	3718426	Impasse Baron	residential	5	13	23	
+HT	3718426	Rue Baussan	residential	5	27	38	
+HT	3718426	Rue Chavannes	residential	5	19	45	
+HT	3718426	Rue Debussy	living_street	5	4	83	
+HT	3718426	Rue Fernand	tertiary	5	8	37	
+HT	3718426	Rue Pacot		5	3	30	
+HT	3718426	Rue Rivière		5	7	282	
+HT	3718426	Rue Sapotille		5	2	26	
+HT	3718426	Ruelle Civique	residential	5	9	65	
+HT	3718426	Rue 6		4	16	30	
+HT	3718426	Rue Armand Holly	unclassified	4	16	109	
+HT	3718426	Rue Castrom		4	22	40	
+HT	3718426	Rue Croix Deprez	residential	4	26	34	
+HT	3718426	Rue Massillon Coicou	living_street	4	14	27	
+HT	3718426	Rue Waag	residential	4	7	70	
+HT	3718426	Ruelle Jean Philippe		4	36	36	
+HT	3718426	Thomassin 23	residential	4	1	47	
+HT	3718426	Boulevard 15 Octobre		3	47	56	
+HT	3718426	Clercine 14		3	1	14	
+HT	3718426	Delmas 3	tertiary	3	18	209	
+HT	3718426	Imp. Chavanne		3	36	36	
+HT	3718426	Route de Kenscoff	secondary	3	104	235	
+HT	3718426	Rue Bellevue	residential	3	19	22	
+HT	3718426	Rue Bois Patate	tertiary	3	27	48	
+HT	3718426	Rue Faustin 1er	residential	3	19	65	
+HT	3718426	Rue Jean Gilles	unclassified	3	3	5	
+HT	3718426	Rue M. Casséus	residential	3	4	24	
+HT	3718426	Rue Patrice Lumumba	tertiary	3	8	200	
+HT	3718426	Rue Saint Remi Rouzier		3	2	10	
+HT	3718426	Rue la Montagne		3	1	24	
+HT	3718426	Ruelle Robin	residential	3	33	46	
+HT	3718426	Ruelle Vilgrain	residential	3	13	43	
+HT	3718426	Ruelle Wilson 1re	residential	3	3	9	
+HT	3718426	1re Rue du Travail	residential	2	25	33	
+HT	3718426	Avenue Magloire Ambroise	tertiary	2	126	156	
+HT	3718426	Impasse Cazeau		2	17	20	
+HT	3718426	Impasse Mirambeau	residential	2	7	8	
+HT	3718426	Impasse Sauge		2	39	39	
+HT	3718426	Route Petit Seminaire		2	43	43	
+HT	3718426	Route de Delmas	primary	2	3	73	
+HT	3718426	Rue 3		2	22	29	
+HT	3718426	Rue 7		2	13	24	
+HT	3718426	Rue Babiole		2	18	25	
+HT	3718426	Rue Berne	residential	2	19	29	
+HT	3718426	Rue Bolosse 1re		2	15	17	
+HT	3718426	Rue Lafleur Ducheine	residential	2	92	106	
+HT	3718426	Rue Malval	residential	2	21	29	
+HT	3718426	Rue Martin	residential	2	26	31	
+HT	3718426	Rue Merlet	residential	2	18	18	
+HT	3718426	Rue O	residential	2	9	26	
+HT	3718426	Rue Oswald Durand	secondary	2	91	93	
+HT	3718426	Rue Robin	residential	2	43	75	
+HT	3718426	Rue Romain	residential	2	1	10	
+HT	3718426	Rue dorigol		2	32	32	
+HT	3718426	Rue du Docteur Dehoux	residential	2	46	46	
+HT	3718426	Ruelle Frédéric	residential	2	10	12	
+HT	3718426	Ruelle Lota Jérémie	residential	2	1	11	
+HT	3718426	Ruelle Malet	residential	2	44	54	
+HT	3718426	Ruelle Roy	residential	2	35	58	
+HT	3718426	Ruelle le Franc		2	3	13	
+HT	3718426	avenue soleil		2	2	60	
+HT	3718426	bas croix bleu ruelle sonson		2	910	910	
+HT	3718426	nerette		2	94	110	
+HT	3718426	1e Impasse Dayan	residential	1	0	0	
+HT	3718426	1e Rue Deuxième Cité	residential	1	0	0	
+HT	3718426	1er Boulevard CCDVRH	residential	1	0	0	
+HT	3718426	1er Impasse charite	residential	1	0	0	
+HT	3718426	1re Impasse Beauchamps	residential	1	0	0	
+HT	3718426	1re Impasse des Caïmans	residential	1	0	0	
+HT	3718426	1re Ruelle des Calaos	residential	1	0	0	
+HT	3718426	1ère Impasse Nousta	residential	1	0	0	
+HT	3718426	1ère Impasse de la Paix	residential	1	0	0	
+HT	3718426	1ère Impasse de la Sagesse	residential	1	0	0	
+HT	3718426	1ère Ruelle Cité Gérard	residential	1	0	0	
+HT	3718426	2e Cité Lumière	unclassified	1	0	0	
+HT	3718426	2e Impasse Beauchamps	residential	1	0	0	
+HT	3718426	2e Impasse Dayan	residential	1	0	0	
+HT	3718426	2e Impasse Douyon	pedestrian	1	0	0	
+HT	3718426	2e Impasse Ducasse	residential	1	0	0	
+HT	3718426	2e Impasse Médilien	residential	1	0	0	
+HT	3718426	2e Impasse des Caïmans	residential	1	0	0	
+HT	3718426	2e Rue	residential	1	0	0	
+HT	3718426	2e Rue Deuxième Cité	residential	1	0	0	
+HT	3718426	2e Ruelle Candio	residential	1	0	0	
+HT	3718426	2e Ruelle Jehovah Dieu	residential	1	0	0	
+HT	3718426	2e Ruelle Joseph Janvier	residential	1	0	0	
+HT	3718426	2e Ruelle Jérémie	residential	1	0	0	
+HT	3718426	2e Ruelle Jésus-Christ	residential	1	0	0	
+HT	3718426	2e Ruelle Linteau 1	residential	1	0	0	
+HT	3718426	2e Ruelle Wilson	residential	1	0	0	
+HT	3718426	2e Ruelle de la Paix	residential	1	0	0	
+HT	3718426	2eme Impasse Charite	residential	1	0	0	
+HT	3718426	2ème Imp Norgues	residential	1	0	0	
+HT	3718426	2ème Impasse Nousta	residential	1	0	0	
+HT	3718426	2ème Impasse de la Sagesse	residential	1	0	0	
+HT	3718426	2ème Ruelle CB	residential	1	0	0	
+HT	3718426	2ème Ruelle Manigat	residential	1	0	0	
+HT	3718426	2ème Ruelle des Calaos	residential	1	0	0	
+HT	3718426	3e Impasse Sous Terre	residential	1	0	0	
+HT	3718426	3e Impasse des Caïmans	residential	1	0	0	
+HT	3718426	3e Rue	residential	1	0	0	
+HT	3718426	3e Rue du Travail	residential	1	0	0	
+HT	3718426	3e Ruelle du Plus	residential	1	0	0	
+HT	3718426	4e Rue	residential	1	0	0	
+HT	3718426	4e Rue Prolongée	residential	1	0	0	
+HT	3718426	4e Ruelle du Plus	residential	1	0	0	
+HT	3718426	5e Rue	residential	1	0	0	
+HT	3718426	6e Rue	residential	1	0	0	
+HT	3718426	7e Rue	residential	1	0	0	
+HT	3718426	Ave Gerard Theodat (Clercine 19)	tertiary	1	0	0	
+HT	3718426	Avenue Gerard Theodat (Clercine 19)	tertiary	1	0	0	
+HT	3718426	Avenue Haile Selassie	tertiary	1	0	0	
+HT	3718426	Avenue Jean-Paul II	tertiary	1	0	0	
+HT	3718426	Avenue Jean-Paul II (Haut de Turgeau)	residential	1	0	0	
+HT	3718426	Avenue Jean-Paul II (Rue Dehoux)	unclassified	1	0	0	
+HT	3718426	Avenue Magloire Ambroise Prolongée	tertiary	1	0	0	
+HT	3718426	Avenue Marie-Jeanne	unclassified	1	0	0	
+HT	3718426	Avenue Maïs Gaté	secondary	1	0	0	
+HT	3718426	Avenue Nelson Mandela	tertiary	1	0	0	
+HT	3718426	Avenue Ovide	secondary	1	0	0	
+HT	3718426	Avenue Pie-XII	residential	1	0	0	
+HT	3718426	Avenue de l'Amitier	residential	1	0	0	
+HT	3718426	Avenue de la Liberté	unclassified	1	0	0	
+HT	3718426	Avenue de la République	unclassified	1	0	0	
+HT	3718426	Avenue du Soleil	secondary	1	0	0	
+HT	3718426	Bas Castéra	residential	1	0	0	
+HT	3718426	Bizoton 49	residential	1	0	0	
+HT	3718426	Bloc Romulus	residential	1	0	0	
+HT	3718426	Bord Compas	residential	1	0	0	
+HT	3718426	Bord Tirouge	residential	1	0	0	
+HT	3718426	Boulevard Venesuelien ( rte dechets truitier )	unclassified	1	0	0	
+HT	3718426	Boulevard de la Saline	secondary	1	0	0	
+HT	3718426	Boulevard du 13 Octobre (Route de Tabarre)	secondary	1	0	0	
+HT	3718426	Boulevard du Vénézuela (Route de Déchets Truitier)	unclassified	1	0	0	
+HT	3718426	Boulevard du Vénézuela Prolongée	unclassified	1	0	0	
+HT	3718426	Chemin de la Grâce	residential	1	0	0	
+HT	3718426	Cité Louverture	residential	1	0	0	
+HT	3718426	Cité aux Cayes	residential	1	0	0	
+HT	3718426	Clercine 12	residential	1	0	0	
+HT	3718426	Corridor Brea	residential	1	0	0	
+HT	3718426	Corridor Saintonge	residential	1	0	0	
+HT	3718426	Corridor Santies	residential	1	0	0	
+HT	3718426	Cour de la Citadelle	residential	1	0	0	
+HT	3718426	Damien 63	residential	1	0	0	
+HT	3718426	Delmas 1	unclassified	1	0	0	
+HT	3718426	Delmas 10	residential	1	0	0	
+HT	3718426	Delmas 11	residential	1	0	0	
+HT	3718426	Delmas 12	residential	1	0	0	
+HT	3718426	Delmas 13	residential	1	0	0	
+HT	3718426	Delmas 14	tertiary	1	0	0	
+HT	3718426	Delmas 16	residential	1	0	0	
+HT	3718426	Delmas 17	residential	1	0	0	
+HT	3718426	Delmas 2	tertiary	1	0	0	
+HT	3718426	Delmas 20	residential	1	0	0	
+HT	3718426	Delmas 22	residential	1	0	0	
+HT	3718426	Delmas 22A	residential	1	0	0	
+HT	3718426	Delmas 24	unclassified	1	0	0	
+HT	3718426	Delmas 28	residential	1	0	0	
+HT	3718426	Delmas 28A	residential	1	0	0	
+HT	3718426	Delmas 28B	residential	1	0	0	
+HT	3718426	Delmas 28C	residential	1	0	0	
+HT	3718426	Delmas 33	secondary	1	0	0	
+HT	3718426	Delmas 5	residential	1	0	0	
+HT	3718426	Delmas 7	residential	1	0	0	
+HT	3718426	Delmas 8	residential	1	0	0	
+HT	3718426	Delmas 9	residential	1	0	0	
+HT	3718426	Delmas B1	residential	1	0	0	
+HT	3718426	Derriere Disco	residential	1	0	0	
+HT	3718426	Derrière la Couronne	residential	1	0	0	
+HT	3718426	Devant Cantine	unclassified	1	0	0	
+HT	3718426	Entre Galerie Afrah	residential	1	0	0	
+HT	3718426	Entree Cano	residential	1	0	0	
+HT	3718426	Entree Trantin	residential	1	0	0	
+HT	3718426	Entree Village Madame Ganot(1re entree mine sable)	residential	1	0	0	
+HT	3718426	Entree Village Madame Ganot(3e entree mine sable)	residential	1	0	0	
+HT	3718426	Entree Village Madan Ganot (2eme entree mine sable)	residential	1	0	0	
+HT	3718426	Entrée 4 Charonge	residential	1	0	0	
+HT	3718426	Entrée Andréville	residential	1	0	0	
+HT	3718426	Entrée Balanrin	residential	1	0	0	
+HT	3718426	Entrée Bellecourt	unclassified	1	0	0	
+HT	3718426	Entrée Castel d'Haïti	residential	1	0	0	
+HT	3718426	Entrée Cité Cabrit	residential	1	0	0	
+HT	3718426	Entrée Cité Lumière	residential	1	0	0	
+HT	3718426	Entrée Croix Bleue	residential	1	0	0	
+HT	3718426	Entrée Dos Morne	residential	1	0	0	
+HT	3718426	Entrée Parc du Cheval	residential	1	0	0	
+HT	3718426	Entrée Principale	residential	1	0	0	
+HT	3718426	Entrée Soleil 4	residential	1	0	0	
+HT	3718426	Entrée Terrain Barbancourt	residential	1	0	0	
+HT	3718426	Entrée UNAPPEL	unclassified	1	0	0	
+HT	3718426	Entrée Vallée Heureuse	residential	1	0	0	
+HT	3718426	Entrée Village Démocratie	residential	1	0	0	
+HT	3718426	Entrée du Garage Super Star	residential	1	0	0	
+HT	3718426	Entrée du Soleil 19 et 17	residential	1	0	0	
+HT	3718426	Escalier de Faucon	residential	1	0	0	
+HT	3718426	Fonds Braches	residential	1	0	0	
+HT	3718426	Fontama 47A	residential	1	0	0	
+HT	3718426	Fontamara 27	residential	1	0	0	
+HT	3718426	Fontamara 27 Prolongée	residential	1	0	0	
+HT	3718426	Fontamara 29	residential	1	0	0	
+HT	3718426	Fontamara 31	residential	1	0	0	
+HT	3718426	Fontamara 43	residential	1	0	0	
+HT	3718426	Fontamara 45	residential	1	0	0	
+HT	3718426	Fontamara 47	residential	1	0	0	
+HT	3718426	Haut Castéra	residential	1	0	0	
+HT	3718426	IIème Ruelle Jean Price Mars	residential	1	0	0	
+HT	3718426	Imp Gregroire	residential	1	0	0	
+HT	3718426	Imp Louis	residential	1	0	0	
+HT	3718426	Imp julien Jean	residential	1	0	0	
+HT	3718426	Impasse ( BlocRue Octave Civil )	residential	1	0	0	
+HT	3718426	Impasse 10	residential	1	0	0	
+HT	3718426	Impasse 37	residential	1	0	0	
+HT	3718426	Impasse 39	residential	1	0	0	
+HT	3718426	Impasse 44	residential	1	0	0	
+HT	3718426	Impasse A. Delucien	residential	1	0	0	
+HT	3718426	Impasse Adrien	residential	1	0	0	
+HT	3718426	Impasse Agir Bien	residential	1	0	0	
+HT	3718426	Impasse Ahrendts	residential	1	0	0	
+HT	3718426	Impasse Alexandre	residential	1	0	0	
+HT	3718426	Impasse Alexis	residential	1	0	0	
+HT	3718426	Impasse Andremise	residential	1	0	0	
+HT	3718426	Impasse Andrise	residential	1	0	0	
+HT	3718426	Impasse Angels	residential	1	0	0	
+HT	3718426	Impasse Aristhene	residential	1	0	0	
+HT	3718426	Impasse Armand Francois	living_street	1	0	0	
+HT	3718426	Impasse Ascension	residential	1	0	0	
+HT	3718426	Impasse Azor	residential	1	0	0	
+HT	3718426	Impasse Bazile	residential	1	0	0	
+HT	3718426	Impasse Beaubrun	residential	1	0	0	
+HT	3718426	Impasse Beaubœuf	residential	1	0	0	
+HT	3718426	Impasse Behrmann	residential	1	0	0	
+HT	3718426	Impasse Benoît	residential	1	0	0	
+HT	3718426	Impasse Bien-Aimé	residential	1	0	0	
+HT	3718426	Impasse Blaise	residential	1	0	0	
+HT	3718426	Impasse Boby	residential	1	0	0	
+HT	3718426	Impasse Boffrand	residential	1	0	0	
+HT	3718426	Impasse Bolivar	residential	1	0	0	
+HT	3718426	Impasse Bon Berger	residential	1	0	0	
+HT	3718426	Impasse Bornelus	residential	1	0	0	
+HT	3718426	Impasse Boucard	residential	1	0	0	
+HT	3718426	Impasse Bouchereau	residential	1	0	0	
+HT	3718426	Impasse Boulos	residential	1	0	0	
+HT	3718426	Impasse Boyer	residential	1	0	0	
+HT	3718426	Impasse Bristol 1ère	unclassified	1	0	0	
+HT	3718426	Impasse Brémond	residential	1	0	0	
+HT	3718426	Impasse Cabéche	residential	1	0	0	
+HT	3718426	Impasse Cadet (Laboule 10)	residential	1	0	0	
+HT	3718426	Impasse Canada	residential	1	0	0	
+HT	3718426	Impasse Cantave	residential	1	0	0	
+HT	3718426	Impasse Canthe	residential	1	0	0	
+HT	3718426	Impasse Caraibe	residential	1	0	0	
+HT	3718426	Impasse Cazeaux	residential	1	0	0	
+HT	3718426	Impasse Centrope	residential	1	0	0	
+HT	3718426	Impasse Cetini	residential	1	0	0	
+HT	3718426	Impasse Chabrier	residential	1	0	0	
+HT	3718426	Impasse Champagne	residential	1	0	0	
+HT	3718426	Impasse Charité	residential	1	0	0	
+HT	3718426	Impasse Charité I	residential	1	0	0	
+HT	3718426	Impasse Charité II	residential	1	0	0	
+HT	3718426	Impasse Charlemagne Péralte	residential	1	0	0	
+HT	3718426	Impasse Charles	residential	1	0	0	
+HT	3718426	Impasse Charmeau	pedestrian	1	0	0	
+HT	3718426	Impasse Chepitro	residential	1	0	0	
+HT	3718426	Impasse Cicéron	residential	1	0	0	
+HT	3718426	Impasse Clerment	residential	1	0	0	
+HT	3718426	Impasse Clesca	residential	1	0	0	
+HT	3718426	Impasse Clugny	residential	1	0	0	
+HT	3718426	Impasse Corvington	residential	1	0	0	
+HT	3718426	Impasse Cédor	residential	1	0	0	
+HT	3718426	Impasse Célestin	residential	1	0	0	
+HT	3718426	Impasse Dahlia	residential	1	0	0	
+HT	3718426	Impasse Debrosse	residential	1	0	0	
+HT	3718426	Impasse Decouline	residential	1	0	0	
+HT	3718426	Impasse Dejean	residential	1	0	0	
+HT	3718426	Impasse Delval	residential	1	0	0	
+HT	3718426	Impasse Denis	living_street	1	0	0	
+HT	3718426	Impasse Digue Prolongée	residential	1	0	0	
+HT	3718426	Impasse Dubé Prolongée III	residential	1	0	0	
+HT	3718426	Impasse Ducamel	residential	1	0	0	
+HT	3718426	Impasse Ducasse	residential	1	0	0	
+HT	3718426	Impasse Ducheine	residential	1	0	0	
+HT	3718426	Impasse Dunant	residential	1	0	0	
+HT	3718426	Impasse Duplessy	residential	1	0	0	
+HT	3718426	Impasse Dupont	residential	1	0	0	
+HT	3718426	Impasse Dupuy	residential	1	0	0	
+HT	3718426	Impasse Durocher	residential	1	0	0	
+HT	3718426	Impasse Duverger	residential	1	0	0	
+HT	3718426	Impasse Dzine	residential	1	0	0	
+HT	3718426	Impasse Désiré	residential	1	0	0	
+HT	3718426	Impasse ENES	residential	1	0	0	
+HT	3718426	Impasse Eben-Ezer	residential	1	0	0	
+HT	3718426	Impasse Eden	residential	1	0	0	
+HT	3718426	Impasse Eliazar	residential	1	0	0	
+HT	3718426	Impasse Elisée	residential	1	0	0	
+HT	3718426	Impasse Elohim	residential	1	0	0	
+HT	3718426	Impasse Estimé	residential	1	0	0	
+HT	3718426	Impasse Exumé	residential	1	0	0	
+HT	3718426	Impasse F. Dumas	residential	1	0	0	
+HT	3718426	Impasse Fabre	residential	1	0	0	
+HT	3718426	Impasse Ficaire	residential	1	0	0	
+HT	3718426	Impasse Florian	unclassified	1	0	0	
+HT	3718426	Impasse Francis	residential	1	0	0	
+HT	3718426	Impasse French	residential	1	0	0	
+HT	3718426	Impasse Félix	residential	1	0	0	
+HT	3718426	Impasse G	residential	1	0	0	
+HT	3718426	Impasse G. Carver	residential	1	0	0	
+HT	3718426	Impasse Gardère	residential	1	0	0	
+HT	3718426	Impasse Garionel	residential	1	0	0	
+HT	3718426	Impasse Garnier	residential	1	0	0	
+HT	3718426	Impasse Gauthier	residential	1	0	0	
+HT	3718426	Impasse Geffrard	residential	1	0	0	
+HT	3718426	Impasse Godson	residential	1	0	0	
+HT	3718426	Impasse Gregroire	residential	1	0	0	
+HT	3718426	Impasse Guichard	residential	1	0	0	
+HT	3718426	Impasse Harrens	residential	1	0	0	
+HT	3718426	Impasse Harry	residential	1	0	0	
+HT	3718426	Impasse Holitian	residential	1	0	0	
+HT	3718426	Impasse Houdon	residential	1	0	0	
+HT	3718426	Impasse Ida	residential	1	0	0	
+HT	3718426	Impasse Ijelac	residential	1	0	0	
+HT	3718426	Impasse Ing Alouidor	residential	1	0	0	
+HT	3718426	Impasse J. Chéri	living_street	1	0	0	
+HT	3718426	Impasse Jacques	residential	1	0	0	
+HT	3718426	Impasse Jean-Jacques	residential	1	0	0	
+HT	3718426	Impasse Jean-Paul	residential	1	0	0	
+HT	3718426	Impasse Jeancot	residential	1	0	0	
+HT	3718426	Impasse Joel	residential	1	0	0	
+HT	3718426	Impasse Josaphat	residential	1	0	0	
+HT	3718426	Impasse Joseph	residential	1	0	0	
+HT	3718426	Impasse Josue	residential	1	0	0	
+HT	3718426	Impasse Jésus Roi	residential	1	0	0	
+HT	3718426	Impasse Kervens	residential	1	0	0	
+HT	3718426	Impasse L. Laguerre	residential	1	0	0	
+HT	3718426	Impasse La paix	residential	1	0	0	
+HT	3718426	Impasse Lafontant	residential	1	0	0	
+HT	3718426	Impasse Lallemand	residential	1	0	0	
+HT	3718426	Impasse Lavisse	residential	1	0	0	
+HT	3718426	Impasse Les Manguiers	residential	1	0	0	
+HT	3718426	Impasse Lescot	residential	1	0	0	
+HT	3718426	Impasse Lilas	residential	1	0	0	
+HT	3718426	Impasse Louis	residential	1	0	0	
+HT	3718426	Impasse Loukous	residential	1	0	0	
+HT	3718426	Impasse Love	residential	1	0	0	
+HT	3718426	Impasse Lucien	residential	1	0	0	
+HT	3718426	Impasse Lumière	residential	1	0	0	
+HT	3718426	Impasse Lundi	residential	1	0	0	
+HT	3718426	Impasse Léonard	residential	1	0	0	
+HT	3718426	Impasse Macaya	residential	1	0	0	
+HT	3718426	Impasse Madame Boss	residential	1	0	0	
+HT	3718426	Impasse Madiou	residential	1	0	0	
+HT	3718426	Impasse Malcolm	residential	1	0	0	
+HT	3718426	Impasse Malebranche	residential	1	0	0	
+HT	3718426	Impasse Malheur	residential	1	0	0	
+HT	3718426	Impasse Mansart	residential	1	0	0	
+HT	3718426	Impasse Mapour	residential	1	0	0	
+HT	3718426	Impasse Marie Carmelle	residential	1	0	0	
+HT	3718426	Impasse Marietha	residential	1	0	0	
+HT	3718426	Impasse Martineau	residential	1	0	0	
+HT	3718426	Impasse Maurice	residential	1	0	0	
+HT	3718426	Impasse Max	residential	1	0	0	
+HT	3718426	Impasse Maxim II	residential	1	0	0	
+HT	3718426	Impasse Maxime	residential	1	0	0	
+HT	3718426	Impasse Merci Dieu	residential	1	0	0	
+HT	3718426	Impasse Mirebeau	residential	1	0	0	
+HT	3718426	Impasse Mixen	residential	1	0	0	
+HT	3718426	Impasse Moderne	residential	1	0	0	
+HT	3718426	Impasse Monoville 2	residential	1	0	0	
+HT	3718426	Impasse Monpremier	residential	1	0	0	
+HT	3718426	Impasse Moreau	residential	1	0	0	
+HT	3718426	Impasse Mousin	residential	1	0	0	
+HT	3718426	Impasse Moïse	residential	1	0	0	
+HT	3718426	Impasse Médilien	residential	1	0	0	
+HT	3718426	Impasse Mésange	residential	1	0	0	
+HT	3718426	Impasse N	residential	1	0	0	
+HT	3718426	Impasse Nadal	unclassified	1	0	0	
+HT	3718426	Impasse Nane	residential	1	0	0	
+HT	3718426	Impasse Nazaire	residential	1	0	0	
+HT	3718426	Impasse Neptune	residential	1	0	0	
+HT	3718426	Impasse Nicolo	residential	1	0	0	
+HT	3718426	Impasse Notre Dame des Sept Douleurs	residential	1	0	0	
+HT	3718426	Impasse Nou Se Fanmi	residential	1	0	0	
+HT	3718426	Impasse Noël	residential	1	0	0	
+HT	3718426	Impasse Odilon	residential	1	0	0	
+HT	3718426	Impasse Originale 4	residential	1	0	0	
+HT	3718426	Impasse Pascal	residential	1	0	0	
+HT	3718431	Rue Gaëtan	residential	1	0	0	
+HT	3718431	Rue Marie-Jeanne	residential	1	0	0	
+HT	3718431	Rue Saint-Augustin	residential	1	0	0	
+HT	3718431	Rue Saint-Victor	residential	1	0	0	
+HT	3718431	Rue de Bellevue	residential	1	0	0	
+HT	3718431	Rue de la Convention	residential	1	0	0	
+HT	3718431	Rue de la Place	residential	1	0	0	
+HT	3718431	Rue du Calvaire	residential	1	0	0	
+HT	3718431	Rue du Commerce	unclassified	1	0	0	
+HT	3718431	Rue du Port	secondary	1	0	0	
+HT	3718431	Rue du Progrès	residential	1	0	0	
+HT	3718431	Rue du Rosaire	residential	1	0	0	
+HT	3718666	Rout Deye Lari	residential	1	0	0	
+HT	3718666	Route Nationale # 1	primary	1	0	0	
+HT	3718666	Rue Amboise	residential	1	0	0	
+HT	3718707	Impasse Isabelle	residential	1	0	0	
+HT	3718707	Impasse Lumière	residential	1	0	0	
+HT	3718707	Impasse du Bonheur sans issue	residential	1	0	0	
+HT	3718707	Route Nationale # 1	primary	1	0	0	
+HT	3718707	Route de Tosia	unclassified	1	0	0	
+HT	3718707	Rue Christophe	residential	1	0	0	
+HT	3718707	Rue Christopher Hernandez	residential	1	0	0	
+HT	3718707	Rue Gard	unclassified	1	0	0	
+HT	3718707	Rue Isabelle	tertiary	1	0	0	
+HT	3718707	Rue Jean-Jacques Dessalines	residential	1	0	0	
+HT	3718707	Rue Saint-Jacques	unclassified	1	0	0	
+HT	3718707	Rue Solom	residential	1	0	0	
+HT	3718826	Route Grande-Savane	residential	1	0	0	
+HT	3718834	Avenue Jean Jacques Dessalines		3	37	70	
+HT	3718834	Avenue Toussaint Louverture	primary	2	161	175	
+HT	3718834	Rue du Souvenir	unclassified	2	9	17	
+HT	3718834	Avenue Jean-Jacques Dessalines	primary	1	0	0	
+HT	3718834	Avenue Notre-Dame	unclassified	1	0	0	
+HT	3718834	Route Nationale # 3	primary	1	0	0	
+HT	3718834	Route de Guacimale	unclassified	1	0	0	
+HT	3718834	Route de La Victoire	tertiary	1	0	0	
+HT	3718834	Route de l'Aérodome	unclassified	1	0	0	
+HT	3718834	Rue Hôpital de Bienfaisance	unclassified	1	0	0	
+HT	3718834	Rue Saint-Éloi	unclassified	1	0	0	
+HT	3718834	Rue du Flamboyant	unclassified	1	0	0	
+HT	3718834	Rue du Laurier Rose	unclassified	1	0	0	
+HT	3718924	Route de Paulette	tertiary	1	0	0	
+HT	3718924	Route de Phaëton	tertiary	1	0	0	
+HT	3718938	Boulevard de la Liberté	unclassified	1	0	0	
+HT	3718938	Route Départementale # 201	secondary	1	0	0	
+HT	3718938	Rue Dauphiné	residential	1	0	0	
+HT	3718938	Rue d'Orléans	residential	1	0	0	
+HT	3718938	Rue de l'Église	residential	1	0	0	
+HT	3718938	Rue du Quai	residential	1	0	0	
+HT	3718962	Route Nationale # 2	primary	3	8490	8952	
+HT	3718962	Rue Républicaine	tertiary	3	480	3074	
+HT	3718962	Rue Dessalines		2	49	328	
+HT	3718962	1re Avenue Lafond	residential	1	0	0	
+HT	3718962	1ère Impasse Benoît	residential	1	0	0	
+HT	3718962	2e Avenue Lafond	residential	1	0	0	
+HT	3718962	2e Avenue de la Liberté	residential	1	0	0	
+HT	3718962	2eme Avenue Liberte	residential	1	0	0	
+HT	3718962	2ème Impasse Benoît	residential	1	0	0	
+HT	3718962	3ème Impasse Benoît	residential	1	0	0	
+HT	3718962	5ème Impasse Fond Fabre	residential	1	0	0	
+HT	3718962	Avenue Fondfable	residential	1	0	0	
+HT	3718962	Avenue Gaston	residential	1	0	0	
+HT	3718962	Avenue La Hatte	tertiary	1	0	0	
+HT	3718962	Avenue de la Liberté	residential	1	0	0	
+HT	3718962	Avenue de la Liberté Prolongée I	residential	1	0	0	
+HT	3718962	Avenue de la Liberté Prolongée II	residential	1	0	0	
+HT	3718962	Avenue des Abeilles	tertiary	1	0	0	
+HT	3718962	Avenue des Roulottes	residential	1	0	0	
+HT	3718962	Bloc Kay Rigal	residential	1	0	0	
+HT	3718962	Caiman Bridge	primary	1	0	0	
+HT	3718962	Entree Vallue	unclassified	1	0	0	
+HT	3718962	Entrée Belavni	residential	1	0	0	
+HT	3718962	Entrée Cité Pecheur	residential	1	0	0	
+HT	3718962	Entrée Parc Anglade	residential	1	0	0	
+HT	3718962	Entrée du Marché Seradote	residential	1	0	0	
+HT	3718962	Imp soleil	residential	1	0	0	
+HT	3718962	Impasse Embelic	residential	1	0	0	
+HT	3718962	Impasse Jeanty	residential	1	0	0	
+HT	3718962	Impasse Louco	residential	1	0	0	
+HT	3718962	Impasse Meo	residential	1	0	0	
+HT	3718962	Impasse Vil Meney la Hatte	residential	1	0	0	
+HT	3718962	La Digue Bridge	primary	1	0	0	
+HT	3718962	POINT ENDOMAGE	residential	1	0	0	
+HT	3718962	Petit Guinée Bridge	tertiary	1	0	0	
+HT	3718962	Route Grande Savanne	residential	1	0	0	
+HT	3718962	Route Ki Perlier	residential	1	0	0	
+HT	3718962	Route Nan 50	residential	1	0	0	
+HT	3718962	Route Petit Letan	residential	1	0	0	
+HT	3718962	Rue Bazelais	residential	1	0	0	
+HT	3718962	Rue Borno	residential	1	0	0	
+HT	3718962	Rue Boyer	residential	1	0	0	
+HT	3718962	Rue Béatrice	residential	1	0	0	
+HT	3718962	Rue Capois	residential	1	0	0	
+HT	3718962	Rue D'eau Petit	residential	1	0	0	
+HT	3718962	Rue Derrière Caserne	residential	1	0	0	
+HT	3718962	Rue Deye Kay Madan Albert	residential	1	0	0	
+HT	3718962	Rue Durocher	residential	1	0	0	
+HT	3718962	Rue Faustin 1er	residential	1	0	0	
+HT	3718962	Rue Fort-Liberté	residential	1	0	0	
+HT	3718962	Rue Geffrard	residential	1	0	0	
+HT	3718962	Rue Guirand	residential	1	0	0	
+HT	3718962	Rue Jean-Jacques Dessalines	residential	1	0	0	
+HT	3718962	Rue Lamarre	residential	1	0	0	
+HT	3718962	Rue Lamarre prolongee	residential	1	0	0	
+HT	3718962	Rue Leconte	residential	1	0	0	
+HT	3718962	Rue Louverture	residential	1	0	0	
+HT	3718962	Rue Louverture Prolongee	residential	1	0	0	
+HT	3718962	Rue Maranatha	residential	1	0	0	
+HT	3718962	Rue Norton	residential	1	0	0	
+HT	3718962	Rue Notre-Dame	residential	1	0	0	
+HT	3718962	Rue Pétion	tertiary	1	0	0	
+HT	3718962	Rue Saint-Paul	residential	1	0	0	
+HT	3718962	Rue Soulouque	residential	1	0	0	
+HT	3718962	Rue Toussaint	residential	1	0	0	
+HT	3718962	Rue Usine La Paix	residential	1	0	0	
+HT	3718962	Rue de l'Enterrement	residential	1	0	0	
+HT	3718962	Rue de l'enterrement	residential	1	0	0	
+HT	3718962	Rue de la Fraternité	residential	1	0	0	
+HT	3718962	Rue de la Justice	residential	1	0	0	
+HT	3718962	Rue de la Paix	residential	1	0	0	
+HT	3718962	Rue de la Solidarité	residential	1	0	0	
+HT	3718962	Rue de la Solidarité Prolongée	residential	1	0	0	
+HT	3718962	Rue des Vignes	residential	1	0	0	
+HT	3718962	Rue du Bon Repos	residential	1	0	0	
+HT	3718962	Rue du Port	residential	1	0	0	
+HT	3718962	Rue du Quai Douane	residential	1	0	0	
+HT	3718962	Ruelle Can	residential	1	0	0	
+HT	3718962	Ruelle Galbo	residential	1	0	0	
+HT	3718962	Ruelle J-H Foucault	residential	1	0	0	
+HT	3718962	Ruelle de l'Anglade	residential	1	0	0	
+HT	3718975	Chemin de Nan Tranquille	unclassified	1	0	0	
+HT	3718975	Chemin du Veillard	unclassified	1	0	0	
+HT	3718975	Entree du college	residential	1	0	0	
+HT	3718975	Route Départementale # 201	secondary	1	0	0	
+HT	3718975	Route L'hopital	unclassified	1	0	0	
+HT	3718975	Route de O'Rouck	tertiary	1	0	0	
+HT	3718975	Route du pare	residential	1	0	0	
+HT	3718975	Route fond Dupuy	unclassified	1	0	0	
+HT	3718975	Route residentielle	residential	1	0	0	
+HT	3718975	Route residentielle /Cite des Profeseurs	unclassified	1	0	0	
+HT	3718975	Rue Mass	unclassified	1	0	0	
+HT	3719028	Rue Rebecca	unclassified	13	10	73	
+HT	3719028	Rue Louverture	unclassified	12	103	137	
+HT	3719028	Route de Kenscoff	secondary	10	1	70	
+HT	3719028	Route de Delmas	primary	9	393	571	
+HT	3719028	Rue Grégoire	secondary	9	23	113	
+HT	3719028	Rue Lambert	tertiary	9	19	79	
+HT	3719028	Rue Lamarre	secondary	7	17	50	
+HT	3719028	Rue Metellus	tertiary	7	2	55	
+HT	3719028	Route de Péguy-Ville	tertiary	6	18	42	
+HT	3719028	Rue Borno	residential	6	19	39	
+HT	3719028	Rue Clerveaux	unclassified	6	36	71	
+HT	3719028	Rue Darguin	unclassified	6	2	42	
+HT	3719028	Avenue Pan Américaine		5	45	157	
+HT	3719028	Route Montagne Noire	tertiary	5	8	50	
+HT	3719028	Rue Ogé	tertiary	5	7	30	
+HT	3719028	rue Villate		5	57	60	
+HT	3719028	Pélerin 6		4	57	64	
+HT	3719028	Rue Faubert	secondary	4	125	179	
+HT	3719028	Rue Rigaud	tertiary	4	19	39	
+HT	3719028	Rue des Pins	residential	4	6	16	
+HT	3719028	Avenue Nelson Mandela		3	15	124	
+HT	3719028	Impasse Albin	residential	3	4	77	
+HT	3719028	Route de Frères (Delmas 105)	secondary	3	57	300	
+HT	3719028	Route du Canapé Vert	tertiary	3	104	113	
+HT	3719028	Rue Charlemagne Péralte	residential	3	23	90	
+HT	3719028	Rue Lamothe	tertiary	3	3	17	
+HT	3719028	rue Metellus		3	22	35	
+HT	3719028	Impasse Pétion	residential	2	6	93	
+HT	3719028	Impasse la Joie		2	18	18	
+HT	3719028	Puits Blain		2	5	6	
+HT	3719028	Rue Bailly	residential	2	1	5	
+HT	3719028	Rue Chancy	unclassified	2	7	12	
+HT	3719028	Rue Chavannes		2	29	50	
+HT	3719028	Rue Goulard		2	5	22	
+HT	3719028	Rue Moise 1		2	19	27	
+HT	3719028	Rue Villate	unclassified	2	12	299	
+HT	3719028	Rue Vivy Mitchell	tertiary	2	18	55	
+HT	3719028	rue Darguin		2	42	44	
+HT	3719028	rue Goulard		2	10	10	
+HT	3719028	rue Louverture		2	111	120	
+HT	3719028	rue Rebecca		2	2	12	
+HT	3719028	1e Rue P. Michel L. Thérésa	residential	1	0	0	
+HT	3719028	1er Impasse Rouanez	residential	1	0	0	
+HT	3719028	1re Impasse Audant	residential	1	0	0	
+HT	3719028	2e Impasse Audant	residential	1	0	0	
+HT	3719028	2e Rue P. Michel L. Thérésa	residential	1	0	0	
+HT	3719028	2em Impasse Rouanez	residential	1	0	0	
+HT	3719028	2ème Impasse Marc	residential	1	0	0	
+HT	3719028	Avenue Dunlop	residential	1	0	0	
+HT	3719028	Avenue des Platons	residential	1	0	0	
+HT	3719028	Bois Pernier	residential	1	0	0	
+HT	3719028	Bois Pernier I	residential	1	0	0	
+HT	3719028	Boulevard Duplan	unclassified	1	0	0	
+HT	3719028	Boulevard de Corbier	unclassified	1	0	0	
+HT	3719028	Boulevard des Entrepreneurs	unclassified	1	0	0	
+HT	3719028	Boulevard du 13 Octobre (Route de Tabarre)	secondary	1	0	0	
+HT	3719028	Chemin de l'Étang	unclassified	1	0	0	
+HT	3719028	Chemin du Caille Boucan	unclassified	1	0	0	
+HT	3719028	Delmas 101	residential	1	0	0	
+HT	3719028	Delmas 105	secondary	1	0	0	
+HT	3719028	Delmas 60	tertiary	1	0	0	
+HT	3719028	Delmas 62	residential	1	0	0	
+HT	3719028	Delmas 64	residential	1	0	0	
+HT	3719028	Delmas 66	residential	1	0	0	
+HT	3719028	Delmas 66B	residential	1	0	0	
+HT	3719028	Delmas 68	residential	1	0	0	
+HT	3719028	Delmas 70	residential	1	0	0	
+HT	3719028	Delmas 89	residential	1	0	0	
+HT	3719028	Delmas 91	residential	1	0	0	
+HT	3719028	Delmas 97	residential	1	0	0	
+HT	3719028	Do Rigol	residential	1	0	0	
+HT	3719028	Entree Village du Souvenir	residential	1	0	0	
+HT	3719028	Entrée Parc du Souvenir	residential	1	0	0	
+HT	3719028	Entrée Village des Pionniers	residential	1	0	0	
+HT	3719028	Entrée du 23 Septembre	residential	1	0	0	
+HT	3719028	F35	residential	1	0	0	
+HT	3719028	F36A	residential	1	0	0	
+HT	3719028	F37	residential	1	0	0	
+HT	3719028	F38	residential	1	0	0	
+HT	3719028	F39	residential	1	0	0	
+HT	3719028	F41	residential	1	0	0	
+HT	3719028	F41A	residential	1	0	0	
+HT	3719028	F42	residential	1	0	0	
+HT	3719028	Fermathe 45	residential	1	0	0	
+HT	3719028	Fermathe 60	residential	1	0	0	
+HT	3719028	Fj 18	tertiary	1	0	0	
+HT	3719028	Fj 19	residential	1	0	0	
+HT	3719028	Fj 9	residential	1	0	0	
+HT	3719028	Fj 9A	residential	1	0	0	
+HT	3719028	Frère 21A	residential	1	0	0	
+HT	3719028	Frère 22	residential	1	0	0	
+HT	3719028	Frère 23	residential	1	0	0	
+HT	3719028	Frère 29	residential	1	0	0	
+HT	3719028	Frère 33	residential	1	0	0	
+HT	3719028	Impasse 10	residential	1	0	0	
+HT	3719028	Impasse 4	residential	1	0	0	
+HT	3719028	Impasse 6	residential	1	0	0	
+HT	3719028	Impasse A. Baptiste	residential	1	0	0	
+HT	3719028	Impasse A. Couloute	residential	1	0	0	
+HT	3719028	Impasse Accoyee	residential	1	0	0	
+HT	3719028	Impasse Alfred Vieux	residential	1	0	0	
+HT	3719028	Impasse Anacréon	residential	1	0	0	
+HT	3719028	Impasse Angervil	residential	1	0	0	
+HT	3719028	Impasse Anna	residential	1	0	0	
+HT	3719028	Impasse Aubry	residential	1	0	0	
+HT	3719028	Impasse Baptiste	residential	1	0	0	
+HT	3719028	Impasse Barreau	residential	1	0	0	
+HT	3719028	Impasse Basquiat	residential	1	0	0	
+HT	3719028	Impasse Beaumont	residential	1	0	0	
+HT	3719028	Impasse Besse	residential	1	0	0	
+HT	3719028	Impasse Bois Jean-Charles	residential	1	0	0	
+HT	3719028	Impasse Breda	residential	1	0	0	
+HT	3719028	Impasse C. Fouchard	residential	1	0	0	
+HT	3719028	Impasse Chacha Laguerre	residential	1	0	0	
+HT	3719028	Impasse Chanlatte	residential	1	0	0	
+HT	3719028	Impasse Crispin	residential	1	0	0	
+HT	3719028	Impasse Croicour	tertiary	1	0	0	
+HT	3719028	Impasse Delinoire	residential	1	0	0	
+HT	3719028	Impasse Dorcesar	residential	1	0	0	
+HT	3719028	Impasse E. Roy	residential	1	0	0	
+HT	3719028	Impasse Ebenezer	residential	1	0	0	
+HT	3719028	Impasse Edouard	residential	1	0	0	
+HT	3719028	Impasse Famille	residential	1	0	0	
+HT	3719028	Impasse Fonrose	residential	1	0	0	
+HT	3719028	Impasse Fortune	residential	1	0	0	
+HT	3719028	Impasse Frère Léon	residential	1	0	0	
+HT	3719028	Impasse G. Jabon	residential	1	0	0	
+HT	3719028	Impasse Gerard	residential	1	0	0	
+HT	3719028	Impasse Germain	residential	1	0	0	
+HT	3719028	Impasse Gracieuse	residential	1	0	0	
+HT	3719028	Impasse Gérard	residential	1	0	0	
+HT	3719028	Impasse Gérard (Publin 9)	residential	1	0	0	
+HT	3719028	Impasse H. McDonald	residential	1	0	0	
+HT	3719028	Impasse Hardy	residential	1	0	0	
+HT	3719028	Impasse Haspil	residential	1	0	0	
+HT	3719028	Impasse Henriette	residential	1	0	0	
+HT	3719028	Impasse Hugues	residential	1	0	0	
+HT	3719028	Impasse Immaculate	residential	1	0	0	
+HT	3719028	Impasse Israël	residential	1	0	0	
+HT	3719028	Impasse Ixius	residential	1	0	0	
+HT	3719028	Impasse Izmery	residential	1	0	0	
+HT	3719028	Impasse Jacques	residential	1	0	0	
+HT	3719028	Impasse Jean-Baptiste	residential	1	0	0	
+HT	3719028	Impasse Jean-Louis	residential	1	0	0	
+HT	3719028	Impasse Jean-Louis F.	residential	1	0	0	
+HT	3719028	Impasse Jean-Phillippe	residential	1	0	0	
+HT	3719028	Impasse Jeanty	residential	1	0	0	
+HT	3719028	Impasse Joachin	residential	1	0	0	
+HT	3719028	Impasse Jocelyne	residential	1	0	0	
+HT	3719028	Impasse Joseph	residential	1	0	0	
+HT	3719028	Impasse Julie	residential	1	0	0	
+HT	3719028	Impasse Jérôme	residential	1	0	0	
+HT	3719028	Impasse La Paix	residential	1	0	0	
+HT	3719028	Impasse Larose	residential	1	0	0	
+HT	3719028	Impasse Lavache	residential	1	0	0	
+HT	3719028	Impasse Lherisson	residential	1	0	0	
+HT	3719028	Impasse Louissaint	residential	1	0	0	
+HT	3719028	Impasse Lumière	residential	1	0	0	
+HT	3719028	Impasse Léon Nau	residential	1	0	0	
+HT	3719028	Impasse M. Augustin	pedestrian	1	0	0	
+HT	3719028	Impasse Malet	residential	1	0	0	
+HT	3719028	Impasse Mangones	residential	1	0	0	
+HT	3719028	Impasse Manigat	residential	1	0	0	
+HT	3719028	Impasse Melirome	residential	1	0	0	
+HT	3719028	Impasse Mercier	residential	1	0	0	
+HT	3719028	Impasse Mesmin	residential	1	0	0	
+HT	3719028	Impasse Monoville	residential	1	0	0	
+HT	3719028	Impasse Moore	residential	1	0	0	
+HT	3719028	Impasse Morne Fort	residential	1	0	0	
+HT	3719028	Impasse Moïse	residential	1	0	0	
+HT	3719028	Impasse Mère Térésa	residential	1	0	0	
+HT	3719028	Impasse Nicolas	residential	1	0	0	
+HT	3719028	Impasse Notre Dame	unclassified	1	0	0	
+HT	3719028	Impasse Oseille	residential	1	0	0	
+HT	3719028	Impasse Pamake	residential	1	0	0	
+HT	3719028	Impasse Pierre Charles	residential	1	0	0	
+HT	3719028	Impasse Pierrot	residential	1	0	0	
+HT	3719028	Impasse Pépon	residential	1	0	0	
+HT	3719028	Impasse Pére Huc	residential	1	0	0	
+HT	3719028	Impasse Périclès	residential	1	0	0	
+HT	3719028	Impasse Quenepes	residential	1	0	0	
+HT	3719028	Impasse Ragel	residential	1	0	0	
+HT	3719028	Impasse Rapadou	residential	1	0	0	
+HT	3719028	Impasse Reme	residential	1	0	0	
+HT	3719028	Impasse S. Oline	residential	1	0	0	
+HT	3719028	Impasse S.Oline	residential	1	0	0	
+HT	3719028	Impasse Saint Jude	residential	1	0	0	
+HT	3719028	Impasse Saint Louis	residential	1	0	0	
+HT	3719028	Impasse Saint-Augustin	residential	1	0	0	
+HT	3719028	Impasse Saint-Charbel	residential	1	0	0	
+HT	3719028	Impasse Saint-Marc	residential	1	0	0	
+HT	3719028	Impasse Saint-Marc (Frère 23)	unclassified	1	0	0	
+HT	3719028	Impasse Saint-Pierre	residential	1	0	0	
+HT	3719028	Impasse Sainte-Claire	residential	1	0	0	
+HT	3719028	Impasse Salem	residential	1	0	0	
+HT	3719028	Impasse Sophie	residential	1	0	0	
+HT	3719028	Impasse T. Devilme	residential	1	0	0	
+HT	3719028	Impasse Tamaree	residential	1	0	0	
+HT	3719028	Impasse Ti Sous	residential	1	0	0	
+HT	3719028	Impasse Ulysse	residential	1	0	0	
+HT	3719099	Route de Roche Plate	tertiary	1	0	0	
+HT	3719099	Route de Vallières	tertiary	1	0	0	
+HT	3719099	Route des Perches	tertiary	1	0	0	
+HT	3719436	Rue du Fort	residential	2	9	20	
+HT	3719436	rue de l´enterrement		2	19	218	
+HT	3719436	Ancienne Route Nationale 6	unclassified	1	0	0	
+HT	3719436	Avenue Capois	residential	1	0	0	
+HT	3719436	Avenue Président Joseph Davilmar Théodore	tertiary	1	0	0	
+HT	3719436	Cite Gaillard	residential	1	0	0	
+HT	3719436	Cite Planteau	residential	1	0	0	
+HT	3719436	Cité Carrefour Lape	tertiary	1	0	0	
+HT	3719436	Cité Don	residential	1	0	0	
+HT	3719436	Cité Tibo	residential	1	0	0	
+HT	3719436	Mache Poisson	tertiary	1	0	0	
+HT	3719436	Nationale No 6 ancienne	unclassified	1	0	0	
+HT	3719436	Route Nationale # 6	primary	1	0	0	
+HT	3719436	Route Nationale # 6 ancienne	unclassified	1	0	0	
+HT	3719436	Route de Chauvel	residential	1	0	0	
+HT	3719436	Route de la Zone Franche	tertiary	1	0	0	
+HT	3719436	Rue Alexandre Borgella	residential	1	0	0	
+HT	3719436	Rue Benoît Joachim	residential	1	0	0	
+HT	3719436	Rue Capria	residential	1	0	0	
+HT	3719436	Rue Courbe	residential	1	0	0	
+HT	3719436	Rue EDH	residential	1	0	0	
+HT	3719436	Rue Edouard Mackenzie	residential	1	0	0	
+HT	3719436	Rue Espagnole	primary	1	0	0	
+HT	3719436	Rue Général Dorcilien	residential	1	0	0	
+HT	3720455	3	residential	1	0	0	
+HT	3720455	Route Départementale 702	secondary	1	0	0	
+HT	3720455	Rue de l'Hôpital	residential	1	0	0	
+HT	3720455	Rue du Marché	residential	1	0	0	
+HT	3720455	colette	unclassified	1	0	0	
+HT	3720667	Route Départementale 602	secondary	1	0	0	
+HT	3720765	Route Communale 502A	tertiary	1	0	0	
+HT	3720765	Rue Christian Moïse	residential	1	0	0	
+HT	3720765	Rue François Duvalier	residential	1	0	0	
+HT	3720765	Rue de la Liberté	residential	1	0	0	
+HT	3720811	Rue Jean-Philippe Daut		5	40	57	
+HT	3720811	Avenue de l'Europe	primary	1	0	0	
+HT	3720811	Boulevard Jean-Jacques Dessalines	secondary	1	0	0	
+HT	3720811	Impasse Benito	unclassified	1	0	0	
+HT	3720811	Nationale No 3	unclassified	1	0	0	
+HT	3720811	Pont La Thème	secondary	1	0	0	
+HT	3720811	Route Départementale 101	secondary	1	0	0	
+HT	3720811	Route Nationale # 3	primary	1	0	0	
+HT	3720811	Route de Fort Bovaire	unclassified	1	0	0	
+HT	3720811	Route de Lascahobas	primary	1	0	0	
+HT	3720811	Route de la Grand Boucan	unclassified	1	0	0	
+HT	3720811	Rue Benoît Batraville	unclassified	1	0	0	
+HT	3720811	Rue Boisrond-Tonnerre	residential	1	0	0	
+HT	3720811	Rue Capois	residential	1	0	0	
+HT	3720811	Rue Cenora	residential	1	0	0	
+HT	3720811	Rue Chatulee	secondary	1	0	0	
+HT	3720811	Rue Clerveaux	residential	1	0	0	
+HT	3720811	Rue Clerveaux Prolongée	unclassified	1	0	0	
+HT	3720811	Rue Ferdinand	residential	1	0	0	
+HT	3720811	Rue Fond Mombin	unclassified	1	0	0	
+HT	3720811	Rue Fort Anglais 1	residential	1	0	0	
+HT	3720811	Rue Fort Anglais 2	residential	1	0	0	
+HT	3720811	Rue Gabard	residential	1	0	0	
+HT	3720811	Rue Gedren	residential	1	0	0	
+HT	3720824	Ancienne Route Nationale # 2	unclassified	1	0	0	
+HT	3720824	Rond-Point des Ruisseaux	primary	1	0	0	
+HT	3720824	Route Nationale # 2	primary	1	0	0	
+HT	3720824	Route de Calon	tertiary	1	0	0	
+HT	3720824	Rue Bel-Air 1	tertiary	1	0	0	
+HT	3720824	Rue Isaac	residential	1	0	0	
+HT	3720824	Rue de l'École	residential	1	0	0	
+HT	3720824	Rue du Cimetière	residential	1	0	0	
+HT	3720824	Rue du Collège	residential	1	0	0	
+HT	3720824	Rue du Port	residential	1	0	0	
+HT	3720854	Route Nationale # 3	primary	1	0	0	
+HT	3720854	Route de Cadush	unclassified	1	0	0	
+HT	3720854	Route de Milot	tertiary	1	0	0	
+HT	3720854	Route des Trois Ravines	unclassified	1	0	0	
+HT	3720854	Route du Carrefour Lalande	residential	1	0	0	
+HT	3720854	Route du Carrefour des Pères	unclassified	1	0	0	
+HT	3720854	Rue du Dispensaire	unclassified	1	0	0	
+HT	3721280	Route de Marmelade	secondary	1	0	0	
+HT	3721313	Route Départementale 402	secondary	1	0	0	
+HT	3721313	Rue Mathurin	residential	1	0	0	
+HT	3721313	Rue Saint-Pierre	residential	1	0	0	
+HT	3721313	Rue de l'Église	residential	1	0	0	
+HT	3721313	Rue de la Patrie	residential	1	0	0	
+HT	3721313	Rue de la Place	residential	1	0	0	
+HT	3721313	Rue de la Ravine Sèche	residential	1	0	0	
+HT	3721313	Rue du Bois Thomas	residential	1	0	0	
+HT	3721313	Rue du Corossol	residential	1	0	0	
+HT	3721313	Rue du Petit Feuille	residential	1	0	0	
+HT	3721313	Rue du Port	residential	1	0	0	
+HT	3721313	Ti Peredo	unclassified	1	0	0	
+HT	3721711	Route Départementale 304	secondary	1	0	0	
+HT	3721711	Rue Garcy	unclassified	1	0	0	
+HT	3722110	inconnu	residential	3007	0	0	
+HT	3722110	Inconnu	residential	504	0	0	
+HT	3722110	Route de Bord de Mer	residential	92	0	0	
+HT	3722110	Rue Sainte Catherine		55	0	0	
+HT	3722110	Bellevue palais roi		54	0	0	
+HT	3722110	Calvaire	residential	53	0	0	
+HT	3722110	Talent	residential	51	0	0	
+HT	3722110	Rue Saint Melon		44	0	0	
+HT	3722110	Rue abattoir		23	0	0	
+HT	3722110	in	residential	23	0	0	
+HT	3722110	Impasse madame François		19	0	0	
+HT	3722110	Rue prison		19	0	0	
+HT	3722124	rue capois la mort		2	2134	2134	
+HT	3722124	Route Départementale 110	tertiary	1	0	0	
+HT	3722124	Route L'Ecole Nationale Souffriere	residential	1	0	0	
+HT	3722124	Route Nationale # 1	primary	1	0	0	
+HT	3722124	Route Ravine Des Roches	residential	1	0	0	
+HT	3722124	Route Souffriere	unclassified	1	0	0	
+HT	3722124	Rue Boyer	residential	1	0	0	
+HT	3722124	Rue Gabart	residential	1	0	0	
+HT	3722239	Route Départementale 702	secondary	1	0	0	
+HT	3722253	Pont de Les Anglais	secondary	1	0	0	
+HT	3722253	Route Départementale 702	secondary	1	0	0	
+HT	3722253	Rue Douyon	residential	1	0	0	
+HT	3722253	Rue Débauchée I	residential	1	0	0	
+HT	3722253	Rue Débauchée II	residential	1	0	0	
+HT	3722253	Rue Immaculée	residential	1	0	0	
+HT	3722253	Rue Jean-Claude	residential	1	0	0	
+HT	3722253	Rue Marion	residential	1	0	0	
+HT	3722253	Rue Nouvelle	residential	1	0	0	
+HT	3722253	Rue Saint-Antoine	residential	1	0	0	
+HT	3722253	Rue Saint-Jospeh	residential	1	0	0	
+HT	3722253	Rue Sainte-Anne	residential	1	0	0	
+HT	3722253	Rue Ti Source	residential	1	0	0	
+HT	3722253	Rue Traversière	residential	1	0	0	
+HT	3722253	Rue de la Place	residential	1	0	0	
+HT	3722253	Rue du Bois de Chêne	residential	1	0	0	
+HT	3722253	Rue du Calvaire	residential	1	0	0	
+HT	3722253	Rue du Cornet	residential	1	0	0	
+HT	3722253	Rue du Quai	residential	1	0	0	
+HT	3722253	Rue du Registre	tertiary	1	0	0	
+HT	3722253	Ruelle des Avocats	residential	1	0	0	
+HT	3722253	residential road	residential	1	0	0	
+HT	3722286	Rue Lavandye		4	1	333	
+HT	3722286	Nationale Highway #2		2	0	0	
+HT	3722286	Ruelle Elvie	residential	2	4	4	
+HT	3722286	1e Impasse Durandisse	unclassified	1	0	0	
+HT	3722286	2e Impasse Durandisse	residential	1	0	0	
+HT	3722286	3e Impasse Durandisse	residential	1	0	0	
+HT	3722286	5e Impasse Durandisse	residential	1	0	0	
+HT	3722286	8e Impasse Durandisse	residential	1	0	0	
+HT	3722286	Andan K-Bro	residential	1	0	0	
+HT	3722286	Andan K-Zido	unclassified	1	0	0	
+HT	3722286	Avenue Coloniale	unclassified	1	0	0	
+HT	3722286	Avenue Saint-Mathieu	unclassified	1	0	0	
+HT	3722286	Avenue de Surin	residential	1	0	0	
+HT	3722286	Bord de Mer	unclassified	1	0	0	
+HT	3722286	Boulevard Mariani	unclassified	1	0	0	
+HT	3722286	Boulevard Pierre Backer	unclassified	1	0	0	
+HT	3722286	Carrefour Pont Cadette	unclassified	1	0	0	
+HT	3722286	Cite Lotion	residential	1	0	0	
+HT	3722286	Corridor Brangui	unclassified	1	0	0	
+HT	3722286	Entre Saint Dominique	residential	1	0	0	
+HT	3722286	Entree Binot	unclassified	1	0	0	
+HT	3722286	Entree Marche Touriste	residential	1	0	0	
+HT	3722286	Entree Taciana Hotel	residential	1	0	0	
+HT	3722286	Entree cotin	unclassified	1	0	0	
+HT	3722286	Entré Cité Bourgeois	residential	1	0	0	
+HT	3722286	Entré Nan Reserve	tertiary	1	0	0	
+HT	3722286	Entrée Bire	unclassified	1	0	0	
+HT	3722286	Entrée Bois Lamé	residential	1	0	0	
+HT	3722286	Entrée Bolosse	residential	1	0	0	
+HT	3722286	Entrée Cabaron	residential	1	0	0	
+HT	3722286	Entrée Chartuley	residential	1	0	0	
+HT	3722286	Entrée Cité Bourgeois 1	residential	1	0	0	
+HT	3722286	Entrée Cité Bourgeois 2	residential	1	0	0	
+HT	3722286	Entrée Cité Napoléon	residential	1	0	0	
+HT	3722286	Entrée Haut Bire	unclassified	1	0	0	
+HT	3722286	Entrée K-Royale	residential	1	0	0	
+HT	3722286	Entrée Momance	residential	1	0	0	
+HT	3722286	Entrée Médecins Sans Frontières	residential	1	0	0	
+HT	3722286	Entrée Nan Francik	residential	1	0	0	
+HT	3722286	Entrée Nan Piquant	residential	1	0	0	
+HT	3722286	Entrée Nan Reserve	unclassified	1	0	0	
+HT	3722286	Entrée Nan Reserve 1	residential	1	0	0	
+HT	3722286	Entrée Reserve A	tertiary	1	0	0	
+HT	3722286	Entrée Sanatorium	residential	1	0	0	
+HT	3722286	Entrée d'Anazie	residential	1	0	0	
+HT	3722286	Grand Rue	tertiary	1	0	0	
+HT	3722286	Haut Bire	unclassified	1	0	0	
+HT	3722286	Imp Leger	residential	1	0	0	
+HT	3722286	Imp Therzuma	residential	1	0	0	
+HT	3722286	Impasse 10	residential	1	0	0	
+HT	3722286	Impasse Bathol	unclassified	1	0	0	
+HT	3722286	Impasse Chénier	residential	1	0	0	
+HT	3722286	Impasse Decharles Saint Phalon	residential	1	0	0	
+HT	3722286	Impasse Flon	residential	1	0	0	
+HT	3722286	Impasse de la Fleur	residential	1	0	0	
+HT	3722286	Impasse de la Poudrière	residential	1	0	0	
+HT	3722286	La Salle	unclassified	1	0	0	
+HT	3722286	Mon pré zon Morel	unclassified	1	0	0	
+HT	3722286	Nan Zonbi	residential	1	0	0	
+HT	3722286	Pont	residential	1	0	0	
+HT	3722286	Route Barriere Jeudi	unclassified	1	0	0	
+HT	3722286	Route Belle Fortune	unclassified	1	0	0	
+HT	3722286	Route Beloc	unclassified	1	0	0	
+HT	3722286	Route Bineau lapointe	residential	1	0	0	
+HT	3722286	Route Bois l' etang	unclassified	1	0	0	
+HT	3722286	Route Brache	unclassified	1	0	0	
+HT	3722286	Route Cimitiere mon pré	residential	1	0	0	
+HT	3722286	Route Degaille	residential	1	0	0	
+HT	3722286	Route Grande Savanne	residential	1	0	0	
+HT	3722286	Route K-Kouran	residential	1	0	0	
+HT	3722286	Route K-boko, Babeau	unclassified	1	0	0	
+HT	3722286	Route K_Chandelle	unclassified	1	0	0	
+HT	3722286	Route Lon pré	unclassified	1	0	0	
+HT	3722286	Route Mapou Dampistre	tertiary	1	0	0	
+HT	3722286	Route Michel	unclassified	1	0	0	
+HT	3722286	Route Morel	residential	1	0	0	
+HT	3722286	Route Nationale # 2	primary	1	0	0	
+HT	3722286	Route Nationale # 4	primary	1	0	0	
+HT	3722286	Route Nolivos	unclassified	1	0	0	
+HT	3722286	Route Reno	unclassified	1	0	0	
+HT	3722286	Route Saint André	unclassified	1	0	0	
+HT	3722286	Route corlle	residential	1	0	0	
+HT	3722286	Route de Bagadere	unclassified	1	0	0	
+HT	3722286	Route de Belvald	residential	1	0	0	
+HT	3722286	Route de Bire	unclassified	1	0	0	
+HT	3722286	Route de Ca-Ira	unclassified	1	0	0	
+HT	3722286	Route de Casale	residential	1	0	0	
+HT	3722286	Route de Darbonne	unclassified	1	0	0	
+HT	3722286	Route de Pandou	unclassified	1	0	0	
+HT	3722286	Route de Pandou (Cité Macelle)	unclassified	1	0	0	
+HT	3722286	Route de la Colline (Entrée Christian Ville)	unclassified	1	0	0	
+HT	3722286	Route du Canal Mithon	residential	1	0	0	
+HT	3722286	Route du Carrefour Sigueneau	unclassified	1	0	0	
+HT	3722286	Route du Courdé	residential	1	0	0	
+HT	3722286	Route du Mellier	unclassified	1	0	0	
+HT	3722286	Route du Merger	unclassified	1	0	0	
+HT	3722286	Route du Petit Bassin	unclassified	1	0	0	
+HT	3722286	Route nan Bannan	residential	1	0	0	
+HT	3722286	Rue Bas Macombre	unclassified	1	0	0	
+HT	3722286	Rue Bas Muton	residential	1	0	0	
+HT	3722339	Rue Fort Joachim	residential	1	0	0	
+HT	3722339	Rue Républicaine	residential	1	0	0	
+HT	3722339	Rue de l'Enterrement	residential	1	0	0	
+HT	3722339	Rue de l'Église	residential	1	0	0	
+HT	3722339	Rue de la Paroisse	residential	1	0	0	
+HT	3722339	Rue des Pecheurs	residential	1	0	0	
+HT	3722339	Rue des Pitons	residential	1	0	0	
+HT	3722339	Rue du Gingembre Fort	residential	1	0	0	
+HT	3722339	Rue du Marché	residential	1	0	0	
+HT	3722563	Route Communale 200B	unclassified	1	0	0	
+HT	3722563	Route Communale 201A	tertiary	1	0	0	
+HT	3722563	Route Communale 204A	tertiary	1	0	0	
+HT	3722563	Route Départamentale	tertiary	1	0	0	
+HT	3722563	Rue de l'École	residential	1	0	0	
+HT	3722563	Rue de la Place	residential	1	0	0	
+HT	3722563	Rue du Cimetière	residential	1	0	0	
+HT	3722579	Avenue Fortuna	residential	1	0	0	
+HT	3722579	Rue Aumond	residential	1	0	0	
+HT	3722579	Rue Bonne Foi	residential	1	0	0	
+HT	3722579	Rue Caivaire	primary	1	0	0	
+HT	3722579	Rue Roldolphe Gardere	primary	1	0	0	
+HT	3722579	Rue Saint-André	residential	1	0	0	
+HT	3722579	Rue Saint-François	residential	1	0	0	
+HT	3722579	Rue Sténio Vincent	primary	1	0	0	
+HT	3722579	Rue Toussaint Louverture	residential	1	0	0	
+HT	3722579	Rue de l'Union	residential	1	0	0	
+HT	3722579	Rue de l'Église	residential	1	0	0	
+HT	3722579	Rue de la Source	residential	1	0	0	
+HT	3722579	Rue du Calvaire	residential	1	0	0	
+HT	3722579	Rue du Cimetière	unclassified	1	0	0	
+HT	3722579	Ruelle des Contributions	residential	1	0	0	
+HT	3723440	Chemin de Débauche	residential	1	0	0	
+HT	3723440	Fermathe 63	residential	1	0	0	
+HT	3723440	Fj 12	residential	1	0	0	
+HT	3723440	Fj 6	residential	1	0	0	
+HT	3723440	Fj 8	residential	1	0	0	
+HT	3723440	Impasse Lalue	residential	1	0	0	
+HT	3723440	Kenscoff 67	unclassified	1	0	0	
+HT	3723440	Kenscoff 77	residential	1	0	0	
+HT	3723440	Kenscoff 78	residential	1	0	0	
+HT	3723440	Route Départementale 108	secondary	1	0	0	
+HT	3723440	Route de Fort Jacques	tertiary	1	0	0	
+HT	3723440	Route de Kenscoff	secondary	1	0	0	
+HT	3723440	Rue Lotin	unclassified	1	0	0	
+HT	3723440	Rue St Nicolas	residential	1	0	0	
+HT	3723593	2e Rue de Genève	residential	1	0	0	
+HT	3723593	Avenue Simon Duvalier	unclassified	1	0	0	
+HT	3723593	Route Bombom	secondary	1	0	0	
+HT	3723593	Route Départementale 702	secondary	1	0	0	
+HT	3723593	Route Nationale # 7	primary	1	0	0	
+HT	3723593	Route de la Maison des Jeunes	residential	1	0	0	
+HT	3723593	Rue Abbé Huet	residential	1	0	0	
+HT	3723593	Rue Adrien Brutus	residential	1	0	0	
+HT	3723593	Rue Alexandre Pétion	residential	1	0	0	
+HT	3723593	Rue Brice Aînée	tertiary	1	0	0	
+HT	3723593	Rue Destinville Martineau	residential	1	0	0	
+HT	3723593	Rue Docteur Hyppolite	residential	1	0	0	
+HT	3723593	Rue Eugène Margron	tertiary	1	0	0	
+HT	3723593	Rue Hotrensius Merlet	secondary	1	0	0	
+HT	3723593	Rue Monseigneur Beauger	residential	1	0	0	
+HT	3723593	Rue N. Pierre	residential	1	0	0	
+HT	3723593	Rue Nan Brouette	residential	1	0	0	
+HT	3723593	Rue Nord Alexis	residential	1	0	0	
+HT	3723593	Rue Saint-Léger Pierre	residential	1	0	0	
+HT	3723593	Rue Source Dommage	secondary	1	0	0	
+HT	3723593	Rue de Genève	residential	1	0	0	
+HT	3723593	Rue du Stade	residential	1	0	0	
+HT	3723618	Rue Sténio Vincent	secondary	2	55	73	
+HT	3723618	Route Bazin	residential	1	0	0	
+HT	3723618	Route Coicou	secondary	1	0	0	
+HT	3723618	Route Communale 102A	tertiary	1	0	0	
+HT	3723618	Route de Beldorin	unclassified	1	0	0	
+HT	3723618	Route de Fond Ramadou	unclassified	1	0	0	
+HT	3723618	Route du Bord-de-Mer de Jean-Rabel	unclassified	1	0	0	
+HT	3723618	Route du Poirier	residential	1	0	0	
+HT	3723618	Route lot bo Dlo	secondary	1	0	0	
+HT	3723618	Rue Charlemagne Péralte	secondary	1	0	0	
+HT	3723618	Rue Fidelia	residential	1	0	0	
+HT	3723618	Rue Jeanne	residential	1	0	0	
+HT	3723618	Rue Jhohanne	residential	1	0	0	
+HT	3723618	Rue Larieux	residential	1	0	0	
+HT	3723618	Rue Morne Pasteur	residential	1	0	0	
+HT	3723618	Rue Notre-Dame-de-la-Paix	unclassified	1	0	0	
+HT	3723618	Rue Odette Désir	residential	1	0	0	
+HT	3723618	Rue Pasteur Brown	residential	1	0	0	
+HT	3723618	Rue Place d'Armes	residential	1	0	0	
+HT	3723618	Rue Saint-Jean	residential	1	0	0	
+HT	3723618	Rue Saint-Pierre	unclassified	1	0	0	
+HT	3723618	Rue de l'Enterrement	residential	1	0	0	
+HT	3723618	Rue du Lycée	residential	1	0	0	
+HT	3723779	Avenue de la Liberté	primary	2	37	37	
+HT	3723779	1ère Rue Beaudoin 1	unclassified	1	0	0	
+HT	3723779	1ère Rue Depré Turnier	unclassified	1	0	0	
+HT	3723779	1ère Rue de la Combite	unclassified	1	0	0	
+HT	3723779	Anba Kenèp	residential	1	0	0	
+HT	3723779	Antitone	unclassified	1	0	0	
+HT	3723779	Avenue Jean	residential	1	0	0	
+HT	3723779	BAS MIDI	residential	1	0	0	
+HT	3723779	BAS ST CYR	tertiary	1	0	0	
+HT	3723779	BONICA	residential	1	0	0	
+HT	3723779	Bassin Caiman	residential	1	0	0	
+HT	3723779	Beaudoine de Lavanneau	residential	1	0	0	
+HT	3723779	Bellevue	unclassified	1	0	0	
+HT	3723779	CRÉAC	unclassified	1	0	0	
+HT	3723779	Cap des Maréchaux	unclassified	1	0	0	
+HT	3723779	Cap des Maréchaux Prolongée	residential	1	0	0	
+HT	3723779	Carre Pingouin	residential	1	0	0	
+HT	3723779	Cité 2000	residential	1	0	0	
+HT	3723779	Corail Serin	unclassified	1	0	0	
+HT	3723779	Culbité	residential	1	0	0	
+HT	3723779	Dekan	residential	1	0	0	
+HT	3723779	Fond Fevrier	residential	1	0	0	
+HT	3723779	Fort Baril	residential	1	0	0	
+HT	3723779	Impasse Beaudoin 1	unclassified	1	0	0	
+HT	3723779	Impasse Complexe de Monchil	residential	1	0	0	
+HT	3723779	Impasse Jedi	residential	1	0	0	
+HT	3723779	Impasse Kapresse	residential	1	0	0	
+HT	3723779	Impasse Labidou	residential	1	0	0	
+HT	3723779	Impasse Langloire	unclassified	1	0	0	
+HT	3723779	Impasse Mekredi	unclassified	1	0	0	
+HT	3723779	Impasse Saint-Jean-Baptiste	unclassified	1	0	0	
+HT	3723779	Impasse Vandredi	residential	1	0	0	
+HT	3723779	Impasse de Mayard	residential	1	0	0	
+HT	3723779	Jerusalem	residential	1	0	0	
+HT	3723779	Joassaint Adonis	unclassified	1	0	0	
+HT	3723779	Kalabat	unclassified	1	0	0	
+HT	3723779	MORNE ROUGE - BAS MIDI	residential	1	0	0	
+HT	3723779	NAN BENJAMIN	unclassified	1	0	0	
+HT	3723779	NAN MANGO	residential	1	0	0	
+HT	3723779	NAN TOUSSAINT	residential	1	0	0	
+HT	3723779	Nan Jaden Anba	tertiary	1	0	0	
+HT	3723779	Nan Pont	tertiary	1	0	0	
+HT	3723779	Platon Danyèl	residential	1	0	0	
+HT	3723779	Portail la Gosseline	tertiary	1	0	0	
+HT	3723779	Roger	unclassified	1	0	0	
+HT	3723779	Route Communale # 400A	unclassified	1	0	0	
+HT	3723779	Route Communale 400B	tertiary	1	0	0	
+HT	3723779	Route Départementale # 401	secondary	1	0	0	
+HT	3723779	Route Départementale 402	secondary	1	0	0	
+HT	3723779	Route Nationale # 4	primary	1	0	0	
+HT	3723779	Route de Bremant	residential	1	0	0	
+HT	3723779	Route de Camp Mayard	unclassified	1	0	0	
+HT	3723779	Route de La Fond	unclassified	1	0	0	
+HT	3723779	Route de Monchil	residential	1	0	0	
+HT	3723779	Route de la Paix	residential	1	0	0	
+HT	3723779	Route des Orangers	unclassified	1	0	0	
+HT	3723779	Rue Beaudoin 1	unclassified	1	0	0	
+HT	3723779	Rue Beauvais	residential	1	0	0	
+HT	3723779	Rue Belcombe	residential	1	0	0	
+HT	3723779	Rue Bernier	residential	1	0	0	
+HT	3723779	Rue Bing	residential	1	0	0	
+HT	3723779	Rue Boisrond Tonnerre	residential	1	0	0	
+HT	3723779	Rue Bourbon	residential	1	0	0	
+HT	3723779	Rue Breman	unclassified	1	0	0	
+HT	3723779	Rue Chariotine Maroodieu	residential	1	0	0	
+HT	3723779	Rue Dauphiné	residential	1	0	0	
+HT	3723779	Rue Douger	unclassified	1	0	0	
+HT	3723779	Rue Dupré Turnier	residential	1	0	0	
+HT	3723779	Rue Emmeline C. Lemaire	unclassified	1	0	0	
+HT	3723779	Rue Exina Gilles	unclassified	1	0	0	
+HT	3723779	Rue Fernand	residential	1	0	0	
+HT	3723779	Rue Fevrile	residential	1	0	0	
+HT	3723779	Rue Fort Relache	residential	1	0	0	
+HT	3723779	Rue Henry Christophe	residential	1	0	0	
+HT	3723779	Rue Isaac Pardo	unclassified	1	0	0	
+HT	3723779	Rue Joassaint Adonis	unclassified	1	0	0	
+HT	3723779	Rue Luce Turner	unclassified	1	0	0	
+HT	3723779	Rue Maboir	residential	1	0	0	
+HT	3723779	Rue Magloire Ambroise	residential	1	0	0	
+HT	3723779	Rue Marcillion Croicour	residential	1	0	0	
+HT	3723779	Rue Marie Jean-Pierre	unclassified	1	0	0	
+HT	3723779	Rue Massillion Coicou	unclassified	1	0	0	
+HT	3723779	Rue Mesmair	unclassified	1	0	0	
+HT	3723779	Rue Mesmer	unclassified	1	0	0	
+HT	3723779	Rue Morne Ogé	residential	1	0	0	
+HT	3723779	Rue Normande	residential	1	0	0	
+HT	3723779	Rue Papa Chateau	unclassified	1	0	0	
+HT	3723779	Rue Plateau Jérôme	residential	1	0	0	
+HT	3723779	Rue Port Bainet	tertiary	1	0	0	
+HT	3723779	Rue Projetée	residential	1	0	0	
+HT	3723779	Rue Pétion	unclassified	1	0	0	
+HT	3723779	Rue Raquette	residential	1	0	0	
+HT	3723779	Rue Saint-Anne	residential	1	0	0	
+HT	3723779	Rue Saint-Augustin	unclassified	1	0	0	
+HT	3723779	Rue Saint-Jacques	residential	1	0	0	
+HT	3723779	Rue Sainte-Hélène	unclassified	1	0	0	
+HT	3723779	Rue Sainte-Thérèse	unclassified	1	0	0	
+HT	3723779	Rue Senkilòt	residential	1	0	0	
+HT	3723779	Rue Seymour Pradel	unclassified	1	0	0	
+HT	3723779	Rue Suzane Louverture	residential	1	0	0	
+HT	3723841	Rue Toussaint Louverture	primary	3	151	163	
+HT	3723841	Ancienne Route Nationale No 3	unclassified	1	0	0	
+HT	3723841	Avenue Docteur François Duvalier	unclassified	1	0	0	
+HT	3723841	Avenue Fouchard	residential	1	0	0	
+HT	3723841	Avenue Michelle B. Duvalier	unclassified	1	0	0	
+HT	3723841	Avenue Monseigneur Descoste	residential	1	0	0	
+HT	3723841	Impasse de la Paix	residential	1	0	0	
+HT	3723841	Philippe Guerrier	residential	1	0	0	
+HT	3723841	Pont de Grand Quine	unclassified	1	0	0	
+HT	3723841	Route Départementale 302	secondary	1	0	0	
+HT	3723841	Route Départementale 304	secondary	1	0	0	
+HT	3723841	Route Nationale # 3	primary	1	0	0	
+HT	3723841	Route de Contournement de Hinche	tertiary	1	0	0	
+HT	3723841	Rue A. Jean Gilles	unclassified	1	0	0	
+HT	3723841	Rue Anténor Firmin	residential	1	0	0	
+HT	3723841	Rue Boisrond Tonnerre	residential	1	0	0	
+HT	3723841	Rue Boukman	residential	1	0	0	
+HT	3723841	Rue C. Louverture	residential	1	0	0	
+HT	3723841	Rue Capois La Mort	unclassified	1	0	0	
+HT	3723841	Rue Charlemagne Péralte	unclassified	1	0	0	
+HT	3723841	Rue Daniel Fignolé	unclassified	1	0	0	
+HT	3723841	Rue Dumarsais Estimé	residential	1	0	0	
+HT	3723841	Rue Ernest Malary	residential	1	0	0	
+HT	3723841	Rue Faustin Soulouque	residential	1	0	0	
+HT	3723841	Rue G Mesidor	unclassified	1	0	0	
+HT	3723841	Rue G. Mesidor	unclassified	1	0	0	
+HT	3723841	Rue Gerard Vignette 1	residential	1	0	0	
+HT	3723841	Rue Gérard Vignette 1	residential	1	0	0	
+HT	3723841	Rue Gérard Vignette 2	residential	1	0	0	
+HT	3723841	Rue Hammerton Killick	unclassified	1	0	0	
+HT	3723841	Rue Henri Christophe	unclassified	1	0	0	
+HT	3723841	Rue Jean-Jacques Dessalines	unclassified	1	0	0	
+HT	3723841	Rue Jean-Pierre Boyer	unclassified	1	0	0	
+HT	3723841	Rue Joseph Jean-Claude	residential	1	0	0	
+HT	3723841	Rue Lalau	residential	1	0	0	
+HT	3723841	Rue Lamartinière	residential	1	0	0	
+HT	3723841	Rue Leslie François Manigat	residential	1	0	0	
+HT	3723841	Rue Macandal	residential	1	0	0	
+HT	3723841	Rue Médée	unclassified	1	0	0	
+HT	3723841	Rue Nelson Mandela	unclassified	1	0	0	
+HT	3723841	Rue Nord Alexis	residential	1	0	0	
+HT	3723841	Rue Paul Eugene Magloire	secondary	1	0	0	
+HT	3723841	Rue Paul Eugène Magloire	secondary	1	0	0	
+HT	3723841	Rue Philip Guerrier	residential	1	0	0	
+HT	3723841	Rue Père Jean-Marie Vincent	residential	1	0	0	
+HT	3723841	Rue Saint-Martin	residential	1	0	0	
+HT	3723841	Rue Saint-Michel	residential	1	0	0	
+HT	3723841	Rue Sainte-Catherine	unclassified	1	0	0	
+HT	3724145	Rue Basse	residential	4	20	89	
+HT	3724145	Rue du Palais	unclassified	3	48	87	
+HT	3724145	Route Nationale # 5	primary	2	67	94	
+HT	3724145	Ruelle Saint Louis	residential	2	10	12	
+HT	3724145	stenio vincent		2	154	154	
+HT	3724145	Rue Alexandre Pétion	residential	1	0	0	
+HT	3724145	Rue Balmir	residential	1	0	0	
+HT	3724145	Rue Bonne Foi	residential	1	0	0	
+HT	3724145	Rue Borgne	residential	1	0	0	
+HT	3724145	Rue Bwawon Kanal	residential	1	0	0	
+HT	3724145	Rue Hyppolite	residential	1	0	0	
+HT	3724145	Rue Jolicoeur	residential	1	0	0	
+HT	3724145	Rue Lebrin	residential	1	0	0	
+HT	3724145	Rue Sainte-Cécile	residential	1	0	0	
+HT	3724145	Rue Salnave	residential	1	0	0	
+HT	3724145	Rue Solomon	residential	1	0	0	
+HT	3724145	Rue Souti	residential	1	0	0	
+HT	3724145	Rue d'Amboise	residential	1	0	0	
+HT	3724145	Rue de la Fraîcheur	residential	1	0	0	
+HT	3724145	Rue de la Paix	residential	1	0	0	
+HT	3724145	Rue du Centre	residential	1	0	0	
+HT	3724145	Rue Échalote	residential	1	0	0	
+HT	3724233	1ère Rue K-Paix	residential	1	0	0	
+HT	3724233	1ère Ruelle Saint-Antoine	residential	1	0	0	
+HT	3724233	2ème Ruelle Saint-Antoine	residential	1	0	0	
+HT	3724233	Avenue Chery Gâteau	residential	1	0	0	
+HT	3724233	Avenue K-Gato	residential	1	0	0	
+HT	3724233	Barrière Godin	residential	1	0	0	
+HT	3724233	Barrière Godin Prolongée	residential	1	0	0	
+HT	3724233	Bloc Saint-Antoine	residential	1	0	0	
+HT	3724233	Boulevard du 14 Août 1960 (Entrée Laferronnay)	unclassified	1	0	0	
+HT	3724233	Cité Bourgeoise	residential	1	0	0	
+HT	3724233	Cité de la Source	residential	1	0	0	
+HT	3724233	Colombier 11	residential	1	0	0	
+HT	3724233	Colombier 9	residential	1	0	0	
+HT	3724233	Entree Belle Vague	residential	1	0	0	
+HT	3724233	Entree Petit Boucan	residential	1	0	0	
+HT	3724233	Entrée Carina Beach	residential	1	0	0	
+HT	3724233	Entrée Christian Ville	tertiary	1	0	0	
+HT	3724233	Entrée Milou Beach	residential	1	0	0	
+HT	3724233	Impasse Alcide	residential	1	0	0	
+HT	3724233	Impasse Lumière	residential	1	0	0	
+HT	3724233	Impasse Saint Louis	residential	1	0	0	
+HT	3724233	Impasse Saint-Louis	residential	1	0	0	
+HT	3724233	Impasse Théophile	residential	1	0	0	
+HT	3724233	Impasse de l'Amitié	residential	1	0	0	
+HT	3724233	Localité Datwa	residential	1	0	0	
+HT	3724233	Nan Singe	residential	1	0	0	
+HT	3724233	Quartier Vert	residential	1	0	0	
+HT	3724233	Route Boco	unclassified	1	0	0	
+HT	3724233	Route Santo	unclassified	1	0	0	
+HT	3724233	Route de Collin	unclassified	1	0	0	
+HT	3724233	Route de Ferbin	residential	1	0	0	
+HT	3724233	Route de Santo	residential	1	0	0	
+HT	3724233	Route de Ti Goave	unclassified	1	0	0	
+HT	3724233	Route de Valou Beach	unclassified	1	0	0	
+HT	3724233	Route des Bambous	residential	1	0	0	
+HT	3724233	Route du Bois Bassa	unclassified	1	0	0	
+HT	3724233	Route du Bois Lassale	residential	1	0	0	
+HT	3724233	Rue Alexandre Xavier	residential	1	0	0	
+HT	3724233	Rue Auguste	residential	1	0	0	
+HT	3724233	Rue Bas Flon	residential	1	0	0	
+HT	3724233	Rue Bazlais	residential	1	0	0	
+HT	3724233	Rue Bocco	unclassified	1	0	0	
+HT	3724233	Rue Cajuste	residential	1	0	0	
+HT	3724233	Rue Estanis Chery	unclassified	1	0	0	
+HT	3724233	Rue Fierté Ville	unclassified	1	0	0	
+HT	3724233	Rue Figaro	residential	1	0	0	
+HT	3724233	Rue François Buisson	unclassified	1	0	0	
+HT	3724233	Rue Geffrard Prolongée	unclassified	1	0	0	
+HT	3724331	Marre Vielle Terre	unclassified	1	0	0	
+HT	3724331	Route Départementale 402	secondary	1	0	0	
+HT	3724331	Route de Bodaire	tertiary	1	0	0	
+HT	3724331	École Mahot	unclassified	1	0	0	
+HT	3724337	2e Impasse Taino	unclassified	1	0	0	
+HT	3724337	Avenue Jean Simon	tertiary	1	0	0	
+HT	3724337	Entree Bas Campoin	residential	1	0	0	
+HT	3724337	Entree Vallue	unclassified	1	0	0	
+HT	3724337	Entrée Bas Campoin	residential	1	0	0	
+HT	3724337	Entrée Gros Jacques	unclassified	1	0	0	
+HT	3724337	Entrée Haut Campoin	unclassified	1	0	0	
+HT	3724337	Entrée Sable	residential	1	0	0	
+HT	3724337	Entrée Sensatoin	unclassified	1	0	0	
+HT	3724337	Entrée Taïna	tertiary	1	0	0	
+HT	3724337	Entrée de la Detente Mays Beach	residential	1	0	0	
+HT	3724337	Etree Thozin	unclassified	1	0	0	
+HT	3724337	Impasse Christianville	residential	1	0	0	
+HT	3724337	Impasse Jean Simon	residential	1	0	0	
+HT	3724337	Impasse Lifenine	residential	1	0	0	
+HT	3724337	Impasse Rémy	residential	1	0	0	
+HT	3724337	Impasse de l'Amitié	residential	1	0	0	
+HT	3724337	Impasse de l'Amitié 1	residential	1	0	0	
+HT	3724337	Petit Paradis Entree Bord de Mer	residential	1	0	0	
+HT	3724337	Route Bas-I-Kondo	unclassified	1	0	0	
+HT	3724337	Route Deschamps	unclassified	1	0	0	
+HT	3724337	Route Nationale # 2	primary	1	0	0	
+HT	3724337	Route de Dano	unclassified	1	0	0	
+HT	3724337	Route de New Palm's Beach	residential	1	0	0	
+HT	3724337	Route de la Petite Savanne	tertiary	1	0	0	
+HT	3724337	Route de la Terre des Hommes	unclassified	1	0	0	
+HT	3724337	Rue Alexandre Pétion	residential	1	0	0	
+HT	3724337	Rue B. Julien	residential	1	0	0	
+HT	3724337	Rue B. Tonnere	unclassified	1	0	0	
+HT	3724337	Rue Boisrond Tonnerre	tertiary	1	0	0	
+HT	3724337	Rue Boisrond Tonnerre Prolongée	tertiary	1	0	0	
+HT	3724337	Rue Bourg Anglais	residential	1	0	0	
+HT	3724337	Rue Christophe	unclassified	1	0	0	
+HT	3724337	Rue Concorde	residential	1	0	0	
+HT	3724337	Rue Courte	residential	1	0	0	
+HT	3724337	Rue Jean Simon	residential	1	0	0	
+HT	3724337	Rue Jérome Bijou	residential	1	0	0	
+HT	3724337	Rue Jérome Bijou Prolongée	residential	1	0	0	
+HT	3724337	Rue Mon Plaisir	residential	1	0	0	
+HT	3724337	Rue Saint-François	tertiary	1	0	0	
+HT	3724337	Rue de la Constitution	residential	1	0	0	
+HT	3724337	Rue de la Fraternité	residential	1	0	0	
+HT	3724337	Rue de la Liberté	unclassified	1	0	0	
+HT	3724337	Rue de la Paix	residential	1	0	0	
+HT	3724337	Rue de la Paix Prolongée	residential	1	0	0	
+HT	3724337	Rue des Artistes	residential	1	0	0	
+HT	3724337	Rue du Bienheureux	residential	1	0	0	
+HT	3724337	Rue du Cimetière	residential	1	0	0	
+HT	3724432	Route de Gervegt	unclassified	1	0	0	
+HT	3724432	Route de Gervet et Lagrange	unclassified	1	0	0	
+HT	3724432	Rue Principale	tertiary	1	0	0	
+HT	3724432	Rue de la Paroisse	residential	1	0	0	
+HT	3724439	inconnu	residential	250	0	0	
+HT	3724439	in		2	0	0	
+HT	3724439	Campeche	unclassified	1	0	0	
+HT	3724439	Route Communale 600B	tertiary	1	0	0	
+HT	3724439	Route Nationale # 3	primary	1	0	0	
+HT	3724439	Route de Bahon	tertiary	1	0	0	
+HT	3724439	Route de la Grande-Rivière-du-Nord	tertiary	1	0	0	
+HT	3724439	Rue Jean Price Mars	residential	1	0	0	
+HT	3724439	Rue de la Paroisse	unclassified	1	0	0	
+HT	3724439	Rue de la Place	residential	1	0	0	
+HT	3724439	Rue du Cimetière	unclassified	1	0	0	
+HT	3724439	Ruelle de l'Hôpital	residential	1	0	0	
+HT	3724696	Acipha,ruelle Immaculee		3	11	22	
+HT	3724696	Gatereau9		3	1	19	
+HT	3724696	Route Dattes		3	64	64	
+HT	3724696	rue louverture		3	0	0	
+HT	3724696	Avenues des dattes		2	150	150	
+HT	3724696	Rue Louverture	tertiary	2	55	55	
+HT	3724696	Rue Lozamar	unclassified	2	131	131	
+HT	3724696	angle rue christophe et geffrard		2	197	197	
+HT	3724696	angle rue st charles et rue liberte		2	85	85	
+HT	3724696	avenue des dattes, imp Gachette		2	112	112	
+HT	3724696	avenue lumane casimir		2	10	10	
+HT	3724696	egalite bas raboteau		2	187	187	
+HT	3724696	fabre nicolas gefrard		2	99	99	
+HT	3724696	rue geffrard		2	40	40	
+HT	3724696	rue vernet		2	0	0	
+HT	3724696	ruelle esperance		2	14	14	
+HT	3724696	ruelle sacre coeur		2	1	1	
+HT	3724696	1er Impasse Ovilmar	residential	1	0	0	
+HT	3724696	1er imp.2em Ruelle Vertiere	residential	1	0	0	
+HT	3724696	1re Ruelle Azor	residential	1	0	0	
+HT	3724696	1ère Impasse 1ère Roland	residential	1	0	0	
+HT	3724696	1ère Impasse 2ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	1ère Impasse Macklambouro	residential	1	0	0	
+HT	3724696	1ère Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	1ère Ruelle Dumond	unclassified	1	0	0	
+HT	3724696	1ère Ruelle Fleurissaint	residential	1	0	0	
+HT	3724696	1ère Ruelle Ovilmar	residential	1	0	0	
+HT	3724696	1ère Ruelle Roger	residential	1	0	0	
+HT	3724696	1ère Ruelle de la Conscience	residential	1	0	0	
+HT	3724696	2e Ruelle Garnier	residential	1	0	0	
+HT	3724696	2em Ruelle Bathol	residential	1	0	0	
+HT	3724696	2ème Impasse 2ème Ruelle Dupiton	residential	1	0	0	
+HT	3724696	2ème Impasse 3ème Dupiton 3	residential	1	0	0	
+HT	3724696	2ème Impasse 3ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	2ème Ruelle Bathol	residential	1	0	0	
+HT	3724696	2ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	2ème Ruelle Dumond	residential	1	0	0	
+HT	3724696	2ème Ruelle Fleurissaint	residential	1	0	0	
+HT	3724696	2ème Ruelle Garnier	residential	1	0	0	
+HT	3724696	2ème Ruelle Roger	residential	1	0	0	
+HT	3724696	2ème Ruelle de la Patience	residential	1	0	0	
+HT	3724696	2ème Ruelle de la Sagesse	residential	1	0	0	
+HT	3724696	2ème Ruelle de la Vertière	residential	1	0	0	
+HT	3724696	3e Ruelle Roger	residential	1	0	0	
+HT	3724696	3em ruelle roland passant par 1er ruelle roland	residential	1	0	0	
+HT	3724696	3ème Impasse 3ème Dupiton 3	residential	1	0	0	
+HT	3724696	3ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	3ème Ruelle Dupiton Prolongée	residential	1	0	0	
+HT	3724696	3ème Ruelle Roger	residential	1	0	0	
+HT	3724696	3ème Ruelle Sajous	residential	1	0	0	
+HT	3724696	4ème Ruelle Dupiton	residential	1	0	0	
+HT	3724696	4ème Ruelle Roland	residential	1	0	0	
+HT	3724696	7ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	Avenue Amiral Killick	primary	1	0	0	
+HT	3724696	Avenue Léon Legros	residential	1	0	0	
+HT	3724696	Avenue des Dattes	primary	1	0	0	
+HT	3724696	Bienac 1	unclassified	1	0	0	
+HT	3724696	Bienac 10	residential	1	0	0	
+HT	3724696	Bienac 12	residential	1	0	0	
+HT	3724696	Bienac 13	residential	1	0	0	
+HT	3724696	Bienac 14	residential	1	0	0	
+HT	3724696	Bienac 2	unclassified	1	0	0	
+HT	3724696	Bienac 24	unclassified	1	0	0	
+HT	3724696	Bienac 3	residential	1	0	0	
+HT	3724696	Bienac 4	residential	1	0	0	
+HT	3724696	Bienac 5	residential	1	0	0	
+HT	3724696	Bienac 6	residential	1	0	0	
+HT	3724696	Bienac 7	residential	1	0	0	
+HT	3724696	Bienac 8	residential	1	0	0	
+HT	3724696	Bienac 9	residential	1	0	0	
+HT	3724696	Bois d'Homme	residential	1	0	0	
+HT	3724696	Bois d'homme	residential	1	0	0	
+HT	3724696	Boulevard de l'Avenir	residential	1	0	0	
+HT	3724696	Bretagne 6	residential	1	0	0	
+HT	3724696	Bretagne 7	residential	1	0	0	
+HT	3724696	Cinquième Villa Gardère	residential	1	0	0	
+HT	3724696	Deuxième Impasse Cinquième Villa Gardère	residential	1	0	0	
+HT	3724696	Deuxième Impasse Céline I	residential	1	0	0	
+HT	3724696	Deuxième Impasse Céline II	residential	1	0	0	
+HT	3724696	Deuxième Impasse Espérance	residential	1	0	0	
+HT	3724696	Deuxième Impasse de l'Espérance	residential	1	0	0	
+HT	3724696	Deuxième Ruelle Lafleur	residential	1	0	0	
+HT	3724696	Deuxième Ruelle Saintilus	residential	1	0	0	
+HT	3724696	Deuxième Ruelle de l'Espérance	residential	1	0	0	
+HT	3724696	Deuxème Ruelle Espérance	residential	1	0	0	
+HT	3724696	Gatereau 1	residential	1	0	0	
+HT	3724696	Gatereau 11	residential	1	0	0	
+HT	3724696	Gatereau 13	residential	1	0	0	
+HT	3724696	Gatereau 15	residential	1	0	0	
+HT	3724696	Gatereau 17	residential	1	0	0	
+HT	3724696	Gatereau 19	residential	1	0	0	
+HT	3724696	Gatereau 3	residential	1	0	0	
+HT	3724696	Gatereau 5	residential	1	0	0	
+HT	3724696	Gatereau 7	residential	1	0	0	
+HT	3724696	Gatereau 9	residential	1	0	0	
+HT	3724696	Gatreau 21	residential	1	0	0	
+HT	3724696	Gatreau 7	residential	1	0	0	
+HT	3724696	Impasse	residential	1	0	0	
+HT	3724696	Impasse 7ème Ruelle Cité Chrétienne Trou Sable	residential	1	0	0	
+HT	3724696	Impasse Alexis	residential	1	0	0	
+HT	3725170	Rue Saint Charles		12	1	65	
+HT	3725170	Rue La Paix		5	1	59	
+HT	3725170	Rue Montarche	residential	5	14	70	
+HT	3725170	Rue du Quai	residential	4	64	141	
+HT	3725170	Rue Bory	unclassified	2	25	27	
+HT	3725170	Rue Dauphine		2	12	12	
+HT	3725170	Avenue Sténio Vincent	unclassified	1	0	0	
+HT	3725170	Impasse Anacel	residential	1	0	0	
+HT	3725170	Route Nationale # 6	primary	1	0	0	
+HT	3725170	Route de Dumas	tertiary	1	0	0	
+HT	3725170	Route de Meillac	tertiary	1	0	0	
+HT	3725170	Route de Phaëton	tertiary	1	0	0	
+HT	3725170	Rue Anacaona	residential	1	0	0	
+HT	3725170	Rue Carrénage	residential	1	0	0	
+HT	3725170	Rue Chada	unclassified	1	0	0	
+HT	3725170	Rue Dauphiné	residential	1	0	0	
+HT	3725170	Rue Honoré Goessens	residential	1	0	0	
+HT	3725170	Rue Marie-Jeanne	residential	1	0	0	
+HT	3725170	Rue Montacher	residential	1	0	0	
+HT	3725170	Rue Saint-Charles	residential	1	0	0	
+HT	3725170	Rue Saint-Etienne	residential	1	0	0	
+HT	3725170	Rue Saint-Jean	residential	1	0	0	
+HT	3725170	Rue Sainte-Anne	residential	1	0	0	
+HT	3725170	Rue de l'École Nationale	residential	1	0	0	
+HT	3725222	Ancien Route Fonds-Verrettes	unclassified	1	0	0	
+HT	3725222	Entre Guimby	residential	1	0	0	
+HT	3725222	Grand Rue Vertil	residential	1	0	0	
+HT	3725222	Route Départementale 102 / 112	secondary	1	0	0	
+HT	3725222	Rue Cazeau	unclassified	1	0	0	
+HT	3725222	Rue Saint Croix	residential	1	0	0	
+HT	3725222	Rue Thelusma Paul	residential	1	0	0	
+HT	3725276	Route Départementale 102 / 112	secondary	1	0	0	
+HT	3725276	Route Nationale 8	primary	1	0	0	
+HT	3725364	Route Départementale # 202	secondary	1	0	0	
+HT	3725364	Route de Service Après le Séisme	unclassified	1	0	0	
+HT	3725364	Rue Camalla	unclassified	1	0	0	
+HT	3725364	Rue Capen	unclassified	1	0	0	
+HT	3725416	Ancienne Route Nationale 5	unclassified	1	0	0	
+HT	3725416	Route Nationale # 5	primary	1	0	0	
+HT	3725416	Rue de l’Indépendance	unclassified	1	0	0	
+HT	3725519	Route Nationale # 6	primary	1	0	0	
+HT	3725519	Route de Ferrier	tertiary	1	0	0	
+HT	3725663	Route Cagasse	unclassified	1	0	0	
+HT	3725663	Route Départementale 103	secondary	1	0	0	
+HT	3725663	Route Nationale # 1	primary	1	0	0	
+HT	3725663	Route du Villa	residential	1	0	0	
+HT	3725663	route la hatte	unclassified	1	0	0	
+HT	3726263	Route Nationale # 3	primary	1	0	0	
+HT	3726263	Route de Marmelade	secondary	1	0	0	
+HT	3726540	Route Communale 107A	secondary	1	0	0	
+HT	3726540	Route Dessalines-Saint-Michel	tertiary	1	0	0	
+HT	3726540	Route de Hatte Chevaux	tertiary	1	0	0	
+HT	3726540	Route de la Petite Place Marchand	residential	1	0	0	
+HT	3726540	Route du Bois Marchand	residential	1	0	0	
+HT	3726540	Route du Niel	residential	1	0	0	
+HT	3726540	Route du Pèlerin	residential	1	0	0	
+HT	3726540	Rue Dupuy	residential	1	0	0	
+HT	3726540	Rue Innocent	residential	1	0	0	
+HT	3726540	Rue Jacques 1er	secondary	1	0	0	
+HT	3726540	Rue Pascal Best	residential	1	0	0	
+HT	3726540	Rue Perodin	residential	1	0	0	
+HT	3726540	Rue Simonet	residential	1	0	0	
+HT	3726540	Rue Turling	secondary	1	0	0	
+HT	3726540	Rue du Canal	tertiary	1	0	0	
+HT	3726540	Rue du Cimetière	residential	1	0	0	
+HT	3726540	Rue du Marché	residential	1	0	0	
+HT	3726674	Rue du marché		3	93	95	
+HT	3726674	Route Départementale 101	secondary	1	0	0	
+HT	3726674	Route du Canal	unclassified	1	0	0	
+HT	3726674	Rue Laurent	unclassified	1	0	0	
+HT	3726674	Rue Neuf	residential	1	0	0	
+HT	3726674	Rue Résidence	residential	1	0	0	
+HT	3726674	Rue du Charbon	residential	1	0	0	
+HT	3726674	Rue du Marché	residential	1	0	0	
+HT	3726674	Ruelle Roche 1	residential	1	0	0	
+HT	3726674	Ruelle Roche 2	residential	1	0	0	
+HT	3726728	Route de Dérac	tertiary	1	0	0	
+HT	3726786	4e Cité	residential	14	91	122	
+HT	3726786	Delmas 33	secondary	12	16	140	
+HT	3726786	Delmas 40B	tertiary	12	12	80	
+HT	3726786	Rue Gaou Guinou	tertiary	10	11	47	
+HT	3726786	Delmas 69	residential	8	3	12	
+HT	3726786	Delmas 19	unclassified	7	9	48	
+HT	3726786	Delmas 65	unclassified	7	10	36	
+HT	3726786	Route de Delmas	primary	7	4	421	
+HT	3726786	Delmas 32	tertiary	6	4	100	
+HT	3726786	Rue EDH	residential	5	13	15	
+HT	3726786	Ruelle Montbrun		5	9	16	
+HT	3726786	rue Pelican		5	13	19	
+HT	3726786	Rue Mackandal	residential	4	8	29	
+HT	3726786	Avenue Fragneauville	tertiary	3	5	60	
+HT	3726786	Avenue John Brown	secondary	3	382	389	
+HT	3726786	Delmas 31	tertiary	3	31	55	
+HT	3726786	Puits Blain		3	2	54	
+HT	3726786	Rue Acacia Prolongée		3	96	146	
+HT	3726786	Rue Charbonnière	residential	3	26	79	
+HT	3726786	Rue Fougère		3	4	15	
+HT	3726786	Rue J. Dougé	tertiary	3	6	18	
+HT	3726786	Rue J. Roumain	residential	3	3	36	
+HT	3726786	Rue Joseph Guitho	unclassified	3	12	19	
+HT	3726786	Rue M. Esteve		3	10	14	
+HT	3726786	Rue Sully	unclassified	3	3	14	
+HT	3726786	Rue Vivy Mitchell	tertiary	3	3	11	
+HT	3726786	Ruelle Praslin		3	8	18	
+HT	3726786	Boulevard Toussaint Louverture	secondary	2	7	42	
+HT	3726786	Delmas 75	tertiary	2	2	28	
+HT	3726786	Delmas 81	residential	2	1	1	
+HT	3726786	Delmas 83	tertiary	2	14	30	
+HT	3726786	Impasse Sabourin		2	25	32	
+HT	3726786	Route Nationale # 1	primary	2	10	325	
+HT	3726786	Route de Jacquet		2	36	38	
+HT	3726786	Rue Barbé de Marbois	residential	2	53	60	
+HT	3726786	Rue Dalencourt		2	6	8	
+HT	3726786	Rue Fleurent 2	residential	2	15	20	
+HT	3726786	Rue Jean Phillippe		2	16	21	
+HT	3726786	Rue Kawas	unclassified	2	17	20	
+HT	3726786	Rue Patrice Lumumba	tertiary	2	5	15	
+HT	3726786	Rue Pierre Anselme		2	1	10	
+HT	3726786	Rue Reimbold	residential	2	14	23	
+HT	3726786	Rue Ville Joint		2	7	8	
+HT	3726786	Ruelle Charlemagne		2	2	9	
+HT	3726786	1e Rue	residential	1	0	0	
+HT	3726786	1er Cité	unclassified	1	0	0	
+HT	3726786	1re Rue	residential	1	0	0	
+HT	3726786	1re Ruelle Crepsac	residential	1	0	0	
+HT	3726786	1re Ruelle Séjournée	residential	1	0	0	
+HT	3726786	1ère Impasse Rue Fleurent	unclassified	1	0	0	
+HT	3726786	1ère Impasse des Akènes	residential	1	0	0	
+HT	3726786	1ère Rue	residential	1	0	0	
+HT	3726786	1ère Rue Lyly	residential	1	0	0	
+HT	3726786	1ère Rue de Béthanie	residential	1	0	0	
+HT	3726786	1ère Ruelle Bigaud	residential	1	0	0	
+HT	3726786	1ère Ruelle Durandis	residential	1	0	0	
+HT	3726786	1ère Ruelle Jumelle	residential	1	0	0	
+HT	3726786	1ère Ruelle Saint-Martin	residential	1	0	0	
+HT	3726786	1ère Ruelle Scott	residential	1	0	0	
+HT	3726786	2e Cité	residential	1	0	0	
+HT	3726786	2e Rue	residential	1	0	0	
+HT	3726786	2e Rue Belle-Vue	residential	1	0	0	
+HT	3726786	2e Rue Cassagnol	unclassified	1	0	0	
+HT	3726786	2e Rue de la Grande Anse	unclassified	1	0	0	
+HT	3726786	2e Rue des Ficus	residential	1	0	0	
+HT	3726786	2e Ruelle Jumelle	residential	1	0	0	
+HT	3726786	2e Ruelle Séjournée	residential	1	0	0	
+HT	3726786	2eme ruelle H. Le Chaud	residential	1	0	0	
+HT	3726786	2ème Impasse Dumond	residential	1	0	0	
+HT	3726786	2ème Impasse Providence	living_street	1	0	0	
+HT	3726786	2ème Impasse de la Providence	residential	1	0	0	
+HT	3726786	2ème Impasse des Akènes	residential	1	0	0	
+HT	3726786	2ème Rue	residential	1	0	0	
+HT	3726786	2ème Rue Lyly	residential	1	0	0	
+HT	3726786	2ème Rue de Béthanie	residential	1	0	0	
+HT	3726786	2ème Ruelle Bigaud	residential	1	0	0	
+HT	3726786	2ème Ruelle Durandis	residential	1	0	0	
+HT	3726786	2ème Ruelle Scott	residential	1	0	0	
+HT	3726786	3e Cité	residential	1	0	0	
+HT	3726786	3e Rue	residential	1	0	0	
+HT	3726786	3e Rue de la Grande Anse	residential	1	0	0	
+HT	3726786	3e Rue de la Grande Anse 1	residential	1	0	0	
+HT	3726786	3e Ruelle Crepsac	residential	1	0	0	
+HT	3726786	3ème Rue	residential	1	0	0	
+HT	3726786	4ème Rue	residential	1	0	0	
+HT	3726786	5e Cité Rue Pervenche	residential	1	0	0	
+HT	3726786	5eme Cite Rue Pervenche	living_street	1	0	0	
+HT	3726786	5ème Cité Rue Pervenche	residential	1	0	0	
+HT	3726786	5ème Rue	residential	1	0	0	
+HT	3726786	Antre Institution les zephirs(connu sous Noel)	residential	1	0	0	
+HT	3726786	Avenue Albert Jode	unclassified	1	0	0	
+HT	3726786	Avenue El Shaddaï (Rue Silencieux)	residential	1	0	0	
+HT	3726786	Avenue Gérard Théodat	tertiary	1	0	0	
+HT	3726786	Avenue Jean-Philippe	tertiary	1	0	0	
+HT	3726786	Avenue des Tourterelles	residential	1	0	0	
+HT	3726786	Boulevard des Américains	secondary	1	0	0	
+HT	3726786	Boulevard du 13 Octobre (Route de Tabarre)	secondary	1	0	0	
+HT	3726786	Butte Boyer 4	residential	1	0	0	
+HT	3726786	Canaan 22	residential	1	0	0	
+HT	3726786	Carrefour 4	residential	1	0	0	
+HT	3726786	Carrefour 4-2	residential	1	0	0	
+HT	3726786	Carrefour Bois d'Homme	residential	1	0	0	
+HT	3726786	Chacha 2 (Tabarre 15A)	residential	1	0	0	
+HT	3726786	Cité Jérémie	residential	1	0	0	
+HT	3726786	Cité Raymond 1	residential	1	0	0	
+HT	3726786	Cité Raymond 2	residential	1	0	0	
+HT	3726786	Cité aux Cayes	residential	1	0	0	
+HT	3726786	Clercine	residential	1	0	0	
+HT	3726786	Clercine 11	residential	1	0	0	
+HT	3726786	Clercine 14	residential	1	0	0	
+HT	3726786	Clercine 20a	residential	1	0	0	
+HT	3726786	Clercine 22b	residential	1	0	0	
+HT	3726786	Clercine 8	residential	1	0	0	
+HT	3726786	Colline de Bellevue	residential	1	0	0	
+HT	3726786	Delmas 21	residential	1	0	0	
+HT	3726786	Delmas 23	residential	1	0	0	
+HT	3726786	Delmas 25	residential	1	0	0	
+HT	3726786	Delmas 27	residential	1	0	0	
+HT	3726786	Delmas 29	residential	1	0	0	
+HT	3726786	Delmas 34	residential	1	0	0	
+HT	3726786	Delmas 35	residential	1	0	0	
+HT	3726786	Delmas 36	residential	1	0	0	
+HT	3726786	Delmas 37	residential	1	0	0	
+HT	3726786	Delmas 38	residential	1	0	0	
+HT	3726786	Delmas 39	residential	1	0	0	
+HT	3726786	Delmas 40	residential	1	0	0	
+HT	3726786	Delmas 40A	residential	1	0	0	
+HT	3726786	Delmas 41	residential	1	0	0	
+HT	3726786	Delmas 42	unclassified	1	0	0	
+HT	3726786	Delmas 42 Prolongee(Citée Frederick)	unclassified	1	0	0	
+HT	3726786	Delmas 42 Prolongée (Cité Frederick)	residential	1	0	0	
+HT	3726786	Delmas 43	residential	1	0	0	
+HT	3726786	Delmas 43 Prolongée	residential	1	0	0	
+HT	3726786	Delmas 44	residential	1	0	0	
+HT	3726786	Delmas 45	residential	1	0	0	
+HT	3726786	Delmas 46	residential	1	0	0	
+HT	3726786	Delmas 46A	residential	1	0	0	
+HT	3726786	Delmas 47	residential	1	0	0	
+HT	3726786	Delmas 48	tertiary	1	0	0	
+HT	3726786	Delmas 50	residential	1	0	0	
+HT	3726786	Delmas 52	residential	1	0	0	
+HT	3726786	Delmas 54	residential	1	0	0	
+HT	3726786	Delmas 55 Prolongée	residential	1	0	0	
+HT	3726786	Delmas 56	residential	1	0	0	
+HT	3726786	Delmas 57A	residential	1	0	0	
+HT	3726786	Delmas 58	residential	1	0	0	
+HT	3726786	Delmas 59	residential	1	0	0	
+HT	3726786	Delmas 60	tertiary	1	0	0	
+HT	3726786	Delmas 61	residential	1	0	0	
+HT	3726786	Delmas 63	residential	1	0	0	
+HT	3726786	Delmas 65 Prolongée	residential	1	0	0	
+HT	3726786	Delmas 71	residential	1	0	0	
+HT	3726786	Delmas 79	residential	1	0	0	
+HT	3726786	Delmas 81-A	residential	1	0	0	
+HT	3726786	Delmas 87	residential	1	0	0	
+HT	3726786	Entrée Hôtel Montana	residential	1	0	0	
+HT	3726786	Entrée Marché Dumorney	pedestrian	1	0	0	
+HT	3726786	Entrée Mopeka	residential	1	0	0	
+HT	3726786	Entrée Village AFCA	residential	1	0	0	
+HT	3726786	Entrée Village Betta	residential	1	0	0	
+HT	3726786	Entrée Village Canaan	residential	1	0	0	
+HT	3726786	Entrée Village Colofé	residential	1	0	0	
+HT	3726786	Entrée Village Montreville	residential	1	0	0	
+HT	3726786	Entrée Village Musseau	residential	1	0	0	
+HT	3726786	Entrée Village Sourrire	residential	1	0	0	
+HT	3726786	Entrée Village Thomas Théodat	residential	1	0	0	
+HT	3726786	Entrée Village Unique	residential	1	0	0	
+HT	3726786	Entrée du Village	residential	1	0	0	
+HT	3726786	Hatt 4	residential	1	0	0	
+HT	3726786	Hatt 5	residential	1	0	0	
+HT	3726786	Hatt 6	residential	1	0	0	
+HT	3726786	Hatt 7	residential	1	0	0	
+HT	3726786	Imp Desmond	residential	1	0	0	
+HT	3726786	Imp Violette	residential	1	0	0	
+HT	3726786	Impasse 27	residential	1	0	0	
+HT	3726786	Impasse A	residential	1	0	0	
+HT	3726786	Impasse A. Dumas	residential	1	0	0	
+HT	3726786	Impasse A. Lahens Prolongée	residential	1	0	0	
+HT	3726786	Impasse Achille	residential	1	0	0	
+HT	3726786	Impasse Adam et Eve	residential	1	0	0	
+HT	3726786	Impasse Aimé	residential	1	0	0	
+HT	3726786	Impasse Alcofeney	residential	1	0	0	
+HT	3726786	Impasse Alex	residential	1	0	0	
+HT	3726786	Impasse Alexandre	residential	1	0	0	
+HT	3726786	Impasse Alexis	residential	1	0	0	
+HT	3726786	Impasse Alphonse	residential	1	0	0	
+HT	3726786	Impasse Ambroise	residential	1	0	0	
+HT	3726786	Impasse Antoine	residential	1	0	0	
+HT	3726786	Impasse Arnold	residential	1	0	0	
+HT	3726786	Impasse Auguste	residential	1	0	0	
+HT	3726786	Impasse Avalon	residential	1	0	0	
+HT	3726786	Impasse B	living_street	1	0	0	
+HT	3726786	Impasse B. Canal	residential	1	0	0	
+HT	3726786	Impasse Bartholdi	residential	1	0	0	
+HT	3726786	Impasse Bayard	residential	1	0	0	
+HT	3726786	Impasse Beauvais	residential	1	0	0	
+HT	3726786	Impasse Bellevue	residential	1	0	0	
+HT	3726786	Impasse Belon	residential	1	0	0	
+HT	3726786	Impasse Beraca	residential	1	0	0	
+HT	3726786	Impasse Beremice	residential	1	0	0	
+HT	3727055	Route Départementale 702	secondary	1	0	0	
+HT	3727055	Route de l'Aéroport	residential	1	0	0	
+HT	3727055	Rue Frère Poitier	secondary	1	0	0	
+HT	3727055	Rue Geffrard	residential	1	0	0	
+HT	3727135	Boulevard 15 Octobre		4	41	72	
+HT	3727135	Route Nationale # 1	primary	4	52	231	
+HT	3727135	Rue Leraud		3	2	9	
+HT	3727135	Blvd. 15 Octobre, Route de Tabarre		2	45	45	
+HT	3727135	Lilavois 1	residential	2	4	5	
+HT	3727135	Route Nationale # 8		2	5	64	
+HT	3727135	Rue Rebecca		2	57	57	
+HT	3727135	Rue Sténio Vincent	primary	2	16	95	
+HT	3727135	Santo 22M	residential	2	1	56	
+HT	3727135	1e Impasse (Bloc Rue J. Milien Prolongée)	residential	1	0	0	
+HT	3727135	1ère Impasse Tamarin	residential	1	0	0	
+HT	3727135	2e Impasse de la Sagesse	residential	1	0	0	
+HT	3727135	2eme imp des arts	residential	1	0	0	
+HT	3727135	2ème Impasse Sicard Way	residential	1	0	0	
+HT	3727135	2ème Impasse Tamarin	residential	1	0	0	
+HT	3727135	2ème Rue de la Joie	residential	1	0	0	
+HT	3727135	3e Impasse Leraud	residential	1	0	0	
+HT	3727135	Ancienne Route de la Roche Blanche	unclassified	1	0	0	
+HT	3727135	Beudet 11	residential	1	0	0	
+HT	3727135	Beudet 7	residential	1	0	0	
+HT	3727135	Bloc Bas Rémi	residential	1	0	0	
+HT	3727135	Bloc Colimon	unclassified	1	0	0	
+HT	3727135	Boulevard Toussaint Louverture	secondary	1	0	0	
+HT	3727135	Boulevard du 13 Octobre (Route de Tabarre)	secondary	1	0	0	
+HT	3727135	Carrefour Canmo	residential	1	0	0	
+HT	3727135	Carrefour Dargout	unclassified	1	0	0	
+HT	3727135	Carrefour New-York 1	residential	1	0	0	
+HT	3727135	Carrefour New-York 2	residential	1	0	0	
+HT	3727135	Coridor Dumay	residential	1	0	0	
+HT	3727135	Cottard	tertiary	1	0	0	
+HT	3727135	Cottard 50	residential	1	0	0	
+HT	3727135	Cottard 54	residential	1	0	0	
+HT	3727135	Depio 1	residential	1	0	0	
+HT	3727135	Depio 2	residential	1	0	0	
+HT	3727135	Depio 3	unclassified	1	0	0	
+HT	3727135	Derrière de la Dalle	residential	1	0	0	
+HT	3727135	Dortoire du Ranch	residential	1	0	0	
+HT	3727135	Dupera 3	residential	1	0	0	
+HT	3727135	Duval 24	unclassified	1	0	0	
+HT	3727135	Duval 26	unclassified	1	0	0	
+HT	3727135	Duval 26 Prolongée	residential	1	0	0	
+HT	3727135	Duval 27	residential	1	0	0	
+HT	3727135	Duval 28	residential	1	0	0	
+HT	3727135	Duval 29	residential	1	0	0	
+HT	3727135	Duval 30	residential	1	0	0	
+HT	3727135	Duval 31	unclassified	1	0	0	
+HT	3727135	Duval 33	unclassified	1	0	0	
+HT	3727135	Duval 33 Prolongee	residential	1	0	0	
+HT	3727135	Duval 37	tertiary	1	0	0	
+HT	3727135	Entre Tube	residential	1	0	0	
+HT	3727135	Entree La Ferme Blanchard	residential	1	0	0	
+HT	3727135	Entrée Cimetière	residential	1	0	0	
+HT	3727135	Entrée Dessources	residential	1	0	0	
+HT	3727135	Entrée Jibert	residential	1	0	0	
+HT	3727135	Entrée Marché Dargout	unclassified	1	0	0	
+HT	3727135	Entrée Ranch Croix-des-Bouquets	residential	1	0	0	
+HT	3727135	Entrée Supreme	residential	1	0	0	
+HT	3727135	Entrée Tabernacle de la Trinité	residential	1	0	0	
+HT	3727135	Entrée Tilo	residential	1	0	0	
+HT	3727135	Entrée UNIFA	residential	1	0	0	
+HT	3727135	Entrée au FIFA Goal Centre	residential	1	0	0	
+HT	3727135	Entrée de l'ONU	unclassified	1	0	0	
+HT	3727135	Grande Plaine	tertiary	1	0	0	
+HT	3727135	Haut Rémi I	residential	1	0	0	
+HT	3727135	Impasse ( Bloc Butte Boyer Prolongee)	residential	1	0	0	
+HT	3727135	Impasse (Bloc Butte Boyer Prolongée)	residential	1	0	0	
+HT	3727135	Impasse (Bloc Rue du Défilée)	residential	1	0	0	
+HT	3727135	Impasse Abraham	residential	1	0	0	
+HT	3727135	Impasse Aladin	residential	1	0	0	
+HT	3727135	Impasse Alex	residential	1	0	0	
+HT	3727135	Impasse Alexis Auguste	residential	1	0	0	
+HT	3727135	Impasse Alfred (Lilavois 66)	residential	1	0	0	
+HT	3727135	Impasse André	residential	1	0	0	
+HT	3727135	Impasse Annabelle	residential	1	0	0	
+HT	3727135	Impasse Antenor	residential	1	0	0	
+HT	3727135	Impasse Antoine Milien	residential	1	0	0	
+HT	3727135	Impasse Apipi	unclassified	1	0	0	
+HT	3727135	Impasse Audain (Tabarre 38)	residential	1	0	0	
+HT	3727135	Impasse Augustave	residential	1	0	0	
+HT	3727135	Impasse Beaubrun	residential	1	0	0	
+HT	3727135	Impasse Belval	residential	1	0	0	
+HT	3727135	Impasse Benediction	residential	1	0	0	
+HT	3727135	Impasse Benoît	residential	1	0	0	
+HT	3727135	Impasse Beraca	residential	1	0	0	
+HT	3727135	Impasse Bernard	residential	1	0	0	
+HT	3727135	Impasse Bien-Aimé	residential	1	0	0	
+HT	3727135	Impasse Bijoux	residential	1	0	0	
+HT	3727135	Impasse Bon Berger	residential	1	0	0	
+HT	3727135	Impasse Borgella	residential	1	0	0	
+HT	3727135	Impasse Boudano	residential	1	0	0	
+HT	3727135	Impasse Brisson	residential	1	0	0	
+HT	3727135	Impasse Brooklyn	residential	1	0	0	
+HT	3727135	Impasse Brunet Joseph	residential	1	0	0	
+HT	3727135	Impasse Cadeau	residential	1	0	0	
+HT	3727135	Impasse Camille	residential	1	0	0	
+HT	3727135	Impasse Cantave 1	residential	1	0	0	
+HT	3727135	Impasse Cantave 2	residential	1	0	0	
+HT	3727135	Impasse Cantave 2A	residential	1	0	0	
+HT	3727135	Impasse Cantave 2B	residential	1	0	0	
+HT	3727135	Impasse Cantave Prolongée	residential	1	0	0	
+HT	3727287	208	unclassified	1	0	0	
+HT	3727287	Route Départementale # 401	secondary	1	0	0	
+HT	3727287	Rue de l'Église	residential	1	0	0	
+HT	3727287	Rue de la Place	residential	1	0	0	
+HT	3727287	Rue de la Police	residential	1	0	0	
+HT	3727287	Rue du Lycée	residential	1	0	0	
+HT	3727287	Rue du Terrain	residential	1	0	0	
+HT	3727297	Boulevard Saint-Pierre	secondary	1	0	0	
+HT	3727297	La Nationale Sud-Ouest	secondary	1	0	0	
+HT	3727297	Rue Concorde	residential	1	0	0	
+HT	3727297	Rue Laforret Joint	residential	1	0	0	
+HT	3727297	Rue Laurent Ferro	residential	1	0	0	
+HT	3727297	Rue Machoute Salomon	residential	1	0	0	
+HT	3727297	Rue Michelle Bonne Année	residential	1	0	0	
+HT	3727297	Rue Nicodème Grégroire	unclassified	1	0	0	
+HT	3727297	Rue Notre-Dame	unclassified	1	0	0	
+HT	3727297	Rue Saint-Paul	residential	1	0	0	
+HT	3727297	Rue de l'Enterrement	residential	1	0	0	
+HT	3727297	Rue du Quai	residential	1	0	0	
+HT	3727327	Route de Cornillon	secondary	1	0	0	
+HT	3727398	Route Départementale # 703	tertiary	1	0	0	
+HT	3727398	route mineure	residential	1	0	0	
+HT	3727944	Route Communale 205A	unclassified	1	0	0	
+HT	3727944	Route de Billiard	unclassified	1	0	0	
+HT	3727944	Route de Chantal	tertiary	1	0	0	
+HT	3727944	Route de Saint-Félix	tertiary	1	0	0	
+HT	3727944	Route de la Frésilière	unclassified	1	0	0	
+HT	3727944	Route du Carré	unclassified	1	0	0	
+HT	3727944	Route du Fond Vert	unclassified	1	0	0	
+HT	3727984	Route Départementale 702	secondary	1	0	0	
+HT	3728054	Route Départementale 302	secondary	1	0	0	
+HT	3728093	Building yard	pedestrian	1	0	0	
+HT	3728093	Route Départementale 402	secondary	1	0	0	
+HT	3728093	Rue Salomon	residential	1	0	0	
+HT	3728093	Rue de l'Église	residential	1	0	0	
+HT	3728093	Rue de la Caféière	residential	1	0	0	
+HT	3728093	decadre	residential	1	0	0	
+HT	3728093	gran savane	unclassified	1	0	0	
+HT	3728093	jedo	unclassified	1	0	0	
+HT	3728093	ka paul	unclassified	1	0	0	
+HT	3728093	kafou lamartine	unclassified	1	0	0	
+HT	3728093	lakobat	unclassified	1	0	0	
+HT	3728093	nan fils	unclassified	1	0	0	
+HT	3728097	Rue Nicolas Geffrard	residential	3	15	101	
+HT	3728097	1ère Grande Rue	residential	1	0	0	
+HT	3728097	Avenue Cartagena	residential	1	0	0	
+HT	3728097	Avenue Cartgena	tertiary	1	0	0	
+HT	3728097	Avenue des Quatre Chemins	secondary	1	0	0	
+HT	3728097	Carrefour des Quatre Chemins	primary	1	0	0	
+HT	3728097	Cité Casseus	residential	1	0	0	
+HT	3728097	Dexia 6	residential	1	0	0	
+HT	3728097	Impasse	residential	1	0	0	
+HT	3728097	Impasse La Paix	residential	1	0	0	
+HT	3728097	Impasse Lakay	residential	1	0	0	
+HT	3728097	Route Nationale # 2	primary	1	0	0	
+HT	3728097	Route Nationale # 7	primary	1	0	0	
+HT	3728097	Route de Brefete	unclassified	1	0	0	
+HT	3728097	Route de Simon	unclassified	1	0	0	
+HT	3728097	Rue 1	residential	1	0	0	
+HT	3728097	Rue 3 Frères Rigaud	tertiary	1	0	0	
+HT	3728097	Rue Alexandre Pétion	residential	1	0	0	
+HT	3728097	Rue Anderson Douyon	residential	1	0	0	
+HT	3728097	Rue Antoine Simon	residential	1	0	0	
+HT	3728097	Rue Auxilius Fougère	residential	1	0	0	
+HT	3728097	Rue Boisrond Tonnerre	residential	1	0	0	
+HT	3728097	Rue Decy	residential	1	0	0	
+HT	3728097	Rue Duvivier Hall	tertiary	1	0	0	
+HT	3728097	Rue Foi Foyen	unclassified	1	0	0	
+HT	3728097	Rue Grossin	tertiary	1	0	0	
+HT	3728097	Rue Général Borgella	residential	1	0	0	
+HT	3728097	Rue Général Marion	tertiary	1	0	0	
+HT	3728097	Rue Hydraulique	residential	1	0	0	
+HT	3728097	Rue J. Jacques Acaau	residential	1	0	0	
+HT	3728097	Rue Laco	residential	1	0	0	
+HT	3728097	Rue Monseigneur Collignon	residential	1	0	0	
+HT	3728097	Rue Monseigneur Maurice	residential	1	0	0	
+HT	3728097	Rue Neré Numa	residential	1	0	0	
+HT	3728097	Rue O'Shiell	unclassified	1	0	0	
+HT	3728097	Rue Prospère Faure	residential	1	0	0	
+HT	3728097	Rue SOO	residential	1	0	0	
+HT	3728097	Rue Simon Bolivar	residential	1	0	0	
+HT	3728097	Rue Toussaint Louverture	residential	1	0	0	
+HT	3728097	Rue Wharf Masse	unclassified	1	0	0	
+HT	3728097	Rue de Châteaudun	tertiary	1	0	0	
+HT	3728097	Rue de l'Union	residential	1	0	0	
+HT	3728097	Rue de la Capitale	tertiary	1	0	0	
+HT	3728097	Rue de la Fraternité	residential	1	0	0	
+HT	3728097	Rue du Chéry	residential	1	0	0	
+HT	3728097	Rue du Peuple	residential	1	0	0	
+HT	3728097	Rue du Philanthrope	residential	1	0	0	
+HT	3728097	Rue du Quai	residential	1	0	0	
+HT	3728097	Ruelle Béthanie	residential	1	0	0	
+HT	3728097	Ruelle Kanski	residential	1	0	0	
+HT	3728097	Ruelle de Béthanie	residential	1	0	0	
+HT	3728097	Semen	unclassified	1	0	0	
+HT	3728097	ruelle 500 ans	unclassified	1	0	0	
+HT	3728122	Boulevard Jean-Jacques Dessalines	residential	1	0	0	
+HT	3728122	Route Communale 200C	tertiary	1	0	0	
+HT	3728122	Route Départementale 204	secondary	1	0	0	
+HT	3728122	Route Nationale # 2	primary	1	0	0	
+HT	3728122	Rue Fontaine Vaval	residential	1	0	0	
+HT	3728122	Rue Ménard	residential	1	0	0	
+HT	3728122	Rue Paul Eugène Magloire	residential	1	0	0	
+HT	3728122	Rue Simon Bolivar	residential	1	0	0	
+HT	3728122	Rue Sténio Vincent	residential	1	0	0	
+HT	3728122	Rue Sylvio Cator	residential	1	0	0	
+HT	3728122	Rue Toussaint Louverture	secondary	1	0	0	
+HT	3728122	Rue Ténéus Suiré	residential	1	0	0	
+HT	3728338	Route Nationale # 2	primary	2	317	965	
+HT	3728338	Route Rails		2	161	525	
+HT	3728338	1er Impasse Napoli	residential	1	0	0	
+HT	3728338	1re Ruelle Banana	residential	1	0	0	
+HT	3728338	1re Ruelle Saint-Cyr	residential	1	0	0	
+HT	3728338	1ère Impasse Brisson	residential	1	0	0	
+HT	3728338	1ère Impasse Francois	residential	1	0	0	
+HT	3728338	1ère Rue	residential	1	0	0	
+HT	3728338	1ère Rue Chez Cator	residential	1	0	0	
+HT	3728338	1ère Rue Louis Charles	residential	1	0	0	
+HT	3728338	1ère Rue de la Paix	residential	1	0	0	
+HT	3728338	1ère Ruelle Nelson	residential	1	0	0	
+HT	3728338	1ère Ruelle Paloma	residential	1	0	0	
+HT	3728338	1ère Ruelle Sapotille	residential	1	0	0	
+HT	3728338	1ère Ruelle la Truitière	residential	1	0	0	
+HT	3728338	2e Rue Chez Cator	residential	1	0	0	
+HT	3728338	2e Ruelle Saint-Cyr	residential	1	0	0	
+HT	3728338	2ème Impasse Brisson	residential	1	0	0	
+HT	3728338	2ème Impasse Napoli	residential	1	0	0	
+HT	3728338	2ème Impasse Neptune	residential	1	0	0	
+HT	3728338	2ème Impasse Ulysse	residential	1	0	0	
+HT	3728338	2ème Rue	residential	1	0	0	
+HT	3728338	2ème Ruelle Baguidy	residential	1	0	0	
+HT	3728338	2ème Ruelle Casrtor	residential	1	0	0	
+HT	3728338	2ème Ruelle Sapotille	living_street	1	0	0	
+HT	3728338	2ème Ruelle la Truitière	residential	1	0	0	
+HT	3728338	3e Impasse Banana	residential	1	0	0	
+HT	3728338	3e Ruelle Saint-Cyr	residential	1	0	0	
+HT	3728338	3ème Rue	residential	1	0	0	
+HT	3728338	3ème Rue A	residential	1	0	0	
+HT	3728338	3ème Rue B	residential	1	0	0	
+HT	3728338	3ème Ruelle Paloma	residential	1	0	0	
+HT	3728338	3ème Ruelle Sapotille	living_street	1	0	0	
+HT	3728338	3ème Ruelle Truitier (Rue La Grenade)	residential	1	0	0	
+HT	3728338	4ème Rue	residential	1	0	0	
+HT	3728338	4ème Rue A	residential	1	0	0	
+HT	3728338	5ème Rue	residential	1	0	0	
+HT	3728338	Arcachon 32	tertiary	1	0	0	
+HT	3728338	Arcachon 34	residential	1	0	0	
+HT	3728338	Arcachon 34 Prolongée	residential	1	0	0	
+HT	3728338	Arcachon 36 Prolongée	residential	1	0	0	
+HT	3728338	Avenue de la Louange	residential	1	0	0	
+HT	3728338	Bizoton 53	residential	1	0	0	
+HT	3728338	Bizoton 55	residential	1	0	0	
+HT	3728338	Bizoton 55B	residential	1	0	0	
+HT	3728338	Bizoton 6	residential	1	0	0	
+HT	3728338	Bizoton 61	residential	1	0	0	
+HT	3728338	Brochette 101	residential	1	0	0	
+HT	3728338	Brochette 95	residential	1	0	0	
+HT	3728338	Brochette 95A Prolongé	residential	1	0	0	
+HT	3728338	Brochette 97	tertiary	1	0	0	
+HT	3728338	Brochette 97 Prolongée	tertiary	1	0	0	
+HT	3728338	Brochette 99	tertiary	1	0	0	
+HT	3728338	Brochette 99A	residential	1	0	0	
+HT	3728338	Camp du Salut	residential	1	0	0	
+HT	3728338	Charles Limeus	residential	1	0	0	
+HT	3728338	Cité Dray Do E DH	residential	1	0	0	
+HT	3728338	Cité de l'Union 1	residential	1	0	0	
+HT	3728338	Cote Plage 20	residential	1	0	0	
+HT	3728338	Côte Plage 16	residential	1	0	0	
+HT	3728338	Côte Plage 16 Prolongée	residential	1	0	0	
+HT	3728338	Côte Plage 18	tertiary	1	0	0	
+HT	3728338	Côte Plage 18 Prolongée	unclassified	1	0	0	
+HT	3728338	Côte Plage 24	residential	1	0	0	
+HT	3728338	Côte Plage 26	residential	1	0	0	
+HT	3728338	Côte Plage 28	residential	1	0	0	
+HT	3728338	Diquini 63	residential	1	0	0	
+HT	3728338	Diquini 63B	residential	1	0	0	
+HT	3728338	Entree L Eglise Les Saints de Beree	residential	1	0	0	
+HT	3728338	Entree gros Manman	residential	1	0	0	
+HT	3728338	Entrée Village de la Fraternité	residential	1	0	0	
+HT	3728338	Entrée Ville Exavier de Merger	residential	1	0	0	
+HT	3728338	Entrée du Village Pierre Sully	residential	1	0	0	
+HT	3728338	Entrée prncipale du village Alpha	residential	1	0	0	
+HT	3728338	Impase de la Paix (Mariani 3)	residential	1	0	0	
+HT	3728338	Impasse 2ème Ruelle la Truitière	residential	1	0	0	
+HT	3728338	Impasse A. Louis Charles	residential	1	0	0	
+HT	3728338	Impasse Abraham	residential	1	0	0	
+HT	3728338	Impasse Accueil Prolongée	residential	1	0	0	
+HT	3728338	Impasse Augustin	residential	1	0	0	
+HT	3728338	Impasse Bellevue 2	residential	1	0	0	
+HT	3728338	Impasse Benoît	residential	1	0	0	
+HT	3728338	Impasse Bertrand	residential	1	0	0	
+HT	3728338	Impasse Bius	residential	1	0	0	
+HT	3728338	Impasse Blémur	residential	1	0	0	
+HT	3728338	Impasse Cassave	residential	1	0	0	
+HT	3728338	Impasse Claire Heureuse	residential	1	0	0	
+HT	3728338	Impasse Colas	residential	1	0	0	
+HT	3728338	Impasse Constantin	residential	1	0	0	
+HT	3728338	Impasse Coumala	residential	1	0	0	
+HT	3728338	Impasse César	residential	1	0	0	
+HT	3728338	Impasse Daniel	residential	1	0	0	
+HT	3728338	Impasse Desiral	residential	1	0	0	
+HT	3728338	Impasse Didier	residential	1	0	0	
+HT	3728338	Impasse Dirogene	residential	1	0	0	
+HT	3728338	Impasse Dufour	residential	1	0	0	
+HT	3728338	Impasse Durond	residential	1	0	0	
+HT	3728338	Impasse Fanfan	residential	1	0	0	
+HT	3728338	Impasse Feler	residential	1	0	0	
+HT	3728338	Impasse Francois	residential	1	0	0	
+HT	3728338	Impasse Frantz	residential	1	0	0	
+HT	3728338	Impasse Gabelson	unclassified	1	0	0	
+HT	3728338	Impasse Gosen	residential	1	0	0	
+HT	3728338	Impasse Guilloux	residential	1	0	0	
+HT	3728338	Impasse H. Typeenhawer	residential	1	0	0	
+HT	3728338	Impasse Jean Marie Moïse	residential	1	0	0	
+HT	3728338	Impasse Jean Séjour	residential	1	0	0	
+HT	3728338	Impasse Jean Thomas	residential	1	0	0	
+HT	3728338	Impasse Jean Thomas Prolongée	residential	1	0	0	
+HT	3728338	Impasse Jean-Claude	residential	1	0	0	
+HT	3728338	Impasse Jules	residential	1	0	0	
+HT	3728338	Impasse L. Saint-Louis	residential	1	0	0	
+HT	3728338	Impasse Laguerre	residential	1	0	0	
+HT	3728338	Impasse Louis Charles	residential	1	0	0	
+HT	3728338	Impasse Loulou	residential	1	0	0	
+HT	3728338	Impasse Lubin	residential	1	0	0	
+HT	3728338	Impasse Ludo	residential	1	0	0	
+HT	3728338	Impasse Lumière	residential	1	0	0	
+HT	3728338	Impasse Léon	residential	1	0	0	
+HT	3728338	Impasse Mandela	residential	1	0	0	
+HT	3728338	Impasse Marie-Thérèse	residential	1	0	0	
+HT	3728338	Impasse Martin	residential	1	0	0	
+HT	3728338	Impasse Mondésir	residential	1	0	0	
+HT	3728338	Impasse Mont-Pelier	residential	1	0	0	
+HT	3728338	Impasse Montréal	residential	1	0	0	
+HT	3728338	Impasse Moïse	residential	1	0	0	
+HT	3728338	Impasse Norman	residential	1	0	0	
+HT	3728338	Impasse Opsejeh	residential	1	0	0	
+HT	3728338	Impasse Opsejeh Prolongée	residential	1	0	0	
+HT	3728338	Impasse P. Louis	residential	1	0	0	
+HT	3728338	Impasse Pascal	residential	1	0	0	
+HT	3728338	Impasse Pierre-Jean	residential	1	0	0	
+HT	3728338	Impasse Pinto	residential	1	0	0	
+HT	3728338	Impasse Primitive	residential	1	0	0	
+HT	3728338	Impasse Progrès	residential	1	0	0	
+HT	3728338	Impasse Raymond	residential	1	0	0	
+HT	3728338	Impasse Robert	residential	1	0	0	
+HT	3728338	Impasse Rémy	residential	1	0	0	
+HT	3728338	Impasse Saint-Charles Prolongée	residential	1	0	0	
+HT	3728338	Impasse Saint-Cyr	residential	1	0	0	
+HT	3728338	Impasse Saint-Fort	residential	1	0	0	
+HT	3728338	Impasse Sapotille	residential	1	0	0	
+HT	3728338	Impasse Siliome	residential	1	0	0	
+HT	3728338	Impasse Simon	residential	1	0	0	
+HT	3728338	Impasse Siméon	residential	1	0	0	
+HT	3728338	Impasse Suarez	residential	1	0	0	
+HT	3728338	Impasse Sur le Manguier	residential	1	0	0	
+HT	3728338	Impasse Thermotte	residential	1	0	0	
+HT	3728338	Impasse Ti Bois	residential	1	0	0	
+HT	3728338	Impasse Tito	residential	1	0	0	
+HT	3728338	Impasse Tito 2	residential	1	0	0	
+HT	3728338	Impasse Toby	residential	1	0	0	
+HT	3728338	Impasse Ulysse	residential	1	0	0	
+HT	3728338	Impasse de Belande	residential	1	0	0	
+HT	3728338	Impasse de Dieu	residential	1	0	0	
+HT	3728338	Impasse de Grâce	residential	1	0	0	
+HT	3728338	Impasse de Lavaud	residential	1	0	0	
+HT	3728338	Impasse de Marseille	residential	1	0	0	
+HT	3728338	Impasse de Marseille 2	residential	1	0	0	
+HT	3728338	Impasse de Termont	residential	1	0	0	
+HT	3728338	Impasse de l'Amitié	residential	1	0	0	
+HT	3728338	Impasse de l'Amour	residential	1	0	0	
+HT	3728338	Impasse de la Bergère	residential	1	0	0	
+HT	3728338	Impasse de la Castille	residential	1	0	0	
+HT	3728338	Impasse de la Destinée	residential	1	0	0	
+HT	3728338	Impasse de la Fleur	residential	1	0	0	
+HT	3728338	Impasse de la Liberté	residential	1	0	0	
+HT	3728338	Impasse de la Paix	residential	1	0	0	
+HT	3728338	Impasse de la Tome	residential	1	0	0	
+HT	3728338	Impasse de la Truffière	residential	1	0	0	
+HT	3728338	Impasse de la Vision	residential	1	0	0	
+HT	3728338	Impasse des Alcines	residential	1	0	0	
+HT	3728338	Impasse des Fleurs	residential	1	0	0	
+HT	3728338	Impasse des Gentils	residential	1	0	0	
+HT	3728338	Impasse du Cadet	residential	1	0	0	
+HT	3728338	Impasse du Fort	residential	1	0	0	
+HT	3728338	Impasse du May	residential	1	0	0	
+HT	3728338	Impasse du Pacifique	residential	1	0	0	
+HT	3728338	Impasse du Paradis	residential	1	0	0	
+HT	3728338	Impasse du Silence	residential	1	0	0	
+HT	3728338	Impasse du Sourire	residential	1	0	0	
+HT	3728338	Impasse l'Amitié	residential	1	0	0	
+HT	3728338	Impasse la Renaissance	residential	1	0	0	
+HT	3728338	Jeanty	residential	1	0	0	
+HT	3728338	Lamatin 52	residential	1	0	0	
+HT	3728338	Lamatin 54	tertiary	1	0	0	
+HT	3728338	Lambi 1	residential	1	0	0	
+HT	3728338	Lambi 3	residential	1	0	0	
+HT	3728338	Lambi 5	residential	1	0	0	
+HT	3728338	Lamentin 52	tertiary	1	0	0	
+HT	3728338	Mahotiere 75	residential	1	0	0	
+HT	3728338	Mahotiere 77	residential	1	0	0	
+HT	3728338	Mahotiere 79	residential	1	0	0	
+HT	3728338	Mahotiere 81	residential	1	0	0	
+HT	3728338	Mahotiere 85	residential	1	0	0	
+HT	3728338	Mahotière 75	residential	1	0	0	
+HT	3728338	Mariani 11	residential	1	0	0	
+HT	3728338	Mariani 12A	residential	1	0	0	
+HT	3728338	Mariani 12B	residential	1	0	0	
+HT	3728338	Mariani 13	residential	1	0	0	
+HT	3728386	Route Départementale 305	secondary	1	0	0	
+HT	3728386	Route Départementale 602	secondary	1	0	0	
+HT	3728386	Rue de l'Église	unclassified	1	0	0	
+HT	3728386	Rue du Collège	unclassified	1	0	0	
+HT	3728386	Rue du Lycée	unclassified	1	0	0	
+HT	3728386	Rue du Marché	residential	1	0	0	
+HT	3728428	Impasse Anténor Firmin	residential	1	0	0	
+HT	3728428	Impasse des Italiens	residential	1	0	0	
+HT	3728428	Route Bas-Salines	residential	1	0	0	
+HT	3728428	Route de Bas Salines	unclassified	1	0	0	
+HT	3728428	Route de Caracol	tertiary	1	0	0	
+HT	3728428	Route du Madras	unclassified	1	0	0	
+HT	3728428	Rue Baptiste	residential	1	0	0	
+HT	3728428	Rue Charlemagne Péralte	residential	1	0	0	
+HT	3728428	Rue Fermée	residential	1	0	0	
+HT	3728428	Rue Saint-André	residential	1	0	0	
+HT	3728428	Rue Saint-Augustin	residential	1	0	0	
+HT	3728428	Rue Saint-Martin	residential	1	0	0	
+HT	3728474	inconnu	residential	712	0	0	
+HT	3728474	Inconnu	residential	419	0	0	
+HT	3728474	Route Nationale # 1	primary	5	26	339	
+HT	3728474	labadie, Meranne		5	0	0	
+HT	3728474	Grand Rue Cité Chauvel	residential	4	31	69	
+HT	3728474	Rue D	residential	4	95	121	
+HT	3728474	Rue Jean-Jacques Dessalines	residential	4	1	14	
+HT	3728474	Ruelle Jean-Jacques Dessalines	residential	4	3	62	
+HT	3728474	inc		4	0	0	
+HT	3728474	3ème Petite Anse		3	19	105	
+HT	3728474	Ruelle Domino	residential	3	41	68	
+HT	3728474	Ruelle Méridien	residential	3	16	20	
+HT	3728474	in	unclassified	3	0	0	
+HT	3728474	Rue du Marché	residential	2	16	19	
+HT	3728474	Ruelle Conassa	residential	2	33	42	
+HT	3728474	Ruelle Josaphat		2	38	45	
+HT	3728474	rue Dr Cabrol, Mombin Lataye		2	100	100	
+HT	3728474	1re Cité Philomène	residential	1	0	0	
+HT	3728474	1re Ruelle de la Fougerolle	residential	1	0	0	
+HT	3728474	Avenue 1	residential	1	0	0	
+HT	3728474	Avenue 2	residential	1	0	0	
+HT	3728474	Avenue Balban	residential	1	0	0	
+HT	3728474	Avenue de la Symphonie	unclassified	1	0	0	
+HT	3728474	Avenue des Chenes	residential	1	0	0	
+HT	3728474	Bas de Vertières	residential	1	0	0	
+HT	3728474	Boisdeaut	residential	1	0	0	
+HT	3728474	Boulevard Carénage	tertiary	1	0	0	
+HT	3728474	Cafevre	unclassified	1	0	0	
+HT	3728474	Carantine	unclassified	1	0	0	
+HT	3728474	Carfour citron	unclassified	1	0	0	
+HT	3728474	Chaste Noir	unclassified	1	0	0	
+HT	3728474	Chemin Monte Pa Desann	residential	1	0	0	
+HT	3728474	Chemin de Fort Belly	unclassified	1	0	0	
+HT	3728474	Cité Blue Hills	residential	1	0	0	
+HT	3728474	Cité de la Paix	residential	1	0	0	
+HT	3728474	Entrée Nan 22	residential	1	0	0	
+HT	3728474	Entrée Principale Village de l'Espérance	residential	1	0	0	
+HT	3728474	Grande Rue Lamartinière	residential	1	0	0	
+HT	3728474	Grande Rue Larmatiniere	residential	1	0	0	
+HT	3728474	Grande Rue des Melomanes	residential	1	0	0	
+HT	3728474	Impasse Bastien	residential	1	0	0	
+HT	3728474	Impasse Boulos	residential	1	0	0	
+HT	3728474	Impasse Catherine Flon	residential	1	0	0	
+HT	3728474	Impasse Emmanuel	residential	1	0	0	
+HT	3728474	Impasse Henry	residential	1	0	0	
+HT	3728474	Impasse Jean-Jacques Dessalines	residential	1	0	0	
+HT	3728474	Impasse Laferrière	residential	1	0	0	
+HT	3728474	Impasse Noël	residential	1	0	0	
+HT	3728474	Impasse Pierre Toussaint	residential	1	0	0	
+HT	3728474	Impasse Pétion	residential	1	0	0	
+HT	3728474	Impasse Richard Brisson	residential	1	0	0	
+HT	3728474	Impasse Saint Martin	residential	1	0	0	
+HT	3728474	Impasse Saint-Paul	residential	1	0	0	
+HT	3728474	Impasse charlemagne Peralte	residential	1	0	0	
+HT	3728474	Jean Biassou	residential	1	0	0	
+HT	3728474	Melomanes 1	residential	1	0	0	
+HT	3728474	Melomanes 2	residential	1	0	0	
+HT	3728474	Melomanes 3	residential	1	0	0	
+HT	3728474	Melomanes 4	residential	1	0	0	
+HT	3728474	Melomanes 5	residential	1	0	0	
+HT	3728474	Melonane 6	residential	1	0	0	
+HT	3728474	Pont Rue 5 et Boulvard A	tertiary	1	0	0	
+HT	3728474	Pont Ti-Marc Guy Malary	residential	1	0	0	
+HT	3728474	Rond-Point Henri Christophe	primary	1	0	0	
+HT	3728474	Route Départementale 105	tertiary	1	0	0	
+HT	3728474	Route Nationale # 3	primary	1	0	0	
+HT	3728474	Route Nationale # 3 (Pont Neuf)	primary	1	0	0	
+HT	3728474	Route Nationale #3	unclassified	1	0	0	
+HT	3728474	Route Tabernacle	residential	1	0	0	
+HT	3728474	Route de Boisdeaut	unclassified	1	0	0	
+HT	3728474	Route de Galman Duplaa	tertiary	1	0	0	
+HT	3728474	Route de Notre-Dame	tertiary	1	0	0	
+HT	3728474	Route de l'Aéroport	unclassified	1	0	0	
+HT	3728474	Route de l'Usine	unclassified	1	0	0	
+HT	3728474	Route de la Cité Jovenel Moïse	unclassified	1	0	0	
+HT	3728474	Route segondaire reliant route nationale #1 et #3	secondary	1	0	0	
+HT	3728474	Rue 0 Prolongée	tertiary	1	0	0	
+HT	3728474	Rue 1	residential	1	0	0	
+HT	3728474	Rue 10	residential	1	0	0	
+HT	3728474	Rue 12	residential	1	0	0	
+HT	3728474	Rue 13	residential	1	0	0	
+HT	3728474	Rue 13 Prolongée	residential	1	0	0	
+HT	3728474	Rue 15	unclassified	1	0	0	
+HT	3728474	Rue 16	unclassified	1	0	0	
+HT	3728474	Rue 18	residential	1	0	0	
+HT	3728474	Rue 19	residential	1	0	0	
+HT	3728474	Rue 2	unclassified	1	0	0	
+HT	3728474	Rue 20	unclassified	1	0	0	
+HT	3728474	Rue 21	unclassified	1	0	0	
+HT	3728474	Rue 22	residential	1	0	0	
+HT	3728474	Rue 24	unclassified	1	0	0	
+HT	3728474	Rue 25	residential	1	0	0	
+HT	3728474	Rue 26	residential	1	0	0	
+HT	3728474	Rue 27	residential	1	0	0	
+HT	3728474	Rue 28	residential	1	0	0	
+HT	3728474	Rue 29	unclassified	1	0	0	
+HT	3728474	Rue 3	residential	1	0	0	
+HT	3728474	Rue 4	residential	1	0	0	
+HT	3728474	Rue 5	residential	1	0	0	
+HT	3728474	Rue 6	residential	1	0	0	
+HT	3728562	Rue JC. Champlois #2	unclassified	3	7	36	
+HT	3728562	Rue Champlois		2	107	115	
+HT	3728562	Bas-Camp	unclassified	1	0	0	
+HT	3728562	Haut-Camp	unclassified	1	0	0	
+HT	3728562	Impasse Voltaire	residential	1	0	0	
+HT	3728562	Route Communale 700A	tertiary	1	0	0	
+HT	3728562	Route Dominique	tertiary	1	0	0	
+HT	3728562	Route Gaïta	unclassified	1	0	0	
+HT	3728562	Route Lougou	unclassified	1	0	0	
+HT	3728562	Route Milord	unclassified	1	0	0	
+HT	3728562	Route Nationale # 7	primary	1	0	0	
+HT	3728562	Route de Bourjolly	unclassified	1	0	0	
+HT	3728964	1e Impasse du Soleil	residential	1	0	0	
+HT	3728964	2e Impasse du Soleil	residential	1	0	0	
+HT	3728964	3e Impasse du Soleil	residential	1	0	0	
+HT	3728964	4e Impasse du Soleil	residential	1	0	0	
+HT	3728964	Accès au Port de Lafiteau	unclassified	1	0	0	
+HT	3728964	Avenue Saint-Gérard	unclassified	1	0	0	
+HT	3728964	Avenue du Soleil	unclassified	1	0	0	
+HT	3728964	Carrefour Madame Jeudy	residential	1	0	0	
+HT	3728964	Entree la petite citee	residential	1	0	0	
+HT	3728964	Entrée CINA	unclassified	1	0	0	
+HT	3728964	Entrée Teleco	residential	1	0	0	
+HT	3728964	Entrée Ti Jardin	residential	1	0	0	
+HT	3730363	Route Départementale 402	secondary	1	0	0	
+HT	3730363	Rue de la Place	residential	1	0	0	
+HT	3730363	Rue du Lycée	unclassified	1	0	0	
+HT	3730363	road from Cascade Pichon to Belle Anse	unclassified	1	0	0	
+HT	3730800	Route Départementale 204	secondary	1	0	0	
+HT	3730937	Route de Bahon	tertiary	1	0	0	
+HT	3730937	Wout tet kole	residential	1	0	0	
+HT	3730937	ruefrere cadet	pedestrian	1	0	0	
+HT	3731087	Route de la localité La Plaine	unclassified	1	0	0	
+HT	3731088	Avenue Miche Sylvain	unclassified	1	0	0	
+HT	3731088	Avenue Michel Sylvain	unclassified	1	0	0	
+HT	3731088	Boca Boule	unclassified	1	0	0	
+HT	3731088	Boulevard des Esclaves	tertiary	1	0	0	
+HT	3731088	Impasse Saint-Joseph	tertiary	1	0	0	
+HT	3731088	Route Nationale # 1	primary	1	0	0	
+HT	3731088	Route de Lifeline	unclassified	1	0	0	
+HT	3731088	Route de Ray	unclassified	1	0	0	
+HT	3731088	Route de l'Évêque	residential	1	0	0	
+HT	3731088	Route de la Garotte	unclassified	1	0	0	
+HT	3731088	Route de la Passe	residential	1	0	0	
+HT	3731088	Route du Petit Bois	unclassified	1	0	0	
+HT	3731088	Rue Abbé Audain	unclassified	1	0	0	
+HT	3731088	Rue Capra	unclassified	1	0	0	
+HT	3731088	Rue Croix Maitou	unclassified	1	0	0	
+HT	3731088	Rue Francoise Jeanot	unclassified	1	0	0	
+HT	3731088	Rue Jean-François Jeannot	unclassified	1	0	0	
+HT	3731088	Rue Jerusalem	residential	1	0	0	
+HT	3731088	Rue Labelle Frech'e	unclassified	1	0	0	
+HT	3731088	Rue Michel Lafrague	unclassified	1	0	0	
+HT	3731088	Rue Nicholas Geffard	unclassified	1	0	0	
+HT	3731088	Rue Nicolas Geffrard	unclassified	1	0	0	
+HT	3731088	Rue Saint-Jean	unclassified	1	0	0	
+HT	3731088	Rue Saint-Pierre	unclassified	1	0	0	
+HT	3731088	Rue du Bord de Mer	unclassified	1	0	0	
+HT	3731088	Rue du Chemin de Fer	unclassified	1	0	0	
+HT	3731088	Rue du Progrès	unclassified	1	0	0	
+HT	3731095	Koridò Labardy	unclassified	1	0	0	
+HT	3731095	Route Communale 200B	tertiary	1	0	0	
+HT	3731095	Route Départementale # 203	secondary	1	0	0	
+HT	3731095	Route Nationale # 2	primary	1	0	0	
+HT	3731095	Route Sintout	unclassified	1	0	0	
+HT	3731095	Route de la Croix Calvaire	unclassified	1	0	0	
+HT	3731095	Rue Alexandre Pétion	residential	1	0	0	
+HT	3731095	Rue D. Saint-Preux	residential	1	0	0	
+HT	3731095	Rue F. Faval	unclassified	1	0	0	
+HT	3731095	Rue Henri Christophe	residential	1	0	0	
+HT	3731095	Rue Jean-Jacques Dessalines	residential	1	0	0	
+HT	3731095	Rue Julien Raymond	residential	1	0	0	
+HT	3731095	Rue Saint-Michel	tertiary	1	0	0	
+HT	3731095	Rue Saint-Thomas	residential	1	0	0	
+HT	3731095	Rue Sténio Vincent	residential	1	0	0	
+HT	3731095	Rue T Louverture	residential	1	0	0	
+HT	3731095	Rue T. Louverture	residential	1	0	0	
+HT	3731095	Rue d'Amant	residential	1	0	0	
+HT	3731095	Rue de Deux Amis	residential	1	0	0	
+HT	3731095	Rue de l'Azile	tertiary	1	0	0	
+HT	3731095	Rue de l'Égalité	residential	1	0	0	
+HT	3731095	Ruelle Concorde	residential	1	0	0	
+HT	3731105	2ème Rue Forcelis	residential	1	0	0	
+HT	3731105	2ème Ruelle Morissette	residential	1	0	0	
+HT	3731105	Impasse Cité Lucame	residential	1	0	0	
+HT	3731105	Route Communale 102A	tertiary	1	0	0	
+HT	3731105	Route du Calvaire	tertiary	1	0	0	
+HT	3731105	Rue Divigno	residential	1	0	0	
+HT	3731105	Rue Forcelis	residential	1	0	0	
+HT	3731105	Rue Geffrard	residential	1	0	0	
+HT	3731105	Rue Gondive	residential	1	0	0	
+HT	3731105	Rue Neuve	residential	1	0	0	
+HT	3731105	Rue Pétion	residential	1	0	0	
+HT	3731105	Rue Saint-Joseph	tertiary	1	0	0	
+HT	3731123	Route Communale 201A	tertiary	1	0	0	
+HT	3731123	Route Départementale # 201	secondary	1	0	0	
+HT	3731123	Route de O'Rouck	tertiary	1	0	0	
+HT	3731123	Rue Principale	residential	1	0	0	
+HT	3731123	Rue de l'Hôpital	residential	1	0	0	
+HT	3731123	Rue de l'École	residential	1	0	0	
+HT	3731123	Rue de la Cathédrale	residential	1	0	0	
+HT	3731123	Rue du Cimetière	residential	1	0	0	
+HT	3731123	Rue du Collège	residential	1	0	0	
+HT	3731123	Rue du Doux Refuge	residential	1	0	0	
+HT	3731123	Rue du Jubilé	residential	1	0	0	
+HT	3731126	Calle Beltrán	residential	1	0	0	
+HT	3731126	Carretera Vial Muro Fronterizo	tertiary	1	0	0	
+HT	3731126	avenida Duarte	primary	1	0	0	
+HT	3731126	route residentielle	residential	1	0	0	
+HT	3731132	Ti Maché Bois Credit		2	1	1	
+HT	3731132	Route Départementale 1	secondary	1	0	0	
+HT	3731132	Route du Warf	secondary	1	0	0	
+HT	3731230	Route de Vallières	tertiary	1	0	0	
+HT	3731230	Route du Quartier Acul-Samedi	tertiary	1	0	0	
+HT	3731230	Rue de l'Église	unclassified	1	0	0	
+HT	3731230	Rue de la Place	unclassified	1	0	0	
+HT	3731230	Rue du Cimetière	residential	1	0	0	
+HT	3731230	Rue du Marché	residential	1	0	0	
+HT	3731233	Impasse Lumière	residential	1	0	0	
+HT	3731233	Route Nationale # 1	primary	1	0	0	
+HT	3731233	Route de Acul-du-Nord	tertiary	1	0	0	
+HT	3731233	Route de Labruyère	unclassified	1	0	0	
+HT	3731233	Route de Lombard	unclassified	1	0	0	
+HT	3731233	Route de Tosia	unclassified	1	0	0	
+HT	3731233	Rue Principale	tertiary	1	0	0	
+HT	3731233	Rue Saint-Augustin	residential	1	0	0	
+HT	3731233	Rue Saint-Jacques	unclassified	1	0	0	
+HT	3731257	Ancienne Route de Saint-Victor	unclassified	1	0	0	
+HT	3731257	Anse du clere	tertiary	1	0	0	
+HT	3731257	Route Bonbon	secondary	1	0	0	
+HT	3731257	Route Communale # 700B	secondary	1	0	0	
+HT	3731257	Route de Saint-Juste	residential	1	0	0	
+HT	3731257	Route de Saint-Victor	tertiary	1	0	0	
+HT	3731257	Rue 75	unclassified	1	0	0	
+HT	3740016	Route Nationale # 5	primary	1	0	0	
+HT	12558105	Route Départementale 702	secondary	1	0	0	

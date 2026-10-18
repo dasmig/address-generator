@@ -1,0 +1,433 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+FO	2609913	Skálavegur	tertiary	110	50	211	
+FO	2609913	Hórheiðar		47	4	78	
+FO	2609913	Fagralíð	residential	24	2	32	
+FO	2609913	Bryggjan		14	2	39	
+FO	2609913	Gamlivegur		14	2	36	
+FO	2609913	Niðari Vegur	residential	13	50	84	
+FO	2609913	Gerðisgøta	residential	12	3	16	
+FO	2609913	Sólteigur	residential	11	1	28	
+FO	2609913	Fjarðarvegur	primary	9	6	22	
+FO	2609913	Møttisgil	residential	9	1	12	
+FO	2609913	Kumláarbrekka	residential	7	2	9	
+FO	2609913	Millum Gerðini	residential	6	10	20	
+FO	2610294	Geilin	residential	26	1	21	
+FO	2610294	Glyvursvegur	tertiary	13	33	90	
+FO	2610294	Glyvravegur	residential	10	35	86	
+FO	2610294	Bøgøta	residential	8	1	8	
+FO	2610294	Selatraðarvegur	tertiary	8	450	474	
+FO	2610294	Undir Lyngbrekku	residential	8	1	8	
+FO	2610294	Á Byrgisheyggi	residential	8	1	15	
+FO	2610294	Gerðisgøta	residential	7	1	13	
+FO	2610294	Við Høgnaheyggj	residential	6	1	8	
+FO	2610294	Oman Sandheyggj	residential	4	1	4	
+FO	2610294	Í Dalinum	residential	4	1	7	
+FO	2610294	Lambareiðisvegur	primary	3	1	3	
+FO	2610302	Eggjarvegur	residential	47	2	68	
+FO	2610302	Garðsvegur	residential	35	2	41	
+FO	2610302	Hoygarðsvegur	residential	24	1	36	
+FO	2610302	Eiðsvíksvegur	secondary	22	2	42	
+FO	2610302	Bakkavegur	residential	18	1	44	
+FO	2610302	Heygavegur	residential	15	2	22	
+FO	2610302	Á Dalhellu	residential	10	5	20	
+FO	2610302	Heiðavegur	residential	7	3	21	
+FO	2610302	Viðareiðisvegur	tertiary	6	1	13	
+FO	2610302	Dalavegur	secondary	5	6	12	
+FO	2610302	Kirkjugøta	residential	5	1	10	
+FO	2610302	Fagragilsvegur		4	2	6	
+FO	2610343	Bakkavegur	residential	161	9	163	
+FO	2610343	Niðari Vegur	tertiary	67	4	77	
+FO	2610343	Gerðisvegur	residential	63	2	58	
+FO	2610343	Ovari Vegur	residential	50	5	75	
+FO	2610343	Toftavegur	residential	33	2	41	
+FO	2610343	Hvalvíksvegur	secondary	31	47	95	
+FO	2610343	Bøgøta	residential	24	2	30	
+FO	2610343	Hornavegur	residential	24	3	31	
+FO	2610343	Grótbrúgv	residential	22	2	21	
+FO	2610343	Rógvuvegur	residential	22	2	33	
+FO	2610343	Fjalsvegur	residential	21	2	36	
+FO	2610343	Flatnavegur	residential	21	2	22	
+FO	2610806	Vágsvegur	primary	116	8	122	
+FO	2610806	Geilin	residential	98	8	100	
+FO	2610806	Toftavegur	residential	92	9	139	
+FO	2610806	Bøgøta	residential	75	4	82	
+FO	2610806	Kráavegur	residential	56	8	70	
+FO	2610806	Marknoyrarvegur	primary	55	3	61	
+FO	2610806	Líðarvegur	secondary	52	2	50	
+FO	2610806	Fossavegur	residential	45	4	50	
+FO	2610806	Toftalíð	residential	41	5	51	
+FO	2610806	Gjógvarávegur	residential	39	2	53	
+FO	2610806	Skálavegur	residential	37	3	47	
+FO	2610806	Traðavegur		28	3	30	
+FO	2611060	Sjógøta	tertiary	185	17	246	
+FO	2611060	Froðbiarvegur	tertiary	81	28	282	
+FO	2611060	Traðarvegur	primary	50	6	105	
+FO	2611060	Sevmýri	residential	46	8	75	
+FO	2611060	Heiðatrøðin	residential	35	5	32	
+FO	2611060	Undir Heygnum	tertiary	32	4	53	
+FO	2611060	Við Sílá	tertiary	32	2	47	
+FO	2611060	Torvheyggjur	residential	31	2	47	
+FO	2611060	Tvørávegur	tertiary	30	7	53	
+FO	2611060	Líðin	primary	29	10	194	
+FO	2611060	Ovari Vegur	residential	27	6	77	
+FO	2611060	Sornhúsvegur	residential	27	4	33	
+FO	2611209	Í Heygunum	residential	59	7	144	
+FO	2611209	Á Brekkunum	tertiary	40	2	64	
+FO	2611209	Trongisvágsvegur	primary	39	11	192	
+FO	2611209	Brekkulág	residential	32	2	63	
+FO	2611209	Í Húsgarði	residential	28	4	36	
+FO	2611209	Hvammavegur	residential	22	17	79	
+FO	2611209	Traðarvegur	primary	22	134	223	
+FO	2611209	Í Syðrutoftum	residential	15	1	48	
+FO	2611209	Ósavegur	tertiary	15	4	30	
+FO	2611209	Børkugøta	residential	14	3	21	
+FO	2611209	Fornarætt	residential	13	1	22	
+FO	2611209	Smærugøta	residential	11	5	15	
+FO	2611396	Berjabrekka		120	5	203	
+FO	2611396	Óðinshædd	unclassified	114	7	143	
+FO	2611396	Stoffalág	residential	105	7	148	
+FO	2611396	Blómubrekka	residential	100	12	144	
+FO	2611396	Landavegur	secondary	88	6	111	
+FO	2611396	Sundsvegur	secondary	77	4	32	
+FO	2611396	Jóannesar Paturssonar gøta	secondary	75	5	81	
+FO	2611396	Tinghúsvegur	tertiary	70	5	89	
+FO	2611396	Undir Gráasteini	residential	68	7	70	
+FO	2611396	Varðagøta	residential	66	4	74	
+FO	2611396	Grønlandsvegur	residential	63	6	67	
+FO	2611396	Hoyvíksvegur	unclassified	62	10	67	
+FO	2611396	Yviri við Strond	secondary	59	3	109	
+FO	2611396	Niels Finsens gøta	residential	57	6	57	
+FO	2611396	Fjalsgøta	residential	55	3	68	
+FO	2611396	Spógvavegur	residential	54	3	55	
+FO	2611396	Djóna í Geil gøta	residential	53	6	61	
+FO	2611396	Mýrisnípuvegur	residential	50	1	48	
+FO	2611396	Tróndargøta	residential	49	3	54	
+FO	2611396	Torfinsgøta	residential	45	6	45	
+FO	2611396	Velbastaðvegur	primary	45	4	101	
+FO	2611396	Dalabú		44	3	42	
+FO	2611396	J.C. Svabos gøta	secondary	44	8	58	
+FO	2611396	Jónas Broncks gøta	secondary	42	5	44	
+FO	2611567	Høganesvegur	residential	88	6	91	
+FO	2611567	Nesvegur	tertiary	56	4	91	
+FO	2611567	Gaddavegur	residential	52	3	56	
+FO	2611567	Heygsvegur	residential	52	3	73	
+FO	2611567	Lýðarsvegur	residential	46	6	50	
+FO	2611567	Regnavegur	residential	46	4	57	
+FO	2611567	Toftavegur	secondary	42	3	59	
+FO	2611567	Á Kneysum	residential	42	4	31	
+FO	2611567	Á Brekkukletti	residential	24	4	25	
+FO	2611567	Brekkuvegur	residential	20	1	34	
+FO	2611567	Undir Nesinum		20	1	26	
+FO	2611567	Agnið	tertiary	17	3	21	
+FO	2612233	Eyrgøta	residential	41	5	48	
+FO	2612233	Fløtuvegur	tertiary	40	2	88	
+FO	2612233	Lágarvegur	residential	28	2	40	
+FO	2612233	Fríðufløtur	residential	27	2	27	
+FO	2612233	Skúlavegur	residential	27	3	34	
+FO	2612233	Heygsvegur	residential	24	2	28	
+FO	2612233	Undir Torvbrekku	residential	24	2	28	
+FO	2612233	við Nónvarða		22	4	25	
+FO	2612233	Sjóvarvegur		21	2	41	
+FO	2612233	Rókavegur	residential	20	1	38	
+FO	2612233	Lágargerði		18	1	24	
+FO	2612233	Strandatún	residential	18	1	21	
+FO	2612890	Traðarvegur	residential	45	7	45	
+FO	2612890	Bakkavegur	tertiary	44	3	53	
+FO	2612890	Í Geilini	residential	42	2	30	
+FO	2612890	Varðagøta	primary	36	2	41	
+FO	2612890	Ovarivegur	tertiary	30	2	41	
+FO	2612890	Traðarbrekka	secondary	29	2	28	
+FO	2612890	Garðsvegur	residential	28	2	51	
+FO	2612890	Í Gerðinum	residential	27	3	30	
+FO	2612890	Liðabrekkan	residential	22	2	39	
+FO	2612890	Á Mýratrøðni	residential	22	2	25	
+FO	2612890	Hagagerði	residential	21	4	29	
+FO	2612890	Húsadalsvegur	residential	21	3	35	
+FO	2613477	Beinisvegur	residential	11	1	16	
+FO	2613477	Turiðargøta	residential	11	1	13	
+FO	2613477	Brestisvegur	tertiary	10	2	16	
+FO	2613477	Einarsvegur	residential	9	1	15	
+FO	2613477	Skarvanesvegur	tertiary	9	1	9	
+FO	2613477	Tórisvegur	residential	7	1	12	
+FO	2613477	Sigmundarvegur	unclassified	4	10	16	
+FO	2613477	Tórugøta	residential	4	1	8	
+FO	2613660	Garðavegur	residential	41	4	42	
+FO	2613660	Tormansvegur	residential	39	5	80	
+FO	2613660	Tunguvegur	residential	35	2	49	
+FO	2613660	Liðarvegur		22	3	23	
+FO	2613660	Høvdarhagavegur	residential	21	2	27	
+FO	2613660	Ognarvegur	residential	21	2	25	
+FO	2613660	Bøherðan		20	1	30	
+FO	2613660	Gerðisvegur	residential	19	1	24	
+FO	2613660	Skúlavegur	residential	19	3	21	
+FO	2613660	Leirvíksvegur	residential	17	1	24	
+FO	2613660	Selatraðvegur		15	1	16	
+FO	2613660	Gamlivegur	residential	9	3	12	
+FO	2613915	Skálavegur	tertiary	57	196	341	
+FO	2613915	Søldarfjarðarvegur	primary	34	2	36	
+FO	2613915	Niðari Vegur	residential	32	2	35	
+FO	2613915	Gerðisvegur	residential	30	2	38	
+FO	2613915	Úti á Fløtum	residential	25	2	32	
+FO	2613915	Hórheiðar	residential	23	33	72	
+FO	2613915	Garðavegur	residential	21	2	25	
+FO	2613915	Dalabøur	residential	13	1	22	
+FO	2613915	Lygnesvegur	residential	13	3	16	
+FO	2613915	Skúlagøta	residential	12	4	26	
+FO	2613915	Selatraðarvegur	tertiary	10	755	841	
+FO	2613915	Bátahylurin		8	6	26	
+FO	2613921	Hagabrekka	residential	44	3	42	
+FO	2613921	Fram við Ánni	residential	24	2	36	
+FO	2613921	Dalsvegur	tertiary	22	2	28	
+FO	2613921	Tumbakkavegur	residential	17	1	17	
+FO	2613921	Hamarsvegur	residential	16	7	35	
+FO	2613921	Innaridalur	tertiary	14	4	20	
+FO	2613921	Sævareingir	residential	12	1	19	
+FO	2613921	Gerðisvegur	residential	11	1	19	
+FO	2613921	Heiðaravegur	residential	10	1	17	
+FO	2613921	Uttaragerð		10	1	12	
+FO	2613921	Bøgøta	residential	8	2	12	
+FO	2613921	Dalagerði		8	1	8	
+FO	2614212	Heimasandsvegur	primary	119	7	140	
+FO	2614212	Í Trøðum	residential	32	4	64	
+FO	2614212	Sandabrekkan	residential	25	1	30	
+FO	2614212	Akkuleyugøta	residential	22	2	23	
+FO	2614212	Ovari Vegur	residential	22	4	57	
+FO	2614212	Í Nesi		20	1	20	
+FO	2614212	Undir Reynum	residential	16	1	20	
+FO	2614212	Í Soylu	residential	11	1	18	
+FO	2614212	Eystanvegur	tertiary	10	3	25	
+FO	2614212	Miðgøta	residential	10	2	17	
+FO	2614212	Áarbøur	residential	10	1	11	
+FO	2614212	Undir Gøtuni	residential	9	1	10	
+FO	2614265	Á Sondum	residential	33	2	37	
+FO	2614265	Giljavegur	primary	31	20	64	
+FO	2614265	Traðarvegur	residential	29	3	43	
+FO	2614265	Steigarbrekka	residential	28	2	30	
+FO	2614265	Hammershaimbsvegur	residential	24	3	25	
+FO	2614265	Lonarstræti	residential	23	2	29	
+FO	2614265	Ovastuhjallar	residential	22	2	22	
+FO	2614265	Torkilsvegur	residential	20	3	30	
+FO	2614265	Á Merkrunum	residential	19	1	27	
+FO	2614265	Smæruteigur	residential	18	1	19	
+FO	2614265	Við Stóraklett	residential	18	2	19	
+FO	2614265	Sóljuteigur	residential	17	1	17	
+FO	2614304	Heiðavegur	primary	107	13	102	
+FO	2614304	Leitisvegur	residential	105	5	103	
+FO	2614304	Norðurhædd		62	4	70	
+FO	2614304	Rituvíkarvegur	residential	59	4	85	
+FO	2614304	Glyvravegur	primary	54	3	70	
+FO	2614304	Hjallavegur	residential	50	9	64	
+FO	2614304	Gerðisvegur	tertiary	30	18	59	
+FO	2614304	Suðurhædd	residential	25	2	29	
+FO	2614304	Á Heygnum	residential	23	2	25	
+FO	2614304	Dalavegur	residential	22	2	24	
+FO	2614304	Á Líknargøtu	residential	21	2	23	
+FO	2614304	Grannatún	residential	20	2	24	
+FO	2614402	Blikagøta	residential	36	3	69	
+FO	2614402	Mýravegur	primary	32	2	35	
+FO	2614402	Æðugøta	residential	24	2	25	
+FO	2614402	Rúnarvegur	residential	21	2	30	
+FO	2614402	Gerðisvegur	tertiary	17	2	23	
+FO	2614402	Rókavegur		17	3	52	
+FO	2614402	Nýggivegur	residential	16	1	19	
+FO	2614402	Lómsvegur	residential	12	1	12	
+FO	2614402	Heiðavegur	primary	10	1	10	
+FO	2614402	Fjøruvegur	primary	8	3	9	
+FO	2614402	Berjavegur	residential	6	1	6	
+FO	2614402	Lyngvegur	residential	6	1	7	
+FO	2615132	Heygavegur	residential	37	2	39	
+FO	2615132	Á Nesi	residential	28	2	46	
+FO	2615132	Hólavegur	residential	26	2	33	
+FO	2615132	Í Hólinum	residential	25	2	25	
+FO	2615132	Skiparavegur	residential	24	5	26	
+FO	2615132	Bakkavegur	residential	22	2	33	
+FO	2615132	Klovavegur	residential	21	3	21	
+FO	2615132	Bakkafløttur	residential	20	2	28	
+FO	2615132	Á Fløttinum	residential	17	2	32	
+FO	2615132	Undir Heyggi	tertiary	13	1	15	
+FO	2615132	Á Heyggi	residential	9	1	11	
+FO	2615132	Við Á	residential	8	1	8	
+FO	2616142	Tróndargøta	residential	42	3	59	
+FO	2616142	Við Ánna	residential	40	2	72	
+FO	2616142	Geytagøta	residential	39	4	43	
+FO	2616142	Sjúrðargøta	residential	37	2	38	
+FO	2616142	Úti í Bø	residential	26	2	28	
+FO	2616142	Í Tungu	residential	24	2	26	
+FO	2616142	Gróvargøta	residential	22	2	26	
+FO	2616142	Húsgarður	residential	22	2	31	
+FO	2616142	Myllágøta	residential	18	1	23	
+FO	2616142	Salvarávegur	residential	18	1	19	
+FO	2616142	Torbjarnargøta	residential	17	1	16	
+FO	2616142	Stallagøta	residential	14	1	21	
+FO	2616914	Jatnavegur	primary	45	3	71	
+FO	2616914	Svabosvegur	residential	38	2	57	
+FO	2616914	Leitisvegur	primary	36	2	58	
+FO	2616914	Húsanesvegur	residential	33	4	51	
+FO	2616914	Úti á Støð		28	2	30	
+FO	2616914	Kálvalíðvegur	residential	27	2	41	
+FO	2616914	Hornavegur	residential	26	3	34	
+FO	2616914	Gerðisgøta	residential	20	1	23	
+FO	2616914	Tvørgarðsgøta	residential	19	1	33	
+FO	2616914	Rasmusargøta	residential	18	1	22	
+FO	2616914	Kumlavegur	residential	17	1	24	
+FO	2616914	Rygstún	residential	17	1	17	
+FO	2617844	Garðsvegur	residential	31	4	43	
+FO	2617844	Toftanes	residential	31	3	44	
+FO	2617844	Fløtugerði	residential	26	5	31	
+FO	2617844	Heiðriksmørk	tertiary	25	3	28	
+FO	2617844	Á Bakka	residential	25	2	30	
+FO	2617844	Áargarður	residential	18	2	20	
+FO	2617844	Nýggjagerði	residential	17	1	17	
+FO	2617844	Eggjarvegur	tertiary	16	10	28	
+FO	2617844	Sporamørk	tertiary	16	4	24	
+FO	2617844	Millum Svalir	residential	15	1	18	
+FO	2617844	Við Garð	residential	15	1	18	
+FO	2617844	Gásamýri	residential	14	3	21	
+FO	2618085	Víkarvegur	tertiary	52	3	62	
+FO	2618085	Ovari Vegur	residential	46	7	52	
+FO	2618085	Leynarvegur	primary	31	2	65	
+FO	2618085	Frammi í Gerði	residential	25	2	28	
+FO	2618085	Hvalvíksvegur	secondary	21	3	43	
+FO	2618085	Kirkjuvegur	residential	20	1	28	
+FO	2618085	Múlheiðar	residential	20	1	37	
+FO	2618085	Undir Hamri	residential	20	3	32	
+FO	2618085	Revagøta	residential	14	1	17	
+FO	2618085	Stykkjavegur	residential	12	2	18	
+FO	2618085	Garðavegur	residential	11	2	13	
+FO	2618085	Steinagerði	residential	11	1	17	
+FO	2618119	Sundsvegur	residential	75	5	89	
+FO	2618119	Oyravegur	residential	40	5	51	
+FO	2618119	Fossávegur	residential	21	3	34	
+FO	2618119	Millum Garðarnar	residential	18	2	28	
+FO	2618119	Kelduvegur	residential	14	3	24	
+FO	2618119	Sandoyrabug		12	1	19	
+FO	2618119	Fornagøta	residential	10	1	15	
+FO	2618119	Undir Svartakletti	residential	9	15	26	
+FO	2618119	Deildarvegur		8	3	11	
+FO	2618119	Suðuri á Bø	residential	8	15	23	
+FO	2618119	Heimi í Húsi	residential	7	1	8	
+FO	2618119	Kunoyarvegur	residential	7	1	22	
+FO	2618511	Í Líðini	residential	57	9	129	
+FO	2618511	Við Sjógv	residential	48	5	72	
+FO	2618511	Á Signabø	tertiary	37	4	80	
+FO	2618511	Bøgøta	residential	34	6	45	
+FO	2618511	Norðuri í Sundum	residential	34	2	63	
+FO	2618511	Inni í Firði	primary	28	13	129	
+FO	2618511	Brekkugerði	residential	26	2	25	
+FO	2618511	Á Oyrareingjum	tertiary	24	32	112	
+FO	2618511	Giljavegur	residential	22	3	42	
+FO	2618511	Vørðuvegur	residential	21	2	23	
+FO	2618511	Steinsgøta	residential	17	1	50	
+FO	2618511	Á Todnesi	residential	17	1	38	
+FO	2618795	Klaksvíksvegur	residential	95	2	85	
+FO	2618795	Víkavegur	residential	95	6	125	
+FO	2618795	Stangavegur	secondary	91	4	150	
+FO	2618795	Stoksoyrarvegur	residential	79	5	73	
+FO	2618795	Heygavegur	residential	73	2	63	
+FO	2618795	Garðavegur	residential	67	5	70	
+FO	2618795	Undir Fossum	residential	60	4	81	
+FO	2618795	Flatnavegur	residential	59	6	89	
+FO	2618795	Kráargøta	residential	58	2	74	
+FO	2618795	Undir Hálsi	residential	56	3	59	
+FO	2618795	Uppsalagøta	residential	56	4	66	
+FO	2618795	Á Brekku	residential	56	3	57	
+FO	2618795	Skáltavegur	residential	54	3	59	
+FO	2618795	Undir Brúnni	residential	52	3	50	
+FO	2618795	Kjalarvegur	residential	47	3	50	
+FO	2618795	Millum Hjalla	residential	47	3	48	
+FO	2618795	Undir Klakki	residential	46	3	55	
+FO	2618795	Bumshamarsvegur	residential	42	5	38	
+FO	2618795	Jørundsgøta	residential	40	4	48	
+FO	2618795	Undir Grashjalla	residential	40	2	48	
+FO	2618795	Traðagøta	residential	39	2	49	
+FO	2618795	Vágsheygsgøta	residential	39	2	38	
+FO	2618795	Geilin	residential	38	2	44	
+FO	2618795	Mylnugøta	residential	36	2	36	
+FO	2618855	Heima á Bø	residential	20	2	30	
+FO	2618855	Um Eiði	residential	19	1	30	
+FO	2618855	Í Túni	residential	17	1	29	
+FO	2618855	Bøvegur	residential	15	1	24	
+FO	2618855	Uppi á Váli	residential	9	3	16	
+FO	2618855	Uppi í Húsi		7	1	10	
+FO	2618855	Niðri í Húsi	tertiary	6	2	12	
+FO	2618855	Handansvegur	residential	5	7	17	
+FO	2618855	Kirkjugøta	residential	5	2	13	
+FO	2618855	Millum Húsa	residential	5	3	11	
+FO	2618855	Kalavegur	residential	4	3	10	
+FO	2618855	Reynavegur	residential	4	2	5	
+FO	2619596	Bíarvegur	residential	125	8	139	
+FO	2619596	Nesvegur	tertiary	63	4	70	
+FO	2619596	Skálavegur	secondary	52	4	89	
+FO	2619596	Bíargarður		24	4	47	
+FO	2619596	Snæbjarnarvegur	residential	22	4	27	
+FO	2619596	Toftavegur	residential	19	1	28	
+FO	2619596	Í Heiðatrøðini	residential	19	1	25	
+FO	2619596	Giljageil	residential	17	3	20	
+FO	2619596	Norðbergsvegur	residential	17	1	17	
+FO	2619596	Á Rókatrøð	residential	16	7	27	
+FO	2619596	Sandavegur	secondary	15	2	24	
+FO	2619596	Ytsti Vegur	residential	15	1	15	
+FO	2619693	Karlamagnusarbreyt	residential	148	2	53	
+FO	2619693	Millum Gilja	residential	135	7	167	
+FO	2619693	Maritugøta	residential	121	7	119	
+FO	2619693	Niðaragøta	residential	83	2	114	
+FO	2619693	Dýrindalsgøta	residential	63	4	60	
+FO	2619693	Á Hjalla		51	3	56	
+FO	2619693	Ovaragøta	residential	47	3	68	
+FO	2619693	Jørundargøta	residential	43	25	64	
+FO	2619693	Kristiansgøta	residential	42	3	40	
+FO	2619693	Oman Hoydalar	residential	37	2	35	
+FO	2619693	Við Myllutjørn	residential	37	2	61	
+FO	2619693	Guttormsgøta	residential	34	2	32	
+FO	2619734	Brúarvegur	residential	20	1	29	
+FO	2619734	Traðarvegur	residential	18	5	33	
+FO	2619734	Við Grind	residential	13	1	13	
+FO	2619734	Garðsvegur	tertiary	12	2	28	
+FO	2619734	Í Leivsgarði	residential	7	1	11	
+FO	2619734	Brekkuvegur	residential	6	3	13	
+FO	2619734	Stapavegur	residential	2	2	4	
+FO	2619734	Grønudalur	residential	1	0	0	
+FO	2619734	Hovs Tunnilin	primary	1	0	0	
+FO	2621808	Ennivegur	residential	90	7	109	
+FO	2621808	Bøvegur	residential	61	5	69	
+FO	2621808	Innandalsvegur	residential	51	6	84	
+FO	2621808	Børkugøta	residential	50	3	93	
+FO	2621808	Toftanesvegur	residential	49	3	110	
+FO	2621808	Bakkavegur	residential	48	4	60	
+FO	2621808	Mirmansvegur	tertiary	46	5	53	
+FO	2621808	Kirkjuvegur	residential	39	2	47	
+FO	2621808	Bjarnavegur	residential	26	2	32	
+FO	2621808	Rættarvegur	tertiary	25	2	31	
+FO	2621808	Mørkin	tertiary	24	4	32	
+FO	2621808	Sevdalsvegur	residential	23	2	31	
+FO	2622676	Úti á Bø	residential	56	2	102	
+FO	2622676	Bakkavegur	secondary	41	3	54	
+FO	2622676	Brekkuvegur	residential	37	4	41	
+FO	2622676	Korndalsvegur	residential	26	9	41	
+FO	2622676	Gerðisvegur	residential	24	2	27	
+FO	2622676	Uppi í Túni	residential	24	3	24	
+FO	2622676	Heimtún	residential	20	3	32	
+FO	2622676	Kirkjugøta	pedestrian	20	1	26	
+FO	2622676	Mylnuvegur	residential	19	1	39	
+FO	2622676	Víkavegur	secondary	19	1	45	
+FO	2622676	Kirkjuvegur	residential	18	2	28	
+FO	2622676	Yviri í Gjógv	residential	18	1	21	
+FO	2624653	undir Kongavarða		67	14	130	
+FO	2624653	Argjavegur	residential	64	4	59	
+FO	2624653	Undir Kongavarða	residential	58	3	86	
+FO	2624653	Reynsgøta		52	2	79	
+FO	2624653	Traðagøta	residential	50	2	53	
+FO	2624653	Viðargøta	residential	49	3	60	
+FO	2624653	Við Klingurstjørn	residential	47	3	52	
+FO	2624653	við Klingurstjørn		47	61	106	
+FO	2624653	Rygsgøta	residential	46	3	45	
+FO	2624653	Reynstún		31	2	30	
+FO	2624653	Argjaboðagøta	unclassified	29	2	34	
+FO	2624653	Garðsgøta	residential	28	2	31	
+FO	7798678	Dalsvegur	residential	1	0	0	
+FO	7798678	Fuglafjarðarvegur	primary	1	0	0	
+FO	7798678	Leirvíkartunnilin	primary	1	0	0	
+FO	7798678	Leirvíkarvegur	primary	1	0	0	
+FO	7798678	Leirvíksvegur	unclassified	1	0	0	
+FO	7798678	Við Leitisstein	residential	1	0	0	
+FO	7798678	Við Ánna	residential	1	0	0	

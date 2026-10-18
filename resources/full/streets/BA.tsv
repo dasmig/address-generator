@@ -1,0 +1,3926 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+BA	3186246	Sime Perića	living_street	179	8	159	
+BA	3186246	Svetog Save	tertiary	166	5	232	
+BA	3186246	Vuka Karadžića	residential	151	8	227	
+BA	3186246	Majevička	residential	147	5	172	
+BA	3186246	Bolnička	residential	92	5	73	
+BA	3186246	Oslobođenja	residential	88	5	81	
+BA	3186246	Bukovački put	residential	77	4	80	
+BA	3186246	Краља Петра првог	primary	70	56	165	Kralja Petra prvog
+BA	3186246	Patrijarha Pavla	residential	66	2	75	
+BA	3186246	Podrinjska	residential	66	4	95	
+BA	3186246	9. aprila	residential	56	2	37	
+BA	3186246	Srpskih junaka	residential	43	3	49	
+BA	3186246	Вука Караџића	primary	39	2	41	Vuka Karadzica
+BA	3186246	Vratolomački put	residential	31	1	35	
+BA	3186246	Gavrila Principa	residential	29	2	29	
+BA	3186246	Gornji put	residential	29	2	29	
+BA	3186246	Vidakova njiva	residential	28	3	45	
+BA	3186246	Omladinska	residential	27	1	31	
+BA	3186246	Braće Stefanović	residential	26	2	24	
+BA	3186246	Đurđevdanska	residential	25	2	27	
+BA	3186246	Braće Obradović	residential	23	2	24	
+BA	3186246	Braće Jugović		22	2	24	
+BA	3186246	Goranska	residential	19	1	20	
+BA	3186246	Jadarska	residential	18	1	18	
+BA	3186423	Dubrave Gornje		2	0	0	
+BA	3186423	Magistralni put A		2	220	220	
+BA	3186423	16. Muslimanske brigade	residential	1	0	0	
+BA	3186423	25. Novembar	residential	1	0	0	
+BA	3186423	Armije BiH	residential	1	0	0	
+BA	3186423	Bosanska	residential	1	0	0	
+BA	3186423	Bosanska - A	residential	1	0	0	
+BA	3186423	Gostelja - C	residential	1	0	0	
+BA	3186423	I. ulica	secondary	1	0	0	
+BA	3186423	II. ulica	residential	1	0	0	
+BA	3186423	Jelah	residential	1	0	0	
+BA	3186423	Kop	residential	1	0	0	
+BA	3186423	Magistralni Put A	residential	1	0	0	
+BA	3186423	Maršala Tita	residential	1	0	0	
+BA	3186423	Meše Selimovića	residential	1	0	0	
+BA	3186423	Modračka	secondary	1	0	0	
+BA	3186423	Omladinskih radnih brigada	residential	1	0	0	
+BA	3186423	Otava	residential	1	0	0	
+BA	3186423	Pašage Gogića	residential	1	0	0	
+BA	3186423	Paše Gogića	residential	1	0	0	
+BA	3186423	Pobrđani	residential	1	0	0	
+BA	3186423	Podoljani	residential	1	0	0	
+BA	3186423	Prvog maja	residential	1	0	0	
+BA	3186423	Rudarska	residential	1	0	0	
+BA	3186425	Plato	pedestrian	1	0	0	
+BA	3186567	Prva	residential	10	1	61	
+BA	3186567	Stjepana Radića	residential	2	1	2	
+BA	3186567	Stjepana Tomaševića	residential	2	3	11	
+BA	3186567	Abdul Vehab Ilhamije	residential	1	0	0	
+BA	3186567	Anke Topića	residential	1	0	0	
+BA	3186567	Bosnabahn	unclassified	1	0	0	
+BA	3186567	Bukovik	residential	1	0	0	
+BA	3186567	Gradski trg	pedestrian	1	0	0	
+BA	3186567	Karaula	primary	1	0	0	
+BA	3186567	Kulina Bana	residential	1	0	0	
+BA	3186567	Mahala	residential	1	0	0	
+BA	3186567	Malatržna	residential	1	0	0	
+BA	3186567	Omladinska	residential	1	0	0	
+BA	3186567	Orlovik	residential	1	0	0	
+BA	3186567	Sarajevska	residential	1	0	0	
+BA	3186567	Srebrenička	residential	1	0	0	
+BA	3186567	Stara Cesta	residential	1	0	0	
+BA	3186567	Ulica Ozimica	unclassified	1	0	0	
+BA	3186567	Zagrebačka	residential	1	0	0	
+BA	3186567	Zenički put	residential	1	0	0	
+BA	3186567	Željeznička	residential	1	0	0	
+BA	3186573	ulica Prasnice		16	22	78	
+BA	3186573	Masarykova	residential	12	23	60	
+BA	3186573	Vrandučka	residential	10	57	131	
+BA	3186573	Sarajevska	secondary	8	20	364	
+BA	3186573	Marjanovića put	residential	6	5	17	
+BA	3186573	Talića Brdo	residential	6	3	13	
+BA	3186573	Zije Dizdarevića	residential	6	10	26	
+BA	3186573	Zmaja od Bosne	secondary	6	27	27	
+BA	3186573	Zvečajska	residential	6	66	121	
+BA	3186573	Bistua Nuova	tertiary	5	2	109	
+BA	3186573	Branilaca Bosne	secondary	5	2	16	
+BA	3186573	Bulevar Kralja Tvrtka I	tertiary	5	11	34	
+BA	3186573	Fakultetska	residential	5	1	10	
+BA	3186573	Gorazdanska		5	55	68	
+BA	3186573	Goraždanska	residential	5	54	87	
+BA	3186573	I Zeničke brigade	tertiary	5	7	15	
+BA	3186573	Bilimišće		4	107	107	
+BA	3186573	Dr. Abdulaziza - Aska Borića	residential	4	12	35	
+BA	3186573	Trg Bosne i Hercegovine	pedestrian	4	2	6	
+BA	3186573	Bulevar Kulina Bana	tertiary	3	16	31	
+BA	3186573	Crkvice		3	14	54	
+BA	3186573	Kočeva	living_street	3	30	35	
+BA	3186573	Kranjčevićeva	residential	3	5	9	
+BA	3186573	Lukovo polje	residential	3	2	75	
+BA	3186573	Muhameda Seida Serdarevića		3	1	27	
+BA	3186573	Visočka	residential	3	18	60	
+BA	3186573	Ahmeta Hafizovića	residential	2	66	84	
+BA	3186573	Aleja šehida	tertiary	2	20	20	
+BA	3186573	Bilmišće	living_street	2	0	0	
+BA	3186573	Kamberovića čikma	residential	2	6	6	
+BA	3186573	Maršala Tita	pedestrian	2	48	86	
+BA	3186573	Trg Alije Izetbegovića	pedestrian	2	69	73	
+BA	3186573	Štrosmajerova	residential	2	9	125	
+BA	3186573	9. maja	residential	1	0	0	
+BA	3186573	Abdulaziza - Aska Borića	residential	1	0	0	
+BA	3186573	Armije RBiH	residential	1	0	0	
+BA	3186573	Augusta Šenoe	residential	1	0	0	
+BA	3186573	Avde Smaljovića	residential	1	0	0	
+BA	3186573	Bijeli put	residential	1	0	0	
+BA	3186573	Blatuša	residential	1	0	0	
+BA	3186573	Bosanskih kraljeva	residential	1	0	0	
+BA	3186573	Branislava Nušića	living_street	1	0	0	
+BA	3186573	Brdo	residential	1	0	0	
+BA	3186573	Crnile	residential	1	0	0	
+BA	3186573	Dr Hasana Muminagića	residential	1	0	0	
+BA	3186573	Dr. Safvet-bega Bašagića	residential	1	0	0	
+BA	3186573	Drvena Ćuprija	secondary	1	0	0	
+BA	3186573	Drveni most	secondary	1	0	0	
+BA	3186573	Fra Ljudevita Hrgića	living_street	1	0	0	
+BA	3186573	Gorazdanska Ulica	tertiary	1	0	0	
+BA	3186573	Gorica	residential	1	0	0	
+BA	3186573	Gradac	residential	1	0	0	
+BA	3186573	Hadžije Mazića	residential	1	0	0	
+BA	3186573	Hakije Kulenovića	living_street	1	0	0	
+BA	3186573	Hamdije Kreševljakovića	residential	1	0	0	
+BA	3186573	Ivana Cankara	residential	1	0	0	
+BA	3186573	Ivana Gundulića	residential	1	0	0	
+BA	3186573	Jalijski put	residential	1	0	0	
+BA	3186573	Janjički slapovi	residential	1	0	0	
+BA	3186573	Jevrejska	residential	1	0	0	
+BA	3186573	Josipovića put	residential	1	0	0	
+BA	3186573	Kadije Durme	residential	1	0	0	
+BA	3186573	Kamberovića most	tertiary	1	0	0	
+BA	3186573	Katići	residential	1	0	0	
+BA	3186573	Kočevska Česma	living_street	1	0	0	
+BA	3186573	Krivače	residential	1	0	0	
+BA	3186573	Krč	residential	1	0	0	
+BA	3186573	Kula	residential	1	0	0	
+BA	3186573	Kučukovići	living_street	1	0	0	
+BA	3186573	Luke	residential	1	0	0	
+BA	3186573	Margita	residential	1	0	0	
+BA	3186573	Mehmeda Azapagića	residential	1	0	0	
+BA	3186573	Mehmeda Spahe	residential	1	0	0	
+BA	3186573	Mehmedalije Tarabara	residential	1	0	0	
+BA	3186573	Mejdandžik	residential	1	0	0	
+BA	3186573	Milivoja Čekade	residential	1	0	0	
+BA	3186573	Mirka Davidovića	residential	1	0	0	
+BA	3186573	Mokušnice	residential	1	0	0	
+BA	3186573	Muftije Šemsekadića	residential	1	0	0	
+BA	3186573	Nikole Tesle	residential	1	0	0	
+BA	3186573	Nurije Pozderca	living_street	1	0	0	
+BA	3186573	Pehare	residential	1	0	0	
+BA	3186573	Ploče	residential	1	0	0	
+BA	3186573	Podunje	residential	1	0	0	
+BA	3186573	Potok	living_street	1	0	0	
+BA	3186573	Poštanska	residential	1	0	0	
+BA	3186573	Prašnice	residential	1	0	0	
+BA	3186573	Prof. Juraja Neidharta	residential	1	0	0	
+BA	3186573	Prusačka	residential	1	0	0	
+BA	3186573	Rafaela Levija	residential	1	0	0	
+BA	3186573	Ravan	living_street	1	0	0	
+BA	3186573	Ričički put	residential	1	0	0	
+BA	3186573	Rudnički most	tertiary	1	0	0	
+BA	3186573	Rujev Do	living_street	1	0	0	
+BA	3186573	Sandžačka	residential	1	0	0	
+BA	3186573	Sejmenska	residential	1	0	0	
+BA	3186573	Sestara Ditrih	residential	1	0	0	
+BA	3186573	Skutovo	residential	1	0	0	
+BA	3186573	Smetovski put	residential	1	0	0	
+BA	3186573	Srpska Mahala	residential	1	0	0	
+BA	3186588	Hase Bega Huseinovića	residential	1	0	0	
+BA	3186588	Kolići	unclassified	1	0	0	
+BA	3186588	Patriotske lige	secondary	1	0	0	
+BA	3186588	Starina	unclassified	1	0	0	
+BA	3186588	Ulica Petrovića	residential	1	0	0	
+BA	3186717	Zlatnih ljiljana	primary	22	6	131	
+BA	3186717	15. Septembar	residential	18	2	32	
+BA	3186717	Alije Izetbegovica	residential	14	1	26	
+BA	3186717	Mitrovici		8	0	0	
+BA	3186717	Stjepana Radića	residential	7	9	48	
+BA	3186717	Mehmed-paše Sokolovića	residential	6	2	11	
+BA	3186717	Gazi-Husrev begova	residential	3	3	5	
+BA	3186717	Husein Kapetana Gradaščevića	residential	3	5	9	
+BA	3186717	Safvet-bega Bašagića	residential	2	9	9	
+BA	3186717	Ulica Brace Garankica	residential	2	6	9	
+BA	3186717	Vozuća bb		2	0	0	
+BA	3186717	17. aprila	residential	1	0	0	
+BA	3186717	35. divizije	residential	1	0	0	
+BA	3186717	4. Manevarski bataljon	residential	1	0	0	
+BA	3186717	Abdul Vehaba Ilhamije	residential	1	0	0	
+BA	3186717	Dubravački put	residential	1	0	0	
+BA	3186717	Gazi Hugrev-begova	residential	1	0	0	
+BA	3186717	Gazija	residential	1	0	0	
+BA	3186717	Guido Pulletti	residential	1	0	0	
+BA	3186717	Krivajska	secondary	1	0	0	
+BA	3186717	Majdanski Put	residential	1	0	0	
+BA	3186717	Maršala Tita	residential	1	0	0	
+BA	3186717	Mehmeda Spahe	residential	1	0	0	
+BA	3186717	Oslobodilaca Kleka	residential	1	0	0	
+BA	3186961	Donje Selo	residential	1	0	0	
+BA	3186961	Gornje Selo	residential	1	0	0	
+BA	3186961	Komorani	residential	1	0	0	
+BA	3186961	Mali Guber	primary	1	0	0	
+BA	3186961	Prisap	residential	1	0	0	
+BA	3186961	Vukadini	residential	1	0	0	
+BA	3187040	Orovac-Mujkanovici	unclassified	1	0	0	
+BA	3187040	Orovci	residential	1	0	0	
+BA	3187040	Ulica Hasana Suljanovica	residential	1	0	0	
+BA	3187162	Staro Selo		17	100	184	
+BA	3187162	Vrnograč	residential	1	0	0	
+BA	3187393	Dankov most	unclassified	1	0	0	
+BA	3187393	Pribitkovici	residential	1	0	0	
+BA	3187419	Dobrošin	residential	1	0	0	
+BA	3187464	Jošanička	residential	64	6	163	
+BA	3187464	Skendera Kulenovića	residential	47	3	51	
+BA	3187464	Feriza Merzuka	residential	45	4	70	
+BA	3187464	Igmanska	primary	36	32	87	
+BA	3187464	Partizanskog odreda Zvijezda	residential	30	2	46	
+BA	3187464	Braće Kršo	residential	20	1	34	
+BA	3187464	Spasoje Blagovčanina	residential	19	1	49	
+BA	3187464	Vogošćanskih odreda	residential	19	1	62	
+BA	3187464	Branilaca Vijenca		12	1	19	
+BA	3187464	Ahmeda Rizve		9	1	18	
+BA	3187464	Remzije Veje	residential	9	1	10	
+BA	3187464	24. juna	residential	8	7	44	
+BA	3187464	Omladinska	residential	7	1	12	
+BA	3187464	Akifa ef. Biserovića	residential	4	1	5	
+BA	3187464	Braće Halać		4	1	15	
+BA	3187464	Hasana Merdžanovića		4	3	30	
+BA	3187464	Krivoglavci 1		4	4	30	
+BA	3187464	Ulica Rosulje I		4	1	23	
+BA	3187464	Izeta Delića	residential	3	22	22	
+BA	3187464	Muje Šejte		3	7	7	
+BA	3187464	Tome Mendeša	residential	2	1	3	
+BA	3187464	Ulica Rosulje III		2	1	3	
+BA	3187464	Branilaca vijenca	residential	1	0	0	
+BA	3187464	Gornja Jošanica I	unclassified	1	0	0	
+BA	3187524	Svetosavska		101	5	78	
+BA	3187524	Gavrila Principa		82	5	92	
+BA	3187524	Nebojše Jovića		57	3	54	
+BA	3187524	Dobrice Ćosića		49	4	54	
+BA	3187524	Trg srpskih boraca		49	4	53	
+BA	3187524	Žrtava Rogosije		48	3	54	
+BA	3187524	Kik		45	3	49	
+BA	3187524	Prote Dušana Bobara		45	2	73	
+BA	3187524	Srpskih ranjenika		45	3	66	
+BA	3187524	Svetih apostola Petra i Pavla		44	4	41	
+BA	3187524	Patrijarha Pavla		43	4	46	
+BA	3187524	9. januar		40	3	47	
+BA	3187588	Dr. Franje Tuđmana	residential	1	0	0	
+BA	3187588	Tribač	unclassified	1	0	0	
+BA	3187588	Vašarovići	unclassified	1	0	0	
+BA	3187590	Poslovni centar		5	96	96	
+BA	3187590	Kulina bana		3	0	0	
+BA	3187590	Grbavica		2	0	0	
+BA	3187590	325 Brdska Brigada	residential	1	0	0	
+BA	3187590	Bana Jelačića	residential	1	0	0	
+BA	3187590	Banja Jelačića	residential	1	0	0	
+BA	3187590	Divjak	tertiary	1	0	0	
+BA	3187590	Fra Grge Martića	residential	1	0	0	
+BA	3187590	Fra Marijana Šunjića	residential	1	0	0	
+BA	3187590	Gajeva	residential	1	0	0	
+BA	3187590	HVO-a	residential	1	0	0	
+BA	3187590	Ive Andrića	residential	1	0	0	
+BA	3187590	Kralja Petra Krešimira IV	residential	1	0	0	
+BA	3187590	Kralja Petra Krešimira IV.	residential	1	0	0	
+BA	3187590	Kralja Tvrtka	tertiary	1	0	0	
+BA	3187590	Kraljice Katarine	residential	1	0	0	
+BA	3187590	Kulina Bana	residential	1	0	0	
+BA	3187590	Most na Divjaku	tertiary	1	0	0	
+BA	3187590	Osam viteških anđela	residential	1	0	0	
+BA	3187590	Petra Svačića	residential	1	0	0	
+BA	3187590	Riječka	residential	1	0	0	
+BA	3187590	Silvija Strahimira Kranjčevića	residential	1	0	0	
+BA	3187590	Travnička	unclassified	1	0	0	
+BA	3187590	Tvornička	unclassified	1	0	0	
+BA	3187609	Tabhanska	residential	9	1	77	
+BA	3187609	Branilaca	secondary	3	22	63	
+BA	3187609	Alije Izetbegovića	tertiary	2	8	12	
+BA	3187609	Braće Zečevića	residential	2	3	3	
+BA	3187609	Kralja Tvrtka	secondary	2	63	63	
+BA	3187609	Ozrakovići	tertiary	2	11	11	
+BA	3187609	Sige - Hadžijin Brijeg		2	117	117	
+BA	3187609	Ulica IV	residential	2	16	18	
+BA	3187609	Aleja Šehida Resula	residential	1	0	0	
+BA	3187609	Banjer	residential	1	0	0	
+BA	3187609	Bare	residential	1	0	0	
+BA	3187609	Betonski most	secondary	1	0	0	
+BA	3187609	Bijela Džamija	residential	1	0	0	
+BA	3187609	Bulaklina	residential	1	0	0	
+BA	3187609	Burića	residential	1	0	0	
+BA	3187609	Carica	residential	1	0	0	
+BA	3187609	Dahirovac	residential	1	0	0	
+BA	3187609	Delahmetovića	residential	1	0	0	
+BA	3187609	Donja Mahala	residential	1	0	0	
+BA	3187609	Donje Rosulje	residential	1	0	0	
+BA	3187609	Dr. Džananovića	residential	1	0	0	
+BA	3187609	Džamijsa	residential	1	0	0	
+BA	3187609	Džemaludina Čauševića	residential	1	0	0	
+BA	3187609	Franjevačka	residential	1	0	0	
+BA	3187609	Gornje Rosulje	secondary	1	0	0	
+BA	3187609	Gračanica	residential	1	0	0	
+BA	3187609	Hadži Hasanova	residential	1	0	0	
+BA	3187609	Hadžiahića	residential	1	0	0	
+BA	3187609	Hadžijina voda	residential	1	0	0	
+BA	3187609	Hamdije Kreševljakovića	residential	1	0	0	
+BA	3187609	Hazima Dedića	residential	1	0	0	
+BA	3187609	Izeta Kurtalića	residential	1	0	0	
+BA	3187609	Iznaduvara	residential	1	0	0	
+BA	3187609	Jevrejska	residential	1	0	0	
+BA	3187609	Kadije Uvjesa	tertiary	1	0	0	
+BA	3187609	Kadragića	residential	1	0	0	
+BA	3187609	Karavdića	residential	1	0	0	
+BA	3187609	Kazaferov most	residential	1	0	0	
+BA	3187609	Kožarski most	residential	1	0	0	
+BA	3187609	Križ	residential	1	0	0	
+BA	3187609	Kula Banjer	residential	1	0	0	
+BA	3187609	Loznik	residential	1	0	0	
+BA	3187609	Mehmeda Skopljaka	residential	1	0	0	
+BA	3187609	Mevića	residential	1	0	0	
+BA	3187609	Mladih muslimana	residential	1	0	0	
+BA	3187609	Moštrina	residential	1	0	0	
+BA	3187609	Muftije Numanagića	residential	1	0	0	
+BA	3187609	Mule Hodžića	secondary	1	0	0	
+BA	3187681	Dušče	living_street	170	5	169	
+BA	3187681	Gavrila Principa	residential	149	4	253	
+BA	3187681	Vojvode Putnika	residential	148	7	99	
+BA	3187681	Ive Andrića	primary	137	6	136	
+BA	3187681	Stevana Sinđelića	residential	126	7	155	
+BA	3187681	Ban Polje	residential	91	2	62	
+BA	3187681	Šeganje	residential	84	4	50	
+BA	3187681	Nezuci	living_street	74	3	98	
+BA	3187681	Svetog Save	residential	73	4	58	
+BA	3187681	Karađorđeva	living_street	68	4	97	
+BA	3187681	Kosovo Polje	residential	66	41	182	
+BA	3187681	9. januara	residential	64	3	33	
+BA	3187681	Okrugla	residential	57	4	57	
+BA	3187681	Cara Lazara	residential	55	3	63	
+BA	3187681	Njegoševa	residential	50	3	30	
+BA	3187681	Donja Crnča	residential	49	5	82	
+BA	3187681	Druge podrinjske lake pješadijske brigade	residential	41	3	46	
+BA	3187681	Jove Jovanovića Zmaja	residential	39	3	72	
+BA	3187681	Vodenice	residential	38	2	33	
+BA	3187681	Užičkog korpusa	primary	35	2	52	
+BA	3187681	Kralja Petra Prvog	residential	33	1	34	
+BA	3187681	Solunskih boraca	residential	31	3	26	
+BA	3187681	Jovana Dučića	residential	28	2	31	
+BA	3187681	Bikavac	residential	27	1	9	
+BA	3187799	Grgurići		60	17	81	
+BA	3187799	Babići	residential	1	0	0	
+BA	3187799	Bandovi	residential	1	0	0	
+BA	3187799	Džebe	residential	1	0	0	
+BA	3187799	Džeke	residential	1	0	0	
+BA	3187799	Glavice	residential	1	0	0	
+BA	3187799	Gluvuše	residential	1	0	0	
+BA	3187799	Jankovići	residential	1	0	0	
+BA	3187799	Jozići	residential	1	0	0	
+BA	3187799	Karadže	residential	1	0	0	
+BA	3187799	Konte	residential	1	0	0	
+BA	3187799	Kožice	residential	1	0	0	
+BA	3188165	Горња Лупљаница		2	140	140	
+BA	3188199	Dragomira Lazića	residential	1	0	0	
+BA	3188199	Makadam	residential	1	0	0	
+BA	3188199	Živića sokak	residential	1	0	0	
+BA	3188225	Balčin most	primary	1	0	0	
+BA	3188225	Hasana Kikica	residential	1	0	0	
+BA	3188225	Ive Marinkovića	primary	1	0	0	
+BA	3188225	Maršala Tita	primary	1	0	0	
+BA	3188225	Trg mladih	primary	1	0	0	
+BA	3188225	Ulica Rudarski Put	residential	1	0	0	
+BA	3188225	Ulica Zaima Muzaferije	residential	1	0	0	
+BA	3188329	Branilaca BiH	primary	1	0	0	
+BA	3188357	Armije BiH	residential	1	0	0	
+BA	3188357	Hamzi	residential	1	0	0	
+BA	3188357	Hasan paše Predojevića	residential	1	0	0	
+BA	3188357	Muse Ćazima Ćatića	residential	1	0	0	
+BA	3188357	Zmaja od Bosne	residential	1	0	0	
+BA	3188366	Alta Via Breza Vares	unclassified	1	0	0	
+BA	3188458	Omladinska	residential	3	0	0	
+BA	3188458	Mahala	residential	1	0	0	
+BA	3188458	Rimski most u Kožetini	unclassified	1	0	0	
+BA	3188532	Угљевичка Обријеж		88	150	281	
+BA	3188532	Ćirila i Metodija	residential	64	2	38	
+BA	3188532	Zekina	residential	56	2	56	
+BA	3188532	Svetog Save	residential	54	4	66	
+BA	3188532	Bogutovačka	residential	53	3	55	
+BA	3188532	Vojvode Kerovića	residential	52	2	51	
+BA	3188532	Đure Bižića	residential	50	3	54	
+BA	3188532	Mihajla Pupina	residential	40	1	42	
+BA	3188532	Radomira Arsenovića	residential	40	2	41	
+BA	3188532	Majevičkog četničkog korpusa	residential	39	2	37	
+BA	3188532	Забрђе		38	272	548	
+BA	3188532	Hilandarska	residential	36	2	46	
+BA	3188582	3. tuzlanske brigade	residential	253	10	175	
+BA	3188582	Armije RBiH	residential	212	38	436	
+BA	3188582	Put Križani	residential	207	22	305	
+BA	3188582	Vukovarska	residential	207	11	231	
+BA	3188582	Fikreta Salihovića Fikre	residential	203	20	252	
+BA	3188582	Alije Ibrića	residential	201	11	230	
+BA	3188582	Kojšino	residential	168	9	216	
+BA	3188582	Husinskih rudara	residential	151	11	403	
+BA	3188582	Damira Hadžibeganovića	residential	149	8	192	
+BA	3188582	Ive Andrića	residential	137	7	141	
+BA	3188582	Mandići	residential	137	7	176	
+BA	3188582	Talijani	residential	136	6	145	
+BA	3188582	Bećarevac	residential	126	9	135	
+BA	3188582	Hukići	residential	126	7	128	
+BA	3188582	Tušanj	residential	120	6	189	
+BA	3188582	Zlatana Mešića	residential	118	6	125	
+BA	3188582	Krojčica	residential	117	11	271	
+BA	3188582	Admira Dedića	residential	115	9	173	
+BA	3188582	Pavla Goranina	residential	107	8	161	
+BA	3188582	Mehmedalije Maka Dizdara	residential	106	1	80	
+BA	3188582	Gornji Mosnik	residential	102	7	123	
+BA	3188582	Slavinovičkog odreda 1992	residential	102	24	210	
+BA	3188582	Vršani	residential	102	6	126	
+BA	3188582	Fra Blaža Josića	residential	101	10	255	
+BA	3188582	Mitra Trifunovića Uče	residential	100	6	153	
+BA	3188582	Paša bunar	residential	98	6	137	
+BA	3188582	Pašage Mandžića	residential	97	6	113	
+BA	3188582	Donje Brdo	residential	95	6	111	
+BA	3188582	Drage Pavića	residential	94	4	143	
+BA	3188582	115. HVO brigade	residential	89	4	198	
+BA	3188582	Batva	residential	86	5	127	
+BA	3188582	Maršala Tita	secondary	86	42	197	
+BA	3188582	17. septembra	residential	85	5	90	
+BA	3188582	Sarajac	residential	82	5	219	
+BA	3188582	Vakufska	residential	81	8	117	
+BA	3188582	Mirsada Fidahića	residential	80	4	81	
+BA	3188582	Save Kovačevića	residential	77	6	90	
+BA	3188582	Rudarska	secondary	76	3	71	
+BA	3188582	Dobrovoljačka	residential	75	11	176	
+BA	3188582	Hajrudina Mešića	residential	75	4	156	
+BA	3188582	Meme Suljetovića	residential	75	5	113	
+BA	3188582	9 Maja		74	5	106	
+BA	3188582	Slanac	residential	74	4	70	
+BA	3188582	Branislava Nušića	residential	72	7	165	
+BA	3188582	Veljke Lukića Kurjaka	residential	72	150	261	
+BA	3188582	Rudolfa Vikića	residential	71	4	81	
+BA	3188582	Donji Mosnik	residential	68	4	101	
+BA	3188582	Ismeta Mujezinovića	residential	67	4	51	
+BA	3188582	Peje Markovića	residential	67	5	135	
+BA	3188582	Rasovac	residential	67	4	81	
+BA	3188582	Dragodol	residential	66	4	79	
+BA	3188582	Vrapče	residential	64	5	86	
+BA	3188582	6. bosanske brigade	residential	63	5	118	
+BA	3188582	Fočanska	residential	62	5	63	
+BA	3188582	Majska	residential	62	4	190	
+BA	3188582	Mandžukovac	residential	62	4	68	
+BA	3188582	Šehidska	residential	62	15	157	
+BA	3188582	Vikaljska	residential	61	5	119	
+BA	3188582	Alekse Šantića	residential	60	4	127	
+BA	3188582	Kozlovačke čete	residential	60	10	71	
+BA	3188582	Goli brijeg	residential	59	9	84	
+BA	3188582	Muharema Fizovića Fiska	residential	58	3	59	
+BA	3188582	Kula	residential	57	2	77	
+BA	3188582	Turalibegova	residential	57	3	65	
+BA	3188582	Izeta Sarajlića	residential	56	3	56	
+BA	3188582	Fadila Jahića Španca	residential	55	3	66	
+BA	3188582	Uzeira Meškovića Rame	residential	55	3	91	
+BA	3188582	Bosanskih franjevaca	residential	53	3	123	
+BA	3188582	Medenice	residential	53	6	66	
+BA	3188582	Mehdina Hodžića	residential	53	3	203	
+BA	3188582	Panorama	residential	53	3	59	
+BA	3188582	Branilaca Tuzle	residential	51	7	236	
+BA	3188582	Kicelj	residential	51	6	80	
+BA	3188582	Badre	residential	50	3	63	
+BA	3188582	Mejdan	residential	50	4	56	
+BA	3188582	Plane	residential	50	25	137	
+BA	3188582	4. aprila	residential	49	5	70	
+BA	3188582	Džafer Mahala	secondary	49	3	66	
+BA	3188582	Milaka Tešića Mikelje	residential	48	4	87	
+BA	3188582	16. muslimanske brigade	residential	47	9	56	
+BA	3188582	Bukinjska	residential	47	2	206	
+BA	3188582	Dobrovoljačka Pasci	residential	47	3	132	
+BA	3188582	Nesiba Malkica		47	4	71	
+BA	3188582	Fridriha Kacera	residential	46	4	57	
+BA	3188582	Zlatnih Ljiljana	residential	46	4	117	
+BA	3188582	Bosne Srebrene	primary	45	5	125	
+BA	3188582	Gradovrška	residential	45	114	174	
+BA	3188582	Novo naselje	residential	45	5	85	
+BA	3188582	Seada Rahmanovića	residential	45	3	58	
+BA	3188582	Muratbega Zaimovića	residential	44	3	45	
+BA	3188582	Gornje Brdo	residential	43	2	49	
+BA	3188582	Proleterskih brigada	residential	43	3	87	
+BA	3188582	Slavka Mičića	residential	43	5	58	
+BA	3188582	Sulejmana Aličića Sulje	residential	43	4	49	
+BA	3188582	Bime Adžajlića	residential	42	4	61	
+BA	3188582	Muharema Merdžića Merdže	residential	42	3	41	
+BA	3188582	21. decembra	residential	41	3	117	
+BA	3188582	Dr Milice Kosorić	residential	41	4	40	
+BA	3188582	Ivana Markovića Irca	residential	41	1	66	
+BA	3188582	Dr Fuada Idrizbegovića	residential	40	3	66	
+BA	3188633	Dolina Panjeva	residential	1	0	0	
+BA	3188633	Grohot	residential	1	0	0	
+BA	3188633	Đelilovsko polje	residential	1	0	0	
+BA	3188691	Fatkića selo	residential	1	0	0	
+BA	3188691	Gata Felići	residential	1	0	0	
+BA	3188773	Trnovskog bataljona	residential	174	12	202	
+BA	3188773	Jablanica		169	9	187	
+BA	3188773	Kijevo		161	11	211	
+BA	3188773	Polja		161	9	284	
+BA	3188773	Tošići	living_street	96	5	117	
+BA	3188773	Turovi	secondary	93	5	106	
+BA	3188773	1. gardijske motorizovane brigade GŠ VRS	residential	85	6	153	
+BA	3188773	Rajski do	secondary	81	5	88	
+BA	3188773	Širokari	residential	74	4	78	
+BA	3188773	Batići		65	4	78	
+BA	3188773	Godinjske bare	secondary	57	3	119	
+BA	3188773	Miladina Rističevića	residential	43	2	44	
+BA	3188817	Tarasa Ševčenka	residential	13	1	16	
+BA	3188817	Cara Dušana	secondary	11	47	178	
+BA	3188817	Mome Kapora	residential	8	1	12	
+BA	3188817	Vase Čarapića	residential	3	45	46	
+BA	3188817	Rosulje	residential	2	93	95	
+BA	3188817	12. maja	residential	1	0	0	
+BA	3188817	21. novembra	primary	1	0	0	
+BA	3188817	24. oktobra	tertiary	1	0	0	
+BA	3188817	28. februara	residential	1	0	0	
+BA	3188817	Akademika Svetozara Koljevića	residential	1	0	0	
+BA	3188817	Alojza Adamiča	residential	1	0	0	
+BA	3188817	Babića rijeka	residential	1	0	0	
+BA	3188817	Banjalučkih beba	residential	1	0	0	
+BA	3188817	Blagajska	residential	1	0	0	
+BA	3188817	Blaški bregovi	residential	1	0	0	
+BA	3188817	Boračkog naselja	residential	1	0	0	
+BA	3188817	Branislava Nušića	residential	1	0	0	
+BA	3188817	Bukovička ulica	residential	1	0	0	
+BA	3188817	Cerska	tertiary	1	0	0	
+BA	3188817	Dr Todora Tode Jeremića	residential	1	0	0	
+BA	3188817	Filipa Višnjića	residential	1	0	0	
+BA	3188817	Grmečka ulica	residential	1	0	0	
+BA	3188817	Grčka	residential	1	0	0	
+BA	3188817	Hercegovačka	residential	1	0	0	
+BA	3188893	Pridvorci	residential	227	25	200	
+BA	3188893	Melentija Perovića	living_street	159	6	110	
+BA	3188893	Terazije	living_street	137	7	152	
+BA	3188893	Vožda Karađorđa	tertiary	137	1	108	
+BA	3188893	Stari grad	pedestrian	133	9	153	
+BA	3188893	Jovana R. Deretića	residential	129	7	131	
+BA	3188893	Obala Luke Vukalovića	residential	128	4	105	
+BA	3188893	Put Svetog Vasilija Ostroškog	tertiary	120	5	97	
+BA	3188893	Vojvode Sinđelića	living_street	116	5	88	
+BA	3188893	Gorička	residential	104	6	142	
+BA	3188893	Nikšićki put	primary	97	5	83	
+BA	3188893	Podvori	living_street	84	5	91	
+BA	3188893	Vojvođanska	living_street	75	2	77	
+BA	3188893	Dr Draga Perovića	living_street	72	4	85	
+BA	3188893	Vojvode Stepe Stepanovića	residential	71	4	68	
+BA	3188893	Crnogorska	residential	69	5	85	
+BA	3188893	Ljuba Mićevića	living_street	69	4	62	
+BA	3188893	Vuka Karadžića	residential	69	2	47	
+BA	3188893	Dražin Do	living_street	68	4	76	
+BA	3188893	Kralja Petra Prvog Oslobodioca	primary	66	5	48	
+BA	3188893	Đurđevdanska	residential	66	4	92	
+BA	3188893	Gomiljani	living_street	63	4	66	
+BA	3188893	Knez Mihailova	residential	58	2	55	
+BA	3188893	Potklisje	residential	58	3	52	
+BA	3188893	Starine Novaka	living_street	56	3	55	
+BA	3188893	Dr Jovana Cvijića	residential	54	2	57	
+BA	3188893	Petrina	residential	54	3	61	
+BA	3188893	Vinogradska	residential	53	2	49	
+BA	3188893	Obala Mića Ljubibratića	residential	51	3	48	
+BA	3188893	Stjenovita	residential	51	3	58	
+BA	3188893	Hercegovačka	living_street	46	2	49	
+BA	3188893	Obrena Đurića Kozića	living_street	46	3	67	
+BA	3188893	Dobrovoljačka	residential	45	3	38	
+BA	3188893	Neđeljka Čabrinovića	residential	45	3	42	
+BA	3188893	Trebinjskih brda	residential	45	3	45	
+BA	3188893	Lastvanska	living_street	44	3	62	
+BA	3188893	Republike Srpske	residential	44	3	35	
+BA	3188893	Vojvode Vlatka Vukovića	residential	43	3	59	
+BA	3188893	Strma	living_street	42	2	44	
+BA	3188893	Dolovi	residential	41	3	48	
+BA	3188893	Geljov most	residential	40	2	47	
+BA	3188893	Kamenička	residential	40	2	40	
+BA	3188893	Kosovska	residential	40	2	35	
+BA	3188893	Toma Galeba	residential	40	2	49	
+BA	3188893	Miloša Šarabe	residential	39	2	40	
+BA	3188893	Golobrdska	residential	38	2	40	
+BA	3188893	Lučidolska	residential	38	2	37	
+BA	3188893	Herceg Stefana Kosače	residential	37	1	33	
+BA	3188924	Bosanska	tertiary	34	21	155	
+BA	3188924	Varoš	residential	13	10	53	
+BA	3188924	Gornje osoje	residential	7	5	38	
+BA	3188924	Derviš efendije Korkuta	residential	6	54	60	
+BA	3188924	Aleja konzula	tertiary	5	10	18	
+BA	3188924	Školska	residential	5	1	21	
+BA	3188924	Erika Brandisa	tertiary	3	17	17	
+BA	3188924	Fatmić	residential	3	1	3	
+BA	3188924	Prnjavor	residential	3	22	26	
+BA	3188924	Donje Putićevo		2	107	107	
+BA	3188924	Gaj	residential	2	18	18	
+BA	3188924	Nova Bila		2	10	10	
+BA	3188924	Stanična	residential	2	41	43	
+BA	3188924	Žitarnica	pedestrian	2	1	7	
+BA	3188924	Ante Vlajića	residential	1	0	0	
+BA	3188924	Bunar	residential	1	0	0	
+BA	3188924	Dolac na Lašvi	primary	1	0	0	
+BA	3188924	Donja mahala	tertiary	1	0	0	
+BA	3188924	Donja čaršija	residential	1	0	0	
+BA	3188924	Donje osoje	residential	1	0	0	
+BA	3188924	Gimnazijska	residential	1	0	0	
+BA	3188924	Hadži Ali-bega Hasanpašića	residential	1	0	0	
+BA	3188924	Hasanagina	residential	1	0	0	
+BA	3188924	Hendek	residential	1	0	0	
+BA	3188924	Ilovača	residential	1	0	0	
+BA	3188924	Kacijan	residential	1	0	0	
+BA	3188924	Kahvica	living_street	1	0	0	
+BA	3188924	Konatur	residential	1	0	0	
+BA	3188924	Krndija	residential	1	0	0	
+BA	3188924	Kulina bana	tertiary	1	0	0	
+BA	3188924	Mehmed-paše Kukavice	residential	1	0	0	
+BA	3188924	Mehmeda Spahe	living_street	1	0	0	
+BA	3188924	Meljanac	residential	1	0	0	
+BA	3188924	Pašamahala	residential	1	0	0	
+BA	3188924	Podilovača	residential	1	0	0	
+BA	3188924	Potok	living_street	1	0	0	
+BA	3188924	Poturmahala	residential	1	0	0	
+BA	3188924	Servis	residential	1	0	0	
+BA	3188924	Tabić mahala	residential	1	0	0	
+BA	3188924	Zulići	residential	1	0	0	
+BA	3188924	Čabruša	residential	1	0	0	
+BA	3188924	Čatale	residential	1	0	0	
+BA	3188924	Đikin sokak	residential	1	0	0	
+BA	3188924	Šehida	primary	1	0	0	
+BA	3188924	Štreka	residential	1	0	0	
+BA	3189046	R 359 Kikači		4	1	4	
+BA	3189046	Gornji Kikači	unclassified	2	81	82	
+BA	3189046	Avdibašići	residential	1	0	0	
+BA	3189046	Babina Luka	residential	1	0	0	
+BA	3189046	Fatici	residential	1	0	0	
+BA	3189046	Grabovac	residential	1	0	0	
+BA	3189046	Haračije	unclassified	1	0	0	
+BA	3189046	Hodžići	residential	1	0	0	
+BA	3189046	Hrasno Brdo	residential	1	0	0	
+BA	3189046	Hrasno Donje	unclassified	1	0	0	
+BA	3189046	Hrasno Gornje	unclassified	1	0	0	
+BA	3189046	Imšića bb	residential	1	0	0	
+BA	3189046	Karovine	unclassified	1	0	0	
+BA	3189046	Kavgara	residential	1	0	0	
+BA	3189046	Kovačevo Selo	residential	1	0	0	
+BA	3189046	Kovačevo selo	residential	1	0	0	
+BA	3189046	Kundakovići	residential	1	0	0	
+BA	3189046	Lašovina	residential	1	0	0	
+BA	3189046	Oslobodilaca	primary	1	0	0	
+BA	3189046	Polje	unclassified	1	0	0	
+BA	3189046	Požarnica	residential	1	0	0	
+BA	3189046	Sakići	residential	1	0	0	
+BA	3189046	Spreče	residential	1	0	0	
+BA	3189046	Ulica Mirzeta Pjanica	residential	1	0	0	
+BA	3189143	Karađorđeva	secondary	3	18	18	
+BA	3189143	Svetog Save	tertiary	3	78	91	
+BA	3189143	Hilandarska	residential	2	12	12	
+BA	3189143	Đulić		2	0	0	
+BA	3189143	Banja Vrućica	unclassified	1	0	0	
+BA	3189143	Banjalučka	residential	1	0	0	
+BA	3189143	Bardaci	residential	1	0	0	
+BA	3189143	Beogradska	residential	1	0	0	
+BA	3189143	Borjanska	residential	1	0	0	
+BA	3189143	Branka Markočevića	residential	1	0	0	
+BA	3189143	Braće Krstića	tertiary	1	0	0	
+BA	3189143	Cara Dušana	residential	1	0	0	
+BA	3189143	Cara Lazara	secondary	1	0	0	
+BA	3189143	Cetinjska	residential	1	0	0	
+BA	3189143	Donji Ružević	primary	1	0	0	
+BA	3189143	Gavrila Dožića	residential	1	0	0	
+BA	3189143	Gavrila Principa	residential	1	0	0	
+BA	3189143	J. Raškovića	residential	1	0	0	
+BA	3189143	Jasenova	residential	1	0	0	
+BA	3189143	Jefte Vukovića	residential	1	0	0	
+BA	3189143	Kalošević	residential	1	0	0	
+BA	3189143	Kneza Miloša	residential	1	0	0	
+BA	3189143	Kninska	residential	1	0	0	
+BA	3189143	Kosovska	residential	1	0	0	
+BA	3189146	Simetrala		4	1	4	
+BA	3189146	Braće Pobrić	secondary	2	17	42	
+BA	3189146	Hajrudina Hajdića	residential	2	2	2	
+BA	3189146	1. marta	residential	1	0	0	
+BA	3189146	9. septembra	residential	1	0	0	
+BA	3189146	Abdulah-paše Defterdarije	residential	1	0	0	
+BA	3189146	Abdurahmana Mešića	residential	1	0	0	
+BA	3189146	Adema Prnjavorca	residential	1	0	0	
+BA	3189146	Adra	residential	1	0	0	
+BA	3189146	Ali-paše Hećimovića	residential	1	0	0	
+BA	3189146	Antuna Branka Šimića	residential	1	0	0	
+BA	3189146	Armije BiH	residential	1	0	0	
+BA	3189146	Braće Mulabećirović	residential	1	0	0	
+BA	3189146	Dobropolje	residential	1	0	0	
+BA	3189146	Dolac	residential	1	0	0	
+BA	3189146	Dr. Adema Handžića	residential	1	0	0	
+BA	3189146	Dr. Muhameda Hadžijahića	residential	1	0	0	
+BA	3189146	Edhema Mulabdića	residential	1	0	0	
+BA	3189146	Enesa Galijaševića	residential	1	0	0	
+BA	3189146	Envera Ajanovića	residential	1	0	0	
+BA	3189146	Hamzalije Ajanovića	residential	1	0	0	
+BA	3189146	Harman	residential	1	0	0	
+BA	3189146	Husage Čišića	residential	1	0	0	
+BA	3189146	Ilirski trg	residential	1	0	0	
+BA	3189194	Glavna ulica	residential	1	0	0	
+BA	3189194	Mustaj-bey Bridge	pedestrian	1	0	0	
+BA	3189194	Stolačka cesta	tertiary	1	0	0	
+BA	3189545	Suvo Polje		22	407	447	
+BA	3189545	Donja Trnova		4	440	494	
+BA	3189545	R-II-4509	secondary	1	0	0	
+BA	3189621	Majdan - Jelačići	unclassified	1	0	0	
+BA	3189621	Put za Krivajeviće	unclassified	1	0	0	
+BA	3189621	Suha - Majdan	unclassified	1	0	0	
+BA	3189621	Čuturići	residential	1	0	0	
+BA	3189823	Hrvatskih branitelja	residential	2	0	0	
+BA	3189823	Banovinska	residential	1	0	0	
+BA	3189823	Don Lazara Lazarevića	residential	1	0	0	
+BA	3189823	Dubrovačka	residential	1	0	0	
+BA	3189823	Humska	residential	1	0	0	
+BA	3189823	Kneza Domagoja	residential	1	0	0	
+BA	3189823	Kneza Mihajla Viševića	primary	1	0	0	
+BA	3189823	Kraljice Katarine	residential	1	0	0	
+BA	3189823	Most Sare Kašiković	pedestrian	1	0	0	
+BA	3189823	Obilaznica Stoca	primary	1	0	0	
+BA	3189823	Podgradska ćuprija	residential	1	0	0	
+BA	3189823	Ruđera Boškovića	primary	1	0	0	
+BA	3189823	S.S. Kranjčevića	secondary	1	0	0	
+BA	3189823	Stjepana Radića	residential	1	0	0	
+BA	3189823	Trg svetog Ilije	residential	1	0	0	
+BA	3189823	Vlatka Mačeka	residential	1	0	0	
+BA	3189823	Zrinjsko-frankopanska	residential	1	0	0	
+BA	3189848	Omladinska ulica	residential	1	0	0	
+BA	3189848	Prisade	residential	1	0	0	
+BA	3189884	Jakupovići	residential	1	0	0	
+BA	3189884	Kalajdžići	unclassified	1	0	0	
+BA	3189884	Krakovići	residential	1	0	0	
+BA	3189884	Malići	residential	1	0	0	
+BA	3189884	Orascani	residential	1	0	0	
+BA	3189884	Pistaline	residential	1	0	0	
+BA	3190158	16. muslimanska	residential	1	0	0	
+BA	3190158	9. septembar	residential	1	0	0	
+BA	3190158	Benjamina Hogića	residential	1	0	0	
+BA	3190158	Drenik	primary	1	0	0	
+BA	3190158	Ibrahima Cvike	residential	1	0	0	
+BA	3190158	Kiseljačka	residential	1	0	0	
+BA	3190158	Maka Dizdara	residential	1	0	0	
+BA	3190158	Meše Selimovića	residential	1	0	0	
+BA	3190158	Posavskog odreda	residential	1	0	0	
+BA	3190158	Stjepana II Kotromanića	residential	1	0	0	
+BA	3190158	Varoških polja	residential	1	0	0	
+BA	3190159	27. jula	secondary	1	0	0	
+BA	3190159	Crni Guber	residential	1	0	0	
+BA	3190159	Dubrovačka	secondary	1	0	0	
+BA	3190159	Gorana Zekića	residential	1	0	0	
+BA	3190159	Ive Andrića	secondary	1	0	0	
+BA	3190159	Meše Selimovića	residential	1	0	0	
+BA	3190159	Nikole Tesle	residential	1	0	0	
+BA	3190159	Skendera Kulenovića	residential	1	0	0	
+BA	3190159	Stari grad	residential	1	0	0	
+BA	3190159	Trg Republike Srpske	secondary	1	0	0	
+BA	3190159	Ulica Republike Srpske	secondary	1	0	0	
+BA	3190172	Povelič	residential	384	11	407	
+BA	3190172	Razboj Ljevčanski		343	20	304	
+BA	3190172	Bajinci		254	63	253	
+BA	3190172	Glamočani		210	10	203	
+BA	3190172	Mome Vidovića	tertiary	197	10	212	
+BA	3190172	Prijebljezi		169	8	169	
+BA	3190172	Danka Mitrova	residential	156	21	194	
+BA	3190172	Gornji Kladari		153	8	141	
+BA	3190172	Save Vujanovića Žuće	primary	149	8	172	
+BA	3190172	Ljubovijska	residential	122	7	139	
+BA	3190172	Sarajevska	residential	113	6	99	
+BA	3190172	Dugo Polje		91	6	85	
+BA	3190172	Donji Kladari		83	5	80	
+BA	3190172	Bardača		81	7	78	
+BA	3190172	Motajičkog odreda	residential	69	4	62	
+BA	3190172	Resavac	residential	64	11	86	
+BA	3190172	Savska	residential	64	4	61	
+BA	3190172	Vase Pelagića	residential	57	3	63	
+BA	3190172	Zdravka Čelara	tertiary	54	3	55	
+BA	3190172	Inađolska	residential	53	3	52	
+BA	3190172	Pukovnika Miodraga Suvajca	secondary	52	3	50	
+BA	3190172	Lilić		49	3	43	
+BA	3190172	Trnjačanska	residential	42	3	50	
+BA	3190172	Brezovljani		40	2	43	
+BA	3190357	Veljke Lukića Kurjaka	residential	144	8	175	
+BA	3190357	Mala Solina	residential	123	13	232	
+BA	3190357	Gradovrška	residential	101	12	108	
+BA	3190357	115. HVO brigade	residential	44	9	252	
+BA	3190357	Mala solina		25	4	48	
+BA	3190357	Brđani	residential	8	1	9	
+BA	3190357	Breške	residential	1	0	0	
+BA	3190357	Donji Dvor	residential	1	0	0	
+BA	3190357	Gornji Dvor	residential	1	0	0	
+BA	3190357	Hidani	unclassified	1	0	0	
+BA	3190385	Ravna Romanija		196	14	241	
+BA	3190385	Podromanija	living_street	171	3	175	
+BA	3190385	Marka Ećimovića	residential	122	7	152	
+BA	3190385	Milanka Vitomira	residential	85	5	92	
+BA	3190385	Mihajla Bjelakovića	residential	83	5	106	
+BA	3190385	Cara Lazara	residential	74	3	68	
+BA	3190385	Sime Drljače	residential	71	4	104	
+BA	3190385	Pera Kosorića	residential	70	7	110	
+BA	3190385	Baltići	living_street	66	3	70	
+BA	3190385	Starine Novaka	primary	60	3	73	
+BA	3190385	Arsena Petrušića	residential	52	3	98	
+BA	3190385	Druge romanijske brigade	residential	50	2	111	
+BA	3190385	Danila Đokića	residential	48	3	55	
+BA	3190385	Kosovska	residential	48	3	45	
+BA	3190385	Prinčići	living_street	48	6	58	
+BA	3190385	Borka i Ratka Radovića	residential	45	3	45	
+BA	3190385	Ive Andrića	residential	44	2	79	
+BA	3190385	Milana Šarca	residential	44	3	81	
+BA	3190385	Gruja Novakovića	primary	41	3	45	
+BA	3190385	Miloša Obilića	residential	41	5	43	
+BA	3190385	Vojvode Mišića	residential	40	2	58	
+BA	3190385	Karađorđeva	residential	37	2	38	
+BA	3190385	Prve romanijske brigade	residential	35	5	42	
+BA	3190385	Njegoševa	residential	31	2	48	
+BA	3190733	Gavrila Principa	primary	4	19	19	
+BA	3190733	16. krajiške brigade	residential	1	0	0	
+BA	3190733	22. pješadijske brigade	residential	1	0	0	
+BA	3190733	Beogradska	residential	1	0	0	
+BA	3190733	Borak	residential	1	0	0	
+BA	3190733	Braće Ševarika	residential	1	0	0	
+BA	3190733	Crnomarkovića	residential	1	0	0	
+BA	3190733	Desanke Maksimović	residential	1	0	0	
+BA	3190733	Drage Vranješa	primary	1	0	0	
+BA	3190733	Industrijska	residential	1	0	0	
+BA	3190733	Mihajla Pupina	residential	1	0	0	
+BA	3190733	Patrijarha Pavla	residential	1	0	0	
+BA	3190733	Prvog krajiškog korpusa	primary	1	0	0	
+BA	3190733	Rajka Dukića	residential	1	0	0	
+BA	3190733	Vojvode Putnika	residential	1	0	0	
+BA	3190837	Braće Jugovića	living_street	122	7	145	
+BA	3190837	Prve šipovačke brigade	secondary	102	7	117	
+BA	3190837	Dušana Rakite	residential	97	5	92	
+BA	3190837	Skendera Kulenovića - Staro Šipovo	residential	93	4	103	
+BA	3190837	Vase Pelagića	living_street	72	4	78	
+BA	3190837	Jovana Jovanovića Zmaja	living_street	69	4	67	
+BA	3190837	Branka Ćopića	living_street	66	3	81	
+BA	3190837	Milana Ilića	living_street	66	4	59	
+BA	3190837	Nikole Tesle	residential	66	4	64	
+BA	3190837	Vidovdanska	living_street	64	4	57	
+BA	3190837	Kninska	residential	62	4	67	
+BA	3190837	Oplenačka	residential	62	5	62	
+BA	3190837	Braće Dakić	residential	59	3	62	
+BA	3190837	Đurđevdanska	living_street	55	3	54	
+BA	3190837	Rade Marijanca	residential	51	3	56	
+BA	3190837	Ive Andrića	residential	49	3	46	
+BA	3190837	Karađorđeva	secondary	45	2	41	
+BA	3190837	Janjska	residential	42	3	45	
+BA	3190837	Sime Šolaje	secondary	42	3	70	
+BA	3190837	Vuka Karadžića	residential	33	2	32	
+BA	3190837	Stepe Stepanovića	residential	32	15	79	
+BA	3190837	Gavrila Principa	secondary	30	2	27	
+BA	3190837	Jovana Dučića	living_street	29	2	28	
+BA	3190837	Srpskih boraca	tertiary	28	2	40	
+BA	3191156	Palih boraca	secondary	121	5	138	
+BA	3191156	Karađorđeva	living_street	87	3	100	
+BA	3191156	Neđe Mekića	living_street	84	6	103	
+BA	3191156	Rajka Bobara	living_street	69	4	80	
+BA	3191156	Narodnog heroja Miloša Zekića	living_street	64	4	101	
+BA	3191156	Josipa Kovačevića	living_street	56	3	67	
+BA	3191156	Laze Šehovca	living_street	41	2	43	
+BA	3191156	Janka Bašića	living_street	36	2	58	
+BA	3191156	9. januar	residential	33	2	36	
+BA	3191156	Brane Savića	living_street	31	2	31	
+BA	3191156	Branka Radičevića	living_street	29	3	31	
+BA	3191156	Omladinska	living_street	24	2	27	
+BA	3191156	Jake Milića	living_street	23	3	28	
+BA	3191156	Ilije Birčanina	residential	20	1	20	
+BA	3191156	Prote Matije Nenadovića	residential	17	38	59	
+BA	3191156	Trg Patrijarha Pavla	residential	17	1	25	
+BA	3191156	Petra Kočića	residential	13	1	15	
+BA	3191156	Solunska	living_street	13	1	18	
+BA	3191156	Trg Kralja Petra I Karađorđevića	residential	10	1	7	
+BA	3191156	Vlačić Vlade-Cara	residential	10	1	11	
+BA	3191156	Vojvode Živojina Mišića	residential	10	1	16	
+BA	3191156	Đure Jakšića	living_street	9	2	12	
+BA	3191156	Braće Delić	residential	7	1	10	
+BA	3191156	Braće Vlačić	residential	7	1	12	
+BA	3191281	Vuka Karadžića	residential	412	12	461	
+BA	3191281	Ravnogorska	primary	225	19	325	
+BA	3191281	Vojvode Radomira Putnika	secondary	202	8	253	
+BA	3191281	4. avgusta	living_street	191	8	219	
+BA	3191281	Srpskih palih boraca	living_street	184	9	274	
+BA	3191281	Druge sarajevske brigade	tertiary	135	7	163	
+BA	3191281	Mladička	living_street	130	9	135	
+BA	3191281	Starine Novaka	living_street	118	15	159	
+BA	3191281	Beogradska	residential	117	6	170	
+BA	3191281	Džemala Bijedića	primary	116	5	197	
+BA	3191281	Ilidžanska	living_street	114	6	128	
+BA	3191281	Petrovići	residential	105	4	122	
+BA	3191281	Kasindolskog bataljona	residential	103	5	112	
+BA	3191281	Spasovdanska	residential	97	5	43	
+BA	3191281	Vojvode Živojina Mišića	living_street	95	5	153	
+BA	3191281	Miljevići	residential	93	5	93	
+BA	3191281	Gradačačka	residential	92	3	132	
+BA	3191281	Njegoševa	residential	91	8	117	
+BA	3191281	Petra Sarajevskog	residential	88	6	79	
+BA	3191281	Jovana Dučića	residential	86	5	90	
+BA	3191281	Grbavička	residential	85	2	127	
+BA	3191281	Čadordžina	residential	84	7	145	
+BA	3191281	Boška Vujadina	living_street	80	4	107	
+BA	3191281	Numan paše Čuprilića	residential	78	5	186	
+BA	3191281	Srpskih ratnika	residential	78	3	159	
+BA	3191281	Osik	residential	77	130	741	
+BA	3191281	Stanojevići	living_street	77	4	106	
+BA	3191281	Dragoljuba Mihajlovića	residential	74	4	82	
+BA	3191281	Gatačka	residential	74	5	71	
+BA	3191281	Đure Jakšića	residential	74	4	70	
+BA	3191281	Derokova	residential	73	4	72	
+BA	3191281	Branilaca Hotonja	residential	72	8	23	
+BA	3191281	Akademika Nikole Koljevića	residential	67	4	64	
+BA	3191281	Akademika Vojina Komadine	living_street	66	4	102	
+BA	3191281	Milana Tepića	living_street	66	3	95	
+BA	3191281	Sedrenik	tertiary	66	6	206	
+BA	3191281	Najdanović Dr Milutina	residential	63	4	84	
+BA	3191281	Zorana Borovine	residential	63	4	85	
+BA	3191281	Klek	tertiary	61	4	45	
+BA	3191281	Srpskih junaka	residential	55	3	81	
+BA	3191281	Vrbanjuša	residential	54	2	124	
+BA	3191281	Cara Dušana	tertiary	53	3	82	
+BA	3191281	Cara Lazara	tertiary	53	1	50	
+BA	3191281	Aerodromska	residential	52	3	62	
+BA	3191281	Besarovića	residential	52	3	63	
+BA	3191281	Pirin brijeg	residential	52	3	53	
+BA	3191281	Ivanići	residential	50	4	39	
+BA	3191281	Pavlovića	residential	50	2	52	
+BA	3191281	Akademika Petra Mandića	residential	49	6	80	
+BA	3191281	Hipodrom	residential	49	10	163	
+BA	3191281	Pehlivanuša	tertiary	49	8	74	
+BA	3191281	Solunska	residential	49	5	59	
+BA	3191281	Stefana Nemanje	secondary	49	3	69	
+BA	3191281	Trebevićka	residential	48	6	95	
+BA	3191281	Ive Andrića	secondary	47	2	21	
+BA	3191281	Butmirskog bataljona	residential	45	6	113	
+BA	3191281	Maršala Tita	primary	45	1	56	
+BA	3191281	Naselje Slobode	residential	45	3	44	
+BA	3191281	Ozrenska	residential	44	3	45	
+BA	3191281	Rogina	residential	44	9	125	
+BA	3191281	Hilandarska	residential	43	2	38	
+BA	3191281	Logavina	tertiary	43	25	80	
+BA	3191281	Zmaja od Bosne	secondary	43	4	88	
+BA	3191281	Olimpijska	residential	42	3	48	
+BA	3191281	Ramiza Salčina	residential	42	5	356	
+BA	3191281	Bardakčije	tertiary	41	12	123	
+BA	3191281	Butmirska cesta	residential	41	76	245	
+BA	3191281	Filipa Višnjića	residential	41	2	41	
+BA	3191281	Huseina Đoze	residential	41	107	262	
+BA	3191281	Reisa Fehima Spahe	residential	41	12	357	
+BA	3191281	Svetosavska	living_street	41	4	59	
+BA	3191281	Ferhadija	pedestrian	40	2	45	
+BA	3191281	Očaktanum	residential	40	4	76	
+BA	3191281	Sokolovićkog bataljona	residential	40	3	54	
+BA	3191281	Ulica Brezanska		40	26	162	
+BA	3191281	Antuna Hangija	residential	39	2	107	
+BA	3191281	Safvet-bega Bašagića	tertiary	38	7	124	
+BA	3191281	Trg ZAVNOBIH-a		38	2	33	
+BA	3191281	Uzdojnice	living_street	38	2	50	
+BA	3191281	Branka Radičevića	living_street	37	1	38	
+BA	3191281	Hotonj IV	residential	37	2	12	
+BA	3191281	Ulica Huseina Đoze		37	5	308	
+BA	3191281	Boraca zlatišta	residential	36	2	84	
+BA	3191281	Slobodana Janjića	residential	36	2	36	
+BA	3191281	Humačka ploča	residential	35	10	119	
+BA	3191281	Kninska	residential	35	1	31	
+BA	3191281	Miloša Obilića	residential	35	4	43	
+BA	3191281	Dabrobosanska	residential	34	2	33	
+BA	3191281	Kolubarska	residential	34	2	42	
+BA	3191281	Požegina	residential	34	2	47	
+BA	3191281	Branilaca Sarajeva	residential	33	4	51	
+BA	3191281	Gornji Miljevići	residential	33	5	40	
+BA	3191281	Gornji Velešići	residential	33	20	375	
+BA	3191281	Iza Hrida	residential	33	2	56	
+BA	3191281	Porodice Foht	residential	33	13	118	
+BA	3191281	Sumbul česma	residential	33	3	60	
+BA	3191281	Hamida Beširevića	residential	32	41	140	
+BA	3191281	Kromolj	residential	32	8	138	
+BA	3191281	Petruše	residential	32	3	32	
+BA	3191281	Tomino brdo	residential	32	2	48	
+BA	3191281	Mehe Smailagića	residential	31	4	60	
+BA	3191281	Naselje Tešanovo brdo	residential	31	4	34	
+BA	3191281	Olovska	residential	31	1	143	
+BA	3191281	Sarač Ismailova	residential	31	4	59	
+BA	3191281	Carice Milice	residential	30	2	30	
+BA	3191281	Hamdije Kreševljakovića	secondary	30	3	64	
+BA	3191281	Kačanik mali	residential	30	2	37	
+BA	3191281	Ruđera Boškovića	residential	30	42	434	
+BA	3191281	Smaila Šikala	residential	30	8	285	
+BA	3191281	Trg nezavisnosti		30	2	27	
+BA	3191281	Zaima Šarca	tertiary	30	4	34	
+BA	3191281	Bjelave	residential	29	12	107	
+BA	3191281	Briješko brdo	residential	29	10	194	
+BA	3191281	Mandrina	residential	29	18	50	
+BA	3191281	Mišćina	residential	29	2	37	
+BA	3191281	Vratnik mejdan	residential	29	30	77	
+BA	3191281	Alekse Šantića	residential	28	2	27	
+BA	3191281	Kamenica Potok	residential	28	10	89	
+BA	3191281	Kodžina	residential	28	31	185	
+BA	3191281	Kranjčevićeva	tertiary	28	2	41	
+BA	3191281	Mustafe Dovadžije	tertiary	28	2	46	
+BA	3191281	Sokolska	residential	28	2	48	
+BA	3191281	Ulica Hendekuša		28	52	859	
+BA	3191281	Karpuzova	residential	27	2	41	
+BA	3191281	Petra Kočića	residential	27	2	26	
+BA	3191281	Petra Miloševića	residential	27	2	33	
+BA	3191281	Trg međunarodnog prijateljstva		27	2	25	
+BA	3191281	Žagrići	residential	27	2	64	
+BA	3191281	Alipašina	primary	26	1	154	
+BA	3191281	Karađorđeva	residential	26	4	28	
+BA	3191281	Saliha Žige	residential	26	4	90	
+BA	3191281	Trg Miroslava Berjana	living_street	26	2	28	
+BA	3191281	Ulica Mekote		26	5	162	
+BA	3191281	Viteška	residential	26	3	84	
+BA	3191281	Višegradska	residential	26	2	34	
+BA	3191281	Višnjik	tertiary	26	5	45	
+BA	3191281	Hasana Kaimije	residential	25	2	37	
+BA	3191281	Ibrahima Hafiza Ridžanovića	residential	25	2	63	
+BA	3191281	Maria Mikulića	residential	25	3	39	
+BA	3191281	Trg Ilidžanske brigade	residential	25	2	19	
+BA	3191281	Adema Buće	residential	24	160	435	
+BA	3191281	Ahmeta Ljubunčića	residential	24	7	110	
+BA	3191281	Cicin Han	residential	24	34	130	
+BA	3191281	Gornjovakufska	residential	24	4	143	
+BA	3191281	Hakije Kulenovića	residential	24	2	28	
+BA	3191281	Humska	residential	24	10	502	
+BA	3191281	Josipa Štadlera	residential	24	2	34	
+BA	3191281	Komatin	residential	24	2	83	
+BA	3191281	Mahmuta Bušatlije	residential	24	3	103	
+BA	3191281	Obrada Popadića	residential	24	2	25	
+BA	3191281	Prvomajska	residential	24	3	41	
+BA	3191281	Safeta Zajke	secondary	24	61	322	
+BA	3191281	Svetog Nikole	residential	24	2	23	
+BA	3191281	Ulica Prof. Dr. Ramiza Velića		24	4	133	
+BA	3191281	Ulica Toka		24	2	30	
+BA	3191281	Behdžeta Mutevelića	residential	23	2	113	
+BA	3191281	Nalina	residential	23	2	59	
+BA	3191281	Ulica Kasima Hadžića		23	44	109	
+BA	3191281	Vejsila Ćurčića	residential	23	4	94	
+BA	3191281	Zaima Imamovića	residential	23	2	41	
+BA	3191281	Zelenih beretki	residential	23	2	32	
+BA	3191281	Čekaluša	tertiary	23	1	84	
+BA	3191281	Antuna Branka Šimića	residential	22	2	31	
+BA	3191281	Avde Palića	residential	22	46	353	
+BA	3191281	Branislava Nušića	residential	22	63	205	
+BA	3191281	Braće Begić	residential	22	4	74	
+BA	3191281	Hajduk Veljkova	residential	22	4	29	
+BA	3191281	Jukićeva	tertiary	22	36	132	
+BA	3191281	Mačkareva	residential	22	3	29	
+BA	3191281	Meše Selimovića	residential	22	1	32	
+BA	3191281	Srđana Kneževića	residential	22	2	42	
+BA	3191281	Sulejmana Filipovića	residential	22	1	20	
+BA	3191281	Ulica Berkuša velika		22	11	65	
+BA	3191281	Milinkladska	residential	21	4	199	
+BA	3191281	Miloša Crnjanskog	residential	21	2	24	
+BA	3191281	Nahorevska	residential	21	4	248	
+BA	3191281	Rogatička	residential	21	10	82	
+BA	3191281	Sagrdžije	tertiary	21	4	82	
+BA	3191281	Slobodana Bratića	residential	21	2	21	
+BA	3191281	Stara Breka	residential	21	9	148	
+BA	3191281	Vasilja Grdžića	residential	21	2	84	
+BA	3191281	Vidovdanska	residential	21	2	26	
+BA	3191281	Vojvode Momčila Đujića	secondary	21	2	56	
+BA	3191281	Ajvaz Dedina	residential	20	1	59	
+BA	3191281	Bojovića	residential	20	1	22	
+BA	3191281	Bosanska	residential	20	1	16	
+BA	3191281	Bravadžiluk	pedestrian	20	1	38	
+BA	3191281	Dr. Fetaha Bećirbegovića	residential	20	1	37	
+BA	3191281	Hadžićka	residential	20	1	20	
+BA	3191281	Jekovac	residential	20	3	62	
+BA	3191281	Koševo	residential	20	1	32	
+BA	3191281	Obala Kulina bana	primary	20	2	40	
+BA	3191281	Sarači	pedestrian	20	1	111	
+BA	3191281	Semira Frašte	residential	20	1	19	
+BA	3191281	Skenderija	secondary	20	2	72	
+BA	3191281	Zije Krajine	residential	20	11	179	
+BA	3191281	Čobanija	residential	20	1	25	
+BA	3191281	Avdage Šahinagića	residential	19	4	32	
+BA	3191281	Branka Ćopića		19	1	29	
+BA	3191281	Kemala Kapetanovića	residential	19	1	49	
+BA	3191297	Ulica civilnih žrtava rata	residential	76	3	111	
+BA	3191297	Bosanska ulica	residential	22	3	27	
+BA	3191297	Mirka Vranića	residential	21	2	24	
+BA	3191297	Hamzibegova ulica	residential	20	1	55	
+BA	3191297	Skendera Kulenovića	residential	15	25	49	
+BA	3191297	Ulica Gambegovića sokak	residential	13	6	21	
+BA	3191297	Zije Behremovića	residential	12	1	12	
+BA	3191297	Ulica 1. marta	residential	11	6	28	
+BA	3191297	Maka Dizdara	residential	9	2	24	
+BA	3191297	Ulica Ključka	residential	8	1	15	
+BA	3191297	Prijedorska	tertiary	7	2	111	
+BA	3191297	Hasana Džananovića-Ljuka	residential	6	2	12	
+BA	3191297	Gambegovića bunar		4	1	4	
+BA	3191297	Trnova		3	5	212	
+BA	3191297	Ulica 25. novembra		3	2	24	
+BA	3191297	17. viteške krajiške brigade		2	1	1	
+BA	3191297	Hamzibegova		2	2	6	
+BA	3191297	Mahala	residential	2	2	142	
+BA	3191297	1. marta	residential	1	0	0	
+BA	3191297	AVNOJ-a	residential	1	0	0	
+BA	3191297	Adila Bešića	residential	1	0	0	
+BA	3191297	Alagića polje	residential	1	0	0	
+BA	3191297	Alagića sokak	residential	1	0	0	
+BA	3191297	Alekse Šantića	residential	1	0	0	
+BA	3191302	17. viteške krajiške brdske brigade	residential	1	0	0	
+BA	3191302	517. cazinske brigade	residential	1	0	0	
+BA	3191302	Aleja 510	residential	1	0	0	
+BA	3191302	Balagić Esada	residential	1	0	0	
+BA	3191302	Botonjić Amira Kreje	residential	1	0	0	
+BA	3191302	Grmečka	residential	1	0	0	
+BA	3191302	Kaldrma	residential	1	0	0	
+BA	3191302	Ključka	residential	1	0	0	
+BA	3191302	Konjević Mirsada Mite	residential	1	0	0	
+BA	3191302	Konjević Salke	residential	1	0	0	
+BA	3191302	Kulina Bana	residential	1	0	0	
+BA	3191302	Kurtaljević Samira	residential	1	0	0	
+BA	3191302	Mahala	residential	1	0	0	
+BA	3191302	Mehmedović Teufika Buce	secondary	1	0	0	
+BA	3191302	Oslobodilaca	secondary	1	0	0	
+BA	3191302	Prkosa	residential	1	0	0	
+BA	3191302	Selman Ismeta Ćose	residential	1	0	0	
+BA	3191302	Trebunjska	residential	1	0	0	
+BA	3191302	Vrelska	secondary	1	0	0	
+BA	3191302	Vučkić Emira	residential	1	0	0	
+BA	3191302	Ćomić Bajre Rođenog	residential	1	0	0	
+BA	3191302	Šećerbegović Hilme	residential	1	0	0	
+BA	3191302	Željeznička	residential	1	0	0	
+BA	3191426	Put Draguna	unclassified	1	0	0	
+BA	3191449	Батковићи		72	4	77	
+BA	3191449	Живинице	unclassified	43	1	53	Zivinice
+BA	3191449	Саставци	secondary	27	2	25	Sastavci
+BA	3191449	Сјеверин	secondary	24	2	151	Sjeverin
+BA	3191449	Стрмац	unclassified	17	1	29	Strmac
+BA	3191449	Vožda Karađorđa Petrovića	residential	4	6	39	
+BA	3191449	Cara Dušana	residential	3	18	35	
+BA	3191449	Miloša Obilića	residential	3	2	6	
+BA	3191449	Vidovdanska	residential	3	1	5	
+BA	3191449	Đenerala Dragoljuba Draže Mihailovića	residential	2	21	41	
+BA	3191449	12 juli	residential	1	0	0	
+BA	3191449	12. juli	residential	1	0	0	
+BA	3191576	Srpske sloge	primary	198	16	261	
+BA	3191576	Radomira Neškovića	secondary	68	4	120	
+BA	3191576	Đenerala Draže	residential	58	3	87	
+BA	3191576	Rogatičke brigade	residential	50	3	63	
+BA	3191576	Vese Rackovića	residential	48	4	52	
+BA	3191576	Živaljevina	residential	43	3	56	
+BA	3191576	Miloša Forcana	living_street	42	3	48	
+BA	3191576	Borička	residential	38	2	52	
+BA	3191576	Vojvode Pavla Radenovića	living_street	38	2	59	
+BA	3191576	Pere Kosorića	residential	37	3	48	
+BA	3191576	Serdar Janka Vukotića	residential	34	2	64	
+BA	3191576	Cara Lazara	residential	32	3	56	
+BA	3191589	Privorac	residential	1	0	0	
+BA	3191589	Rodočkih Branitelja	tertiary	1	0	0	
+BA	3191589	Tatar	residential	1	0	0	
+BA	3191939	Beljani	residential	1	0	0	
+BA	3191939	Kroz Roško Polje	tertiary	1	0	0	
+BA	3191939	Nevistići	residential	1	0	0	
+BA	3191939	Podbila	tertiary	1	0	0	
+BA	3191939	Put Cere	residential	1	0	0	
+BA	3191939	Put svetog Ante	residential	1	0	0	
+BA	3191939	Put svetog Ivana	unclassified	1	0	0	
+BA	3191939	Put za Malenice	residential	1	0	0	
+BA	3191939	Radoši	residential	1	0	0	
+BA	3192206	Meraje	residential	1	0	0	
+BA	3192206	Prosina	residential	1	0	0	
+BA	3192236	Ive Andrića	tertiary	5	7	35	
+BA	3192236	Kralja Tvrtka	tertiary	4	1	40	
+BA	3192236	Bučići		2	103	103	
+BA	3192236	Stjepana Radića	residential	2	1	1	
+BA	3192236	Stojkovići		2	0	0	
+BA	3192236	Fra Marijana Šunjića	residential	1	0	0	
+BA	3192236	Hanumina	residential	1	0	0	
+BA	3192236	Ivana Meštrovića	residential	1	0	0	
+BA	3192236	Kalinska	residential	1	0	0	
+BA	3192236	Kralja Tomislava	primary	1	0	0	
+BA	3192236	Kraljice Katarine Kotromanić	residential	1	0	0	
+BA	3192236	Mehmeda Spahe	tertiary	1	0	0	
+BA	3192236	Miroslava Krleže	residential	1	0	0	
+BA	3192236	Omladinska	residential	1	0	0	
+BA	3192236	Patriotske lige	residential	1	0	0	
+BA	3192236	Ruđera Boškovića	residential	1	0	0	
+BA	3192236	Vilenička	residential	1	0	0	
+BA	3192236	Šehidska	residential	1	0	0	
+BA	3192279	Kralja Tomislava	secondary	2	0	0	
+BA	3192279	Dive Grabovčeve	secondary	1	0	0	
+BA	3192279	Mijata Tomića	primary	1	0	0	
+BA	3192279	Put Zastalače	residential	1	0	0	
+BA	3192279	Sinjska	residential	1	0	0	
+BA	3192279	Trg Josipa Stadlera	pedestrian	1	0	0	
+BA	3192327	Nikole Tesle	residential	27	15	43	
+BA	3192327	Svetog Save	residential	18	1	34	
+BA	3192327	Njegoševa	residential	10	4	20	
+BA	3192327	Karađorđeva	residential	9	1	19	
+BA	3192327	Laze Lazarevića	residential	8	1	17	
+BA	3192327	Jove Jovanovića Zmaja	residential	7	3	15	
+BA	3192327	Vojvode Sinđelića	residential	7	52	88	
+BA	3192327	Trg srpskih boraca	tertiary	6	1	27	
+BA	3192327	M. Nagradića		4	1	6	
+BA	3192327	Vuka Karadžića	residential	4	37	45	
+BA	3192327	Đure Jakšića	tertiary	4	11	28	
+BA	3192327	Rade Vranješević	residential	3	1	1	
+BA	3192327	Živojina Preradovića	residential	3	2	7	
+BA	3192327	Beogradska	secondary	2	2	6	
+BA	3192327	Jovana Dučića	residential	2	2	2	
+BA	3192327	Vasilija Ostroškog	residential	2	15	15	
+BA	3192327	Veljka Milankovića	residential	2	1	11	
+BA	3192327	Alekse Malića	tertiary	1	0	0	
+BA	3192327	Alekse Šantića	residential	1	0	0	
+BA	3192327	Arsenija Čarnojevića	residential	1	0	0	
+BA	3192327	Boloslavačka	residential	1	0	0	
+BA	3192327	Boračka	residential	1	0	0	
+BA	3192327	Bože Tatrevića	secondary	1	0	0	
+BA	3192327	Branka Radičevića	residential	1	0	0	
+BA	3192409	Srpskih velikana	secondary	379	17	282	
+BA	3192409	Ive Andrića	tertiary	198	11	143	
+BA	3192409	Osmana Džafića	residential	191	10	197	
+BA	3192409	Kozarska	tertiary	182	13	190	
+BA	3192409	Vojvode Stepe Stepanovića	residential	177	7	209	
+BA	3192409	Slavka Rodića	primary	175	2	177	
+BA	3192409	Dragutina Jazbeca Miše	residential	168	7	156	
+BA	3192409	25. novembra		137	9	186	
+BA	3192409	Milana Vrhovca	residential	125	5	120	
+BA	3192409	Brane Prokopića		124	6	102	
+BA	3192409	Sarajevska		120	5	112	
+BA	3192409	Omladinski put	residential	112	5	121	
+BA	3192409	Tode Švrakića		102	1	118	
+BA	3192409	Srđana Aleksića		95	5	107	
+BA	3192409	Braće Vujičić		93	4	74	
+BA	3192409	Čerječki put		86	63	220	
+BA	3192409	6. krajiške brigade		85	3	38	
+BA	3192409	Kralja Petra I Oslobodioca		84	6	107	
+BA	3192409	Duška Brkovića	residential	83	5	73	
+BA	3192409	Mahmuta Bušatlije		83	2	87	
+BA	3192409	1. maja		77	4	80	
+BA	3192409	Ilije Bursaća	residential	73	4	80	
+BA	3192409	Rahima Bajramovića	residential	73	4	75	
+BA	3192409	25. maja		72	3	59	
+BA	3192409	Čejrečki put		71	3	82	
+BA	3192409	Muharema Suljanovića	residential	70	5	130	
+BA	3192409	Krajiških brigada	residential	68	4	65	
+BA	3192409	29. novembra	primary	67	2	79	
+BA	3192409	21. novembra		64	4	77	
+BA	3192409	Petra Vojinovića		64	2	41	
+BA	3192409	Skendera Kulenovića		63	2	49	
+BA	3192409	Narodnog fronta	residential	62	1	66	
+BA	3192409	Petra Petrovića Njegoša	primary	62	3	54	
+BA	3192409	Podgrmečka		60	3	66	
+BA	3192409	Vase Banovića		60	3	41	
+BA	3192409	Kralja Aleksandra	primary	59	1	49	
+BA	3192409	Rudnička	tertiary	58	2	124	
+BA	3192409	Žarka Zgonjanina	residential	57	4	70	
+BA	3192409	Durmitorska		56	2	49	
+BA	3192409	Kalatska		56	3	59	
+BA	3192409	Anđe Knežević	residential	55	3	43	
+BA	3192409	Vuka Karadžića	residential	55	4	46	
+BA	3192409	II Krajiškog odreda		54	3	76	
+BA	3192409	Novska	residential	54	3	58	
+BA	3192409	Nikole Luketića	residential	53	3	93	
+BA	3192409	Gojka Baškota	residential	51	1	55	
+BA	3192409	Matice Srpske		51	45	156	
+BA	3192409	Prištinska		51	1	69	
+BA	3192449	Panici	unclassified	1	0	0	
+BA	3192609	Pavlovac	primary	1	0	0	
+BA	3192652	Potoci		3	17	17	
+BA	3192653	Lišani	residential	1	0	0	
+BA	3192653	Vidonja	residential	1	0	0	
+BA	3192653	Vojanski most	tertiary	1	0	0	
+BA	3192669	Fra Grge Martića	tertiary	4	30	56	
+BA	3192669	Zagrebačka	secondary	3	41	41	
+BA	3192669	Kralja Tomislava		2	1	11	
+BA	3192669	Vinjani		2	0	0	
+BA	3192669	Čitluk		2	0	0	
+BA	3192669	Andrije Kačića Miošića	residential	1	0	0	
+BA	3192669	Ante Brune Bušića	residential	1	0	0	
+BA	3192669	Ante Starčevića	primary	1	0	0	
+BA	3192669	Antuna Branka Šimića	residential	1	0	0	
+BA	3192669	Antuna Mihanovića	residential	1	0	0	
+BA	3192669	Bana Ivana Mažuranića	residential	1	0	0	
+BA	3192669	Bana Jelačića	primary	1	0	0	
+BA	3192669	Bana Matije Ninoslava	residential	1	0	0	
+BA	3192669	Bana Petra Berislavića	residential	1	0	0	
+BA	3192669	Bartola Kašića	residential	1	0	0	
+BA	3192669	Baruna Trenka	residential	1	0	0	
+BA	3192669	Blage Zadre	residential	1	0	0	
+BA	3192669	Bleiburških žrtava	residential	1	0	0	
+BA	3192669	Blidinjska	primary	1	0	0	
+BA	3192669	Darke Ćurde	residential	1	0	0	
+BA	3192669	Dive Grabovčeve	residential	1	0	0	
+BA	3192669	Domobranska	residential	1	0	0	
+BA	3192669	Domovinskog rata	primary	1	0	0	
+BA	3192669	Don Ante Bakule	residential	1	0	0	
+BA	3192718	Подрињска	unclassified	42	8	90	Podrinjska
+BA	3192718	Дринска	primary	17	109	529	Drinska
+BA	3192718	Жичка		14	3	32	
+BA	3192718	Прекодринска	residential	12	1	23	Prekodrinska
+BA	3192718	Шести Реон	residential	5	46	71	Sesti Reon
+BA	3192718	Pavlovića put		2	98	98	
+BA	3192718	Краља Александра		2	220	220	
+BA	3192718	Popovi	tertiary	1	0	0	
+BA	3192793	Branilaca Konjica	tertiary	1	0	0	
+BA	3192864	Brkovića put	residential	1	0	0	
+BA	3192864	Pojezna	unclassified	1	0	0	
+BA	3192878	Staro Selo		17	107	196	
+BA	3192961	Plato	pedestrian	1	0	0	
+BA	3193008	Batinića Brdo	residential	1	0	0	
+BA	3193008	Bilo Polje	residential	1	0	0	
+BA	3193008	Bl. Alojzija Stepinca	residential	1	0	0	
+BA	3193008	Krivića Gaj	unclassified	1	0	0	
+BA	3193008	Kuliševa staja	residential	1	0	0	
+BA	3193008	Miši	residential	1	0	0	
+BA	3193008	Naklo	residential	1	0	0	
+BA	3193008	Prisoje	residential	1	0	0	
+BA	3193008	Put sv. Ivana	tertiary	1	0	0	
+BA	3193008	Stara cesta	residential	1	0	0	
+BA	3193008	Vržerala	residential	1	0	0	
+BA	3193439	Пружна		2	51	51	
+BA	3193439	Ulica Mala Luka	residential	1	0	0	
+BA	3193439	ulica uzdaha	residential	1	0	0	
+BA	3193439	Заобилазни пут	primary	1	0	0	Zaobilazni put
+BA	3193439	Улица Подрињска	residential	1	0	0	Podrinjska Street
+BA	3193542	Brkići	unclassified	1	0	0	
+BA	3193542	Buljubašići	unclassified	1	0	0	
+BA	3193542	Ilmići	unclassified	1	0	0	
+BA	3193542	Jašići	unclassified	1	0	0	
+BA	3193542	Mahmutovići	residential	1	0	0	
+BA	3193542	Ćatići	residential	1	0	0	
+BA	3193563	Mrđana Đoke	tertiary	13	46	125	
+BA	3193563	Bratstva i jedinstva	residential	5	15	32	
+BA	3193563	Civilnih žrtava rata	residential	3	27	88	
+BA	3193563	27. juli	residential	2	1	1	
+BA	3193563	Bjelašnička	residential	2	1	47	
+BA	3193563	9. Brdske brigade	residential	1	0	0	
+BA	3193563	9. maj	residential	1	0	0	
+BA	3193563	Bioča	residential	1	0	0	
+BA	3193563	Bosanskih gazija	residential	1	0	0	
+BA	3193563	Budmolići	residential	1	0	0	
+BA	3193563	Duranovići	residential	1	0	0	
+BA	3193563	Japalaci	residential	1	0	0	
+BA	3193593	Шести Реон		33	64	105	
+BA	3193593	Blok 7	tertiary	8	161	181	
+BA	3193593	Заселак Поповића насеље		5	1	10	
+BA	3193593	Blok 3	living_street	1	0	0	
+BA	3193593	Blok 8	residential	1	0	0	
+BA	3193692	Srpskih ratnika	residential	182	9	211	
+BA	3193692	Jovana Dučića	residential	92	3	63	
+BA	3193692	Vojvode Radomira Putnika	residential	92	5	66	
+BA	3193692	Solunskih dobrovoljaca	residential	90	4	106	
+BA	3193692	Trebevićka	residential	89	5	103	
+BA	3193692	Prote Mateje Nenadovića	residential	84	5	123	
+BA	3193692	Trifka Grabeža	residential	84	5	125	
+BA	3193692	Mihajla Pupina	residential	81	5	53	
+BA	3193692	Romanijska	living_street	77	5	101	
+BA	3193692	Sime Matavulja	residential	77	4	124	
+BA	3193692	Željeznička	residential	69	3	94	
+BA	3193692	Jovana Cvijića	primary	65	4	81	
+BA	3193692	Pribanjska	living_street	62	3	88	
+BA	3193692	Sokolska	residential	61	4	86	
+BA	3193692	Vojislava Ilića	residential	61	4	76	
+BA	3193692	Karađorđeva	primary	53	7	68	
+BA	3193692	Njegoševa		52	4	58	
+BA	3193692	Univerzitetska		52	4	44	
+BA	3193692	Dobrovoljnih davalaca krvi	residential	51	4	79	
+BA	3193692	Beogradska	residential	50	4	40	
+BA	3193692	Luke Vukajlovića	living_street	49	2	50	
+BA	3193692	Deli Radivoja	living_street	47	3	65	
+BA	3193692	Novakovo brdo	residential	47	3	57	
+BA	3193692	Gavrila Principa	residential	46	3	50	
+BA	3193776	Средњи Бушевић		35	2	46	
+BA	3193776	Gornja Ljusina	residential	1	0	0	
+BA	3193776	Kubeti	residential	1	0	0	
+BA	3193776	Novo naselje	residential	1	0	0	
+BA	3193821	Srbljani		2	0	0	
+BA	3193821	Brekovačke patriotske lige	residential	1	0	0	
+BA	3193821	Brekovačkih branilaca	residential	1	0	0	
+BA	3193821	Dubravačka	residential	1	0	0	
+BA	3193821	Jezero	residential	1	0	0	
+BA	3193821	Krajiška zmija	primary	1	0	0	
+BA	3193821	Malobisovačka	residential	1	0	0	
+BA	3193821	Srbljanski most	primary	1	0	0	
+BA	3193821	Stublić	residential	1	0	0	
+BA	3193821	Torina	residential	1	0	0	
+BA	3193821	Zabukovačka	tertiary	1	0	0	
+BA	3193855	Filipovići	tertiary	2	55	55	
+BA	3193855	Brkići	residential	1	0	0	
+BA	3193855	Evići	residential	1	0	0	
+BA	3193855	Lijeskovac	residential	1	0	0	
+BA	3193855	Ogradice	residential	1	0	0	
+BA	3193855	Rakitovac	residential	1	0	0	
+BA	3193855	Svetog Ilije	residential	1	0	0	
+BA	3193856	6. krajiške brigade	residential	1	0	0	
+BA	3193856	Drage Lukića	secondary	1	0	0	
+BA	3193856	Hasana Kikića	residential	1	0	0	
+BA	3193856	Rudarska	residential	1	0	0	
+BA	3193856	Tone Perića	residential	1	0	0	
+BA	3193856	Trg 1. Maja	secondary	1	0	0	
+BA	3194013	Miškovići	residential	1	0	0	
+BA	3194013	Pelivani	residential	1	0	0	
+BA	3194013	Prolog	unclassified	1	0	0	
+BA	3194013	Prološki odvojak I	residential	1	0	0	
+BA	3194013	Prološki odvojak II	unclassified	1	0	0	
+BA	3194013	Prološki odvojak III	unclassified	1	0	0	
+BA	3194013	Prološki odvojak IV	residential	1	0	0	
+BA	3194013	Prološki odvojak IVa	residential	1	0	0	
+BA	3194013	Prološki odvojak IVb	residential	1	0	0	
+BA	3194013	Prološki odvojak IX	residential	1	0	0	
+BA	3194013	Prološki odvojak V	residential	1	0	0	
+BA	3194013	Prološki odvojak VI	unclassified	1	0	0	
+BA	3194035	14. ulica	tertiary	5	95	97	
+BA	3194035	3. ulica	tertiary	4	1	45	
+BA	3194035	10. ulica	residential	1	0	0	
+BA	3194035	11. ulica	residential	1	0	0	
+BA	3194035	12. ulica	residential	1	0	0	
+BA	3194035	13. ulica	residential	1	0	0	
+BA	3194035	15. ulica	residential	1	0	0	
+BA	3194035	16. ulica	residential	1	0	0	
+BA	3194035	18. ulica	residential	1	0	0	
+BA	3194035	19. ulica	residential	1	0	0	
+BA	3194035	2. ulica	primary	1	0	0	
+BA	3194035	20. ulica	residential	1	0	0	
+BA	3194041	Unska	secondary	9	1	36	
+BA	3194041	Celije		4	470	477	
+BA	3194041	Ali ef. Kadica		2	1	3	
+BA	3194041	Krapalj	residential	2	14	14	
+BA	3194041	Ljutočkih gazija	residential	2	1	2	
+BA	3194041	Ali efendije Kadića	residential	1	0	0	
+BA	3194041	Gornji sastavci	residential	1	0	0	
+BA	3194041	Havala	residential	1	0	0	
+BA	3194041	Kulenvakufskih žrtava fašizma	residential	1	0	0	
+BA	3194041	Lipa Camp street	unclassified	1	0	0	
+BA	3194041	Lončić	residential	1	0	0	
+BA	3194041	Lužani	residential	1	0	0	
+BA	3194061	Pjeskulje	living_street	128	5	118	
+BA	3194061	Aluge	living_street	113	5	112	
+BA	3194061	Donji Potočani	living_street	78	4	73	
+BA	3194061	Sredina	living_street	65	4	65	
+BA	3194061	Bare 3	living_street	63	2	83	
+BA	3194061	Bare 1	living_street	57	3	54	
+BA	3194061	Gornji Potočani	residential	41	1	37	
+BA	3194061	Mekiljica	living_street	35	2	33	
+BA	3194061	Bare 2	residential	25	2	23	
+BA	3194061	Bare - Putoševac	living_street	13	1	15	
+BA	3194061	Ivanovići		8	1	8	
+BA	3194061	Bare - Petkovići	unclassified	7	1	7	
+BA	3194061	1. oktobra	living_street	1	0	0	
+BA	3194061	12. oktobra	residential	1	0	0	
+BA	3194061	23. avgusta	unclassified	1	0	0	
+BA	3194061	9. januara	unclassified	1	0	0	
+BA	3194061	9. novembra	residential	1	0	0	
+BA	3194061	Aluška	unclassified	1	0	0	
+BA	3194061	Bisićka	residential	1	0	0	
+BA	3194061	Cvijetina Todića	living_street	1	0	0	
+BA	3194061	Desanke Maksimović	residential	1	0	0	
+BA	3194061	Hilandarska	residential	1	0	0	
+BA	3194061	Kojići	residential	1	0	0	
+BA	3194061	Komljenovac	unclassified	1	0	0	
+BA	3194120	Banijska	residential	1	0	0	
+BA	3194120	Banjalučka	residential	1	0	0	
+BA	3194120	Branka Ćopića	secondary	1	0	0	
+BA	3194120	Cara Dušana	residential	1	0	0	
+BA	3194120	Cara Lazara	residential	1	0	0	
+BA	3194120	Carice Milice	residential	1	0	0	
+BA	3194120	Devet Jugovića	residential	1	0	0	
+BA	3194120	Dositeja Obradovića	residential	1	0	0	
+BA	3194120	Gavrila Principa	residential	1	0	0	
+BA	3194120	Jovana Raškovića	residential	1	0	0	
+BA	3194120	Kninska	residential	1	0	0	
+BA	3194120	Kordunska	residential	1	0	0	
+BA	3194120	Kosovska	residential	1	0	0	
+BA	3194120	Kralja Petra Prvog Oslobodioca	residential	1	0	0	
+BA	3194120	Lička	residential	1	0	0	
+BA	3194120	Mijatovići	residential	1	0	0	
+BA	3194120	Miloša Obilića	residential	1	0	0	
+BA	3194120	Mladena Stojanovića	residential	1	0	0	
+BA	3194120	Nemanjina	residential	1	0	0	
+BA	3194120	Nikole Pašića	residential	1	0	0	
+BA	3194120	Nikole Tesle	residential	1	0	0	
+BA	3194120	Njegoševa	residential	1	0	0	
+BA	3194120	Novoplanirana ulica broj 57 - Omarska	residential	1	0	0	
+BA	3194120	Prote Vitomira Maleševića	residential	1	0	0	
+BA	3194125	Srednja Omanjska		3	33	35	
+BA	3194125	Nikić Sokak	residential	1	0	0	
+BA	3194133	Tuzlanska		2	2	4	
+BA	3194133	Bjelava	primary	1	0	0	
+BA	3194133	Kladušnica	primary	1	0	0	
+BA	3194133	Stupčanica	primary	1	0	0	
+BA	3194199	Titova		2	0	0	
+BA	3194199	102. Odžačke Brigade HVO	primary	1	0	0	
+BA	3194199	102. odžačke brigade HVO	primary	1	0	0	
+BA	3194199	14. aprila	residential	1	0	0	
+BA	3194199	15. Majevičke Brigade	primary	1	0	0	
+BA	3194199	15. majevičke brigade	primary	1	0	0	
+BA	3194199	16. Muslimanske Brigade	residential	1	0	0	
+BA	3194199	27. Jula	tertiary	1	0	0	
+BA	3194199	Aleja Mira	pedestrian	1	0	0	
+BA	3194199	Alije Širbegovića	residential	1	0	0	
+BA	3194199	Atifa Šapčanina	tertiary	1	0	0	
+BA	3194199	Bosanska	residential	1	0	0	
+BA	3194199	Brodska	secondary	1	0	0	
+BA	3194199	Džamijski Put	residential	1	0	0	
+BA	3194199	Džemala Bijedića	residential	1	0	0	
+BA	3194199	Fiskulturna	residential	1	0	0	
+BA	3194199	Hamzića Sokak	residential	1	0	0	
+BA	3194199	Horoskovića Sokak	residential	1	0	0	
+BA	3194199	Jovana Ducica	residential	1	0	0	
+BA	3194199	Kemala Hadžiefendića	tertiary	1	0	0	
+BA	3194199	Mike Miletića	residential	1	0	0	
+BA	3194199	Modrički Lug	unclassified	1	0	0	
+BA	3194199	Neteka	residential	1	0	0	
+BA	3194199	Nova ulica	residential	1	0	0	
+BA	3194339	Blagaj	residential	1	0	0	
+BA	3194339	Put svetog Ante	residential	1	0	0	
+BA	3194510	Nikole Tesle	residential	96	5	92	
+BA	3194510	Nevesinjskih ustanika	pedestrian	93	4	94	
+BA	3194510	Nemanjića	secondary	84	7	85	
+BA	3194510	Miloša Obilića	primary	82	3	86	
+BA	3194510	Cara Dušana	primary	81	1	69	
+BA	3194510	Vuka Torovića	residential	61	6	87	
+BA	3194510	Apatinska	residential	51	3	67	
+BA	3194510	Topla	residential	50	3	64	
+BA	3194510	Cara Lazara	residential	45	3	60	
+BA	3194510	Drugog bataljona	residential	45	3	44	
+BA	3194510	Vojvode Petra Samardžića	residential	44	3	74	
+BA	3194510	Kosovska	residential	42	3	51	
+BA	3194510	Beogradska	residential	41	3	39	
+BA	3194510	Put Srba sa Neretve	primary	41	2	43	
+BA	3194510	Svetosavska	residential	36	2	36	
+BA	3194510	Četvrtog bataljona	residential	35	2	43	
+BA	3194510	Bogdana Žerajića	residential	34	2	50	
+BA	3194510	Trećeg bataljona	residential	32	2	34	
+BA	3194510	Milice Čovilo	residential	30	2	29	
+BA	3194510	Toplice Milana	residential	30	2	42	
+BA	3194510	Iva Andrića	residential	29	2	30	
+BA	3194510	Đura Jakšića	residential	29	2	33	
+BA	3194510	Ustanička	residential	27	2	44	
+BA	3194510	Desanke Maksimović	living_street	26	2	23	
+BA	3194514	Kardinala Stepinca		7	11	25	
+BA	3194514	Mimoza	residential	4	88	145	
+BA	3194514	Primorska	residential	2	85	134	
+BA	3194514	Ulica hrvatskih velikana	residential	2	2	2	
+BA	3194514	Ulica kralja Tomislava	residential	2	1	54	
+BA	3194514	Ante Babića	residential	1	0	0	
+BA	3194514	Blajburških žrtava	residential	1	0	0	
+BA	3194514	Bregovi	residential	1	0	0	
+BA	3194514	Dalmatinska	residential	1	0	0	
+BA	3194514	Don. S. Batinovića	residential	1	0	0	
+BA	3194514	Dr. Franje Tuđmana	pedestrian	1	0	0	
+BA	3194514	Dubrovačka	residential	1	0	0	
+BA	3194724	Cara Dušana	residential	103	5	125	
+BA	3194724	Janković Stojana	residential	97	5	93	
+BA	3194724	Svetog Save	residential	97	5	93	
+BA	3194724	Sime Šolaje	tertiary	87	3	114	
+BA	3194724	Beogradska	residential	83	4	79	
+BA	3194724	Milana Budimira	residential	82	5	104	
+BA	3194724	Petra Kočića	residential	81	5	79	
+BA	3194724	Jovana Raškovića	residential	76	3	80	
+BA	3194724	Laze Perića	residential	74	4	72	
+BA	3194724	Sportska	residential	69	4	74	
+BA	3194724	Ilindanska	residential	62	4	66	
+BA	3194724	Miloša Obilića	residential	62	4	59	
+BA	3194724	Cara Lazara	residential	60	3	66	
+BA	3194724	Uroša Drenovića	residential	58	3	56	
+BA	3194724	Stevana Sinđelića	residential	57	3	55	
+BA	3194724	Vuka Karadžića		53	3	51	
+BA	3194724	Zmijanjskog odreda	residential	51	3	52	
+BA	3194724	Jovana Cvijića	residential	50	3	48	
+BA	3194724	Kralja Milutina	residential	50	4	57	
+BA	3194724	Vidovdanska	residential	50	3	65	
+BA	3194724	Matije Gupca	residential	48	3	63	
+BA	3194724	Majke Župić	residential	45	3	51	
+BA	3194724	Boraca Srpskih	tertiary	44	3	43	
+BA	3194724	Vladike Nikolajevića	residential	44	3	47	
+BA	3194773	Marina Glava	residential	44	5	106	
+BA	3194773	Dobrnja	residential	30	90	209	
+BA	3194773	Školska	residential	22	2	29	
+BA	3194773	Palih boraca	residential	16	1	36	
+BA	3194773	Obod	residential	14	6	48	
+BA	3194773	Omladinska	residential	11	6	27	
+BA	3194773	26. avgusta		6	44	167	
+BA	3194773	DRAGUNJA DONJA		5	134	168	
+BA	3194773	Donja Dragunja	residential	5	140	179	
+BA	3194773	Repuševac	residential	3	25	29	
+BA	3194773	Brezje	residential	1	0	0	
+BA	3194773	Dubravice	residential	1	0	0	
+BA	3194828	Splitska	living_street	53	3	78	
+BA	3194828	Alekse Šantića	residential	49	8	127	
+BA	3194828	Kneza Višeslava	living_street	47	7	77	
+BA	3194828	Maršala Tita	tertiary	41	14	209	
+BA	3194828	Rude Hrozničeka	residential	35	2	40	
+BA	3194828	Bleiburških žrtava	residential	33	2	160	
+BA	3194828	Dr. Ante Starčevića	secondary	33	32	76	
+BA	3194828	Mladena Balorde	residential	33	1	77	
+BA	3194828	Kralja Tomislava	primary	32	1	105	
+BA	3194828	Franjevačka	residential	30	13	78	
+BA	3194828	11. lipnja	residential	28	9	56	
+BA	3194828	Dubrovačka	tertiary	24	4	118	
+BA	3194828	Gojka Vukovića	residential	24	3	30	
+BA	3194828	Stjepana Radića	residential	24	16	108	
+BA	3194828	Hrvatske mladeži	residential	20	3	36	
+BA	3194828	Adema Buća	residential	19	15	100	
+BA	3194828	Braće Fejića	pedestrian	19	3	67	
+BA	3194828	Rudarska	residential	19	10	152	
+BA	3194828	Kardinala Stepinca	tertiary	18	2	39	
+BA	3194828	Oneščukova	pedestrian	16	2	49	
+BA	3194828	Tvrtka Miloša	living_street	15	19	78	
+BA	3194828	Dr Ante Starčevića		13	48	68	
+BA	3194828	Dr. Vjekoslava Vrančića	residential	12	14	37	
+BA	3194828	Ulica Ivana Miličevića		12	9	40	
+BA	3194828	Fra Ambre Miletića	residential	11	21	88	
+BA	3194828	Vukovarska	residential	11	1	52	
+BA	3194828	Čevrina		11	1	18	
+BA	3194828	II Bojne rudničke	residential	10	3	47	
+BA	3194828	Kralja Petra Krešimira IV.	tertiary	10	1	32	
+BA	3194828	Zagrebačka	residential	10	2	18	
+BA	3194828	Tenzina	living_street	9	1	11	
+BA	3194828	Brune Bušića	residential	8	2	8	
+BA	3194828	Braće Krpo	living_street	7	7	17	
+BA	3194828	Jusovina	pedestrian	7	3	12	
+BA	3194828	Mala Tepa	pedestrian	7	2	28	
+BA	3194828	Bišće polje		6	106	106	
+BA	3194828	Ul. Kraljice Katarine		6	11	53	
+BA	3194828	Kneza Branimira	primary	5	2	12	
+BA	3194828	Kneza Mihajla Viševića Humskog	primary	5	21	57	
+BA	3194828	Mostarskog bataljona	tertiary	5	3	23	
+BA	3194828	Rade Bitange	residential	5	12	34	
+BA	3194828	H. Zahirovića lace		4	69	71	
+BA	3194828	Kneza Domagoja	tertiary	4	11	12	
+BA	3194828	Kralja Tvrtka	tertiary	4	7	24	
+BA	3194828	Vokića i Lorkovića		4	85	89	
+BA	3194828	Biskupa Buconjića	residential	3	1	48	
+BA	3194828	Blajburških žrtava	living_street	3	33	69	
+BA	3194828	Buna		3	0	0	
+BA	3194828	Dr. Mile Budaka		3	118	122	
+BA	3194828	Fra Lucijana Kordića	residential	3	2	6	
+BA	3194828	Hrvatskih branitelja	primary	3	2	2	
+BA	3194828	Husnije Repca	residential	3	11	13	
+BA	3194828	Španjolski trg	pedestrian	3	1	1	
+BA	3194828	29. Hercegovačke udarne divizije		2	14	65	
+BA	3194828	B. Knežića	living_street	2	7	9	
+BA	3194828	Bajatova	residential	2	4	3873	
+BA	3194828	Bišće Polje	secondary	2	0	0	
+BA	3194828	Braće Đukića	residential	2	4	9	
+BA	3194828	Bulevar	secondary	2	5	9	
+BA	3194828	Drage Palavestre	residential	2	6	15	
+BA	3194828	Dželilović		2	3	24	
+BA	3194828	Ilićke bojne		2	479	479	
+BA	3194828	Kapetanovića	residential	2	2	4	
+BA	3194828	Kralja Zvonimira	secondary	2	18	20	
+BA	3194828	Kujundžiluk	pedestrian	2	3	5	
+BA	3194828	Lacina	residential	2	5	5	
+BA	3194828	Matija Gupca		2	110	112	
+BA	3194828	Ose Grebe	pedestrian	2	14	16	
+BA	3194828	Pere Lažetića	living_street	2	6	9	
+BA	3194828	Rizikala	living_street	2	8	8	
+BA	3194828	Rodoč Brod	tertiary	2	7	7	
+BA	3194828	Stari Pazar	tertiary	2	7	9	
+BA	3194828	Trg Hrvatskih velikana	primary	2	0	0	
+BA	3194828	Vrapčići	primary	2	0	0	
+BA	3194828	Šetalište Nikole Šubića Zrinskog	pedestrian	2	3	4	
+BA	3194828	29. hercegovačke udarne divizije	primary	1	0	0	
+BA	3194828	Ahmeta Pintula	residential	1	0	0	
+BA	3194828	Ale Čišića	residential	1	0	0	
+BA	3194828	Augusta Šenoe	living_street	1	0	0	
+BA	3194828	Ašikovina	residential	1	0	0	
+BA	3194828	Behlilovića	residential	1	0	0	
+BA	3194828	Bijeli Brijeg	residential	1	0	0	
+BA	3194828	Biskupa Barišića	primary	1	0	0	
+BA	3194828	Biskupa Čule	primary	1	0	0	
+BA	3194828	Bišćevića	residential	1	0	0	
+BA	3194828	Braće Balaća	living_street	1	0	0	
+BA	3194828	Braće Brkić	tertiary	1	0	0	
+BA	3194828	Braće Lakišića	residential	1	0	0	
+BA	3194828	Braće Puzića	residential	1	0	0	
+BA	3194828	Braće Šarića	residential	1	0	0	
+BA	3194828	Brkanovo brdo	unclassified	1	0	0	
+BA	3194828	Brkića	residential	1	0	0	
+BA	3194828	Bunur	pedestrian	1	0	0	
+BA	3194828	Carinski most	tertiary	1	0	0	
+BA	3194828	Ciglana	residential	1	0	0	
+BA	3194828	Crna ulica	living_street	1	0	0	
+BA	3194828	Don Ivana Musića	residential	1	0	0	
+BA	3194828	Dr .Ante Starčevića	secondary	1	0	0	
+BA	3194828	Dr Vjekoslava Vrančića	residential	1	0	0	
+BA	3194828	Dr. Milana Šufflaja	residential	1	0	0	
+BA	3195066	Brđani	unclassified	1	0	0	
+BA	3195066	Pepić	residential	1	0	0	
+BA	3195066	Vižlini	residential	1	0	0	
+BA	3195066	Čelebić	residential	1	0	0	
+BA	3195066	Šokčević	residential	1	0	0	
+BA	3195128	Miloša Obilića	primary	61	4	80	
+BA	3195128	Cara Dušana	secondary	56	1	58	
+BA	3195128	Miloša Obrenovića	residential	48	3	50	
+BA	3195128	Petra Petrovića Njegoša	residential	42	2	42	
+BA	3195128	Vuka Stefanovića Karadžića	residential	36	2	52	
+BA	3195128	Takovska	living_street	31	2	27	
+BA	3195128	Cara Lazara	residential	29	3	52	
+BA	3195128	Solunskih junaka	residential	28	1	35	
+BA	3195128	Supač	living_street	28	1	53	
+BA	3195128	Jovana Dučića	residential	27	2	26	
+BA	3195128	Branka Cvetkovića	residential	26	3	30	
+BA	3195128	Svetog Nikole	residential	26	1	52	
+BA	3195128	Karađorđa Petrovića	residential	25	2	19	
+BA	3195128	Jovana Jovanovića Zmaja	residential	24	2	23	
+BA	3195128	Nikole Tesle	residential	21	2	32	
+BA	3195128	Stevana Sinđelića	residential	21	2	21	
+BA	3195128	Kralja Vukašina	residential	20	1	24	
+BA	3195128	Kralja Petra I Karađorđevića	residential	15	1	15	
+BA	3195128	Milice Stojadinović Srpkinje	residential	12	1	16	
+BA	3195128	Drinska	residential	10	1	11	
+BA	3195128	Majke Jevrosime	residential	10	1	7	
+BA	3195128	Vojvode Radomira Putnika	residential	10	1	14	
+BA	3195128	Vrtoče	residential	10	1	11	
+BA	3195128	Carice Milice	residential	9	1	15	
+BA	3195308	Franjevačkih mučenika	tertiary	8	12	66	
+BA	3195308	Fra Slavka Barbarića	tertiary	5	13	54	
+BA	3195308	Franjevačkih Mučenika		4	15	71	
+BA	3195308	Gospodarska Zona Tromeđa III		4	1	7	
+BA	3195308	Majke Terezije	secondary	4	34	40	
+BA	3195308	Bana Josipa Jelačića	residential	3	4	9	
+BA	3195308	Fra Vendelina Vasilja	tertiary	3	1	9	
+BA	3195308	Kralja Tomislava	residential	3	9	34	
+BA	3195308	Dr. Franje Tuđmana	residential	2	7	9	
+BA	3195308	Kacide	residential	2	2	4	
+BA	3195308	Krstine		2	65	65	
+BA	3195308	Miletina		2	20	22	
+BA	3195360	Bosanska	residential	1	0	0	
+BA	3195500	Dragoje Abaze	residential	1	0	0	
+BA	3195839	Grahovo	residential	1	0	0	
+BA	3195930	Alije Izetbegovića	secondary	1	0	0	
+BA	3195930	Borak	residential	1	0	0	
+BA	3195930	Bukovik	living_street	1	0	0	
+BA	3195930	Herce	residential	1	0	0	
+BA	3195930	Opreč	residential	1	0	0	
+BA	3195930	Podžupča	residential	1	0	0	
+BA	3195930	Smailbegova	residential	1	0	0	
+BA	3195930	Smailbegovići	residential	1	0	0	
+BA	3195930	Trtorići	living_street	1	0	0	
+BA	3195930	Vrankamen	living_street	1	0	0	
+BA	3195930	Župča	residential	1	0	0	
+BA	3195945	Borački put	residential	1	0	0	
+BA	3195945	Carigradska	residential	1	0	0	
+BA	3195945	Davida Štrpca	residential	1	0	0	
+BA	3195945	Dinastije Nemanjića	secondary	1	0	0	
+BA	3195945	Dobrice Erića	residential	1	0	0	
+BA	3195945	Gradiška cesta	primary	1	0	0	
+BA	3195945	Kriškovački put	tertiary	1	0	0	
+BA	3195945	Krstovdanska	residential	1	0	0	
+BA	3195945	Laze Lazarevića	residential	1	0	0	
+BA	3195945	Ljevčanska	primary	1	0	0	
+BA	3195945	Milosavski put	tertiary	1	0	0	
+BA	3195945	Paje Jovanovića	residential	1	0	0	
+BA	3195946	Jablanica		4	18	21	
+BA	3195946	'Vatreni' Most	unclassified	1	0	0	
+BA	3195946	1. marta	tertiary	1	0	0	
+BA	3195946	10.ulica	residential	1	0	0	
+BA	3195946	Abdulaha Mahmutagića	residential	1	0	0	
+BA	3195946	Aleja ljiljana	residential	1	0	0	
+BA	3195946	Bosanska	residential	1	0	0	
+BA	3195946	Gradski most	tertiary	1	0	0	
+BA	3195946	Ilijasa Smajlagića	residential	1	0	0	
+BA	3195946	Ivana Pavla II	residential	1	0	0	
+BA	3195946	Kulina Bana	residential	1	0	0	
+BA	3195946	Pionirska	residential	1	0	0	
+BA	3195946	Sarajevska ulica	residential	1	0	0	
+BA	3195946	Sikola 1	primary	1	0	0	
+BA	3195946	Sikola 2	primary	1	0	0	
+BA	3195946	Srebreničkih žrtava rata	tertiary	1	0	0	
+BA	3195946	Sulejmana Omerovića Cara	residential	1	0	0	
+BA	3195946	Titova ulica	residential	1	0	0	
+BA	3195999	Adžijin Potok	residential	1	0	0	
+BA	3195999	Kruškonjići	residential	1	0	0	
+BA	3195999	Marići	residential	1	0	0	
+BA	3195999	Mitrovići	residential	1	0	0	
+BA	3195999	Zarići	unclassified	1	0	0	
+BA	3195999	Žeravački Potok	residential	1	0	0	
+BA	3196066	Zlatnih ljiljana	unclassified	1	0	0	
+BA	3196069	Petrovići	living_street	120	55	217	
+BA	3196069	Tvrdimići	living_street	38	2	36	
+BA	3196069	Klek	tertiary	21	44	73	
+BA	3196069	Boška Vujadina		9	56	123	
+BA	3196069	Ivanići		2	10	10	
+BA	3196069	Batići	residential	1	0	0	
+BA	3196069	Borija	unclassified	1	0	0	
+BA	3196069	Donje Međuše	unclassified	1	0	0	
+BA	3196069	Kijevo	living_street	1	0	0	
+BA	3196069	Klanac	unclassified	1	0	0	
+BA	3196069	Polja	unclassified	1	0	0	
+BA	3196069	Spile	unclassified	1	0	0	
+BA	3196079	Brgule	residential	81	6	101	
+BA	3196079	26. avgusta	residential	50	3	149	
+BA	3196079	Dobrnja	residential	48	7	191	
+BA	3196079	Mihatovići	residential	34	11	71	
+BA	3196079	Majevička	residential	23	3	80	
+BA	3196079	Milešići	residential	19	7	62	
+BA	3196079	38. divizije	residential	18	1	37	
+BA	3196079	Miralema Junuzovića	residential	15	2	46	
+BA	3196079	Arifa Redžića	residential	10	1	30	
+BA	3196079	Poljana	residential	8	160	372	
+BA	3196079	Armije BiH		4	0	0	
+BA	3196079	Marina Glava	residential	4	73	103	
+BA	3196079	Mramorska	residential	4	2	24	
+BA	3196079	Kule	residential	3	1	5	
+BA	3196079	8. marta	residential	2	17	21	
+BA	3196079	Branilaca Bosne	residential	2	0	0	
+BA	3196079	Mosorovac		2	0	0	
+BA	3196079	Omladinska	residential	2	3	5	
+BA	3196079	Sarajevska	residential	2	9	9	
+BA	3196079	Teretni ulaz u cementaru		2	0	0	
+BA	3196079	Tuzlanski odred		2	0	0	
+BA	3196079	Zmaja od Bosne		2	0	0	
+BA	3196079	25. novembar	residential	1	0	0	
+BA	3196079	9. maja	residential	1	0	0	
+BA	3196079	Alekse Šantića	residential	1	0	0	
+BA	3196079	Armije RBiH	residential	1	0	0	
+BA	3196079	Bana Borića	residential	1	0	0	
+BA	3196079	Bijele zgrade	residential	1	0	0	
+BA	3196079	Bistaračka	secondary	1	0	0	
+BA	3196079	Bosne Srebrene	residential	1	0	0	
+BA	3196079	Branka Čopića	residential	1	0	0	
+BA	3196079	Doložaj	residential	1	0	0	
+BA	3196079	Ismeta Mujezinovića	residential	1	0	0	
+BA	3196079	Jaske i Dragana	residential	1	0	0	
+BA	3196079	Kacare	residential	1	0	0	
+BA	3196079	Kralja Tvrtka Prvog	residential	1	0	0	
+BA	3196079	Kulina bana	residential	1	0	0	
+BA	3196079	Ljepunice	residential	1	0	0	
+BA	3196079	Lukavačkih pjesnika	residential	1	0	0	
+BA	3196079	Mehmedalije Maka Dizdara	residential	1	0	0	
+BA	3196079	Mese Selimovica	residential	1	0	0	
+BA	3196079	Milerova	residential	1	0	0	
+BA	3196079	Mramor	residential	1	0	0	
+BA	3196079	Mramor Novi	residential	1	0	0	
+BA	3196079	Muhameda Hevaija Uskufija	secondary	1	0	0	
+BA	3196079	Muje Hodžića	residential	1	0	0	
+BA	3196079	Partizanski put	residential	1	0	0	
+BA	3196079	Patriotske lige	residential	1	0	0	
+BA	3196108	Kninska	primary	1	0	0	
+BA	3196209	Cara Dušana	secondary	1	0	0	
+BA	3196209	Cara Lazara	residential	1	0	0	
+BA	3196209	Desanke Maksimović	residential	1	0	0	
+BA	3196209	Dositeja Obradovića	residential	1	0	0	
+BA	3196209	Isidore Sekulić	residential	1	0	0	
+BA	3196209	Jovana Dučića	residential	1	0	0	
+BA	3196209	Kralja Milutina	residential	1	0	0	
+BA	3196209	Kralja Petra I	residential	1	0	0	
+BA	3196209	Lopare selo, Poljane	residential	1	0	0	
+BA	3196209	Majevičkih Brigada	residential	1	0	0	
+BA	3196209	Majke Angeline	residential	1	0	0	
+BA	3196209	Miloša Crnjanskog	residential	1	0	0	
+BA	3196228	Drenovljanska	residential	1	0	0	
+BA	3196228	Vukšićanska	residential	1	0	0	
+BA	3196243	Habiba Čupovića	residential	1	0	0	
+BA	3196243	Josipa Dakića	secondary	1	0	0	
+BA	3196243	Rafaela Levija	residential	1	0	0	
+BA	3196324	IV. brigade HVO Stjepana Radića	tertiary	41	7	61	
+BA	3196324	Don Ivana Musića	residential	2	17	19	
+BA	3196324	Hrvatskih branitelja	tertiary	2	78	80	
+BA	3196324	Nikole Kordića	residential	2	0	0	
+BA	3196324	A.B. Šimića	residential	1	0	0	
+BA	3196324	Alberta Fortisa	residential	1	0	0	
+BA	3196324	Alije Nametka	residential	1	0	0	
+BA	3196324	Ante Paradžika	residential	1	0	0	
+BA	3196324	Antuna Gustava Matoša	primary	1	0	0	
+BA	3196324	Bana Jelačića	primary	1	0	0	
+BA	3196324	Bartola Kašića	residential	1	0	0	
+BA	3196324	Bleiburških žrtava	residential	1	0	0	
+BA	3196324	Brune Bušića	residential	1	0	0	
+BA	3196324	Carla Partscha	residential	1	0	0	
+BA	3196324	Crkvice	living_street	1	0	0	
+BA	3196324	Crvengorski most	unclassified	1	0	0	
+BA	3196324	Dobrovoljnih darivatelja krvi	residential	1	0	0	
+BA	3196324	Dr. Ante Starčevića	residential	1	0	0	
+BA	3196324	Dr. Fra Bonicija Rupčića	residential	1	0	0	
+BA	3196324	Dr. Fra Ljudevita Rupčića	residential	1	0	0	
+BA	3196324	Dr. Isidora Pape	tertiary	1	0	0	
+BA	3196324	Dr. Ive Bojanovskog	residential	1	0	0	
+BA	3196324	Dr. fra Bonicija Rupčića	residential	1	0	0	
+BA	3196324	Dragutina Tadijanovića	living_street	1	0	0	
+BA	3196364	Alekse Šantića	residential	1	0	0	
+BA	3196364	Avenija	residential	1	0	0	
+BA	3196364	Crnogorski put	secondary	1	0	0	
+BA	3196364	Cukovci	residential	1	0	0	
+BA	3196364	Doktora Vladimira Ćorovića	residential	1	0	0	
+BA	3196364	Filipa Višnjića	residential	1	0	0	
+BA	3196364	Hilandarska	residential	1	0	0	
+BA	3196364	Jovana Dučića	residential	1	0	0	
+BA	3196364	Karađorđeva	tertiary	1	0	0	
+BA	3196364	Kneza Lazara	residential	1	0	0	
+BA	3196364	Kneza Mihaila Viševića	residential	1	0	0	
+BA	3196364	Kneza Miroslava	residential	1	0	0	
+BA	3196410	Priluka	residential	213	11	202	
+BA	3196410	Zagrebačka	residential	120	7	138	
+BA	3196410	Donjožabljačka	residential	94	5	110	
+BA	3196410	Prisap		81	5	78	
+BA	3196410	Kraljice Katarine	residential	70	4	68	
+BA	3196410	Zastinjska	residential	58	3	66	
+BA	3196410	Gorička cesta	primary	55	3	73	
+BA	3196410	Kardinala Stepinca	residential	55	4	58	
+BA	3196410	Domobranska	residential	50	3	45	
+BA	3196410	Blajburških žrtava	residential	47	11	141	
+BA	3196410	Gornjožabljačka	residential	47	3	55	
+BA	3196410	Kneza Trpimira	residential	47	3	55	
+BA	3196410	Mali Kablići	residential	47	3	47	
+BA	3196410	Prikorika	residential	45	3	47	
+BA	3196410	Stjepana Radića	residential	45	3	43	
+BA	3196410	Vezela	residential	45	3	49	
+BA	3196410	Splitska	primary	44	1	44	
+BA	3196410	Šibenska	residential	43	3	48	
+BA	3196410	Žabljačka	residential	43	3	45	
+BA	3196410	Glavice		41	2	32	
+BA	3196410	Kralja Zvonimira	residential	35	2	42	
+BA	3196410	Kralja Tvrtka I.	residential	33	2	40	
+BA	3196410	Sestara Milosrdnica	residential	33	2	35	
+BA	3196410	Gabrijela Jurkića	tertiary	31	2	35	
+BA	3196428	Trnska cesta	primary	5	123	213	
+BA	3196428	Fra Didaka Buntića	tertiary	3	11	123	
+BA	3196428	Trg Ante Starčevića	tertiary	3	6	11	
+BA	3196428	Ivana Mažuranića	residential	2	11	11	
+BA	3196428	Obilazna cesta		2	23	36	
+BA	3196428	Oklajska ulica	tertiary	2	48	48	
+BA	3196428	Pobijenih Franjevaca	primary	2	14	16	
+BA	3196428	Ugrovačka	residential	2	2	4	
+BA	3196428	Ulica Antuna Mihanovića		2	1	18	
+BA	3196428	Ulica fra Didaka Buntića		2	72	97	
+BA	3196428	fra Valentina Zovke	residential	2	7	9	
+BA	3196428	Andrije Medulića	residential	1	0	0	
+BA	3196428	Antuna Gustava Matoša	residential	1	0	0	
+BA	3196428	Antuna Mihanovića	residential	1	0	0	
+BA	3196428	Augusta Šenoe	residential	1	0	0	
+BA	3196428	Biokovska	residential	1	0	0	
+BA	3196428	Biskupa Ćirila Kosa	residential	1	0	0	
+BA	3196428	Blatska	residential	1	0	0	
+BA	3196428	Blidinjska	residential	1	0	0	
+BA	3196428	Borak	unclassified	1	0	0	
+BA	3196428	Branimirova	residential	1	0	0	
+BA	3196428	Branka Petra Ljubičića	residential	1	0	0	
+BA	3196428	Braće Šimića	residential	1	0	0	
+BA	3196428	Budakova	residential	1	0	0	
+BA	3196792	Rade Janjuša		263	11	211	
+BA	3196792	Cara Dušana		210	7	222	
+BA	3196792	Omladinska	primary	201	7	201	
+BA	3196792	Svetosavska		191	8	213	
+BA	3196792	Ulica patrijarha Pavla		190	10	201	
+BA	3196792	Jablanska ulica		178	11	190	
+BA	3196792	Dositejeva		158	9	170	
+BA	3196792	Ulica Vlade Miloševića		148	8	167	
+BA	3196792	Nikole Pašića		141	8	142	
+BA	3196792	Srbački put	residential	135	10	145	
+BA	3196792	Ljevčanska ulica		123	55	199	
+BA	3196792	Novosadska		113	6	131	
+BA	3196792	Ulica Doste Protić		112	6	151	
+BA	3196792	Karađorđeva	primary	111	6	122	
+BA	3196792	Nemanjina	residential	111	4	105	
+BA	3196792	Gradiška cesta		109	11	186	
+BA	3196792	Ulica Ante Matića		96	5	111	
+BA	3196792	Šoše Mažara	residential	93	5	95	
+BA	3196792	23. aprila		91	5	94	
+BA	3196792	Vrbaska		88	5	182	
+BA	3196792	Nevesinjska		86	5	81	
+BA	3196792	Starine Novaka		83	5	89	
+BA	3196792	Srpska	residential	80	4	88	
+BA	3196792	Ulica Nadežde Petrović	residential	78	4	78	
+BA	3196915	Splitska	residential	45	3	63	
+BA	3196915	Viline kuće	residential	26	2	29	
+BA	3196915	Matice Hrvatske	residential	20	1	23	
+BA	3196915	3. studenog 1994. godine	residential	19	5	22	
+BA	3196915	Ledića kuće	residential	17	1	25	
+BA	3196915	Kardinala Alojzija Stepinca	residential	11	1	15	
+BA	3196915	Augusta Šenoe	residential	10	1	10	
+BA	3196915	S. S. Kranjčevića	residential	10	1	12	
+BA	3196915	Fra Filipa Kunića	residential	9	10	21	
+BA	3196915	Maka Dizdara	residential	7	1	12	
+BA	3196915	Josipa Stadlera	residential	6	1	9	
+BA	3196915	A.B. Šimića	residential	5	1	5	
+BA	3197112	Mijići	residential	1	0	0	
+BA	3197112	Zvrkanovača	unclassified	1	0	0	
+BA	3197296	Fra Grge Martića	residential	10	62	115	
+BA	3197296	Ratkovići		7	1	14	
+BA	3197296	Banjska	residential	2	9	9	
+BA	3197296	Džemala Bijedića	residential	2	12	12	
+BA	3197296	Kraljice Katarine	residential	2	0	0	
+BA	3197296	Augustina Tvrtkovića	residential	1	0	0	
+BA	3197296	Augustina Čičića	residential	1	0	0	
+BA	3197296	Borisa Ćorića	residential	1	0	0	
+BA	3197296	Brce	residential	1	0	0	
+BA	3197296	Brijeg	residential	1	0	0	
+BA	3197296	Dalmatinska	residential	1	0	0	
+BA	3197296	Dubrovačka	residential	1	0	0	
+BA	3197532	Cara Dušana	primary	24	5	87	
+BA	3197532	Jovana Raškovića	residential	2	0	0	
+BA	3197532	22. brigade VRS	residential	1	0	0	
+BA	3197532	Beogradska	residential	1	0	0	
+BA	3197532	Bilice	unclassified	1	0	0	
+BA	3197532	Bore Stankovića	residential	1	0	0	
+BA	3197532	Borjanska	residential	1	0	0	
+BA	3197532	Branislava Nušića	living_street	1	0	0	
+BA	3197532	Branka Radičevića	residential	1	0	0	
+BA	3197532	Branka Ćopića	residential	1	0	0	
+BA	3197532	Cara Lazara	residential	1	0	0	
+BA	3197532	Desanke Maksimović	residential	1	0	0	
+BA	3197532	Devet Jugovića	residential	1	0	0	
+BA	3197532	Dositeja Obradovića	residential	1	0	0	
+BA	3197532	Filipa Višnjića	residential	1	0	0	
+BA	3197532	Gavrila Principa	primary	1	0	0	
+BA	3197532	Groblje Zabrđe	residential	1	0	0	
+BA	3197532	Hajduk Veljka Petrovića	residential	1	0	0	
+BA	3197532	Hilandarska	residential	1	0	0	
+BA	3197532	Ilije Birčanina	residential	1	0	0	
+BA	3197532	Ive Andrića	residential	1	0	0	
+BA	3197532	Josifa Pančića	residential	1	0	0	
+BA	3197532	Jovana Dučića	residential	1	0	0	
+BA	3197532	Jovana Sterije Popovića	residential	1	0	0	
+BA	3197718	Plato	pedestrian	1	0	0	
+BA	3197764	Božidara Goraždanina	primary	2	60	64	
+BA	3197764	Alekse Šantića	residential	1	0	0	
+BA	3197764	Bosanska istočna željeznica	unclassified	1	0	0	
+BA	3197764	Centar 1	residential	1	0	0	
+BA	3197764	Plosnik I	primary	1	0	0	
+BA	3197764	Plosnik II	primary	1	0	0	
+BA	3197964	Stara Kaldrma	residential	9	1	40	
+BA	3197964	Dejzina Bikića	residential	3	167	203	
+BA	3197964	Sulejmana Omerovića - Cara	residential	3	1	60	
+BA	3197964	Kobilja Glava		2	0	0	
+BA	3197964	28. februara	residential	1	0	0	
+BA	3197964	31. jula	residential	1	0	0	
+BA	3197964	Alije Bejtića	residential	1	0	0	
+BA	3197964	Alipašina	residential	1	0	0	
+BA	3197964	Brusulje	residential	1	0	0	
+BA	3197964	Brusulje (Hadžijska ravan)	residential	1	0	0	
+BA	3197964	Donje Biosko	residential	1	0	0	
+BA	3197964	Donji Bulozi	primary	1	0	0	
+BA	3198026	Stara cesta	residential	4	2	20	
+BA	3198026	Trg Alije Izetbegovića	tertiary	3	1	8	
+BA	3198026	1. bataljona	residential	1	0	0	
+BA	3198026	109. brigade	residential	1	0	0	
+BA	3198026	Bosanska	residential	1	0	0	
+BA	3198026	Branilaca Klokotnice	residential	1	0	0	
+BA	3198026	Dječija	primary	1	0	0	
+BA	3198026	Dobrovoljačka	residential	1	0	0	
+BA	3198026	Husein-kapetan Gradaščević	residential	1	0	0	
+BA	3198026	Huseina-kapetana Gradaščevića	residential	1	0	0	
+BA	3198026	Patriotske lige	residential	1	0	0	
+BA	3198026	Sarajevska	residential	1	0	0	
+BA	3198050	Branilaca BiH	primary	3	61	61	
+BA	3198050	Kulina bana	residential	2	11	51	
+BA	3198050	1. Mart	residential	1	0	0	
+BA	3198050	510. slavne brdske brigade	residential	1	0	0	
+BA	3198050	Adisa Nukića	residential	1	0	0	
+BA	3198050	Bošnjačka	residential	1	0	0	
+BA	3198050	Braće Adžemović	residential	1	0	0	
+BA	3198050	Braće Egrlić	residential	1	0	0	
+BA	3198050	Cazinska	residential	1	0	0	
+BA	3198050	Diverzantska	residential	1	0	0	
+BA	3198050	Dubočanska	residential	1	0	0	
+BA	3198050	Edina Huskića-Spreče	residential	1	0	0	
+BA	3198050	Gardijske brigade	residential	1	0	0	
+BA	3198050	Handanovića brdo	residential	1	0	0	
+BA	3198050	Humićka	unclassified	1	0	0	
+BA	3198050	Huskićka	residential	1	0	0	
+BA	3198050	Irfana Ljubijankića	residential	1	0	0	
+BA	3198050	Kapetanijski put	residential	1	0	0	
+BA	3198050	Kurbalićka	residential	1	0	0	
+BA	3198050	Lubička	residential	1	0	0	
+BA	3198050	Majskog otpora agresoru	residential	1	0	0	
+BA	3198050	Mehmedagići	residential	1	0	0	
+BA	3198050	Novo naselje	residential	1	0	0	
+BA	3198050	Osmana Porića	residential	1	0	0	
+BA	3198126	Karaula	primary	1	0	0	
+BA	3198137	Poljana	residential	72	9	348	
+BA	3198137	Kiseljačke čete	residential	65	37	344	
+BA	3198137	Prvomajska	residential	64	10	331	
+BA	3198137	Breze	residential	22	4	116	
+BA	3198137	Omladinskih brigada	residential	12	1	70	
+BA	3198137	Krčevine	residential	1	0	0	
+BA	3198138	Kraljice Katarine	secondary	4	7	65	
+BA	3198138	Kreševska cesta	secondary	4	0	0	
+BA	3198138	Ljetovik	residential	4	89	93	
+BA	3198138	Obala Hrvatske mladeži	unclassified	3	0	0	
+BA	3198138	Sarajevska cesta	primary	3	12	44	
+BA	3198138	Zagrebačka	tertiary	3	3	3	
+BA	3198138	Zanatski Centar		3	0	0	
+BA	3198138	Josipa Bana Jelačića		2	0	0	
+BA	3198138	Alekse Šantića	residential	1	0	0	
+BA	3198138	Antuna Branka Šimića	residential	1	0	0	
+BA	3198138	Antuna Mihanovića	residential	1	0	0	
+BA	3198138	Bukva	residential	1	0	0	
+BA	3198138	Buzuci	residential	1	0	0	
+BA	3198138	Crvena Stijena	residential	1	0	0	
+BA	3198138	Cvjetna	residential	1	0	0	
+BA	3198138	Dalmatinska	residential	1	0	0	
+BA	3198138	Dobri Dol	residential	1	0	0	
+BA	3198138	Draževići	residential	1	0	0	
+BA	3198138	Duhri	residential	1	0	0	
+BA	3198138	Fra Bone Ostojića	residential	1	0	0	
+BA	3198138	Frankopanska	residential	1	0	0	
+BA	3198138	Gornji Ljetovik	residential	1	0	0	
+BA	3198138	Grada Zaprešića	residential	1	0	0	
+BA	3198138	Gradišće	residential	1	0	0	
+BA	3198459	Ul. Dr.Sead Hamzić		54	2	59	
+BA	3198459	Ul. Put spasa		19	1	20	
+BA	3198459	Ul. Elmedina i Vehida Bećirbašića	residential	18	1	19	
+BA	3198459	Ul. Vehida i Zejnila Selmanovića	unclassified	15	1	20	
+BA	3198459	Ul. Fikreta Hamzića	residential	13	1	22	
+BA	3198459	Ul. Zajednica	residential	11	1	14	
+BA	3198459	Ul. Zagajnica	residential	9	1	16	
+BA	3198459	Ul. Civilnih žrtava rata	residential	6	1	6	
+BA	3198459	Ul. Omladinska		5	1	9	
+BA	3198459	Zeleni Gaj	residential	4	1	4	
+BA	3198459	Halilovići	residential	3	1	3	
+BA	3198459	Sarajevska ulica		2	19	20	
+BA	3198490	Alije Izetbegovića	tertiary	13	44	110	
+BA	3198490	311. lahke brigade	tertiary	3	56	56	
+BA	3198490	Šehida	residential	3	5	32	
+BA	3198490	1. maja	residential	1	0	0	
+BA	3198490	25. Novembar	residential	1	0	0	
+BA	3198490	27. Juli	residential	1	0	0	
+BA	3198490	29. Novembar	residential	1	0	0	
+BA	3198490	309. Brdske brigade	residential	1	0	0	
+BA	3198490	4. juli	residential	1	0	0	
+BA	3198490	8. April	residential	1	0	0	
+BA	3198490	Alagići	unclassified	1	0	0	
+BA	3198490	Aliefendići	residential	1	0	0	
+BA	3198490	Almira Hasagića	residential	1	0	0	
+BA	3198490	Begići	residential	1	0	0	
+BA	3198490	Bratstva i jedinstva	residential	1	0	0	
+BA	3198490	Brdo	residential	1	0	0	
+BA	3198490	Brežani	residential	1	0	0	
+BA	3198490	Brkići	residential	1	0	0	
+BA	3198490	Cementarski most	residential	1	0	0	
+BA	3198490	Crnački put	unclassified	1	0	0	
+BA	3198490	Darivaoca krvi	tertiary	1	0	0	
+BA	3198490	Drijen	residential	1	0	0	
+BA	3198490	Fra Bone Benića	secondary	1	0	0	
+BA	3198490	Ganibegovići	residential	1	0	0	
+BA	3198618	Alibašići	residential	1	0	0	
+BA	3198618	Crnkići	unclassified	1	0	0	
+BA	3198618	Dijelovi	residential	1	0	0	
+BA	3198618	Glavica	residential	1	0	0	
+BA	3198618	Gusici	residential	1	0	0	
+BA	3198618	Hafizovići	residential	1	0	0	
+BA	3198618	Hajdarevići	residential	1	0	0	
+BA	3198618	Harčevići	residential	1	0	0	
+BA	3198618	Hodžići	residential	1	0	0	
+BA	3198618	Ibrici	residential	1	0	0	
+BA	3198618	Jezerski	tertiary	1	0	0	
+BA	3198618	Kanurići	residential	1	0	0	
+BA	3198623	21. novembra	residential	2	2	4	
+BA	3198623	Cara Lazara	residential	1	0	0	
+BA	3198623	Meše Selimovića	residential	1	0	0	
+BA	3198623	Novo naselje	primary	1	0	0	
+BA	3198623	Željeznička	residential	1	0	0	
+BA	3198895	Bijeljinska	living_street	328	5	272	
+BA	3198895	Braće Lazić	living_street	249	3	202	
+BA	3198895	Doktora Hamdije Čemerlića	living_street	166	13	172	
+BA	3198895	Drinska	living_street	122	11	131	
+BA	3198895	Šarampov	living_street	114	10	169	
+BA	3198895	Meše Selimovića	living_street	107	7	113	
+BA	3198895	Salke Bajrića	living_street	104	5	95	
+BA	3198895	Brzava	residential	91	6	147	
+BA	3198895	Šesta	residential	70	4	69	
+BA	3198895	Nikole Tesle	residential	68	4	93	
+BA	3198895	Mehmedalije Maka Dizdara	living_street	67	5	69	
+BA	3198895	Muse Ćazima Ćatića	living_street	66	4	69	
+BA	3198895	Stara cesta	living_street	62	4	81	
+BA	3198895	Peta	residential	59	4	68	
+BA	3198895	Husein kapetana Dragaščevića	residential	48	3	55	
+BA	3198895	Prva	residential	48	4	53	
+BA	3198895	Omladinska	living_street	45	3	46	
+BA	3198895	Semberska	living_street	44	2	53	
+BA	3198895	Druga	residential	43	4	53	
+BA	3198895	Četvrta	residential	43	6	55	
+BA	3198895	Desanke Maksimović	living_street	42	3	50	
+BA	3198895	Vlagija	residential	41	1	32	
+BA	3198895	Treća	residential	40	2	53	
+BA	3198895	Šesnaesta	residential	40	2	42	
+BA	3198934	Kralja Stjepana Tomaševića	tertiary	12	16	88	
+BA	3198934	Kralja Tvrtka II	residential	3	1	123	
+BA	3198934	Mitrasova	residential	2	11	11	
+BA	3198934	Slavka Jelice Švabe		2	11	11	
+BA	3198934	Slavka Pranjka	residential	2	5	6	
+BA	3198934	Svetog Luke		2	3	3	
+BA	3198934	Vukovarska	residential	2	16	27	
+BA	3198934	Ajvazi	residential	1	0	0	
+BA	3198934	Alekse Šantića	residential	1	0	0	
+BA	3198934	Barevo II	primary	1	0	0	
+BA	3198934	Baščeluci	residential	1	0	0	
+BA	3198934	Bosanska	residential	1	0	0	
+BA	3198934	Braće Džubo	residential	1	0	0	
+BA	3198934	Dalmatinskih brigada	residential	1	0	0	
+BA	3198934	Florijana Mateka	residential	1	0	0	
+BA	3198934	Fra Antuna Kneževića	residential	1	0	0	
+BA	3198934	Gornje Mile	unclassified	1	0	0	
+BA	3198934	Harmani	residential	1	0	0	
+BA	3198934	Hrast	residential	1	0	0	
+BA	3198934	Hrvoja Vukčića Hrvatinića	tertiary	1	0	0	
+BA	3198934	II zasjedanja AVNOJ-a	unclassified	1	0	0	
+BA	3198934	Ive Andrića	residential	1	0	0	
+BA	3198934	Jajce I	primary	1	0	0	
+BA	3198934	Jajce II	primary	1	0	0	
+BA	3199027	2. bataljona 502. viteške brdske brigade	residential	1	0	0	
+BA	3199027	Ahmeta Hromadžića	residential	1	0	0	
+BA	3199027	Arkovac	residential	1	0	0	
+BA	3199027	Bakovnica	residential	1	0	0	
+BA	3199027	Briševac	residential	1	0	0	
+BA	3199027	Dol	residential	1	0	0	
+BA	3199027	Halkići	residential	1	0	0	
+BA	3199027	Heroja Izačića	primary	1	0	0	
+BA	3199027	Izačićkih odbornika	residential	1	0	0	
+BA	3199027	Izačićkih šehida	residential	1	0	0	
+BA	3199027	Izačićkog odreda	tertiary	1	0	0	
+BA	3199027	Johovac	residential	1	0	0	
+BA	3199142	Bosanski put		5	143	227	
+BA	3199142	Novo naselje	residential	2	0	0	
+BA	3199142	Bare	residential	1	0	0	
+BA	3199142	Dedići	residential	1	0	0	
+BA	3199142	Donja Vogošća	residential	1	0	0	
+BA	3199142	Donji Mlini	residential	1	0	0	
+BA	3199142	Glavica	residential	1	0	0	
+BA	3199142	Hadžići	residential	1	0	0	
+BA	3199142	Han	residential	1	0	0	
+BA	3199142	Han gornji	residential	1	0	0	
+BA	3199142	Hašima Spahića	residential	1	0	0	
+BA	3199142	Ivana Franje Jukica	residential	1	0	0	
+BA	3199142	Kahrimana	unclassified	1	0	0	
+BA	3199142	Kakanjska	residential	1	0	0	
+BA	3199142	Kamenica	residential	1	0	0	
+BA	3199142	Karaula	unclassified	1	0	0	
+BA	3199142	Karašnica	residential	1	0	0	
+BA	3199142	Katane	residential	1	0	0	
+BA	3199142	Luka	residential	1	0	0	
+BA	3199142	Malešići	residential	1	0	0	
+BA	3199142	Matoruga	residential	1	0	0	
+BA	3199142	Misoča	unclassified	1	0	0	
+BA	3199142	Misoča Donja	residential	1	0	0	
+BA	3199142	Misočka	residential	1	0	0	
+BA	3199145	Plantaže	residential	171	15	380	
+BA	3199145	Srebrenička	residential	66	4	64	
+BA	3199145	Rakovička cesta	primary	63	5	174	
+BA	3199145	Polje	residential	55	3	61	
+BA	3199145	Gornje Vlakovo	unclassified	53	39	234	
+BA	3199145	Mostarska	residential	46	3	72	
+BA	3199145	Srpskih izviđača	living_street	16	1	31	
+BA	3199145	Butilska	residential	15	333	393	
+BA	3199145	Čitlučka		14	1	57	
+BA	3199145	Butmirska cesta	secondary	11	8	71	
+BA	3199145	Franje Vuletića	residential	9	1	9	
+BA	3199145	Grabovine	residential	8	6	30	
+BA	3199145	Krste Hegedušića	residential	8	132	146	
+BA	3199145	Tukovi	residential	8	14	131	
+BA	3199145	Ulica Cap. Anamur		8	10	27	
+BA	3199145	Vlakovo	tertiary	8	36	144	
+BA	3199145	Dr. Mustafe Pintola	residential	7	1	27	
+BA	3199145	Džemala Bijedića		7	216	297	
+BA	3199145	Kovačevac	residential	7	1	9	
+BA	3199145	Mliništa	residential	7	24	27	
+BA	3199145	Vidovci	residential	7	2	14	
+BA	3199145	Ulica Azići		6	77	140	
+BA	3199145	Nikole Kolumbića Šake	residential	5	121	140	
+BA	3199145	Osik		5	6	210	
+BA	3199145	Blažuj	residential	4	73	118	
+BA	3199145	Remze Ahmetovića	residential	4	131	173	
+BA	3199145	Rustem-pašina	secondary	4	13	86	
+BA	3199145	Blažujski drum	residential	3	5	56	
+BA	3199145	Gliše Jankovića	residential	3	4	8	
+BA	3199145	Hrasnička cesta	tertiary	3	1	15	
+BA	3199145	Mala aleja	pedestrian	3	15	69	
+BA	3199145	Orlovača		3	17	21	
+BA	3199145	Pijačna	residential	3	6	78	
+BA	3199145	Aerodromska		2	1	3	
+BA	3199145	Bosanskih gazija	residential	2	33	34	
+BA	3199145	Djevojačka voda	residential	2	93	95	
+BA	3199145	Edhema Eke Džubura	secondary	2	17	19	
+BA	3199145	Fridriha Kacera	residential	2	15	23	
+BA	3199145	Harisa Merzića	pedestrian	2	3	18	
+BA	3199145	Ibrahima Ljubovića		2	7	39	
+BA	3199145	Ilirska	residential	2	2	2	
+BA	3199145	Kasindolska		2	35	37	
+BA	3199145	Mostarsko raskršće		2	10	10	
+BA	3199145	Oteška	residential	2	54	56	
+BA	3199145	Terovića	residential	2	13	15	
+BA	3199145	Tuneli		2	1	2	
+BA	3199145	Tvornička	residential	2	3	3	
+BA	3199145	Velika aleja		2	3	13	
+BA	3199145	25. novembar	residential	1	0	0	
+BA	3199145	Azići	residential	1	0	0	
+BA	3199145	Banjska	pedestrian	1	0	0	
+BA	3199145	Barska	residential	1	0	0	
+BA	3199145	Biočki put	secondary	1	0	0	
+BA	3199145	Breza	residential	1	0	0	
+BA	3199145	Cap Anamur	residential	1	0	0	
+BA	3199145	Dr. Avde Sućeske	residential	1	0	0	
+BA	3199145	Dr. Fuada Muhića	residential	1	0	0	
+BA	3199145	Dr. Ševale Zildžić-Iblizović	residential	1	0	0	
+BA	3199145	Dragana Kulidžana	residential	1	0	0	
+BA	3199145	Džananova	residential	1	0	0	
+BA	3199145	Fadila Hadžića	residential	1	0	0	
+BA	3199145	Francuske revolucije	residential	1	0	0	
+BA	3199145	Gazi Hasan paše	residential	1	0	0	
+BA	3199145	Huseina Đoze	tertiary	1	0	0	
+BA	3199145	IV Viteške brigade	residential	1	0	0	
+BA	3199145	Igmanska cesta	unclassified	1	0	0	
+BA	3199145	Igmanski Put	secondary	1	0	0	
+BA	3199145	Ivana Brkića	residential	1	0	0	
+BA	3199145	Jahiela Fincija	residential	1	0	0	
+BA	3199145	Jana Doršnera	residential	1	0	0	
+BA	3199145	Jasike	residential	1	0	0	
+BA	3199145	Josipa Pančića	residential	1	0	0	
+BA	3199145	Josipa Slavenskog	residential	1	0	0	
+BA	3199145	Karla Malya	residential	1	0	0	
+BA	3199145	Konaci	residential	1	0	0	
+BA	3199145	Krčevine	residential	1	0	0	
+BA	3199145	Lepenička	residential	1	0	0	
+BA	3199145	Lužanski put	residential	1	0	0	
+BA	3199145	Lužansko polje	residential	1	0	0	
+BA	3199145	Magistrala	secondary	1	0	0	
+BA	3199145	Marice Uherke	residential	1	0	0	
+BA	3199145	Mehe Porobića	residential	1	0	0	
+BA	3199145	Mekote	residential	1	0	0	
+BA	3199145	Midhata Hujdura Hujke	residential	1	0	0	
+BA	3199145	Mitrići	residential	1	0	0	
+BA	3199145	Miševići	residential	1	0	0	
+BA	3199145	Močila	unclassified	1	0	0	
+BA	3199145	Mustafe Ice Voljevice	residential	1	0	0	
+BA	3199145	Nihadija	residential	1	0	0	
+BA	3199145	Rahima Čatovića	residential	1	0	0	
+BA	3199145	Ramiza Jašara	residential	1	0	0	
+BA	3199145	Salema Zazana	residential	1	0	0	
+BA	3199145	Sarajevska cesta	primary	1	0	0	
+BA	3199145	Sastavci	residential	1	0	0	
+BA	3199145	Seada Sinanovića	residential	1	0	0	
+BA	3199145	Sestara Elčić	residential	1	0	0	
+BA	3199145	Slivije	residential	1	0	0	
+BA	3199145	Smajla Baftića	residential	1	0	0	
+BA	3199145	Spomenik	residential	1	0	0	
+BA	3199145	Tome Međe	residential	1	0	0	
+BA	3199275	Vučja luka	living_street	62	9	59	
+BA	3199275	Gornji Bulozi		50	5	61	
+BA	3199275	Odiđed		38	2	45	
+BA	3199275	Donji Bulozi		36	2	39	
+BA	3199275	Hreša	living_street	25	1	24	
+BA	3199275	Donja Hreša	living_street	24	2	25	
+BA	3199275	Gobelje	living_street	20	1	22	
+BA	3199275	Radijevići		19	1	20	
+BA	3199275	Šljeme	residential	18	1	21	
+BA	3199275	Crni vrh		15	1	17	
+BA	3199275	Njemanica	living_street	15	1	20	
+BA	3199275	Gornji Faletići	residential	13	1	13	
+BA	3199417	Vikend naselje	residential	106	13	144	
+BA	3199417	Srpske vojske	primary	80	5	103	
+BA	3199417	Solunskih dobrovoljaca		65	5	66	
+BA	3199417	Aleksandra Karađorđevića	residential	58	3	78	
+BA	3199417	Arsena Petrušića	residential	40	2	42	
+BA	3199417	Cara Dušana	residential	22	2	32	
+BA	3199417	II Romanijske brigade	residential	22	3	33	
+BA	3199417	Aćima Babića	secondary	19	1	31	
+BA	3199417	Vuka Karadžića	residential	19	1	28	
+BA	3199417	Japaga	residential	18	5	28	
+BA	3199417	Željeznička	unclassified	18	5	25	
+BA	3199417	9. januar	residential	12	1	16	
+BA	3199438	Hadželi	tertiary	244	18	249	
+BA	3199438	Sutice	residential	92	5	92	
+BA	3199438	Džamijska	residential	49	3	61	
+BA	3199438	Tinohovska	residential	44	3	52	
+BA	3199438	Patriotske Lige	unclassified	36	3	69	
+BA	3199438	Kopišanj	residential	28	2	28	
+BA	3199438	Stari Put	residential	23	3	36	
+BA	3199438	Rakovička cesta	primary	19	198	323	
+BA	3199438	Iznad Pruge	residential	16	1	17	
+BA	3199438	Hrnjići	residential	11	1	17	
+BA	3199438	Kopišanj I	residential	10	1	10	
+BA	3199438	Kopišanj II	residential	7	1	7	
+BA	3199438	Garovci	residential	6	1	11	
+BA	3199438	Zeleni ariš	residential	6	1	8	
+BA	3199438	Anđelka Lažetića		3	2	17	
+BA	3199438	Dzamijska		2	14	40	
+BA	3199438	Gornje Vlakovo		2	19	21	
+BA	3199438	27. Juli	residential	1	0	0	
+BA	3199438	27. juli	residential	1	0	0	
+BA	3199438	5. April	residential	1	0	0	
+BA	3199438	6. Mart	tertiary	1	0	0	
+BA	3199438	Brezovačka	residential	1	0	0	
+BA	3199438	Donji Hadžići	residential	1	0	0	
+BA	3199438	Dupovci	residential	1	0	0	
+BA	3199509	A.B. Šimića	residential	1	0	0	
+BA	3199509	Andrije Šimića	residential	1	0	0	
+BA	3199509	Ante Starčevića	residential	1	0	0	
+BA	3199509	Bili Brig	unclassified	1	0	0	
+BA	3199509	Bostan	residential	1	0	0	
+BA	3199509	Gojka Šuška	primary	1	0	0	
+BA	3199509	I. Alilovića	unclassified	1	0	0	
+BA	3199509	Imotsko-bekijska ulica	primary	1	0	0	
+BA	3199509	Kralja Tomislava	residential	1	0	0	
+BA	3199509	Nikolina	residential	1	0	0	
+BA	3199509	Put Krištelice	unclassified	1	0	0	
+BA	3199509	Put Topale	residential	1	0	0	
+BA	3199525	Ante Pavelića	residential	1	0	0	
+BA	3199525	Gromiljak	residential	1	0	0	
+BA	3199744	Husein kapetana Gradaščevića	tertiary	2	14	54	
+BA	3199744	Ledenice Donje		2	0	0	
+BA	3199744	1. maja	residential	1	0	0	
+BA	3199744	25. novembra	unclassified	1	0	0	
+BA	3199744	6. April	residential	1	0	0	
+BA	3199744	7. decembra	residential	1	0	0	
+BA	3199744	8. marta	residential	1	0	0	
+BA	3199744	Ahmeda Hanića	primary	1	0	0	
+BA	3199744	Bosaanskih gazija	residential	1	0	0	
+BA	3199744	Hadžiefendijina	tertiary	1	0	0	
+BA	3199744	Hasana Kikića	residential	1	0	0	
+BA	3199744	Hazna	residential	1	0	0	
+BA	3199744	Ibrahima Kapetanovića	residential	1	0	0	
+BA	3199744	Kadić Mahala	residential	1	0	0	
+BA	3199744	Lahve	residential	1	0	0	
+BA	3199744	Mustafe Novalića	residential	1	0	0	
+BA	3199744	Nenaviste	residential	1	0	0	
+BA	3199744	Nusreta Brkića	residential	1	0	0	
+BA	3199744	Požarička	residential	1	0	0	
+BA	3199744	Požaričkih branilaca	tertiary	1	0	0	
+BA	3199744	Rasadnik	residential	1	0	0	
+BA	3199744	Sarajevska	secondary	1	0	0	
+BA	3199744	Sviračka	primary	1	0	0	
+BA	3199744	Titova	tertiary	1	0	0	
+BA	3199744	VI bataljona	primary	1	0	0	
+BA	3199744	VI. bataljona	residential	1	0	0	
+BA	3199744	VII bataljona	residential	1	0	0	
+BA	3199744	XVI. muslimanske partizanske brigade	residential	1	0	0	
+BA	3199744	Zlatnih ljiljana	residential	1	0	0	
+BA	3199744	Šehitluci	primary	1	0	0	
+BA	3199744	Željeznička	residential	1	0	0	
+BA	3199779	Bare 3	unclassified	14	39	66	
+BA	3199779	Mekiljica	living_street	12	36	49	
+BA	3199779	Mula Mustafe Bašeskije	residential	6	1	5	
+BA	3199779	Sredina	unclassified	6	69	73	
+BA	3199779	Bare - Putoševac	residential	4	16	19	
+BA	3199779	Mehmeda Ahmedbegovića	secondary	2	40	50	
+BA	3199779	111. Gračaničke brigade	residential	1	0	0	
+BA	3199779	212. oslobodilačke brigade	unclassified	1	0	0	
+BA	3199779	22. divizije	residential	1	0	0	
+BA	3199779	Adema Mustajbašića	living_street	1	0	0	
+BA	3199779	Ahmet-paše Budimilije	residential	1	0	0	
+BA	3199779	Alije Đerzeleza	living_street	1	0	0	
+BA	3199779	Armije R. BiH	secondary	1	0	0	
+BA	3199779	Bazen	living_street	1	0	0	
+BA	3199779	Bijela polja	residential	1	0	0	
+BA	3199779	Branilaca kule grada	residential	1	0	0	
+BA	3199779	Braće Alić	living_street	1	0	0	
+BA	3199779	Brkići	residential	1	0	0	
+BA	3199779	Brčanska Malta	secondary	1	0	0	
+BA	3199779	Crni put	living_street	1	0	0	
+BA	3199779	Derva	living_street	1	0	0	
+BA	3199779	Drafnići	living_street	1	0	0	
+BA	3199779	Drama	residential	1	0	0	
+BA	3199779	Drijenča	residential	1	0	0	
+BA	3199779	Gojsalići	living_street	1	0	0	
+BA	3199779	Grabovac	residential	1	0	0	
+BA	3199779	Gračaničkih gazija	residential	1	0	0	
+BA	3199779	Hadži Halil Efendije Gračanlije	residential	1	0	0	
+BA	3199779	Hadžikadijina	residential	1	0	0	
+BA	3199779	Hajdarovac	residential	1	0	0	
+BA	3199779	Hajrudina Džebe Bajbage	residential	1	0	0	
+BA	3199779	Hazima Vikala	residential	1	0	0	
+BA	3199779	Hermanna Gmeinera	residential	1	0	0	
+BA	3199779	Jukani	residential	1	0	0	
+BA	3199779	Kadići	residential	1	0	0	
+BA	3199779	Kamenica - Ražljev	residential	1	0	0	
+BA	3199779	Kamenita voda	living_street	1	0	0	
+BA	3199779	Kapetančići	residential	1	0	0	
+BA	3199779	Kej Fridriha Foglera	residential	1	0	0	
+BA	3199779	Kečkovac	residential	1	0	0	
+BA	3199779	Kečkovac - Skuglovići	residential	1	0	0	
+BA	3199779	Kiseljak	residential	1	0	0	
+BA	3199779	Koturaška	residential	1	0	0	
+BA	3199779	Kruške	residential	1	0	0	
+BA	3199779	Lipa	residential	1	0	0	
+BA	3199779	Lipinac	residential	1	0	0	
+BA	3199779	Mehmeda Vehbi ef. Šemsekadića	secondary	1	0	0	
+BA	3199779	Mejdan Džedid Sokak	residential	1	0	0	
+BA	3199784	Srpskih izviđača	living_street	77	20	124	
+BA	3199784	Bajramuša	unclassified	1	0	0	
+BA	3199784	Duboki do	residential	1	0	0	
+BA	3199784	Lukavac	unclassified	1	0	0	
+BA	3199904	Vrbaska	primary	4	0	0	
+BA	3199904	1. Maj	residential	1	0	0	
+BA	3199904	1. marta	residential	1	0	0	
+BA	3199904	1. oktobra	residential	1	0	0	
+BA	3199904	A.B. Šimića	residential	1	0	0	
+BA	3199904	Bare	residential	1	0	0	
+BA	3199904	Batuška	residential	1	0	0	
+BA	3199904	Bistrička	secondary	1	0	0	
+BA	3199904	Branka Mikulića	residential	1	0	0	
+BA	3199904	Dizdaruša	residential	1	0	0	
+BA	3199904	Fra Anđela Zvizdovića	residential	1	0	0	
+BA	3199904	Fra Grge Martića	residential	1	0	0	
+BA	3199904	Glavica	residential	1	0	0	
+BA	3199904	Hercega Stjepana Kosače	residential	1	0	0	
+BA	3199904	Ivana Gorana Kovačića	residential	1	0	0	
+BA	3199904	Ivana Pavla II.	residential	1	0	0	
+BA	3199904	Ive Andrića	residential	1	0	0	
+BA	3199904	Kamenice	residential	1	0	0	
+BA	3199904	Kneza Branimira	residential	1	0	0	
+BA	3199904	Kneza Domagoja	residential	1	0	0	
+BA	3199904	Košute	residential	1	0	0	
+BA	3199904	Kraljice Katarine	residential	1	0	0	
+BA	3199904	Manovića sokak	residential	1	0	0	
+BA	3199904	Matije Gupca	residential	1	0	0	
+BA	3199920	Ivanovići	residential	1	0	0	
+BA	3199920	Kneževići	residential	1	0	0	
+BA	3199933	Rade Jovanića	secondary	1	0	0	
+BA	3200031	Gornji Detlak Crkva	unclassified	1	0	0	
+BA	3200031	Gornji Detlak Tesendici	residential	1	0	0	
+BA	3200031	Surići	residential	1	0	0	
+BA	3200108	Bosnići	living_street	1	0	0	
+BA	3200108	Bosnići-Podšpilje	living_street	1	0	0	
+BA	3200108	Donje Moštre	residential	1	0	0	
+BA	3200108	Drum	residential	1	0	0	
+BA	3200108	Gaj	residential	1	0	0	
+BA	3200108	Gornji Porječani	residential	1	0	0	
+BA	3200108	Nevijestina mahala	residential	1	0	0	
+BA	3200108	Nevjestina mahala	residential	1	0	0	
+BA	3200108	Piskavice	residential	1	0	0	
+BA	3200108	Poklečići	residential	1	0	0	
+BA	3200108	Porječani	residential	1	0	0	
+BA	3200108	Zagornica	residential	1	0	0	
+BA	3200167	Uzeira Mehičića	residential	64	10	232	
+BA	3200167	Abdurahmana Saračevića Ace	residential	63	7	145	
+BA	3200167	Potočka mahala	secondary	63	6	114	
+BA	3200167	Bosanska	residential	58	3	147	
+BA	3200167	Bali-begova mahala	residential	57	6	177	
+BA	3200167	Meldina Hajdarevića	residential	37	2	70	
+BA	3200167	Hadži Bajazidova mahala	residential	35	2	75	
+BA	3200167	Dragčin	residential	24	2	54	
+BA	3200167	Gogrnjotuzlanskog odreda	residential	18	1	54	
+BA	3200167	Hadži Huseinova mahala	residential	17	1	36	
+BA	3200167	Hajrudina Mešića	residential	15	131	198	
+BA	3200167	Dr Mehmeda Huseinefendića	residential	11	1	15	
+BA	3200245	Pajići	residential	1	0	0	
+BA	3200245	Žunići	residential	1	0	0	
+BA	3200340	Brig	residential	1	0	0	
+BA	3200340	Džakina ulica	residential	1	0	0	
+BA	3200340	Ćukovača	residential	1	0	0	
+BA	3200396	Maršala Tita	primary	22	2	21	
+BA	3200396	Meha Drljevića	secondary	13	2	10	
+BA	3200396	Jusufa Duhovića	residential	11	1	19	
+BA	3200396	Zaima Imamovića	residential	11	1	60	
+BA	3200396	Rabite	residential	8	0	0	
+BA	3200396	Ferida Dizdarevića	secondary	5	3	25	
+BA	3200396	Seada Sofovića Sofe	primary	5	2	10	
+BA	3200396	Zdravstvenih radnika	residential	3	6	6	
+BA	3200396	1. Slavne višegradske brigade	secondary	2	2	2	
+BA	3200396	Huseina Bešlije	residential	2	16	18	
+BA	3200396	Kulina bana	primary	2	31	31	
+BA	3200396	Muhidina Mašića Munje	primary	2	8	27	
+BA	3200396	ORB		2	19	19	
+BA	3200396	Omladinska	residential	2	1	1	
+BA	3200396	Ruždije Islamagića	residential	2	26	26	
+BA	3200396	Trg branilaca	primary	2	2	3	
+BA	3200396	1. Drinske brigade	residential	1	0	0	
+BA	3200396	1. drinske brigade	primary	1	0	0	
+BA	3200396	16. muslimanske brigade	residential	1	0	0	
+BA	3200396	22. maj	residential	1	0	0	
+BA	3200396	25. novembra	residential	1	0	0	
+BA	3200396	31. Drinske udarne brigade	primary	1	0	0	
+BA	3200396	31. drinske udarne brigade	primary	1	0	0	
+BA	3200396	43. drinske brigade	residential	1	0	0	
+BA	3200396	Adnana Mehanovića	residential	1	0	0	
+BA	3200396	Agana Imamovića	secondary	1	0	0	
+BA	3200396	Bega Mrša	residential	1	0	0	
+BA	3200396	Bekta Gacka	residential	1	0	0	
+BA	3200396	Bolnička	residential	1	0	0	
+BA	3200396	Bosanska	residential	1	0	0	
+BA	3200396	Bosanska istočna željeznica	unclassified	1	0	0	
+BA	3200396	Božidara Goraždanina	primary	1	0	0	
+BA	3200396	Braće Bezdrob	residential	1	0	0	
+BA	3200396	Braće Derviševića	residential	1	0	0	
+BA	3200396	Braće Homoraš	residential	1	0	0	
+BA	3200396	Braće Posvandžića	residential	1	0	0	
+BA	3200396	Braće Ramović	residential	1	0	0	
+BA	3200396	Braće Smajović	residential	1	0	0	
+BA	3200396	Brčigovo	primary	1	0	0	
+BA	3200396	Doktora Karameha	residential	1	0	0	
+BA	3200396	Džemala Osmankovića	residential	1	0	0	
+BA	3200396	Dževada Omerhodžića	secondary	1	0	0	
+BA	3200396	Edina Plakala	primary	1	0	0	
+BA	3200396	Enesa Turkovića	residential	1	0	0	
+BA	3200396	Esada Dučića	residential	1	0	0	
+BA	3200396	Fočanska	residential	1	0	0	
+BA	3200396	Hajra Lakovića	residential	1	0	0	
+BA	3200396	Halida Hubjera	residential	1	0	0	
+BA	3200651	Junuza Duruta	tertiary	121	11	167	
+BA	3200651	Bratstva i Jedinstva	primary	73	4	94	
+BA	3200651	Luke	residential	58	4	85	
+BA	3200651	Proleterska	residential	40	3	48	
+BA	3200651	Ive Lole Ribara	primary	33	2	130	
+BA	3200651	Trg zrtava fašističkog terora	residential	28	2	29	
+BA	3200651	Nikole Bojinovića	residential	25	2	31	
+BA	3200651	Dušana Kovačevića	residential	24	2	38	
+BA	3200651	Dubravska	residential	22	2	43	
+BA	3200651	Homarska	residential	20	2	34	
+BA	3200651	Vida Perduha	residential	19	1	28	
+BA	3200651	Oštrin Brijeg	residential	15	1	28	
+BA	3200768	Nikole Tesle	residential	117	6	142	
+BA	3200768	Solunskih dobrovoljaca	primary	111	6	101	
+BA	3200768	Alekse Šantića	residential	107	8	128	
+BA	3200768	Srpskih ratnika	primary	90	2	111	
+BA	3200768	18. hercegovačke lake pješadijske brigade	primary	78	4	101	
+BA	3200768	Hercega Stefana	residential	63	3	63	
+BA	3200768	Zmaj Jovina	residential	52	3	59	
+BA	3200768	Alekse Jakšića	residential	47	3	73	
+BA	3200768	Vuka Karadžića	residential	38	2	33	
+BA	3200768	Kraljice Jelene	residential	37	2	22	
+BA	3200768	Nemanjina	primary	30	2	48	
+BA	3200768	Milorada Popovića	residential	25	2	21	
+BA	3200829	Bosanska	secondary	2	108	108	
+BA	3200829	Ada	residential	1	0	0	
+BA	3200829	Akademika Rezakovića	residential	1	0	0	
+BA	3200829	Alaupovića	residential	1	0	0	
+BA	3200829	Bakovački put	secondary	1	0	0	
+BA	3200829	Banja	living_street	1	0	0	
+BA	3200829	Drin	residential	1	0	0	
+BA	3200829	Džemala Bijedića	residential	1	0	0	
+BA	3200829	Fra Anđela Zvizdovića	residential	1	0	0	
+BA	3200829	Fra Augustina Miletića	residential	1	0	0	
+BA	3200829	Gradina	residential	1	0	0	
+BA	3200829	Hadrovići	residential	1	0	0	
+BA	3200829	Husein Ef. Numanagića	residential	1	0	0	
+BA	3200829	Ivana Frane Jukića	residential	1	0	0	
+BA	3200829	Ivana Meštrovića	residential	1	0	0	
+BA	3200829	Kozogradska	residential	1	0	0	
+BA	3200829	Kralja Tvrtka	residential	1	0	0	
+BA	3200829	Kraljice Katarine	residential	1	0	0	
+BA	3200829	Kulina Bana	residential	1	0	0	
+BA	3200829	Lastve	residential	1	0	0	
+BA	3200829	Makadam	unclassified	1	0	0	
+BA	3200829	Medresa	residential	1	0	0	
+BA	3200829	Muslinovac	residential	1	0	0	
+BA	3200829	Nikole Lašvanina	residential	1	0	0	
+BA	3200837	Cara Lazara	residential	370	31	362	
+BA	3200837	Cara Dušana	residential	156	8	187	
+BA	3200837	Miloša Obilića	living_street	133	7	136	
+BA	3200837	Karađorđeva	residential	118	6	125	
+BA	3200837	Svetosavska	tertiary	81	4	72	
+BA	3200837	Svetog Nikola	residential	69	4	67	
+BA	3200837	Milana Hadživukovića	residential	64	4	74	
+BA	3200837	Petra Kočića	living_street	58	2	54	
+BA	3200837	Studentska	residential	58	3	106	
+BA	3200837	Mehmed Paše Sokolovića	residential	46	3	56	
+BA	3200837	Branka Ćopića	residential	43	6	49	
+BA	3200837	Nikole Pašića	tertiary	42	4	63	
+BA	3200837	Geteova	living_street	36	2	69	
+BA	3200837	Skendera Kulenovića	residential	36	2	40	
+BA	3200837	Vuka Karadžića	living_street	36	3	43	
+BA	3200837	Jevrejska	residential	35	2	39	
+BA	3200837	Kralja Petra I	primary	35	2	29	
+BA	3200837	Mojkovačka	residential	32	2	31	
+BA	3200837	Dejtonska	residential	31	3	50	
+BA	3200837	Hercegovačka	residential	28	2	27	
+BA	3200837	Nikolaja Velimirovića	residential	28	2	40	
+BA	3200837	Principova	residential	27	3	31	
+BA	3200837	Braće Jeremića	residential	26	2	38	
+BA	3200837	Nemanjina	living_street	26	2	24	
+BA	3200930	Bobara	residential	92	8	160	
+BA	3200930	Vukovarska	tertiary	78	4	122	
+BA	3200930	Mijata Tomića	secondary	36	10	150	
+BA	3200930	Mostarska	secondary	15	1	21	
+BA	3200930	Ćavarov Stan		15	1	15	
+BA	3200930	Kralja Zvonimira	tertiary	11	0	0	
+BA	3200930	Duvanjskih misionara	residential	8	4	16	
+BA	3200930	Sv. Venancija		7	2	21	
+BA	3200930	Trg dr. Franje Tuđmana		5	8	8	
+BA	3200930	Stjepana Radića	residential	4	0	0	
+BA	3200930	Trg Gange i Hajdučke družine	residential	4	0	0	
+BA	3200930	Ludwiga Patscha	residential	3	3	7	
+BA	3200930	Milutina Mayera	residential	3	1	4	
+BA	3200930	Bana Kulina	residential	2	0	0	
+BA	3200930	Boriše Kovačevića	residential	2	0	0	
+BA	3200930	Drinskih mučenica	residential	2	3	16	
+BA	3200930	Kolo		2	0	0	
+BA	3200930	Luških žrtava 1943.	residential	2	10	27	
+BA	3200930	Maka Dizdara	residential	2	0	0	
+BA	3200930	Trg hrvatskih branitelja		2	0	0	
+BA	3200930	A. G. Matoša	residential	1	0	0	
+BA	3200930	Alije Isakovića	residential	1	0	0	
+BA	3200930	Andrijice Šimića	residential	1	0	0	
+BA	3200930	Ante Starčevića	residential	1	0	0	
+BA	3201136	USAOJA	residential	8	16	31	
+BA	3201136	Titova	secondary	2	1	39	
+BA	3201136	25. Maj	residential	1	0	0	
+BA	3201136	27. Jula	residential	1	0	0	
+BA	3201136	Aleja Slavka Rodića	unclassified	1	0	0	
+BA	3201136	Beogradska	residential	1	0	0	
+BA	3201136	Grahovska	residential	1	0	0	
+BA	3201136	Grmečka	residential	1	0	0	
+BA	3201136	II Proleterske Brigade	residential	1	0	0	
+BA	3201136	Ivana Gorana Kovačića	residential	1	0	0	
+BA	3201136	Jole Marića	primary	1	0	0	
+BA	3201136	Koste Bosnića	residential	1	0	0	
+BA	3201177	Drinovci		2	275	341	
+BA	3201177	Plavilo		2	86	86	
+BA	3201376	14. septembar	primary	2	0	0	
+BA	3201376	Most Alije Izetbegovića	residential	1	0	0	
+BA	3201376	Obilaznica	primary	1	0	0	
+BA	3201376	Vrbaska	residential	1	0	0	
+BA	3201389	Žuti most	tertiary	1	0	0	
+BA	3201662	Ulica Josipa Jurja Strossmayera	secondary	2	2	2	
+BA	3201662	Augusta Šenoa	residential	1	0	0	
+BA	3201662	Bana Jelačića	residential	1	0	0	
+BA	3201662	Bok-Matići-Kostrč-Orašje	tertiary	1	0	0	
+BA	3201662	Bosutska ulica	residential	1	0	0	
+BA	3201662	Braće Radića	residential	1	0	0	
+BA	3201662	Braće Ribara	residential	1	0	0	
+BA	3201662	Criteška	residential	1	0	0	
+BA	3201662	Fra Martina Nedića	secondary	1	0	0	
+BA	3201662	Franjevačka	secondary	1	0	0	
+BA	3201662	Ilije Starčevića	residential	1	0	0	
+BA	3201662	Ive Andrića	residential	1	0	0	
+BA	3201662	Jelića	residential	1	0	0	
+BA	3201662	Kočišta	residential	1	0	0	
+BA	3201662	Kraljice Katarine	residential	1	0	0	
+BA	3201662	Kućiški put	unclassified	1	0	0	
+BA	3201662	Matije Gupca	residential	1	0	0	
+BA	3201662	Miroslava Krleže	residential	1	0	0	
+BA	3201662	Omladinska	residential	1	0	0	
+BA	3201662	Oslođođenja	residential	1	0	0	
+BA	3201662	Ostružanska	residential	1	0	0	
+BA	3201662	Prvomajska	residential	1	0	0	
+BA	3201662	Sarajevska	residential	1	0	0	
+BA	3201662	Savska	residential	1	0	0	
+BA	3201697	Novi Grad	residential	48	3	137	
+BA	3201697	Čvorkuša	residential	2	143	152	
+BA	3201697	Papučija	residential	1	0	0	
+BA	3201738	Svete Ane	secondary	11	13	49	
+BA	3201738	Posavski branitelja		8	120	148	
+BA	3201738	Posavskih branitelja	primary	5	132	184	
+BA	3201738	104. brigade Hrvatskog vijeća odbrane	residential	4	0	0	
+BA	3201738	Josipa Jurja Strossmayera	residential	4	2	41	
+BA	3201738	17. travnja 1992. god.	residential	3	18	22	
+BA	3201738	Stjepana Radića	residential	3	22	22	
+BA	3201738	Hrvatskih Domobrana	residential	2	6	11	
+BA	3201738	Sportska	residential	2	0	0	
+BA	3201738	Alojzija Stepinca	residential	1	0	0	
+BA	3201738	Ante Starčevića	residential	1	0	0	
+BA	3201738	Crkveni sokak	residential	1	0	0	
+BA	3201928	Grdanovac	residential	1	0	0	
+BA	3201928	Kalenderi	residential	1	0	0	
+BA	3201928	Mrakodol	residential	1	0	0	
+BA	3201928	Mraovo Polje	residential	1	0	0	
+BA	3201928	Pobrđani	residential	1	0	0	
+BA	3201931	Grđevac	residential	1	0	0	
+BA	3201931	Put za Izletište "Pode"	unclassified	1	0	0	
+BA	3201984	Nikole Pašića	residential	81	2	79	
+BA	3201984	Karađorđeva	residential	78	5	57	
+BA	3201984	Kralja Dragutina	residential	62	2	44	
+BA	3201984	Nikole Tesle	tertiary	16	23	26	
+BA	3201984	Svetog Save	tertiary	14	1	97	
+BA	3201984	Trg 21. mart	tertiary	14	1	24	
+BA	3201984	Nemanjina	tertiary	9	1	5	
+BA	3201984	Kralja Aleksandra	tertiary	7	23	60	
+BA	3201984	Ulica II. Bojne		5	7	20	
+BA	3201984	Vojvode Mišića	residential	5	50	56	
+BA	3201984	Cara Dušana	tertiary	4	15	83	
+BA	3201984	Hilandarska	residential	4	1	1	
+BA	3201984	Kneza Lazara	residential	4	1	4	
+BA	3201984	Vojvode Sinđelića	residential	4	2	10	
+BA	3201984	Bosanska	residential	3	1	3	
+BA	3201984	Kneza Miloša	tertiary	3	97	105	
+BA	3201984	Kralja Petra I		3	11	13	
+BA	3201984	Solunskih dobrovoljaca	residential	3	31	33	
+BA	3201984	Solunskih dobrovoljava		3	25	29	
+BA	3201984	Ćuprijska	residential	3	2	31	
+BA	3201984	Bulevar Cara Dušana	tertiary	2	18	24	
+BA	3201984	Vojvode Stepe	residential	2	100	102	
+BA	3201984	1. maja	residential	1	0	0	
+BA	3201984	10. marta	residential	1	0	0	
+BA	3201984	2. bataljona	residential	1	0	0	
+BA	3201984	2. juna	residential	1	0	0	
+BA	3201984	212. oslobodilačke brigade	residential	1	0	0	
+BA	3201984	4. maja	primary	1	0	0	
+BA	3201984	Alije Izetbegovića	residential	1	0	0	
+BA	3201984	Blagojevići	residential	1	0	0	
+BA	3201984	Branka Kovačevića	residential	1	0	0	
+BA	3201984	Braće Jugovića	residential	1	0	0	
+BA	3201984	Celjska ulica	residential	1	0	0	
+BA	3201984	Cvijetina Todića	residential	1	0	0	
+BA	3201984	Davidovići	residential	1	0	0	
+BA	3201984	Dječija	residential	1	0	0	
+BA	3201984	Dječja	residential	1	0	0	
+BA	3201984	Dobojska	residential	1	0	0	
+BA	3201984	Dobojske brigade	residential	1	0	0	
+BA	3201984	Gligorici	unclassified	1	0	0	
+BA	3201984	Gorana Nikolića	residential	1	0	0	
+BA	3201984	II. bojne	tertiary	1	0	0	
+BA	3201984	Ive Andrića	tertiary	1	0	0	
+BA	3201984	Krečnjak	residential	1	0	0	
+BA	3201984	Krnjinske srpske brigade	primary	1	0	0	
+BA	3201984	Makljenovac	tertiary	1	0	0	
+BA	3201984	Matijev sokak	residential	1	0	0	
+BA	3201984	Meše Selimovića	residential	1	0	0	
+BA	3202014	Bistrica	residential	1	0	0	
+BA	3202014	Frčenica	residential	1	0	0	
+BA	3202014	Gornja Lupnica	residential	1	0	0	
+BA	3202014	Klarići 1	unclassified	1	0	0	
+BA	3202014	Klarići 2	unclassified	1	0	0	
+BA	3202014	Kolonijq	residential	1	0	0	
+BA	3202014	Kružni Bistrički	residential	1	0	0	
+BA	3202014	Lupnica	residential	1	0	0	
+BA	3202014	Medagići	unclassified	1	0	0	
+BA	3202014	ispod obarka	residential	1	0	0	
+BA	3202081	Kninska	primary	21	1	1	
+BA	3202081	Željeznička	unclassified	2	12	12	
+BA	3202081	1. maja	tertiary	1	0	0	
+BA	3202081	16. Krajiške brigade	residential	1	0	0	
+BA	3202081	19. aprila	residential	1	0	0	
+BA	3202081	53. divizije	residential	1	0	0	
+BA	3202081	8. marta	residential	1	0	0	
+BA	3202081	9. maja	residential	1	0	0	
+BA	3202081	Bogdana Žerajića	residential	1	0	0	
+BA	3202081	Braće Jugovića	residential	1	0	0	
+BA	3202081	Cara Lazara	residential	1	0	0	
+BA	3202081	Cerska	residential	1	0	0	
+BA	3202081	Derventska obilaznica	primary	1	0	0	
+BA	3202081	Derventskih oslobodilaca	residential	1	0	0	
+BA	3202081	Desanke Maksimović	residential	1	0	0	
+BA	3202081	Dr Mladena Stojanovića	residential	1	0	0	
+BA	3202081	Dubička	tertiary	1	0	0	
+BA	3202081	Gavrila Principa	residential	1	0	0	
+BA	3202081	Hajduk Veljka	residential	1	0	0	
+BA	3202081	Ive Andrića	residential	1	0	0	
+BA	3202081	Jasikovača	residential	1	0	0	
+BA	3202081	Jevrejska	residential	1	0	0	
+BA	3202081	Jovana Dučića	residential	1	0	0	
+BA	3202081	Karađorđeva	residential	1	0	0	
+BA	3202449	Ilova	tertiary	1	0	0	
+BA	3202564	Kralja Tomislava	primary	4	79	113	
+BA	3202564	Bare	residential	1	0	0	
+BA	3202564	Brdo	residential	1	0	0	
+BA	3202564	Brig	residential	1	0	0	
+BA	3202564	Brigade kneza Branimira	residential	1	0	0	
+BA	3202564	Broćanska	tertiary	1	0	0	
+BA	3202564	Broćanska Odvojak I	residential	1	0	0	
+BA	3202564	Broćanska Odvojak II	residential	1	0	0	
+BA	3202564	Bulića potok	residential	1	0	0	
+BA	3202564	Fra Jake Križića	tertiary	1	0	0	
+BA	3202564	Garišta I	residential	1	0	0	
+BA	3202564	Garišta II	residential	1	0	0	
+BA	3202564	Glavica	residential	1	0	0	
+BA	3202564	Gospoarska zona Blizanci	residential	1	0	0	
+BA	3202564	Kralja Tomislava Odvojak I	residential	1	0	0	
+BA	3202564	Kralja Tomislava Odvojak II	residential	1	0	0	
+BA	3202564	Kralja Tvrtka	residential	1	0	0	
+BA	3202564	Kraljice Katarine	residential	1	0	0	
+BA	3202564	Lukasovići	residential	1	0	0	
+BA	3202564	Markovac	residential	1	0	0	
+BA	3202564	Padalovina	residential	1	0	0	
+BA	3202564	Podgreda	residential	1	0	0	
+BA	3202564	Popovići	residential	1	0	0	
+BA	3202564	Primorci	residential	1	0	0	
+BA	3202589	A. i N. Marića	residential	1	0	0	
+BA	3202589	III Bojne Cimske	tertiary	1	0	0	
+BA	3202589	Koravac	residential	1	0	0	
+BA	3202589	Put Spasa	tertiary	1	0	0	
+BA	3202589	Put spasa	tertiary	1	0	0	
+BA	3202589	Svetog Ante	residential	1	0	0	
+BA	3202732	Stjepanovići	tertiary	1	0	0	
+BA	3202784	Kralja Petra I		10	2	93	
+BA	3202784	Majdanpečka		7	9	13	
+BA	3202784	Vidovdanska		7	5	37	
+BA	3202784	Cara Lazara		6	1	59	
+BA	3202784	Cara Dušana		3	2	6	
+BA	3202784	I Krajiškog proleterskog bataljona		3	1	50	
+BA	3202784	Vojvode Mišića		3	30	57	
+BA	3202784	Đure Pucara Starog		3	6	8	
+BA	3202784	Danka Mitrova	secondary	2	26	28	
+BA	3202784	Mladena Stojanovića		2	2	10	
+BA	3202784	Vukana Trivića		2	2	3	
+BA	3202784	Milorada Brace Radića	residential	1	0	0	
+BA	3202791	208. brdske brigade	secondary	1	0	0	
+BA	3202791	3. bataljona	residential	1	0	0	
+BA	3202791	Alije Izetbegovića	residential	1	0	0	
+BA	3202791	Almira Bislimija	residential	1	0	0	
+BA	3202791	Bešići	residential	1	0	0	
+BA	3202791	Branilaca grada	secondary	1	0	0	
+BA	3202791	Brezopoljska cesta	unclassified	1	0	0	
+BA	3202791	Brđanska	residential	1	0	0	
+BA	3202791	DŽevdeta Gačevića	residential	1	0	0	
+BA	3202791	Džafići	residential	1	0	0	
+BA	3202791	Ekrema Agića	residential	1	0	0	
+BA	3202791	Hamzići	residential	1	0	0	
+BA	3202817	Čečava		4	775	775	
+BA	3202817	Mašinski most	secondary	1	0	0	
+BA	3202822	101. MUKB		5	1	5	
+BA	3202822	Generala Izeta Nanića	tertiary	2	0	0	
+BA	3202822	5. korpusa	residential	1	0	0	
+BA	3202822	517. oslobodilačke brigade	residential	1	0	0	
+BA	3202822	Bolnička	residential	1	0	0	
+BA	3202822	Bošnjačkih šehida	residential	1	0	0	
+BA	3202822	Cazinskih brigada	tertiary	1	0	0	
+BA	3202822	Crkvine	residential	1	0	0	
+BA	3202822	Delalići	residential	1	0	0	
+BA	3202822	Duratovići	unclassified	1	0	0	
+BA	3202822	Hasana Mujezinovića	primary	1	0	0	
+BA	3202822	Indire Pjanić	residential	1	0	0	
+BA	3202822	Invalida domovinskog rata	residential	1	0	0	
+BA	3202822	Irfana Ljubijankića	tertiary	1	0	0	
+BA	3202822	Jedinov put	residential	1	0	0	
+BA	3202822	Klen	residential	1	0	0	
+BA	3202822	Kulina bana	residential	1	0	0	
+BA	3202822	Lipovići	residential	1	0	0	
+BA	3202822	Mala ulica	residential	1	0	0	
+BA	3202822	Murata Tatarevića	tertiary	1	0	0	
+BA	3202822	Muretovo Brdo	residential	1	0	0	
+BA	3202822	Murići	residential	1	0	0	
+BA	3202822	Muslimanski Brigada	residential	1	0	0	
+BA	3202822	Naselje RVI - Paraplegičara	residential	1	0	0	
+BA	3202822	Nurija Pozderca	residential	1	0	0	
+BA	3202822	Osmanagići	residential	1	0	0	
+BA	3202822	Seferagići	residential	1	0	0	
+BA	3202822	Trg zlatnih Ljiljana	tertiary	1	0	0	
+BA	3202822	Trga Alije Izetbegovića	tertiary	1	0	0	
+BA	3202822	Žrtava Domovinskog Rata	residential	1	0	0	
+BA	3202822	Žrtava Domovinskog rata	tertiary	1	0	0	
+BA	3202822	Žrtava fašizma	residential	1	0	0	
+BA	3202873	Gorica	residential	3	53	76	
+BA	3202873	Grabovina		2	564	594	
+BA	3202873	Mate Bobana	primary	2	0	0	
+BA	3202873	Mostarska	residential	2	10	10	
+BA	3202873	Ruđera Boškovića	residential	2	8	9	
+BA	3202873	Struge	residential	2	1	148	
+BA	3202873	Tina Ujevića	tertiary	2	30	32	
+BA	3202873	Vukovarska		2	31	39	
+BA	3202873	Augusta Šenoe	secondary	1	0	0	
+BA	3202873	Badnjaci	unclassified	1	0	0	
+BA	3202873	Blajburških žrtava	residential	1	0	0	
+BA	3202873	Centralna ulica	residential	1	0	0	
+BA	3202873	Don I. Tomasa	residential	1	0	0	
+BA	3202873	Dr. Ante Starčevića	tertiary	1	0	0	
+BA	3202873	Dugandžije	residential	1	0	0	
+BA	3202873	Fra Didaka Buntića	residential	1	0	0	
+BA	3202873	Gojka Šuška	residential	1	0	0	
+BA	3202873	Gornja ulica	residential	1	0	0	
+BA	3202873	Gornje Struge	unclassified	1	0	0	
+BA	3202873	Granica	residential	1	0	0	
+BA	3202873	Hercegovačka ulica	secondary	1	0	0	
+BA	3202873	Hrvatskih branitelja	primary	1	0	0	
+BA	3202873	Ivana Gundulića	residential	1	0	0	
+BA	3202873	Jelene Zrinjski	residential	1	0	0	
+BA	3202895	14. februar	residential	1	0	0	
+BA	3202895	Braće Jugovića	residential	1	0	0	
+BA	3202895	Drljeva	unclassified	1	0	0	
+BA	3202895	Herceg Stefana	residential	1	0	0	
+BA	3202895	Hercegovačka	residential	1	0	0	
+BA	3202895	Igumana Vasilija	residential	1	0	0	
+BA	3202895	Kralja Petra I Karađorđevića	secondary	1	0	0	
+BA	3202895	Pavla Đurišića	residential	1	0	0	
+BA	3202895	Serdar Janka Vukotića	secondary	1	0	0	
+BA	3202895	Svetog Save	residential	1	0	0	
+BA	3202895	Treće srpske brigade	residential	1	0	0	
+BA	3202895	Trg srpskih junaka	residential	1	0	0	
+BA	3202935	505. viteške brigade	primary	3	26	28	
+BA	3202935	Generala Izeta Nanića	tertiary	2	35	36	
+BA	3202935	105. bužimske muslimanske brigade	residential	1	0	0	
+BA	3202935	Ahmeta Šahinovića	residential	1	0	0	
+BA	3202935	Alije Kedića	tertiary	1	0	0	
+BA	3202935	Asima Bajrektarevića	unclassified	1	0	0	
+BA	3202935	Bihaćka	residential	1	0	0	
+BA	3202935	Branilaca Bužima	residential	1	0	0	
+BA	3202935	Dr. Irfana Ljubijankića	residential	1	0	0	
+BA	3202935	Gazija	residential	1	0	0	
+BA	3202935	Jedinica žutih mrava	residential	1	0	0	
+BA	3202935	Jurišnog bataljona	residential	1	0	0	
+BA	3202935	Krupska	residential	1	0	0	
+BA	3202935	Obilaznica	primary	1	0	0	
+BA	3202935	Patriotske lige	residential	1	0	0	
+BA	3202935	Safvet-bega Bašagića	residential	1	0	0	
+BA	3202935	Sarajevska	residential	1	0	0	
+BA	3202935	Zlatnih ljiljana	residential	1	0	0	
+BA	3202935	Šehidska	residential	1	0	0	
+BA	3202955	Željeznička		2	0	0	
+BA	3202955	Dr. Ante Starčevića	residential	1	0	0	
+BA	3202955	Isaka Samokovlije	residential	1	0	0	
+BA	3202955	Kneza Mislava	residential	1	0	0	
+BA	3202955	Kupres	residential	1	0	0	
+BA	3202955	Majdan	residential	1	0	0	
+BA	3202955	Matice hrvatske	unclassified	1	0	0	
+BA	3202955	Nikola Šubić Zrinski	residential	1	0	0	
+BA	3202955	Ulica 16 August	residential	1	0	0	
+BA	3203099	Sultan Ahmedova	tertiary	3	123	128	
+BA	3203099	307. motorizovane brigade	primary	2	29	92	
+BA	3203099	Nugle II	residential	2	4	6	
+BA	3203099	Bosanska	tertiary	1	0	0	
+BA	3203099	Crniče	residential	1	0	0	
+BA	3203099	Donjici 1	residential	1	0	0	
+BA	3203099	Donjici 2	residential	1	0	0	
+BA	3203099	Gaj V	residential	1	0	0	
+BA	3203099	Gromile 1	residential	1	0	0	
+BA	3203099	Gromile 3	living_street	1	0	0	
+BA	3203099	Gromile 4	residential	1	0	0	
+BA	3203099	Gromile V	residential	1	0	0	
+BA	3203099	Hendek 2	residential	1	0	0	
+BA	3203099	Jaklić I	living_street	1	0	0	
+BA	3203099	Kovačuša III	residential	1	0	0	
+BA	3203099	Malo Selo	residential	1	0	0	
+BA	3203099	Nugle	living_street	1	0	0	
+BA	3203099	Obilaznica Bugojna	primary	1	0	0	
+BA	3203099	Polje VII	residential	1	0	0	
+BA	3203099	Rostovska	primary	1	0	0	
+BA	3203099	Slobode	tertiary	1	0	0	
+BA	3203099	Sultanovići I	residential	1	0	0	
+BA	3203099	Sultanovići III	residential	1	0	0	
+BA	3203099	Terzići I	tertiary	1	0	0	
+BA	3203099	Terzići V	residential	1	0	0	
+BA	3203099	Terzići VII	residential	1	0	0	
+BA	3203099	Voznik 1	residential	1	0	0	
+BA	3203099	Voznik 3	residential	1	0	0	
+BA	3203099	Voznik 4	residential	1	0	0	
+BA	3203099	Voznik 5	residential	1	0	0	
+BA	3203099	Voznik 6	residential	1	0	0	
+BA	3203099	Vucipolje	tertiary	1	0	0	
+BA	3203099	Zeleni Put	residential	1	0	0	
+BA	3203099	Zlatnih ljiljana	pedestrian	1	0	0	
+BA	3203099	Zrinskog ulica	residential	1	0	0	
+BA	3203099	Šehidsko mezarje	tertiary	1	0	0	
+BA	3203227	Jovana Krstitelja	unclassified	1	0	0	
+BA	3203227	Miodraga Petrovića-Čkalje	residential	1	0	0	
+BA	3203227	Prvomajska	unclassified	1	0	0	
+BA	3203227	Slavićka	tertiary	1	0	0	
+BA	3203280	Glavna ulica	tertiary	77	4	91	
+BA	3203280	Školska ulica	tertiary	22	8	41	
+BA	3203280	Ulica Galušići	residential	13	2	26	
+BA	3203280	Školska ulica I	residential	11	1	14	
+BA	3203280	Ulica Brana	residential	10	1	12	
+BA	3203280	Glavna ulica V	residential	8	1	11	
+BA	3203280	Glavna ulica IV.		6	1	7	
+BA	3203280	Glavna ulica I.		4	1	6	
+BA	3203280	Glavna ulica III.		4	1	7	
+BA	3203280	Ulica Lovrići	residential	4	1	6	
+BA	3203280	Glavna ulica II.		3	1	5	
+BA	3203280	Bosanska ulica	residential	1	0	0	
+BA	3203427	Alije Izetbegovića	secondary	1	0	0	
+BA	3203427	Maršala Tita	residential	1	0	0	
+BA	3203521	Suljagića sokak	living_street	285	11	250	
+BA	3203521	Dejtonska	secondary	258	13	280	
+BA	3203521	Ljubomira Krsmanovića	residential	206	8	286	
+BA	3203521	Mostarska	secondary	181	8	198	
+BA	3203521	Lejlica	residential	177	10	188	
+BA	3203521	Zaima Mušanovića	tertiary	153	8	163	
+BA	3203521	Bašeskija	living_street	149	8	224	
+BA	3203521	Bakije Selimovića	residential	148	9	184	
+BA	3203521	Stari rasadnik	residential	135	8	149	
+BA	3203521	Vukosavačka	residential	134	7	177	
+BA	3203521	Pavla Savića	residential	116	7	117	
+BA	3203521	Bareš	living_street	114	7	136	
+BA	3203521	Luke Ćelovića	residential	112	6	177	
+BA	3203521	Sarajevska	living_street	110	8	146	
+BA	3203521	Bijeljinska	secondary	106	8	82	
+BA	3203521	Jure Kaštelana	residential	105	7	105	
+BA	3203521	Nikole Šopa	residential	102	6	130	
+BA	3203521	Safeta Pašalića	residential	102	9	102	
+BA	3203521	Semberska	residential	101	7	117	
+BA	3203521	Dr. Mehmeda Spahe		100	5	172	
+BA	3203521	Nikole Tesle	secondary	100	6	100	
+BA	3203521	Banjalučka	secondary	99	9	148	
+BA	3203521	Muse Ćazima Ćatića	secondary	93	2	81	
+BA	3203521	Murata Sinanagića		87	5	86	
+BA	3203521	Sulje Kahrimana	tertiary	85	9	116	
+BA	3203521	Ćamila Sijarića	residential	79	4	133	
+BA	3203521	Fra Serafina Zečevića	residential	78	4	115	
+BA	3203521	Mihajla Pupina	residential	75	4	94	
+BA	3203521	Fra Šimuna Filipovića	secondary	72	4	106	
+BA	3203521	Omladinska		71	4	94	
+BA	3203521	Skendera Kulenovića	residential	71	4	82	
+BA	3203521	Pere Zrelca	residential	68	4	93	
+BA	3203521	Rogozan	residential	66	5	68	
+BA	3203521	Muderisa Ibrahimbegovića	secondary	65	5	164	
+BA	3203521	Đure Jakšića	residential	65	4	63	
+BA	3203521	Milana Konjevića	residential	63	4	85	
+BA	3203521	Reisa Džemaludina Čauševića		62	3	63	
+BA	3203521	Osmana Derviševića	residential	60	6	94	
+BA	3203521	Smaila Bilića		59	3	69	
+BA	3203521	Filipa Višnjića	residential	58	4	73	
+BA	3203521	Petra Kočića	tertiary	58	2	75	
+BA	3203521	Radoja Domanovića	residential	58	3	60	
+BA	3203521	Krfska	residential	57	3	72	
+BA	3203521	Rijeke I	residential	57	3	58	
+BA	3203521	Asima Derviševića	residential	56	3	64	
+BA	3203521	Dr Abdulaha Bukvice	residential	55	4	58	
+BA	3203521	Stevana Mokranjca	residential	54	3	61	
+BA	3203521	Evlije Čelebije	residential	53	3	68	
+BA	3203533	Зворнички пут	primary	33	3	326	Zvornicki put
+BA	3203533	Ужички пут	primary	22	6	159	Uzicki put
+BA	3203533	Викендашка	residential	12	2	28	Vikendaska
+BA	3203533	Течина	residential	9	10	26	Tecina
+BA	3203533	Војводе Мишића	tertiary	5	105	109	Vojvode Misica
+BA	3203533	Заобилазни пут Зворник-Љубовија	primary	5	2	10	Zaobilazni put Zvornik-Ljubovija
+BA	3203533	Лоњин поље		3	20	22	
+BA	3203533	Nemanjina		2	18	18	
+BA	3203533	Водоводска		2	18	24	
+BA	3203533	Крупањски пут	secondary	2	1	3	Krupanjski put
+BA	3203533	17. априла	residential	1	0	0	17. aprila
+BA	3203533	Kosovska	residential	1	0	0	
+BA	3203643	Ozrenskih odreda		118	3	88	
+BA	3203643	Veljka Vukovića	living_street	91	11	84	
+BA	3203643	Cvijetina Todića	living_street	88	3	95	
+BA	3203643	Svetosavska		49	2	46	
+BA	3203643	Brđanska	residential	36	2	46	
+BA	3203643	Miholjdanska		34	2	40	
+BA	3203643	Kolona 15. maj	residential	33	2	40	
+BA	3203643	Bisićka		32	2	33	
+BA	3203643	9. novembra		31	2	37	
+BA	3203643	Draže Mihajlovića	residential	30	2	25	
+BA	3203643	Petrovačka	living_street	29	2	25	
+BA	3203643	23. avgusta		27	4	40	
+BA	3203644	Korita	residential	1	0	0	
+BA	3203644	Sarajevska	residential	1	0	0	
+BA	3203645	Cara Dušana	primary	4	70	106	
+BA	3203645	Kralja Aleksandra I Karađorđevića	primary	4	2	50	
+BA	3203645	Njegoševa	primary	2	5	14	
+BA	3203645	1. svibnja	residential	1	0	0	
+BA	3203645	Alojzija Stepinca	residential	1	0	0	
+BA	3203645	Ante Starčevića	unclassified	1	0	0	
+BA	3203645	Braće Jugovića I	residential	1	0	0	
+BA	3203645	Braće Jugovića II	residential	1	0	0	
+BA	3203645	Braće Jugovića III	residential	1	0	0	
+BA	3203645	Braće Jugovića IV	residential	1	0	0	
+BA	3203645	Braće Jugovića V	residential	1	0	0	
+BA	3203645	Braće Jugovića VI	residential	1	0	0	
+BA	3203646	Bosanska	residential	2	110	125	
+BA	3203646	14. septembra	primary	1	0	0	
+BA	3203646	25. novembra	primary	1	0	0	
+BA	3203646	Bišćani	primary	1	0	0	
+BA	3203646	Branka Ćopića	residential	1	0	0	
+BA	3203646	Druga	residential	1	0	0	
+BA	3203646	Drvarska	primary	1	0	0	
+BA	3203646	Jovana Bjelića	residential	1	0	0	
+BA	3203646	Jukića	residential	1	0	0	
+BA	3203646	Mehe Ramića	residential	1	0	0	
+BA	3203646	Omladinska	residential	1	0	0	
+BA	3203646	Oštreljska	residential	1	0	0	
+BA	3203647	Meše Selimovića		163	9	164	
+BA	3203647	Radnička		153	7	171	
+BA	3203647	Kneza Lazara	residential	149	7	142	
+BA	3203647	1. Krajiške brigade		120	6	112	
+BA	3203647	1. Maja		117	9	96	
+BA	3203647	Stojana Ćelića		85	2	61	
+BA	3203647	Njegoševa	primary	79	3	74	
+BA	3203647	Ive Andrića	residential	78	4	76	
+BA	3203647	Ulica Oslobođenja		75	4	72	
+BA	3203647	Tunjica		63	3	35	
+BA	3203647	Kej krajiških brigada		59	3	79	
+BA	3203647	Skendera Kulenovića		58	2	51	
+BA	3203647	Prve pješadijske novogradske brigade	pedestrian	55	3	58	
+BA	3203647	Gavrila Principa	residential	53	2	47	
+BA	3203647	9. Maja		51	3	59	
+BA	3203647	Sanska		50	2	60	
+BA	3203647	25. Maja		49	3	40	
+BA	3203647	Kozarska		48	2	50	
+BA	3203647	Urijanski put		46	2	38	
+BA	3203647	Banjalučka		43	1	121	
+BA	3203647	Kulska obala	residential	42	2	36	
+BA	3203647	Miloša Obilića	residential	40	2	52	
+BA	3203647	Vidovdanska	residential	40	1	36	
+BA	3203647	Branka Ćopića	primary	39	4	60	
+BA	3203651	Svetog Save	residential	4	7	62	
+BA	3203651	Savska cesta	secondary	2	55	57	
+BA	3203651	Trg Stjepana Miletića	residential	2	1	2	
+BA	3203651	1. maja	residential	1	0	0	
+BA	3203651	12 beba	residential	1	0	0	
+BA	3203651	15. septembra	residential	1	0	0	
+BA	3203651	20. aprila	residential	1	0	0	
+BA	3203651	26. avgusta	residential	1	0	0	
+BA	3203651	3. marta	residential	1	0	0	
+BA	3203651	9. maja	residential	1	0	0	
+BA	3203651	Alekse Šantić	residential	1	0	0	
+BA	3203651	Beogradska	residential	1	0	0	
+BA	3203651	Boračka	residential	1	0	0	
+BA	3203651	Branka Kovačevića	residential	1	0	0	
+BA	3203651	Branka Radičevića	residential	1	0	0	
+BA	3203651	Branka Ćolića	residential	1	0	0	
+BA	3203651	Brodskog bataljona	tertiary	1	0	0	
+BA	3203651	Cara Lazara	residential	1	0	0	
+BA	3203651	Desanke Maksimović	residential	1	0	0	
+BA	3203651	Dositeja Obradovića	residential	1	0	0	
+BA	3203651	Dr Jovana Raškovića	tertiary	1	0	0	
+BA	3203651	Gavrila Principa	residential	1	0	0	
+BA	3203651	Hajduk Stanka	residential	1	0	0	
+BA	3203651	Hajduk Veljka	tertiary	1	0	0	
+BA	3203653	Patriotske lige	pedestrian	2	21	28	
+BA	3203653	Sokak	residential	2	0	0	
+BA	3203653	1. BKB	secondary	1	0	0	
+BA	3203653	503. slavne brdske brigade	primary	1	0	0	
+BA	3203653	511. slavne brdske brigade	primary	1	0	0	
+BA	3203653	Aleja Zlatnih ljiljana	residential	1	0	0	
+BA	3203653	Bihaćka	primary	1	0	0	
+BA	3203653	Branilaca grada	residential	1	0	0	
+BA	3203653	Generala Izeta Nanića	residential	1	0	0	
+BA	3203653	Gimnazijska	residential	1	0	0	
+BA	3203653	Goraždanska	residential	1	0	0	
+BA	3203653	Kolodvorska	residential	1	0	0	
+BA	3203653	Mahala	secondary	1	0	0	
+BA	3203653	Maršala Tita	residential	1	0	0	
+BA	3203653	Most žrtava genocida u Srebrenici	primary	1	0	0	
+BA	3203653	Omladinska	residential	1	0	0	
+BA	3203653	Pazadžik	residential	1	0	0	
+BA	3203653	Podgrmečka	residential	1	0	0	
+BA	3203653	Prvomajska	residential	1	0	0	
+BA	3203653	Radnička	primary	1	0	0	
+BA	3203653	Rasima Redžića	residential	1	0	0	
+BA	3203653	Stari grad	residential	1	0	0	
+BA	3203653	Trg Avde Ćuka	residential	1	0	0	
+BA	3203653	Ul Maršala Tita	residential	1	0	0	
+BA	3203653	Ustikolina	residential	1	0	0	
+BA	3203655	Svetosavska	primary	226	9	161	
+BA	3203655	Petrinja	residential	209	8	186	
+BA	3203655	Mrakodol	residential	142	7	156	
+BA	3203655	Branka Ćopića	residential	117	3	87	
+BA	3203655	Vase Pelagića	residential	116	2	74	
+BA	3203655	Petra Pecije	residential	92	4	57	
+BA	3203655	Ranka Šipke	residential	84	5	63	
+BA	3203655	Grdanovac	residential	78	1	87	
+BA	3203655	Kalenderi	residential	67	3	60	
+BA	3203655	Pobrđani		64	2	61	
+BA	3203655	Gornja Slabinja	residential	56	3	49	
+BA	3203655	Bubnjarica	residential	49	3	39	
+BA	3203656	Dubrave	residential	518	26	417	
+BA	3203656	Laminci Brezici	residential	370	12	691	
+BA	3203656	Rovine	residential	340	13	310	
+BA	3203656	Put srpske vojske	secondary	213	8	214	
+BA	3203656	Banjalučki put	primary	204	168	351	
+BA	3203656	Rogolji		152	10	243	
+BA	3203656	Vidovdanska	tertiary	152	3	136	
+BA	3203656	16. krajiške brigade	residential	129	2	142	
+BA	3203656	Srpski bedem '95	secondary	123	16	117	
+BA	3203656	Mašići		116	3	164	
+BA	3203656	Partizanska	tertiary	113	5	106	
+BA	3203656	Čatrnja	residential	107	22	119	
+BA	3203656	Trošelji		101	36	185	
+BA	3203656	Donji Karajzovci		100	6	148	
+BA	3203656	Kočićevo		99	3	195	
+BA	3203656	Miloša Crnjanskog	tertiary	96	3	114	
+BA	3203656	Meše Selimovića	residential	93	5	112	
+BA	3203656	Bok Jankovac	residential	87	7	122	
+BA	3203656	Save Mandića	residential	86	3	83	
+BA	3203656	Savska	residential	81	6	74	
+BA	3203656	Vojvode Mišića		78	7	85	
+BA	3203656	Petra Pecije	residential	72	4	90	
+BA	3203656	Atifa Topića	secondary	71	4	56	
+BA	3203656	Romanovci		70	3	188	
+BA	3203657	Cara Lazara	residential	161	8	156	
+BA	3203657	Cvijićeva		154	6	128	
+BA	3203657	Majora Milana Tepića		146	5	126	
+BA	3203657	Kninska	primary	134	5	128	
+BA	3203657	1. maja		118	6	125	
+BA	3203657	Dušana Silnog		118	6	130	
+BA	3203657	Lička		113	1	38	
+BA	3203657	Vojvode Stepe Stepanovića		101	3	64	
+BA	3203657	Meše Selimovića	residential	99	4	92	
+BA	3203657	Savska		97	4	82	
+BA	3203657	Ustanička		95	4	80	
+BA	3203657	Preobraženska	tertiary	92	10	162	
+BA	3203657	Uroša Predića	residential	90	4	88	
+BA	3203657	Vojvode Putnika		82	2	69	
+BA	3203657	Ive Andrića		75	2	67	
+BA	3203657	Svetosavska		72	3	46	
+BA	3203657	Vidovdanska		71	4	70	
+BA	3203657	Jovana Dučića		68	4	61	
+BA	3203657	Đakona Avakuma		64	4	59	
+BA	3203657	Slobodana Jovanovića	residential	54	3	49	
+BA	3203657	Petra Pecije		53	1	51	
+BA	3203657	Dositejeva		52	6	58	
+BA	3203657	Kralja Milutina		51	2	48	
+BA	3203657	Moštanička		51	3	48	
+BA	3203950	Tahić potok	residential	4	386	390	
+BA	3203950	Borički put	unclassified	1	0	0	
+BA	3203950	Jasenički put	unclassified	1	0	0	
+BA	3203950	Malivojevića put	residential	1	0	0	
+BA	3203950	Most MIRA	residential	1	0	0	
+BA	3203950	Tomića put	residential	1	0	0	
+BA	3203950	Žeželja	residential	1	0	0	
+BA	3203970	Bunski kanal most	unclassified	1	0	0	
+BA	3203970	Karađoz-beg Bridge, the historic building	residential	1	0	0	
+BA	3203970	Karađoz-begov most	residential	1	0	0	
+BA	3203970	Most Buna	primary	1	0	0	
+BA	3204161	Sitnička	residential	102	5	88	
+BA	3204161	Crnogorska	residential	73	4	68	
+BA	3204161	Solunskih dobrovoljaca	residential	71	4	88	
+BA	3204161	Kralja Aleksandra	residential	69	4	54	
+BA	3204161	Željeznička	residential	65	4	77	
+BA	3204161	Grabovice	residential	59	3	61	
+BA	3204161	Kosovska	residential	59	3	60	
+BA	3204161	Doktora Krkelića	residential	52	3	52	
+BA	3204161	Hercegovačkih ustanika	residential	51	3	67	
+BA	3204161	Poparina strana	residential	47	3	43	
+BA	3204161	Njegoševa	residential	46	3	45	
+BA	3204161	Kralja Petra I oslobodioca	residential	44	3	45	
+BA	3204161	Jovana Dučića	residential	43	1	38	
+BA	3204161	Stepe Stepanovića	residential	42	3	47	
+BA	3204161	Bilećkih dobrovoljaca	tertiary	39	2	39	
+BA	3204161	Kneza Lazara	residential	39	2	40	
+BA	3204161	Vojvode Gligora Milićevića	residential	37	2	30	
+BA	3204161	Jefta Dedijera	residential	35	1	48	
+BA	3204161	Srpske vojske	residential	35	2	41	
+BA	3204161	Svetog Vasilija Ostroškog	residential	35	3	46	
+BA	3204161	Baljačka	residential	34	2	45	
+BA	3204161	Vladimira Gaćinovića	residential	34	1	44	
+BA	3204161	Banjalučka	residential	31	2	32	
+BA	3204161	Milutina Milankovića	residential	31	2	39	
+BA	3204186	Stefana Dečanskog	living_street	405	10	311	
+BA	3204186	Srpske vojske	living_street	363	14	327	
+BA	3204186	Vojvode Petra Bojovića	living_street	357	10	194	
+BA	3204186	Laze Kostića	living_street	309	11	220	
+BA	3204186	Svetozara Ćorovića	living_street	278	10	245	
+BA	3204186	Loznička	living_street	247	10	135	
+BA	3204186	Raje Banjičića	living_street	221	8	331	
+BA	3204186	Kralja Dragutina	living_street	213	16	186	
+BA	3204186	Dimitrija Tucovića	secondary	209	11	204	
+BA	3204186	Kneza Miloša	residential	209	6	174	
+BA	3204186	27. marta	living_street	206	10	214	
+BA	3204186	Pantelinska	living_street	175	14	93	
+BA	3204186	Galac	living_street	172	9	174	
+BA	3204186	Kneza Ive od Semberije	living_street	172	11	204	
+BA	3204186	Dimitrija Lopandića	living_street	170	9	168	
+BA	3204186	Filipa Višnjića	living_street	169	7	217	
+BA	3204186	Petra Kočića	residential	163	7	169	
+BA	3204186	Majevička	living_street	152	8	158	
+BA	3204186	1. maja	residential	144	3	188	
+BA	3204186	8. marta	living_street	144	5	108	
+BA	3204186	Račanska	secondary	143	8	135	
+BA	3204186	Semberskih ratara	residential	141	1	261	
+BA	3204186	Komitska	living_street	132	6	186	
+BA	3204186	Vladimira Gaćinovića	living_street	131	4	129	
+BA	3204186	Srpske dobrovoljačke garde	secondary	129	8	139	
+BA	3204186	Miloša Obilića	living_street	124	4	164	
+BA	3204186	Jurija Gagarina	living_street	116	6	114	
+BA	3204186	Mačvanska	residential	116	6	115	
+BA	3204186	Đure Daničića	living_street	116	6	115	
+BA	3204186	Kulina Bana	living_street	110	12	184	
+BA	3204186	Marka Miljanova	residential	106	6	98	
+BA	3204186	Milovana Glišića	living_street	106	7	104	
+BA	3204186	Popovi	residential	106	7	114	
+BA	3204186	Dušana Radovića	living_street	101	3	95	
+BA	3204186	Ćirila i Metodija	residential	100	4	101	
+BA	3204186	Danka Kabilja Bukija	living_street	99	4	196	
+BA	3204186	Baje Stanišića	residential	97	2	126	
+BA	3204186	Fruškogorska	residential	94	3	69	
+BA	3204186	Arsenija Čarnojevića	living_street	92	7	94	
+BA	3204186	Crvenog Krsta	residential	90	6	84	
+BA	3204186	Jovana Kronštanskog	residential	88	5	109	
+BA	3204186	Vasilija Ostroškog	living_street	87	5	82	
+BA	3204186	Cara Uroša	living_street	81	7	95	
+BA	3204186	Moskovska	residential	77	7	68	
+BA	3204186	Neznanih junaka	living_street	77	4	121	
+BA	3204186	Save Šumanovića	living_street	75	4	77	
+BA	3204186	Uroša Predića	living_street	74	1	80	
+BA	3204186	Hilandarska	residential	70	4	50	
+BA	3204222	Ivana Frane Jukića	unclassified	88	9	128	
+BA	3204222	Klokot	residential	50	3	110	
+BA	3204222	Josipa Jurja Strossmayera		40	2	44	
+BA	3204222	Fra Matije Divkovića		14	1	25	
+BA	3204222	Pećina		13	1	25	
+BA	3204222	Jablanska	primary	9	13	88	
+BA	3204222	Livanjska	residential	9	1	17	
+BA	3204222	Banjalučka	primary	8	0	0	
+BA	3204222	Dr. Irfana Ljubijankića	secondary	8	62	174	
+BA	3204222	Antuna Hangija	residential	7	2	14	
+BA	3204222	Zagrebačka		7	0	0	
+BA	3204222	Bosanskih gazija	residential	6	32	32	
+BA	3204222	502. viteške brigade	tertiary	5	1	3	
+BA	3204222	5. korpusa	tertiary	4	1	25	
+BA	3204222	Bihaćkih branilaca	secondary	4	1	70	
+BA	3204222	Bosanska	pedestrian	4	2	11	
+BA	3204222	Husrefa Redžića	residential	4	3	18	
+BA	3204222	Safvet-bega Bašagića	residential	4	22	68	
+BA	3204222	Klokot prvi desni prilaz		3	12	18	
+BA	3204222	Bužimska	residential	2	23	25	
+BA	3204222	Fra Joze Valentića	residential	2	2	3	
+BA	3204222	Gorjevac		2	0	0	
+BA	3204222	Ivana Gorana Kovačića	residential	2	15	15	
+BA	3204222	Luke Marjanovića	residential	2	0	0	
+BA	3204222	Vasif-bega Bišćevića	residential	2	1	11	
+BA	3204222	1. marta	residential	1	0	0	
+BA	3204222	101. bojne	residential	1	0	0	
+BA	3204222	15. aprila	residential	1	0	0	
+BA	3204222	16. juna	residential	1	0	0	
+BA	3204222	17. maja	residential	1	0	0	
+BA	3204222	2. Prilaz Žrtava fašizma	residential	1	0	0	
+BA	3204222	25. novembar	residential	1	0	0	
+BA	3204222	5. tenkovske čete	residential	1	0	0	
+BA	3204222	501. Slavne brigade	residential	1	0	0	
+BA	3204222	AVNOJ-a	residential	1	0	0	
+BA	3204222	Abdulaha Nakaša	residential	1	0	0	
+BA	3204222	Abdulaha Škaljića	living_street	1	0	0	
+BA	3204222	Abdulaha-bega Ibrahimpašića	residential	1	0	0	
+BA	3204222	Ahmeda Muradbegovića	residential	1	0	0	
+BA	3204222	Ahmeta Fetahagića	residential	1	0	0	
+BA	3204222	Ajnina	residential	1	0	0	
+BA	3204222	Ajvatovica	residential	1	0	0	
+BA	3204222	Alberta Fortisa	residential	1	0	0	
+BA	3204222	Ale Galića	residential	1	0	0	
+BA	3204222	Aleja Alije Izetbegovića	secondary	1	0	0	
+BA	3204222	Alekse Šantića	residential	1	0	0	
+BA	3204222	Ali-Fehmije Džabića	residential	1	0	0	
+BA	3204222	Ali-bega Firdusa	residential	1	0	0	
+BA	3204222	Alije Isakovića	residential	1	0	0	
+BA	3204222	Alije Nametka	residential	1	0	0	
+BA	3204222	Alije Sirotanovića	residential	1	0	0	
+BA	3204222	Alojza Benca	residential	1	0	0	
+BA	3204222	Ante Rukavine	residential	1	0	0	
+BA	3204222	Antifašističkog otpora	residential	1	0	0	
+BA	3204222	Bajre Redžića	residential	1	0	0	
+BA	3204222	Baksaiska	residential	1	0	0	
+BA	3204222	Bakšaiški most	primary	1	0	0	
+BA	3204222	Bakšaiški progan	residential	1	0	0	
+BA	3204222	Bakšaiških šehida	residential	1	0	0	
+BA	3204222	Bakšaiškog odreda	tertiary	1	0	0	
+BA	3204222	Baranska	residential	1	0	0	
+BA	3204222	Barska	residential	1	0	0	
+BA	3204222	Basare	residential	1	0	0	
+BA	3204222	Bele IV	pedestrian	1	0	0	
+BA	3204222	Besima Korkuta	residential	1	0	0	
+BA	3204222	Bihaćke republike	unclassified	1	0	0	
+BA	3204222	Bihaćkih kapetana	residential	1	0	0	
+BA	3204222	Bihaćkih poginulih odbojkaša	residential	1	0	0	
+BA	3204222	Bijelo brdo	residential	1	0	0	
+BA	3204222	Bosanske državnosti	secondary	1	0	0	
+BA	3204222	Bosanske nezavisnosti	residential	1	0	0	
+BA	3204222	Bosanskih hafiza	residential	1	0	0	
+BA	3204222	Bosanskih kraljeva	residential	1	0	0	
+BA	3204222	Bosanskog stanka	residential	1	0	0	
+BA	3204222	Bosanskohercegovačkih regimenti	residential	1	0	0	
+BA	3204222	Bosne Srebrene	tertiary	1	0	0	
+BA	3204222	Brandža	residential	1	0	0	
+BA	3204222	Branilaca Velikog Luga	residential	1	0	0	
+BA	3204222	Branislava Veršića	residential	1	0	0	
+BA	3204222	Branislava Đurđeva	residential	1	0	0	
+BA	3204222	Branka Ćopića	residential	1	0	0	
+BA	3204222	Branke Raunig	residential	1	0	0	
+BA	3204222	Braće Žardin	residential	1	0	0	
+BA	3204222	Brekovačke patriotske lige	residential	1	0	0	
+BA	3204222	Brekovački most	tertiary	1	0	0	
+BA	3204222	Brekovačkih šehida	residential	1	0	0	
+BA	3204222	Brekovačkog odreda	residential	1	0	0	
+BA	3204222	Brizovačka	residential	1	0	0	
+BA	3204222	Brčanska	residential	1	0	0	
+BA	3204222	Bukovačka	residential	1	0	0	
+BA	3204222	Bunar	residential	1	0	0	
+BA	3204222	Cazinska	residential	1	0	0	
+BA	3204222	Crkvina	residential	1	0	0	
+BA	3204222	Dangube	residential	1	0	0	
+BA	3204222	Debeljačka	residential	1	0	0	
+BA	3204222	Dede Ajdinovića	residential	1	0	0	
+BA	3204222	Derviša Sušića	residential	1	0	0	
+BA	3204222	Dječijih žrtava	residential	1	0	0	
+BA	3204222	Dobreničkih branitelja	residential	1	0	0	
+BA	3204222	Dobrih Bošnjana	residential	1	0	0	
+BA	3204269	Poginulih boraca otadžbinskog rata	secondary	78	5	112	
+BA	3204269	Hatelji	secondary	65	6	81	
+BA	3204269	Žrtava fašističkog terora	residential	48	3	46	
+BA	3204269	Potkomska	unclassified	26	3	49	
+BA	3204269	Suzinska	unclassified	8	1	9	
+BA	3204269	Valijendža	unclassified	8	1	11	
+BA	3204269	Alekse Šantića	residential	4	1	5	
+BA	3204269	Ulica Poginulih boraca otadžbinskog rata		3	104	108	
+BA	3204520	10. septembra	residential	1	0	0	
+BA	3204520	119. Muslimanske brdske brigade	residential	1	0	0	
+BA	3204520	7. novembar	residential	1	0	0	
+BA	3204520	Besin	residential	1	0	0	
+BA	3204520	Božićka Banovića	primary	1	0	0	
+BA	3204520	Bucik	residential	1	0	0	
+BA	3204520	Durgutovo Brdo	unclassified	1	0	0	
+BA	3204520	Grivice	unclassified	1	0	0	
+BA	3204520	Grivička	residential	1	0	0	
+BA	3204520	Hamdije Alickanovica	residential	1	0	0	
+BA	3204520	Hrvati	residential	1	0	0	
+BA	3204520	Mrdići	unclassified	1	0	0	
+BA	3204520	Mrljevići	residential	1	0	0	
+BA	3204520	Nasubašići	unclassified	1	0	0	
+BA	3204520	Omazići	residential	1	0	0	
+BA	3204520	Patriotske lige	primary	1	0	0	
+BA	3204520	Podgorje	residential	1	0	0	
+BA	3204520	Pozderovića	residential	1	0	0	
+BA	3204520	Radnička	residential	1	0	0	
+BA	3204520	Remont 1	unclassified	1	0	0	
+BA	3204520	Repnik	residential	1	0	0	
+BA	3204520	Trestenica	unclassified	1	0	0	
+BA	3204520	Tulovici	unclassified	1	0	0	
+BA	3204520	Tulovići	residential	1	0	0	
+BA	3204541	Karađorđeva	residential	584	9	459	
+BA	3204541	I kuljanska ulica	residential	467	11	457	
+BA	3204541	Nenada Kostića	residential	408	9	268	
+BA	3204541	Bulevar vojvode Stepe Stepanovića	primary	340	24	221	
+BA	3204541	Rade Radića	primary	333	10	301	
+BA	3204541	Zmaj Ognjenog Vuka	residential	313	10	280	
+BA	3204541	Kralja Aleksandra I Karađorđevića	residential	309	4	184	
+BA	3204541	Hilandarska	residential	297	28	419	
+BA	3204541	Petra Velikog	residential	286	10	159	
+BA	3204541	Put srpskih Branilaca		281	10	344	
+BA	3204541	Vojvode Prijezde	residential	271	10	286	
+BA	3204541	Ilindanska	residential	262	9	244	
+BA	3204541	Dr Jovana Raškovića	residential	259	10	191	
+BA	3204541	Branka Popovića	residential	253	16	310	
+BA	3204541	Od Zmijanja Rajka	tertiary	246	10	409	
+BA	3204541	Vida Nježića	residential	242	7	137	
+BA	3204541	Mlađe Ćusića	residential	238	7	364	
+BA	3204541	Dujke Komljenovića	residential	236	5	108	
+BA	3204541	Jovana Bijelića	residential	227	5	226	
+BA	3204541	I krajiškog proleterskog bataljona	residential	223	10	286	
+BA	3204541	Franca Šuberta	residential	222	12	256	
+BA	3204541	7. februara	residential	212	10	320	
+BA	3204541	Koste Jarića	residential	204	8	125	
+BA	3204541	Đure Damjanovića	residential	200	11	225	
+BA	3204541	VII kuljanska ulica	residential	196	10	255	
+BA	3204541	Jovice Savinovića	residential	194	8	167	
+BA	3204541	Marka Lipovca	residential	192	4	165	
+BA	3204541	Đorđa Mihailovića		188	11	248	
+BA	3204541	Lovćenska	residential	186	5	240	
+BA	3204541	Dubička	residential	184	9	188	
+BA	3204541	Patrijarha Maksima	residential	184	10	185	
+BA	3204541	Diane Budisavljević	residential	181	10	202	
+BA	3204541	Književnika Jovana Babića	residential	179	9	239	
+BA	3204541	Goluba Babića	residential	174	8	158	
+BA	3204541	Kosovska	residential	173	5	95	
+BA	3204541	Kralja Petra I Karađorđevića	secondary	169	5	115	
+BA	3204541	Njegoševa	tertiary	169	5	125	
+BA	3204541	Zdravka Dejanovića	residential	168	5	112	
+BA	3204541	Ivana Gorana Kovačića	secondary	165	10	223	
+BA	3204541	Krajiških brigada	primary	165	5	227	
+BA	3204541	Drakulićka	residential	161	10	237	
+BA	3204541	Blagoja Parovića	residential	160	2	135	
+BA	3204541	Ilije Garašanina	residential	160	7	163	
+BA	3204541	Danila - Bate Stojkovića	residential	158	8	156	
+BA	3204541	Stojana Jankovića	residential	155	8	202	
+BA	3204541	Bulevar srpske vojske	primary	154	8	15	
+BA	3204541	16. krajiške NOU brigade	residential	153	7	180	
+BA	3204541	Krupska	residential	150	10	150	
+BA	3204541	Knjaza Miloša	primary	149	3	116	
+BA	3204541	Jovana Dučića	tertiary	144	9	98	
+BA	3204541	Drugog krajiškog korpusa	residential	142	7	148	
+BA	3204541	XXIII kuljanska ulica		140	12	235	
+BA	3204541	XIII kuljanska ulica	residential	138	6	159	
+BA	3204541	Vladislava Skarića	tertiary	135	7	146	
+BA	3204541	Kralja Petra II	residential	130	9	158	
+BA	3204541	Aleja Svetog Save	secondary	128	7	69	
+BA	3204541	Ljevčanska	residential	126	1	47	
+BA	3204541	Dušana i Vlade Kopanje	residential	122	4	105	
+BA	3204541	Srpskih rudara	residential	122	7	113	
+BA	3204541	Stevana Bulajića	residential	122	7	126	
+BA	3204541	Subotička	residential	121	3	139	
+BA	3204541	Petra Pecije	residential	120	6	134	
+BA	3204541	Prote Uroša Kozomare		119	6	159	
+BA	3204541	Braće Kukrika	residential	117	4	179	
+BA	3204541	Kozarska	secondary	117	5	113	
+BA	3204541	Starog Vujadina	residential	117	6	130	
+BA	3204541	Manastira Gomionica	residential	115	6	142	
+BA	3204541	Radenka Lolića	residential	115	5	111	
+BA	3204541	Sime Pandurovića	residential	115	5	117	
+BA	3204541	Majevička	residential	114	3	52	
+BA	3204541	Novaka Pivaševića	residential	114	5	73	
+BA	3204541	Dr Božidara Adžije	residential	113	6	77	
+BA	3204541	Srpskih ustanika	residential	111	10	196	
+BA	3204541	Tešana Podrugovića	tertiary	111	6	86	
+BA	3204541	Ranka Šipke	residential	110	5	110	
+BA	3204541	Tuzlanska	residential	109	5	78	
+BA	3204541	Braće Mažar i majke Marije	residential	108	6	96	
+BA	3204541	IV krajiškog partizanskog odreda	residential	108	6	143	
+BA	3204541	Palih Boraca		108	6	106	
+BA	3204541	Milana Brankovića	residential	107	6	106	
+BA	3204541	Branka Koščica		106	8	106	
+BA	3204541	Filipa Kljajića-Fiće	residential	106	5	126	
+BA	3204541	Mis Adeline Irbi	residential	106	6	148	
+BA	3204541	Brusina	residential	104	6	167	
+BA	3204541	Sanska	residential	103	5	127	
+BA	3204541	XI kuljanska ulica	residential	103	5	90	
+BA	3204541	XVI kuljanska ulica	residential	103	6	160	
+BA	3204541	Zore Kovačević	residential	103	6	105	
+BA	3204541	Podgorička	residential	102	6	81	
+BA	3204541	Rade Vranješević	residential	101	6	173	
+BA	3204541	Svete Ognjene Marije	tertiary	101	6	162	
+BA	3204541	Koste Vojinovića	residential	100	5	115	
+BA	3204541	Frana Supila	residential	98	9	67	
+BA	3204541	Peti prigradski put	residential	98	3	62	
+BA	3204541	Srđe Zlopogleđe	residential	98	4	132	
+BA	3204541	Žarka Zgonjanina	residential	98	2	73	
+BA	3204541	Arčibalda Rajsa	residential	96	1	33	
+BA	3204541	Braće Podgornika	residential	95	2	89	
+BA	3204541	Braće Jugovića	tertiary	94	5	92	
+BA	3204541	Šargovačka	residential	93	7	128	
+BA	3204590	Glavna račanska	living_street	111	6	107	
+BA	3204590	Osma	residential	92	5	89	
+BA	3204590	Glavna balatunska	residential	80	4	78	
+BA	3204590	Glavna	living_street	59	98	160	
+BA	3204590	Četvrta	residential	52	3	56	
+BA	3204590	Sedma	tertiary	44	2	25	
+BA	3204590	Treća	residential	41	2	41	
+BA	3204590	Šesta	residential	32	2	21	
+BA	3204590	Peta	living_street	30	2	38	
+BA	3204590	Djece Australije	residential	25	29	60	
+BA	3204590	Druga	residential	22	11	31	
+BA	3204590	Prva	residential	18	1	18	
+BA	3206012	Alekse Šantića	residential	1	0	0	
+BA	3206012	Branka Radičevića	residential	1	0	0	
+BA	3206012	Carice Milicе	residential	1	0	0	
+BA	3206012	Cetinjska	residential	1	0	0	
+BA	3206012	Desanke Maksimović	residential	1	0	0	
+BA	3206012	Dobrovoljnih davalaca krvi	residential	1	0	0	
+BA	3206012	Dositeja Obradovića	residential	1	0	0	
+BA	3206012	Drinjska	residential	1	0	0	
+BA	3206012	Ive Andrića	residential	1	0	0	
+BA	3206012	Jefta Dedijer	residential	1	0	0	
+BA	3206012	Jelašje	living_street	1	0	0	
+BA	3206012	Jova Cicovića	residential	1	0	0	
+BA	3210439	Braće Jašarević	residential	2	17	17	
+BA	3210439	1. Mart	residential	1	0	0	
+BA	3210439	25. novembar	residential	1	0	0	
+BA	3210439	Blaževci	residential	1	0	0	
+BA	3210439	Blaževci Glavaši	residential	1	0	0	
+BA	3210439	Blaževci Sučići	residential	1	0	0	
+BA	3210439	Bobare	residential	1	0	0	
+BA	3210439	Drinčići	unclassified	1	0	0	
+BA	3210439	Hasana Kjafije Pruščaka	residential	1	0	0	
+BA	3210439	Kalošević	residential	1	0	0	
+BA	3210439	Kreme	residential	1	0	0	
+BA	3210439	Miljanovci	residential	1	0	0	
+BA	3210439	Mrkotić	residential	1	0	0	
+BA	3210439	Piljužići	residential	1	0	0	
+BA	3210439	Potočani	residential	1	0	0	
+BA	3210439	Purkovići	residential	1	0	0	
+BA	3210439	Put Braće Omerbašić	residential	1	0	0	
+BA	3210439	Smajići	residential	1	0	0	
+BA	3210439	Trg branilaca Bosne i Hercegovine	pedestrian	1	0	0	
+BA	3210439	Ćemani	residential	1	0	0	
+BA	3210448	Blagojevići	residential	1	0	0	
+BA	3210448	Grčka ulica	residential	1	0	0	
+BA	3210492	Biskupa fra Marka Dobretića	secondary	1	0	0	
+BA	3210492	Fra Joze Furundžije	residential	1	0	0	
+BA	3210492	Fra Miroslava i Željka Džaje	residential	1	0	0	
+BA	3210492	Fra Nikole Bagarića	residential	1	0	0	
+BA	3210492	Hrvatskih branitelja	unclassified	1	0	0	
+BA	3210492	Hrvoja Vukčića Hrvatinića	residential	1	0	0	
+BA	3210492	Kotorvareških branitelja	secondary	1	0	0	
+BA	3210492	Kraljice Katarina	residential	1	0	0	
+BA	3210593	Podšiljak	residential	1	0	0	
+BA	3210920	Golaći		2	0	0	
+BA	3210920	Hodžići		2	0	0	
+BA	3210920	Mujkići	residential	1	0	0	
+BA	3210920	Oruči	residential	1	0	0	
+BA	3211537	Karađorđeva	living_street	230	9	271	
+BA	3211537	Beogradska	living_street	114	7	113	
+BA	3211537	Djece Evrope	living_street	113	3	109	
+BA	3211537	Dvorovi - Rudine	living_street	109	7	108	
+BA	3211537	Glavna	living_street	93	5	99	
+BA	3211537	Semberska	residential	82	6	80	
+BA	3211537	Majevička	living_street	80	4	82	
+BA	3211537	Njegoševa	residential	68	5	74	
+BA	3211537	Peta	living_street	62	4	63	
+BA	3211537	Dvorovi - Orašje	living_street	58	4	58	
+BA	3211537	Četvrta ulica	residential	52	3	50	
+BA	3211537	Djece Amerike i Rusije	residential	51	3	49	
+BA	3211605	Светосавска	primary	7	67	154	Svetosavska
+BA	3211605	Заселак Ада 2		2	1	2	
+BA	3211605	Нова Рибарска	unclassified	2	2	6	Nova Ribarska
+BA	3211929	Jelovac	residential	1	0	0	
+BA	3211929	Pobrđani	residential	1	0	0	
+BA	3212590	Bukva	residential	1	0	0	
+BA	3212590	Polje	secondary	1	0	0	
+BA	3212590	Troska	residential	1	0	0	
+BA	3213083	Ilićka	residential	2	144	521	
+BA	3213083	Ilićke bojne	residential	1	0	0	
+BA	3213083	Ljuti Dolac	secondary	1	0	0	
+BA	3246028	Braće Kostića	unclassified	1	0	0	
+BA	3246028	Kosovke djevojke	residential	1	0	0	
+BA	3246028	R-I 2107	secondary	1	0	0	
+BA	3246028	Rajka Bosnića	residential	1	0	0	
+BA	3246028	Save Ljuboje	residential	1	0	0	
+BA	3246028	Saše Gvozdena	residential	1	0	0	
+BA	3246028	Slobodana Dubočanina	residential	1	0	0	
+BA	3246028	Srpskih ustanika	residential	1	0	0	
+BA	3246028	Ulica Braće Kostića	unclassified	1	0	0	
+BA	3246028	Ulica Braće Lolića	unclassified	1	0	0	
+BA	3246028	Ulica Braće Vesića	unclassified	1	0	0	
+BA	3247554	Cara Lazara	residential	4	6	16	
+BA	3247554	Babica most	tertiary	1	0	0	
+BA	3247554	Babići	residential	1	0	0	
+BA	3247554	Bojane Jelić	residential	1	0	0	
+BA	3247554	Cara Dušana	residential	1	0	0	
+BA	3247554	Danice Perović	residential	1	0	0	
+BA	3247554	Danka Mitrova	secondary	1	0	0	
+BA	3247554	Dositeja Obradovića	residential	1	0	0	
+BA	3247554	Dušana Trivića	residential	1	0	0	
+BA	3247554	I Krajiškog proleterskog bataljona	residential	1	0	0	
+BA	3247554	I. Krajiškog proleterskog bataljona	residential	1	0	0	
+BA	3247554	Ivana Gorana Kovačića	residential	1	0	0	
+BA	3247554	Ive Andrića	residential	1	0	0	
+BA	3247554	Jovice Cvijetić	residential	1	0	0	
+BA	3247554	Jovice Vuković	residential	1	0	0	
+BA	3247554	Kolubarska	residential	1	0	0	
+BA	3247554	Kozarska	residential	1	0	0	
+BA	3247554	Kragujevačkih đaka	residential	1	0	0	
+BA	3247554	Krajiška	residential	1	0	0	
+BA	3247554	Kralja Petra I	primary	1	0	0	
+BA	3247554	Kralja Petra I.	residential	1	0	0	
+BA	3247554	Majdanpečka	residential	1	0	0	
+BA	3247554	Majke Jugović	residential	1	0	0	
+BA	3247554	Maksima Tešića	residential	1	0	0	
+BA	3248273	Babića brdo	residential	1	0	0	
+BA	3248273	Put do Ilije Sandića	unclassified	1	0	0	
+BA	3248643	Branka Morače	secondary	3	12	15	
+BA	3248643	Miće Radakovića	residential	2	1	2	
+BA	3248643	Stevana Moljevića	residential	2	2	8	
+BA	3248643	14. februara	primary	1	0	0	
+BA	3248643	Banusići	secondary	1	0	0	
+BA	3248643	Bolanog Dojčina	primary	1	0	0	
+BA	3248643	Božidara Topića	residential	1	0	0	
+BA	3248643	Božići	secondary	1	0	0	
+BA	3248643	Branka Zagorca	residential	1	0	0	
+BA	3248643	Careva Romanovih	residential	1	0	0	
+BA	3248643	Cetinjska	residential	1	0	0	
+BA	3248643	Dr Drage Ljočić	residential	1	0	0	
+BA	3248643	Duška Vučića	residential	1	0	0	
+BA	3248643	Filipa Macure	residential	1	0	0	
+BA	3248643	Gavrila Principa	secondary	1	0	0	
+BA	3248643	Jagarska	tertiary	1	0	0	
+BA	3248643	Jovane Milošević	residential	1	0	0	
+BA	3248643	Kolubarska	residential	1	0	0	
+BA	3248643	Kozarska	secondary	1	0	0	
+BA	3248643	Milana Brankovića	residential	1	0	0	
+BA	3248643	Milorada-Miće Kremenovića	residential	1	0	0	
+BA	3248643	Muhameda Mehmedbašića	residential	1	0	0	
+BA	3248643	Radoja Domanovića	secondary	1	0	0	
+BA	3248643	Raška	residential	1	0	0	
+BA	3248645	Milakovići	residential	1	0	0	
+BA	3248645	Slavićka	tertiary	1	0	0	
+BA	3249941	4. јули	residential	1	0	0	4. juli
+BA	3249941	8. марта	residential	1	0	0	8. marta
+BA	3249941	Banjalučka	residential	1	0	0	
+BA	3249941	Hasana Hušidića	residential	1	0	0	
+BA	3249941	Kozarska	secondary	1	0	0	
+BA	3249941	Milana Vrhovca	residential	1	0	0	
+BA	3249941	Skendera Kulenovića	residential	1	0	0	
+BA	3249941	Tejići	unclassified	1	0	0	
+BA	3249941	Trg Bratstva i Jedinstva	tertiary	1	0	0	
+BA	3249941	Ахмета Мелкића	residential	1	0	0	Ahmeta Melkića
+BA	3249941	Бањалучка	residential	1	0	0	Banjalučka
+BA	3249941	Бенковачка	residential	1	0	0	Benkovačka
+BA	3251168	Plato	pedestrian	1	0	0	
+BA	3253010	Trg 110. HVO brigade	tertiary	2	3	9	
+BA	3253010	Hasaci	residential	1	0	0	
+BA	3253010	Ponikva	unclassified	1	0	0	
+BA	3253010	Usorska	residential	1	0	0	
+BA	3253010	Šije	unclassified	1	0	0	
+BA	3258022	Ulica Goliješnica	residential	1	0	0	
+BA	3259075	Gusto selo	residential	1	0	0	
+BA	3259075	Kalabinac	residential	1	0	0	
+BA	3259075	Sastavci	residential	1	0	0	
+BA	3259075	Tahirovići	residential	1	0	0	
+BA	3259075	Šišići	residential	1	0	0	
+BA	3262021	Hodovo	unclassified	1	0	0	
+BA	3262021	Ulica XIII.	residential	1	0	0	
+BA	3262877	Braće Zaimovića	residential	1	0	0	
+BA	3262877	Glibani	residential	1	0	0	
+BA	3262877	Kružna Mramor	residential	1	0	0	
+BA	3268187	Ulica Ramiza Alića		73	9	11	
+BA	3268187	Branilaca Hotonja	residential	41	10	31	
+BA	3268187	Ulica Orahov brijeg		6	47	59	
+BA	3268187	Nahorevo	residential	2	201	203	
+BA	3268187	Donji Hotonj IV	residential	1	0	0	
+BA	3268187	Gradac	residential	1	0	0	
+BA	3268187	Orahov brijeg	residential	1	0	0	
+BA	3268187	Ramiza Alića	residential	1	0	0	
+BA	3278045	Arapovići	residential	1	0	0	
+BA	3278045	Begići	residential	1	0	0	
+BA	3278045	Dolići	residential	1	0	0	
+BA	3278045	Družanovići	residential	1	0	0	
+BA	3278045	Ejdurići	residential	1	0	0	
+BA	3278045	Gornja Krakača	residential	1	0	0	
+BA	3278045	Hadžići	residential	1	0	0	
+BA	3278045	Kolakovići	unclassified	1	0	0	
+BA	3278045	Korevine	residential	1	0	0	
+BA	3278045	Memino brdo	residential	1	0	0	
+BA	3278045	Muhići	residential	1	0	0	
+BA	3278045	Murtići	residential	1	0	0	
+BA	3283848	Boškanovići	residential	1	0	0	
+BA	3283848	Donje Jaže	residential	1	0	0	
+BA	3283848	Gornje Jaže	residential	1	0	0	
+BA	3283848	Jukići	residential	1	0	0	
+BA	3283848	Jurišići	residential	1	0	0	
+BA	3283848	Nugle	residential	1	0	0	
+BA	3283848	Petričušići	residential	1	0	0	
+BA	3283848	Ploče	residential	1	0	0	
+BA	3283848	Podjelinak	unclassified	1	0	0	
+BA	3283848	Put Vučipolja	tertiary	1	0	0	
+BA	3283848	Put Zavelima	residential	1	0	0	
+BA	3283848	Tolušići	residential	1	0	0	
+BA	3283915	Glavice	residential	1	0	0	
+BA	3283915	Marijanovići	residential	1	0	0	
+BA	3283915	Mišići	residential	1	0	0	
+BA	3283915	Potok	residential	1	0	0	
+BA	3283915	Putina	residential	1	0	0	
+BA	3283915	Ćavari	residential	1	0	0	
+BA	3295485	Alta Via Breza Vares	unclassified	1	0	0	
+BA	3295485	Frljci	living_street	1	0	0	
+BA	3337472	Peta	residential	22	67	89	
+BA	3337472	Šesta	residential	20	24	52	
+BA	3337476	Donje polje	secondary	4	14	42	
+BA	3337476	Kolonija	primary	3	60	64	
+BA	3337476	Branilaca Konjica		2	1	1	
+BA	3337476	Maršala Tita	residential	2	62	69	
+BA	3337476	Trbića polje	secondary	2	3	139	
+BA	3337476	3. mart	residential	1	0	0	
+BA	3337476	4. muslimanske brigade	residential	1	0	0	
+BA	3337476	Balići	residential	1	0	0	
+BA	3337476	Bolnička	residential	1	0	0	
+BA	3337476	Civilnih žrtava rata	residential	1	0	0	
+BA	3337476	DOM	residential	1	0	0	
+BA	3337476	Donje selo	secondary	1	0	0	
+BA	3337476	Džepi	tertiary	1	0	0	
+BA	3337476	Gornje polje	residential	1	0	0	
+BA	3337476	Grabovci	residential	1	0	0	
+BA	3337476	Hadžizulfikara	residential	1	0	0	
+BA	3337476	Hadžića polje	tertiary	1	0	0	
+BA	3337476	Hasanovići	residential	1	0	0	
+BA	3337476	Huseinbegova	residential	1	0	0	
+BA	3337476	Idbar	unclassified	1	0	0	
+BA	3337476	Kasima Prohića	residential	1	0	0	
+BA	3337476	Konjičkog bataljona	residential	1	0	0	
+BA	3337476	Most Jurija Gagarina	primary	1	0	0	
+BA	3337476	Mostarska	primary	1	0	0	
+BA	3337476	Omladinska	residential	1	0	0	
+BA	3337476	Orahovica DOM	residential	1	0	0	
+BA	3337476	Orahovica ulaz	residential	1	0	0	
+BA	3337476	Orašje	residential	1	0	0	
+BA	3337476	Pave Anđelića	residential	1	0	0	
+BA	3337476	Pleha	residential	1	0	0	
+BA	3337476	Podorašac	residential	1	0	0	
+BA	3337476	Pomolska	residential	1	0	0	
+BA	3337476	Prkanj	residential	1	0	0	
+BA	3337476	Radava	residential	1	0	0	
+BA	3337476	Repovica	residential	1	0	0	
+BA	3337476	Sarajevska	primary	1	0	0	
+BA	3337476	Spiljani	residential	1	0	0	
+BA	3337476	Stara čaršija	unclassified	1	0	0	
+BA	3337476	Stari most	pedestrian	1	0	0	
+BA	3337476	Suhi do	residential	1	0	0	
+BA	3337476	Trg državnosti	primary	1	0	0	
+BA	3337476	Tuleg	residential	1	0	0	
+BA	3337476	Tuščica	residential	1	0	0	
+BA	3337476	Varda	unclassified	1	0	0	
+BA	3337476	Zelenih beretki	residential	1	0	0	
+BA	3337476	Zlatrgovina	residential	1	0	0	
+BA	3337476	Zuke Džumhura	secondary	1	0	0	
+BA	3337476	Žabljak	residential	1	0	0	
+BA	3344411	Sulje Čilića	residential	3	15	41	
+BA	3344411	Branilaca grada	residential	1	0	0	
+BA	3344411	Crnaja	primary	1	0	0	
+BA	3344411	Djevorska	residential	1	0	0	
+BA	3344411	Doljanka	residential	1	0	0	
+BA	3344411	Jelašje	primary	1	0	0	
+BA	3344411	Komune Vejle	primary	1	0	0	
+BA	3344411	Lendava	primary	1	0	0	
+BA	3344411	Luška	residential	1	0	0	
+BA	3344411	Most Aleksin Han	primary	1	0	0	
+BA	3344411	Narentabahn	unclassified	1	0	0	
+BA	3344411	Nikole Bojanovića	residential	1	0	0	
+BA	3344411	Omladinsko šetalište	residential	1	0	0	
+BA	3344411	Pere Bilića	primary	1	0	0	
+BA	3344411	Rasadnik	living_street	1	0	0	
+BA	3344411	Ribići 1	residential	1	0	0	
+BA	3344411	Ribići 2	residential	1	0	0	
+BA	3344411	Stara cesta	residential	1	0	0	
+BA	3344411	Zlatnih Ljiljana	primary	1	0	0	
+BA	3344411	Žrtava genocida u Srebrenici	residential	1	0	0	
+BA	3344788	Idbar	unclassified	1	0	0	
+BA	8335444	Brace Potkonjaka	residential	9	6	47	
+BA	8335444	Braće Jugovića	residential	8	18	56	
+BA	8335444	Bulevar vojvode Stepe Stepanovića	tertiary	8	2	15	
+BA	8335444	Cara Lazara	tertiary	8	1	31	
+BA	8335444	Mirka Kovačevića	residential	6	1	20	
+BA	8335444	Carice Milice	residential	5	3	15	
+BA	8335444	Milovana Glišića	residential	5	1	11	
+BA	8335444	Patrijarha Arsenija Čarnojevića	residential	4	1	21	
+BA	8335444	Miloša Obilića	residential	3	30	51	
+BA	8335444	Božidara Topića	residential	1	0	0	
+BA	8335444	Braće Kostića	unclassified	1	0	0	
+BA	8335444	Braće Stankovića	unclassified	1	0	0	
+BA	8335444	Braće Čubrilovića	residential	1	0	0	
+BA	8335444	Dragana Vranješa	unclassified	1	0	0	
+BA	8335444	Jagarska	tertiary	1	0	0	
+BA	8335444	Karanovačka	secondary	1	0	0	
+BA	8335444	Patre	tertiary	1	0	0	
+BA	8335444	Prote Todora Srdića	residential	1	0	0	
+BA	8335444	Ranka Berića	residential	1	0	0	
+BA	8335444	Slavka Banovića	residential	1	0	0	
+BA	8335444	Svete Ristića	residential	1	0	0	
+BA	8335444	Vilsonova	residential	1	0	0	
+BA	8335444	Vojvode Uroša Drenovića	primary	1	0	0	
+BA	11205170	Cara Lazara	primary	4	5	69	
+BA	11205170	Muse Ćazima Ćatića	residential	3	163	205	
+BA	11205170	Jakešnica		2	1	2	
+BA	11205170	Omladinska	residential	2	1	24	
+BA	11205170	Vidovdanska	residential	2	1	8	
+BA	11205170	27. jula	residential	1	0	0	
+BA	11205170	8. marta	residential	1	0	0	
+BA	11205170	9. januara	residential	1	0	0	
+BA	11205170	9. maja	residential	1	0	0	
+BA	11205170	Alekse Šantića	residential	1	0	0	
+BA	11205170	Arsenija Čarnojevića	residential	1	0	0	
+BA	11205170	Banjalučka	residential	1	0	0	
+BA	11205170	Beogradska	residential	1	0	0	
+BA	11205170	Bilećka	residential	1	0	0	
+BA	11205170	Bistrička	residential	1	0	0	
+BA	11205170	Bore Stankovića	residential	1	0	0	
+BA	11205170	Branka Miljkovića	residential	1	0	0	
+BA	11205170	Branka Radičevića	residential	1	0	0	
+BA	11205170	Branka Ćopića	residential	1	0	0	
+BA	11205170	Brankova	residential	1	0	0	
+BA	11205170	Braće Jugovića	residential	1	0	0	
+BA	11205170	Cara Dušana	residential	1	0	0	
+BA	11205170	Carice Milice	residential	1	0	0	
+BA	11205170	Cerska	residential	1	0	0	
+BA	12680288	Ivanovići	unclassified	1	0	0	
+BA	12680288	Jelići	residential	1	0	0	
+BA	12680288	Jovanići	residential	1	0	0	
+BA	12680288	Lazikići	residential	1	0	0	
+BA	12680288	Maletići	unclassified	1	0	0	
+BA	12680288	Malinovići	residential	1	0	0	
+BA	12680288	Mikić Uzbrdica	residential	1	0	0	
+BA	12680288	Novakovići	residential	1	0	0	
+BA	12680288	Sokak Ivanovići	residential	1	0	0	
+BA	12680288	Suvajci	residential	1	0	0	
+BA	12680288	Topići	residential	1	0	0	
+BA	12680288	Trivalići	residential	1	0	0	

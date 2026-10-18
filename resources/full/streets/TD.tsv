@@ -1,0 +1,241 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+TD	242179	Route Ounianga - Koufra طريق أونيانقا - الكفرة	tertiary	1	0	0	Ounianga - Al-Kofrav Rd
+TD	243590	Guereda - Iriba / غيريدا - إريبا	secondary	1	0	0	Guereda - Iriba
+TD	243760	Am Zoer - Guereda / أم زور - غيريدا	secondary	1	0	0	Am Zoer - Guereda
+TD	243760	Guereda - Iriba / غيريدا - إريبا	secondary	1	0	0	Guereda - Iriba
+TD	243787	Piste de la Montagne مسار جبل	unclassified	1	0	0	
+TD	244878	طريق وطني ألبشي بلتن Abeche - Biltine	secondary	1	0	0	Abeche - Biltine National Road
+TD	245338	Am Timan - Goz Beida - Abeche National Road طريق وطني أم تيمان أبو ضياء مونكو	secondary	1	0	0	
+TD	245338	Am Timan - Haraze Regional Road	tertiary	1	0	0	
+TD	245338	Am Timan - Haraze Regional Road طريق إقليمي أم تيمان حراز	tertiary	1	0	0	
+TD	245338	Am Timan - Kerfi Rd طريق ام تيمان - كرفي	secondary	1	0	0	
+TD	245338	Sarh - Kyabe - Am Timan طريق وطني ساركيابي أم تيمان	primary	1	0	0	Sarh - Kyabe - Am Timan
+TD	245338	طريق وطني أم تيمان - أبو ضياء - مونقو Am Timan - Abu Deia - Mongo	primary	1	0	0	Am Timan - Abu Deia - Mongo National Road
+TD	245785	Abéché - Abdi - Goz Beïda	secondary	1	0	0	
+TD	245785	Abéché - Am Zoer - Guéréda	secondary	1	0	0	
+TD	245785	Boulevard D'Aeroport شارع المطار	unclassified	1	0	0	
+TD	245785	Goz Beïda - Abdi - Abéché	secondary	1	0	0	
+TD	245785	Kinen كينن	residential	1	0	0	
+TD	245785	Piste de Bagarine مسار باغارين	unclassified	1	0	0	
+TD	245785	Route de l'Aéroport طريق المطار	unclassified	1	0	0	
+TD	245785	Rue Bagarine شارع باغارين	tertiary	1	0	0	
+TD	245785	Rue Deux Vaches شارع بقرتين	unclassified	1	0	0	
+TD	245785	avenue Idriss Déby	unclassified	1	0	0	
+TD	245785	طريق أبشي - بلتن Abeche - Biltine	secondary	1	0	0	Abeche - Biltine
+TD	2425791	Avenue Charles de Gaulle شارع شارل ديغول	residential	1	0	0	
+TD	2425791	Avenue Kaskanaye شارع كاسكاناي	tertiary	1	0	0	
+TD	2425791	Avenue de l'Indépendance شارع الاستقلال	tertiary	1	0	0	
+TD	2425791	Avenue des Jeunes شارع الشباب	tertiary	1	0	0	
+TD	2425791	Avenue du Commerce شارع التجارة	tertiary	1	0	0	
+TD	2425791	Etoile النجم	tertiary	1	0	0	
+TD	2425791	Route Régionale Sarh - Moïssala - Kouri طريق إقليمي ساره-مواسالا-كوري	tertiary	1	0	0	Sarh - Moissala - Gore Regional Road
+TD	2425791	Rue Ketegala شارع كتقالا	residential	1	0	0	
+TD	2425791	طريق سارة - وسط سيدو Sarh - Sido	primary	1	0	0	Sarh - Sido (RCA Border)
+TD	2425791	قنطرة باليمبا Pont de Balimba	secondary	1	0	0	Pont de Balimba
+TD	2425791	قنطرة قديمة Ancien pont	secondary	1	0	0	
+TD	2426370	Doungour دونغور	unclassified	1	0	0	
+TD	2426370	Route Abéché - Ati - N'Djamena طريق أبشي-أتي-انجمينا	residential	1	0	0	
+TD	2427123	Lt Colonel Kaffine Chaddalah		7	316	316	
+TD	2427123	شارع سارة		4	1	85	
+TD	2427123	Avenue Bokassa		2	985	985	
+TD	2427123	Avenue Général Kerim Nassour	primary	2	150	1002	
+TD	2427123	2eme Voie de Contournement	secondary	1	0	0	
+TD	2427123	Avenue Bezo شارع بيزو	residential	1	0	0	
+TD	2427123	Avenue Charles de Gaulle شارع شارل ديغول	primary	1	0	0	Avenue Charles de Gaulle
+TD	2427123	Avenue Colonel Nelde Rigobert شارع العقيد نيلد ريكوبيرت	residential	1	0	0	
+TD	2427123	Avenue Djibrine Kherallah شارع جبرين خير الله	tertiary	1	0	0	Avenue Djibrine Kherallah
+TD	2427123	Avenue Djibrine Kherllah شارع جبرين خير الله	tertiary	1	0	0	Avenue Djibrine Kherallah
+TD	2427123	Avenue Gal. Sougour Mahamat Galma	residential	1	0	0	
+TD	2427123	Avenue Gaourang شارع كورانك	secondary	1	0	0	Avenue Gaourang
+TD	2427123	Avenue Goukouni Wedeye	tertiary	1	0	0	
+TD	2427123	Avenue Goukouni Wedeye شارع قوقوني عويدي	tertiary	1	0	0	
+TD	2427123	Avenue Général de Gaulle شارع الجنرال ديغول	residential	1	0	0	
+TD	2427123	Avenue Hamit Hangatta شارع حاميت أنكاتا	residential	1	0	0	
+TD	2427123	Avenue Idriss Deby Itno شارع إدريس ديبي إتنو	primary	1	0	0	
+TD	2427123	Avenue Imam Thom Daman شارع الإمام توم دامان	tertiary	1	0	0	
+TD	2427123	Avenue Mubutu شارع موبوتو	primary	1	0	0	Avenue Mubutu
+TD	2427123	Avenue Nimery شارع النميري	primary	1	0	0	
+TD	2427123	Avenue Nimery شارع نيميري	primary	1	0	0	
+TD	2427123	Avenue Pompidou شارع بومبيدو	secondary	1	0	0	
+TD	2427123	Avenue Zezerty شارع زيزرتي	tertiary	1	0	0	Avenue Zezerty
+TD	2427123	Avenue de Braza شارع البرازا	secondary	1	0	0	Avenue de Braza
+TD	2427123	Avenue de behagle شارع بياكل	unclassified	1	0	0	Avenue de behagle
+TD	2427123	Avenue de la Revolution شارع الثورة	tertiary	1	0	0	Avenue de la Revolution
+TD	2427123	Avenue du 10 Octobre / شارع 10 تشرين الأول	unclassified	1	0	0	
+TD	2427123	Avenue du 26 Août شارع 26 أغسطس	tertiary	1	0	0	26 of August Avenue
+TD	2427123	Bayonne زنقة بايون	secondary	1	0	0	Bayonne
+TD	2427123	Boulevard François Tombalbaye طريق تمبلباي	primary	1	0	0	Boulevard François Tombalbaye
+TD	2427123	Boulevard de 40 Metres	primary	1	0	0	
+TD	2427123	Boulevard de 40 Metres شارع 40 متر	primary	1	0	0	
+TD	2427123	Boulevard de Bezo شارع بيزو	secondary	1	0	0	
+TD	2427123	Boulevard de Paris شارع باريس	residential	1	0	0	
+TD	2427123	Boulevard de Strasbourg شارع ستراسبورغ	primary	1	0	0	Strasbourg Boulevard
+TD	2427123	Boulevard des Sao	tertiary	1	0	0	
+TD	2427123	Boulevard des Sao شارع الساو	tertiary	1	0	0	
+TD	2427123	Boulevard du Maréchal du Tchad Idriss Deby Itno	primary	1	0	0	
+TD	2427123	Cabine Ahmar	residential	1	0	0	
+TD	2427123	Chari Birmil	residential	1	0	0	
+TD	2427123	Chari Birmil شارع بيرميل	tertiary	1	0	0	Chari Birmil
+TD	2427123	Chari Birmil شاري بيرميل	tertiary	1	0	0	Chari Birmil
+TD	2427123	Chari-mongo شار ع شاري-مونقو	residential	1	0	0	
+TD	2427123	Joseph Yodeman	tertiary	1	0	0	
+TD	2427123	Joseph Yodeman زنقة جوزيف يوديمان	tertiary	1	0	0	
+TD	2427123	N'Djamena - Moundou انجامينا - موندو	primary	1	0	0	N'Djamena - Moundou
+TD	2427123	Nelson Mandela نيلسون مانديلا	residential	1	0	0	Nelson Mandela
+TD	2427123	Place de la Grande Armée ساحة الجيش الكبير	residential	1	0	0	
+TD	2427123	Place de la Nation ساحة الأمة	secondary	1	0	0	
+TD	2427123	Pont de Chagoua	secondary	1	0	0	
+TD	2427123	Pont de la Refondation	primary	1	0	0	
+TD	2427123	Rond Point Adoum Tcheré دوار 40 متر	primary	1	0	0	
+TD	2427123	Rond Point Bololo دوار بولولو	secondary	1	0	0	
+TD	2427123	Rond Point Marche a Mil	primary	1	0	0	
+TD	2427123	Rond point Aigle دوار النسر	tertiary	1	0	0	
+TD	2427123	Rond point STT دوار الشركة النقل العابر	primary	1	0	0	
+TD	2427123	Rond-Point Gaoui دوار غاوي	tertiary	1	0	0	
+TD	2427123	Rond-Point Hamama دوار الحمامة	secondary	1	0	0	Hamama Roundabout
+TD	2427123	Rond-Point Mère et Enfant دوار الأم والطفل	primary	1	0	0	
+TD	2427123	Rond-Point Tacha Massoro دوار تاتشا ماسورو	primary	1	0	0	
+TD	2427123	Rond-Point de Chagoua دوار شجوا	primary	1	0	0	
+TD	2427123	Rond-Point de Diguel دوار ديغيل	tertiary	1	0	0	
+TD	2427123	Rond-Point de Farcha دوار فارشا	tertiary	1	0	0	
+TD	2427123	Rond-Point de Secebane دوار سيسيباني	primary	1	0	0	
+TD	2427123	Rond-Point de Sonasut دوار سوناسوت	primary	1	0	0	
+TD	2427123	Rond-Point de la Justice دوار العدالة	primary	1	0	0	
+TD	2427123	Rond-Point de la Mairie دوار قاعة المدينة	tertiary	1	0	0	
+TD	2427123	Rond-Point des Travaux دوار الأشغال	secondary	1	0	0	
+TD	2427123	Rond-Point du Centenaire دوار المئوية	primary	1	0	0	
+TD	2427123	Rond-Point du Globe دوار الكرة الأرضية	primary	1	0	0	Rond Point Glob Terrestre
+TD	2427123	Rond-Point du Marché à Bétail دوار سوق الماشية	secondary	1	0	0	
+TD	2427123	Rond-Point du Pont Double Voie دوار الجسر المزدوج	primary	1	0	0	
+TD	2427123	Rond-Point du Trésor دوار الخزانة	primary	1	0	0	
+TD	2427123	Route Digeul Lamadji	secondary	1	0	0	
+TD	2427123	Route Farcha طريق فارشا	residential	1	0	0	
+TD	2427123	Route de Grillage طريق الشواية	tertiary	1	0	0	
+TD	2427123	Route de la Corniche طريق الكرنيش	tertiary	1	0	0	
+TD	2427123	Route régionale N'Djaména - Bousso طريق إقليمي انجمينا - بوسو	secondary	1	0	0	
+TD	2427123	Route régionale N'Djaména - Gaoui	tertiary	1	0	0	
+TD	2427123	Rue 1011 زنقة	secondary	1	0	0	Rue 1011
+TD	2427123	Rue 1035 زنقة	secondary	1	0	0	
+TD	2427123	Rue 1036 زنقة	residential	1	0	0	
+TD	2427123	Rue 1248 زنقة	residential	1	0	0	
+TD	2427123	Rue 1257 زنقة	unclassified	1	0	0	
+TD	2427123	Rue 1278 زنقة	unclassified	1	0	0	
+TD	2427123	Rue 3,017 / زنقة 3017	unclassified	1	0	0	
+TD	2427123	Rue 3,021 / زنقة 3021	residential	1	0	0	
+TD	2427123	Rue 3,022 / زنقة 3022	tertiary	1	0	0	
+TD	2427123	Rue 3,023 / زنقة 3023	residential	1	0	0	
+TD	2427123	Rue 3,026 / زنقة 3026	residential	1	0	0	
+TD	2427123	Rue 3,028 / زنقة 3028	residential	1	0	0	
+TD	2427123	Rue 3,029 / زنقة 3029	residential	1	0	0	
+TD	2427123	Rue 3015 زنقة	residential	1	0	0	
+TD	2427123	Rue 3019 زنقة	residential	1	0	0	
+TD	2427123	Rue 3022	tertiary	1	0	0	
+TD	2427123	Rue 3027 زنقة	residential	1	0	0	
+TD	2427123	Rue 3029 زنقة	residential	1	0	0	
+TD	2427123	Rue 3031 زنقة	residential	1	0	0	
+TD	2427123	Rue 3044 زنقة	residential	1	0	0	
+TD	2427123	Rue 5009 / شارع 5009	residential	1	0	0	
+TD	2427123	Rue Argapt El Jammal شارع أرغابت الجمل	tertiary	1	0	0	Argapt El Jammal
+TD	2427123	Rue Argapt El Jammal شارع أرقبت الجمال	residential	1	0	0	
+TD	2427123	Rue Beassoum Samuel زنقة بياسوم سامويل	tertiary	1	0	0	
+TD	2427123	Rue Brosset زنقة بروسيت	secondary	1	0	0	Rue Brosset
+TD	2427123	Rue Dr SOU IV	secondary	1	0	0	
+TD	2427123	Rue Farcha طريق فارشا	residential	1	0	0	
+TD	2427123	Rue Galmai Youssoubomi شارع عام شينو يوسوبمي	residential	1	0	0	Galmai Youssoubomi
+TD	2427123	Rue Goudak شارع قوداك	residential	1	0	0	Rue Goudak
+TD	2427123	Rue Goz Beïda شارع قوز بيضة	residential	1	0	0	
+TD	2427123	Rue Goz beida شارع قوز بيدا	residential	1	0	0	
+TD	2427123	Rue Imam Hassan Hussein شارع امام حسن حسين	residential	1	0	0	
+TD	2427123	Rue Lieutenant Colonel Kaffine Chaddalah	residential	1	0	0	
+TD	2427123	Rue Lougouma شارع لقمة	residential	1	0	0	
+TD	2427123	Rue Milezi شارع مليز	tertiary	1	0	0	Rue Milezi
+TD	2427123	Rue Ngone Benoye	residential	1	0	0	
+TD	2427123	Rue Paul Tripier زنقة بول تريبيه	unclassified	1	0	0	
+TD	2427123	Rue Schœlcher	tertiary	1	0	0	
+TD	2427123	Rue d'Amdam شارع عمدام	residential	1	0	0	
+TD	2427123	Rue de 30m / شارع 30 متر	tertiary	1	0	0	
+TD	2427123	Rue de 40	residential	1	0	0	
+TD	2427123	Rue de 40m شارع 40 متر	residential	1	0	0	
+TD	2427123	Rue de Bekambo زنقة بكامبو	residential	1	0	0	
+TD	2427123	Rue de Bokoro شارع بوكورو	residential	1	0	0	
+TD	2427123	Rue de Bordeaux شارع بوردو	tertiary	1	0	0	
+TD	2427123	Rue de Dolisié شارع دوليسييه	residential	1	0	0	
+TD	2427123	Rue de Joie شارع الفرح	residential	1	0	0	
+TD	2427123	Rue de Marseille زنقة مرسيليا	tertiary	1	0	0	
+TD	2427123	Rue de Mazieras زنقة مازيراس	residential	1	0	0	
+TD	2427123	Rue de Merkey شارع مركي	residential	1	0	0	
+TD	2427123	Rue de Mongo شارع مونقو	residential	1	0	0	
+TD	2427123	Rue de canal شارع القناة	residential	1	0	0	
+TD	2427123	Rue de l'Hôpital شارع المستشفى	residential	1	0	0	
+TD	2427123	Rue de la Fripperie شارع متاجر السلع المستعملة	residential	1	0	0	
+TD	2427123	Rue de la Gendarmerie زنقة الدرك	primary	1	0	0	
+TD	2427123	Rue du Chérif	tertiary	1	0	0	
+TD	2427123	Rue du Havre زنقة الهافر	secondary	1	0	0	
+TD	2427123	Rue du Sultan Ourada شارع السلطان أورادة	residential	1	0	0	
+TD	2427123	Rue du cimetière مقبرة الشارع	residential	1	0	0	
+TD	2427123	Rue hôtel Bono شارع فندق بونو	tertiary	1	0	0	hôtel Bono
+TD	2427123	Rue residentielle	residential	1	0	0	
+TD	2427123	Rue شارع 2023	residential	1	0	0	
+TD	2427123	Rue3,031 / زنقة 3031	residential	1	0	0	
+TD	2427123	Voie en Projet طريق في المشروع	residential	1	0	0	
+TD	2427123	acces road for farmers to residential area	unclassified	1	0	0	
+TD	2427123	acces to other farms	unclassified	1	0	0	
+TD	2427123	access to other farms	unclassified	1	0	0	
+TD	2427123	lougouma rou/شارع لقمة	residential	1	0	0	
+TD	2427123	rue 10.26 شارع	residential	1	0	0	
+TD	2427123	second road for village workers	unclassified	1	0	0	
+TD	2427123	truck acces road to pont de l'unite	unclassified	1	0	0	
+TD	2427123	École شارع المدرسة	unclassified	1	0	0	
+TD	2427123	الجامع الكبير Grande mosquée	primary	1	0	0	Grande mosquée
+TD	2427123	انجامينا - موندو N'Djamena - Moundou	primary	1	0	0	N'Djamena - Moundou
+TD	2427123	تقاطع Echangeur	primary	1	0	0	Echangeur
+TD	2427123	دوار الإناث Rond-point féminin	tertiary	1	0	0	
+TD	2427123	دوار الاتحاد نافورة Rond-Point de l'Union	primary	1	0	0	Rond-Point de l'Union
+TD	2427123	دوار المحطة الثانية Rond-point de la deuxième gare	primary	1	0	0	Roundabout of second station
+TD	2427123	دوار النخيل Rond-point Palmeraie	secondary	1	0	0	Rond-point Palmeraie
+TD	2427123	دوار مسجد Rond-point de la mosquée	primary	1	0	0	
+TD	2427123	دوار نافورة Rond Point de la Fontaine	primary	1	0	0	
+TD	2427123	دوار نيميري Rond-point Nimery	primary	1	0	0	Rond-point Nimery
+TD	2427123	زنقة الدرك Rue de la Gendarmerie	primary	1	0	0	Rue de la Gendarmerie
+TD	2427123	زنقة العقيد مول Rue du Colonel Moll	primary	1	0	0	Colonel Moll
+TD	2427123	شارع سارة Sarh	primary	1	0	0	Sarh
+TD	2427123	شارع سان مارتان Avenue Saint Martin	secondary	1	0	0	Avenue Saint Martin
+TD	2427123	شارع موبوتو Avenue Mubutu	tertiary	1	0	0	Avenue Mubutu
+TD	2427123	شارع نيميري Avenue Nimery	primary	1	0	0	Avenue Nimery
+TD	2427123	طريق تمبلباي Boulevard François Tombalbaye	primary	1	0	0	Boulevard François Tombalbaye
+TD	2427123	محول تمبلباي Boulevard François Tombalbaye	primary	1	0	0	Boulevard Tombalbaye
+TD	2427336	Ndjamena - Massakory - Faya Largeau National Road	secondary	1	0	0	
+TD	2427455	Avenue Commercial لشارع التجاري	tertiary	1	0	0	
+TD	2427455	Avenue Jean-Paul II شارع جان بول الثاني	tertiary	1	0	0	
+TD	2427455	Avenue Maurice Ngangtar شارع موريس نجانغتار	tertiary	1	0	0	
+TD	2427455	Avenue Négor شارع نيغر	secondary	1	0	0	
+TD	2427455	Avenue Tombalbaye شارع تومبالباي	secondary	1	0	0	
+TD	2427455	Rond Point de l'amitié	tertiary	1	0	0	
+TD	2427455	Rond Point de la Femme Tchadienne	tertiary	1	0	0	
+TD	2427455	Rond Point des Guides du Tchad	unclassified	1	0	0	
+TD	2427455	Route Moundou - Kaga	tertiary	1	0	0	
+TD	2427455	Route Moundou - Tilo	tertiary	1	0	0	
+TD	2427455	Route de service d'huile	unclassified	1	0	0	
+TD	2427455	Rue Commerciale لشارع التجاري	tertiary	1	0	0	
+TD	2427637	طريق وطني منقو - أبو ضياء - أم تيمان Mongo - Abu Deia - Am Timan	primary	1	0	0	Mongo - Abu Deia - Am Timan National Road
+TD	2427637	طريق وطني منقو - أتي Mongo - Ati	secondary	1	0	0	Mongo - Ati National Road
+TD	2427637	طريق وطني منقو-أبو ضياء-أم تيمان Mongo - Abu Deia - Am Timan	primary	1	0	0	Mongo - Abu Deia - Am Timan National Road
+TD	2427949	Route nationale Mongo - Melfi - Sarh طريق الوطني منقو - ملفي - سارة	primary	1	0	0	
+TD	2428450	Madoul Tilegey Road	tertiary	1	0	0	
+TD	2428450	Piste de Madoul مسار مادول	residential	1	0	0	
+TD	2429158	Axe Principale المحور الرئيسي	primary	1	0	0	
+TD	2429158	Axe Secondaire المحور الثانوي	residential	1	0	0	
+TD	2429296	Kelo-Bere-Lai	secondary	1	0	0	
+TD	2430506	Kelo-Bere-Lai	secondary	1	0	0	
+TD	2432678	Chari Chifini شارع شيفيني	tertiary	1	0	0	
+TD	2432678	route de la PFA	residential	1	0	0	
+TD	2433437	Route Doba - Frontière RCA	primary	1	0	0	
+TD	2433437	Route nationale Doba - Laï	secondary	1	0	0	
+TD	2435124	Route Nationale Mongo - Melfi - Sarh	primary	1	0	0	
+TD	2435474	Béré-DabgueFarm	unclassified	1	0	0	
+TD	2435474	Béré-Delbiane	residential	1	0	0	
+TD	2435474	Kelo-Bere-Lai	secondary	1	0	0	
+TD	2435837	Route Violante	unclassified	1	0	0	
+TD	2436400	Centre-ville وسط المدينة	residential	1	0	0	
+TD	2437601	Am Timan - Abu Deia - Mongo طريق وطني أم تيمان أبو ضياء مونكو, أبو ديا	primary	1	0	0	Am Timan - Abu Deia - Mongo
+TD	2437601	طريق وطني مونقو-أبو ضياء-أم تيمان Mongo - Abu Deia - Am Timan	primary	1	0	0	Mongo - Abu Deia - Am Timan National Road

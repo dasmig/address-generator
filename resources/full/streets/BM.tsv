@@ -1,0 +1,243 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+BM	3573029	Beulah Lane	residential	1	0	0	
+BM	3573029	Broome Street	residential	1	0	0	
+BM	3573061	Cut Road	tertiary	51	6	67	
+BM	3573061	Duke of York Street	secondary	43	3	49	
+BM	3573061	Barrack Close	residential	37	2	43	
+BM	3573061	Water Street	residential	30	5	58	
+BM	3573061	Queen Street	unclassified	29	3	28	
+BM	3573061	Wellington Street	secondary	27	3	36	
+BM	3573061	Convict Bay Lane	residential	26	2	38	
+BM	3573061	Slippery Hill	residential	22	2	25	
+BM	3573061	Barry Road	tertiary	20	1	49	
+BM	3573061	Turkey Hill	residential	16	1	18	
+BM	3573061	Old Maid's Lane	residential	15	1	18	
+BM	3573061	Pain Lane East	residential	15	1	27	
+BM	3573197	Reid Street	primary	51	17	88	
+BM	3573197	Church Street	tertiary	48	17	82	
+BM	3573197	Front Street	primary	28	38	127	
+BM	3573197	Victoria Street	tertiary	28	22	75	
+BM	3573197	Burnaby Street	primary	23	3	24	
+BM	3573197	Parliament Street	unclassified	21	4	48	
+BM	3573197	Princess Street	residential	17	11	31	
+BM	3573197	Court Street	tertiary	12	32	83	
+BM	3573197	Brunswick Street	residential	11	8	22	
+BM	3573197	Dundonald Street	secondary	10	6	62	
+BM	3573197	Elliott Street	residential	8	4	29	
+BM	3573197	Washington Lane		7	2	9	
+BM	8533871	North Shore Road	secondary	104	6	163	
+BM	8533871	Front Street	secondary	41	3	137	
+BM	8533871	King Street	tertiary	39	9	68	
+BM	8533871	Angle Street	tertiary	29	3	52	
+BM	8533871	Queen Street	tertiary	29	3	31	
+BM	8533871	Curving Avenue	unclassified	28	2	48	
+BM	8533871	North Street	tertiary	26	6	66	
+BM	8533871	Union Street	tertiary	25	4	36	
+BM	8533871	Ewing Street	living_street	23	6	51	
+BM	8533871	Happy Valley Road	tertiary	20	2	26	
+BM	8533871	Par-La-Ville Road	secondary	20	2	58	
+BM	8533871	Point Shares Road	unclassified	20	3	28	
+BM	8533871	Reid Street	primary	19	1	104	
+BM	8533871	Berkeley Road	tertiary	18	2	28	
+BM	8533871	Church Street	tertiary	18	1	18	
+BM	8533871	Bermudiana Road	secondary	17	1	36	
+BM	8533871	Hinson's Island	residential	16	14	45	
+BM	8533871	Pitts Bay Road	secondary	16	13	100	
+BM	8533871	The Glebe Road	unclassified	15	4	87	
+BM	8533871	Richmond Road	tertiary	12	19	37	
+BM	8533871	Tribe Road No. 1	residential	12	1	20	
+BM	8533871	Crow Lane	primary	11	1	42	
+BM	8533871	Dundonald Street West	secondary	11	1	19	
+BM	8533871	Spanish Point Road	unclassified	11	7	66	
+BM	13353864	Headquarters Hill	unclassified	11	2	33	
+BM	13353864	North Shore Road	secondary	10	16	83	
+BM	13353864	Middle Road	primary	6	16	134	
+BM	13353864	Dock Hill	secondary	5	1	10	
+BM	13353864	Long Ridge Pass	residential	4	1	5	
+BM	13353864	North Ridge Crescent	residential	4	3	8	
+BM	13353864	BFA Way	unclassified	3	1	11	
+BM	13353864	Barkers Hill	secondary	2	2	2	
+BM	13353864	Old Military Road	residential	2	2	2	
+BM	13353864	South Road	primary	2	154	183	
+BM	13353864	Watlington Road East	unclassified	2	1	4	
+BM	13353864	Aerial View Close	residential	1	0	0	
+BM	13353864	Aerial View Road	residential	1	0	0	
+BM	13353864	Alexandra Road	residential	1	0	0	
+BM	13353864	Ariel Drive	residential	1	0	0	
+BM	13353864	Astwood Road	residential	1	0	0	
+BM	13353864	Bell Lane	residential	1	0	0	
+BM	13353864	Belmer Drive	residential	1	0	0	
+BM	13353864	Belvedere Road	residential	1	0	0	
+BM	13353864	Berry Hill Close	residential	1	0	0	
+BM	13353864	Berry Hill Road	unclassified	1	0	0	
+BM	13353864	Bleak Farm Close	residential	1	0	0	
+BM	13353864	Brackish Pond Lane	residential	1	0	0	
+BM	13353864	Brighton Lane	residential	1	0	0	
+BM	13353865	Harrington Sound Road	secondary	9	4	92	
+BM	13353865	South Road	primary	8	1	151	
+BM	13353865	Middle Road	primary	5	45	65	
+BM	13353865	Jennings Road	tertiary	2	16	19	
+BM	13353865	North Shore Road	primary	2	2	6	
+BM	13353865	AP Owen Road	residential	1	0	0	
+BM	13353865	Aldie Drive	residential	1	0	0	
+BM	13353865	Arlington Drive	residential	1	0	0	
+BM	13353865	Ashwood Lane	residential	1	0	0	
+BM	13353865	Border Dell	residential	1	0	0	
+BM	13353865	Boundary Crescent	residential	1	0	0	
+BM	13353865	Boundary Terrace	residential	1	0	0	
+BM	13353865	Breezyway Lane	residential	1	0	0	
+BM	13353865	Bridle Hill	residential	1	0	0	
+BM	13353865	Brightside Crescent	residential	1	0	0	
+BM	13353865	Cable Hill	residential	1	0	0	
+BM	13353865	Cameron Close	residential	1	0	0	
+BM	13353865	Century Lane	residential	1	0	0	
+BM	13353865	Cherry Dale	residential	1	0	0	
+BM	13353865	Church Dale	residential	1	0	0	
+BM	13353865	Clarendon Gardens	residential	1	0	0	
+BM	13353865	Clarendon Lane	residential	1	0	0	
+BM	13353865	Cloverdale Close	residential	1	0	0	
+BM	13353865	Cloverdale Road	residential	1	0	0	
+BM	13353866	North Shore Road	primary	32	12	191	
+BM	13353866	Tucker's Town Road	unclassified	27	3	55	
+BM	13353866	Ship's Hill	residential	25	2	26	
+BM	13353866	Shell Point Road	residential	17	2	26	
+BM	13353866	Glebe Hill	residential	14	2	23	
+BM	13353866	Shore Lane	residential	14	2	26	
+BM	13353866	South Road	tertiary	13	2	116	
+BM	13353866	Mid Ocean Drive	residential	8	1	16	
+BM	13353866	Long Lane	residential	7	1	16	
+BM	13353866	Clarendon Road		6	3	13	
+BM	13353866	Ship's Hill Lane	residential	5	1	29	
+BM	13353866	Blue Hole Hill	primary	3	3	17	
+BM	13353866	Harrington Sound Road	primary	3	19	102	
+BM	13353866	Sleepy Hollow Drive	residential	3	37	41	
+BM	13353866	Wilkinson Avenue	primary	3	2	41	
+BM	13353866	Abbot's Cliff Road	residential	2	6	7	
+BM	13353866	Ducks Puddle Drive	residential	2	8	8	
+BM	13353866	Millhouse Bay Lane	residential	2	2	3	
+BM	13353866	Abbot's Cliff Close	residential	1	0	0	
+BM	13353866	Abbot's Cliff Drive	residential	1	0	0	
+BM	13353866	Abbot's Crescent	residential	1	0	0	
+BM	13353866	Alexandria Lane	residential	1	0	0	
+BM	13353866	Arrowroot Lane	residential	1	0	0	
+BM	13353866	Aubrey Road	residential	1	0	0	
+BM	13353867	St. David's Road	secondary	41	7	103	
+BM	13353867	Wellington Back Road	residential	37	2	56	
+BM	13353867	Waller's Point Road	unclassified	29	4	29	
+BM	13353867	Cashew City Road	unclassified	25	2	47	
+BM	13353867	Smith's Hill Road	residential	19	1	27	
+BM	13353867	Ballast Point Road	residential	18	3	46	
+BM	13353867	Ferry Road	unclassified	18	1	91	
+BM	13353867	Lighthouse Hill	residential	18	5	33	
+BM	13353867	Battery Road	residential	17	5	41	
+BM	13353867	Mount Road	residential	17	1	27	
+BM	13353867	Stokes Point Road	residential	17	3	39	
+BM	13353867	Cove Valley Lane	residential	12	1	15	
+BM	13353867	St. Luke's Lane	residential	12	1	17	
+BM	13353867	Boundary Lane	residential	11	3	15	
+BM	13353867	Mullet Bay Road	secondary	10	1	121	
+BM	13353867	Biological Station	residential	9	5	41	
+BM	13353867	Shore Hills Lane	residential	9	3	33	
+BM	13353867	Anchorage View Road	residential	7	2	12	
+BM	13353867	Talavera Lane	residential	7	2	10	
+BM	13353867	Tucker's Town Road		7	38	73	
+BM	13353867	Vaughan's Bay Drive	residential	7	3	12	
+BM	13353867	Cove Valley Close	residential	6	2	12	
+BM	13353867	Echo Lane	residential	6	8	17	
+BM	13353867	Pendle Lane	residential	6	2	10	
+BM	13353868	Middle Road	primary	12	1	128	
+BM	13353868	South Road	primary	9	53	104	
+BM	13353868	Cobbs Hill Road	tertiary	4	20	70	
+BM	13353868	Harbour Road	secondary	3	1	89	
+BM	13353868	Lovers Lane	residential	2	2	2	
+BM	13353868	Ord Road	tertiary	2	20	20	
+BM	13353868	Salt Kettle Road	residential	2	17	27	
+BM	13353868	Valley Road	unclassified	2	1	6	
+BM	13353868	Appleby Lane	residential	1	0	0	
+BM	13353868	Ardsheal Drive	residential	1	0	0	
+BM	13353868	Astwood Walk	residential	1	0	0	
+BM	13353868	Banana Lane	residential	1	0	0	
+BM	13353868	Barnes Valley	residential	1	0	0	
+BM	13353868	Bellevue Drive	residential	1	0	0	
+BM	13353868	Bellevue Lane	residential	1	0	0	
+BM	13353868	Berwyn Hill	residential	1	0	0	
+BM	13353868	Bird Cage Lane	residential	1	0	0	
+BM	13353868	Black and Ball Lane	residential	1	0	0	
+BM	13353868	Bostock Hill East	residential	1	0	0	
+BM	13353868	Bostock Hill West	residential	1	0	0	
+BM	13353868	Bostock Lane	residential	1	0	0	
+BM	13353868	Cataract Hill	residential	1	0	0	
+BM	13353868	Cedars Drive	residential	1	0	0	
+BM	13353868	Chapel Lane	residential	1	0	0	
+BM	13353869	Middle Road	primary	28	15	234	
+BM	13353869	Hinson's Island	residential	10	3	43	
+BM	13353869	Camp Hill Road	tertiary	6	2	13	
+BM	13353869	Cedar Hill	unclassified	3	1	39	
+BM	13353869	South Road	secondary	3	34	117	
+BM	13353869	St. Mary's Road	residential	3	2	44	
+BM	13353869	Hawthorn Lane	residential	2	6	10	
+BM	13353869	Horseshoe Road	tertiary	2	10	42	
+BM	13353869	South Shore Road		2	101	101	
+BM	13353869	Aurora Lane	residential	1	0	0	
+BM	13353869	Belmont Heights	residential	1	0	0	
+BM	13353869	Belmont Hills Drive	residential	1	0	0	
+BM	13353869	Belmont Road	residential	1	0	0	
+BM	13353869	Bowe Lane	residential	1	0	0	
+BM	13353869	Bulkhead Drive	residential	1	0	0	
+BM	13353869	Burgess Point Road	residential	1	0	0	
+BM	13353869	Burnt Hill Lane	residential	1	0	0	
+BM	13353869	Burnt House Drive	residential	1	0	0	
+BM	13353869	Burnt House Hill	secondary	1	0	0	
+BM	13353869	Camp Close	residential	1	0	0	
+BM	13353869	Camp Drive	residential	1	0	0	
+BM	13353869	Camp Lane	residential	1	0	0	
+BM	13353869	Camp Road	tertiary	1	0	0	
+BM	13353869	Cedar & Spice Lane	residential	1	0	0	
+BM	13353870	Middle Road	primary	27	5	143	
+BM	13353870	Tribe Road No. 3	unclassified	22	2	36	
+BM	13353870	St. Anne's Road	unclassified	21	19	68	
+BM	13353870	Hilltop Court	residential	10	1	25	
+BM	13353870	Hilltop Drive	residential	10	1	10	
+BM	13353870	Orchard Drive	residential	9	3	17	
+BM	13353870	Wild Wood Court	residential	6	2	10	
+BM	13353870	Church Road	unclassified	5	2	18	
+BM	13353870	Garden Path	residential	5	1	10	
+BM	13353870	Port Royal Gardens	residential	5	1	5	
+BM	13353870	Rock Sound Road	residential	4	1	5	
+BM	13353870	South Road	secondary	4	56	69	
+BM	13353870	Atlantic View	residential	3	2	6	
+BM	13353870	Railway Trail		3	2	6	
+BM	13353870	Buggy Whip Hill	residential	2	3	4	
+BM	13353870	Corn Cob Alley	residential	2	1	3	
+BM	13353870	George's Bay Road	unclassified	2	1	6	
+BM	13353870	Southdown Close	residential	2	2	4	
+BM	13353870	Admiral Lane	residential	1	0	0	
+BM	13353870	Admiral Walk	residential	1	0	0	
+BM	13353870	Avocado Lane	residential	1	0	0	
+BM	13353870	Bay View Drive	residential	1	0	0	
+BM	13353870	Beaming Hill	residential	1	0	0	
+BM	13353870	Benevides Lane	living_street	1	0	0	
+BM	13353871	Somerset Road	primary	18	16	186	
+BM	13353871	West Side Road	unclassified	13	1	106	
+BM	13353871	Middle Road	primary	11	1	42	
+BM	13353871	Malabar Road	primary	9	7	51	
+BM	13353871	Beacon Hill Road	residential	6	1	12	
+BM	13353871	East Shore Road	unclassified	5	13	49	
+BM	13353871	Woodlawn Road	residential	5	3	19	
+BM	13353871	Heydon Drive	residential	4	11	20	
+BM	13353871	Scott's Hill Road	tertiary	4	42	44	
+BM	13353871	Bob's Valley Lane	residential	3	3	29	
+BM	13353871	Cambridge Road	unclassified	3	8	36	
+BM	13353871	Cooks Hill Road	residential	3	18	40	
+BM	13353871	Mangrove Bay Road	primary	3	10	55	
+BM	13353871	Pender Road	primary	3	22	30	
+BM	13353871	Gilbert Lane	residential	2	2	2	
+BM	13353871	Long Bay Lane	unclassified	2	32	43	
+BM	13353871	Paynter Lane	residential	2	3	6	
+BM	13353871	Rushy Lane	residential	2	5	5	
+BM	13353871	Sound View Road	unclassified	2	23	75	
+BM	13353871	Wreck Road	residential	2	1	17	
+BM	13353871	Acacia Lane	residential	1	0	0	
+BM	13353871	Bat-n-Ball Lane	residential	1	0	0	
+BM	13353871	Bay Lane	residential	1	0	0	
+BM	13353871	Beach Road	residential	1	0	0	

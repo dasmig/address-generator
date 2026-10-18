@@ -1,0 +1,3665 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+HN	3600026	10a Avenida	residential	1	0	0	
+HN	3600026	10a Calle Este	residential	1	0	0	
+HN	3600026	10a Calle Oeste	residential	1	0	0	
+HN	3600026	11a Avenida	residential	1	0	0	
+HN	3600026	11a Calle Este	residential	1	0	0	
+HN	3600026	12a Avenida	residential	1	0	0	
+HN	3600026	12a Calle Este	residential	1	0	0	
+HN	3600026	13a Avenida	residential	1	0	0	
+HN	3600026	13a Calle Este	residential	1	0	0	
+HN	3600026	14a Avenida	residential	1	0	0	
+HN	3600026	14a Calle Este	residential	1	0	0	
+HN	3600026	15a Avenida	residential	1	0	0	
+HN	3600026	15a Calle Este	tertiary	1	0	0	
+HN	3600026	16a Avenida	residential	1	0	0	
+HN	3600026	16a Calle Este	tertiary	1	0	0	
+HN	3600026	17a Avenida	residential	1	0	0	
+HN	3600026	17a Calle Este	residential	1	0	0	
+HN	3600026	18a Avenida	residential	1	0	0	
+HN	3600026	18a Calle Este	residential	1	0	0	
+HN	3600026	19a Calle Este	residential	1	0	0	
+HN	3600026	1a Avenida	residential	1	0	0	
+HN	3600026	1a Calle	residential	1	0	0	
+HN	3600026	1ª Avenida Norte	residential	1	0	0	
+HN	3600026	1ª Calle Norte	residential	1	0	0	
+HN	3600026	20a Avenida	residential	1	0	0	
+HN	3600026	20a Calle Este	residential	1	0	0	
+HN	3600026	21a Avenida	residential	1	0	0	
+HN	3600026	21a Calle Este	residential	1	0	0	
+HN	3600026	22a Avenida	residential	1	0	0	
+HN	3600026	22a Calle Este	residential	1	0	0	
+HN	3600026	23a Calle Este	unclassified	1	0	0	
+HN	3600026	2a Avenida	residential	1	0	0	
+HN	3600026	2a Calle Este	residential	1	0	0	
+HN	3600026	2a Calle Oeste	residential	1	0	0	
+HN	3600026	2ª Avenida Norte	residential	1	0	0	
+HN	3600026	2ª Calle Norte	residential	1	0	0	
+HN	3600026	3a Avenida	residential	1	0	0	
+HN	3600026	3a Calle	residential	1	0	0	
+HN	3600026	3a Calle Este	residential	1	0	0	
+HN	3600026	3a Calle Oeste	residential	1	0	0	
+HN	3600026	3ª Avenida Norte	residential	1	0	0	
+HN	3600026	3ª Calle Norte	residential	1	0	0	
+HN	3600026	4a Avenida	residential	1	0	0	
+HN	3600026	4a Calle	residential	1	0	0	
+HN	3600026	4a Calle Este	residential	1	0	0	
+HN	3600026	4a Calle Oeste	residential	1	0	0	
+HN	3600026	4ª Avenida Norte	residential	1	0	0	
+HN	3600026	4ª Calle Norte	residential	1	0	0	
+HN	3600057	Anillo Agricola	primary	1	0	0	
+HN	3600057	Carretera Campamento - Juticalpa	primary	1	0	0	
+HN	3600134	Calle del Ferrocarril	unclassified	1	0	0	
+HN	3600134	Carretera Tocoa - Saba	primary	1	0	0	
+HN	3600134	Zamora - Cayo Sierra	tertiary	1	0	0	
+HN	3600139	Calle Santa Rosita	unclassified	1	0	0	
+HN	3600139	Zambrano - Soroguara	tertiary	1	0	0	
+HN	3600195	10a Avenida SE	residential	1	0	0	
+HN	3600195	10a Avenida SO	residential	1	0	0	
+HN	3600195	10a Calle NO	residential	1	0	0	
+HN	3600195	10a Calle SE	residential	1	0	0	
+HN	3600195	10a Calle SO	residential	1	0	0	
+HN	3600195	11 Avenida SE	residential	1	0	0	
+HN	3600195	11 Avenida SO	residential	1	0	0	
+HN	3600195	11 Calle NO	residential	1	0	0	
+HN	3600195	11 Calle SE	residential	1	0	0	
+HN	3600195	11 Calle SO	residential	1	0	0	
+HN	3600195	12 Avenida SE	residential	1	0	0	
+HN	3600195	12 Avenida SO	residential	1	0	0	
+HN	3600195	12 Calle NO	residential	1	0	0	
+HN	3600195	12 Calle SO	residential	1	0	0	
+HN	3600195	13 Avenida SO	residential	1	0	0	
+HN	3600195	13 Calle NO	residential	1	0	0	
+HN	3600195	13 Calle SO	residential	1	0	0	
+HN	3600195	14 Avenida SO	residential	1	0	0	
+HN	3600195	14 Calle NO	residential	1	0	0	
+HN	3600195	14 Calle SO	residential	1	0	0	
+HN	3600195	15 Avenida SO	residential	1	0	0	
+HN	3600195	15 Calle SO	residential	1	0	0	
+HN	3600195	16 Avenida SO	residential	1	0	0	
+HN	3600195	16 Calle SO	residential	1	0	0	
+HN	3600195	17 Avenida SO	residential	1	0	0	
+HN	3600195	17 Calle SO	residential	1	0	0	
+HN	3600195	18 Calle SO	residential	1	0	0	
+HN	3600195	19 Calle SO	residential	1	0	0	
+HN	3600195	1a Avenida NO	residential	1	0	0	
+HN	3600195	1a Calle Este	residential	1	0	0	
+HN	3600195	1a Calle NO	residential	1	0	0	
+HN	3600195	1a Calle Oeste	residential	1	0	0	
+HN	3600195	20 Calle SO	residential	1	0	0	
+HN	3600195	21 Calle SO	unclassified	1	0	0	
+HN	3600195	2a Avenida NE	residential	1	0	0	
+HN	3600195	2a Avenida NO	residential	1	0	0	
+HN	3600195	2a Avenida SE	residential	1	0	0	
+HN	3600195	2a Avenida SO	residential	1	0	0	
+HN	3600195	2a Calle NE	residential	1	0	0	
+HN	3600195	2a Calle NO	residential	1	0	0	
+HN	3600195	2a Calle SE	residential	1	0	0	
+HN	3600195	2a Calle SO	residential	1	0	0	
+HN	3600195	3a Avenida NE	residential	1	0	0	
+HN	3600195	3a Avenida NO	residential	1	0	0	
+HN	3600195	3a Avenida SE	residential	1	0	0	
+HN	3600195	3a Avenida SO	residential	1	0	0	
+HN	3600195	3a Calle NE	residential	1	0	0	
+HN	3600195	3a Calle NO	residential	1	0	0	
+HN	3600199	Carretera Sulaco - Yorito	secondary	1	0	0	
+HN	3600199	Carretera Yorito - La Trinidad	secondary	1	0	0	
+HN	3600232	Carretera La Paz - CA-5	primary	1	0	0	
+HN	3600254	Carretera La Esperanza - Gracias	primary	1	0	0	
+HN	3600271	Carretera a La Concepción	secondary	1	0	0	
+HN	3600327	10a Calle NE	residential	1	0	0	
+HN	3600327	11 Calle NE	residential	1	0	0	
+HN	3600327	12 Calle NE	residential	1	0	0	
+HN	3600327	13 Calle NE	residential	1	0	0	
+HN	3600327	14 Calle NE	residential	1	0	0	
+HN	3600327	15 Calle NE	residential	1	0	0	
+HN	3600327	16 Calle NE	residential	1	0	0	
+HN	3600327	17 Calle NE	residential	1	0	0	
+HN	3600327	18 Calle NE	residential	1	0	0	
+HN	3600327	19 Calle NE	residential	1	0	0	
+HN	3600327	1a Avenida	residential	1	0	0	
+HN	3600327	1a Avenida NE	residential	1	0	0	
+HN	3600327	1a Avenida NO	residential	1	0	0	
+HN	3600327	1a Avenida SE	residential	1	0	0	
+HN	3600327	1a Avenida SO	residential	1	0	0	
+HN	3600327	1a Calle NE	residential	1	0	0	
+HN	3600327	1a Calle NO	residential	1	0	0	
+HN	3600327	1a Calle SE	residential	1	0	0	
+HN	3600327	1a Calle SO	residential	1	0	0	
+HN	3600327	20 Calle NE	residential	1	0	0	
+HN	3600327	21 Calle NE	residential	1	0	0	
+HN	3600327	22 Calle NE	residential	1	0	0	
+HN	3600327	23 Calle NE	residential	1	0	0	
+HN	3600327	2a Avenida NE	residential	1	0	0	
+HN	3600327	2a Avenida NO	residential	1	0	0	
+HN	3600327	2a Avenida SE	residential	1	0	0	
+HN	3600327	2a Avenida SO	residential	1	0	0	
+HN	3600327	2a Calle NE	residential	1	0	0	
+HN	3600327	2a Calle NO	tertiary	1	0	0	
+HN	3600327	2a Calle SE	residential	1	0	0	
+HN	3600327	2a Calle SO	residential	1	0	0	
+HN	3600327	3a Avenida NO	residential	1	0	0	
+HN	3600327	3a Avenida SE	residential	1	0	0	
+HN	3600327	3a Avenida SO	residential	1	0	0	
+HN	3600327	3a Calle NE	residential	1	0	0	
+HN	3600327	3a Calle NO	residential	1	0	0	
+HN	3600327	3a Calle SE	residential	1	0	0	
+HN	3600327	3a Calle SO	residential	1	0	0	
+HN	3600327	4a Avenida NE	residential	1	0	0	
+HN	3600327	4a Avenida NO	residential	1	0	0	
+HN	3600327	4a Avenida SE	residential	1	0	0	
+HN	3600327	4a Avenida SO	residential	1	0	0	
+HN	3600327	4a Calle NE	residential	1	0	0	
+HN	3600327	4a Calle NO	residential	1	0	0	
+HN	3600327	4a Calle SE	residential	1	0	0	
+HN	3600327	4a Calle SO	residential	1	0	0	
+HN	3600327	5a Avenida NO	residential	1	0	0	
+HN	3600327	5a Avenida SE	residential	1	0	0	
+HN	3600328	Calle Quintas del Rosal	living_street	1	0	0	
+HN	3600328	Calle del Centro de Salud Aldea Villa Nueva	living_street	1	0	0	
+HN	3600328	Calle principal hacia linaca	unclassified	1	0	0	
+HN	3600328	Calle sin salida	residential	1	0	0	
+HN	3600328	Carretera La Puerta - Las Trancas	tertiary	1	0	0	
+HN	3600328	Carretera Tatumbla - Los Arados - El Estero	tertiary	1	0	0	
+HN	3600328	Carretera a Tatumbla	secondary	1	0	0	
+HN	3600328	calle menor	unclassified	1	0	0	
+HN	3600340	10a Avenida NE	residential	1	0	0	
+HN	3600340	10a Calle NO	residential	1	0	0	
+HN	3600340	1a Avenida NE	residential	1	0	0	
+HN	3600340	1a Avenida NO	residential	1	0	0	
+HN	3600340	1a Avenida SE	residential	1	0	0	
+HN	3600340	1a Avenida SO	residential	1	0	0	
+HN	3600340	1a Calle NE	residential	1	0	0	
+HN	3600340	1a Calle NO	residential	1	0	0	
+HN	3600340	1a Calle SE	residential	1	0	0	
+HN	3600340	1a Calle SO	residential	1	0	0	
+HN	3600340	2a Avenida NE	residential	1	0	0	
+HN	3600340	2a Avenida NO	residential	1	0	0	
+HN	3600340	2a Avenida SE	residential	1	0	0	
+HN	3600340	2a Avenida SO	residential	1	0	0	
+HN	3600340	2a Calle NE	residential	1	0	0	
+HN	3600340	2a Calle NO	residential	1	0	0	
+HN	3600340	2a Calle SE	residential	1	0	0	
+HN	3600340	3a Avenida NE	residential	1	0	0	
+HN	3600340	3a Avenida NO	residential	1	0	0	
+HN	3600340	3a Avenida SE	residential	1	0	0	
+HN	3600340	3a Calle NE	residential	1	0	0	
+HN	3600340	3a Calle NO	residential	1	0	0	
+HN	3600340	4a Avenida NE	residential	1	0	0	
+HN	3600340	4a Avenida SE	residential	1	0	0	
+HN	3600357	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3600357	Carretera a San José	tertiary	1	0	0	
+HN	3600382	1a Avenida NE	residential	1	0	0	
+HN	3600382	1a Avenida NO	residential	1	0	0	
+HN	3600382	1a Avenida SE	residential	1	0	0	
+HN	3600382	1a Avenida SO	residential	1	0	0	
+HN	3600382	1a Calle NE	tertiary	1	0	0	
+HN	3600382	1a Calle NO	residential	1	0	0	
+HN	3600382	1a Calle SE	residential	1	0	0	
+HN	3600382	1a Calle SO	residential	1	0	0	
+HN	3600382	2a Avenida NE	residential	1	0	0	
+HN	3600382	2a Avenida NO	residential	1	0	0	
+HN	3600382	2a Avenida SE	residential	1	0	0	
+HN	3600382	2a Avenida SO	residential	1	0	0	
+HN	3600422	Calle Bella Vista	residential	1	0	0	
+HN	3600422	Calle Hacia El Sauce	unclassified	1	0	0	
+HN	3600422	Calle al Campo Scout / El Molino	unclassified	1	0	0	
+HN	3600422	Calle de la Cruz	unclassified	1	0	0	
+HN	3600422	Calle de Ángeles	residential	1	0	0	
+HN	3600422	Carretera Tegucigalpa - Valle de Ángeles	secondary	1	0	0	
+HN	3600422	V-828	unclassified	1	0	0	
+HN	3600450	Vallecito - San José De La Mora	tertiary	1	0	0	
+HN	3600591	10a Avenida Oeste	residential	1	0	0	
+HN	3600591	10a Calle	residential	1	0	0	
+HN	3600591	11a Calle	residential	1	0	0	
+HN	3600591	12a Calle	residential	1	0	0	
+HN	3600591	13a Calle	residential	1	0	0	
+HN	3600591	14a Calle	residential	1	0	0	
+HN	3600591	15a Calle	residential	1	0	0	
+HN	3600591	1a Avenida	tertiary	1	0	0	
+HN	3600591	1a Avenida Este	residential	1	0	0	
+HN	3600591	1a Avenida Oeste	tertiary	1	0	0	
+HN	3600591	1a Calle	primary	1	0	0	
+HN	3600591	2a Avenida Este	residential	1	0	0	
+HN	3600591	2a Avenida Oeste	tertiary	1	0	0	
+HN	3600591	2a Calle	residential	1	0	0	
+HN	3600591	3a Avenida Este	residential	1	0	0	
+HN	3600591	3a Avenida Oeste	residential	1	0	0	
+HN	3600591	3a Calle	residential	1	0	0	
+HN	3600591	4a Avenida Este	residential	1	0	0	
+HN	3600591	4a Avenida Oeste	residential	1	0	0	
+HN	3600591	4a Calle	residential	1	0	0	
+HN	3600591	5a Avenida Este	residential	1	0	0	
+HN	3600591	5a Avenida Oeste	residential	1	0	0	
+HN	3600591	5a Calle	residential	1	0	0	
+HN	3600591	6a Avenida Este	residential	1	0	0	
+HN	3600598	Carretera a Arenal	secondary	1	0	0	
+HN	3600598	Carretera a Nombre de Jesús	tertiary	1	0	0	
+HN	3600605	1a Avenida NE	residential	1	0	0	
+HN	3600605	1a Avenida NO	residential	1	0	0	
+HN	3600605	1a Avenida SO	residential	1	0	0	
+HN	3600605	1a Calle NE	residential	1	0	0	
+HN	3600605	1a Calle SE	residential	1	0	0	
+HN	3600605	1a Calle SO	residential	1	0	0	
+HN	3600605	2a Avenida NE	residential	1	0	0	
+HN	3600605	2a Avenida NO	residential	1	0	0	
+HN	3600605	2a Avenida SE	residential	1	0	0	
+HN	3600605	2a Avenida SO	residential	1	0	0	
+HN	3600605	2a Calle NE	residential	1	0	0	
+HN	3600605	2a Calle NO	residential	1	0	0	
+HN	3600608	Bulevar Constantino Herrera López	secondary	1	0	0	
+HN	3600608	Carretera Ceibita - Santa Bárbara	secondary	1	0	0	
+HN	3600608	Carretera San Pedro Sula - Santa Bárbara	secondary	1	0	0	
+HN	3600608	Trinidad - El Corozal	tertiary	1	0	0	
+HN	3600626	Camino Bajamar	tertiary	1	0	0	
+HN	3600629	El Oro -Trascerros	tertiary	1	0	0	
+HN	3600629	El ermitaño - El Oro	tertiary	1	0	0	
+HN	3600629	Piladeros - Trascerros	tertiary	1	0	0	
+HN	3600642	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3600662	Acceso Zona Americana San Alejo	living_street	1	0	0	
+HN	3600662	Calle Antigua Línea de Ferrocarril	unclassified	1	0	0	
+HN	3600662	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3600662	Carretera Indura	tertiary	1	0	0	
+HN	3600662	La Mulera - Moregen	tertiary	1	0	0	
+HN	3600662	Puente	unclassified	1	0	0	
+HN	3600704	Prolongacion 2a. Calle NE		2	1636	1650	
+HN	3600704	10a Avenida NE	residential	1	0	0	
+HN	3600704	10a Avenida SE	residential	1	0	0	
+HN	3600704	10a Calle NO	residential	1	0	0	
+HN	3600704	10a Calle SE	residential	1	0	0	
+HN	3600704	10a Calle SO	residential	1	0	0	
+HN	3600704	11 Avenida NE	residential	1	0	0	
+HN	3600704	11 Avenida SE	residential	1	0	0	
+HN	3600704	11 Calle NE	residential	1	0	0	
+HN	3600704	11 Calle NO	residential	1	0	0	
+HN	3600704	11 Calle SE	residential	1	0	0	
+HN	3600704	11 Calle SO	residential	1	0	0	
+HN	3600704	12 Avenida NE	residential	1	0	0	
+HN	3600704	12 Avenida SE	residential	1	0	0	
+HN	3600704	12 Calle NE	residential	1	0	0	
+HN	3600704	12 Calle NO	residential	1	0	0	
+HN	3600704	12 Calle SE	residential	1	0	0	
+HN	3600704	12 Calle SO	residential	1	0	0	
+HN	3600704	13 Avenida NE	residential	1	0	0	
+HN	3600704	13 Avenida SE	residential	1	0	0	
+HN	3600704	13 Calle NE	residential	1	0	0	
+HN	3600704	13 Calle NO	residential	1	0	0	
+HN	3600704	13 Calle SE	residential	1	0	0	
+HN	3600704	13 Calle SO	residential	1	0	0	
+HN	3600704	14 Avenida NE	residential	1	0	0	
+HN	3600704	14 Avenida SE	residential	1	0	0	
+HN	3600704	14 Calle NE	residential	1	0	0	
+HN	3600704	14 Calle NO	residential	1	0	0	
+HN	3600704	14 Calle SE	residential	1	0	0	
+HN	3600704	14 Calle SO	residential	1	0	0	
+HN	3600704	15 Avenida NE	residential	1	0	0	
+HN	3600704	15 Avenida SE	residential	1	0	0	
+HN	3600704	15 Calle NO	residential	1	0	0	
+HN	3600704	16 Avenida NE	residential	1	0	0	
+HN	3600704	16 Avenida SE	residential	1	0	0	
+HN	3600704	16 Calle NO	residential	1	0	0	
+HN	3600704	17 Avenida NE	residential	1	0	0	
+HN	3600704	17 Avenida SE	residential	1	0	0	
+HN	3600704	17 Calle NO	residential	1	0	0	
+HN	3600704	18 Avenida NE	residential	1	0	0	
+HN	3600704	18 Avenida SE	residential	1	0	0	
+HN	3600704	18 Calle NO	residential	1	0	0	
+HN	3600704	19 Avenida NE	residential	1	0	0	
+HN	3600704	19 Avenida SE	residential	1	0	0	
+HN	3600704	19 Calle NO	residential	1	0	0	
+HN	3600704	1a Avenida NE	residential	1	0	0	
+HN	3600704	1a Avenida NO	residential	1	0	0	
+HN	3600704	1a Avenida SE	residential	1	0	0	
+HN	3600841	10a Avenida SE	residential	1	0	0	
+HN	3600841	1a Avenida NE	residential	1	0	0	
+HN	3600841	1a Avenida NO	residential	1	0	0	
+HN	3600841	1a Avenida SE	residential	1	0	0	
+HN	3600841	1a Avenida SO	residential	1	0	0	
+HN	3600841	1a Calle NE	residential	1	0	0	
+HN	3600841	1a Calle NO	residential	1	0	0	
+HN	3600841	1a Calle SE	residential	1	0	0	
+HN	3600841	1a Calle SO	residential	1	0	0	
+HN	3600841	2a Avenida NE	residential	1	0	0	
+HN	3600841	2a Avenida NO	residential	1	0	0	
+HN	3600841	2a Avenida SE	residential	1	0	0	
+HN	3600906	La Paz	residential	1	0	0	
+HN	3600931	10a Avenida NE	residential	1	0	0	
+HN	3600931	10a Avenida SE	residential	1	0	0	
+HN	3600931	10a Calle NE	residential	1	0	0	
+HN	3600931	10a Calle NO	residential	1	0	0	
+HN	3600931	11 Avenida NE	residential	1	0	0	
+HN	3600931	11 Avenida SE	residential	1	0	0	
+HN	3600931	11 Calle NE	tertiary	1	0	0	
+HN	3600931	11 Calle NO	secondary	1	0	0	
+HN	3600931	12 Avenida NE	residential	1	0	0	
+HN	3600931	12 Avenida SE	residential	1	0	0	
+HN	3600931	13 Avenida NE	residential	1	0	0	
+HN	3600931	13 Avenida SE	residential	1	0	0	
+HN	3600931	14 Avenida NE	residential	1	0	0	
+HN	3600931	14 Avenida SE	residential	1	0	0	
+HN	3600931	15 Avenida NE	residential	1	0	0	
+HN	3600931	15 Avenida SE	residential	1	0	0	
+HN	3600931	16 Avenida NE	tertiary	1	0	0	
+HN	3600931	16 Avenida SE	residential	1	0	0	
+HN	3600931	17 Avenida NE	residential	1	0	0	
+HN	3600931	17 Avenida SE	residential	1	0	0	
+HN	3600931	18 Avenida NE	tertiary	1	0	0	
+HN	3600931	18 Avenida SE	tertiary	1	0	0	
+HN	3600931	19 Avenida SE	residential	1	0	0	
+HN	3600931	1a Avenida NE	residential	1	0	0	
+HN	3600931	1a Avenida SE	residential	1	0	0	
+HN	3600931	1a Calle Este	residential	1	0	0	
+HN	3600931	1a Calle SE	residential	1	0	0	
+HN	3600931	2a Avenida NE	secondary	1	0	0	
+HN	3600931	2a Avenida SE	secondary	1	0	0	
+HN	3600931	2a Calle NE	residential	1	0	0	
+HN	3600931	2a Calle SE	residential	1	0	0	
+HN	3600931	3a Avenida NE	residential	1	0	0	
+HN	3600931	3a Avenida SE	residential	1	0	0	
+HN	3600931	3a Calle NE	residential	1	0	0	
+HN	3600931	3a Calle SE	residential	1	0	0	
+HN	3600931	4a Avenida NE	residential	1	0	0	
+HN	3600931	4a Avenida SE	residential	1	0	0	
+HN	3600931	4a Calle NE	residential	1	0	0	
+HN	3600931	4a Calle SE	residential	1	0	0	
+HN	3600931	5a Avenida NE	residential	1	0	0	
+HN	3600931	5a Avenida SE	residential	1	0	0	
+HN	3600931	5a Calle NE	residential	1	0	0	
+HN	3600931	6a Avenida NE	residential	1	0	0	
+HN	3600931	6a Avenida SE	residential	1	0	0	
+HN	3600931	6a Calle NE	residential	1	0	0	
+HN	3600931	6a Calle SE	residential	1	0	0	
+HN	3600931	7a Avenida NE	tertiary	1	0	0	
+HN	3600931	7a Calle NE	residential	1	0	0	
+HN	3600949	Calle Praga	residential	19	18	4265	
+HN	3600949	Calle Madrid	residential	13	21	4166	
+HN	3600949	Paseo Los Laureles	tertiary	12	1	12	
+HN	3600949	Calle Moscu		11	7	4161	
+HN	3600949	Calle Santa Bárbara	residential	10	2	3554	
+HN	3600949	Calle Malmo	residential	7	1243	4107	
+HN	3600949	Calle Paris		7	4001	4146	
+HN	3600949	Avenida Paraguay	residential	5	28	1554	
+HN	3600949	CALLE PRINCIPAL		5	0	0	
+HN	3600949	Paseo San Francisco	tertiary	5	1	2	
+HN	3600949	1ra Calle		4	31	3701	
+HN	3600949	Calle Francisco Morazan		4	3101	3456	
+HN	3600949	PRINCIPAL		4	0	0	
+HN	3600949	2da Avenida		3	1	4102	
+HN	3600949	4ta Avenida		3	2561	3502	
+HN	3600949	4ta Calle		3	3715	3911	
+HN	3600949	Avenida Juan Lindo	tertiary	3	421	715	
+HN	3600949	Avenida Miguel Cervantes		3	1012	2338	
+HN	3600949	Avenida Niza	residential	3	1201	4002	
+HN	3600949	Avenida San Martín De Porres		3	213	223	
+HN	3600949	Blv Fuerzas Armadas		3	0	0	
+HN	3600949	Bulevar Fuerzas Armadas		3	0	0	
+HN	3600949	Calle Principal	tertiary	3	0	0	
+HN	3600949	Calle Principal Col. Villa Adela		3	19	19	
+HN	3600949	Calzada Cipres		3	3312	3354	
+HN	3600949	Calzada Llama Del Bosque		3	533	555	
+HN	3600949	Paseo San Ignacio	residential	3	36	2232	
+HN	3600949	Primera Entrada Kennedy		3	1	4502	
+HN	3600949	4a Calle	residential	2	3308	3392	
+HN	3600949	5 calle		2	1	1	
+HN	3600949	Avenida La Paz	secondary	2	0	0	
+HN	3600949	Avenida Miguel de Cervantes	residential	2	1515	1515	
+HN	3600949	Avenida San Carlos	residential	2	427	437	
+HN	3600949	Boulevard Francia	residential	2	1910	2402	
+HN	3600949	Bulevar Suyapa	primary	2	2583	4402	
+HN	3600949	Calle Froylan Turcios	tertiary	2	2144	2301	
+HN	3600949	Calle Roma	residential	2	1014	4160	
+HN	3600949	Calle Yoro	residential	2	2341	2403	
+HN	3600949	Calle la Hermita		2	468	468	
+HN	3600949	Carretera del Sur		2	0	0	
+HN	3600949	Republica de Argentina		2	302	327	
+HN	3600949	0 Avenida	residential	1	0	0	
+HN	3600949	10a Avenida	residential	1	0	0	
+HN	3600949	10a Avenida Sur	residential	1	0	0	
+HN	3600949	10a Calle	residential	1	0	0	
+HN	3600949	10a Calle Norte	residential	1	0	0	
+HN	3600949	10a Calle Sur	residential	1	0	0	
+HN	3600949	11 Avenida	residential	1	0	0	
+HN	3600949	11 Avenida Calle Norte	residential	1	0	0	
+HN	3600949	11 Avenida Calle Sur	residential	1	0	0	
+HN	3600949	11 Calle	residential	1	0	0	
+HN	3600949	11 Calle B	residential	1	0	0	
+HN	3600949	12 Avenida	residential	1	0	0	
+HN	3600949	12 Avenida Calle Norte	residential	1	0	0	
+HN	3600949	12 Avenida Calle Sur	residential	1	0	0	
+HN	3600949	12 Calle	residential	1	0	0	
+HN	3600949	13 Avenida	residential	1	0	0	
+HN	3600949	13 Avenida B	living_street	1	0	0	
+HN	3600949	13 Avenida Calle Norte	residential	1	0	0	
+HN	3600949	13 Avenida Calle Sur	residential	1	0	0	
+HN	3600949	13 Calle	residential	1	0	0	
+HN	3600949	14 Avenida	residential	1	0	0	
+HN	3600949	14 Avenida B	residential	1	0	0	
+HN	3600949	14 Avenida Calle Norte	residential	1	0	0	
+HN	3600949	14 Calle	residential	1	0	0	
+HN	3600949	14 Calle B	residential	1	0	0	
+HN	3600949	15 Avenida	residential	1	0	0	
+HN	3600949	15 Avenida Calle Norte	residential	1	0	0	
+HN	3600949	15 Calle	residential	1	0	0	
+HN	3600949	16 Avenida	residential	1	0	0	
+HN	3600949	16 Calle	residential	1	0	0	
+HN	3600949	16 Calzada	residential	1	0	0	
+HN	3600949	16 Calzada B	residential	1	0	0	
+HN	3600949	17 Avenida	residential	1	0	0	
+HN	3600949	17 Calle	residential	1	0	0	
+HN	3600949	18 Avenida	residential	1	0	0	
+HN	3600949	18 Avenida B	residential	1	0	0	
+HN	3600949	18 Calle	residential	1	0	0	
+HN	3600949	18 Calle B	residential	1	0	0	
+HN	3600949	19 Avenida	residential	1	0	0	
+HN	3600949	19 Avenida B	residential	1	0	0	
+HN	3600949	19 Calle	residential	1	0	0	
+HN	3600949	1a Avenida	residential	1	0	0	
+HN	3600949	1a Avenida Sur	residential	1	0	0	
+HN	3600949	1a Calle	residential	1	0	0	
+HN	3600949	1a Calle B	residential	1	0	0	
+HN	3600949	1a Calle Este	residential	1	0	0	
+HN	3600949	1a Calle Norte	residential	1	0	0	
+HN	3600949	1a Calle SO	residential	1	0	0	
+HN	3600949	20 Calle	residential	1	0	0	
+HN	3600949	21 Avenida	residential	1	0	0	
+HN	3600949	21 Calle	residential	1	0	0	
+HN	3600949	22 Avenida	residential	1	0	0	
+HN	3600949	22 Calle	residential	1	0	0	
+HN	3600949	23 Avenida	residential	1	0	0	
+HN	3600949	23 Calle	residential	1	0	0	
+HN	3600949	23 Calle B	residential	1	0	0	
+HN	3600949	24 Avenida	residential	1	0	0	
+HN	3600949	24 Calle	residential	1	0	0	
+HN	3600949	24 Calle B	residential	1	0	0	
+HN	3600949	25 Avenida	residential	1	0	0	
+HN	3600949	25 Avenida B	residential	1	0	0	
+HN	3600949	25 Calle	residential	1	0	0	
+HN	3600949	25 Calle B	residential	1	0	0	
+HN	3600949	26 Avenida	residential	1	0	0	
+HN	3600949	26 Calle	residential	1	0	0	
+HN	3600949	26vo Sendero	residential	1	0	0	
+HN	3600949	27 Avenida	residential	1	0	0	
+HN	3600949	27 Calle	residential	1	0	0	
+HN	3600949	27 Calle B	residential	1	0	0	
+HN	3600949	28 Calle	residential	1	0	0	
+HN	3600949	29 Calle	residential	1	0	0	
+HN	3600949	2a Avenida	residential	1	0	0	
+HN	3600949	2a Avenida Este	residential	1	0	0	
+HN	3600949	2a Avenida SO	residential	1	0	0	
+HN	3600949	2a Avenida Sur	residential	1	0	0	
+HN	3600949	2a Calle	residential	1	0	0	
+HN	3600949	2a Calle B	residential	1	0	0	
+HN	3600949	2a Calle Este	residential	1	0	0	
+HN	3600949	2a Calle Norte	residential	1	0	0	
+HN	3600949	2a Calle SO	residential	1	0	0	
+HN	3600949	30 Calle	residential	1	0	0	
+HN	3600949	31 Calle	residential	1	0	0	
+HN	3600949	32 Calle	residential	1	0	0	
+HN	3600949	33 Calle	residential	1	0	0	
+HN	3600949	34 Avenida	residential	1	0	0	
+HN	3600949	34 Calle	residential	1	0	0	
+HN	3600949	35 Avenida	residential	1	0	0	
+HN	3600949	35 Calle	residential	1	0	0	
+HN	3600949	36 Avenida	residential	1	0	0	
+HN	3600949	36 Calle	residential	1	0	0	
+HN	3600949	37 Avenida	residential	1	0	0	
+HN	3600949	37 Calle	residential	1	0	0	
+HN	3600949	38a Avenida	residential	1	0	0	
+HN	3600949	39 Avenida	residential	1	0	0	
+HN	3600949	3a Avenida	residential	1	0	0	
+HN	3600949	3a Avenida B	residential	1	0	0	
+HN	3600949	3a Avenida Este	secondary	1	0	0	
+HN	3600949	3a Avenida Norte	residential	1	0	0	
+HN	3600949	3a Avenida SO	residential	1	0	0	
+HN	3600949	3a Avenida Sur	residential	1	0	0	
+HN	3600949	3a Calle	residential	1	0	0	
+HN	3600949	3a Calle Este	residential	1	0	0	
+HN	3600949	3a Calle Norte	residential	1	0	0	
+HN	3600949	3a Calle SO	residential	1	0	0	
+HN	3600949	3a Calle Sur	residential	1	0	0	
+HN	3600949	40 Avenida	residential	1	0	0	
+HN	3600949	41 Calle	residential	1	0	0	
+HN	3600949	42 Calle	residential	1	0	0	
+HN	3600949	4a Avenida	residential	1	0	0	
+HN	3600949	4a Avenida Este	residential	1	0	0	
+HN	3600949	4a Avenida Norte	residential	1	0	0	
+HN	3600949	4a Avenida Sur	residential	1	0	0	
+HN	3600949	4a Calle B	residential	1	0	0	
+HN	3600949	4a Calle Este	residential	1	0	0	
+HN	3600949	4a Calle Norte	residential	1	0	0	
+HN	3600949	4a Calle SO	residential	1	0	0	
+HN	3600949	4a Calle Sur	residential	1	0	0	
+HN	3600949	52 Calle	residential	1	0	0	
+HN	3600949	53 Calle	residential	1	0	0	
+HN	3600949	53 Calle B	residential	1	0	0	
+HN	3600949	54 Calle	residential	1	0	0	
+HN	3600949	55 Calle	residential	1	0	0	
+HN	3600949	55 Calle B	residential	1	0	0	
+HN	3600949	56 Calle	residential	1	0	0	
+HN	3600949	56 Calle B	residential	1	0	0	
+HN	3600949	57 Calle	residential	1	0	0	
+HN	3600949	57 Calle B	residential	1	0	0	
+HN	3600949	58 Calle	residential	1	0	0	
+HN	3600949	59 Calle	residential	1	0	0	
+HN	3600949	59 Calle B	residential	1	0	0	
+HN	3600949	5a Avenida	residential	1	0	0	
+HN	3600949	5a Avenida Este	residential	1	0	0	
+HN	3600949	5a Avenida Norte	residential	1	0	0	
+HN	3600949	5a Avenida SO	residential	1	0	0	
+HN	3600949	5a Avenida Sur	residential	1	0	0	
+HN	3600949	5a Calle	residential	1	0	0	
+HN	3600949	5a Calle B	residential	1	0	0	
+HN	3600949	5a Calle Este	residential	1	0	0	
+HN	3600949	5a Calle Norte	residential	1	0	0	
+HN	3600949	5a Calle SO	residential	1	0	0	
+HN	3600949	5a Calle Sur	residential	1	0	0	
+HN	3600949	61 Calle	residential	1	0	0	
+HN	3600949	62 Calle	residential	1	0	0	
+HN	3600949	63 Calle	residential	1	0	0	
+HN	3600949	64 Calle	residential	1	0	0	
+HN	3600949	65 Calle	residential	1	0	0	
+HN	3600949	69 Calle	residential	1	0	0	
+HN	3600949	6a Avenida	residential	1	0	0	
+HN	3600949	6a Avenida Este	residential	1	0	0	
+HN	3600949	6a Avenida O	residential	1	0	0	
+HN	3600949	6a Avenida SO	residential	1	0	0	
+HN	3600949	6a Avenida Sur	residential	1	0	0	
+HN	3600949	6a Calle	residential	1	0	0	
+HN	3600949	6a Calle Norte	residential	1	0	0	
+HN	3600949	6a Calle SO	residential	1	0	0	
+HN	3600949	7a Avenida	residential	1	0	0	
+HN	3600949	7a Avenida Este	residential	1	0	0	
+HN	3600949	7a Avenida Sur	residential	1	0	0	
+HN	3600949	7a Calle	residential	1	0	0	
+HN	3600966	10a Avenida NE	residential	1	0	0	
+HN	3600966	11 Avenida NE	residential	1	0	0	
+HN	3600966	1a Avenida NE	residential	1	0	0	
+HN	3600966	1a Avenida NO	residential	1	0	0	
+HN	3600966	1a Avenida SE	residential	1	0	0	
+HN	3600966	1a Avenida SO	residential	1	0	0	
+HN	3600966	1a Calle NE	residential	1	0	0	
+HN	3600966	1a Calle NO	residential	1	0	0	
+HN	3600966	1a Calle SE	residential	1	0	0	
+HN	3600966	1a Calle SO	residential	1	0	0	
+HN	3600966	2a Avenida NE	residential	1	0	0	
+HN	3600966	2a Avenida NO	residential	1	0	0	
+HN	3600969	Carretera Tocoa - Corocito	primary	1	0	0	
+HN	3601039	Camino Los Altos	residential	1	0	0	
+HN	3601039	Pasaje Los Mendoza	residential	1	0	0	
+HN	3601072	Calle Residencial	residential	1	0	0	
+HN	3601072	Carretera Talanga - Cedros	primary	1	0	0	
+HN	3601072	Carretera Talanga - Guaimaca	primary	1	0	0	
+HN	3601072	Carretera Tegucigalpa - Talanga	primary	1	0	0	
+HN	3601072	Residencial	residential	1	0	0	
+HN	3601159	10a Avenida NE	residential	1	0	0	
+HN	3601159	10a Avenida SE	residential	1	0	0	
+HN	3601159	10a Calle NE	residential	1	0	0	
+HN	3601159	1a Avenida NE	residential	1	0	0	
+HN	3601159	1a Avenida SE	residential	1	0	0	
+HN	3601159	1a Avenida SO	residential	1	0	0	
+HN	3601159	1a Calle NE	residential	1	0	0	
+HN	3601159	1a Calle NO	residential	1	0	0	
+HN	3601159	1a Calle SE	residential	1	0	0	
+HN	3601159	1a Calle SO	residential	1	0	0	
+HN	3601159	2a Avenida NE	residential	1	0	0	
+HN	3601159	2a Avenida NO	residential	1	0	0	
+HN	3601179	Carretera Yoro - Morazan	primary	1	0	0	
+HN	3601179	Desvio a Subirana	tertiary	1	0	0	
+HN	3601282	Barrio El Calvario	residential	1	0	0	
+HN	3601282	Barrio el Carmen	residential	1	0	0	
+HN	3601282	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3601282	Carretera Ocotepeque - El Poy	primary	1	0	0	
+HN	3601311	2 Avenida SE		2	404	425	
+HN	3601311	3 Avenida NE		2	414	478	
+HN	3601311	10a Avenida NO	residential	1	0	0	
+HN	3601311	10a Avenida SE	residential	1	0	0	
+HN	3601311	10a Avenida SO	residential	1	0	0	
+HN	3601311	10a Calle NE	residential	1	0	0	
+HN	3601311	10a Calle NO	residential	1	0	0	
+HN	3601311	10a Calle SO	residential	1	0	0	
+HN	3601311	11 Avenida NE	residential	1	0	0	
+HN	3601311	11 Avenida NO	residential	1	0	0	
+HN	3601311	11 Avenida SE	residential	1	0	0	
+HN	3601311	11 Avenida SO	residential	1	0	0	
+HN	3601311	11 Calle NE	residential	1	0	0	
+HN	3601311	11 Calle NO	tertiary	1	0	0	
+HN	3601311	11 Calle SO	residential	1	0	0	
+HN	3601311	11a Calle NO	residential	1	0	0	
+HN	3601311	12 Avenida NO	residential	1	0	0	
+HN	3601311	12 Avenida SE	residential	1	0	0	
+HN	3601311	12 Avenida SO	tertiary	1	0	0	
+HN	3601311	12 Calle NE	residential	1	0	0	
+HN	3601311	12 Calle SO	residential	1	0	0	
+HN	3601311	13 Avenida NO	residential	1	0	0	
+HN	3601311	13 Avenida SO	residential	1	0	0	
+HN	3601311	13 Calle NE	residential	1	0	0	
+HN	3601311	14 Avenida NO	residential	1	0	0	
+HN	3601311	14 Avenida SO	residential	1	0	0	
+HN	3601311	14 Calle NE	residential	1	0	0	
+HN	3601311	15 Avenida NO	residential	1	0	0	
+HN	3601311	15 Avenida SO	residential	1	0	0	
+HN	3601311	15 Calle NE	residential	1	0	0	
+HN	3601311	16 Avenida NO	residential	1	0	0	
+HN	3601311	16 Avenida SO	residential	1	0	0	
+HN	3601311	17 Avenida NO	residential	1	0	0	
+HN	3601311	18 Avenida NO	residential	1	0	0	
+HN	3601311	18 Avenida SO	residential	1	0	0	
+HN	3601311	19 Avenida NO	residential	1	0	0	
+HN	3601311	19 Avenida SO	residential	1	0	0	
+HN	3601311	1a Avenida NE	residential	1	0	0	
+HN	3601311	1a Avenida NO	residential	1	0	0	
+HN	3601311	1a Avenida SE	residential	1	0	0	
+HN	3601311	1a Avenida SO	residential	1	0	0	
+HN	3601311	1a Calle NE	residential	1	0	0	
+HN	3601311	1a Calle NO	residential	1	0	0	
+HN	3601311	1a Calle SE	residential	1	0	0	
+HN	3601311	1a Calle SO	residential	1	0	0	
+HN	3601311	20 Avenida NO	residential	1	0	0	
+HN	3601311	20 Avenida SO	residential	1	0	0	
+HN	3601311	21 Avenida NO	residential	1	0	0	
+HN	3601367	Gualtaya - Platanares	tertiary	1	0	0	
+HN	3601367	Sensenti - Gualtaya	tertiary	1	0	0	
+HN	3601403	10a Avenida NE	residential	1	0	0	
+HN	3601403	10a Calle SE	residential	1	0	0	
+HN	3601403	10a Calle SO	residential	1	0	0	
+HN	3601403	11 Avenida NE	residential	1	0	0	
+HN	3601403	11 Calle SO	residential	1	0	0	
+HN	3601403	12 Avenida NE	residential	1	0	0	
+HN	3601403	12 Calle SO	residential	1	0	0	
+HN	3601403	13 Avenida NE	residential	1	0	0	
+HN	3601403	13 Avenida SE	residential	1	0	0	
+HN	3601403	13 Calle SE	residential	1	0	0	
+HN	3601403	13 Calle SO	residential	1	0	0	
+HN	3601403	14 Avenida NE	residential	1	0	0	
+HN	3601403	14 Avenida SE	residential	1	0	0	
+HN	3601403	14 Calle SO	residential	1	0	0	
+HN	3601403	15 Avenida NE	residential	1	0	0	
+HN	3601403	15 Avenida SE	residential	1	0	0	
+HN	3601403	15 Calle SO	residential	1	0	0	
+HN	3601403	16 Avenida NE	residential	1	0	0	
+HN	3601403	16 Calle SO	residential	1	0	0	
+HN	3601403	17 Aenida SE	residential	1	0	0	
+HN	3601403	18 Avenida SE	residential	1	0	0	
+HN	3601403	1a Avenida NE	residential	1	0	0	
+HN	3601403	1a Avenida NO	residential	1	0	0	
+HN	3601403	1a Avenida SE	residential	1	0	0	
+HN	3601462	10a Avenida NE	residential	1	0	0	
+HN	3601462	10a Avenida SE	residential	1	0	0	
+HN	3601462	10a Calle NE	residential	1	0	0	
+HN	3601462	1a Avenida NE	residential	1	0	0	
+HN	3601462	1a Avenida NO	residential	1	0	0	
+HN	3601462	1a Avenida SE	residential	1	0	0	
+HN	3601462	1a Avenida SO	residential	1	0	0	
+HN	3601462	1a Calle NE	residential	1	0	0	
+HN	3601462	1a Calle SE	residential	1	0	0	
+HN	3601462	1a Calle SO	residential	1	0	0	
+HN	3601462	2a Avenida NE	residential	1	0	0	
+HN	3601462	2a Avenida NO	residential	1	0	0	
+HN	3601494	10a Avenida NO	residential	1	0	0	
+HN	3601494	10a Avenida SO	residential	1	0	0	
+HN	3601494	10a Calle NE	residential	1	0	0	
+HN	3601494	10a Calle NO	residential	1	0	0	
+HN	3601494	10a Calle SE	residential	1	0	0	
+HN	3601494	11 Avenida NO	tertiary	1	0	0	
+HN	3601494	11 Avenida SO	residential	1	0	0	
+HN	3601494	11a Avenida NO	residential	1	0	0	
+HN	3601494	12 Avenida SO	residential	1	0	0	
+HN	3601494	12a Avenida NO	residential	1	0	0	
+HN	3601494	13 Avenida SO	residential	1	0	0	
+HN	3601494	13a Avenida NO	residential	1	0	0	
+HN	3601494	14a Avenida NO	residential	1	0	0	
+HN	3601494	15a Avenida NO	residential	1	0	0	
+HN	3601494	16a Avenida NO	residential	1	0	0	
+HN	3601494	1a Calle SO	residential	1	0	0	
+HN	3601494	1ra Avenida	residential	1	0	0	
+HN	3601494	1ra Calle	residential	1	0	0	
+HN	3601494	2a Avenida	residential	1	0	0	
+HN	3601494	2a Calle E	residential	1	0	0	
+HN	3601494	2a Calle O	residential	1	0	0	
+HN	3601494	3a Calle E	residential	1	0	0	
+HN	3601494	3a Calle NO	residential	1	0	0	
+HN	3601494	3ra Avenida	residential	1	0	0	
+HN	3601494	4a Ave	residential	1	0	0	
+HN	3601494	4a Avenida NE	residential	1	0	0	
+HN	3601494	4a Avenida NO	residential	1	0	0	
+HN	3601494	4a Avenida SO	residential	1	0	0	
+HN	3601494	4a Calle E	residential	1	0	0	
+HN	3601494	4a Calle NE	residential	1	0	0	
+HN	3601494	4a Calle NO	residential	1	0	0	
+HN	3601494	4a Calle SE	residential	1	0	0	
+HN	3601494	4a Calle SO	residential	1	0	0	
+HN	3601494	5a Avenida NE	residential	1	0	0	
+HN	3601494	5a Avenida NO	residential	1	0	0	
+HN	3601494	5a Avenida SO	residential	1	0	0	
+HN	3601494	5a Calle NE	tertiary	1	0	0	
+HN	3601494	5a Calle NO	residential	1	0	0	
+HN	3601494	5a Calle SE	residential	1	0	0	
+HN	3601494	5a Calle SO	residential	1	0	0	
+HN	3601494	6a Avenida NE	residential	1	0	0	
+HN	3601494	6a Avenida NO	residential	1	0	0	
+HN	3601494	6a Avenida SO	residential	1	0	0	
+HN	3601494	6a Calle NE	tertiary	1	0	0	
+HN	3601494	6a Calle NO	residential	1	0	0	
+HN	3601494	6a Calle SE	residential	1	0	0	
+HN	3601494	6a Calle SO	residential	1	0	0	
+HN	3601494	7a Avenida NE	residential	1	0	0	
+HN	3601517	Carretera El Medio - La Trinidad	secondary	1	0	0	
+HN	3601517	Carretera Yorito - La Trinidad	secondary	1	0	0	
+HN	3601517	Carretera Yoro - Morazan	primary	1	0	0	
+HN	3601519	CA-11		3	0	0	
+HN	3601519	10a Avenida NE	residential	1	0	0	
+HN	3601519	11 Avenida NE	residential	1	0	0	
+HN	3601519	12 Avenida NE	residential	1	0	0	
+HN	3601519	13 Avenida NE	residential	1	0	0	
+HN	3601519	14 Avenida NE	residential	1	0	0	
+HN	3601519	1a Avenida NE	residential	1	0	0	
+HN	3601519	1a Avenida NO	residential	1	0	0	
+HN	3601519	1a Avenida SE	residential	1	0	0	
+HN	3601519	1a Avenida SO	residential	1	0	0	
+HN	3601519	1a Calle NE	secondary	1	0	0	
+HN	3601519	1a Calle NO	residential	1	0	0	
+HN	3601543	11a Avenida SO	residential	1	0	0	
+HN	3601543	14a Avenida SO	residential	1	0	0	
+HN	3601543	16a Avenida SO	residential	1	0	0	
+HN	3601543	17a Avenida SO	residential	1	0	0	
+HN	3601543	18a Avenida SO	residential	1	0	0	
+HN	3601543	19a Avenida SO	residential	1	0	0	
+HN	3601543	23a Avenida SO	residential	1	0	0	
+HN	3601543	24a Avenida SO	residential	1	0	0	
+HN	3601543	25a Avenida SO	residential	1	0	0	
+HN	3601543	26a Avenida SO	residential	1	0	0	
+HN	3601543	30a Calle SO	residential	1	0	0	
+HN	3601543	31a Calle SO	residential	1	0	0	
+HN	3601563	Carretera Ocotepeque - El Poy	primary	1	0	0	
+HN	3601566	Camino El Edén	residential	1	0	0	
+HN	3601566	Carretera Los Corralitos	tertiary	1	0	0	
+HN	3601566	Carretera Tegucigalpa - Valle de Ángeles	secondary	1	0	0	
+HN	3601566	Carretera a Santa Lucía	secondary	1	0	0	
+HN	3601566	Carretera de Travesía	tertiary	1	0	0	
+HN	3601566	Paseo el Hatillo	unclassified	1	0	0	
+HN	3601596	Frontera Guatemala - Honduras	unclassified	1	0	0	
+HN	3601626	Santa Cruz de Minas - Las Minas	tertiary	1	0	0	
+HN	3601627	10a Avenida SO	residential	1	0	0	
+HN	3601627	10a Calle NE	residential	1	0	0	
+HN	3601627	11 Avenida SO	residential	1	0	0	
+HN	3601627	11 Calle NE	residential	1	0	0	
+HN	3601627	1a Avenida NE	residential	1	0	0	
+HN	3601627	1a Avenida NO	residential	1	0	0	
+HN	3601627	1a Avenida SE	tertiary	1	0	0	
+HN	3601627	1a Avenida SO	residential	1	0	0	
+HN	3601627	1a Calle NE	residential	1	0	0	
+HN	3601627	1a Calle NO	residential	1	0	0	
+HN	3601627	1a Calle SE	residential	1	0	0	
+HN	3601627	1a Calle SO	residential	1	0	0	
+HN	3601627	2a Avenida NE	residential	1	0	0	
+HN	3601627	2a Avenida NO	residential	1	0	0	
+HN	3601627	2a Avenida SE	residential	1	0	0	
+HN	3601627	2a Calle NE	residential	1	0	0	
+HN	3601627	2a Calle NO	residential	1	0	0	
+HN	3601627	2a Calle SE	residential	1	0	0	
+HN	3601627	2a Calle SO	residential	1	0	0	
+HN	3601627	3a Avenida NE	residential	1	0	0	
+HN	3601627	3a Avenida NO	residential	1	0	0	
+HN	3601627	3a Avenida SE	residential	1	0	0	
+HN	3601627	3a Avenida SO	residential	1	0	0	
+HN	3601627	3a Calle NO	residential	1	0	0	
+HN	3601651	Calle Principal Santa Cruz	unclassified	1	0	0	
+HN	3601664	1a Avenida NE	residential	1	0	0	
+HN	3601664	1a Avenida NO	residential	1	0	0	
+HN	3601664	1a Avenida SE	residential	1	0	0	
+HN	3601664	1a Calle NO	residential	1	0	0	
+HN	3601664	1a Calle SE	residential	1	0	0	
+HN	3601664	2a Avenida NE	residential	1	0	0	
+HN	3601664	2a Avenida NO	residential	1	0	0	
+HN	3601664	2a Avenida SE	residential	1	0	0	
+HN	3601664	2a Calle NO	residential	1	0	0	
+HN	3601664	2a Calle SE	residential	1	0	0	
+HN	3601664	3a Avenida NE	residential	1	0	0	
+HN	3601664	3a Avenida NO	residential	1	0	0	
+HN	3601691	10a Avenida NO	residential	1	0	0	
+HN	3601691	10a Calle NO	residential	1	0	0	
+HN	3601691	11a Avenida NO	residential	1	0	0	
+HN	3601691	11a Calle NO	residential	1	0	0	
+HN	3601691	12a Calle NO	residential	1	0	0	
+HN	3601691	13a Calle NO	residential	1	0	0	
+HN	3601691	14a Calle NO	residential	1	0	0	
+HN	3601691	1a Avenida NE	residential	1	0	0	
+HN	3601691	1a Avenida NO	residential	1	0	0	
+HN	3601691	1a Calle NE	tertiary	1	0	0	
+HN	3601691	1a Calle NO	tertiary	1	0	0	
+HN	3601691	1a Calle SE	residential	1	0	0	
+HN	3601691	1a Calle SO	residential	1	0	0	
+HN	3601691	2a Avenida NE	residential	1	0	0	
+HN	3601691	2a Avenida NO	residential	1	0	0	
+HN	3601691	2a Avenida SE	residential	1	0	0	
+HN	3601691	2a Calle NE	tertiary	1	0	0	
+HN	3601691	2a Calle NO	residential	1	0	0	
+HN	3601691	2a Calle SE	tertiary	1	0	0	
+HN	3601691	2a Calle SO	residential	1	0	0	
+HN	3601691	3a Avenida NE	residential	1	0	0	
+HN	3601691	3a Avenida NO	residential	1	0	0	
+HN	3601691	3a Avenida SE	residential	1	0	0	
+HN	3601691	3a Calle NE	residential	1	0	0	
+HN	3601691	3a Calle NO	residential	1	0	0	
+HN	3601691	3a Calle SE	residential	1	0	0	
+HN	3601691	4a Avenida NE	residential	1	0	0	
+HN	3601691	4a Avenida NO	residential	1	0	0	
+HN	3601691	4a Avenida SE	residential	1	0	0	
+HN	3601691	4a Avenida SO	residential	1	0	0	
+HN	3601691	4a Calle NE	residential	1	0	0	
+HN	3601691	4a Calle NO	residential	1	0	0	
+HN	3601691	4a Calle SE	residential	1	0	0	
+HN	3601691	4a Calle SO	residential	1	0	0	
+HN	3601691	5a Avenida NE	tertiary	1	0	0	
+HN	3601691	5a Avenida NO	residential	1	0	0	
+HN	3601691	5a Avenida SE	residential	1	0	0	
+HN	3601691	5a Calle NE	residential	1	0	0	
+HN	3601691	5a Calle NO	residential	1	0	0	
+HN	3601691	6a Avenida NE	residential	1	0	0	
+HN	3601691	6a Avenida NO	residential	1	0	0	
+HN	3601691	6a Avenida SE	residential	1	0	0	
+HN	3601691	6a Calle NE	residential	1	0	0	
+HN	3601691	6a Calle NO	residential	1	0	0	
+HN	3601691	7a Avenida NO	residential	1	0	0	
+HN	3601691	7a Calle NE	residential	1	0	0	
+HN	3601691	7a Calle NO	residential	1	0	0	
+HN	3601691	8a Avenida NO	residential	1	0	0	
+HN	3601702	1a Avenida SE	residential	1	0	0	
+HN	3601702	1a Avenida SO	residential	1	0	0	
+HN	3601702	1a Calle NE	residential	1	0	0	
+HN	3601702	1a Calle NO	residential	1	0	0	
+HN	3601702	1a Calle SE	tertiary	1	0	0	
+HN	3601702	1a Calle SO	residential	1	0	0	
+HN	3601702	2a Avenida NE	residential	1	0	0	
+HN	3601702	2a Avenida SE	residential	1	0	0	
+HN	3601702	2a Avenida SO	residential	1	0	0	
+HN	3601702	2a Calle SE	residential	1	0	0	
+HN	3601702	2a Calle SO	residential	1	0	0	
+HN	3601702	3a Avenida NE	residential	1	0	0	
+HN	3601707	Calle Del Rio	residential	1	0	0	
+HN	3601707	Calle del Ferrocarril	residential	1	0	0	
+HN	3601707	Carretera La Ceiba - San Juan Pueblo	primary	1	0	0	
+HN	3601733	10a Calle SE	residential	1	0	0	
+HN	3601733	1a Avenida NE	residential	1	0	0	
+HN	3601733	1a Avenida NO	residential	1	0	0	
+HN	3601733	1a Avenida SE	residential	1	0	0	
+HN	3601733	1a Calle NE	tertiary	1	0	0	
+HN	3601733	1a Calle NO	residential	1	0	0	
+HN	3601733	1a Calle SE	residential	1	0	0	
+HN	3601733	1a Calle SO	residential	1	0	0	
+HN	3601733	2a Avenida NE	tertiary	1	0	0	
+HN	3601733	2a Avenida NO	residential	1	0	0	
+HN	3601733	2a Avenida SE	residential	1	0	0	
+HN	3601733	2a Calle NO	residential	1	0	0	
+HN	3601780	Camino El Mogote	tertiary	1	0	0	
+HN	3601780	Carretera Santa Barbara - Pito Solo	secondary	1	0	0	
+HN	3601780	San Pedro Zacapa - Agua Caliente	tertiary	1	0	0	
+HN	3601782	23 Avenida NO	tertiary	7	8	731	
+HN	3601782	23 Ave A SO		6	22	138	
+HN	3601782	23 Avenida B SO	residential	6	121	187	
+HN	3601782	10 Calle SO		4	150	210	
+HN	3601782	21 Avenida A SO	residential	4	138	143	
+HN	3601782	11 Calle B SO	residential	3	52	149	
+HN	3601782	13 Calle	residential	3	0	0	
+HN	3601782	20 Avenida NO	residential	3	31	35	
+HN	3601782	23 Avenida C SO	tertiary	3	110	157	
+HN	3601782	10a Calle NO	tertiary	2	0	0	
+HN	3601782	11 Calle C SO	residential	2	135	231	
+HN	3601782	14 Avenida SE	residential	2	17	1401	
+HN	3601782	1ª Calle Este		2	1	1	
+HN	3601782	22 Avenida A SO	residential	2	134	151	
+HN	3601782	5 Calle	residential	2	22	26	
+HN	3601782	8 Calle		2	347	2602	
+HN	3601782	Avenida Circunvalacion		2	2	1012	
+HN	3601782	Calle Santa María	residential	2	10	11	
+HN	3601782	1 Avenida	residential	1	0	0	
+HN	3601782	1 Calle A SE	residential	1	0	0	
+HN	3601782	1 Pasaje	residential	1	0	0	
+HN	3601782	10a Avenida	residential	1	0	0	
+HN	3601782	10a Avenida A	residential	1	0	0	
+HN	3601782	10a Avenida B	residential	1	0	0	
+HN	3601782	10a Avenida C	residential	1	0	0	
+HN	3601782	10a Avenida NE	residential	1	0	0	
+HN	3601782	10a Avenida NO	residential	1	0	0	
+HN	3601782	10a Avenida SE	residential	1	0	0	
+HN	3601782	10a Avenida SO	residential	1	0	0	
+HN	3601782	10a Calle	residential	1	0	0	
+HN	3601782	10a Calle A	residential	1	0	0	
+HN	3601782	10a Calle A SE	residential	1	0	0	
+HN	3601782	10a Calle A-1	residential	1	0	0	
+HN	3601782	10a Calle B	residential	1	0	0	
+HN	3601782	10a Calle B SE	residential	1	0	0	
+HN	3601782	10a Calle B SO	residential	1	0	0	
+HN	3601782	10a Calle B-1	residential	1	0	0	
+HN	3601782	10a Calle C SE	tertiary	1	0	0	
+HN	3601782	10a Calle SE	residential	1	0	0	
+HN	3601782	11 A Calle NE	residential	1	0	0	
+HN	3601782	11 Avenida	residential	1	0	0	
+HN	3601782	11 Avenida A NE	residential	1	0	0	
+HN	3601782	11 Avenida A NO	residential	1	0	0	
+HN	3601782	11 Avenida SE	residential	1	0	0	
+HN	3601782	11 Avenida SO	residential	1	0	0	
+HN	3601782	11 Calle A NE	residential	1	0	0	
+HN	3601782	11 Calle A NO	residential	1	0	0	
+HN	3601782	11 Calle A SO	residential	1	0	0	
+HN	3601782	11 Calle D SO	residential	1	0	0	
+HN	3601782	11 Calle NE	residential	1	0	0	
+HN	3601782	11 Calle NO	residential	1	0	0	
+HN	3601782	11 Calle SE	residential	1	0	0	
+HN	3601782	11 Calle SO	residential	1	0	0	
+HN	3601782	11a Avenida	residential	1	0	0	
+HN	3601782	11a Avenida A NE	residential	1	0	0	
+HN	3601782	11a Avenida B NE	residential	1	0	0	
+HN	3601782	11a Avenida NE	residential	1	0	0	
+HN	3601782	11a Avenida SE	residential	1	0	0	
+HN	3601782	11a Avenida SO	residential	1	0	0	
+HN	3601782	11a Calle	residential	1	0	0	
+HN	3601782	11a Calle A	residential	1	0	0	
+HN	3601782	11a Calle B	residential	1	0	0	
+HN	3601782	11a Calle C	residential	1	0	0	
+HN	3601782	11a Calle NE	residential	1	0	0	
+HN	3601782	12 Avenida SE	residential	1	0	0	
+HN	3601782	12 Avenida SO	tertiary	1	0	0	
+HN	3601782	12 Calle A NE	residential	1	0	0	
+HN	3601782	12 Calle A SE	residential	1	0	0	
+HN	3601782	12 Calle B SO	residential	1	0	0	
+HN	3601782	12 Calle NE	residential	1	0	0	
+HN	3601782	12 Calle SE	residential	1	0	0	
+HN	3601782	12a Avenida	residential	1	0	0	
+HN	3601782	12a Avenida A	residential	1	0	0	
+HN	3601782	12a Avenida NE	residential	1	0	0	
+HN	3601782	12a Avenida SE	residential	1	0	0	
+HN	3601782	12a Avenida SO	residential	1	0	0	
+HN	3601782	12a Calle	residential	1	0	0	
+HN	3601782	12a Calle A	residential	1	0	0	
+HN	3601782	12a Calle A NE	residential	1	0	0	
+HN	3601782	12a Calle A SE	residential	1	0	0	
+HN	3601782	12a Calle B SE	residential	1	0	0	
+HN	3601782	12a Calle C SE	residential	1	0	0	
+HN	3601782	12a Calle NE	residential	1	0	0	
+HN	3601782	13 Avenida	residential	1	0	0	
+HN	3601782	13 Avenida A SE	residential	1	0	0	
+HN	3601782	13 Avenida B SE	residential	1	0	0	
+HN	3601782	13 Avenida SE	residential	1	0	0	
+HN	3601782	13 Avenida SO	residential	1	0	0	
+HN	3601782	13 Calle A	residential	1	0	0	
+HN	3601782	13 Calle A NE	residential	1	0	0	
+HN	3601782	13 Calle B	residential	1	0	0	
+HN	3601782	13 Calle NO	residential	1	0	0	
+HN	3601782	13a Avenida	residential	1	0	0	
+HN	3601782	13a Avenida A	residential	1	0	0	
+HN	3601782	13a Avenida A NE	residential	1	0	0	
+HN	3601782	13a Avenida B	residential	1	0	0	
+HN	3601782	13a Avenida NE	residential	1	0	0	
+HN	3601782	13a Avenida SE	residential	1	0	0	
+HN	3601782	13a Avenida SO	residential	1	0	0	
+HN	3601782	13a Calle	residential	1	0	0	
+HN	3601782	13a Calle A	residential	1	0	0	
+HN	3601782	13a Calle NE	residential	1	0	0	
+HN	3601782	14 Avenida	residential	1	0	0	
+HN	3601782	14 Avenida SO	residential	1	0	0	
+HN	3601782	14 Calle	residential	1	0	0	
+HN	3601782	14 Calle A NE	residential	1	0	0	
+HN	3601782	14 Calle A NO	residential	1	0	0	
+HN	3601782	14 Calle NE	residential	1	0	0	
+HN	3601782	14 Calle NO	residential	1	0	0	
+HN	3601782	14 Calle SO	residential	1	0	0	
+HN	3601782	14a Avenida	residential	1	0	0	
+HN	3601782	14a Avenida A	residential	1	0	0	
+HN	3601782	14a Avenida A NE	residential	1	0	0	
+HN	3601782	14a Avenida B NE	residential	1	0	0	
+HN	3601782	14a Avenida SO	residential	1	0	0	
+HN	3601782	14a Calle	residential	1	0	0	
+HN	3601782	14a Calle A	residential	1	0	0	
+HN	3601782	14a Calle B NE	residential	1	0	0	
+HN	3601782	14a Calle NE	residential	1	0	0	
+HN	3601782	15 Avenida A SE	residential	1	0	0	
+HN	3601782	15 Avenida SE	residential	1	0	0	
+HN	3601782	15 Calle	residential	1	0	0	
+HN	3601782	15 Calle NE	residential	1	0	0	
+HN	3601782	15 Calle SO	residential	1	0	0	
+HN	3601782	15a Avenida	residential	1	0	0	
+HN	3601782	15a Avenida A	residential	1	0	0	
+HN	3601782	15a Avenida A NE	residential	1	0	0	
+HN	3601782	15a Avenida B	residential	1	0	0	
+HN	3601782	15a Calle	residential	1	0	0	
+HN	3601782	15a Calle NE	residential	1	0	0	
+HN	3601782	16 Avenida	residential	1	0	0	
+HN	3601782	16 Avenida NO	residential	1	0	0	
+HN	3601782	16 Avenida SE	residential	1	0	0	
+HN	3601782	16 Avenida SO	residential	1	0	0	
+HN	3601782	16 Calle	residential	1	0	0	
+HN	3601782	16 Calle A NE	residential	1	0	0	
+HN	3601782	16 Calle A SO	living_street	1	0	0	
+HN	3601782	16 Calle NE	residential	1	0	0	
+HN	3601782	16 Calle NO	residential	1	0	0	
+HN	3601782	16 Calle SE	residential	1	0	0	
+HN	3601782	16 Calle SO	tertiary	1	0	0	
+HN	3601782	1698	living_street	1	0	0	
+HN	3601782	1699	living_street	1	0	0	
+HN	3601782	16a Avenida	residential	1	0	0	
+HN	3601782	16a Avenida A	residential	1	0	0	
+HN	3601782	16a Calle	residential	1	0	0	
+HN	3601782	16a Calle A	residential	1	0	0	
+HN	3601782	16a Calle NE	residential	1	0	0	
+HN	3601782	17 Avenida SE	residential	1	0	0	
+HN	3601782	17 Avenida SO	residential	1	0	0	
+HN	3601782	17 Calle	residential	1	0	0	
+HN	3601782	17 Calle A NE	residential	1	0	0	
+HN	3601782	17 Calle B SE	residential	1	0	0	
+HN	3601782	17 Calle NE	residential	1	0	0	
+HN	3601782	17 Calle NO	residential	1	0	0	
+HN	3601782	17 Calle SE	residential	1	0	0	
+HN	3601782	17 Calle SO	residential	1	0	0	
+HN	3601782	1700	living_street	1	0	0	
+HN	3601782	1701	living_street	1	0	0	
+HN	3601782	1702	living_street	1	0	0	
+HN	3601782	1703	living_street	1	0	0	
+HN	3601782	1704	living_street	1	0	0	
+HN	3601782	1705	living_street	1	0	0	
+HN	3601782	1709	living_street	1	0	0	
+HN	3601782	1710	living_street	1	0	0	
+HN	3601782	1711	living_street	1	0	0	
+HN	3601782	1712	living_street	1	0	0	
+HN	3601782	1714	living_street	1	0	0	
+HN	3601782	1715	living_street	1	0	0	
+HN	3601782	1716	living_street	1	0	0	
+HN	3601782	1717	living_street	1	0	0	
+HN	3601782	1718	living_street	1	0	0	
+HN	3601782	1719	living_street	1	0	0	
+HN	3601782	1720	living_street	1	0	0	
+HN	3601782	1721	living_street	1	0	0	
+HN	3601782	1722	living_street	1	0	0	
+HN	3601782	1723	living_street	1	0	0	
+HN	3601782	1726	living_street	1	0	0	
+HN	3601782	17a Avenida	residential	1	0	0	
+HN	3601782	17a Avenida SE	residential	1	0	0	
+HN	3601782	17a Calle	residential	1	0	0	
+HN	3601782	17a Calle NE	residential	1	0	0	
+HN	3601782	18 Avenida A SE	residential	1	0	0	
+HN	3601782	18 Avenida NO	residential	1	0	0	
+HN	3601782	18 Avenida SE	residential	1	0	0	
+HN	3601782	18 Avenida SO	residential	1	0	0	
+HN	3601782	18 Calle A SE	residential	1	0	0	
+HN	3601782	18 Calle B NE	residential	1	0	0	
+HN	3601782	18 Calle B SE	residential	1	0	0	
+HN	3601782	18 Calle C NE	residential	1	0	0	
+HN	3601782	18 Calle C NO	residential	1	0	0	
+HN	3601782	18 Calle NE	residential	1	0	0	
+HN	3601782	18 Calle SE	residential	1	0	0	
+HN	3601782	18 Calle SO	residential	1	0	0	
+HN	3601782	18a Avenida	residential	1	0	0	
+HN	3601782	18a Avenida A	residential	1	0	0	
+HN	3601782	18a Calle	residential	1	0	0	
+HN	3601782	18a Calle A NE	residential	1	0	0	
+HN	3601782	18a Calle NE	residential	1	0	0	
+HN	3601782	18a Calle NO	residential	1	0	0	
+HN	3601784	1a Avenida NO	residential	1	0	0	
+HN	3601784	1a Avenida SE	residential	1	0	0	
+HN	3601784	1a Avenida SO	residential	1	0	0	
+HN	3601784	1a Calle NO	residential	1	0	0	
+HN	3601784	1a Calle SE	residential	1	0	0	
+HN	3601784	2a Avenida NO	residential	1	0	0	
+HN	3601784	2a Avenida SE	residential	1	0	0	
+HN	3601784	2a Avenida SO	residential	1	0	0	
+HN	3601784	2a Calle NO	residential	1	0	0	
+HN	3601784	2a Calle SE	residential	1	0	0	
+HN	3601784	2a Calle SO	residential	1	0	0	
+HN	3601784	3a Avenida NO	residential	1	0	0	
+HN	3601833	1a Avenida NE	residential	1	0	0	
+HN	3601833	1a Avenida NO	residential	1	0	0	
+HN	3601833	1a Avenida SO	residential	1	0	0	
+HN	3601833	1a Calle NE	residential	1	0	0	
+HN	3601833	1a Calle NO	residential	1	0	0	
+HN	3601833	1a Calle SE	residential	1	0	0	
+HN	3601833	2a Avenida NE	residential	1	0	0	
+HN	3601833	2a Avenida NO	residential	1	0	0	
+HN	3601833	2a Avenida SE	residential	1	0	0	
+HN	3601833	2a Avenida SO	residential	1	0	0	
+HN	3601833	2a Calle NE	residential	1	0	0	
+HN	3601833	2a Calle NO	residential	1	0	0	
+HN	3601834	Calle a La Cruz	living_street	1	0	0	
+HN	3601834	Nueva Jalapa - San José de Colinas	tertiary	1	0	0	
+HN	3601835	Agua Caliente - El Guantillo	tertiary	1	0	0	
+HN	3601835	Calle de La Peña a Esquias	secondary	1	0	0	
+HN	3601835	Calle del puente Rio Grande a La Peña	secondary	1	0	0	
+HN	3601836	Anillo Agricola	primary	1	0	0	
+HN	3601836	Puente Río Jalan	primary	1	0	0	
+HN	3601874	1a Avenida NE	residential	1	0	0	
+HN	3601874	1a Avenida NO	residential	1	0	0	
+HN	3601874	1a Avenida SE	secondary	1	0	0	
+HN	3601874	1a Avenida SO	residential	1	0	0	
+HN	3601874	1a Calle NE	residential	1	0	0	
+HN	3601874	1a Calle NO	residential	1	0	0	
+HN	3601874	1a Calle SE	residential	1	0	0	
+HN	3601874	1a Calle SO	residential	1	0	0	
+HN	3601874	2a Avenida NE	residential	1	0	0	
+HN	3601874	2a Avenida NO	residential	1	0	0	
+HN	3601874	2a Avenida SO	residential	1	0	0	
+HN	3601874	2a Calle NE	residential	1	0	0	
+HN	3601888	10a Avenida NE	residential	1	0	0	
+HN	3601888	10a Calle NE	residential	1	0	0	
+HN	3601888	10a Calle NO	residential	1	0	0	
+HN	3601888	11 Avenida NE	residential	1	0	0	
+HN	3601888	11 Calle NE	residential	1	0	0	
+HN	3601888	1a Avenida NE	residential	1	0	0	
+HN	3601888	1a Avenida NO	residential	1	0	0	
+HN	3601888	1a Avenida SE	residential	1	0	0	
+HN	3601888	1a Avenida SO	residential	1	0	0	
+HN	3601888	1a Calle NE	residential	1	0	0	
+HN	3601888	1a Calle NO	tertiary	1	0	0	
+HN	3601888	1a Calle SE	residential	1	0	0	
+HN	3601888	1a Calle SO	residential	1	0	0	
+HN	3601888	2a Avenida NE	residential	1	0	0	
+HN	3601888	2a Avenida NO	residential	1	0	0	
+HN	3601888	2a Avenida SE	residential	1	0	0	
+HN	3601888	2a Avenida SO	residential	1	0	0	
+HN	3601888	2a Calle NE	residential	1	0	0	
+HN	3601888	2a Calle NO	residential	1	0	0	
+HN	3601888	2a Calle SE	residential	1	0	0	
+HN	3601888	2a Calle SO	residential	1	0	0	
+HN	3601888	3a Avenida NE	residential	1	0	0	
+HN	3601888	3a Avenida NO	residential	1	0	0	
+HN	3601888	3a Avenida SE	residential	1	0	0	
+HN	3601899	Calle hacia el Cementerio	residential	1	0	0	
+HN	3601899	Calle hacia el Centro	residential	1	0	0	
+HN	3601899	Carretera de Occidente	primary	1	0	0	
+HN	3601899	terraceria	unclassified	1	0	0	
+HN	3601921	10a Avenida NO	residential	1	0	0	
+HN	3601921	10a Avenida SO	residential	1	0	0	
+HN	3601921	10a Calle NO	residential	1	0	0	
+HN	3601921	11 Avenida NO	residential	1	0	0	
+HN	3601921	11 Avenida SO	residential	1	0	0	
+HN	3601921	11 Calle NE	residential	1	0	0	
+HN	3601921	11 Calle NO	residential	1	0	0	
+HN	3601921	1a Avenida NE	residential	1	0	0	
+HN	3601921	1a Avenida NO	residential	1	0	0	
+HN	3601921	1a Calle NE	residential	1	0	0	
+HN	3601921	1a Calle NO	residential	1	0	0	
+HN	3601921	1a Calle SE	residential	1	0	0	
+HN	3601921	1a Calle SO	residential	1	0	0	
+HN	3601921	2a Avenida NE	residential	1	0	0	
+HN	3601921	2a Avenida NO	residential	1	0	0	
+HN	3601921	2a Avenida SO	residential	1	0	0	
+HN	3601921	2a Calle NO	residential	1	0	0	
+HN	3601921	2a Calle SE	residential	1	0	0	
+HN	3601921	2a Calle SO	residential	1	0	0	
+HN	3601921	3a Avenida NE	residential	1	0	0	
+HN	3601921	3a Avenida NO	residential	1	0	0	
+HN	3601921	3a Avenida SO	residential	1	0	0	
+HN	3601921	3a Calle NE	residential	1	0	0	
+HN	3601921	3a Calle NO	residential	1	0	0	
+HN	3601932	Avenida del Comercio	residential	1	0	0	
+HN	3601932	Calle El Rodeo	secondary	1	0	0	
+HN	3601932	Calle Olimpia Serrano	residential	1	0	0	
+HN	3601932	Calle Real	tertiary	1	0	0	
+HN	3601936	10a Calle SE	residential	1	0	0	
+HN	3601936	10a Calle SO	residential	1	0	0	
+HN	3601936	11 Calle SO	residential	1	0	0	
+HN	3601936	1a Avenida NE	residential	1	0	0	
+HN	3601936	1a Avenida NO	residential	1	0	0	
+HN	3601936	1a Avenida SE	residential	1	0	0	
+HN	3601936	1a Avenida SO	residential	1	0	0	
+HN	3601936	1a Calle NE	residential	1	0	0	
+HN	3601936	1a Calle NO	residential	1	0	0	
+HN	3601936	1a Calle SE	residential	1	0	0	
+HN	3601936	1a Calle SO	residential	1	0	0	
+HN	3601936	2a Avenida NE	residential	1	0	0	
+HN	3601951	1a Avenida NE	residential	1	0	0	
+HN	3601951	1a Avenida NO	residential	1	0	0	
+HN	3601951	1a Avenida SE	residential	1	0	0	
+HN	3601951	1a Avenida SO	residential	1	0	0	
+HN	3601951	1a Calle NE	residential	1	0	0	
+HN	3601951	1a Calle NO	residential	1	0	0	
+HN	3601951	1a Calle SE	residential	1	0	0	
+HN	3601951	1a Calle SO	residential	1	0	0	
+HN	3601951	2a Avenida NE	residential	1	0	0	
+HN	3601951	2a Avenida NO	residential	1	0	0	
+HN	3601951	2a Avenida SE	residential	1	0	0	
+HN	3601951	2a Avenida SO	residential	1	0	0	
+HN	3601977	10a Avenida NO	residential	1	0	0	
+HN	3601977	10a Calle NE	residential	1	0	0	
+HN	3601977	10a Calle NO	residential	1	0	0	
+HN	3601977	11 Avenida NO	residential	1	0	0	
+HN	3601977	12 Avenida NO	residential	1	0	0	
+HN	3601977	12 Calle NO	residential	1	0	0	
+HN	3601977	13 Calle NE	residential	1	0	0	
+HN	3601977	13 Calle NO	residential	1	0	0	
+HN	3601977	14 Calle NE	residential	1	0	0	
+HN	3601977	14 Calle NO	residential	1	0	0	
+HN	3601977	15 Calle NE	residential	1	0	0	
+HN	3601977	15 Calle NO	residential	1	0	0	
+HN	3601977	16 Calle NO	residential	1	0	0	
+HN	3601977	17 Calle NE	residential	1	0	0	
+HN	3601977	17 Calle NO	residential	1	0	0	
+HN	3601977	18 Calle NE	residential	1	0	0	
+HN	3601977	18 Calle NO	residential	1	0	0	
+HN	3601977	19 Calle NE	residential	1	0	0	
+HN	3601977	19 Calle NO	residential	1	0	0	
+HN	3601977	19a Calle NO	residential	1	0	0	
+HN	3601977	1a Avenida NE	tertiary	1	0	0	
+HN	3601977	1a Avenida NO	residential	1	0	0	
+HN	3601977	1a Avenida SE	tertiary	1	0	0	
+HN	3601977	1a Avenida SO	residential	1	0	0	
+HN	3601977	1a Calle NE	residential	1	0	0	
+HN	3601977	1a Calle NO	residential	1	0	0	
+HN	3601977	1a Calle SE	residential	1	0	0	
+HN	3601977	1a Calle SO	residential	1	0	0	
+HN	3601977	20 Calle NO	residential	1	0	0	
+HN	3601977	21 Calle NO	residential	1	0	0	
+HN	3601977	22 Calle NE	residential	1	0	0	
+HN	3601977	23 Calle NE	residential	1	0	0	
+HN	3601977	24 Calle NE	residential	1	0	0	
+HN	3601977	25 Calle NE	residential	1	0	0	
+HN	3601977	26 Calle NE	residential	1	0	0	
+HN	3601977	27 Calle NE	residential	1	0	0	
+HN	3601977	28 Calle NE	residential	1	0	0	
+HN	3601977	29 Calle NE	residential	1	0	0	
+HN	3601977	2a Avenida NE	residential	1	0	0	
+HN	3601977	2a Avenida NO	residential	1	0	0	
+HN	3601977	2a Avenida SE	residential	1	0	0	
+HN	3601977	2a Avenida SO	residential	1	0	0	
+HN	3601977	2a Calle NE	residential	1	0	0	
+HN	3601977	2a Calle NO	residential	1	0	0	
+HN	3601977	2a Calle SE	residential	1	0	0	
+HN	3601977	2a Calle SO	residential	1	0	0	
+HN	3601977	30 Calle NE	unclassified	1	0	0	
+HN	3601977	31 Calle NE	residential	1	0	0	
+HN	3601984	Canaan	residential	1	0	0	
+HN	3601984	Carretera La Ceiba - San Juan Pueblo	primary	1	0	0	
+HN	3601984	Carretera San Juan Pueblo - Esparta	secondary	1	0	0	
+HN	3601984	Carretera Tela - San Juan Pueblo	primary	1	0	0	
+HN	3601984	Siempre Viva - Cerritos	secondary	1	0	0	
+HN	3601992	Carretera Santa Rosa - La Entrada	primary	1	0	0	
+HN	3601993	1a Avenida NE	residential	1	0	0	
+HN	3601993	1a Avenida NO	residential	1	0	0	
+HN	3601993	1a Avenida SE	residential	1	0	0	
+HN	3601993	1a Avenida SO	residential	1	0	0	
+HN	3601993	1a Calle NE	residential	1	0	0	
+HN	3601993	1a Calle SE	residential	1	0	0	
+HN	3601993	1a Calle SO	residential	1	0	0	
+HN	3601993	2a Avenida NE	residential	1	0	0	
+HN	3601993	2a Avenida SE	residential	1	0	0	
+HN	3601993	2a Calle NE	residential	1	0	0	
+HN	3601993	2a Calle NO	residential	1	0	0	
+HN	3601993	2a Calle SE	residential	1	0	0	
+HN	3602065	El Oro - San José de Tarros	tertiary	1	0	0	
+HN	3602066	Calle Esperanza	tertiary	1	0	0	
+HN	3602066	Carretera Catacamas - Dulce Nombre de Culmí	secondary	1	0	0	
+HN	3602066	Carretera San José del Río Tinto - Vallecito	tertiary	1	0	0	
+HN	3602077	10a Avenida	residential	1	0	0	
+HN	3602077	10a Calle	residential	1	0	0	
+HN	3602077	11a Avenida	residential	1	0	0	
+HN	3602077	11a Calle	residential	1	0	0	
+HN	3602077	12a Avenida	residential	1	0	0	
+HN	3602077	12a Calle	residential	1	0	0	
+HN	3602077	13a Avenida	residential	1	0	0	
+HN	3602077	13a Calle	residential	1	0	0	
+HN	3602077	14a Avenida	residential	1	0	0	
+HN	3602077	14a Calle	residential	1	0	0	
+HN	3602077	15a Avenida	residential	1	0	0	
+HN	3602077	15a Calle	residential	1	0	0	
+HN	3602092	10a Avenida NE	residential	1	0	0	
+HN	3602092	11 Avenida NE	residential	1	0	0	
+HN	3602092	1a Avenida NO	residential	1	0	0	
+HN	3602092	1a Avenida SO	residential	1	0	0	
+HN	3602092	1a Calle NE	residential	1	0	0	
+HN	3602092	1a Calle NO	residential	1	0	0	
+HN	3602092	1a Calle SE	residential	1	0	0	
+HN	3602092	1a Calle SO	secondary	1	0	0	
+HN	3602092	2a Avenida NE	residential	1	0	0	
+HN	3602092	2a Avenida NO	residential	1	0	0	
+HN	3602092	2a Avenida SE	residential	1	0	0	
+HN	3602092	2a Calle NE	residential	1	0	0	
+HN	3602094	Camino El Mogote	unclassified	1	0	0	
+HN	3602094	Carretera Taulabé - San José de Comayagua - La Sábana	tertiary	1	0	0	
+HN	3602097	Carretera Ceibita - Santa Bárbara	secondary	1	0	0	
+HN	3602097	Ilama - San José de Colinas	secondary	1	0	0	
+HN	3602097	Nueva Jalapa - San José de Colinas	tertiary	1	0	0	
+HN	3602137	1a Avenida NE	residential	1	0	0	
+HN	3602137	1a Avenida NO	residential	1	0	0	
+HN	3602137	1a Avenida SE	residential	1	0	0	
+HN	3602137	1a Avenida SO	unclassified	1	0	0	
+HN	3602137	1a Calle NE	residential	1	0	0	
+HN	3602137	1a Calle NO	residential	1	0	0	
+HN	3602137	1a Calle SE	residential	1	0	0	
+HN	3602137	1a Calle SO	residential	1	0	0	
+HN	3602137	2a Avenida NE	residential	1	0	0	
+HN	3602137	2a Avenida NO	residential	1	0	0	
+HN	3602137	2a Avenida SE	secondary	1	0	0	
+HN	3602137	2a Avenida SO	residential	1	0	0	
+HN	3602184	1a Avenida NE	residential	1	0	0	
+HN	3602184	1a Avenida NO	residential	1	0	0	
+HN	3602184	1a Avenida SE	residential	1	0	0	
+HN	3602184	1a Avenida SO	residential	1	0	0	
+HN	3602184	1a Calle NE	residential	1	0	0	
+HN	3602184	1a Calle NO	residential	1	0	0	
+HN	3602184	1a Calle SE	residential	1	0	0	
+HN	3602184	1a Calle SO	residential	1	0	0	
+HN	3602184	2a Avenida NE	residential	1	0	0	
+HN	3602184	2a Avenida NO	residential	1	0	0	
+HN	3602184	2a Avenida SE	residential	1	0	0	
+HN	3602184	2a Calle NE	residential	1	0	0	
+HN	3602190	10a Calle SO	residential	1	0	0	
+HN	3602190	11 Avenida SE	residential	1	0	0	
+HN	3602190	1a Avenida NE	residential	1	0	0	
+HN	3602190	1a Avenida NO	secondary	1	0	0	
+HN	3602190	1a Avenida SE	residential	1	0	0	
+HN	3602190	1a Avenida SO	secondary	1	0	0	
+HN	3602190	1a Calle NE	residential	1	0	0	
+HN	3602190	1a Calle NO	residential	1	0	0	
+HN	3602190	1a Calle SE	residential	1	0	0	
+HN	3602190	1a Calle SO	residential	1	0	0	
+HN	3602190	2a Avenida NE	residential	1	0	0	
+HN	3602190	2a Avenida NO	residential	1	0	0	
+HN	3602205	San Jerónimo - Montelíbano	tertiary	1	0	0	
+HN	3602275	Carretera Concepción del Sur - San Francisco de Ojuera	tertiary	1	0	0	
+HN	3602275	Carretera San Francisco de Ojuera - San Antonio de Malera	tertiary	1	0	0	
+HN	3602281	Carretera San Fco. De La Paz - Gualaco	primary	1	0	0	
+HN	3602284	1a Avenida NE	residential	1	0	0	
+HN	3602284	1a Avenida NO	residential	1	0	0	
+HN	3602284	1a Avenida SE	residential	1	0	0	
+HN	3602284	1a Calle NE	residential	1	0	0	
+HN	3602284	1a Calle NO	residential	1	0	0	
+HN	3602284	1a Calle SE	residential	1	0	0	
+HN	3602284	2a Avenida NE	residential	1	0	0	
+HN	3602284	2a Avenida NO	residential	1	0	0	
+HN	3602284	2a Avenida SE	tertiary	1	0	0	
+HN	3602284	2a Calle NE	residential	1	0	0	
+HN	3602284	2a Calle NO	residential	1	0	0	
+HN	3602284	3a Avenida NO	residential	1	0	0	
+HN	3602287	Anillo Agricola	secondary	1	0	0	
+HN	3602287	Carretera Juticalpa - San Francisco Becerra	secondary	1	0	0	
+HN	3602301	10a Avenida SO	residential	1	0	0	
+HN	3602301	1a Avenida NE	residential	1	0	0	
+HN	3602301	1a Avenida NO	residential	1	0	0	
+HN	3602301	1a Avenida SE	residential	1	0	0	
+HN	3602301	1a Avenida SO	tertiary	1	0	0	
+HN	3602301	1a Calle NE	residential	1	0	0	
+HN	3602301	1a Calle NO	residential	1	0	0	
+HN	3602301	1a Calle SE	residential	1	0	0	
+HN	3602301	1a Calle SO	residential	1	0	0	
+HN	3602301	2a Avenida NE	residential	1	0	0	
+HN	3602301	2a Avenida NO	residential	1	0	0	
+HN	3602301	2a Avenida SE	residential	1	0	0	
+HN	3602330	Comalí-El Trapiche	tertiary	1	0	0	
+HN	3602330	Los Llanos-El Trapiche	tertiary	1	0	0	
+HN	3602330	San Francisco-Jayacayan	tertiary	1	0	0	
+HN	3602330	San Francisco-Las Delicias	tertiary	1	0	0	
+HN	3602330	San Francisco-Los Llanos	tertiary	1	0	0	
+HN	3602355	Avenida del Comercio	residential	1	0	0	
+HN	3602355	Carretera Gualaco - San Esteban	primary	1	0	0	
+HN	3602355	Carretera San Esteban - El Carbon	primary	1	0	0	
+HN	3602355	Carretera San Esteban - Pastoreo	secondary	1	0	0	
+HN	3602359	Carretera Principal de la Isla de Roatán	primary	1	0	0	
+HN	3602359	East Sandy Bay Beach Road	residential	1	0	0	
+HN	3602359	Hc1	residential	1	0	0	
+HN	3602359	Las Gemelas	residential	1	0	0	
+HN	3602359	Norte	residential	1	0	0	
+HN	3602359	Rock Point Villas Bar & Grill Road	residential	1	0	0	
+HN	3602359	West Bay Road	tertiary	1	0	0	
+HN	3602368	Carretera Danli - El Empalme	primary	1	0	0	
+HN	3602428	1a Avenida NE	residential	1	0	0	
+HN	3602428	1a Avenida NO	residential	1	0	0	
+HN	3602428	1a Avenida SE	residential	1	0	0	
+HN	3602428	1a Avenida SO	residential	1	0	0	
+HN	3602428	1a Calle NE	residential	1	0	0	
+HN	3602428	1a Calle NO	residential	1	0	0	
+HN	3602428	1a Calle SE	residential	1	0	0	
+HN	3602428	1a Calle SO	residential	1	0	0	
+HN	3602428	2a Avenida NE	tertiary	1	0	0	
+HN	3602428	2a Avenida NO	residential	1	0	0	
+HN	3602428	2a Avenida SE	residential	1	0	0	
+HN	3602428	2a Avenida SO	residential	1	0	0	
+HN	3602444	1a Avenida NE	residential	1	0	0	
+HN	3602444	1a Avenida NO	residential	1	0	0	
+HN	3602444	1a Avenida SE	residential	1	0	0	
+HN	3602444	1a Avenida SO	residential	1	0	0	
+HN	3602444	1a Calle SO	residential	1	0	0	
+HN	3602444	2a Avenida NE	residential	1	0	0	
+HN	3602444	2a Avenida NO	residential	1	0	0	
+HN	3602444	2a Avenida SE	secondary	1	0	0	
+HN	3602444	2a Avenida SO	residential	1	0	0	
+HN	3602444	2a Calle SO	residential	1	0	0	
+HN	3602444	3a Avenida NE	residential	1	0	0	
+HN	3602444	3a Avenida NO	residential	1	0	0	
+HN	3602473	Carretera La Ceiba - San Juan Pueblo	primary	1	0	0	
+HN	3602488	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3602488	Santa Cruz - San Antonio	tertiary	1	0	0	
+HN	3602546	Calle Urbana	residential	1	0	0	
+HN	3602546	Puente La Democracia	residential	1	0	0	
+HN	3602561	Carretera La Ceiba - Jutiapa	primary	1	0	0	
+HN	3602561	Ferrocarril Nacional	unclassified	1	0	0	
+HN	3602602	Carretera Sonaguera - Aguan	secondary	1	0	0	
+HN	3602603	Carretera Limones - La Union	primary	1	0	0	
+HN	3602680	Carretera a Nueva Armenia	secondary	1	0	0	
+HN	3602680	Nueva Armenia	secondary	1	0	0	
+HN	3602690	Carretera Campamento - Juticalpa	primary	1	0	0	
+HN	3602690	Carretera Limones - La Union	primary	1	0	0	
+HN	3602736	West End Road		4	54	3410	
+HN	3602736	Anantasun Drive	residential	1	0	0	
+HN	3602736	Calle Bahía Las Flores	primary	1	0	0	
+HN	3602736	Calle Bocal del Matorral	primary	1	0	0	
+HN	3602736	Calle Cerro Congo	tertiary	1	0	0	
+HN	3602736	Calle España	residential	1	0	0	
+HN	3602736	Calle Hospital	unclassified	1	0	0	
+HN	3602736	Calle Mahogany Bay	residential	1	0	0	
+HN	3602736	Calle Ocho	residential	1	0	0	
+HN	3602736	Calle Principal	tertiary	1	0	0	
+HN	3602736	Calle Santa María	residential	1	0	0	
+HN	3602736	Calle del Mercado	residential	1	0	0	
+HN	3602736	Camino Kafito	residential	1	0	0	
+HN	3602736	Camino Kai Linda	residential	1	0	0	
+HN	3602736	Carretera Principal de la Isla de Roatán	primary	1	0	0	
+HN	3602736	Carril de Palma	unclassified	1	0	0	
+HN	3602736	Escondido	residential	1	0	0	
+HN	3602736	Henry Jackson Highway	primary	1	0	0	
+HN	3602736	Keyhole Bay Drive	unclassified	1	0	0	
+HN	3602736	Mudhole Road	primary	1	0	0	
+HN	3602736	Mudhole Road, Hottest Sparrow Hwy, Banda Northe	primary	1	0	0	
+HN	3602736	Tamarind Drive	residential	1	0	0	
+HN	3602736	West Bay	primary	1	0	0	
+HN	3602736	West Bay Road	primary	1	0	0	
+HN	3602758	Carretera Río Lindo - Yojoa	secondary	1	0	0	
+HN	3602785	San Antonio de Buenos Aires - San José de los Planes	tertiary	1	0	0	
+HN	3602786	Calle Santos Muñoz	tertiary	1	0	0	
+HN	3602823	Bloque F	residential	1	0	0	
+HN	3602823	Bloque G	residential	1	0	0	
+HN	3602823	Carretera Cofradía - Zepate	tertiary	1	0	0	
+HN	3602823	Carretera Los Corralitos	tertiary	1	0	0	
+HN	3602823	Carretera Soroguara - El Guayabo - El Jicarito	tertiary	1	0	0	
+HN	3602823	Carretera Tegucigalpa - Talanga	primary	1	0	0	
+HN	3602952	1a Avenida NE	residential	1	0	0	
+HN	3602952	1a Avenida NO	secondary	1	0	0	
+HN	3602952	1a Avenida SE	residential	1	0	0	
+HN	3602952	1a Avenida SO	residential	1	0	0	
+HN	3602952	1a Calle SE	residential	1	0	0	
+HN	3602952	1a Calle SO	residential	1	0	0	
+HN	3602952	2a Avenida NE	residential	1	0	0	
+HN	3602952	2a Avenida NO	residential	1	0	0	
+HN	3602952	2a Avenida SE	residential	1	0	0	
+HN	3602952	2a Avenida SO	residential	1	0	0	
+HN	3602952	2a Calle NE	residential	1	0	0	
+HN	3602952	2a Calle SE	residential	1	0	0	
+HN	3603035	El Guantillo - Trinidad de Quebrada	tertiary	1	0	0	
+HN	3603084	Carretera a San José	unclassified	1	0	0	
+HN	3603097	Carretera Sonaguera - Aguan	secondary	1	0	0	
+HN	3603097	Carretera Tocoa - Corocito	primary	1	0	0	
+HN	3603130	Anillo Agricola	secondary	1	0	0	
+HN	3603157	10a Avenida O	residential	1	0	0	
+HN	3603157	10a Calle N	residential	1	0	0	
+HN	3603157	10a Calle S	residential	1	0	0	
+HN	3603157	11 Avenida O	residential	1	0	0	
+HN	3603157	11 Calle N	residential	1	0	0	
+HN	3603157	11 Calle S	residential	1	0	0	
+HN	3603157	12 Avenida O	residential	1	0	0	
+HN	3603157	13 Avenida O	residential	1	0	0	
+HN	3603157	14 Avenida O	residential	1	0	0	
+HN	3603157	15 Avenida O	residential	1	0	0	
+HN	3603157	1a Avenida E	residential	1	0	0	
+HN	3603157	1a Avenida O	residential	1	0	0	
+HN	3603157	1a Calle N	residential	1	0	0	
+HN	3603157	1a Calle S	residential	1	0	0	
+HN	3603157	2a Avenida E	residential	1	0	0	
+HN	3603157	2a Avenida O	residential	1	0	0	
+HN	3603157	2a Calle N	residential	1	0	0	
+HN	3603157	2a Calle S	residential	1	0	0	
+HN	3603157	3a Avenida E	residential	1	0	0	
+HN	3603157	3a Avenida O	residential	1	0	0	
+HN	3603157	3a Calle N	residential	1	0	0	
+HN	3603157	3a Calle S	residential	1	0	0	
+HN	3603157	4a Avenida O	residential	1	0	0	
+HN	3603157	4a Calle N	residential	1	0	0	
+HN	3603169	Calle Antigua Línea de Ferrocarril	unclassified	1	0	0	
+HN	3603224	2a Avenida SE	residential	1	0	0	
+HN	3603224	3a Avenida SE	residential	1	0	0	
+HN	3603224	4a Calle SE	residential	1	0	0	
+HN	3603224	5a Calle SE	residential	1	0	0	
+HN	3603224	Avenida Central Sur	tertiary	1	0	0	
+HN	3603256	El Chile - Protección	tertiary	1	0	0	
+HN	3603267	Calle del Ferrocarril	residential	1	0	0	
+HN	3603267	Carretera Tocoa - Saba	primary	1	0	0	
+HN	3603330	10a Avenida NE	residential	1	0	0	
+HN	3603330	11 Avenida NE	residential	1	0	0	
+HN	3603330	12 Avenida NE	residential	1	0	0	
+HN	3603330	1a Avenida NO	residential	1	0	0	
+HN	3603330	1a Avenida SE	residential	1	0	0	
+HN	3603330	1a Avenida SO	residential	1	0	0	
+HN	3603330	1a Calle NE	residential	1	0	0	
+HN	3603330	1a Calle NO	residential	1	0	0	
+HN	3603330	1a Calle SE	residential	1	0	0	
+HN	3603330	1a Calle SO	residential	1	0	0	
+HN	3603330	2a Avenida NE	residential	1	0	0	
+HN	3603330	2a Avenida NO	residential	1	0	0	
+HN	3603330	2a Avenida SE	residential	1	0	0	
+HN	3603330	2a Avenida SO	residential	1	0	0	
+HN	3603330	2a Calle NE	residential	1	0	0	
+HN	3603330	2a Calle SE	residential	1	0	0	
+HN	3603330	2a Calle SO	residential	1	0	0	
+HN	3603330	3a Avenida NE	residential	1	0	0	
+HN	3603330	3a Avenida SE	residential	1	0	0	
+HN	3603330	3a Calle NE	residential	1	0	0	
+HN	3603330	3a Calle SO	residential	1	0	0	
+HN	3603330	4a Avenida NE	residential	1	0	0	
+HN	3603330	4a Avenida SE	residential	1	0	0	
+HN	3603330	4a Calle NE	residential	1	0	0	
+HN	3603330	4a Calle SO	residential	1	0	0	
+HN	3603330	5a Avenida NE	residential	1	0	0	
+HN	3603330	5a Avenida SE	residential	1	0	0	
+HN	3603330	5a Calle NE	residential	1	0	0	
+HN	3603330	5a Calle SO	residential	1	0	0	
+HN	3603330	6a Avenida NE	residential	1	0	0	
+HN	3603330	6a Avenida SE	residential	1	0	0	
+HN	3603330	6a Calle NE	residential	1	0	0	
+HN	3603330	6a Calle SO	residential	1	0	0	
+HN	3603330	7a Avenida NE	residential	1	0	0	
+HN	3603330	8a Avenida NE	residential	1	0	0	
+HN	3603330	9a Avenida NE	residential	1	0	0	
+HN	3603330	Antigua Carretera del Norte	residential	1	0	0	
+HN	3603330	Avenida 1	living_street	1	0	0	
+HN	3603330	Avenida 2	living_street	1	0	0	
+HN	3603330	Avenida 3	living_street	1	0	0	
+HN	3603330	Avenida 4	living_street	1	0	0	
+HN	3603330	Avenida 5	living_street	1	0	0	
+HN	3603330	Avenida 6	living_street	1	0	0	
+HN	3603330	Avenida 7	living_street	1	0	0	
+HN	3603330	Avenida Antigua	residential	1	0	0	
+HN	3603330	Avenida Principal	residential	1	0	0	
+HN	3603330	Boulevar las Torres	living_street	1	0	0	
+HN	3603330	Calle 1	living_street	1	0	0	
+HN	3603343	Calle Principal	residential	1	0	0	
+HN	3603627	Carretera Quimistán - Pinalejo	secondary	1	0	0	
+HN	3603627	Pinalejo - Correderos	residential	1	0	0	
+HN	3603627	Pinalejo - Montañitas	residential	1	0	0	
+HN	3603649	1a Avenida NE	residential	1	0	0	
+HN	3603649	2a Avenida NE	residential	1	0	0	
+HN	3603649	3a Avenida NE	residential	1	0	0	
+HN	3603649	Antigua Carretera del Norte	secondary	1	0	0	
+HN	3603649	Avenida Antigua	residential	1	0	0	
+HN	3603696	Carretera Saba - Jutiapa	primary	1	0	0	
+HN	3603799	Carretera Ceibita - Santa Bárbara	secondary	1	0	0	
+HN	3603799	Carretera Ceibita -Santa Bárbara	secondary	1	0	0	
+HN	3603799	Carretera San Pedro Sula -Santa Bárbara	secondary	1	0	0	
+HN	3603799	Carretera de Occidente	primary	1	0	0	
+HN	3603799	Pueblo Nuevo - Plan de Ulola	tertiary	1	0	0	
+HN	3603805	Avenida La Encarnación	residential	1	0	0	
+HN	3603805	Avenida Marcial Ramos	residential	1	0	0	
+HN	3603805	Avenida Principal	residential	1	0	0	
+HN	3603805	Avenida del Comercio	tertiary	1	0	0	
+HN	3603805	Calle Abajo	residential	1	0	0	
+HN	3603805	Calle Cementerio	residential	1	0	0	
+HN	3603805	Calle Chila Perdomo	residential	1	0	0	
+HN	3603805	Calle Felipa Villatoro	residential	1	0	0	
+HN	3603805	Calle Iván Bouffard	residential	1	0	0	
+HN	3603805	Calle Jesús Aguilar Paz	residential	1	0	0	
+HN	3603805	Calle Los Martel	residential	1	0	0	
+HN	3603805	Calle Madre Juana Leclerc	residential	1	0	0	
+HN	3603856	Bulevar Jaragua	residential	1	0	0	
+HN	3604047	Comayagua - El Rosario	tertiary	1	0	0	
+HN	3604181	10a Avenida NO	residential	1	0	0	
+HN	3604181	1a Avenida NE	residential	1	0	0	
+HN	3604181	1a Avenida NO	residential	1	0	0	
+HN	3604181	1a Avenida SE	residential	1	0	0	
+HN	3604181	1a Avenida SO	residential	1	0	0	
+HN	3604181	1a Calle NE	residential	1	0	0	
+HN	3604181	1a Calle NO	residential	1	0	0	
+HN	3604181	1a Calle SE	residential	1	0	0	
+HN	3604181	1a Calle SO	tertiary	1	0	0	
+HN	3604181	2a Avenida NE	residential	1	0	0	
+HN	3604181	2a Avenida NO	residential	1	0	0	
+HN	3604181	2a Avenida SE	residential	1	0	0	
+HN	3604184	Carretera Río Lindo - Yojoa	secondary	1	0	0	
+HN	3604189	1a Avenida NE	residential	1	0	0	
+HN	3604189	1a Avenida NO	residential	1	0	0	
+HN	3604189	1a Avenida SE	residential	1	0	0	
+HN	3604189	1a Avenida SO	residential	1	0	0	
+HN	3604189	1a Calle NE	residential	1	0	0	
+HN	3604189	1a Calle NO	residential	1	0	0	
+HN	3604189	1a Calle SE	residential	1	0	0	
+HN	3604189	1a Calle SO	residential	1	0	0	
+HN	3604189	2a Avenida NE	residential	1	0	0	
+HN	3604189	2a Avenida NO	residential	1	0	0	
+HN	3604189	2a Avenida SE	residential	1	0	0	
+HN	3604189	2a Avenida SO	residential	1	0	0	
+HN	3604203	Carretera a Orica	tertiary	1	0	0	
+HN	3604229	10a Calle NO	residential	1	0	0	
+HN	3604229	11 Calle NO	residential	1	0	0	
+HN	3604229	1a Avenida NE	residential	1	0	0	
+HN	3604229	1a Avenida NO	residential	1	0	0	
+HN	3604229	1a Avenida SE	residential	1	0	0	
+HN	3604229	1a Avenida SO	residential	1	0	0	
+HN	3604229	1a Calle NE	residential	1	0	0	
+HN	3604229	1a Calle NO	residential	1	0	0	
+HN	3604229	1a Calle SO	residential	1	0	0	
+HN	3604229	2a Avenida NO	residential	1	0	0	
+HN	3604229	2a Avenida SE	residential	1	0	0	
+HN	3604229	2a Avenida SO	residential	1	0	0	
+HN	3604251	19 Avenida NO	residential	2	19	19	
+HN	3604251	10a Avenida NE	residential	1	0	0	
+HN	3604251	10a Avenida NO	residential	1	0	0	
+HN	3604251	10a Avenida SE	residential	1	0	0	
+HN	3604251	10a Avenida SO	residential	1	0	0	
+HN	3604251	10a Calle NE	residential	1	0	0	
+HN	3604251	10a Calle NO	residential	1	0	0	
+HN	3604251	10a Calle SE	residential	1	0	0	
+HN	3604251	10a Calle SO	residential	1	0	0	
+HN	3604251	11 Avenida NE	residential	1	0	0	
+HN	3604251	11 Avenida NO	residential	1	0	0	
+HN	3604251	11 Avenida SE	residential	1	0	0	
+HN	3604251	11 Avenida SO	residential	1	0	0	
+HN	3604251	11 Calle NO	residential	1	0	0	
+HN	3604251	11 Calle SE	residential	1	0	0	
+HN	3604251	12 Avenida NE	residential	1	0	0	
+HN	3604251	12 Avenida NO	residential	1	0	0	
+HN	3604251	12 Avenida SE	residential	1	0	0	
+HN	3604251	12 Avenida SO	residential	1	0	0	
+HN	3604251	12 Calle NO	residential	1	0	0	
+HN	3604251	12 Calle SE	residential	1	0	0	
+HN	3604251	13 Avenida NE	residential	1	0	0	
+HN	3604251	13 Avenida NO	residential	1	0	0	
+HN	3604251	13 Calle NE	residential	1	0	0	
+HN	3604251	13 Calle NO	residential	1	0	0	
+HN	3604251	13 Calle SE	residential	1	0	0	
+HN	3604251	14 Avenida NO	residential	1	0	0	
+HN	3604251	14 Avenida SE	residential	1	0	0	
+HN	3604251	14 Avenida SO	residential	1	0	0	
+HN	3604251	14 Calle NO	residential	1	0	0	
+HN	3604251	14 Calle SE	residential	1	0	0	
+HN	3604251	15 Avenida NO	residential	1	0	0	
+HN	3604251	15 Avenida SE	residential	1	0	0	
+HN	3604251	15 Avenida SO	residential	1	0	0	
+HN	3604251	15 Calle NO	residential	1	0	0	
+HN	3604251	15 Calle SE	residential	1	0	0	
+HN	3604251	16 Avenida NO	residential	1	0	0	
+HN	3604251	16 Avenida SE	residential	1	0	0	
+HN	3604251	16 Avenida SO	residential	1	0	0	
+HN	3604251	16 Calle NO	residential	1	0	0	
+HN	3604251	17 Avenida NO	residential	1	0	0	
+HN	3604251	17 Avenida SE	residential	1	0	0	
+HN	3604251	17 Avenida SO	residential	1	0	0	
+HN	3604251	17 Calle NO	residential	1	0	0	
+HN	3604251	18 Avenida NO	residential	1	0	0	
+HN	3604251	18 Avenida SE	residential	1	0	0	
+HN	3604251	18 Avenida SO	residential	1	0	0	
+HN	3604251	18 Calle NO	residential	1	0	0	
+HN	3604263	Carretera Santa Rosa - Cucuyagua	primary	1	0	0	
+HN	3604263	El Barrasco -Yaunera	tertiary	1	0	0	
+HN	3604270	Ojojona - El Aguacatal	tertiary	1	0	0	
+HN	3604292	Carretera El Empalme - Trojes	primary	1	0	0	
+HN	3604320	Calle Principal El Porvenir El Filon	residential	1	0	0	
+HN	3604375	1a Avenida	residential	1	0	0	
+HN	3604375	1a Calle	residential	1	0	0	
+HN	3604375	2a Avenida	residential	1	0	0	
+HN	3604375	2a Calle	residential	1	0	0	
+HN	3604375	3a Avenida	residential	1	0	0	
+HN	3604375	3a Calle	residential	1	0	0	
+HN	3604375	4a Avenida	residential	1	0	0	
+HN	3604375	4a Calle	residential	1	0	0	
+HN	3604375	5a Avenida	residential	1	0	0	
+HN	3604375	6a Avenida	residential	1	0	0	
+HN	3604375	7a Avenida	residential	1	0	0	
+HN	3604375	Calle Principal	residential	1	0	0	
+HN	3604376	Avenida Atlántida	residential	1	0	0	
+HN	3604376	Calle Guatemala	residential	1	0	0	
+HN	3604376	Nuevo Celilac - San José de Colinas	tertiary	1	0	0	
+HN	3604376	Nuevo Jalapa - Nuevo Celilac	tertiary	1	0	0	
+HN	3604384	10a Avenida NO	residential	1	0	0	
+HN	3604384	10a Avenida SO	residential	1	0	0	
+HN	3604384	11 Avenida NO	residential	1	0	0	
+HN	3604384	11 Avenida SO	residential	1	0	0	
+HN	3604384	12 Avenida NO	residential	1	0	0	
+HN	3604384	12 Avenida SO	residential	1	0	0	
+HN	3604384	13 Avenida NO	residential	1	0	0	
+HN	3604384	13 Avenida SO	residential	1	0	0	
+HN	3604384	14 Avenida NO	residential	1	0	0	
+HN	3604384	14 Avenida SO	residential	1	0	0	
+HN	3604384	15 Avenida NO	residential	1	0	0	
+HN	3604384	15 Avenida SO	residential	1	0	0	
+HN	3604384	16 Avenida NO	residential	1	0	0	
+HN	3604384	16 Avenida SO	residential	1	0	0	
+HN	3604384	17 Avenida NO	residential	1	0	0	
+HN	3604384	17 Avenida SO	residential	1	0	0	
+HN	3604384	18 Avenida NO	residential	1	0	0	
+HN	3604384	18 Avenida SO	residential	1	0	0	
+HN	3604384	19 Avenida NO	residential	1	0	0	
+HN	3604384	19 Avenida SO	residential	1	0	0	
+HN	3604384	1a Avenida NE	residential	1	0	0	
+HN	3604384	1a Avenida SE	residential	1	0	0	
+HN	3604384	1a Calle NE	residential	1	0	0	
+HN	3604384	1a Calle NO	residential	1	0	0	
+HN	3604386	Arada - Choloma	tertiary	1	0	0	
+HN	3604395	Carretera Jutiapa - Nueva Armenia	tertiary	1	0	0	
+HN	3604396	RV 299 a Copan Ruinas	tertiary	1	0	0	
+HN	3604414	Carretera a Nombre de Jesús	tertiary	1	0	0	
+HN	3604478	10a Avenida	residential	1	0	0	
+HN	3604478	11a Avenida	residential	1	0	0	
+HN	3604478	12a Avenida	residential	1	0	0	
+HN	3604478	13a Avenida	residential	1	0	0	
+HN	3604478	14a Avenida	residential	1	0	0	
+HN	3604478	15a Avenida	residential	1	0	0	
+HN	3604478	16a Avenida	residential	1	0	0	
+HN	3604478	17a Avenida	residential	1	0	0	
+HN	3604478	18a Avenida	residential	1	0	0	
+HN	3604478	1a Avenida	residential	1	0	0	
+HN	3604478	1a Calle	residential	1	0	0	
+HN	3604478	2a Avenida	residential	1	0	0	
+HN	3604503	1a Avenida NE	residential	1	0	0	
+HN	3604503	1a Avenida NO	residential	1	0	0	
+HN	3604503	1a Avenida SE	residential	1	0	0	
+HN	3604503	1a Calle NE	residential	1	0	0	
+HN	3604503	1a Calle SE	residential	1	0	0	
+HN	3604503	1a Calle SO	residential	1	0	0	
+HN	3604503	2a Avenida NE	residential	1	0	0	
+HN	3604503	2a Avenida NO	residential	1	0	0	
+HN	3604503	2a Avenida SE	residential	1	0	0	
+HN	3604503	2a Calle NO	residential	1	0	0	
+HN	3604503	2a Calle SO	residential	1	0	0	
+HN	3604503	3a Avenida NE	residential	1	0	0	
+HN	3604518	Carretera de Occidente	primary	1	0	0	
+HN	3604522	10a Avenida SO	residential	1	0	0	
+HN	3604522	10a Calle NE	residential	1	0	0	
+HN	3604522	10a Calle NO	residential	1	0	0	
+HN	3604522	10a Calle SO	residential	1	0	0	
+HN	3604522	11 Avenida SO	residential	1	0	0	
+HN	3604522	11 Calle NE	residential	1	0	0	
+HN	3604522	11 Calle NO	residential	1	0	0	
+HN	3604522	11 Calle SO	residential	1	0	0	
+HN	3604522	12 Avenida SO	residential	1	0	0	
+HN	3604522	12 Calle NE	residential	1	0	0	
+HN	3604522	12 Calle NO	residential	1	0	0	
+HN	3604522	13 Avenida SO	residential	1	0	0	
+HN	3604522	13 Calle NE	residential	1	0	0	
+HN	3604522	13 Calle NO	residential	1	0	0	
+HN	3604522	14 Avenida SO	residential	1	0	0	
+HN	3604522	14 Calle NE	residential	1	0	0	
+HN	3604522	15 Avenida SO	residential	1	0	0	
+HN	3604522	15 Calle NE	residential	1	0	0	
+HN	3604522	16 Avenida SO	residential	1	0	0	
+HN	3604522	16 Calle NE	residential	1	0	0	
+HN	3604522	16 Calle NO	residential	1	0	0	
+HN	3604522	17 Avenida SO	residential	1	0	0	
+HN	3604522	17 Calle NE	residential	1	0	0	
+HN	3604522	18 Calle NE	residential	1	0	0	
+HN	3604576	1a Avenida NE	residential	1	0	0	
+HN	3604576	1a Avenida NO	residential	1	0	0	
+HN	3604576	1a Avenida SE	residential	1	0	0	
+HN	3604576	1a Calle NE	residential	1	0	0	
+HN	3604576	1a Calle NO	residential	1	0	0	
+HN	3604576	1a Calle SE	residential	1	0	0	
+HN	3604576	1a Calle SO	residential	1	0	0	
+HN	3604576	2a Avenida NE	residential	1	0	0	
+HN	3604576	2a Avenida NO	residential	1	0	0	
+HN	3604576	2a Avenida SO	residential	1	0	0	
+HN	3604576	2a Calle NE	residential	1	0	0	
+HN	3604576	2a Calle NO	residential	1	0	0	
+HN	3604579	10a Calle SE	residential	1	0	0	
+HN	3604579	10a Calle SO	residential	1	0	0	
+HN	3604579	11 Calle SE	residential	1	0	0	
+HN	3604579	11 Calle SO	residential	1	0	0	
+HN	3604579	1a Avenida NE	residential	1	0	0	
+HN	3604579	1a Avenida NO	residential	1	0	0	
+HN	3604579	1a Avenida SE	residential	1	0	0	
+HN	3604579	1a Calle NE	residential	1	0	0	
+HN	3604579	1a Calle NO	residential	1	0	0	
+HN	3604579	1a Calle SE	residential	1	0	0	
+HN	3604579	1a Calle SO	tertiary	1	0	0	
+HN	3604579	2a Avenida NE	residential	1	0	0	
+HN	3604584	10a Avenida NO	residential	1	0	0	
+HN	3604584	10a Avenida SE	residential	1	0	0	
+HN	3604584	10a Avenida SO	residential	1	0	0	
+HN	3604584	10a Calle NE	residential	1	0	0	
+HN	3604584	10a Calle SE	residential	1	0	0	
+HN	3604584	10a Calle SO	residential	1	0	0	
+HN	3604584	11 Avenida SE	residential	1	0	0	
+HN	3604584	11 Avenida SO	residential	1	0	0	
+HN	3604584	11 Calle SE	residential	1	0	0	
+HN	3604584	11 Calle SO	residential	1	0	0	
+HN	3604584	12 Avenida NO	residential	1	0	0	
+HN	3604584	12 Avenida SE	residential	1	0	0	
+HN	3604584	12 Avenida SO	residential	1	0	0	
+HN	3604584	12 Calle SE	residential	1	0	0	
+HN	3604584	12 Calle SO	residential	1	0	0	
+HN	3604584	13 Avenida NO	residential	1	0	0	
+HN	3604584	13 Avenida SE	residential	1	0	0	
+HN	3604584	13 Avenida SO	residential	1	0	0	
+HN	3604584	13 Calle SE	residential	1	0	0	
+HN	3604584	13 Calle SO	residential	1	0	0	
+HN	3604584	14 Avenida NO	residential	1	0	0	
+HN	3604584	14 Avenida SE	residential	1	0	0	
+HN	3604584	14 Avenida SO	residential	1	0	0	
+HN	3604584	14 Calle SE	residential	1	0	0	
+HN	3604614	Carretera Choloma - El Higuero	tertiary	1	0	0	
+HN	3604614	Carretera Ticamaya - Montanuela	tertiary	1	0	0	
+HN	3604686	El Tamboral - Colonia Tres de Febrero	tertiary	1	0	0	
+HN	3604686	El Zapote - Los Chachos	tertiary	1	0	0	
+HN	3604686	La Lucha - Los Zapotes	tertiary	1	0	0	
+HN	3604686	La Tronconada - El Anillo	unclassified	1	0	0	
+HN	3604686	La Tronconada - Palenque	unclassified	1	0	0	
+HN	3604686	Monjaras - El Jiote	tertiary	1	0	0	
+HN	3604686	Monjaras - Guapinol	tertiary	1	0	0	
+HN	3604686	San Isidro - Buena Vista	tertiary	1	0	0	
+HN	3604686	s	residential	1	0	0	
+HN	3604795	Acceso Minas de San Antonio - Corralitos	unclassified	1	0	0	
+HN	3604795	Acceso Pie de la Cuesta - El Higuerito	unclassified	1	0	0	
+HN	3604795	Acceso a Tanque Cerro Cáscaras	unclassified	1	0	0	
+HN	3604795	Calle Esquias - Minas de Oro	tertiary	1	0	0	
+HN	3604795	Calle Minas de Oro - San José del Potrero	secondary	1	0	0	
+HN	3604795	Calle Parque Central hacia Tegucigalpa	tertiary	1	0	0	
+HN	3604795	Calle San Francisco de La Peña - San Isidro de Mal Paso	tertiary	1	0	0	
+HN	3604795	Calle al rededor del Parque Central	tertiary	1	0	0	
+HN	3604795	Calle de La Peña a Esquias	secondary	1	0	0	
+HN	3604795	Calle de La Peña a aldea Mal Paso	tertiary	1	0	0	
+HN	3604795	Calle de el parque hacia Esquias	tertiary	1	0	0	
+HN	3604795	Calle del parque central a San Antonio	secondary	1	0	0	
+HN	3604835	Aldea Pajuiles - Planes de Arena	tertiary	1	0	0	
+HN	3604835	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3604835	Carretera Mezapa - Urraco Pueblo	tertiary	1	0	0	
+HN	3604835	Carretera Toyos - Mezapa	secondary	1	0	0	
+HN	3604835	Planes de Arena - Mezapa	tertiary	1	0	0	
+HN	3604855	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3604894	1a Avenida NE	tertiary	1	0	0	
+HN	3604894	1a Avenida SE	tertiary	1	0	0	
+HN	3604894	1a Avenida SO	residential	1	0	0	
+HN	3604894	1a Calle NE	residential	1	0	0	
+HN	3604894	1a Calle NO	residential	1	0	0	
+HN	3604894	1a Calle SE	residential	1	0	0	
+HN	3604894	1a Calle SO	residential	1	0	0	
+HN	3604894	2a Avenida NE	tertiary	1	0	0	
+HN	3604894	2a Avenida NO	residential	1	0	0	
+HN	3604894	2a Avenida SE	residential	1	0	0	
+HN	3604894	2a Avenida SO	residential	1	0	0	
+HN	3604894	2a Calle NE	residential	1	0	0	
+HN	3604911	Carretera de Lepaterique	secondary	1	0	0	
+HN	3604949	Agua Caliente - El Guantillo	tertiary	1	0	0	
+HN	3605000	10a Avenida NE	residential	1	0	0	
+HN	3605000	11 Avenida NE	residential	1	0	0	
+HN	3605000	12 Avenida NE	residential	1	0	0	
+HN	3605000	13 Avenida NE	residential	1	0	0	
+HN	3605000	14 Avenida NE	residential	1	0	0	
+HN	3605000	14 Avenida SE	residential	1	0	0	
+HN	3605000	15 Avenida NE	residential	1	0	0	
+HN	3605000	15 Avenida SE	residential	1	0	0	
+HN	3605000	16 Avenida NE	residential	1	0	0	
+HN	3605000	16 Avenida SE	residential	1	0	0	
+HN	3605000	17 Avenida NE	residential	1	0	0	
+HN	3605000	17 Avenida SE	residential	1	0	0	
+HN	3605005	Avenida San Miguel Arcángel	residential	1	0	0	
+HN	3605005	Calle Hacial el Batallón	residential	1	0	0	
+HN	3605005	Calle hacia el batallón	residential	1	0	0	
+HN	3605005	Carretera La Esperanza-Marcala	primary	1	0	0	
+HN	3605005	Carretera La Paz - Marcala	primary	1	0	0	
+HN	3605005	Cuarta Avenida	residential	1	0	0	
+HN	3605005	Hacia balneario El Eucalipto	residential	1	0	0	
+HN	3605005	Marcala - Santa Cruz	tertiary	1	0	0	
+HN	3605005	Novena Avenida	residential	1	0	0	
+HN	3605005	Octava Avenida	residential	1	0	0	
+HN	3605005	Primera Avenida	residential	1	0	0	
+HN	3605005	Primera avenida lot. Moreno	residential	1	0	0	
+HN	3605005	Quinta Avenida	residential	1	0	0	
+HN	3605005	Segunda Avenida	primary	1	0	0	
+HN	3605005	Segunda avenida lot. Moreno	residential	1	0	0	
+HN	3605005	Sexta Avenida	residential	1	0	0	
+HN	3605005	Séptima Avenida	residential	1	0	0	
+HN	3605005	Tercera Avenida	primary	1	0	0	
+HN	3605005	calle de Mogola	unclassified	1	0	0	
+HN	3605005	desde El Cerron hasta el Chiflador	unclassified	1	0	0	
+HN	3605018	Carretera El Porvenir - Marale	primary	1	0	0	
+HN	3605018	Carretera Marale - Sulaco	primary	1	0	0	
+HN	3605053	Carretera Yodeco - La Unión	tertiary	1	0	0	
+HN	3605053	La Unión - Mangulile	tertiary	1	0	0	
+HN	3605082	1a Avenida NE	tertiary	1	0	0	
+HN	3605082	1a Avenida NO	residential	1	0	0	
+HN	3605082	1a Avenida SE	residential	1	0	0	
+HN	3605082	1a Calle NO	residential	1	0	0	
+HN	3605082	1a Calle SE	residential	1	0	0	
+HN	3605082	1a Calle SO	residential	1	0	0	
+HN	3605082	2a Avenida NE	residential	1	0	0	
+HN	3605082	2a Avenida SE	residential	1	0	0	
+HN	3605082	2a Calle NE	residential	1	0	0	
+HN	3605082	2a Calle NO	residential	1	0	0	
+HN	3605082	2a Calle SE	residential	1	0	0	
+HN	3605082	3a Avenida NE	residential	1	0	0	
+HN	3605179	Colomoncagua - Santa Ana	tertiary	1	0	0	
+HN	3605222	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3605258	Carretera de Occidente	primary	1	0	0	
+HN	3605382	Carretera a la Frontera	tertiary	1	0	0	
+HN	3605436	Calle hacia El Canal	unclassified	1	0	0	
+HN	3605436	Carretera Peña Blanca - Las Vegas	secondary	1	0	0	
+HN	3605491	Los Llanitos - El Colorado	tertiary	1	0	0	
+HN	3605758	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3605837	Carretera Ayapa - La Rosa	tertiary	1	0	0	
+HN	3605873	Frontera Guatemala - Honduras	unclassified	1	0	0	
+HN	3605907	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3605950	1a Avenida NE	residential	1	0	0	
+HN	3605950	1a Avenida NO	residential	1	0	0	
+HN	3605950	1a Avenida SE	residential	1	0	0	
+HN	3605950	1a Calle NE	residential	1	0	0	
+HN	3605950	1a Calle SE	residential	1	0	0	
+HN	3605950	1a Calle SO	residential	1	0	0	
+HN	3605950	2a Avenida NE	residential	1	0	0	
+HN	3605950	2a Avenida SE	residential	1	0	0	
+HN	3605950	2a Calle NE	residential	1	0	0	
+HN	3605950	2a Calle NO	residential	1	0	0	
+HN	3605950	2a Calle SE	residential	1	0	0	
+HN	3605950	2a Calle SO	residential	1	0	0	
+HN	3606035	Carretera de Lepaterique	secondary	1	0	0	
+HN	3606035	Lepatrique - Muluaca	tertiary	1	0	0	
+HN	3606069	1a Avenida NE	residential	1	0	0	
+HN	3606069	1a Avenida NO	residential	1	0	0	
+HN	3606069	1a Avenida SE	residential	1	0	0	
+HN	3606069	1a Avenida SO	residential	1	0	0	
+HN	3606069	1a Calle NE	residential	1	0	0	
+HN	3606069	1a Calle NO	residential	1	0	0	
+HN	3606069	1a Calle SE	residential	1	0	0	
+HN	3606069	1a Calle SO	residential	1	0	0	
+HN	3606069	2a Avenida NE	residential	1	0	0	
+HN	3606069	2a Avenida NO	residential	1	0	0	
+HN	3606069	2a Avenida SE	residential	1	0	0	
+HN	3606069	2a Avenida SO	residential	1	0	0	
+HN	3606159	Calle del Ferrocarril	residential	1	0	0	
+HN	3606159	Carretera La Ceiba - San Juan Pueblo	primary	1	0	0	
+HN	3606164	calle	residential	1	0	0	
+HN	3606171	El Palmo - La Unión	tertiary	1	0	0	
+HN	3606187	Carretera La Trinidad - Ojos de Agua	tertiary	1	0	0	
+HN	3606187	Carretera Siguatepeque - La Trinidad	tertiary	1	0	0	
+HN	3606251	Carretera Las Vegas - Agualteca	secondary	1	0	0	
+HN	3606251	Carretera Peña Blanca - Las Vegas	secondary	1	0	0	
+HN	3606292	11 Calle NE	residential	1	0	0	
+HN	3606292	12 Avenida SE	residential	1	0	0	
+HN	3606292	12 Calle SE	residential	1	0	0	
+HN	3606292	13 Calle NE	residential	1	0	0	
+HN	3606292	14 Calle NE	residential	1	0	0	
+HN	3606292	14 Calle NO	residential	1	0	0	
+HN	3606292	15 Calle NE	residential	1	0	0	
+HN	3606292	16 Calle NE	residential	1	0	0	
+HN	3606292	18 Calle NO	residential	1	0	0	
+HN	3606292	19 Calle NO	residential	1	0	0	
+HN	3606292	1a Avenida NE	tertiary	1	0	0	
+HN	3606292	2a Avenida NO	residential	1	0	0	
+HN	3606292	3a Calle SE	tertiary	1	0	0	
+HN	3606292	5a Calle SO	residential	1	0	0	
+HN	3606292	6a Avenida SE	residential	1	0	0	
+HN	3606292	6a Avenida SO	residential	1	0	0	
+HN	3606292	7a Avenida SE	tertiary	1	0	0	
+HN	3606292	Avenida Central Norte	residential	1	0	0	
+HN	3606292	Avenida Central Sur	residential	1	0	0	
+HN	3606292	Calle Central Este	residential	1	0	0	
+HN	3606292	Calle Central Oeste	residential	1	0	0	
+HN	3606292	Carretera El Empalme - Trojes	primary	1	0	0	
+HN	3606292	Carretera Teotecacinte - El Porvenir	secondary	1	0	0	
+HN	3606292	Trojes - Buenos Aiires	tertiary	1	0	0	
+HN	3606320	Calzada La Poza	residential	1	0	0	
+HN	3606320	Carretera de Lepaterique	secondary	1	0	0	
+HN	3606320	Paseo Los Laureles	unclassified	1	0	0	
+HN	3606669	La Cancepción - Meambar	tertiary	1	0	0	
+HN	3606901	El Chaparro - Cacaulito	tertiary	1	0	0	
+HN	3606901	El Colorado - Las Arenas	tertiary	1	0	0	
+HN	3606901	El Colorado - San José de Conchas	tertiary	1	0	0	
+HN	3606901	El Jiote - Punta Ratón	tertiary	1	0	0	
+HN	3606901	El Obraje - Las Arenas	tertiary	1	0	0	
+HN	3606901	San José de Conchas - El Jiote	tertiary	1	0	0	
+HN	3607003	Carretera Santa Rita - El Negrito	primary	1	0	0	
+HN	3607030	Las Ánimas- El Olingo	secondary	1	0	0	
+HN	3607042	RV-847	tertiary	1	0	0	
+HN	3607146	Principal a Santa Cruz		3	0	0	
+HN	3607146	Barrio Nuevo	residential	1	0	0	
+HN	3607146	Calle Alexander A	tertiary	1	0	0	
+HN	3607146	Calle Nueva	residential	1	0	0	
+HN	3607146	Calle Principal	residential	1	0	0	
+HN	3607146	RV 296 Principal a Santa Cruz	tertiary	1	0	0	
+HN	3607146	RV 297	tertiary	1	0	0	
+HN	3607146	RV 298 2da Carretera Santa Cruz	tertiary	1	0	0	
+HN	3607254	10a Avenida SE	residential	1	0	0	
+HN	3607254	10a Avenida SO	residential	1	0	0	
+HN	3607254	10a Calle SE	residential	1	0	0	
+HN	3607254	10a Calle SO	residential	1	0	0	
+HN	3607254	11 Avenida SO	residential	1	0	0	
+HN	3607254	11 Calle SE	residential	1	0	0	
+HN	3607254	11 Calle SO	residential	1	0	0	
+HN	3607254	11a Avenida SE	residential	1	0	0	
+HN	3607254	12 Avenida NO	residential	1	0	0	
+HN	3607254	12 Avenida SO	residential	1	0	0	
+HN	3607254	12 Calle SE	residential	1	0	0	
+HN	3607254	12 Calle SO	residential	1	0	0	
+HN	3607254	12a Avenida SE	residential	1	0	0	
+HN	3607254	13 Avenida SO	residential	1	0	0	
+HN	3607254	13 Calle SE	residential	1	0	0	
+HN	3607254	13 Calle SO	residential	1	0	0	
+HN	3607254	13a Avenida SE	residential	1	0	0	
+HN	3607254	14 Avenida NO	residential	1	0	0	
+HN	3607254	14 Calle SE	residential	1	0	0	
+HN	3607254	14 Calle SO	residential	1	0	0	
+HN	3607254	14a Avenida SE	residential	1	0	0	
+HN	3607254	14a Avenida SO	residential	1	0	0	
+HN	3607254	15 Calle SO	residential	1	0	0	
+HN	3607254	15a Avenida SE	residential	1	0	0	
+HN	3607254	16 Calle SO	residential	1	0	0	
+HN	3607254	17 Calle SO	residential	1	0	0	
+HN	3607254	18 Calle SO	residential	1	0	0	
+HN	3607254	1a Avenida NE	residential	1	0	0	
+HN	3607254	1a Avenida NO	residential	1	0	0	
+HN	3607254	1a Avenida SE	residential	1	0	0	
+HN	3607254	1a Avenida SO	residential	1	0	0	
+HN	3607254	1a Calle NE	residential	1	0	0	
+HN	3607254	1a Calle NO	residential	1	0	0	
+HN	3607254	1a Calle SE	residential	1	0	0	
+HN	3607254	1a Calle SO	residential	1	0	0	
+HN	3607254	2a Avenida NE	residential	1	0	0	
+HN	3607254	2a Avenida NO	residential	1	0	0	
+HN	3607254	2a Avenida SE	residential	1	0	0	
+HN	3607254	2a Avenida SO	residential	1	0	0	
+HN	3607254	2a Calle NE	residential	1	0	0	
+HN	3607254	2a Calle NO	residential	1	0	0	
+HN	3607254	2a Calle SE	residential	1	0	0	
+HN	3607254	2a Calle SO	residential	1	0	0	
+HN	3607254	3a Avenida NE	residential	1	0	0	
+HN	3607254	3a Avenida NO	residential	1	0	0	
+HN	3607254	3a Avenida SE	residential	1	0	0	
+HN	3607254	3a Avenida SO	residential	1	0	0	
+HN	3607254	3a Calle NE	residential	1	0	0	
+HN	3607381	Carretera Santa Rita - El Progreso	primary	1	0	0	
+HN	3607419	10a Avenida SE	residential	1	0	0	
+HN	3607419	10a Calle SE	residential	1	0	0	
+HN	3607419	11 Avenida SE	residential	1	0	0	
+HN	3607419	11 Calle SE	residential	1	0	0	
+HN	3607419	12 Avenida SE	residential	1	0	0	
+HN	3607419	12 Calle SE	residential	1	0	0	
+HN	3607419	13 Avenida SE	residential	1	0	0	
+HN	3607419	13 Calle SE	residential	1	0	0	
+HN	3607419	14 Avenida SE	residential	1	0	0	
+HN	3607419	14 Calle SE	residential	1	0	0	
+HN	3607419	1a Avenida NE	residential	1	0	0	
+HN	3607419	1a Avenida NO	residential	1	0	0	
+HN	3607436	1a Avenida NE	residential	1	0	0	
+HN	3607436	1a Avenida NO	residential	1	0	0	
+HN	3607436	1a Avenida SO	residential	1	0	0	
+HN	3607436	1a Calle NE	residential	1	0	0	
+HN	3607436	1a Calle NO	residential	1	0	0	
+HN	3607436	1a Calle SE	unclassified	1	0	0	
+HN	3607436	1a Calle SO	residential	1	0	0	
+HN	3607436	2a Avenida NE	residential	1	0	0	
+HN	3607436	2a Avenida NO	residential	1	0	0	
+HN	3607436	2a Avenida SO	residential	1	0	0	
+HN	3607436	2a Calle NE	residential	1	0	0	
+HN	3607436	2a Calle NO	tertiary	1	0	0	
+HN	3607511	10a Avenida	residential	1	0	0	
+HN	3607511	10a Avenida SE	residential	1	0	0	
+HN	3607511	10a Calle	residential	1	0	0	
+HN	3607511	10a Calle A	residential	1	0	0	
+HN	3607511	10a Calle B	residential	1	0	0	
+HN	3607511	10a Calle NE	residential	1	0	0	
+HN	3607511	10a Calle NO	residential	1	0	0	
+HN	3607511	10a Calle SE	residential	1	0	0	
+HN	3607511	10ª Calle	residential	1	0	0	
+HN	3607511	11 Calle NO	residential	1	0	0	
+HN	3607511	11a Avenida	residential	1	0	0	
+HN	3607511	11a Avenida SE	residential	1	0	0	
+HN	3607511	11a Calle	residential	1	0	0	
+HN	3607511	11a Calle SE	residential	1	0	0	
+HN	3607511	12 Calle NE	residential	1	0	0	
+HN	3607511	12 Calle NO	residential	1	0	0	
+HN	3607511	12a Avenida	residential	1	0	0	
+HN	3607511	12a Avenida SE	residential	1	0	0	
+HN	3607511	12a Calle	residential	1	0	0	
+HN	3607511	12a Calle SE	residential	1	0	0	
+HN	3607511	13 Calle NO	residential	1	0	0	
+HN	3607511	13a Avenida	residential	1	0	0	
+HN	3607511	13a Avenida SE	residential	1	0	0	
+HN	3607511	13a Calle	residential	1	0	0	
+HN	3607511	14 Calle	residential	1	0	0	
+HN	3607511	14 Calle NE	residential	1	0	0	
+HN	3607511	14 Calle NO	residential	1	0	0	
+HN	3607511	14a Avenida	residential	1	0	0	
+HN	3607511	14a Avenida SE	residential	1	0	0	
+HN	3607511	14a Calle	residential	1	0	0	
+HN	3607511	14a Calle NE	residential	1	0	0	
+HN	3607511	15 Calle	residential	1	0	0	
+HN	3607511	15 Calle NO	residential	1	0	0	
+HN	3607511	15a Avenida	residential	1	0	0	
+HN	3607511	15a Avenida SE	residential	1	0	0	
+HN	3607511	15a Calle	residential	1	0	0	
+HN	3607511	16 Calle	residential	1	0	0	
+HN	3607511	16 Calle NE	residential	1	0	0	
+HN	3607511	16 Calle NO	residential	1	0	0	
+HN	3607511	16a Avenida	residential	1	0	0	
+HN	3607511	16a Avenida SE	residential	1	0	0	
+HN	3607511	16a Calle	residential	1	0	0	
+HN	3607511	17 Calle	residential	1	0	0	
+HN	3607511	17 Calle NO	residential	1	0	0	
+HN	3607511	17a Avenida	residential	1	0	0	
+HN	3607511	17a Avenida A	residential	1	0	0	
+HN	3607511	17a Avenida SE	residential	1	0	0	
+HN	3607511	17a Calle	residential	1	0	0	
+HN	3607538	camino de herradura	unclassified	1	0	0	
+HN	3607540	10a Avenida NE	residential	1	0	0	
+HN	3607540	10a Avenida SE	residential	1	0	0	
+HN	3607540	1a Avenida NE	residential	1	0	0	
+HN	3607540	1a Avenida NO	residential	1	0	0	
+HN	3607540	1a Avenida SE	residential	1	0	0	
+HN	3607540	1a Avenida SO	residential	1	0	0	
+HN	3607540	1a Calle NO	residential	1	0	0	
+HN	3607540	1a Calle SE	residential	1	0	0	
+HN	3607540	1a Calle SO	residential	1	0	0	
+HN	3607540	2a Avenida NE	residential	1	0	0	
+HN	3607540	2a Avenida NO	residential	1	0	0	
+HN	3607540	2a Avenida SE	residential	1	0	0	
+HN	3607644	Bulevar Carlos Aguilar	tertiary	1	0	0	
+HN	3607644	Carretera Cucuyagua - Ocotepeque	primary	1	0	0	
+HN	3607647	Avenida Central Este	tertiary	1	0	0	
+HN	3607647	Avenida Central Oeste	tertiary	1	0	0	
+HN	3607647	Carretera Choloma - La Jutosa	tertiary	1	0	0	
+HN	3607679	1a Avenida NE	residential	1	0	0	
+HN	3607679	1a Avenida NO	residential	1	0	0	
+HN	3607679	1a Avenida SE	residential	1	0	0	
+HN	3607679	1a Avenida SO	residential	1	0	0	
+HN	3607679	1a Calle NE	residential	1	0	0	
+HN	3607679	1a Calle NO	residential	1	0	0	
+HN	3607679	1a Calle SO	residential	1	0	0	
+HN	3607679	2a Avenida SE	residential	1	0	0	
+HN	3607679	2a Avenida SO	residential	1	0	0	
+HN	3607679	2a Calle NE	residential	1	0	0	
+HN	3607679	2a Calle NO	residential	1	0	0	
+HN	3607679	2a Calle SE	residential	1	0	0	
+HN	3607731	Carretera Ticamaya - Montanuela	tertiary	1	0	0	
+HN	3607797	Carretera Villanueva - Concepción del Norte	secondary	1	0	0	
+HN	3607919	Carretera de Occidente	primary	1	0	0	
+HN	3607930	Calle de Cuyamapa El Puentesito	residential	1	0	0	
+HN	3607930	Carretera Yoro - Morazan	primary	1	0	0	
+HN	3607948	Carretera El Carbon - Bonito Oriental	primary	1	0	0	
+HN	3607957	RV 298 2da Carretera a Santa Cruz	tertiary	1	0	0	
+HN	3607966	Avenida Centenario	primary	1	0	0	
+HN	3607966	Avenida General Vásquez	residential	1	0	0	
+HN	3607966	Carretera La Esperanza-Marcala	primary	1	0	0	
+HN	3607983	Carretera Talanga - Cedros	primary	1	0	0	
+HN	3607983	Carretera Talanga - Guaimaca	primary	1	0	0	
+HN	3607983	r	residential	1	0	0	
+HN	3607983	residencial	residential	1	0	0	
+HN	3607983	rswidencial	residential	1	0	0	
+HN	3607986	10a Calle NE	residential	1	0	0	
+HN	3607986	11a Calle NE	residential	1	0	0	
+HN	3607986	12a Calle NE	residential	1	0	0	
+HN	3607986	12a Calle NO	residential	1	0	0	
+HN	3607986	13a Calle NE	residential	1	0	0	
+HN	3607986	1a Avenida NE	residential	1	0	0	
+HN	3607986	1a Avenida NO	residential	1	0	0	
+HN	3607986	1a Avenida SE	residential	1	0	0	
+HN	3607986	1a Avenida SO	residential	1	0	0	
+HN	3607986	1a Calle NE	residential	1	0	0	
+HN	3607986	1a Calle NO	residential	1	0	0	
+HN	3607986	1a Calle SE	residential	1	0	0	
+HN	3607986	1a Calle SO	residential	1	0	0	
+HN	3607986	2a Avenida NE	residential	1	0	0	
+HN	3607986	2a Avenida NO	residential	1	0	0	
+HN	3607986	2a Avenida SE	residential	1	0	0	
+HN	3607986	2a Calle NE	residential	1	0	0	
+HN	3607986	2a Calle NO	residential	1	0	0	
+HN	3607986	2a Calle SO	residential	1	0	0	
+HN	3607986	3a Avenida NE	residential	1	0	0	
+HN	3607986	3a Avenida SE	residential	1	0	0	
+HN	3607986	3a Calle NE	residential	1	0	0	
+HN	3607986	3a Calle SE	residential	1	0	0	
+HN	3607986	3a Calle SO	tertiary	1	0	0	
+HN	3607992	San Jorge - Rio Blanco	tertiary	1	0	0	
+HN	3607996	Anillo Agricola	secondary	1	0	0	
+HN	3607996	Carretera Juticalpa - San Francisco Becerra	secondary	1	0	0	
+HN	3608022	Carretera Trujillo - Corocito	primary	1	0	0	
+HN	3608142	Carretera Juticalpa - Catacamas	primary	1	0	0	
+HN	3608248	Monte Carlo		2	4	4	
+HN	3608248	0 Calle	residential	1	0	0	
+HN	3608248	10a Avenida	residential	1	0	0	
+HN	3608248	10a Avenida Este	residential	1	0	0	
+HN	3608248	10a Calle	residential	1	0	0	
+HN	3608248	10a Calle A	residential	1	0	0	
+HN	3608248	10a Calle Noreste	residential	1	0	0	
+HN	3608248	10ª Calle	residential	1	0	0	
+HN	3608248	11a Avenida	residential	1	0	0	
+HN	3608248	11a Avenida Este	residential	1	0	0	
+HN	3608248	11a Calle	residential	1	0	0	
+HN	3608248	11a Calle A	residential	1	0	0	
+HN	3608248	11ª Calle	residential	1	0	0	
+HN	3608248	12a Avenida	residential	1	0	0	
+HN	3608248	12a Avenida Este	residential	1	0	0	
+HN	3608248	12a Calle	residential	1	0	0	
+HN	3608248	12a Calle A	residential	1	0	0	
+HN	3608248	12a Calle B	residential	1	0	0	
+HN	3608248	13a Avenida	residential	1	0	0	
+HN	3608248	13a Avenida Este	residential	1	0	0	
+HN	3608248	13a Calle	residential	1	0	0	
+HN	3608248	13a Calle A	residential	1	0	0	
+HN	3608248	14a Avenida	residential	1	0	0	
+HN	3608248	14a Avenida Este	residential	1	0	0	
+HN	3608248	14a Calle	residential	1	0	0	
+HN	3608248	14a Calle A	residential	1	0	0	
+HN	3608248	14a Calle B	residential	1	0	0	
+HN	3608248	15a Avenida	residential	1	0	0	
+HN	3608248	15a Avenida Este	residential	1	0	0	
+HN	3608248	15a Calle	residential	1	0	0	
+HN	3608248	16a Avenida	residential	1	0	0	
+HN	3608248	16a Avenida Este	residential	1	0	0	
+HN	3608248	16a Calle	residential	1	0	0	
+HN	3608248	17a Avenida	residential	1	0	0	
+HN	3608248	17a Avenida Este	residential	1	0	0	
+HN	3608248	17a Calle	residential	1	0	0	
+HN	3608248	18a Calle	residential	1	0	0	
+HN	3608248	19a Calle	residential	1	0	0	
+HN	3608248	1a Avenida	residential	1	0	0	
+HN	3608248	1a Avenida A	residential	1	0	0	
+HN	3608248	1a Avenida Este	residential	1	0	0	
+HN	3608248	1a Avenida Oeste	residential	1	0	0	
+HN	3608248	1a Calle	residential	1	0	0	
+HN	3608248	1a Calle Este	residential	1	0	0	
+HN	3608248	1a Calle Oeste	residential	1	0	0	
+HN	3608248	1er Pasaje	residential	1	0	0	
+HN	3608248	1ª Avenida	residential	1	0	0	
+HN	3608248	1ª Calle	residential	1	0	0	
+HN	3608248	20a Calle	residential	1	0	0	
+HN	3608248	20a Calle A	residential	1	0	0	
+HN	3608248	21a Calle	residential	1	0	0	
+HN	3608248	21a Calle A	residential	1	0	0	
+HN	3608248	22a Calle	residential	1	0	0	
+HN	3608248	23a Calle	residential	1	0	0	
+HN	3608248	24a Calle	residential	1	0	0	
+HN	3608248	25a Calle	residential	1	0	0	
+HN	3608248	26a Calle	residential	1	0	0	
+HN	3608248	27a Calle	residential	1	0	0	
+HN	3608248	2a Avenida	residential	1	0	0	
+HN	3608248	2a Avenida Este	residential	1	0	0	
+HN	3608248	2a Avenida Oeste	residential	1	0	0	
+HN	3608248	2a Calle	residential	1	0	0	
+HN	3608248	2a Calle Este	residential	1	0	0	
+HN	3608248	2a Calle Oeste	residential	1	0	0	
+HN	3608248	2do Pasaje	residential	1	0	0	
+HN	3608248	2ª Avenida	residential	1	0	0	
+HN	3608248	2ª Calle	residential	1	0	0	
+HN	3608248	3a Avenida	residential	1	0	0	
+HN	3608248	3a Avenida Este	residential	1	0	0	
+HN	3608248	3a Avenida Oeste	residential	1	0	0	
+HN	3608248	3a Cale	residential	1	0	0	
+HN	3608248	3a Calle	residential	1	0	0	
+HN	3608248	3a Calle Este	residential	1	0	0	
+HN	3608248	3a Calle Oeste	residential	1	0	0	
+HN	3608248	3er Pasaje	residential	1	0	0	
+HN	3608248	3ª Avenida	residential	1	0	0	
+HN	3608248	3ª Calle	residential	1	0	0	
+HN	3608248	4a Avenida	residential	1	0	0	
+HN	3608248	4a Avenida Este	residential	1	0	0	
+HN	3608248	4a Avenida Oeste	residential	1	0	0	
+HN	3608248	4a Calle	residential	1	0	0	
+HN	3608248	4a Calle Este	residential	1	0	0	
+HN	3608248	4a Calle Oeste	residential	1	0	0	
+HN	3608248	4ª Avenida	residential	1	0	0	
+HN	3608248	4ª Calle	residential	1	0	0	
+HN	3608248	5a Avenida	residential	1	0	0	
+HN	3608248	5a Avenida Este	residential	1	0	0	
+HN	3608248	5a Calle	residential	1	0	0	
+HN	3608248	5a Calle Este	residential	1	0	0	
+HN	3608248	5a Calle Oeste	residential	1	0	0	
+HN	3608248	5ª Avenida	residential	1	0	0	
+HN	3608248	5ª Calle	residential	1	0	0	
+HN	3608248	6a Avenida	residential	1	0	0	
+HN	3608248	6a Avenida Este	residential	1	0	0	
+HN	3608248	6a Calle Este	residential	1	0	0	
+HN	3608248	6a Calle Oeste	residential	1	0	0	
+HN	3608248	6ª Calle	residential	1	0	0	
+HN	3608248	7a Avenida	residential	1	0	0	
+HN	3608248	7a Avenida Este	residential	1	0	0	
+HN	3608248	7a Avenida Sur	residential	1	0	0	
+HN	3608377	Carretera Sonaguera - Aguan	secondary	1	0	0	
+HN	3608500	Anillo Agricola	secondary	1	0	0	
+HN	3608500	Carretera Juticalpa - Catacamas	primary	1	0	0	
+HN	3608503	10a Calle	residential	1	0	0	
+HN	3608503	11 Avenida	residential	1	0	0	
+HN	3608503	11 Calle	residential	1	0	0	
+HN	3608503	11a Avenida	residential	1	0	0	
+HN	3608503	11a Calle	residential	1	0	0	
+HN	3608503	12 Avenida	residential	1	0	0	
+HN	3608503	12a Avenida	residential	1	0	0	
+HN	3608503	12a Calle	residential	1	0	0	
+HN	3608503	13 Avenida	residential	1	0	0	
+HN	3608503	13a Calle	residential	1	0	0	
+HN	3608503	14 Avenida	residential	1	0	0	
+HN	3608503	14a Calle	residential	1	0	0	
+HN	3608503	15 Avenida	residential	1	0	0	
+HN	3608503	15a Avenida	residential	1	0	0	
+HN	3608503	15a Calle	residential	1	0	0	
+HN	3608503	16 Avenida	residential	1	0	0	
+HN	3608503	16 Calle	residential	1	0	0	
+HN	3608503	16a Avenida	residential	1	0	0	
+HN	3608503	16a Calle	residential	1	0	0	
+HN	3608503	17 Avenida	residential	1	0	0	
+HN	3608503	17 Calle	residential	1	0	0	
+HN	3608503	17a Avenida	residential	1	0	0	
+HN	3608503	18 Avenida	residential	1	0	0	
+HN	3608503	18 Calle	tertiary	1	0	0	
+HN	3608503	18a Avenida	residential	1	0	0	
+HN	3608503	19 Avenida	residential	1	0	0	
+HN	3608503	1a Avenida	residential	1	0	0	
+HN	3608503	1a Calle	residential	1	0	0	
+HN	3608503	2a Avenida	residential	1	0	0	
+HN	3608503	2a Calle	residential	1	0	0	
+HN	3608503	3a Avenida	residential	1	0	0	
+HN	3608503	3a Calle	residential	1	0	0	
+HN	3608503	4a Avenida	residential	1	0	0	
+HN	3608503	4a Calle	residential	1	0	0	
+HN	3608503	5a Avenida	tertiary	1	0	0	
+HN	3608503	5a Calle	residential	1	0	0	
+HN	3608503	6a Avenida	tertiary	1	0	0	
+HN	3608503	6a Calle	residential	1	0	0	
+HN	3608503	7a Avenida	residential	1	0	0	
+HN	3608503	7a Calle	residential	1	0	0	
+HN	3608503	8a Avenida	residential	1	0	0	
+HN	3608503	8a Calle	residential	1	0	0	
+HN	3608503	9a Avenida	residential	1	0	0	
+HN	3608503	9a Calle	residential	1	0	0	
+HN	3608503	Boulevard Los Poetas	tertiary	1	0	0	
+HN	3608503	Calle Colonia Lempira	residential	1	0	0	
+HN	3608503	Calle El Chicle	residential	1	0	0	
+HN	3608503	Calle Guatemala	residential	1	0	0	
+HN	3608514	Agua Azul - El Cacao	tertiary	1	0	0	
+HN	3608514	Calle del Ferrocarril	unclassified	1	0	0	
+HN	3608514	Carretera La Ceiba - Jutiapa	primary	1	0	0	
+HN	3608514	Carretera Saba - Jutiapa	primary	1	0	0	
+HN	3608635	Carretera Olanchito - Jocon	secondary	1	0	0	
+HN	3608635	Carretera Puente Grande	unclassified	1	0	0	
+HN	3608635	Carretera Yoro - Jocon	secondary	1	0	0	
+HN	3608656	Concepción - Santiago	unclassified	1	0	0	
+HN	3608656	calle al Limoncillo	unclassified	1	0	0	
+HN	3608715	10a Avenida SE	residential	1	0	0	
+HN	3608715	10a Avenida SO	residential	1	0	0	
+HN	3608715	10a Calle NE	residential	1	0	0	
+HN	3608715	10a Calle SE	residential	1	0	0	
+HN	3608715	10a Calle SO	residential	1	0	0	
+HN	3608715	11 Callejón SO	residential	1	0	0	
+HN	3608715	11a Avenida SE	residential	1	0	0	
+HN	3608715	11a Calle SE	tertiary	1	0	0	
+HN	3608715	11a Calle SO	tertiary	1	0	0	
+HN	3608715	12a Avenida SE	residential	1	0	0	
+HN	3608715	12a Calle SE	residential	1	0	0	
+HN	3608715	12a Calle SO	residential	1	0	0	
+HN	3608715	13a Calle SE	residential	1	0	0	
+HN	3608715	13a Calle SO	residential	1	0	0	
+HN	3608715	13aa Avenida SE	residential	1	0	0	
+HN	3608715	14a Avenida SE	residential	1	0	0	
+HN	3608715	14a Calle SE	residential	1	0	0	
+HN	3608715	14a Calle SO	residential	1	0	0	
+HN	3608715	15a Avenida SE	residential	1	0	0	
+HN	3608715	15a Calle SE	residential	1	0	0	
+HN	3608715	15a Calle SO	residential	1	0	0	
+HN	3608715	16a Avenida SE	residential	1	0	0	
+HN	3608715	16a Calle SE	residential	1	0	0	
+HN	3608715	16a Calle SO	residential	1	0	0	
+HN	3608718	Carretera Trujillo - Puerto Castilla	primary	1	0	0	
+HN	3608728	Carretera Taulabé - San José de Comayagua - La Sábana	tertiary	1	0	0	
+HN	3608798	10a Avenida NO	residential	1	0	0	
+HN	3608798	10a Avenida SO	residential	1	0	0	
+HN	3608798	11 Avenida NO	residential	1	0	0	
+HN	3608798	1a Avenida NE	tertiary	1	0	0	
+HN	3608798	1a Avenida NO	residential	1	0	0	
+HN	3608798	1a Avenida SE	tertiary	1	0	0	
+HN	3608798	1a Avenida SO	residential	1	0	0	
+HN	3608798	1a Calle NO	unclassified	1	0	0	
+HN	3608798	1a Calle SE	residential	1	0	0	
+HN	3608798	1a Calle SO	residential	1	0	0	
+HN	3608798	2a Avenida NO	tertiary	1	0	0	
+HN	3608798	2a Avenida SO	residential	1	0	0	
+HN	3608828	Puente Waspuka	unclassified	1	0	0	
+HN	3608834	10a Calle Oeste	residential	1	0	0	
+HN	3608834	11a Calle Oeste	residential	1	0	0	
+HN	3608834	1a Calle Este	residential	1	0	0	
+HN	3608834	1a Calle Oeste	residential	1	0	0	
+HN	3608834	2a Calle Este	residential	1	0	0	
+HN	3608834	2a Calle Oeste	residential	1	0	0	
+HN	3608834	3a Calle Este	residential	1	0	0	
+HN	3608834	3a Calle Oeste	residential	1	0	0	
+HN	3608834	4a Avenida Norte	residential	1	0	0	
+HN	3608834	4a Calle Este	residential	1	0	0	
+HN	3608834	4a Calle Oeste	residential	1	0	0	
+HN	3608834	5a Avenida Norte	residential	1	0	0	
+HN	3608834	5a Calle Este	residential	1	0	0	
+HN	3608834	5a Calle Oeste	residential	1	0	0	
+HN	3608834	6a Avenida Norte	residential	1	0	0	
+HN	3608834	6a Calle Este	residential	1	0	0	
+HN	3608834	6a Calle Oeste	residential	1	0	0	
+HN	3608834	7a Avenida Norte	residential	1	0	0	
+HN	3608834	7a Calle Este	residential	1	0	0	
+HN	3608834	7a Calle Oeste	residential	1	0	0	
+HN	3608834	8a Avenida Norte	residential	1	0	0	
+HN	3608834	8a Calle Oeste	residential	1	0	0	
+HN	3608834	9a Avenida Norte	residential	1	0	0	
+HN	3608834	9a Calle Oeste	residential	1	0	0	
+HN	3608860	1a Avenida NE	residential	1	0	0	
+HN	3608860	1a Avenida SE	residential	1	0	0	
+HN	3608860	1a Avenida SO	residential	1	0	0	
+HN	3608860	1a Calle NE	residential	1	0	0	
+HN	3608860	1a Calle NO	residential	1	0	0	
+HN	3608860	1a Calle SE	residential	1	0	0	
+HN	3608860	2a Avenida NE	residential	1	0	0	
+HN	3608860	2a Avenida SE	residential	1	0	0	
+HN	3608860	2a Calle NE	residential	1	0	0	
+HN	3608860	2a Calle SE	residential	1	0	0	
+HN	3608860	2a Calle SO	residential	1	0	0	
+HN	3608860	3a Avenida NE	residential	1	0	0	
+HN	3609027	Carretera Tela - San Juan Pueblo	primary	1	0	0	
+HN	3609112	1a Avenida NE	residential	1	0	0	
+HN	3609112	1a Avenida SE	residential	1	0	0	
+HN	3609112	1a Avenida SO	residential	1	0	0	
+HN	3609112	1a Calle NE	residential	1	0	0	
+HN	3609112	1a Calle NO	residential	1	0	0	
+HN	3609112	1a Calle SE	residential	1	0	0	
+HN	3609112	1a Calle SO	residential	1	0	0	
+HN	3609112	2a Avenida NE	tertiary	1	0	0	
+HN	3609112	2a Avenida NO	residential	1	0	0	
+HN	3609112	2a Avenida SE	residential	1	0	0	
+HN	3609112	2a Avenida SO	residential	1	0	0	
+HN	3609112	2a Calle NE	residential	1	0	0	
+HN	3609191	Ruta Nacional 116	secondary	1	0	0	
+HN	3609231	Guarizama - El Tizate	tertiary	1	0	0	
+HN	3609293	Calle Canal	pedestrian	1	0	0	
+HN	3609389	Carretera Gualaco - San Esteban	primary	1	0	0	
+HN	3609389	Carretera San Fco. De La Paz - Gualaco	primary	1	0	0	
+HN	3609389	Gualaco - El Saguay	tertiary	1	0	0	
+HN	3609415	Calle principal N500	unclassified	1	0	0	
+HN	3609415	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3609415	Carretera a San José	tertiary	1	0	0	
+HN	3609418	Calle El Chorizo	unclassified	1	0	0	
+HN	3609418	Calle Principal de Guaimaca	secondary	1	0	0	
+HN	3609418	Calle hacia el Puente Jalán	unclassified	1	0	0	
+HN	3609418	Calle principal Puente Jalán	unclassified	1	0	0	
+HN	3609418	Carretera Guaimaca - Campamento	primary	1	0	0	
+HN	3609418	Carretera Talanga - Guaimaca	primary	1	0	0	
+HN	3609418	Carretera hacia Sanquín	tertiary	1	0	0	
+HN	3609418	Hacia La Nava	unclassified	1	0	0	
+HN	3609418	Hacia Los Leones	unclassified	1	0	0	
+HN	3609418	Hacia Pueblo Viejo	unclassified	1	0	0	
+HN	3609418	Hacia Sanquin	unclassified	1	0	0	
+HN	3609586	10a Calle	residential	1	0	0	
+HN	3609586	3a Avenida	residential	1	0	0	
+HN	3609586	4a Avenida	residential	1	0	0	
+HN	3609586	5a Calle	residential	1	0	0	
+HN	3609586	6a Calle	residential	1	0	0	
+HN	3609586	7a Calle	residential	1	0	0	
+HN	3609586	8a Calle	residential	1	0	0	
+HN	3609586	9a Calle	residential	1	0	0	
+HN	3609586	Avenida José María Medina	residential	1	0	0	
+HN	3609586	Avenida Principal Dr. Juan Lindo	tertiary	1	0	0	
+HN	3609586	Avenida San Sebastián	residential	1	0	0	
+HN	3609586	Avenida Teresa Madrid	residential	1	0	0	
+HN	3609586	Avenida de Circunvalación	primary	1	0	0	
+HN	3609586	Calle Alberto Galeano	residential	1	0	0	
+HN	3609586	Calle General Florencio Hernández	residential	1	0	0	
+HN	3609586	Calle General López García	residential	1	0	0	
+HN	3609586	Calle Imelda Bautista	residential	1	0	0	
+HN	3609586	Calle Jeremías Cisneros	residential	1	0	0	
+HN	3609586	Calle Jerónimo Zelaya	residential	1	0	0	
+HN	3609586	Calle La Merced	residential	1	0	0	
+HN	3609586	Calle Los Villanos	residential	1	0	0	
+HN	3609586	Calle Rosa Muñoz	residential	1	0	0	
+HN	3609586	Calle San Cristóbal	residential	1	0	0	
+HN	3609586	Calle Santos Estrada	residential	1	0	0	
+HN	3609667	Pearl Court	residential	7	1103	1109	
+HN	3609667	Atocha Lane	residential	1	0	0	
+HN	3609667	Bayside Court	residential	1	0	0	
+HN	3609667	Big Bight Road	unclassified	1	0	0	
+HN	3609667	Calle Las Verandas	unclassified	1	0	0	
+HN	3609667	Calle Pristine Bay	unclassified	1	0	0	
+HN	3609667	Calle Pristine Resort	residential	1	0	0	
+HN	3609667	Carretera Principal	primary	1	0	0	
+HN	3609667	Carretera Principal de la Isla de Roatán	primary	1	0	0	
+HN	3609667	Coco Road	unclassified	1	0	0	
+HN	3609667	Coconut Drive	residential	1	0	0	
+HN	3609667	French Harbour Road	tertiary	1	0	0	
+HN	3609681	10a Calle NE	residential	1	0	0	
+HN	3609681	10a Calle NO	residential	1	0	0	
+HN	3609681	10mo Callejón NO	residential	1	0	0	
+HN	3609681	11a Calle NE	residential	1	0	0	
+HN	3609681	1a Avenida NE	residential	1	0	0	
+HN	3609681	1a Avenida NO	residential	1	0	0	
+HN	3609681	1a Avenida SE	residential	1	0	0	
+HN	3609681	1a Avenida SO	residential	1	0	0	
+HN	3609681	1a Calle NE	residential	1	0	0	
+HN	3609681	1a Calle NO	residential	1	0	0	
+HN	3609681	1a Calle SE	residential	1	0	0	
+HN	3609681	1a Calle SO	residential	1	0	0	
+HN	3609681	1er Pasaje NO	residential	1	0	0	
+HN	3609681	2a Avenida NE	residential	1	0	0	
+HN	3609681	2a Avenida NO	residential	1	0	0	
+HN	3609681	2a Avenida SE	residential	1	0	0	
+HN	3609681	2a Avenida SO	residential	1	0	0	
+HN	3609681	2a Calle NE	residential	1	0	0	
+HN	3609681	2a Calle NO	residential	1	0	0	
+HN	3609681	2a Calle SE	residential	1	0	0	
+HN	3609681	2a Calle SO	residential	1	0	0	
+HN	3609681	3a Avenida NE	residential	1	0	0	
+HN	3609681	3a Avenida NO	residential	1	0	0	
+HN	3609681	3a Avenida SE	residential	1	0	0	
+HN	3609742	1a Avenida NE	residential	1	0	0	
+HN	3609742	1a Avenida NO	residential	1	0	0	
+HN	3609742	1a Avenida SE	residential	1	0	0	
+HN	3609742	1a Calle NE	residential	1	0	0	
+HN	3609742	1a Calle SE	residential	1	0	0	
+HN	3609742	2a Avenida NE	residential	1	0	0	
+HN	3609742	2a Avenida SE	secondary	1	0	0	
+HN	3609742	2a Calle NE	residential	1	0	0	
+HN	3609742	31 Avenida SE	residential	1	0	0	
+HN	3609742	3a Calle NE	residential	1	0	0	
+HN	3609742	4a Calle NE	residential	1	0	0	
+HN	3609742	6a Calle NE	residential	1	0	0	
+HN	3609775	Erandique - San Francisco	tertiary	1	0	0	
+HN	3609775	Ruta Nacional 116	secondary	1	0	0	
+HN	3609928	32 Avenida	residential	1	0	0	
+HN	3609928	33 Avenida NO	residential	1	0	0	
+HN	3609928	34a Avenida	tertiary	1	0	0	
+HN	3610046	RV-221	tertiary	1	0	0	
+HN	3610051	Carretera Tela - San Juan Pueblo	primary	1	0	0	
+HN	3610060	10a Avenida SE	residential	1	0	0	
+HN	3610060	11 Calle SE	residential	1	0	0	
+HN	3610060	12 Calle SE	residential	1	0	0	
+HN	3610060	13 Calle SE	residential	1	0	0	
+HN	3610060	14 Calle SE	residential	1	0	0	
+HN	3610060	14 Calle SO	residential	1	0	0	
+HN	3610060	15 Calle SE	residential	1	0	0	
+HN	3610060	16 Calle SE	residential	1	0	0	
+HN	3610060	16 Calle SO	residential	1	0	0	
+HN	3610060	17 Calle SE	residential	1	0	0	
+HN	3610060	17 Calle SO	residential	1	0	0	
+HN	3610060	18 Calle SE	residential	1	0	0	
+HN	3610060	19 Calle SE	residential	1	0	0	
+HN	3610060	1a Avenida NE	residential	1	0	0	
+HN	3610060	1a Avenida NO	residential	1	0	0	
+HN	3610060	1a Avenida SE	residential	1	0	0	
+HN	3610060	1a Avenida SO	residential	1	0	0	
+HN	3610060	1a Calle NE	residential	1	0	0	
+HN	3610060	1a Calle NO	residential	1	0	0	
+HN	3610060	1a Calle SE	residential	1	0	0	
+HN	3610060	1a Calle SO	residential	1	0	0	
+HN	3610060	20 Calle SE	residential	1	0	0	
+HN	3610060	21 Calle SE	residential	1	0	0	
+HN	3610060	2a Avenida NE	residential	1	0	0	
+HN	3610092	Calle Principal María Auxiliadora	residential	1	0	0	
+HN	3610139	Carretera CA-6		2	0	0	
+HN	3610139	Carretera San Juan del Racho - La Pancha	tertiary	1	0	0	
+HN	3610139	Carretera a Macuelizo	tertiary	1	0	0	
+HN	3610232	Carretera La Puerta - Las Trancas	tertiary	1	0	0	
+HN	3610318	Agua Salada - Carboneras	tertiary	1	0	0	
+HN	3610318	Comayagua - El Rosario	tertiary	1	0	0	
+HN	3610318	Incehsa - El Sauce	tertiary	1	0	0	
+HN	3610375	Carretera Limones - La Union	primary	1	0	0	
+HN	3610377	1a Avenida NO	residential	1	0	0	
+HN	3610412	El Rodeo- El Ocotal	tertiary	1	0	0	
+HN	3610558	Camino Concepción de la Laguna	unclassified	1	0	0	
+HN	3610558	Camino El Carrizal	unclassified	1	0	0	
+HN	3610558	Camino El Risco	residential	1	0	0	
+HN	3610558	Camino La Cidra	unclassified	1	0	0	
+HN	3610558	Camino La Ruda	unclassified	1	0	0	
+HN	3610558	Camino Pozo Dulce	unclassified	1	0	0	
+HN	3610558	Camino Ranchos Viejos	unclassified	1	0	0	
+HN	3610610	Santa Ana de Yusguare-La Fortuna	tertiary	1	0	0	
+HN	3610613	4 Calle SE		3	1155	1157	
+HN	3610613	7a Avenida SE	residential	2	7	7	
+HN	3610613	10a Avenida NE	residential	1	0	0	
+HN	3610613	10a Avenida SE	residential	1	0	0	
+HN	3610613	10a Calle	residential	1	0	0	
+HN	3610613	10a Calle NE	residential	1	0	0	
+HN	3610613	10a Calle NO	residential	1	0	0	
+HN	3610613	10a Calle SE	residential	1	0	0	
+HN	3610613	11 Avenida NE	residential	1	0	0	
+HN	3610613	11 Avenida SE	residential	1	0	0	
+HN	3610613	11 Calle NO	residential	1	0	0	
+HN	3610613	11 Calle SE	residential	1	0	0	
+HN	3610613	12 Avenida NE	residential	1	0	0	
+HN	3610613	12 Avenida SE	residential	1	0	0	
+HN	3610613	12 Calle NE	residential	1	0	0	
+HN	3610613	12 Calle NO	residential	1	0	0	
+HN	3610613	12 Calle SE	residential	1	0	0	
+HN	3610613	13 Avenida NE	residential	1	0	0	
+HN	3610613	13 Avenida SE	residential	1	0	0	
+HN	3610613	13 Calle SE	residential	1	0	0	
+HN	3610613	14 Avenida NE	residential	1	0	0	
+HN	3610613	14 Avenida SE	residential	1	0	0	
+HN	3610613	14 Calle	residential	1	0	0	
+HN	3610613	14 Calle SE	residential	1	0	0	
+HN	3610613	15 Avenida NE	residential	1	0	0	
+HN	3610613	15 Avenida SE	residential	1	0	0	
+HN	3610613	16 Avenida NE	residential	1	0	0	
+HN	3610613	16 Avenida SE	residential	1	0	0	
+HN	3610613	17 Avenida NE	residential	1	0	0	
+HN	3610613	17 Avenida SE	residential	1	0	0	
+HN	3610613	19 Avenida NE	residential	1	0	0	
+HN	3610613	19 Avenida SE	residential	1	0	0	
+HN	3610613	1a Calle	residential	1	0	0	
+HN	3610613	20 Avenida SE	residential	1	0	0	
+HN	3610613	2a Avenida	residential	1	0	0	
+HN	3610613	2a Avenida NE	residential	1	0	0	
+HN	3610613	2a Avenida NO	residential	1	0	0	
+HN	3610613	2a Avenida SE	residential	1	0	0	
+HN	3610613	2a Avenida SO	residential	1	0	0	
+HN	3610613	2a Calle NE	residential	1	0	0	
+HN	3610613	2a Calle NO	residential	1	0	0	
+HN	3610613	2a Calle SE	residential	1	0	0	
+HN	3610613	2a Calle SO	residential	1	0	0	
+HN	3610613	3a Avenida NE	residential	1	0	0	
+HN	3610613	3a Avenida NO	residential	1	0	0	
+HN	3610613	3a Avenida SE	residential	1	0	0	
+HN	3610613	3a Avenida SO	residential	1	0	0	
+HN	3610613	3a Calle NE	residential	1	0	0	
+HN	3610613	3a Calle NO	residential	1	0	0	
+HN	3610613	3a Calle SE	residential	1	0	0	
+HN	3610613	3a Calle SO	residential	1	0	0	
+HN	3610613	4a Avenida NE	residential	1	0	0	
+HN	3610613	4a Avenida NO	residential	1	0	0	
+HN	3610613	4a Avenida SE	residential	1	0	0	
+HN	3610613	4a Avenida SO	residential	1	0	0	
+HN	3610613	4a Calle NE	residential	1	0	0	
+HN	3610613	4a Calle NO	residential	1	0	0	
+HN	3610613	4a Calle SE	residential	1	0	0	
+HN	3610613	4a Calle SO	residential	1	0	0	
+HN	3610613	5a Avenida NE	residential	1	0	0	
+HN	3610613	5a Avenida NO	tertiary	1	0	0	
+HN	3610613	5a Avenida Oeste	residential	1	0	0	
+HN	3610613	5a Avenida SE	residential	1	0	0	
+HN	3610613	5a Avenida SO	primary	1	0	0	
+HN	3610613	5a Calle NE	residential	1	0	0	
+HN	3610613	5a Calle SE	residential	1	0	0	
+HN	3610613	5a Calle SO	residential	1	0	0	
+HN	3610613	6a Avenida NE	residential	1	0	0	
+HN	3610613	6a Avenida NO	residential	1	0	0	
+HN	3610613	6a Avenida SE	residential	1	0	0	
+HN	3610613	6a Avenida SO	residential	1	0	0	
+HN	3610613	6a Calle NE	residential	1	0	0	
+HN	3610613	6a Calle NO	residential	1	0	0	
+HN	3610613	6a Calle SE	residential	1	0	0	
+HN	3610613	6a Calle SO	residential	1	0	0	
+HN	3610613	7a Calle NE	residential	1	0	0	
+HN	3610613	7a Calle NO	residential	1	0	0	
+HN	3610613	7a Calle SE	residential	1	0	0	
+HN	3610613	8a Avenida NE	tertiary	1	0	0	
+HN	3610613	8a Avenida SE	residential	1	0	0	
+HN	3610613	8a Calle NE	residential	1	0	0	
+HN	3610613	8a Calle NO	residential	1	0	0	
+HN	3610613	8a Calle SE	residential	1	0	0	
+HN	3610613	9a Avenida NE	residential	1	0	0	
+HN	3610613	9a Avenida SE	residential	1	0	0	
+HN	3610613	9a Calle NE	residential	1	0	0	
+HN	3610613	9a Calle NO	residential	1	0	0	
+HN	3610613	9a Calle SE	residential	1	0	0	
+HN	3610613	9a Calle SO	residential	1	0	0	
+HN	3610613	Barauda	residential	1	0	0	
+HN	3610613	Boulevard Elena Kullman	primary	1	0	0	
+HN	3610613	Bulevar San Pedro Sula - El Progreso	primary	1	0	0	
+HN	3610613	Carretera El Progreso - Tela	primary	1	0	0	
+HN	3610613	Carretera Santa Rita - El Progreso	primary	1	0	0	
+HN	3610675	Paseo Portuario	unclassified	1	0	0	
+HN	3610676	10a Avenida	residential	1	0	0	
+HN	3610676	10a Calle	residential	1	0	0	
+HN	3610676	11a Avenida	residential	1	0	0	
+HN	3610676	11a Calle	residential	1	0	0	
+HN	3610676	12a Avenida	residential	1	0	0	
+HN	3610676	12a Calle	residential	1	0	0	
+HN	3610676	13a Avenida	residential	1	0	0	
+HN	3610676	13a Calle	residential	1	0	0	
+HN	3610676	14a Avenida	residential	1	0	0	
+HN	3610676	14a Calle	residential	1	0	0	
+HN	3610676	15a Avenida	residential	1	0	0	
+HN	3610676	15a Calle	residential	1	0	0	
+HN	3610789	Calle Principal Res. Valle Verde	residential	1	0	0	
+HN	3610789	Carretera Villanueva - San Manuel	secondary	1	0	0	
+HN	3610789	Principal Guadalupe	residential	1	0	0	
+HN	3610813	Carretera La Ceiba - San Juan Pueblo	primary	1	0	0	
+HN	3610813	Puente Zacate	secondary	1	0	0	
+HN	3610867	Camino a Santa Teresa	tertiary	1	0	0	
+HN	3610912	Carretera El Porvenir - Cedros	primary	1	0	0	
+HN	3610965	0 Avenida	residential	1	0	0	
+HN	3610965	10a Avenida	residential	1	0	0	
+HN	3610965	10a Calle	residential	1	0	0	
+HN	3610965	11 Avenida	residential	1	0	0	
+HN	3610965	11 Calle	residential	1	0	0	
+HN	3610965	12 Avenida	residential	1	0	0	
+HN	3610965	12 Calle	residential	1	0	0	
+HN	3610965	13 Avenida	residential	1	0	0	
+HN	3610965	13 Calle	residential	1	0	0	
+HN	3610965	14 Avenida	residential	1	0	0	
+HN	3610965	14 Calle	residential	1	0	0	
+HN	3610965	15 Avenida	residential	1	0	0	
+HN	3610965	15 Calle	residential	1	0	0	
+HN	3610965	16 Avenida	residential	1	0	0	
+HN	3610965	16 Calle	residential	1	0	0	
+HN	3610965	17 Avenida	residential	1	0	0	
+HN	3610965	18 Avenida	residential	1	0	0	
+HN	3610965	1a Avenida	residential	1	0	0	
+HN	3610965	1a Calle	residential	1	0	0	
+HN	3610965	2a Avenida	residential	1	0	0	
+HN	3610965	2a Calle	residential	1	0	0	
+HN	3610965	3a Avenida	residential	1	0	0	
+HN	3610965	3a Calle	residential	1	0	0	
+HN	3610965	4a Avenida	residential	1	0	0	
+HN	3610965	4a Calle	residential	1	0	0	
+HN	3610965	5a Avenida	tertiary	1	0	0	
+HN	3610965	5a Calle	residential	1	0	0	
+HN	3610965	6a Avenida	residential	1	0	0	
+HN	3610965	6a Calle	residential	1	0	0	
+HN	3610965	7a Avenida	residential	1	0	0	
+HN	3610965	7a Calle	residential	1	0	0	
+HN	3610965	8a Avenida	residential	1	0	0	
+HN	3610965	8a Calle	residential	1	0	0	
+HN	3610965	9a Avenida	residential	1	0	0	
+HN	3610965	9a Calle	residential	1	0	0	
+HN	3611069	1a Avenida NO	residential	1	0	0	
+HN	3611069	1a Avenida SO	residential	1	0	0	
+HN	3611069	1a Calle NO	residential	1	0	0	
+HN	3611069	1a Calle SO	residential	1	0	0	
+HN	3611069	2a Avenida NE	secondary	1	0	0	
+HN	3611069	2a Avenida NO	residential	1	0	0	
+HN	3611069	2a Avenida SO	residential	1	0	0	
+HN	3611069	2a Calle NO	residential	1	0	0	
+HN	3611069	3a Calle NE	residential	1	0	0	
+HN	3611069	Avenida Central Norte	residential	1	0	0	
+HN	3611069	Calle Central Oeste	residential	1	0	0	
+HN	3611128	Carretera Danli - El Empalme	primary	1	0	0	
+HN	3611150	El Negrito - San José	tertiary	5	4310	4329	
+HN	3611150	Happiness		2	4322	4323	
+HN	3611150	10a Avenida SO	residential	1	0	0	
+HN	3611150	10a Calle SO	residential	1	0	0	
+HN	3611150	11 Avenida SO	residential	1	0	0	
+HN	3611150	11 Calle SO	residential	1	0	0	
+HN	3611150	12 Avenida SO	residential	1	0	0	
+HN	3611150	12 Calle SO	residential	1	0	0	
+HN	3611150	13 Avenida SO	residential	1	0	0	
+HN	3611150	13 Calle SO	residential	1	0	0	
+HN	3611150	14 Avenida SO	residential	1	0	0	
+HN	3611150	14 Calle SO	residential	1	0	0	
+HN	3611150	15 Avenida SO	residential	1	0	0	
+HN	3611150	15 Calle SO	residential	1	0	0	
+HN	3611150	16 Avenida SO	residential	1	0	0	
+HN	3611150	16 Calle SO	residential	1	0	0	
+HN	3611150	17 Avenida SO	residential	1	0	0	
+HN	3611150	17 Calle SO	residential	1	0	0	
+HN	3611150	18 Avenida SO	residential	1	0	0	
+HN	3611150	18 Calle SE	residential	1	0	0	
+HN	3611150	18 Calle SO	residential	1	0	0	
+HN	3611150	19 Avenida SO	residential	1	0	0	
+HN	3611150	19 Calle SE	residential	1	0	0	
+HN	3611150	19 Calle SO	residential	1	0	0	
+HN	3611267	Carretera Las Vegas - Agualteca	secondary	1	0	0	
+HN	3611270	Carretera El Milagro - La Lima	secondary	1	0	0	
+HN	3611270	Pasaje Ocotepeque	residential	1	0	0	
+HN	3611319	1a Calle	residential	1	0	0	
+HN	3611319	2a Avenida	residential	1	0	0	
+HN	3611319	2a Calle	residential	1	0	0	
+HN	3611319	3a Avenida	residential	1	0	0	
+HN	3611319	4a Avenida	residential	1	0	0	
+HN	3611319	5a Avenida	residential	1	0	0	
+HN	3611319	6a Avenida	residential	1	0	0	
+HN	3611319	7a Avenida	residential	1	0	0	
+HN	3611319	8a Avenida	residential	1	0	0	
+HN	3611319	9a Avenida	residential	1	0	0	
+HN	3611319	Carretera de Occidente	primary	1	0	0	
+HN	3611352	Calzada Rabat	residential	1	0	0	
+HN	3611352	Carretera Soroguara - El Guayabo - El Jicarito	tertiary	1	0	0	
+HN	3611352	Carretera Vieja del Norte	secondary	1	0	0	
+HN	3611352	Paseo Charay	residential	1	0	0	
+HN	3611352	Paseo Mendoza	residential	1	0	0	
+HN	3611352	Sanda Trípoli	residential	1	0	0	
+HN	3611356	10a Avenida NO	residential	1	0	0	
+HN	3611356	11 Avenida NO	residential	1	0	0	
+HN	3611356	12 Avenida NO	residential	1	0	0	
+HN	3611356	13 Avenida NO	residential	1	0	0	
+HN	3611356	14 Avenida NO	residential	1	0	0	
+HN	3611356	1a Avenida NE	residential	1	0	0	
+HN	3611356	1a Avenida NO	residential	1	0	0	
+HN	3611356	1a Calle NE	residential	1	0	0	
+HN	3611356	1a Calle NO	tertiary	1	0	0	
+HN	3611356	1a Calle SE	residential	1	0	0	
+HN	3611356	1a Calle SO	primary	1	0	0	
+HN	3611356	2a Avenida NE	residential	1	0	0	
+HN	3611481	Calle del Ferrocarril	residential	1	0	0	
+HN	3611481	Carretera La Union - Mame	primary	1	0	0	
+HN	3611481	Carretera Olanchito - Sabá	primary	1	0	0	
+HN	3611572	Carretera Olanchito - Sabá	primary	1	0	0	
+HN	3611572	Carretera Olanchito - Sonaguera	secondary	1	0	0	
+HN	3611718	Camino de Alubaren a empalme San Miguelito	residential	1	0	0	
+HN	3611719	Agua Caliente - El Guantillo	tertiary	1	0	0	
+HN	3611719	El Guantillo - Trinidad de Quebrada	unclassified	1	0	0	
+HN	3611720	Carretera El Tablón	tertiary	1	0	0	
+HN	3611720	Carretera Talanga - Cedros	primary	1	0	0	
+HN	3611847	El Ermitaño - El Manguito	tertiary	1	0	0	
+HN	3611847	main highway	residential	1	0	0	
+HN	3611881	Carretera El Eden - El Jaral	tertiary	1	0	0	
+HN	3611887	Avenida Andorra	unclassified	1	0	0	
+HN	3611887	Camino a San Matías	tertiary	1	0	0	
+HN	3611887	Carretera Vieja del Norte	secondary	1	0	0	
+HN	3611887	Paseo Mendoza	residential	1	0	0	
+HN	3611987	1a Avenida NE	residential	1	0	0	
+HN	3611987	1a Avenida NO	residential	1	0	0	
+HN	3611987	1a Calle NO	residential	1	0	0	
+HN	3611987	1a Calle SO	residential	1	0	0	
+HN	3611987	2a Avenida NO	residential	1	0	0	
+HN	3611987	2a Avenida SE	residential	1	0	0	
+HN	3611987	2a Calle NO	secondary	1	0	0	
+HN	3611987	2a Calle SE	residential	1	0	0	
+HN	3611987	2a Calle SO	residential	1	0	0	
+HN	3611987	3a Avenida NE	residential	1	0	0	
+HN	3611987	3a Avenida NO	residential	1	0	0	
+HN	3611987	3a Avenida SO	residential	1	0	0	
+HN	3611995	El Chile - Palma Real	tertiary	1	0	0	
+HN	3612064	El Ciruelo - Macuelizo	tertiary	1	0	0	
+HN	3612138	Camino a La Tigra	tertiary	1	0	0	
+HN	3612138	Carretera El Piliguin	tertiary	1	0	0	
+HN	3612138	Carretera Tegucigalpa - Valle de Ángeles	secondary	1	0	0	
+HN	3612160	Carretera El Empalme - Trojes	primary	1	0	0	
+HN	3612160	El Chaaparral - Providencia	tertiary	1	0	0	
+HN	3612734	Carretera Siguatepeque - La Trinidad	tertiary	1	0	0	
+HN	3612801	1a Avenida NO	residential	1	0	0	
+HN	3612801	1a Avenida SE	residential	1	0	0	
+HN	3612801	1a Avenida SO	residential	1	0	0	
+HN	3612801	1a Calle NE	residential	1	0	0	
+HN	3612801	1a Calle NO	residential	1	0	0	
+HN	3612801	1a Calle SO	residential	1	0	0	
+HN	3612801	2a Avenida NE	residential	1	0	0	
+HN	3612801	2a Avenida SE	residential	1	0	0	
+HN	3612801	2a Calle NO	residential	1	0	0	
+HN	3612801	2a Calle SE	residential	1	0	0	
+HN	3612801	2a Calle SO	residential	1	0	0	
+HN	3612801	3a Avenida SE	residential	1	0	0	
+HN	3612810	Carretera a Olancho	secondary	1	0	0	
+HN	3612813	10a Avenida NO	residential	1	0	0	
+HN	3612813	10a Avenida SO	residential	1	0	0	
+HN	3612813	11 Avenida SO	residential	1	0	0	
+HN	3612813	11a Avenida NO	residential	1	0	0	
+HN	3612813	12 Avenida SO	residential	1	0	0	
+HN	3612813	1a Avenida NE	tertiary	1	0	0	
+HN	3612813	1a Avenida NO	residential	1	0	0	
+HN	3612813	1a Avenida SE	residential	1	0	0	
+HN	3612813	1a Avenida SO	residential	1	0	0	
+HN	3612813	1a Calle NE	residential	1	0	0	
+HN	3612813	1a Calle SE	residential	1	0	0	
+HN	3612813	1a Calle SO	residential	1	0	0	
+HN	3612838	1a Avenida NE	residential	1	0	0	
+HN	3612838	1a Avenida NO	residential	1	0	0	
+HN	3612838	1a Avenida SE	residential	1	0	0	
+HN	3612838	1a Calle NE	residential	1	0	0	
+HN	3612838	1a Calle NO	residential	1	0	0	
+HN	3612838	1a Calle SE	residential	1	0	0	
+HN	3612838	2a Avenida NE	residential	1	0	0	
+HN	3612838	2a Avenida NO	residential	1	0	0	
+HN	3612838	2a Avenida SE	residential	1	0	0	
+HN	3612838	2a Calle NE	residential	1	0	0	
+HN	3612838	2a Calle NO	residential	1	0	0	
+HN	3612838	3a Avenida NE	residential	1	0	0	
+HN	3612907	10a Avenida NO	residential	1	0	0	
+HN	3612907	11 Avenida NO	residential	1	0	0	
+HN	3612907	11 Avenida SO	residential	1	0	0	
+HN	3612907	12 Avenida SO	residential	1	0	0	
+HN	3612907	1a Avenida NE	secondary	1	0	0	
+HN	3612907	1a Avenida NO	residential	1	0	0	
+HN	3612907	1a Avenida SE	residential	1	0	0	
+HN	3612907	1a Avenida SO	residential	1	0	0	
+HN	3612907	1a Calle NE	residential	1	0	0	
+HN	3612907	1a Calle NO	residential	1	0	0	
+HN	3612907	1a Calle SE	residential	1	0	0	
+HN	3612907	1a Calle SO	residential	1	0	0	
+HN	3612907	2a Avenida NE	residential	1	0	0	
+HN	3612907	2a Avenida NO	residential	1	0	0	
+HN	3612907	2a Avenida SE	residential	1	0	0	
+HN	3612907	2a Avenida SO	residential	1	0	0	
+HN	3612907	2a Calle NE	residential	1	0	0	
+HN	3612907	2a Calle NO	tertiary	1	0	0	
+HN	3612907	3a Avenida NE	residential	1	0	0	
+HN	3612907	3a Avenida NO	residential	1	0	0	
+HN	3612907	3a Avenida SE	residential	1	0	0	
+HN	3612907	3a Avenida SO	secondary	1	0	0	
+HN	3612907	3a Calle NE	residential	1	0	0	
+HN	3612907	3a Calle NO	tertiary	1	0	0	
+HN	3612907	3a Calle SE	residential	1	0	0	
+HN	3612907	3a Calle SO	residential	1	0	0	
+HN	3612907	4a Avenida NE	residential	1	0	0	
+HN	3612907	4a Avenida SE	residential	1	0	0	
+HN	3612907	4a Avenida SO	residential	1	0	0	
+HN	3612907	4a Calle NE	residential	1	0	0	
+HN	3612907	4a Calle NO	residential	1	0	0	
+HN	3612907	4a Calle SE	residential	1	0	0	
+HN	3612907	4a Calle SO	tertiary	1	0	0	
+HN	3612907	5a Avenida NE	residential	1	0	0	
+HN	3612907	5a Avenida NO	residential	1	0	0	
+HN	3612907	5a Avenida SE	residential	1	0	0	
+HN	3612907	5a Avenida SO	residential	1	0	0	
+HN	3612907	5a Calle NO	residential	1	0	0	
+HN	3612907	5a Calle SE	residential	1	0	0	
+HN	3612907	5a Calle SO	residential	1	0	0	
+HN	3612907	6a Avenida NE	residential	1	0	0	
+HN	3612907	6a Avenida NO	residential	1	0	0	
+HN	3612907	6a Avenida SE	residential	1	0	0	
+HN	3612907	6a Avenida SO	residential	1	0	0	
+HN	3612907	6a Calle NO	residential	1	0	0	
+HN	3612907	6a Calle SE	residential	1	0	0	
+HN	3612907	6a Calle SO	residential	1	0	0	
+HN	3612907	7a Avenida NO	tertiary	1	0	0	
+HN	3612929	A vegas del Corozal y San Antonio de las Palmas	tertiary	1	0	0	
+HN	3612929	Calle A	residential	1	0	0	
+HN	3612929	Calle a San Antonio de Las Palmas-Cuyamel	tertiary	1	0	0	
+HN	3612929	Cuyamel- Santo Domingo	unclassified	1	0	0	
+HN	3612929	Cuyamel-San Cristobal	tertiary	1	0	0	
+HN	3612929	PASO RIO	unclassified	1	0	0	
+HN	3612929	Ruta Merendon	unclassified	1	0	0	
+HN	3612929	Ruta Merendón	tertiary	1	0	0	
+HN	3612929	Ruta a San Isidro	unclassified	1	0	0	
+HN	3612929	Ruta a Santo Domingo	unclassified	1	0	0	
+HN	3612929	Vegas del Corozal	unclassified	1	0	0	
+HN	3613015	10a Avenida NE	residential	1	0	0	
+HN	3613015	10a Avenida SE	residential	1	0	0	
+HN	3613015	11 Avenida NE	residential	1	0	0	
+HN	3613015	12 Avenida NE	residential	1	0	0	
+HN	3613015	1a Avenida NE	residential	1	0	0	
+HN	3613015	1a Avenida NO	residential	1	0	0	
+HN	3613015	1a Avenida SE	residential	1	0	0	
+HN	3613015	1a Avenida SO	residential	1	0	0	
+HN	3613015	1a Calle NE	residential	1	0	0	
+HN	3613015	1a Calle NO	residential	1	0	0	
+HN	3613015	1a Calle SE	residential	1	0	0	
+HN	3613015	1a Calle SO	residential	1	0	0	
+HN	3613105	Calle del Ferrocarril	unclassified	1	0	0	
+HN	3613105	Carretera a Arenal	secondary	1	0	0	
+HN	3613105	Carretera a Nombre de Jesús	tertiary	1	0	0	
+HN	3613108	Calle del Ferrocarril	unclassified	1	0	0	
+HN	3613108	Carretera Olanchito - Jocon	primary	1	0	0	
+HN	3613108	Carretera a Arenal	secondary	1	0	0	
+HN	3613108	Medina - Las Flores	tertiary	1	0	0	
+HN	3613145	Arena Blanca - El Venado	tertiary	1	0	0	
+HN	3613145	Arena Blanca - La Crucita	tertiary	1	0	0	
+HN	3613145	Correderos - Arena Blanca	tertiary	1	0	0	
+HN	3613171	0 Calle NO	residential	1	0	0	
+HN	3613171	10a Avenida NE	residential	1	0	0	
+HN	3613171	10a Avenida SE	residential	1	0	0	
+HN	3613171	10a Calle NE	residential	1	0	0	
+HN	3613171	10a Calle SE	residential	1	0	0	
+HN	3613171	11 Avenida NE	residential	1	0	0	
+HN	3613171	11 Calle NE	residential	1	0	0	
+HN	3613171	12 Avenida NE	residential	1	0	0	
+HN	3613171	12 Calle NE	residential	1	0	0	
+HN	3613171	13 Avenida NE	residential	1	0	0	
+HN	3613171	13 Calle NE	residential	1	0	0	
+HN	3613171	14 Avenida NE	residential	1	0	0	
+HN	3613175	Calle De Ceiba	residential	1	0	0	
+HN	3613175	Carretera La Ceiba - Jutiapa	primary	1	0	0	
+HN	3613175	Ferrocarril Nacional	unclassified	1	0	0	
+HN	3613189	Carretera Bonito Oriental - Corocito	primary	1	0	0	
+HN	3613189	Carretera Tocoa - Corocito	primary	1	0	0	
+HN	3613189	Carretera Trujillo - Corocito	primary	1	0	0	
+HN	3613230	Avenida Centroamericano	residential	1	0	0	
+HN	3613230	Avenida Copán	tertiary	1	0	0	
+HN	3613230	Avenida La Cuesta	residential	1	0	0	
+HN	3613230	Avenida Las Sepulturas	residential	1	0	0	
+HN	3613230	Avenida Los Jaguares	residential	1	0	0	
+HN	3613230	Avenida Mirador	residential	1	0	0	
+HN	3613230	Avenida Rosalila	residential	1	0	0	
+HN	3613230	Avenida Sesesmil	tertiary	1	0	0	
+HN	3613230	Calle 18 Conejos	tertiary	1	0	0	
+HN	3613230	Calle Acrópolis	tertiary	1	0	0	
+HN	3613230	Calle Buena Vista	residential	1	0	0	
+HN	3613230	Calle El Escribano	residential	1	0	0	
+HN	3613230	Calle Independencia	residential	1	0	0	
+HN	3613230	Calle Las Gradas	residential	1	0	0	
+HN	3613230	Calle Rosalila	residential	1	0	0	
+HN	3613230	Calle Yaragua	residential	1	0	0	
+HN	3613230	Calle de la Plaza	residential	1	0	0	
+HN	3613230	Carretera Copan Ruinas - El Florido	primary	1	0	0	
+HN	3613230	Carretera La Entrada - Copan Ruinas	primary	1	0	0	
+HN	3613230	Carretera del Occidente	primary	1	0	0	
+HN	3613263	Carretera a Concordia	tertiary	1	0	0	
+HN	3613279	1a Avenida NE	secondary	1	0	0	
+HN	3613279	1a Avenida NO	residential	1	0	0	
+HN	3613279	1a Avenida SE	residential	1	0	0	
+HN	3613279	1a Calle NE	residential	1	0	0	
+HN	3613279	1a Calle NO	residential	1	0	0	
+HN	3613279	1a Calle SE	residential	1	0	0	
+HN	3613279	1a Calle SO	residential	1	0	0	
+HN	3613279	2a Avenida NO	residential	1	0	0	
+HN	3613279	2a Avenida SO	residential	1	0	0	
+HN	3613279	2a Calle NE	residential	1	0	0	
+HN	3613279	2a Calle NO	residential	1	0	0	
+HN	3613279	2a Calle SE	residential	1	0	0	
+HN	3613281	Carretera Concepción del Sur	tertiary	1	0	0	
+HN	3613281	Carretera Concepción del Sur - El Junquito	tertiary	1	0	0	
+HN	3613281	Carretera Concepción del Sur - San Francisco de Ojuera	tertiary	1	0	0	
+HN	3613281	Carretera Las Vegas - Agualteca	tertiary	1	0	0	
+HN	3613281	Carretera Santa Barbara - Pito Solo	secondary	1	0	0	
+HN	3613286	Colonia Concepción - El Rosario	tertiary	1	0	0	
+HN	3613321	6a Calle NO	residential	7	4	376	
+HN	3613321	2 Avenida NO		5	27	83	
+HN	3613321	1 Avenida NO		4	32	62	
+HN	3613321	3a Calle NO	residential	4	19	31	
+HN	3613321	5a Calle NO	residential	4	5	357	
+HN	3613321	2 Avenida NE		3	47	59	
+HN	3613321	0 Calle Este	tertiary	2	0	0	
+HN	3613321	3 Avenida NO		2	48	48	
+HN	3613321	4a Calle NO	residential	2	6	18	
+HN	3613321	0 Avenida Norte	residential	1	0	0	
+HN	3613321	0 Avenida SE	residential	1	0	0	
+HN	3613321	0 Avenida Sur	residential	1	0	0	
+HN	3613321	0 Calle Oeste	tertiary	1	0	0	
+HN	3613321	0A Avenida SE	residential	1	0	0	
+HN	3613321	0B Avenida SE	residential	1	0	0	
+HN	3613321	10a Avenida NE	residential	1	0	0	
+HN	3613321	10a Avenida NO	residential	1	0	0	
+HN	3613321	10a Avenida SE	residential	1	0	0	
+HN	3613321	10a Calle NO	residential	1	0	0	
+HN	3613321	10a Calle SE	residential	1	0	0	
+HN	3613321	11 Avenida NE	residential	1	0	0	
+HN	3613321	11 Avenida SE	residential	1	0	0	
+HN	3613321	11 Calle SE	residential	1	0	0	
+HN	3613321	11a Calle NO	residential	1	0	0	
+HN	3613321	12 Avenida NE	residential	1	0	0	
+HN	3613321	12 Avenida SE	residential	1	0	0	
+HN	3613321	12 Calle SE	residential	1	0	0	
+HN	3613321	12a Avenida NE	residential	1	0	0	
+HN	3613321	12a Calle NO	residential	1	0	0	
+HN	3613321	12a Calle SE	residential	1	0	0	
+HN	3613321	13 Avenida SE	residential	1	0	0	
+HN	3613321	13 Calle SE	residential	1	0	0	
+HN	3613321	13a Avenida NE	residential	1	0	0	
+HN	3613321	13a Calle SE	residential	1	0	0	
+HN	3613321	14 Avenida NE	residential	1	0	0	
+HN	3613321	14 Avenida SE	residential	1	0	0	
+HN	3613321	14 Calle SE	residential	1	0	0	
+HN	3613321	15 Avenida NE	residential	1	0	0	
+HN	3613321	15 Avenida SE	residential	1	0	0	
+HN	3613321	15 Calle SE	residential	1	0	0	
+HN	3613321	15a Avenida SE	residential	1	0	0	
+HN	3613321	15a Calle SE	residential	1	0	0	
+HN	3613321	16 Avenida NE	residential	1	0	0	
+HN	3613321	16 Avenida SE	residential	1	0	0	
+HN	3613321	16 Calle SE	residential	1	0	0	
+HN	3613321	17 Avenida NE	residential	1	0	0	
+HN	3613321	17 Avenida SE	residential	1	0	0	
+HN	3613321	17 Calle SE	residential	1	0	0	
+HN	3613321	17a Avenida SE	residential	1	0	0	
+HN	3613321	17a Calle SE	residential	1	0	0	
+HN	3613321	18 Avenida NE	residential	1	0	0	
+HN	3613321	18 Avenida SE	residential	1	0	0	
+HN	3613321	18 Calle SE	residential	1	0	0	
+HN	3613321	18a Calle SE	residential	1	0	0	
+HN	3613321	19 Avenida NE	residential	1	0	0	
+HN	3613321	19 Avenida SE	residential	1	0	0	
+HN	3613321	19 Calle SE	residential	1	0	0	
+HN	3613321	1a Avenida NE	tertiary	1	0	0	
+HN	3613321	1a Avenida NO	residential	1	0	0	
+HN	3613321	1a Avenida SE	tertiary	1	0	0	
+HN	3613321	1a Avenida SO	residential	1	0	0	
+HN	3613321	1a Calle NE	residential	1	0	0	
+HN	3613321	1a Calle NO	residential	1	0	0	
+HN	3613321	1a Calle SE	residential	1	0	0	
+HN	3613321	1a Calle SO	residential	1	0	0	
+HN	3613321	20 Avenida SE	residential	1	0	0	
+HN	3613321	20 Calle SE	residential	1	0	0	
+HN	3613321	21 Avenida SE	residential	1	0	0	
+HN	3613321	21 de Abril	residential	1	0	0	
+HN	3613321	21a Avenida SE	residential	1	0	0	
+HN	3613321	22 Avenida SE	residential	1	0	0	
+HN	3613321	23 Avenida SE	residential	1	0	0	
+HN	3613321	24 Avenida S	residential	1	0	0	
+HN	3613321	25 Avenida SE	residential	1	0	0	
+HN	3613321	26 Avenida SE	residential	1	0	0	
+HN	3613321	2a Avenida NE	tertiary	1	0	0	
+HN	3613321	2a Avenida SE	residential	1	0	0	
+HN	3613321	2a Calle NE	residential	1	0	0	
+HN	3613321	2a Calle NO	tertiary	1	0	0	
+HN	3613321	2a Calle SE	residential	1	0	0	
+HN	3613321	2a Calle SO	residential	1	0	0	
+HN	3613321	3a Avenida Diagonal NO	residential	1	0	0	
+HN	3613321	3a Avenida NE	residential	1	0	0	
+HN	3613321	3a Avenida NO	residential	1	0	0	
+HN	3613321	3a Avenida SE	residential	1	0	0	
+HN	3613321	3a Avenida SO	residential	1	0	0	
+HN	3613321	3a Calle NE	tertiary	1	0	0	
+HN	3613321	3a Calle SE	residential	1	0	0	
+HN	3613321	3a Calle SO	residential	1	0	0	
+HN	3613321	4a Avenida NE	residential	1	0	0	
+HN	3613321	4a Avenida SE	residential	1	0	0	
+HN	3613321	4a Calle NE	tertiary	1	0	0	
+HN	3613321	4a Calle SO	tertiary	1	0	0	
+HN	3613321	5a Avenida Diagonal NO	residential	1	0	0	
+HN	3613321	5a Avenida NE	residential	1	0	0	
+HN	3613321	5a Avenida NO	residential	1	0	0	
+HN	3613321	5a Avenida SE	residential	1	0	0	
+HN	3613321	5a Calle SE	residential	1	0	0	
+HN	3613321	5a Calle SO	residential	1	0	0	
+HN	3613321	6a Avenida NO	residential	1	0	0	
+HN	3613394	10a Calle	residential	1	0	0	
+HN	3613394	11 Calle	residential	1	0	0	
+HN	3613394	11a Calle	residential	1	0	0	
+HN	3613394	11a Calle A	residential	1	0	0	
+HN	3613394	12 Calle	residential	1	0	0	
+HN	3613394	12a Calle	residential	1	0	0	
+HN	3613394	12a Calle A	residential	1	0	0	
+HN	3613394	13 Calle	residential	1	0	0	
+HN	3613394	13a Calle	residential	1	0	0	
+HN	3613394	14 Calle	residential	1	0	0	
+HN	3613394	14a Calle	residential	1	0	0	
+HN	3613394	14a Calle A	residential	1	0	0	
+HN	3613394	15a Calle	residential	1	0	0	
+HN	3613394	16a Calle	residential	1	0	0	
+HN	3613394	17a Calle	residential	1	0	0	
+HN	3613394	18a Calle	residential	1	0	0	
+HN	3613394	19a Calle	tertiary	1	0	0	
+HN	3613394	1a Calle	residential	1	0	0	
+HN	3613394	20a Calle	residential	1	0	0	
+HN	3613394	21a Calle	residential	1	0	0	
+HN	3613394	22a Calle	residential	1	0	0	
+HN	3613394	23a Calle	residential	1	0	0	
+HN	3613394	24a Calle	residential	1	0	0	
+HN	3613394	25a Calle	residential	1	0	0	
+HN	3613394	26a Calle	tertiary	1	0	0	
+HN	3613394	2a Avenida Este	residential	1	0	0	
+HN	3613394	2a Avenida Oeste	residential	1	0	0	
+HN	3613394	2a Calle	tertiary	1	0	0	
+HN	3613394	3a Avenida A Oeste	residential	1	0	0	
+HN	3613394	3a Avenida B Oeste	residential	1	0	0	
+HN	3613394	3a Avenida C Oeste	residential	1	0	0	
+HN	3613394	3a Avenida Este	residential	1	0	0	
+HN	3613394	3a Avenida Oeste	residential	1	0	0	
+HN	3613394	3a Calle	residential	1	0	0	
+HN	3613394	4a Avenida A Oeste	residential	1	0	0	
+HN	3613394	4a Avenida B Oeste	residential	1	0	0	
+HN	3613394	4a Avenida Este	residential	1	0	0	
+HN	3613394	4a Avenida Oeste	residential	1	0	0	
+HN	3613394	4a Calle	residential	1	0	0	
+HN	3613394	5a Avenida A Oeste	residential	1	0	0	
+HN	3613394	5a Avenida Este	residential	1	0	0	
+HN	3613394	5a Avenida Oeste	tertiary	1	0	0	
+HN	3613394	5a Calle	residential	1	0	0	
+HN	3613394	6a Avenida A Oeste	residential	1	0	0	
+HN	3613394	6a Avenida Este	residential	1	0	0	
+HN	3613394	6a Avenida Oeste	residential	1	0	0	
+HN	3613394	6a Calle	residential	1	0	0	
+HN	3613394	7a Avenida Este	residential	1	0	0	
+HN	3613402	Carretera Cofradía - Zepate	tertiary	1	0	0	
+HN	3613509	10a Avenida	residential	1	0	0	
+HN	3613509	10a Calle	residential	1	0	0	
+HN	3613509	11 Calle	residential	1	0	0	
+HN	3613509	1a Avenida	residential	1	0	0	
+HN	3613509	1a Avenida A	residential	1	0	0	
+HN	3613509	1a Avenida B	residential	1	0	0	
+HN	3613509	1a Calle	residential	1	0	0	
+HN	3613509	2822	unclassified	1	0	0	
+HN	3613509	2a Avenida	residential	1	0	0	
+HN	3613509	2a Avenida A	residential	1	0	0	
+HN	3613509	2a Calle	residential	1	0	0	
+HN	3613509	3a Avenida	residential	1	0	0	
+HN	3613528	10a Avenida E	residential	1	0	0	
+HN	3613528	10a Avenida O	tertiary	1	0	0	
+HN	3613528	10a Calle N	residential	1	0	0	
+HN	3613528	10a Calle S	residential	1	0	0	
+HN	3613528	11 Avenida E	residential	1	0	0	
+HN	3613528	11 Avenida O	residential	1	0	0	
+HN	3613528	11 Calle S	residential	1	0	0	
+HN	3613528	11a Calle A S	residential	1	0	0	
+HN	3613528	11a Calle N	residential	1	0	0	
+HN	3613528	11a Calle S	residential	1	0	0	
+HN	3613528	12 Avenida E	residential	1	0	0	
+HN	3613528	12 Avenida O	residential	1	0	0	
+HN	3613528	12 Calle S	residential	1	0	0	
+HN	3613528	12a Calle N	residential	1	0	0	
+HN	3613528	12a Calle S	residential	1	0	0	
+HN	3613528	13 Avenida E	residential	1	0	0	
+HN	3613528	13 Avenida O	residential	1	0	0	
+HN	3613528	13 Calle S	residential	1	0	0	
+HN	3613528	13a Calle S	residential	1	0	0	
+HN	3613528	14 Avenida E	residential	1	0	0	
+HN	3613528	14 Avenida O	residential	1	0	0	
+HN	3613528	14 Calle S	residential	1	0	0	
+HN	3613528	14a Calle S	tertiary	1	0	0	
+HN	3613528	15 Avenida E	residential	1	0	0	
+HN	3613528	15 Avenida O	residential	1	0	0	
+HN	3613528	15 Calle S	residential	1	0	0	
+HN	3613528	15a Calle S	residential	1	0	0	
+HN	3613528	16 Avenida E	residential	1	0	0	
+HN	3613528	16 Avenida O	residential	1	0	0	
+HN	3613528	16 Calle S	residential	1	0	0	
+HN	3613528	16a Calle S	residential	1	0	0	
+HN	3613528	17 Avenida E	residential	1	0	0	
+HN	3613528	17 Avenida O	residential	1	0	0	
+HN	3613528	17 Calle S	residential	1	0	0	
+HN	3613528	17a Calle S	residential	1	0	0	
+HN	3613528	18 Avenida A E	residential	1	0	0	
+HN	3613528	18 Avenida E	residential	1	0	0	
+HN	3613528	18 Avenida O	residential	1	0	0	
+HN	3613528	18 Calle S	residential	1	0	0	
+HN	3613528	18a Calle S	residential	1	0	0	
+HN	3613528	19 Avenida E	residential	1	0	0	
+HN	3613528	19 Avenida O	residential	1	0	0	
+HN	3613528	19 Calle S	residential	1	0	0	
+HN	3613528	1a Avenida E	residential	1	0	0	
+HN	3613528	1a Avenida O	residential	1	0	0	
+HN	3613528	1a Calle N	residential	1	0	0	
+HN	3613528	1a Calle S	residential	1	0	0	
+HN	3613528	1ª Avenida E	residential	1	0	0	
+HN	3613528	1ª Avenida NO 15 de Septiembre	residential	1	0	0	
+HN	3613528	1ª Avenida SO 15 de Septiembre	residential	1	0	0	
+HN	3613528	1ª Calle SE Lardizábal	residential	1	0	0	
+HN	3613528	1ª Calle SE Manuel Bonilla	residential	1	0	0	
+HN	3613528	1ª Calle SO	residential	1	0	0	
+HN	3613528	1ª Calle SO Lardizábal	residential	1	0	0	
+HN	3613528	1ª Calle SO Manuel Bonilla	residential	1	0	0	
+HN	3613528	20 Avenida E	residential	1	0	0	
+HN	3613528	20 Avenida O	residential	1	0	0	
+HN	3613528	20 Calle S	residential	1	0	0	
+HN	3613528	21 Avenida E	residential	1	0	0	
+HN	3613528	21 Avenida O	tertiary	1	0	0	
+HN	3613528	21 Calle S	residential	1	0	0	
+HN	3613528	22 Avenida E	residential	1	0	0	
+HN	3613528	22 Avenida O	residential	1	0	0	
+HN	3613528	22 Calle S	residential	1	0	0	
+HN	3613528	23 Avenida E	residential	1	0	0	
+HN	3613528	23 Avenida O	residential	1	0	0	
+HN	3613528	24 Avenida E	residential	1	0	0	
+HN	3613528	24 Avenida O	residential	1	0	0	
+HN	3613528	25 Avenida E	residential	1	0	0	
+HN	3613528	25 Avenida O	residential	1	0	0	
+HN	3613528	26 Avenida E	residential	1	0	0	
+HN	3613528	26 Avenida O	residential	1	0	0	
+HN	3613528	27 Avenida E	residential	1	0	0	
+HN	3613528	27 Avenida O	residential	1	0	0	
+HN	3613528	28 Avenida E	residential	1	0	0	
+HN	3613528	28 Avenida O	residential	1	0	0	
+HN	3613528	29 Avenida E	residential	1	0	0	
+HN	3613528	29 Avenida O	residential	1	0	0	
+HN	3613528	2a Avenida E	residential	1	0	0	
+HN	3613528	2a Avenida Moncada	residential	1	0	0	
+HN	3613528	2a Avenida O	residential	1	0	0	
+HN	3613528	2a Calle N	residential	1	0	0	
+HN	3613528	2a Calle S	residential	1	0	0	
+HN	3613528	2ª Avenida NO Pedro Díaz	residential	1	0	0	
+HN	3613528	2ª Avenida SO Pedro Díaz	residential	1	0	0	
+HN	3613528	2ª Calle SE El Progreso	residential	1	0	0	
+HN	3613528	2ª Calle SE Paz Barahona	residential	1	0	0	
+HN	3613528	2ª Calle SO	residential	1	0	0	
+HN	3613528	2ª Calle SO El Progreso	residential	1	0	0	
+HN	3613528	2ª Calle SO Paz Barahona	residential	1	0	0	
+HN	3613528	30 Avenida E	residential	1	0	0	
+HN	3613528	31 Avenida E	residential	1	0	0	
+HN	3613528	32 Avenida E	residential	1	0	0	
+HN	3613528	33 Avenida E	residential	1	0	0	
+HN	3613528	3a Avenida E	residential	1	0	0	
+HN	3613528	3a Calle N	residential	1	0	0	
+HN	3613528	3a Calle S	residential	1	0	0	
+HN	3613528	3ª Avenida NO República de México	residential	1	0	0	
+HN	3613528	3ª Avenida SO República de México	residential	1	0	0	
+HN	3613528	3ª Calle SE	residential	1	0	0	
+HN	3613533	10a Avenida NE	residential	1	0	0	
+HN	3613533	10a Avenida SE	residential	1	0	0	
+HN	3613533	10a Avenida SO	residential	1	0	0	
+HN	3613533	10a Calle NE	residential	1	0	0	
+HN	3613533	10a Calle SE	residential	1	0	0	
+HN	3613533	10a Calle SO	residential	1	0	0	
+HN	3613533	11 Avenida NE	residential	1	0	0	
+HN	3613533	11 Avenida SE	residential	1	0	0	
+HN	3613533	11 Calle NE	tertiary	1	0	0	
+HN	3613533	11 Calle SE	tertiary	1	0	0	
+HN	3613533	11 Calle SO	residential	1	0	0	
+HN	3613533	11a Avenida SO	residential	1	0	0	
+HN	3613533	12 Avenida SE	residential	1	0	0	
+HN	3613533	12 Calle SE	residential	1	0	0	
+HN	3613533	13 Avenida SE	residential	1	0	0	
+HN	3613533	13 Calle SE	residential	1	0	0	
+HN	3613533	14 Avenida SE	residential	1	0	0	
+HN	3613533	14 Calle SE	residential	1	0	0	
+HN	3613533	15 Calle SE	residential	1	0	0	
+HN	3613533	16 Calle SE	residential	1	0	0	
+HN	3613533	1a Avenida	residential	1	0	0	
+HN	3613533	1a Avenida NE	residential	1	0	0	
+HN	3613533	1a Avenida NO	residential	1	0	0	
+HN	3613533	1a Calle	residential	1	0	0	
+HN	3613533	1a Calle Este	residential	1	0	0	
+HN	3613533	1a Calle Oeste	residential	1	0	0	
+HN	3613533	1a Calle SE	residential	1	0	0	
+HN	3613533	1a Calle SO	residential	1	0	0	
+HN	3613533	2a Avenida	residential	1	0	0	
+HN	3613533	2a Avenida NE	residential	1	0	0	
+HN	3613533	2a Avenida NO	residential	1	0	0	
+HN	3613533	2a Avenida SE	residential	1	0	0	
+HN	3613533	2a Avenida SO	residential	1	0	0	
+HN	3613533	2a Calle	residential	1	0	0	
+HN	3613533	2a Calle NE	secondary	1	0	0	
+HN	3613533	2a Calle NO	residential	1	0	0	
+HN	3613533	2a Calle SE	residential	1	0	0	
+HN	3613533	2a Calle SO	residential	1	0	0	
+HN	3613533	3a Avenida	residential	1	0	0	
+HN	3613533	3a Avenida NE	residential	1	0	0	
+HN	3613533	3a Avenida NO	residential	1	0	0	
+HN	3613533	3a Avenida SE	residential	1	0	0	
+HN	3613533	3a Avenida SO	residential	1	0	0	
+HN	3613533	3a Calle	residential	1	0	0	
+HN	3613533	3a Calle NE	secondary	1	0	0	
+HN	3613533	3a Calle NO	secondary	1	0	0	
+HN	3613533	3a Calle SO	residential	1	0	0	
+HN	3613533	4a Avenida	residential	1	0	0	
+HN	3613533	4a Avenida NE	residential	1	0	0	
+HN	3613533	4a Avenida NO	residential	1	0	0	
+HN	3613533	4a Avenida SE	residential	1	0	0	
+HN	3613533	4a Avenida SO	residential	1	0	0	
+HN	3613533	4a Calle	residential	1	0	0	
+HN	3613533	4a Calle NE	residential	1	0	0	
+HN	3613533	4a Calle NO	residential	1	0	0	
+HN	3613533	4a Calle SE	residential	1	0	0	
+HN	3613533	4a Calle SO	tertiary	1	0	0	
+HN	3613533	5a Avenida NE	residential	1	0	0	
+HN	3613533	5a Avenida NO	residential	1	0	0	
+HN	3613533	5a Avenida SE	residential	1	0	0	
+HN	3613533	5a Avenida SO	residential	1	0	0	
+HN	3613533	5a Calle	residential	1	0	0	
+HN	3613533	5a Calle NE	residential	1	0	0	
+HN	3613533	5a Calle NO	residential	1	0	0	
+HN	3613533	5a Calle SO	residential	1	0	0	
+HN	3613533	6a Avenida NE	secondary	1	0	0	
+HN	3613533	6a Avenida SE	residential	1	0	0	
+HN	3613533	6a Calle NE	residential	1	0	0	
+HN	3613533	6a Calle NO	residential	1	0	0	
+HN	3613533	6a Calle SO	residential	1	0	0	
+HN	3613533	7a Avenida NE	residential	1	0	0	
+HN	3613533	7a Avenida NO	residential	1	0	0	
+HN	3613533	7a Avenida SE	residential	1	0	0	
+HN	3613533	7a Avenida SO	residential	1	0	0	
+HN	3613533	7a Calle NE	tertiary	1	0	0	
+HN	3613533	7a Calle NO	residential	1	0	0	
+HN	3613533	7a Calle SE	residential	1	0	0	
+HN	3613533	7a Calle SO	residential	1	0	0	
+HN	3613533	8a Avenida NE	residential	1	0	0	
+HN	3613533	8a Avenida NO	residential	1	0	0	
+HN	3613533	8a Avenida SE	residential	1	0	0	
+HN	3613533	8a Avenida SO	residential	1	0	0	
+HN	3613533	8a Calle NE	tertiary	1	0	0	
+HN	3613533	8a Calle SO	residential	1	0	0	
+HN	3613533	9a Avenida NE	residential	1	0	0	
+HN	3613533	9a Avenida NO	residential	1	0	0	
+HN	3613533	9a Avenida SO	residential	1	0	0	
+HN	3613533	9a Calle	residential	1	0	0	
+HN	3613533	9a Calle NE	residential	1	0	0	
+HN	3613533	9a Calle SE	residential	1	0	0	
+HN	3613533	9a Calle SO	residential	1	0	0	
+HN	3613533	Bella Vista Bloque H < I	residential	1	0	0	
+HN	3613533	Bella Vista Bloque I > J	residential	1	0	0	
+HN	3613533	Bella Vista Bloque J > O	residential	1	0	0	
+HN	3613533	Bulevar Marsella	residential	1	0	0	
+HN	3613533	Bulevar Principal	residential	1	0	0	
+HN	3613533	Calle Aurinegro	residential	1	0	0	
+HN	3613533	Calle Principal	unclassified	1	0	0	
+HN	3613533	Calle Rodia	residential	1	0	0	
+HN	3613533	Calle a El Zapotal	tertiary	1	0	0	
+HN	3613586	Carretera de Occidente	primary	1	0	0	
+HN	3613708	Chalmeca - El Chile	tertiary	1	0	0	
+HN	3613847	Carretera Siguatepeque - La Trinidad	tertiary	1	0	0	
+HN	3613847	Cerro Blanco - Los Imposibles	tertiary	1	0	0	
+HN	3613847	Las Lagunas - Las Pavas	tertiary	1	0	0	
+HN	3613847	Las Pavas - Plazuelas	tertiary	1	0	0	
+HN	3613847	Los Imposibles - Las Lagunas	tertiary	1	0	0	
+HN	3613900	Carretera Ceguaca	tertiary	1	0	0	
+HN	3613900	Carretera Santa Barbara - Pito Solo	secondary	1	0	0	
+HN	3613900	Carretera Santa Rita	tertiary	1	0	0	
+HN	3613906	Carretera El Porvenir - Cedros	primary	1	0	0	
+HN	3613906	Carretera Talanga - Cedros	primary	1	0	0	
+HN	3614011	Carretera de Occidente	primary	1	0	0	
+HN	3614113	Calle del Ferrocarril	residential	1	0	0	
+HN	3614113	Carretera Olanchito - Sonaguera	secondary	1	0	0	
+HN	3614113	Carretera Saba - Jutiapa	primary	1	0	0	
+HN	3614113	Carretera Sonaguera - Planes	secondary	1	0	0	
+HN	3614218	10a Avenida NE	residential	1	0	0	
+HN	3614218	10a Avenida NO	residential	1	0	0	
+HN	3614218	10ma Calle Diagonal NO	residential	1	0	0	
+HN	3614218	11a Avenida NE	residential	1	0	0	
+HN	3614218	11a Avenida NO	residential	1	0	0	
+HN	3614218	12a Avenida NO	residential	1	0	0	
+HN	3614218	12a Avenida SO	residential	1	0	0	
+HN	3614218	13a Avenida NO	residential	1	0	0	
+HN	3614218	13a Avenida SO	residential	1	0	0	
+HN	3614218	1a Avenida NO	residential	1	0	0	
+HN	3614218	1a Avenida SE	residential	1	0	0	
+HN	3614218	1a Avenida SO	residential	1	0	0	
+HN	3614249	Calle principal El Tigre	tertiary	1	0	0	
+HN	3614319	Calle La Picona	residential	1	0	0	
+HN	3614319	Carretera Campamento - Juticalpa	primary	1	0	0	
+HN	3614319	Carretera Guaimaca - Campamento	primary	1	0	0	
+HN	3614319	Carretera a Concordia	tertiary	1	0	0	
+HN	3614319	El Pino	residential	1	0	0	
+HN	3614319	La Primavera	residential	1	0	0	
+HN	3614319	Los Profesores	residential	1	0	0	
+HN	3614319	Primavera	residential	1	0	0	
+HN	3614328	Magdalena - Santa Lucía	secondary	1	0	0	
+HN	3614328	San Juan De Dios - Magdalena	secondary	1	0	0	
+HN	3614328	San Juan De Dios - San Antonio	tertiary	1	0	0	
+HN	3614343	Carretera de Occidente	primary	1	0	0	
+HN	3614381	Carretera 6 de Mayo - El Cacao	tertiary	1	0	0	
+HN	3614381	Carretera de Occidente	primary	1	0	0	
+HN	3614381	El Manguito - El Rosario	tertiary	1	0	0	
+HN	3614572	Calle a Miramar, Meremdon	tertiary	1	0	0	
+HN	3614572	Calle a Neblinas-Gallito	unclassified	1	0	0	
+HN	3614572	Calle al Porvenir, Merendon	tertiary	1	0	0	
+HN	3614572	Carretera a la Fortuna, Merendon	tertiary	1	0	0	
+HN	3614572	Ruta Merendón	tertiary	1	0	0	
+HN	3614574	Calle del Ferrocarril	residential	1	0	0	
+HN	3614574	Carretera Olanchito - Sonaguera	secondary	1	0	0	
+HN	3614583	10a Calle NE	residential	1	0	0	
+HN	3614583	10a Calle NO	residential	1	0	0	
+HN	3614583	11a Calle NE	residential	1	0	0	
+HN	3614583	12a Calle NE	residential	1	0	0	
+HN	3614583	1a Avenida NE	residential	1	0	0	
+HN	3614583	1a Avenida NO	residential	1	0	0	
+HN	3614583	1a Avenida SE	residential	1	0	0	
+HN	3614583	1a Avenida SO	residential	1	0	0	
+HN	3614583	1a Calle NE	residential	1	0	0	
+HN	3614583	1a Calle NO	residential	1	0	0	
+HN	3614583	1a Calle SE	residential	1	0	0	
+HN	3614583	1a Calle SO	residential	1	0	0	
+HN	3614663	Avenida Principal	residential	1	0	0	
+HN	3614663	Calle Municipal	residential	1	0	0	
+HN	3614705	10a Avenida NE	residential	1	0	0	
+HN	3614705	10a Avenida NO	residential	1	0	0	
+HN	3614705	10a Avenida SE	residential	1	0	0	
+HN	3614705	10a Calle NE	residential	1	0	0	
+HN	3614705	10a Calle NO	residential	1	0	0	
+HN	3614705	11 Avenida NE	residential	1	0	0	
+HN	3614705	11 Avenida NO	residential	1	0	0	
+HN	3614705	11 Avenida SE	residential	1	0	0	
+HN	3614705	11 Calle NO	residential	1	0	0	
+HN	3614705	12 Avenida NO	residential	1	0	0	
+HN	3614705	12 Avenida SE	residential	1	0	0	
+HN	3614705	13 Avenida NO	residential	1	0	0	
+HN	3614805	Carretera La Barca - Santa Rita	primary	1	0	0	
+HN	3614872	Calle Antigua Línea de Ferrocarril	tertiary	1	0	0	
+HN	3614893	Carretera Olanchito - Sabá	primary	1	0	0	
+HN	3614914	Camino Bajamar	tertiary	1	0	0	
+HN	3614970	1a Avenida NE	residential	1	0	0	
+HN	3614970	1a Avenida NO	residential	1	0	0	
+HN	3614970	1a Avenida SE	residential	1	0	0	
+HN	3614970	1a Avenida SO	residential	1	0	0	
+HN	3614970	1a Calle NE	residential	1	0	0	
+HN	3614970	1a Calle NO	residential	1	0	0	
+HN	3614970	1a Calle SE	residential	1	0	0	
+HN	3614970	1a Calle SO	tertiary	1	0	0	
+HN	3614970	2a Avenida NE	residential	1	0	0	
+HN	3614970	2a Avenida NO	residential	1	0	0	
+HN	3614970	2a Avenida SE	residential	1	0	0	
+HN	3614970	2a Avenida SO	residential	1	0	0	
+HN	3614970	2a Calle NE	residential	1	0	0	
+HN	3614970	2a Calle NO	residential	1	0	0	
+HN	3614970	2a Calle SE	residential	1	0	0	
+HN	3614970	2a Calle SO	residential	1	0	0	
+HN	3614970	3a Avenida NE	residential	1	0	0	
+HN	3614970	3a Avenida NO	residential	1	0	0	
+HN	3614970	3a Avenida SE	residential	1	0	0	
+HN	3614970	3a Avenida SO	residential	1	0	0	
+HN	3614970	3a Calle NE	residential	1	0	0	
+HN	3614970	3a Calle NO	residential	1	0	0	
+HN	3614970	3a Calle SE	residential	1	0	0	
+HN	3614970	3a Calle SO	residential	1	0	0	
+HN	3614975	San Pedro Zacapa - Agua Caliente	tertiary	1	0	0	
+HN	3614975	San Pedro Zacapa - Azacualpa	tertiary	1	0	0	
+HN	3614975	Santa Ana - Agua Caliente	tertiary	1	0	0	
+HN	3614983	Carretera La Esperanza - Gracias	primary	1	0	0	
+HN	3614997	Carretera Ayapa - La Rosa	tertiary	1	0	0	
+HN	3615011	Carretera a Auka	tertiary	1	0	0	
+HN	3615028	1a Avenida NE	residential	1	0	0	
+HN	3615028	1a Avenida NO	residential	1	0	0	
+HN	3615028	1a Avenida SE	tertiary	1	0	0	
+HN	3615028	1a Avenida SO	residential	1	0	0	
+HN	3615028	1a Calle NE	residential	1	0	0	
+HN	3615028	1a Calle NO	residential	1	0	0	
+HN	3615028	1a Calle SE	residential	1	0	0	
+HN	3615028	1a Calle SO	residential	1	0	0	
+HN	3615028	2a Avenida NE	residential	1	0	0	
+HN	3615028	2a Avenida NO	residential	1	0	0	
+HN	3615028	2a Avenida SE	residential	1	0	0	
+HN	3615028	2a Calle NE	residential	1	0	0	
+HN	3615030	Carretera Tela - San Juan Pueblo	primary	1	0	0	
+HN	3615065	27 Avenida SO	residential	1	0	0	
+HN	3615065	29 Avenida SO	residential	1	0	0	
+HN	3615065	8a Calle SO	residential	1	0	0	
+HN	3615065	9 Calle C SO	residential	1	0	0	
+HN	3615065	9 Calle D SO	residential	1	0	0	
+HN	3615067	Carretera Olanchito - Sabá	primary	1	0	0	
+HN	3615069	Carretera Tela - San Juan Pueblo	primary	1	0	0	
+HN	3615070	Carretera Juticalpa - Catacamas	primary	1	0	0	
+HN	3615090	Carretera Olanchito - Jocon	primary	1	0	0	
+HN	3615090	Carretera a Arenal	secondary	1	0	0	
+HN	3615090	Carretera a Zapamatepe	tertiary	1	0	0	
+HN	3615115	1a Avenida NO	secondary	1	0	0	
+HN	3615115	1a Avenida SO	secondary	1	0	0	
+HN	3615115	1a Avenida Sur	residential	1	0	0	
+HN	3615115	1a Calle NE	residential	1	0	0	
+HN	3615115	1a Calle NO	residential	1	0	0	
+HN	3615115	1a Calle Oriente	unclassified	1	0	0	
+HN	3615115	1a Calle SE	residential	1	0	0	
+HN	3615115	1a Calle SO	residential	1	0	0	
+HN	3615115	2a Avenida Norte	residential	1	0	0	
+HN	3615115	2a Avenida SE	residential	1	0	0	
+HN	3615115	2a Avenida Sur	residential	1	0	0	
+HN	3615115	2a Calle NE	residential	1	0	0	
+HN	3615125	1a Avenida NE	residential	1	0	0	
+HN	3615125	1a Avenida NO	residential	1	0	0	
+HN	3615125	1a Avenida SE	residential	1	0	0	
+HN	3615125	1a Avenida SO	residential	1	0	0	
+HN	3615125	1a Calle NE	residential	1	0	0	
+HN	3615125	1a Calle NO	residential	1	0	0	
+HN	3615125	1a Calle SO	residential	1	0	0	
+HN	3615125	2a Avenida NE	residential	1	0	0	
+HN	3615125	2a Avenida NO	residential	1	0	0	
+HN	3615125	2a Avenida SE	residential	1	0	0	
+HN	3615125	2a Avenida SO	residential	1	0	0	
+HN	3615125	2a Calle NO	residential	1	0	0	
+HN	3615169	11 Calle Oriente	residential	1	0	0	
+HN	3615169	13 Calle Oriente	residential	1	0	0	
+HN	3615169	5a Calle Oriente	residential	1	0	0	
+HN	3615169	9a Calle Oriente	residential	1	0	0	
+HN	3615169	Avenida Virgilio Rodezno	residential	1	0	0	
+HN	3615169	Calle Alberto Masferrer	residential	1	0	0	
+HN	3615169	Carretera Ocotepeque - El Poy	primary	1	0	0	
+HN	3615169	Troncal del Norte	primary	1	0	0	
+HN	3615213	1ª Avenida	residential	1	0	0	
+HN	3615213	2ª Avenida	residential	1	0	0	
+HN	3615213	3ª Avenida	residential	1	0	0	
+HN	3615213	4ª Avenida	residential	1	0	0	
+HN	3615213	5ª Avenida	residential	1	0	0	
+HN	3615213	6ª Avenida	residential	1	0	0	
+HN	3615213	7ª Avenida	tertiary	1	0	0	
+HN	3615213	8ª Avenida	residential	1	0	0	
+HN	3615213	Calle El Calvario	residential	1	0	0	
+HN	3615213	Calle La Marina	residential	1	0	0	
+HN	3615213	Calle a La Flor	unclassified	1	0	0	
+HN	3615213	Calle de la Loma	residential	1	0	0	
+HN	3615250	1a Avenida NE	residential	1	0	0	
+HN	3615250	1a Avenida NO	residential	1	0	0	
+HN	3615250	1a Avenida SE	residential	1	0	0	
+HN	3615250	1a Avenida SO	residential	1	0	0	
+HN	3615250	1a Calle NE	residential	1	0	0	
+HN	3615250	1a Calle NO	residential	1	0	0	
+HN	3615250	1a Calle SE	residential	1	0	0	
+HN	3615250	1a Calle SO	residential	1	0	0	
+HN	3615250	2a Avenida NE	residential	1	0	0	
+HN	3615250	2a Avenida NO	residential	1	0	0	
+HN	3615250	2a Avenida SE	residential	1	0	0	
+HN	3615250	2a Avenida SO	residential	1	0	0	
+HN	3615250	2a Calle NE	residential	1	0	0	
+HN	3615250	2a Calle NO	residential	1	0	0	
+HN	3615250	2a Calle SE	residential	1	0	0	
+HN	3615250	2a Calle SO	residential	1	0	0	
+HN	3615250	3a Avenida NE	residential	1	0	0	
+HN	3615250	3a Avenida NO	residential	1	0	0	
+HN	3615250	3a Avenida SE	tertiary	1	0	0	
+HN	3615250	3a Avenida SO	unclassified	1	0	0	
+HN	3615250	3a Calle NE	residential	1	0	0	
+HN	3615250	3a Calle NO	tertiary	1	0	0	
+HN	3615250	4a Avenida NO	unclassified	1	0	0	
+HN	3615250	4a Calle NE	residential	1	0	0	
+HN	3615279	1a Avenida NE	residential	1	0	0	
+HN	3615279	1a Avenida NO	residential	1	0	0	
+HN	3615279	1a Avenida SE	residential	1	0	0	
+HN	3615279	1a Avenida SO	residential	1	0	0	
+HN	3615279	1a Calle NE	residential	1	0	0	
+HN	3615279	1a Calle NO	residential	1	0	0	
+HN	3615279	1a Calle SE	residential	1	0	0	
+HN	3615279	2a Avenida NE	residential	1	0	0	
+HN	3615279	2a Avenida NO	residential	1	0	0	
+HN	3615279	2a Avenida SE	residential	1	0	0	
+HN	3615279	2a Avenida SO	residential	1	0	0	
+HN	3615279	2a Calle NE	residential	1	0	0	
+HN	3615279	2a Calle NO	residential	1	0	0	
+HN	3615279	2a Calle SE	residential	1	0	0	
+HN	3615279	2a Calle SO	residential	1	0	0	
+HN	3615279	3a Avenida NE	residential	1	0	0	
+HN	3615279	3a Avenida NO	residential	1	0	0	
+HN	3615279	3a Avenida SE	secondary	1	0	0	
+HN	3615279	3a Calle NE	tertiary	1	0	0	
+HN	3615279	3a Calle NO	tertiary	1	0	0	
+HN	3615279	3a Calle SE	residential	1	0	0	
+HN	3615279	3a Calle SO	residential	1	0	0	
+HN	3615279	4a Avenida NE	residential	1	0	0	
+HN	3615279	4a Avenida NO	residential	1	0	0	
+HN	3615391	Calle a La Brea	tertiary	1	0	0	
+HN	3615391	Carretera San Lorenzo - Coyolito	primary	1	0	0	
+HN	3615391	RV-221	tertiary	1	0	0	
+HN	3615391	RV-226	tertiary	1	0	0	
+HN	3615391	RV-227	tertiary	1	0	0	
+HN	3615391	RV-240	tertiary	1	0	0	
+HN	3615391	RV-245	unclassified	1	0	0	
+HN	3615391	RV-247	unclassified	1	0	0	
+HN	3615439	Acceso a Copal Arriba	tertiary	1	0	0	
+HN	3615439	Acceso a El Coyol	unclassified	1	0	0	
+HN	3615439	Agua Caliente de Linaca-Tapaci	tertiary	1	0	0	
+HN	3615439	Choluteca - Linaca	tertiary	1	0	0	
+HN	3615439	Cofradia - Las Uvas	tertiary	1	0	0	
+HN	3615439	El Cofradia - Agua Caliente de Linaca	tertiary	1	0	0	
+HN	3615439	El Jicaral - Cofradia	tertiary	1	0	0	
+HN	3615439	El Santuario - Las Cuevas	unclassified	1	0	0	
+HN	3615439	El Trapiche - Carrizal	tertiary	1	0	0	
+HN	3615439	El Trapiche - El Carrizal	tertiary	1	0	0	
+HN	3615439	La Garita - San Ramón	tertiary	1	0	0	
+HN	3615439	La Joyada - El Colorado	tertiary	1	0	0	
+HN	3615509	12 Avenida NO	residential	1	0	0	
+HN	3615509	13 Avenida NO	residential	1	0	0	
+HN	3615509	14 Avenida NO	residential	1	0	0	
+HN	3615509	15 Avenida NO	residential	1	0	0	
+HN	3615509	16 Avenida NO	residential	1	0	0	
+HN	3615509	17 Avenida NO	residential	1	0	0	
+HN	3615509	1a Avenida NE	residential	1	0	0	
+HN	3615509	2a Avenida NE	tertiary	1	0	0	
+HN	3615509	3a Avenida NO	residential	1	0	0	
+HN	3615509	5a Calle NO	residential	1	0	0	
+HN	3615509	6a Calle NO	residential	1	0	0	
+HN	3615509	7a Calle NO	residential	1	0	0	
+HN	3615509	8a Calle NE	tertiary	1	0	0	
+HN	3615509	8a Calle NO	residential	1	0	0	
+HN	3615509	9a Calle NO	residential	1	0	0	
+HN	3615509	Avenida Central Norte	residential	1	0	0	
+HN	3615509	Carretera La Barca - Santa Rita	primary	1	0	0	
+HN	3615509	Carretera Santa Rita - El Negrito	primary	1	0	0	
+HN	3615509	Carretera Santa Rita - El Progreso	primary	1	0	0	
+HN	3812188	1a Avenida SO	residential	1	0	0	
+HN	3812188	1a Calle NE	residential	1	0	0	
+HN	3812188	1a Calle NO	residential	1	0	0	
+HN	3812188	2a Avenida NO	residential	1	0	0	
+HN	3812188	2a Avenida SO	residential	1	0	0	
+HN	3812188	2a Calle NO	residential	1	0	0	
+HN	3812188	3a Avenida NE	residential	1	0	0	
+HN	3812188	3a Avenida NO	tertiary	1	0	0	
+HN	3812188	3a Avenida SO	residential	1	0	0	
+HN	3812188	3a Calle NO	residential	1	0	0	
+HN	3812188	4a Avenida SO	residential	1	0	0	
+HN	3812188	Avenida Central Norte	residential	1	0	0	

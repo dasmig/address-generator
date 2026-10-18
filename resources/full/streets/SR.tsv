@@ -1,0 +1,892 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+SR	3382783	Blauwkepantjieweg	residential	1	0	0	
+SR	3382783	Charolaislaan	residential	1	0	0	
+SR	3382783	Flamingoweg	residential	1	0	0	
+SR	3382783	Hoofdweg	residential	1	0	0	
+SR	3382783	Kalverstraat	residential	1	0	0	
+SR	3382783	Kerkplein	residential	1	0	0	
+SR	3382783	Matapilaan	tertiary	1	0	0	
+SR	3382783	Middenweg	residential	1	0	0	
+SR	3382783	Molenweg	residential	1	0	0	
+SR	3382783	Oost West Verbinding Nickerie	primary	1	0	0	
+SR	3382783	Oosteinde	residential	1	0	0	
+SR	3382783	Oranjelaan	residential	1	0	0	
+SR	3382867	Arnoldus Bendtstraat	living_street	1	0	0	
+SR	3382867	Arthur Flustraat	residential	1	0	0	
+SR	3382867	Basja Taystraat	residential	1	0	0	
+SR	3382867	Commissarisstraat	residential	1	0	0	
+SR	3382867	Eduard Wolfstraat	residential	1	0	0	
+SR	3382867	Geraniumstraat	residential	1	0	0	
+SR	3382867	Gouverneurstraat	residential	1	0	0	
+SR	3382867	Hendrik Fellerstraat	residential	1	0	0	
+SR	3382867	James Wijntuinstraat	residential	1	0	0	
+SR	3382867	Johannes S. P. Kraagweg	primary	1	0	0	
+SR	3382867	Jozef Schoenmanstraat	residential	1	0	0	
+SR	3382867	Kofimakastraat	residential	1	0	0	
+SR	3382978	Hadji Iding Soemitaweg	primary	3	251	258	
+SR	3382978	A. Ombreweg	living_street	1	0	0	
+SR	3382978	Abrikoosweg	living_street	1	0	0	
+SR	3382978	Alpenasterweg	living_street	1	0	0	
+SR	3382978	Alpenroosweg	living_street	1	0	0	
+SR	3382978	Ambonweg	living_street	1	0	0	
+SR	3382978	Anijsweg	residential	1	0	0	
+SR	3382978	Bedstroweg	living_street	1	0	0	
+SR	3382978	Bellenplantweg	living_street	1	0	0	
+SR	3382978	Berendruifweg	living_street	1	0	0	
+SR	3382978	Bergdenweg-Zuid	living_street	1	0	0	
+SR	3382978	Bergtheeweg	living_street	1	0	0	
+SR	3382978	Bieslookweg	living_street	1	0	0	
+SR	3382978	Bijenkorfweg	living_street	1	0	0	
+SR	3382978	Bladmosterdweg	residential	1	0	0	
+SR	3382978	Blauwklaproosweg	living_street	1	0	0	
+SR	3382978	Bruidssluierweg	living_street	1	0	0	
+SR	3382978	Charles Bergenweg	living_street	1	0	0	
+SR	3382978	Citroentijmweg	residential	1	0	0	
+SR	3382978	Dadelpruimweg	residential	1	0	0	
+SR	3382978	Daglelieweg	living_street	1	0	0	
+SR	3382978	Daslookweg	residential	1	0	0	
+SR	3382978	Devriesweg	residential	1	0	0	
+SR	3382978	Donkweg	living_street	1	0	0	
+SR	3383188	Mahonylaan	residential	5	25	73	
+SR	3383188	Cornelis Jongbawstraat	secondary	4	2	18	
+SR	3383188	Hajarystraat	residential	3	25	30	
+SR	3383188	Kleine Waterstraat	secondary	3	5	15	
+SR	3383188	Wijngaardestraat	living_street	3	11	24	
+SR	3383188	Henri J. de Vriesstraat	residential	2	10	17	
+SR	3383188	A. Flemingstraat	residential	1	0	0	
+SR	3383188	Aidastraat	residential	1	0	0	
+SR	3383188	Alexander Samuelsstraat	residential	1	0	0	
+SR	3383188	Anton Dragtenweg	secondary	1	0	0	
+SR	3383188	Apollostraat	residential	1	0	0	
+SR	3383188	Archimedesstraat	residential	1	0	0	
+SR	3383188	Argosstraat	residential	1	0	0	
+SR	3383188	Asafkinestraat	living_street	1	0	0	
+SR	3383188	Atlasstraat	residential	1	0	0	
+SR	3383188	Atoedendoestraat	living_street	1	0	0	
+SR	3383188	Bellstraat	residential	1	0	0	
+SR	3383188	Cadmusstraat	residential	1	0	0	
+SR	3383188	Calorstraat	residential	1	0	0	
+SR	3383188	Castorstraat	residential	1	0	0	
+SR	3383188	Celciusstraat	residential	1	0	0	
+SR	3383188	Ceresstraat	residential	1	0	0	
+SR	3383188	Comvaliusstraat	residential	1	0	0	
+SR	3383188	Copernicusstraat	tertiary	1	0	0	
+SR	3383188	Coronastraat	residential	1	0	0	
+SR	3383188	Crommelinstraat	residential	1	0	0	
+SR	3383188	David Simonsstraat	residential	1	0	0	
+SR	3383188	Deimostraat	residential	1	0	0	
+SR	3383188	Delphistraat	residential	1	0	0	
+SR	3383188	Diostraat	residential	1	0	0	
+SR	3383188	Douglasstraat	residential	1	0	0	
+SR	3383188	Dr. Axwijkstraat	residential	1	0	0	
+SR	3383188	Dr. Einaarstraat	residential	1	0	0	
+SR	3383188	Erosstraat	residential	1	0	0	
+SR	3383188	Fockestraat	residential	1	0	0	
+SR	3383188	Geministraat	residential	1	0	0	
+SR	3383188	Griegstraat	residential	1	0	0	
+SR	3383188	Grote Combéweg	tertiary	1	0	0	
+SR	3383188	Halfhidestraat	residential	1	0	0	
+SR	3383188	Heckersstraat	residential	1	0	0	
+SR	3383188	Heliconstraat	residential	1	0	0	
+SR	3383188	Heliosstraat	residential	1	0	0	
+SR	3383188	Helstonestraat	residential	1	0	0	
+SR	3383188	Henri J. Benjaminstraat	residential	1	0	0	
+SR	3383188	Herastraat	residential	1	0	0	
+SR	3383188	Hermesstraat	residential	1	0	0	
+SR	3383188	Hertogstraat	residential	1	0	0	
+SR	3383188	Hofstede Crull'laan	tertiary	1	0	0	
+SR	3383209	Avobakaweg	primary	1	0	0	
+SR	3383209	Powakka - Joden Savanne weg	tertiary	1	0	0	
+SR	3383330	Kwattaweg	primary	249	80	465	
+SR	3383330	Anton Dragtenweg		116	23	258	
+SR	3383330	Emielaan		94	9	134	
+SR	3383330	Costerstraat	residential	90	7	116	
+SR	3383330	Verlengde Gemeenelandsweg	tertiary	90	18	203	
+SR	3383330	Plutostraat		86	14	170	
+SR	3383330	Jacques Gompertsstraat	residential	83	8	141	
+SR	3383330	Tweede Rijweg		82	22	149	
+SR	3383330	Izaak Burnetstraat		81	9	109	
+SR	3383330	Mr. Jagernath Lachmonstraat	secondary	76	12	167	
+SR	3383330	Kasabaholoweg		75	7	189	
+SR	3383330	Tourtonnelaan	tertiary	73	33	250	
+SR	3383330	Jozefleliestraat		72	8	84	
+SR	3383330	Pater Weidmannstraat		71	7	102	
+SR	3383330	Jozef Israëlsstraat	tertiary	63	6	115	
+SR	3383330	Bersabalaan		62	7	84	
+SR	3383330	Henkielaan		62	8	84	
+SR	3383330	Doekhieweg-West		60	3	75	
+SR	3383330	Agilalaan		59	11	87	
+SR	3383330	Keizerstraat	secondary	59	38	185	
+SR	3383330	Marthastraat	residential	58	5	74	
+SR	3383330	Mathoeralaan		58	4	92	
+SR	3383330	David Simonsstraat		57	13	145	
+SR	3383330	Dr. Sophie Redmondstraat	tertiary	57	7	255	
+SR	3383330	Hermitage Mall		57	39	98	
+SR	3383330	Leysweg		56	7	113	
+SR	3383330	Sir Winston Churchillweg		56	3	64	
+SR	3383330	Dieterstraat		54	4	63	
+SR	3383330	Veldhuizenlaan		54	3	67	
+SR	3383330	Concordialaan		52	6	66	
+SR	3383330	Willem Anthonielaan		52	2	57	
+SR	3383330	Hendrikstraat		50	3	80	
+SR	3383330	Auguststraat	residential	49	3	67	
+SR	3383330	Hendrika J. Veldkampstraat		49	10	97	
+SR	3383330	Langatabikistraat		49	26	160	
+SR	3383330	Jerrystraat		48	4	60	
+SR	3383330	Virolastraat		48	2	61	
+SR	3383330	Duikelaarstraat	residential	47	7	55	
+SR	3383330	Franchepanestraat	residential	47	65	172	
+SR	3383330	Koosstraat		47	6	57	
+SR	3383330	Ronaldlaan		47	14	83	
+SR	3383330	Eduardstraat		46	4	49	
+SR	3383330	Zinniastraat	residential	46	3	65	
+SR	3383330	Albertlaan		45	5	74	
+SR	3383330	Abonestraat		44	48	111	
+SR	3383330	Kolonistenweg		44	5	68	
+SR	3383330	Langagrasistraat		44	5	53	
+SR	3383330	Commissaris Roblesweg		43	155	227	
+SR	3383330	Maanbloemstraat		43	3	43	
+SR	3383330	Nadiastraat	residential	43	5	59	
+SR	3383330	Andirastraat		42	4	60	
+SR	3383330	Onoribolaan		42	23	75	
+SR	3383330	Orionstraat	residential	41	3	46	
+SR	3383330	Washingtonstraat		41	6	54	
+SR	3383330	Zwartenhovenbrugstraat	primary	41	58	235	
+SR	3383330	Birambiestraat	residential	40	2	42	
+SR	3383330	Blauwdasstraat	residential	40	4	55	
+SR	3383330	Previenlaan		40	3	76	
+SR	3383330	Basitostraat	tertiary	39	2	75	
+SR	3383330	Commissaris Weythingweg		39	4	106	
+SR	3383330	Roelstraat	residential	39	9	63	
+SR	3383330	Wilhelminastraat		39	19	105	
+SR	3383330	Sandrastraat		36	4	62	
+SR	3383330	Johannes S. Mungrastraat	tertiary	35	8	53	
+SR	3383330	Burenstraat	residential	34	4	70	
+SR	3383330	Cornelis Prinsstraat	residential	34	3	50	
+SR	3383330	Baidjoestraat		33	2	38	
+SR	3383330	Rampiarestraat		33	2	36	
+SR	3383330	Henck Arronstraat	primary	32	16	180	
+SR	3383330	Riekelaan		32	4	47	
+SR	3383330	A.L. Waaldijkstraat	residential	31	17	79	
+SR	3383330	Cordialaan		31	3	49	
+SR	3383330	L' Hermitageweg	residential	31	84	130	
+SR	3383330	Margarethalaan		30	3	113	
+SR	3383330	Sitaramstraat		30	2	35	
+SR	3383330	Edmundstraat		29	2	55	
+SR	3383330	Kernkampweg		29	4	58	
+SR	3383330	A. Joerawanstraat		27	4	35	
+SR	3383330	Lalla Rookhweg		27	17	73	
+SR	3383330	Goudenregenstraat	residential	26	2	26	
+SR	3383330	Govindstraat		26	2	29	
+SR	3383330	Saffierstraat	residential	26	4	42	
+SR	3383330	Pantastraat		25	2	24	
+SR	3383330	Wayambostraat		25	2	26	
+SR	3383330	Dr. Eugène Albert Gesselstraat		24	33	141	
+SR	3383330	Elizelaan		24	7	47	
+SR	3383330	Ericlaan		24	3	37	
+SR	3383330	Estreliastraat		24	3	56	
+SR	3383330	Kuldipsinghstraat		24	8	58	
+SR	3383330	Surinamestraat		24	6	52	
+SR	3383330	Calciumstraat		23	3	40	
+SR	3383330	Claudiastraat		23	2	41	
+SR	3383330	Dinalaan		23	3	24	
+SR	3383330	Gondastraat		23	2	31	
+SR	3383330	Jourilaan		23	3	41	
+SR	3383330	Ramsoedhweg		23	2	36	
+SR	3383330	Sonjastraat		23	4	32	
+SR	3383330	Cornelis Jongbawstraat		22	9	79	
+SR	3383330	Estabrielstraat		22	5	45	
+SR	3383330	Geertruidastraat		22	3	43	
+SR	3383334	Abdoel Islam Alibuxweg	residential	1	0	0	
+SR	3383334	Arboriorijstweg	residential	1	0	0	
+SR	3383334	Baldorijstweg	residential	1	0	0	
+SR	3383334	Basmatirijstweg	residential	1	0	0	
+SR	3383334	Botanrijstweg	residential	1	0	0	
+SR	3383334	Camolinorijstweg	residential	1	0	0	
+SR	3383334	Carnarourijstweg	unclassified	1	0	0	
+SR	3383334	Duytsweg	residential	1	0	0	
+SR	3383334	Henarbrug	primary	1	0	0	
+SR	3383334	Ir. M. N. Ataoellahweg	primary	1	0	0	
+SR	3383334	Jasmijnrijstweg	residential	1	0	0	
+SR	3383334	Ketanrijstweg	residential	1	0	0	
+SR	3383384	Stafdorp		38	23	58	
+SR	3383384	A. Callieweg	residential	1	0	0	
+SR	3383384	A. Pikaweg	residential	1	0	0	
+SR	3383384	Aalscholverweg	residential	1	0	0	
+SR	3383384	Abraham L Gravenbeekstraat	residential	1	0	0	
+SR	3383384	Akrumstraat	residential	1	0	0	
+SR	3383384	Albertina Biswanastraat	residential	1	0	0	
+SR	3383384	Alexandriena Gronweg	residential	1	0	0	
+SR	3383384	Alpenkauwstraat	residential	1	0	0	
+SR	3383384	Alwin Piquestraat	residential	1	0	0	
+SR	3383384	Appelvinkstraat	residential	1	0	0	
+SR	3383384	Arasasastraat	residential	1	0	0	
+SR	3383427	Landingstraat	residential	12	1	73	
+SR	3383427	Newalsinghstraat	residential	12	1	14	
+SR	3383427	Soekramsingstraat	tertiary	11	1	21	
+SR	3383427	Emmastraat	residential	9	1	41	
+SR	3383427	G.G. Maynardstraat		6	30	53	
+SR	3383427	Oostkanaalstraat	tertiary	6	1	79	
+SR	3383427	Waterloostraat	tertiary	6	11	21	
+SR	3383427	Westkanaalstraat	tertiary	6	2	80	
+SR	3383427	Gouverneurstraat		5	79	119	
+SR	3383427	Tam Adamsonstraat	residential	4	1	106	
+SR	3383427	A. K. Doergasawstraat	tertiary	3	87	106	
+SR	3383427	Julianastraat	residential	3	77	91	
+SR	3383427	R.P. Bharosstraat	residential	3	68	84	
+SR	3383427	St. Jozefstraat	residential	3	22	37	
+SR	3383427	A.K. Doergasawstraat		2	85	95	
+SR	3383427	Annastraat	residential	2	35	35	
+SR	3383427	G. G. Maynardstraat	tertiary	2	123	130	
+SR	3383427	Karachiweg	residential	2	1	2	
+SR	3383427	Van Idsingaweg	tertiary	2	22	77	
+SR	3383427	Wilhelminastraat	residential	2	3	3	
+SR	3383427	Abdulghani Madharweg	residential	1	0	0	
+SR	3383427	Ackeestraat	residential	1	0	0	
+SR	3383427	Acornistraat	residential	1	0	0	
+SR	3383427	Adjanasstraat	residential	1	0	0	
+SR	3383434	Argusvisstraat		3	50	60	
+SR	3383434	Wilhelminastraat	residential	3	45	46	
+SR	3383434	Aalseweg	residential	1	0	0	
+SR	3383434	Argusvisweg	residential	1	0	0	
+SR	3383434	Bakasroisiweg	residential	1	0	0	
+SR	3383434	Baretweg	residential	1	0	0	
+SR	3383434	Battonweg	residential	1	0	0	
+SR	3383434	Bevelhebberweg - Noord	unclassified	1	0	0	
+SR	3383434	Bevelhebberweg - Zuid	unclassified	1	0	0	
+SR	3383434	Binnenhelmweg	residential	1	0	0	
+SR	3383434	Bokketuigweg	residential	1	0	0	
+SR	3383434	Bosrokomanweg	unclassified	1	0	0	
+SR	3383494	Abraham Crijnssenlaan	residential	1	0	0	
+SR	3383494	Achmed Kalistraat	residential	1	0	0	
+SR	3383494	Achterstraat	residential	1	0	0	
+SR	3383494	Amatkajastraat	residential	1	0	0	
+SR	3383494	Ardjosemitoweg	residential	1	0	0	
+SR	3383494	Balistraat	residential	1	0	0	
+SR	3383494	Banketiweg	residential	1	0	0	
+SR	3383494	Baronstraat	residential	1	0	0	
+SR	3383494	Bernhardlaan	residential	1	0	0	
+SR	3383494	Celebesstraat	residential	1	0	0	
+SR	3383494	Commewijnestraat	residential	1	0	0	
+SR	3383494	Consessieweg	residential	1	0	0	
+SR	3383494	Coppenamestraat	residential	1	0	0	
+SR	3383494	Corantijnstraat	residential	1	0	0	
+SR	3383494	Cotticastraat	residential	1	0	0	
+SR	3383494	Emmalaan	residential	1	0	0	
+SR	3383494	Goudenregenstraat	residential	1	0	0	
+SR	3383494	Gouveneur Lely Straat	residential	1	0	0	
+SR	3383494	Gouveneur van asbecklaan	unclassified	1	0	0	
+SR	3383494	Javastraat	residential	1	0	0	
+SR	3383494	Juliana Weyneweg	unclassified	1	0	0	
+SR	3383494	Kapitein Chris Silosweg	unclassified	1	0	0	
+SR	3383494	Karsistraat	residential	1	0	0	
+SR	3383494	Kartoatmodjostraat	residential	1	0	0	
+SR	3383527	Oost-West Verbinding Commewijne		5	50	114	
+SR	3383527	Commissaris Thurkowweg	secondary	2	121	281	
+SR	3383527	Sir Winston Churchillweg	tertiary	2	517	517	
+SR	3383527	Weg Naar Peperpot	tertiary	2	90	298	
+SR	3383527	Amaryllisweg	residential	1	0	0	
+SR	3383527	Aromanisweg	residential	1	0	0	
+SR	3383527	Bakapasi	residential	1	0	0	
+SR	3383527	Bangoenweg	residential	1	0	0	
+SR	3383527	Bikhramweg	residential	1	0	0	
+SR	3383527	Bindadinweg	residential	1	0	0	
+SR	3383527	Christendam	residential	1	0	0	
+SR	3383527	Domburg - Laarwijk - Oost West Verbinding weg	tertiary	1	0	0	
+SR	3383527	Dulamweg	residential	1	0	0	
+SR	3383527	Dwarkaweg	residential	1	0	0	
+SR	3383527	Egelboterbloemstraat	residential	1	0	0	
+SR	3383527	Engelbrechtweg	residential	1	0	0	
+SR	3383527	Esthel Fatmaweg	residential	1	0	0	
+SR	3383527	Golekweg	residential	1	0	0	
+SR	3383527	Ir. Jainoel Abdulweg	residential	1	0	0	
+SR	3383527	Kembangweg	residential	1	0	0	
+SR	3383527	Kikkerbeetweg	residential	1	0	0	
+SR	3383527	Lintangweg	residential	1	0	0	
+SR	3383527	Lomboweg	residential	1	0	0	
+SR	3383527	Mangreyweg	residential	1	0	0	
+SR	3383570	Bamistraat	residential	1	0	0	
+SR	3383570	Barastraat	residential	1	0	0	
+SR	3383570	Bojostraat	residential	1	0	0	
+SR	3383570	Borimangstraat	residential	1	0	0	
+SR	3383570	Commewijneweg	residential	1	0	0	
+SR	3383570	Commissaris Roblesweg	secondary	1	0	0	
+SR	3383570	Coppenameweg	residential	1	0	0	
+SR	3383570	Corantijnweg	residential	1	0	0	
+SR	3383570	Cotticaweg	residential	1	0	0	
+SR	3383570	Creolenweg	residential	1	0	0	
+SR	3383570	Dolfijnzicht	unclassified	1	0	0	
+SR	3383570	Dosistraat	residential	1	0	0	
+SR	3383694	Cassialaan		3	79	115	
+SR	3383694	Sir Winston Churchillweg	tertiary	2	247	300	
+SR	3383694	4e Dwarsweg	residential	1	0	0	
+SR	3383694	Abdoel Saltan Sheikrojanweg	residential	1	0	0	
+SR	3383694	Abomastraat	residential	1	0	0	
+SR	3383694	Aburahoutweg	residential	1	0	0	
+SR	3383694	Airastraat	residential	1	0	0	
+SR	3383694	Akaraistraat	residential	1	0	0	
+SR	3383694	Aldinahoutweg	residential	1	0	0	
+SR	3383694	Alibaksweg	residential	1	0	0	
+SR	3383694	Anandweg	residential	1	0	0	
+SR	3383694	Anansistraat	residential	1	0	0	
+SR	3383694	Anielweg	residential	1	0	0	
+SR	3383694	Anmolweg	residential	1	0	0	
+SR	3383694	Arakakastraat	residential	1	0	0	
+SR	3383694	Araliastraat	residential	1	0	0	
+SR	3383694	Asarfistraat	residential	1	0	0	
+SR	3383694	Ashivastraat	residential	1	0	0	
+SR	3383694	Atletiekstraat	residential	1	0	0	
+SR	3383694	Autarweg	residential	1	0	0	
+SR	3383694	Aventuraweg	residential	1	0	0	
+SR	3383694	Baasmoesweg	residential	1	0	0	
+SR	3383694	Baboe Ramsingstraat	residential	1	0	0	
+SR	3383694	Baboeristraat	unclassified	1	0	0	
+SR	3383714	Indira Gandhiweg	primary	39	282	921	
+SR	3383714	Poerwodadieweg	residential	8	159	184	
+SR	3383714	De Craneweg	residential	5	1	191	
+SR	3383714	Tawajarieweg	residential	3	11	115	
+SR	3383714	Loangstraat	living_street	2	77	79	
+SR	3383714	Vredenburg Serie B		2	112	112	
+SR	3383714	A. Banwarieweg	residential	1	0	0	
+SR	3383714	Administraat	residential	1	0	0	
+SR	3383714	Adustra-uilweg	residential	1	0	0	
+SR	3383714	Agaatvlinderweg	residential	1	0	0	
+SR	3383714	Agootoestraat	residential	1	0	0	
+SR	3383714	Akaashweg	residential	1	0	0	
+SR	3383714	Akkerwinde-uilweg	residential	1	0	0	
+SR	3383714	Altonaweg	residential	1	0	0	
+SR	3383714	Andonglaan	residential	1	0	0	
+SR	3383714	Angalampoelaan	residential	1	0	0	
+SR	3383714	Apresinastraat	living_street	1	0	0	
+SR	3383714	Arhaoelaan	residential	1	0	0	
+SR	3383714	Arubaweg	residential	1	0	0	
+SR	3383714	Astermonnikweg	residential	1	0	0	
+SR	3383714	Atalantaweg	residential	1	0	0	
+SR	3383714	Balwant Persadiweg	residential	1	0	0	
+SR	3383714	Bandijsvogelstraat	residential	1	0	0	
+SR	3383714	Bankastraat	residential	1	0	0	
+SR	3383714	Barmsijsstraat	residential	1	0	0	
+SR	3383714	Belsmastraat	residential	1	0	0	
+SR	3383714	Bergenshoopweg	residential	1	0	0	
+SR	3383714	Bijlhoutweg	unclassified	1	0	0	
+SR	3383714	Billitonstraat	residential	1	0	0	
+SR	3383714	Boerenzwaluwstraat	residential	1	0	0	
+SR	3383714	Bolstraat	residential	1	0	0	
+SR	3383714	Bonaireweg	residential	1	0	0	
+SR	3383714	Boomkwartelstraat	residential	1	0	0	
+SR	3383714	Bosrietzangerstraat	residential	1	0	0	
+SR	3383714	Bosruiterstraat	residential	1	0	0	
+SR	3383714	Chinoeweg	residential	1	0	0	
+SR	3383714	Comissaris Erwien Demonweg	residential	1	0	0	
+SR	3383714	Copieweg (Oud)	residential	1	0	0	
+SR	3383714	Corsicaanse denstraat	residential	1	0	0	
+SR	3383714	Curaçaoweg	residential	1	0	0	
+SR	3383714	De Craneweg 2e zijstraat	residential	1	0	0	
+SR	3383714	De Craneweg 3e zijstraat	residential	1	0	0	
+SR	3383714	Dian Dessaweg	unclassified	1	0	0	
+SR	3383714	Djindja Udustraat	residential	1	0	0	
+SR	3383714	Doen Tingstraat	residential	1	0	0	
+SR	3383714	Drukkerweg	residential	1	0	0	
+SR	3383714	Edmund Imanuelstraat	residential	1	0	0	
+SR	3383714	Ellora Mac-Beanstraat	residential	1	0	0	
+SR	3383943	Saramaccaweg	tertiary	13	42	61	
+SR	3383943	Graderweg	residential	1	0	0	
+SR	3383943	Gravensteinweg	residential	1	0	0	
+SR	3383943	Johanneshoopweg	residential	1	0	0	
+SR	3383943	Kampong Baroeweg	residential	1	0	0	
+SR	3383943	Kampong Djoemalweg	residential	1	0	0	
+SR	3383943	Kampong Indjilweg	residential	1	0	0	
+SR	3383943	Kampong Kitjilweg	residential	1	0	0	
+SR	3383943	Kampong Sawaweg Oost	unclassified	1	0	0	
+SR	3383943	Kampong Sawaweg West	unclassified	1	0	0	
+SR	3383943	Kemquatweg	unclassified	1	0	0	
+SR	3383943	Kursowalanjaweg	unclassified	1	0	0	
+SR	3384125	Vankweg	residential	19	1	30	
+SR	3384125	Saramaccaweg		14	1	93	
+SR	3384125	Misgunstweg	tertiary	13	91	106	
+SR	3384125	Hendrik Jan Tjoe Nij Weg	unclassified	2	11	11	
+SR	3384125	Arowakkenweg	residential	1	0	0	
+SR	3384125	Bankiraiweg	residential	1	0	0	
+SR	3384125	Basralocusweg	residential	1	0	0	
+SR	3384125	Bintangorweg	residential	1	0	0	
+SR	3384125	Bougainvillestraat	residential	1	0	0	
+SR	3384125	C.A.M. Oleanderweg	residential	1	0	0	
+SR	3384125	Caraïbenweg	residential	1	0	0	
+SR	3384125	Coesewijnestraat	residential	1	0	0	
+SR	3384242	Ormosiastraat	residential	2	2	2	
+SR	3384242	Abdoelsakoerweg	residential	1	0	0	
+SR	3384242	Abiastraat	residential	1	0	0	
+SR	3384242	Abongrastraat	residential	1	0	0	
+SR	3384242	Abrasastraat	residential	1	0	0	
+SR	3384242	Abroeaweg	residential	1	0	0	
+SR	3384242	Adroestraat	residential	1	0	0	
+SR	3384242	Agoemastraat	residential	1	0	0	
+SR	3384242	Agoetistraat	residential	1	0	0	
+SR	3384242	Ahmatweg	residential	1	0	0	
+SR	3384242	Aikmanstraat	residential	1	0	0	
+SR	3384242	Aitnochweg	residential	1	0	0	
+SR	3384242	Ajawastraat	residential	1	0	0	
+SR	3384242	Akajastraat	residential	1	0	0	
+SR	3384242	Akawaristraat	residential	1	0	0	
+SR	3384242	Akirastraat	residential	1	0	0	
+SR	3384242	Akkerboomweg	residential	1	0	0	
+SR	3384242	Albionweg	residential	1	0	0	
+SR	3384242	Algoeweg	residential	1	0	0	
+SR	3384242	Alihoeseinweg	residential	1	0	0	
+SR	3384242	Aliweg	residential	1	0	0	
+SR	3384242	Alkmaarweg	residential	1	0	0	
+SR	3384242	Aloestraat	residential	1	0	0	
+SR	3384242	Amandasteeg	living_street	1	0	0	
+SR	3384242	Appelsteeg	residential	1	0	0	
+SR	3384242	Badoellaweg	residential	1	0	0	
+SR	3384242	Bakkieweg	residential	1	0	0	
+SR	3384242	Bellevuestraat	residential	1	0	0	
+SR	3384242	Bernadette Derby Sionweg	residential	1	0	0	
+SR	3384242	Bhoelaiweg	residential	1	0	0	
+SR	3384242	Bocusweg	residential	1	0	0	
+SR	3384242	Boedhoedweg	living_street	1	0	0	
+SR	3384242	Bondruweg	residential	1	0	0	
+SR	3384242	Cassewinicastraat	residential	1	0	0	
+SR	3384242	Cha Cha Rahimweg	residential	1	0	0	
+SR	3384242	Charismaweg	residential	1	0	0	
+SR	3384242	Cleo Eendragtsteeg	living_street	1	0	0	
+SR	3384242	Coermotibostraat	residential	1	0	0	
+SR	3384242	Coeroenistraat	residential	1	0	0	
+SR	3384242	Coesewijnestraat	secondary	1	0	0	
+SR	3384242	Commetewanestraat	residential	1	0	0	
+SR	3384242	Coropinastraat	residential	1	0	0	
+SR	3384242	De Goede Herinneringweg	residential	1	0	0	
+SR	3384242	De Goede Zorgweg	residential	1	0	0	
+SR	3384242	De Goedehoop	residential	1	0	0	
+SR	3384242	Djamoenaweg	residential	1	0	0	
+SR	3384242	Djinkoeweg	residential	1	0	0	
+SR	3384242	Doorbraakweg	residential	1	0	0	
+SR	3384461	Bombayweg	residential	1	0	0	
+SR	3384461	Calcuttaweg	residential	1	0	0	
+SR	3384461	Catharina Sophiastraat	primary	1	0	0	
+SR	3384461	Coppenameweg	primary	1	0	0	
+SR	3384461	Kauw A Tjoeweg	residential	1	0	0	
+SR	3384461	Koolweg	residential	1	0	0	
+SR	3384461	Nishaanweg	residential	1	0	0	
+SR	3384461	Pindaweg	residential	1	0	0	
+SR	3384461	Tayerbladweg	residential	1	0	0	
+SR	3384461	Tomatenweg	residential	1	0	0	
+SR	3384475	Accraweg	residential	1	0	0	
+SR	3384475	Adinsaweg	residential	1	0	0	
+SR	3384475	Beninweg	residential	1	0	0	
+SR	3384475	Brownsweg	primary	1	0	0	
+SR	3384475	Gaanman Abago weg	primary	1	0	0	
+SR	3384475	Mandiaweg	living_street	1	0	0	
+SR	3384475	Togostraat	residential	1	0	0	
+SR	3384482	Avobakaweg	primary	1	0	0	
+SR	3384482	Brokopondoweg	tertiary	1	0	0	
+SR	3384562	Abonestraat	residential	2	60	60	
+SR	3384562	Bonistraat	tertiary	2	96	112	
+SR	3384562	Josephine Samson Greenstraat	residential	2	67	104	
+SR	3384562	A. Taylorstraat	residential	1	0	0	
+SR	3384562	A. Voltastraat	residential	1	0	0	
+SR	3384562	Abdoella Allabaksweg	living_street	1	0	0	
+SR	3384562	Abieb Chandaweg	living_street	1	0	0	
+SR	3384562	Aboenawrokostraat	residential	1	0	0	
+SR	3384562	Abramstraat	residential	1	0	0	
+SR	3384562	Acaipalmlaan	residential	1	0	0	
+SR	3384562	Adjakastraat	residential	1	0	0	
+SR	3384562	Adoestraat	residential	1	0	0	
+SR	3384562	Adonisstraat	residential	1	0	0	
+SR	3384562	Adraistraat	residential	1	0	0	
+SR	3384562	Advocaatstraat	residential	1	0	0	
+SR	3384562	Agosoestraat	residential	1	0	0	
+SR	3384562	Ajoekoemierstraat	residential	1	0	0	
+SR	3384562	Akoosoedraistraat	living_street	1	0	0	
+SR	3384562	Albatrosstraat	residential	1	0	0	
+SR	3384562	Albert Einsteinstraat	residential	1	0	0	
+SR	3384562	Alitostraat	residential	1	0	0	
+SR	3384562	Aloeboetoedrai	residential	1	0	0	
+SR	3384562	Amaktistraat	residential	1	0	0	
+SR	3384562	Amistraat	residential	1	0	0	
+SR	3384562	Apensastraat	residential	1	0	0	
+SR	3384562	Arabistraat	residential	1	0	0	
+SR	3384562	Arapapajastraat	residential	1	0	0	
+SR	3384562	Arebgapalmlaan	residential	1	0	0	
+SR	3384562	Arendstraat	residential	1	0	0	
+SR	3384562	Arikostraat	residential	1	0	0	
+SR	3384562	Asaridraistraat	residential	1	0	0	
+SR	3384562	Askaanstraat	residential	1	0	0	
+SR	3384562	Atamastraat	residential	1	0	0	
+SR	3384562	Atringistraat	residential	1	0	0	
+SR	3384562	Awensaistraat	residential	1	0	0	
+SR	3384562	Baartpalmlaan	residential	1	0	0	
+SR	3384562	Bactrispalmlaan	residential	1	0	0	
+SR	3384562	Bairdstraat	residential	1	0	0	
+SR	3384562	Balebaleweg	residential	1	0	0	
+SR	3384562	Bambistraat	residential	1	0	0	
+SR	3384562	Bamboepalmlaan	residential	1	0	0	
+SR	3384562	Bananapalmlaan	residential	1	0	0	
+SR	3384562	Baronstraat	residential	1	0	0	
+SR	3384562	Becustraat	residential	1	0	0	
+SR	3384562	Behangersbijstraat	residential	1	0	0	
+SR	3384562	Bellapalmlaan	residential	1	0	0	
+SR	3384562	Benjamin Franklinstraat	residential	1	0	0	
+SR	3384562	Betelpalmlaan	residential	1	0	0	
+SR	3384788	D.S. Legeneweg	residential	1	0	0	
+SR	3384788	Jacobweg	residential	1	0	0	
+SR	3384788	Pak S. Rakiminweg	residential	1	0	0	
+SR	3384788	Pandit Tilakdharieweg	secondary	1	0	0	
+SR	3384788	Tanoesemito Waginiweg	residential	1	0	0	
+SR	3384788	Tje Tjeweg	unclassified	1	0	0	
+SR	3384788	Wallerweg	residential	1	0	0	
+SR	3384788	Zuster Paulina Mitrasing-Tengarweg	residential	1	0	0	
+SR	3384792	Boulevard Malouet	residential	16	2	26	
+SR	3384792	Allée des Pipéracées	residential	14	1	14	
+SR	3384792	Allée des Astéracées	residential	13	2	14	
+SR	3384792	Rue du Lieutenant-Colonel Chandon	residential	11	4	38	
+SR	3384792	Allée des Violacées	residential	9	1	16	
+SR	3384792	Rue Daniel-gaston Darquitain		6	1	10	
+SR	3384792	Avenue Félix Éboué	residential	5	2	18	
+SR	3384792	Esplanade Laurent Baudin		3	1	1	
+SR	3384792	Rue Roland Barrat	residential	3	2	24	
+SR	3384792	Avenue du Général de Gaulle	residential	2	11	16	
+SR	3384792	Rue Jules Vilo	residential	2	4	8	
+SR	3384792	Rue du Bac	tertiary	2	3	4	
+SR	6692148	Impasse Agossou	residential	1	0	0	
+SR	6692148	Impasse Paiké	residential	1	0	0	
+SR	6692148	Impasse de la Battée	residential	1	0	0	
+SR	6692148	Impasse des Polissoirs	residential	1	0	0	
+SR	6692148	Impasse des Tembés	residential	1	0	0	
+SR	6692148	Route d'Abdallah	residential	1	0	0	
+SR	6692148	Rue Agnès Olympe	residential	1	0	0	
+SR	6692148	Rue Anato	residential	1	0	0	
+SR	6692148	Rue Awensai	residential	1	0	0	
+SR	6692148	Rue Gongo	residential	1	0	0	
+SR	6692148	Rue Kai Lawa	residential	1	0	0	
+SR	6692148	Rue Ochi	residential	1	0	0	
+SR	8220838	Dr. Sophie Redmondstraat	tertiary	2	239	250	
+SR	8220838	Kernkampweg	tertiary	2	5	5	
+SR	8220838	Kwattaweg	primary	2	221	233	
+SR	8220838	Abenistraat	residential	1	0	0	
+SR	8220838	Adanwaistraat	residential	1	0	0	
+SR	8220838	Adjoebastraat	residential	1	0	0	
+SR	8220838	Afistraat	residential	1	0	0	
+SR	8220838	Akoebastraat	residential	1	0	0	
+SR	8220838	Albergastraat	residential	1	0	0	
+SR	8220838	Ambastraat	residential	1	0	0	
+SR	8220838	Ameliastraat	living_street	1	0	0	
+SR	8220838	Amimbastraat	residential	1	0	0	
+SR	8220838	Baikoetoestraat	residential	1	0	0	
+SR	8220838	Banafowkondrestraat	residential	1	0	0	
+SR	8220838	Barendstraat	residential	1	0	0	
+SR	8220838	Bekiokondrestraat	living_street	1	0	0	
+SR	8220838	Biriehoedoematoestraat	living_street	1	0	0	
+SR	8220838	Canadastraat	residential	1	0	0	
+SR	8220838	De Boerbuitenweg	residential	1	0	0	
+SR	8220838	Del Pradostraat	residential	1	0	0	
+SR	8220838	Djankakondrestraat	residential	1	0	0	
+SR	8220838	Doreenstraat	residential	1	0	0	
+SR	8220838	Dr. E.J. Abrahamstraat	residential	1	0	0	
+SR	8220838	Dr. Herman Benjaminsstraat	tertiary	1	0	0	
+SR	8220838	Dwarssteeg	residential	1	0	0	
+SR	8220838	Flustraat	tertiary	1	0	0	
+SR	8220838	Frank Essedstraat	residential	1	0	0	
+SR	8220838	Fredastraat	residential	1	0	0	
+SR	8220838	Fresolaan	residential	1	0	0	
+SR	8220838	Gadjawakastraat	residential	1	0	0	
+SR	8220838	Gerbrandstraat	residential	1	0	0	
+SR	8220838	Gravenberchstraat	tertiary	1	0	0	
+SR	8220838	Guaranistraat	tertiary	1	0	0	
+SR	8220838	Hayariweg	residential	1	0	0	
+SR	8220838	Herman Snostraat	residential	1	0	0	
+SR	8220838	Jabastraat	residential	1	0	0	
+SR	8220838	Jacob Reintjesstraat	residential	1	0	0	
+SR	8220838	Jacobastraat	residential	1	0	0	
+SR	8220838	Jagroepstraat	living_street	1	0	0	
+SR	8220838	Jaimanilaan	residential	1	0	0	
+SR	8220838	Jan Zweersstraat	residential	1	0	0	
+SR	8220838	Jawstraat	residential	1	0	0	
+SR	8220838	Jerrystraat	residential	1	0	0	
+SR	8220838	Johannes S. Mungrastraat	tertiary	1	0	0	
+SR	8220838	Kabelstationstraat	living_street	1	0	0	
+SR	8220838	Kadjoestraat	residential	1	0	0	
+SR	8220838	Kapasikelestraat	living_street	1	0	0	
+SR	8220838	Karmaweg	living_street	1	0	0	
+SR	8220851	Kasabaholoweg	tertiary	8	83	177	
+SR	8220851	A. Joerawanstraat	residential	1	0	0	
+SR	8220851	A.G. Ellislaan	residential	1	0	0	
+SR	8220851	Abdoelstraat	residential	1	0	0	
+SR	8220851	Accaribostraat	residential	1	0	0	
+SR	8220851	Agilalaan	residential	1	0	0	
+SR	8220851	Alalaparoestraat	residential	1	0	0	
+SR	8220851	Albertlaan	residential	1	0	0	
+SR	8220851	Alesikondrestraat	living_street	1	0	0	
+SR	8220851	Altagraciastraat	residential	1	0	0	
+SR	8220851	Altonalaan	residential	1	0	0	
+SR	8220851	Anandrajlaan	living_street	1	0	0	
+SR	8220851	Andirastraat	residential	1	0	0	
+SR	8220851	Ankielaan	residential	1	0	0	
+SR	8220851	Antonielaan	residential	1	0	0	
+SR	8220851	Apoerastraat	residential	1	0	0	
+SR	8220851	Asidonopostraat	residential	1	0	0	
+SR	8220851	Aurorastraat	residential	1	0	0	
+SR	8220851	Awaralaan	living_street	1	0	0	
+SR	8220851	Barbakoebastraat	living_street	1	0	0	
+SR	8220851	Barnet G.H. Lyonlaan	residential	1	0	0	
+SR	8220851	Barnetbloemstraat	residential	1	0	0	
+SR	8220851	Bealaan	residential	1	0	0	
+SR	8220851	Bersabalaan	residential	1	0	0	
+SR	8220851	Bindastraat	residential	1	0	0	
+SR	8220851	Boekoestraat	residential	1	0	0	
+SR	8220851	Boesikreestraat	living_street	1	0	0	
+SR	8220851	C.A. van Drimmelenlaan	residential	1	0	0	
+SR	8220851	Carmelitastraat	residential	1	0	0	
+SR	8220851	Cayottestraat	residential	1	0	0	
+SR	8220851	Chatterstraat	residential	1	0	0	
+SR	8220851	Claudiastraat	residential	1	0	0	
+SR	8220851	Cocobiacoweg	residential	1	0	0	
+SR	8220851	Concordialaan	residential	1	0	0	
+SR	8220851	Consuelastraat	residential	1	0	0	
+SR	8220851	Cordialaan	residential	1	0	0	
+SR	8220851	Dario Saveedralaan	residential	1	0	0	
+SR	8220851	Dettalaan	residential	1	0	0	
+SR	8220851	Dieterstraat	residential	1	0	0	
+SR	8220851	Dinalaan	residential	1	0	0	
+SR	8220851	Djotistraat	residential	1	0	0	
+SR	8220851	Doelwijtstraat	residential	1	0	0	
+SR	8220851	Dorotheastraat	residential	1	0	0	
+SR	8220851	Dr. A. Jamaludinstraat	residential	1	0	0	
+SR	8220851	Dr. F. Tjong Ayongstraat	residential	1	0	0	
+SR	8220851	Dr. H. C. Van Ommerenstraat	residential	1	0	0	
+SR	8220851	Dritabikistraat	living_street	1	0	0	
+SR	8220851	Elizelaan	residential	1	0	0	
+SR	8220924	Kwattaweg	primary	11	471	874	
+SR	8220924	Anoepweg	residential	2	21	37	
+SR	8220924	Menckebergstraat	residential	2	55	61	
+SR	8220924	A. Sieuwpersadlaan	residential	1	0	0	
+SR	8220924	Aardbeienweg	residential	1	0	0	
+SR	8220924	Abadoestraat	residential	1	0	0	
+SR	8220924	Achadalaan	residential	1	0	0	
+SR	8220924	Achthovenstraat	residential	1	0	0	
+SR	8220924	Adolfstraat	residential	1	0	0	
+SR	8220924	Agamemnonweg	residential	1	0	0	
+SR	8220924	Agraweg	residential	1	0	0	
+SR	8220924	Ahamadabadweg	living_street	1	0	0	
+SR	8220924	Ahamadabaweg	living_street	1	0	0	
+SR	8220924	Ajmerweg	residential	1	0	0	
+SR	8220924	Akawkondrestraat	living_street	1	0	0	
+SR	8220924	Alakhramsingweg	residential	1	0	0	
+SR	8220924	Alex de Driestraat	residential	1	0	0	
+SR	8220924	Alibutsweg	living_street	1	0	0	
+SR	8220924	Allahabadhweg	residential	1	0	0	
+SR	8220924	Allendestraat	residential	1	0	0	
+SR	8220924	Altagraciastraat	residential	1	0	0	
+SR	8220924	Amaltheastraat	residential	1	0	0	
+SR	8220924	Amarnathweg	residential	1	0	0	
+SR	8220924	Amritsarweg	residential	1	0	0	
+SR	8220924	Andrasteastraat	residential	1	0	0	
+SR	8220924	Anemoonstraat	residential	1	0	0	
+SR	8220924	Anoeptoelsieweg	residential	1	0	0	
+SR	8220924	Anton Budelstraat	residential	1	0	0	
+SR	8220924	Antonstraat	residential	1	0	0	
+SR	8220924	Anwar Sadatstraat	residential	1	0	0	
+SR	8220924	Aquariusstraat	residential	1	0	0	
+SR	8220924	Arecapalmstraat	residential	1	0	0	
+SR	8220924	Argolisweg	residential	1	0	0	
+SR	8220924	Argusweg	residential	1	0	0	
+SR	8220924	Ariadneweg	residential	1	0	0	
+SR	8220924	Arrowrootlaan	living_street	1	0	0	
+SR	8220924	Asraweg	residential	1	0	0	
+SR	8220924	Atreusweg	residential	1	0	0	
+SR	8220924	Atropoweg	residential	1	0	0	
+SR	8220924	Augurkstraat	living_street	1	0	0	
+SR	8220924	Baas Adrianstraat	residential	1	0	0	
+SR	8220924	Bachoelaan	residential	1	0	0	
+SR	8220924	Balgobienoweg	residential	1	0	0	
+SR	8220924	Bandroejaweg	residential	1	0	0	
+SR	8220924	Bangaloreweg	residential	1	0	0	
+SR	8220924	Banjostraat	residential	1	0	0	
+SR	8220924	Bansradjweg	residential	1	0	0	
+SR	8220924	Banyanweg	residential	1	0	0	
+SR	8220949	Van 't Hogerhuysstraat	primary	6	1	28	
+SR	8220949	Kankantriestraat	tertiary	2	14	44	
+SR	8220949	Koningstraat	residential	2	121	121	
+SR	8220949	Abattoirweg	residential	1	0	0	
+SR	8220949	Adhienweg	residential	1	0	0	
+SR	8220949	Adrianusstraat	residential	1	0	0	
+SR	8220949	Agstantilaan	residential	1	0	0	
+SR	8220949	Angalampoestraat	residential	1	0	0	
+SR	8220949	Arrawarastraat	residential	1	0	0	
+SR	8220949	Arya Dewakerstraat	residential	1	0	0	
+SR	8220949	Asraf Safoeralaan	residential	1	0	0	
+SR	8220949	Asterstraat	residential	1	0	0	
+SR	8220949	Awaradam	residential	1	0	0	
+SR	8220949	Badmintonstraat	residential	1	0	0	
+SR	8220949	Baitaliweg	residential	1	0	0	
+SR	8220949	Basketbalstraat	residential	1	0	0	
+SR	8220949	Bat En Balstraat	residential	1	0	0	
+SR	8220949	Beekhuyzenbrug	tertiary	1	0	0	
+SR	8220949	Beekhuyzenbrugbrug	tertiary	1	0	0	
+SR	8220949	Begoniastraat	residential	1	0	0	
+SR	8220949	Bethelweg	residential	1	0	0	
+SR	8220949	Bethesdaweg	residential	1	0	0	
+SR	8220949	Boegroemakalaan	residential	1	0	0	
+SR	8220949	Boegroestraat	residential	1	0	0	
+SR	8220949	Boonweg	residential	1	0	0	
+SR	8220949	Boterbloemstraat	residential	1	0	0	
+SR	8220949	Botopasiweg	residential	1	0	0	
+SR	8220949	Bougainvillestraat	residential	1	0	0	
+SR	8220949	Bowlingstraat	residential	1	0	0	
+SR	8220949	Broodboomstraat	residential	1	0	0	
+SR	8220949	Brouwerijweg	residential	1	0	0	
+SR	8220949	Bruinhartstraat	residential	1	0	0	
+SR	8220949	Burkhardweg	residential	1	0	0	
+SR	8220949	Cacaoweg	residential	1	0	0	
+SR	8220949	Calcuttastraat	tertiary	1	0	0	
+SR	8220949	Calliopsestraat	residential	1	0	0	
+SR	8220949	Cameliastraat	residential	1	0	0	
+SR	8220949	Carolinastraat	residential	1	0	0	
+SR	8220949	Cassialaan	tertiary	1	0	0	
+SR	8220949	Cattleyastraat	residential	1	0	0	
+SR	8220949	Christophel Kerstenstraat	residential	1	0	0	
+SR	8220949	Coesewijnestraat	secondary	1	0	0	
+SR	8220949	Commewijnestraat	residential	1	0	0	
+SR	8220949	Copiestraat	residential	1	0	0	
+SR	8220949	Corantijnstraat	tertiary	1	0	0	
+SR	8220949	Cornelis Blijdstraat	residential	1	0	0	
+SR	8220949	Cornelisstraat	residential	1	0	0	
+SR	8220949	Cotticastraat	residential	1	0	0	
+SR	13535826	Sneepstraat		14	1	14	
+SR	13535826	Soekramsingstraat		14	23	49	
+SR	13535826	Snoekbaarsstraat		10	1	10	
+SR	13535826	Ceyvonistraat		9	1	9	
+SR	13535826	Smeltstraat		5	1	9	
+SR	13535826	Sprotstraat		2	1	2	
+SR	13535826	A. A. Girjasinghweg	residential	1	0	0	
+SR	13535826	Aalstraat	residential	1	0	0	
+SR	13535826	Awad Hoeseinweg	residential	1	0	0	
+SR	13535826	Baarsstraat	residential	1	0	0	
+SR	13535826	Barbeelstraat	residential	1	0	0	
+SR	13535826	Bastieweg	residential	1	0	0	
+SR	13607830	Welgedacht C weg	tertiary	119	16	233	
+SR	13607830	Indira Gandhiweg	primary	29	84	565	
+SR	13607830	Welgedacht B weg	residential	12	49	70	
+SR	13607830	Jovende Sawayweg	residential	11	2	46	
+SR	13607830	Magentakanaalweg	tertiary	3	134	345	
+SR	13607830	Mirdangweg	residential	3	94	106	
+SR	13607830	Welgedacht A weg	residential	2	99	104	
+SR	13607830	"Roepie" Rudolf Buitenweg	residential	1	0	0	
+SR	13607830	Aarthistraat	residential	1	0	0	
+SR	13607830	Abigaelslustweg	residential	1	0	0	
+SR	13607830	Agidastraat	residential	1	0	0	
+SR	13607830	Akhbarbadsahweg	residential	1	0	0	
+SR	13607830	Alidaweg	residential	1	0	0	
+SR	13607830	Amandaweg	residential	1	0	0	
+SR	13607830	Amanweg	residential	1	0	0	
+SR	13607830	Amdjatweg	living_street	1	0	0	
+SR	13607830	Amitstraat	residential	1	0	0	
+SR	13607830	Amroedhweg	living_street	1	0	0	
+SR	13607830	Anbikapersad Nankoeweg	residential	1	0	0	
+SR	13607830	Andreasweg	living_street	1	0	0	
+SR	13607830	Andreweg	residential	1	0	0	
+SR	13607830	Annaszorgweg	living_street	1	0	0	
+SR	13607830	Annaweg	residential	1	0	0	
+SR	13607830	Antonigronweg	living_street	1	0	0	
+SR	13607830	Apintistraat	residential	1	0	0	
+SR	13607830	Aratutuweg	residential	1	0	0	
+SR	13607830	Ashokweg	residential	1	0	0	
+SR	13607830	Augustinomandarijnweg	residential	1	0	0	
+SR	13607830	Aureliaweg	residential	1	0	0	
+SR	13607830	Babungoro - goroweg	residential	1	0	0	
+SR	13607830	Babunnootweg	residential	1	0	0	
+SR	13607830	Badensteinweg	residential	1	0	0	
+SR	13607830	Bahadoerweg	residential	1	0	0	
+SR	13607830	Bakas Adjieweg	residential	1	0	0	
+SR	13607830	Bandhanstraat	residential	1	0	0	
+SR	13607830	Bandspannerweg	residential	1	0	0	
+SR	13607830	Bantaskinestraat	living_street	1	0	0	
+SR	13607830	Barkoesingweg	residential	1	0	0	
+SR	13607830	Baronieweg	residential	1	0	0	
+SR	13607830	Batotobitaweg	residential	1	0	0	
+SR	13607830	Battoeweg	residential	1	0	0	
+SR	13607830	Bechai Jangbahadoorweg	residential	1	0	0	
+SR	13607830	Beekenhorstweg	residential	1	0	0	
+SR	13607830	Benny Karamat Aliweg	living_street	1	0	0	
+SR	13607830	Berendslustweg	residential	1	0	0	
+SR	13607830	Bernhardweg	residential	1	0	0	
+SR	13607830	Bethaniaweg	living_street	1	0	0	
+SR	13607830	Bhagwandienweg	residential	1	0	0	
+SR	13607831	Commissaris Weythingweg	secondary	102	55	255	
+SR	13607831	Mohamed Rashid Pierkhanweg	tertiary	18	1	470	
+SR	13607831	Deltaweg		7	2	14	
+SR	13607831	Babungoro- goroweg	residential	4	86	95	
+SR	13607831	Quacar straat		4	5	11	
+SR	13607831	Nieuw Weergevondenweg	tertiary	2	32	357	
+SR	13607831	Acharweg	residential	1	0	0	
+SR	13607831	Agenoriaweg	residential	1	0	0	
+SR	13607831	Ainoelweg	living_street	1	0	0	
+SR	13607831	Alesikondrestraat	residential	1	0	0	
+SR	13607831	Alli Amierweg	residential	1	0	0	
+SR	13607831	Amersingsteeg	residential	1	0	0	
+SR	13607831	Andijvieweg	residential	1	0	0	
+SR	13607831	Anijsbladweg	residential	1	0	0	
+SR	13607831	Arjunastraat	residential	1	0	0	
+SR	13607831	Aspergeweg	residential	1	0	0	
+SR	13607831	Atmodikromo Ngaliweg	residential	1	0	0	
+SR	13607831	Awaristonweg	residential	1	0	0	
+SR	13607831	Baansteeg	residential	1	0	0	
+SR	13607831	Baboe G Sewrajsingweg	residential	1	0	0	
+SR	13607831	Bakkieweg 5e Zijsteeg	residential	1	0	0	
+SR	13607831	Bayrumweg	residential	1	0	0	
+SR	13607831	Beefgrasstraat	living_street	1	0	0	
+SR	13607831	Bentgrasstraat	living_street	1	0	0	
+SR	13607831	Bergibitaweg	residential	1	0	0	
+SR	13607831	Bhadjiweg	residential	1	0	0	
+SR	13607831	Bierweg	residential	1	0	0	
+SR	13607831	Biesgrasstraat	living_street	1	0	0	
+SR	13607831	Bieslookstraat	residential	1	0	0	
+SR	13607831	Bisoenweg	living_street	1	0	0	
+SR	13607831	Bokobokowiwiriweg	residential	1	0	0	
+SR	13607831	Bomapolder Serie 11 en 12	unclassified	1	0	0	
+SR	13607831	Bomaweg	tertiary	1	0	0	
+SR	13607831	Bonenkruidstraat	residential	1	0	0	
+SR	13607831	Boven Verwachtingweg	residential	1	0	0	
+SR	13607831	Brandnetelstraat	residential	1	0	0	
+SR	13607831	Bridjlalweg	residential	1	0	0	
+SR	13607831	Brielleweg	residential	1	0	0	
+SR	13607831	Bruinbladweg	residential	1	0	0	
+SR	13607831	Buntgrasstraat	living_street	1	0	0	
+SR	13607831	Buskatunweg	residential	1	0	0	
+SR	13607831	Calciumstraat	residential	1	0	0	
+SR	13607831	Caledoniaweg	living_street	1	0	0	
+SR	13607831	Campenburgweg	living_street	1	0	0	
+SR	13607831	Capucijnerweg	residential	1	0	0	
+SR	13607831	Carmen R. Jankiestraat	residential	1	0	0	
+SR	13607831	Carolina's Hoopweg	living_street	1	0	0	
+SR	13607831	Carthagoweg	residential	1	0	0	
+SR	13607832	Cedreheeweg	unclassified	1	0	0	
+SR	13607832	Kwepiweg	unclassified	1	0	0	
+SR	13607832	Oedayrajsingh Varmaweg	residential	1	0	0	
+SR	13607832	Parwaweg	unclassified	1	0	0	
+SR	13607832	Tiengieholoweg	residential	1	0	0	
+SR	13607832	Zebedaweg	residential	1	0	0	
+SR	13607834	Abdoelrahmanweg	residential	1	0	0	
+SR	13607834	Akloe Sahadewweg	residential	1	0	0	
+SR	13607834	Alfaweg	living_street	1	0	0	
+SR	13607834	Allata peppreweg	residential	1	0	0	
+SR	13607834	Amerchandreweg	residential	1	0	0	
+SR	13607834	Amishastraat-Oost	living_street	1	0	0	
+SR	13607834	Amishastraat-West	living_street	1	0	0	
+SR	13607834	Appelbacovenweg	residential	1	0	0	
+SR	13607834	Appelweg	residential	1	0	0	
+SR	13607834	Autar Ramdewweg	residential	1	0	0	
+SR	13607834	Autar Soekdewweg	residential	1	0	0	
+SR	13607834	Bananen Bacovenweg	residential	1	0	0	
+SR	13607834	Bananenweg	residential	1	0	0	
+SR	13607834	Blakka Aiweg	residential	1	0	0	
+SR	13607834	Bomapolder Serie 2 en 3	unclassified	1	0	0	
+SR	13607834	Bomaweg	tertiary	1	0	0	
+SR	13607834	Bontweg	residential	1	0	0	
+SR	13607834	Bos Uiweg	residential	1	0	0	
+SR	13607834	Brokaatweg	residential	1	0	0	
+SR	13607834	Carlo Julenweg	residential	1	0	0	
+SR	13607834	Chiffonweg	residential	1	0	0	
+SR	13607834	Chinese Kousebandweg	residential	1	0	0	
+SR	13607834	Chinese Tayerweg	residential	1	0	0	
+SR	13607834	Commissaris Weythingweg	secondary	1	0	0	

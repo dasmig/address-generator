@@ -1,0 +1,787 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+MN	1514961	Uyench - Bayanzurkh bag	tertiary	1	0	0	
+MN	1514975	Цэнгэл-Сагсай зам	tertiary	1	0	0	Tsengel-Sagsai road
+MN	1515007	Uliastai Airport	tertiary	1	0	0	
+MN	1515007	Uliastay-Altai Road	primary	1	0	0	
+MN	1515007	төв зам	tertiary	1	0	0	
+MN	1515018	Must		2	1233	1234	
+MN	1515018	Mest-Bayanzurkh bag	tertiary	1	0	0	
+MN	1515029	modtoi gudamj	unclassified	1	0	0	
+MN	1515029	nairamdliin horoo	residential	1	0	0	
+MN	1515029	surguuliin horoo	tertiary	1	0	0	
+MN	1515029	Увс нуурын зам	unclassified	1	0	0	Uvs lake road
+MN	1515029	гашууны гол гатлах зам	residential	1	0	0	
+MN	1515092	Tsagaankhairkhan-Undorkhangai	unclassified	1	0	0	
+MN	1515092	Undorkhangai - Khargas Lake	tertiary	1	0	0	
+MN	1515097	Khovd-Tsetseg Road	tertiary	1	0	0	
+MN	1515114	Хяргас-Малчин	tertiary	1	0	0	Khyargas-Malchin
+MN	1515117	Otgon - Tsakhir	unclassified	1	0	0	
+MN	1515124	Altantsugts - Ölgii	residential	1	0	0	
+MN	1515131	Uliastay-Altai Road	primary	1	0	0	
+MN	1515131	Тайшир	unclassified	1	0	0	Taishir
+MN	1515157	Tsagaanchuluut	tertiary	1	0	0	
+MN	1515167	Tosontsengel - Ikh-Uul	unclassified	1	0	0	
+MN	1515167	Tosontsengel - Tsakhir	tertiary	1	0	0	
+MN	1515172	Тэс-Улаангом зам	tertiary	1	0	0	Tes-Ulaangom Road
+MN	1515180	Buyant - Tolbo	unclassified	1	0	0	
+MN	1515180	Tolbo	unclassified	1	0	0	
+MN	1515208	Tsetsen-Uul	residential	1	0	0	
+MN	1515208	Tsetsen-Uul-Songino	unclassified	1	0	0	
+MN	1515229	Bayantsagaan - Bogd	tertiary	1	0	0	
+MN	1515229	Chandani	unclassified	1	0	0	
+MN	1515229	Erdene	tertiary	1	0	0	
+MN	1515303	Uliastay-Altai Road	primary	1	0	0	
+MN	1515303	Борхын гүүр-Цагаанхайрхан	unclassified	1	0	0	Borkh bridge-Tsagaankhairkhan
+MN	1515303	Ширээ голын гүүо	primary	1	0	0	
+MN	1515331	Bugat - Altai	tertiary	1	0	0	
+MN	1515331	Sharga	unclassified	1	0	0	
+MN	1515332	Zavkhan - Myangad	tertiary	1	0	0	
+MN	1515332	Завхан сум - Хэцүү хад	residential	1	0	0	
+MN	1515392	Deluun-Bulgan	tertiary	1	0	0	
+MN	1515402	Tudevtei	unclassified	1	0	0	
+MN	1515402	Tudevtei - Asgat	tertiary	1	0	0	
+MN	1515402	Tudevtei-Yaruu	tertiary	1	0	0	
+MN	1515416	Mörön-Shine-Ider-Jargalant	unclassified	1	0	0	
+MN	1515416	Tariat-Jargalant	tertiary	1	0	0	
+MN	1515436	Altantsugts - Ölgii	unclassified	1	0	0	
+MN	1515436	Шымширулы Ногай Гудамж	tertiary	1	0	0	Shymshiruly Nogai Street
+MN	1515454	Zavkhan-Mandal	unclassified	1	0	0	
+MN	1515506	Emnegovi-A07	unclassified	1	0	0	
+MN	1515506	Өмнөговь-Улаангом зам	unclassified	1	0	0	
+MN	1515532	Tsagaankhairkhan-Baruunturuun	unclassified	1	0	0	
+MN	1515532	Tsagaankhairkhan-Enderkhangai	unclassified	1	0	0	
+MN	1515549	Arbulag - Burenkhaan	tertiary	1	0	0	
+MN	1515577	Bayankhairkhan-Zuunkhangai	tertiary	1	0	0	
+MN	1515577	Zuunkhangai	tertiary	1	0	0	
+MN	1515579	Deluun-Bulgan	unclassified	1	0	0	
+MN	1515580	Bayankhongor - Biger	tertiary	1	0	0	
+MN	1515621	Shine-Ider-Galt	tertiary	1	0	0	
+MN	1515659	Дэлгэрэнгүй-1	residential	23	102	138	
+MN	1515659	Хангай-3	residential	17	300	323	
+MN	1515659	Хөх даваа-6	residential	17	601	633	
+MN	1515659	Хөх даваа-7	residential	17	701	733	
+MN	1515659	Хөх даваа-3	residential	16	301	331	
+MN	1515659	Хөх даваа-5	residential	16	501	531	
+MN	1515659	Дэлгэрэнгүй-3	residential	15	302	324	
+MN	1515659	Түмэнсант-3	residential	15	300	316	
+MN	1515659	Түмэнсант-6	residential	15	600	617	
+MN	1515659	Хангай-2	residential	15	107	302	
+MN	1515659	Хөх даваа-8	residential	15	801	829	
+MN	1515659	Дэлгэрэнгүй-2	residential	12	200	211	
+MN	1515662	Urgamal-Zavkhanmandal-Erdene-Khairkhan	tertiary	1	0	0	
+MN	1515694	Gurvanbulag - Jargalant	unclassified	1	0	0	
+MN	1515694	Gurvanbulag - Khangai	unclassified	1	0	0	
+MN	1515694	Otgon - Gurvanbulag	unclassified	1	0	0	
+MN	1515741	Khovd - Bayannuur	unclassified	1	0	0	
+MN	1515762	Ulaangom - Tsetserleg	unclassified	1	0	0	
+MN	1515787	Turgen	tertiary	1	0	0	
+MN	1515807	Эрдэнэбүрэн-А305 зам	unclassified	1	0	0	
+MN	1515832	Sagil	tertiary	1	0	0	
+MN	1515878	Khaliun-Guu Bariach	unclassified	1	0	0	
+MN	1515878	Tseel - Khaliun	unclassified	1	0	0	
+MN	1515882	Northern Route	secondary	1	0	0	
+MN	1515882	Tsetserleg	residential	1	0	0	
+MN	1515957	Mörön-Shine-Ider-Jargalant	unclassified	1	0	0	
+MN	1515957	Shine-Ider-Galt	unclassified	1	0	0	
+MN	1515979	Tonkhil - Darvi	tertiary	1	0	0	
+MN	1515979	Сутай хайрхан - Тонхил сум	residential	1	0	0	
+MN	1515986	Ider	tertiary	1	0	0	
+MN	1515986	Tosontsengel - Ider	tertiary	1	0	0	
+MN	1515989	Davst-A1702	residential	1	0	0	
+MN	1515996	Northern Route	secondary	1	0	0	
+MN	1515999	Ulaan-Uul-Renchinlkhumbe	unclassified	1	0	0	
+MN	1516004	Northern Road	unclassified	1	0	0	
+MN	1516004	Ulaangom-Zuungobi	secondary	1	0	0	
+MN	1516023	Bayantsagaan-Shinejinst	residential	1	0	0	
+MN	1516036	Gurvanbulag - Jargalant	unclassified	1	0	0	
+MN	1516036	Zag - Gurvanbulag	unclassified	1	0	0	
+MN	1516037	Bypass - Bumbugur	tertiary	1	0	0	
+MN	1516040	Duut sum	residential	1	0	0	
+MN	1516048	Дуут сум	secondary	1	0	0	Duut Road
+MN	1516082	Guulin - Khüreemaral road	tertiary	1	0	0	
+MN	1516082	Khüreemaral - Buutsagaan road	tertiary	1	0	0	
+MN	1516099	Darvi - Sharga	unclassified	1	0	0	
+MN	1516099	Дарви - Тонхил	unclassified	1	0	0	
+MN	1516125	Altai - Deluun	tertiary	1	0	0	
+MN	1516136	Har-nuur	unclassified	1	0	0	
+MN	1516143	Buyant-Altai	tertiary	1	0	0	
+MN	1516143	Ölgii - Buyant (Alt)	tertiary	1	0	0	
+MN	1516147	Khüreemaral - Buutsagaan road	tertiary	1	0	0	
+MN	1516148	Алтай-Жаргалан /Улаанбулаг/	tertiary	1	0	0	Altai-Jargalan /via Ulaanbulag/
+MN	1516148	Жаргалан-Баян Уул /Хөхийн даваа/	unclassified	1	0	0	Bayan Uul - Jargalan /via Khukh pass/
+MN	1516148	Жаргалан-Эрээннуур	unclassified	1	0	0	Jargalan-Ereennuur
+MN	1516198	Altantsugts - Ölgii	unclassified	1	0	0	
+MN	1516199	Uliastai-Derveljin	unclassified	1	0	0	
+MN	1516199	Хөхморьт-Дөрвөлжин /Монгол элсээр/	tertiary	1	0	0	Urgamal - Durvuljin
+MN	1516257	Bukhmurun - Uuregnuur	unclassified	1	0	0	
+MN	1516257	Бөхмөрөн	unclassified	1	0	0	Bukhmurun - Uuregnuur
+MN	1516267	Tosontsengel - Ikh-Uul	unclassified	1	0	0	
+MN	1516272	Baatsagaan	unclassified	1	0	0	
+MN	1516272	Baatsagaan - Bayankhongor	unclassified	1	0	0	
+MN	1516272	Baatsagaan - Buutsagaan	unclassified	1	0	0	
+MN	1516274	Bugat - Altai	residential	1	0	0	
+MN	1516288	Zavkhan - Myangad	tertiary	1	0	0	
+MN	1516296	Burgastain boomt - Bugat	tertiary	1	0	0	
+MN	1516305	Bayanbulag - Bumbugur	tertiary	1	0	0	
+MN	1516313	Northern Road	secondary	1	0	0	
+MN	1516313	Tsagaankhairkhan-Baruunturuun	unclassified	1	0	0	
+MN	1516313	Zuungobi-Baruunturuun	secondary	1	0	0	
+MN	1516389	Bayanzurkh - Arbulag	tertiary	1	0	0	
+MN	1516389	Ulaan-Uul-Bayanzurkh	unclassified	1	0	0	
+MN	1516393	Uliastay-Altai Road	primary	1	0	0	
+MN	1516393	Алтай-Жаргалан /булгаар/	tertiary	1	0	0	Altai-Jargalan /via spring/
+MN	1516393	төв зам-Жаргалан /булгаар/	tertiary	1	0	0	main road-Jargalan /via spring/
+MN	1516403	Aldarkhaan-Durvuljin	tertiary	1	0	0	
+MN	1516403	Uliastai Airport	tertiary	1	0	0	
+MN	1516403	Uliastai-Aldarkhaan	tertiary	1	0	0	
+MN	1516403	Алдархаан-Борхын гүүр	unclassified	1	0	0	Aldarkhaan-Borkh bridge
+MN	1516403	Алдархаан-Цагаанхайрхан	unclassified	1	0	0	Aldarkhaan-Tsagaankhairkhan
+MN	1516403	Борхын гүүр	unclassified	1	0	0	Borkh bridge
+MN	1538308	Tariat-Jargalant	unclassified	1	0	0	
+MN	2028252	Mandalgobi - Manlai	unclassified	1	0	0	
+MN	2028287	Erdenemandal-Khairkhan	tertiary	1	0	0	
+MN	2028287	Khairkhan	tertiary	1	0	0	
+MN	2028287	Khairkhan-Ikhtamir	residential	1	0	0	
+MN	2028287	Saikhan - Khairkhan	tertiary	1	0	0	
+MN	2028313	Ekhiin Goliin Bayan burd - Gurvantes	tertiary	1	0	0	
+MN	2028313	Гурвантэс - Баянлиг	primary	1	0	0	Bayanlig - Gurvantes
+MN	2028351	Dadal-Norovlin	secondary	1	0	0	
+MN	2028429	Burd - Erdenesant	residential	1	0	0	
+MN	2028437	Sarlag Tolgoi bag - Bayankhangai	residential	1	0	0	
+MN	2028462	Алтай-5	residential	178	500	688	
+MN	2028462	Алтай-7	residential	160	81	776	
+MN	2028462	Алтай-2	residential	149	77	219	
+MN	2028462	Алтай-3	residential	142	231	364	
+MN	2028462	Алтай-8	residential	92	720	879	
+MN	2028462	Алтай-6	residential	84	610	824	
+MN	2028462	Энх тайваны өргөн чөлөө		76	3	114	
+MN	2028462	Алтай-1	residential	70	7	212	
+MN	2028462	Хайрхан-9	residential	66	316	910	
+MN	2028462	Ард Аюушийн өргөн чөлөө	primary	65	5	101	
+MN	2028462	Энх тайвны өргөн чөлөө		65	4	205	
+MN	2028462	Дунд наран-1	residential	58	2	63	
+MN	2028462	Хайрхан-2	residential	58	23	66	
+MN	2028462	Дунд наран-11	residential	55	302	350	
+MN	2028462	Дунд наран-19	residential	54	579	733	
+MN	2028462	Хайрхан-5	residential	53	155	238	
+MN	2028462	Дунд наран-17	residential	52	532	564	
+MN	2028462	Хайрхан-8	residential	52	269	313	
+MN	2028462	Хайрхан-4	residential	49	114	150	
+MN	2028462	Дунд наран-13	residential	48	292	412	
+MN	2028462	Дунд наран-6	residential	46	141	179	
+MN	2028462	Хайрхан-3	residential	45	67	108	
+MN	2028462	Нарны зам	primary	44	4	170	Narny road
+MN	2028462	Дунд наран-15	residential	39	408	507	
+MN	2028462	Хасбаатарын гудамж	tertiary	37	3	30	
+MN	2028462	Дунд наран-9	residential	36	226	258	
+MN	2028462	Москвагийн гудамж		36	2	139	
+MN	2028462	Дунд наран-5	residential	33	112	154	
+MN	2028462	Дунд наран-14	residential	31	410	454	
+MN	2028462	Чингисийн өргөн чөлөө		31	1	101	
+MN	2028462	Дунд наран-2	residential	30	21	76	
+MN	2028462	Сөүлийн гудамж	secondary	30	2	70	Seoul Street
+MN	2028462	Хайрхан-6	residential	30	201	228	
+MN	2028462	Дунд наран-7	residential	29	182	204	
+MN	2028462	Их тойруу	primary	29	1	111	
+MN	2028462	Наадамчдын зам	residential	29	1	910	
+MN	2028462	Дунд наран-12		28	347	371	
+MN	2028462	Дунд наран-18	residential	28	557	578	
+MN	2028462	Дунд наран-20	residential	28	21	647	
+MN	2028462	Хайрхан-1	residential	28	3	21	
+MN	2028462	Алтай-4	residential	26	484	572	
+MN	2028462	Бага Тойруу	secondary	25	5	301	Baga Toiruu street
+MN	2028462	Ард аюушийн өргөн чөлөө		23	1	15	
+MN	2028462	Дунд наран-21	residential	23	641	740	
+MN	2028462	Манлайбаатар Дамдинсүрэнгийн Гудамж		23	14	104	
+MN	2028462	Дунд наран-4	residential	22	91	109	
+MN	2028462	Дунд наран-8	residential	22	205	229	
+MN	2028462	Дунд наран-16	residential	21	501	522	
+MN	2028462	Дунд наран-10	residential	20	265	431	
+MN	2028462	Нам Ян Жү-гийн гудамж	primary	20	5	192	
+MN	2028462	Хайрхан-7	residential	20	230	266	
+MN	2028462	Дилав Хутагт Жамсранжавын гудамж	secondary	19	7	104	Dilav Khutagt Jamsranjav street
+MN	2028462	Л.Энэбишийн өргөн чөлөө	primary	19	13	83	
+MN	2028462	Замчдын гудамж	tertiary	18	1	75	
+MN	2028462	Денверийн гудамж	tertiary	14	12	85	
+MN	2028462	Налуу-1		14	1	18	
+MN	2028462	С.Амарсанаагийн гудамж	secondary	12	4	102	
+MN	2028462	Токиогийн гудамж	secondary	12	1	58	Tokyo Street
+MN	2028462	Х.Чингүнжавын гудамж	secondary	12	34	83	
+MN	2028462	Энгельсийн гудамж	primary	12	4	81	Engels street
+MN	2028462	Олимпийн гудамж	primary	11	3	101	Olympic Street
+MN	2028462	Өнөр хороололын гудамж	secondary	11	1	133	
+MN	2028462	13-р хороолол		10	4	70	
+MN	2028462	72-р хотхоны зам		10	5	74	
+MN	2028462	Дарь-Эхийн гудамж	secondary	10	0	0	
+MN	2028462	Хатанбаатар Магсаржавын гудамж	tertiary	10	2	226	
+MN	2028462	Алтай-9	residential	9	902	921	
+MN	2028462	Б.Доржийн гудамж	primary	9	12	52	B. Dorj Street
+MN	2028462	Зайсангийн гудамж	primary	9	1	71	Zaisan Street
+MN	2028462	Залуусын гудамж	tertiary	9	9	26	Zaluusyn street
+MN	2028462	ЮНЭСКО-н гудамж	secondary	9	1	40	UNESCO Street
+MN	2028462	Алтай-23		8	24	32	
+MN	2028462	Барилгачдын талбай	pedestrian	8	20	38	
+MN	2028462	Баянхошууны гудамж	secondary	8	3	44	
+MN	2028462	Жуулчны гудамж	secondary	8	1	43	Juulchny Street
+MN	2028462	Yйлдвэрийн Тойруу		7	9	22	
+MN	2028462	Г.Чагдаржавын гудамж	tertiary	7	1	36	G. Chagdarjav Street
+MN	2028462	Дэнж-3	residential	7	1	5	
+MN	2028462	Их Монгол улсын гудамж	primary	7	1	320	Great Mongolian Empire Street
+MN	2028462	Удирдлагын академийн гудамж	secondary	7	18	888	
+MN	2028462	Улаанхуарангийн гудамж	secondary	7	3	75	
+MN	2028462	Хүннүгийн гудамж	secondary	7	202	904	
+MN	2028462	Энх тайвны өргөн чөлөөm		7	25	127	
+MN	2028462	Алтайн гудамж	secondary	6	30	433	
+MN	2028462	Баруун сэлбийн гудамж	secondary	6	15	53	
+MN	2028462	Д. Сүхбаатарын гудамж		6	6	71	
+MN	2028462	Да хүрээ гудамж	secondary	6	19	19	
+MN	2028462	Дэнж-1		6	16	16	
+MN	2028462	Жамъян гүний гудамж	tertiary	6	5	18	Jamyan Gun Street
+MN	2028462	Махатма Гандигийн Гудамж	secondary	6	27	63	
+MN	2028462	Нарны хороолол		6	8	262	
+MN	2028462	Оргил стадион гудамж	residential	6	47	91	
+MN	2028462	Цагдаагийн гудамж	primary	6	1	10	
+MN	2028462	Б.Ренчингийн Гудамж	residential	5	2	25	
+MN	2028462	Барилгачдын гудамж	tertiary	5	20	29	Barilgachdyn street
+MN	2028462	Баянхошууны зам		5	0	0	
+MN	2028462	Бичил дунд зам	residential	5	6	7	
+MN	2028462	Г.Лувсанцэвээний гудамж	tertiary	5	72	204	
+MN	2028462	Дунд наран-3		5	39	72	
+MN	2028462	Ерөнхий сайд Амарын гудамж	tertiary	5	15	19	
+MN	2028462	Ж.Раднаабазарын гудамж	tertiary	5	38	52	
+MN	2028462	Их сургуулийн гудамж	secondary	5	4	32	Ikh Surguulyn street
+MN	2028462	Манлайбаатар Дамидансүрэнгийн Гудамж		5	32	77	
+MN	2028462	Нийслэл хүрээ өргөн чөлөө	primary	5	351	757	
+MN	2028462	П.Жасрайн гудамж	tertiary	5	14	58	
+MN	2028462	Сансарын тунел	primary	5	19	21	
+MN	2028462	Толгойтын гудамж	secondary	5	2	102	
+MN	2028462	Эх нялхасын гудамж	tertiary	5	15	78	
+MN	2028462	Өргөө гудамж	tertiary	5	10	20	
+MN	2028462	Zalyys Gudamj		4	9	12	
+MN	2028462	Амарсанаагийн гудамж		4	17	35	
+MN	2028462	Бакула Ринбучийн гудамж	unclassified	4	4	8	
+MN	2028462	Ногоон нуурын гудамж	secondary	4	22	810	Nogoon nuuryn Street
+MN	2028462	Сангийн хорооны гудамж	tertiary	4	4	4	
+MN	2028462	Усны гудамж	secondary	4	1	24	Usny street
+MN	2028462	Эх нялхасын төв гудамж	tertiary	4	24	30	
+MN	2028462	4-р хороолол		3	15	17	
+MN	2028462	Hilchid Street		3	29	33	
+MN	2028462	Б. Шаравын гудамж	residential	3	27	86	B.Sharav street
+MN	2028462	Бага тойрог		3	9	18	
+MN	2028462	Баруун Сэлбийн гудамж	secondary	3	3	26	
+MN	2028462	Дунд зам		3	8	27	
+MN	2028462	Дэнж-2б		3	1	3	
+MN	2028462	Дэнжийн 1000		3	0	0	
+MN	2028462	Ж.Самбуугийн гудамж	primary	3	6	24	J. Sambuu Street
+MN	2028462	Их тойрог	primary	3	11	178	
+MN	2028462	Л. Лааганы гудамж	secondary	3	1	1	L. Laagan Street
+MN	2028462	Маахуурын гудамж		3	9	9	
+MN	2028462	Туслах зам	residential	3	1	1	Tuslax zam
+MN	2028462	Тээвэрчдийн гудамж	unclassified	3	64	66	
+MN	2028462	Хүнсчдийн гудамж	unclassified	3	5	60	
+MN	2028462	Чингэлтэйн өргөн чөлөө	secondary	3	43	43	
+MN	2028462	Чулуун овооны тойрог		3	12	12	
+MN	2028462	3-р хороолол		2	15	15	
+MN	2028462	9-р хороо		2	66	67	
+MN	2028462	Ankhbayarin zam Анхбаярын зам		2	976	976	
+MN	2028462	Bayangol		2	11	1224	
+MN	2028462	Bayanzukh District, 13 khoroo, Narnii Zam		2	137	137	
+MN	2028462	Dilav' Khutagt Jamsranjav's street		2	35	50	
+MN	2028462	Nogoonnuur str		2	649	649	
+MN	2028462	Onor Horoolol		2	33	34	
+MN	2028462	Seoul Street		2	14	31	
+MN	2028462	Tokyo street		2	24	24	
+MN	2028462	Yйлдвэрийн Гудамж	secondary	2	26	52	
+MN	2028462	Zaisan toiruu		2	206	206	
+MN	2028462	Ажилчны гудамж	primary	2	12	52	
+MN	2028462	Алтай-20		2	71	71	
+MN	2028462	Бага тойруу	secondary	2	9	41	Baga Toiruu Street
+MN	2028462	Баруун алтан өлгийн гудамж	secondary	2	0	0	
+MN	2028462	Баянгол дүүрэг		2	15	101	
+MN	2028462	Богд жавзандамбын гудамж		2	21	21	
+MN	2028462	Бумцэндийн гудамж		2	47	47	
+MN	2028462	Дандар баатарын гудамж	secondary	2	106	106	
+MN	2028462	Дэнж-2		2	0	0	
+MN	2028462	Дэнц-2		2	0	0	
+MN	2028462	Зүүн баян уул 10	residential	2	22	22	
+MN	2028462	Монос 3	residential	2	46	46	
+MN	2028462	Нэгдсэн Үндэсний Гудамж		2	25	47	
+MN	2028462	Нэгдсэн үндэсний гудамж	tertiary	2	52	52	
+MN	2028462	Оюутны гудамж	residential	2	22	22	Students' Street
+MN	2028462	П.Гэндэнгийн гудамж	tertiary	2	16	16	P. Genden Street
+MN	2028462	Парисын гудамж	tertiary	2	94	97	Paris Street
+MN	2028462	Сансрын туннел		2	63	63	
+MN	2028462	Сонсголонгийн зам	primary	2	8	32	
+MN	2028462	Сүхбаатар дүүрэг		2	9	9	
+MN	2028462	То вангийн Гудамж	tertiary	2	5	22	Togtokh Vang Street
+MN	2028462	Товангийн Гудамж	tertiary	2	19	25	Tobang street
+MN	2028462	Туул голын гудамж		2	60	91	
+MN	2028462	Урт цагааны гудамж		2	6	51	
+MN	2028462	Хос даль апартмент		2	53	53	
+MN	2028462	Хурд Хорооллын зам		2	3	26	
+MN	2028462	Чимэд-Осорын гудамж		2	34	34	
+MN	2028462	Эрхүүгийн гудамж	secondary	2	7	7	
+MN	2028462	Эрчим хүчний гудамж	secondary	2	1707	1707	
+MN	2028462	Өндөр гэгээн Занабазарын гудамж	tertiary	2	10	10	
+MN	2028462	Өнөр хорооллын гудамж	secondary	2	11	44	
+MN	2028462	Four Seasons Grdens Road	residential	1	0	0	
+MN	2028462	Mahatma Ghandi Road	tertiary	1	0	0	
+MN	2028462	Road_003	residential	1	0	0	
+MN	2028462	Tuul Gol Gudamj	residential	1	0	0	
+MN	2028462	horoololiin zam	residential	1	0	0	
+MN	2028462	Ααταй 11	residential	1	0	0	
+MN	2028462	Ααταй 12	residential	1	0	0	
+MN	2028462	Алтай 12	residential	1	0	0	
+MN	2028462	Алтан овооны гудамж	secondary	1	0	0	
+MN	2028462	Алтан Өлгийн гудамж	secondary	1	0	0	
+MN	2028462	Аос 4	residential	1	0	0	
+MN	2028462	Ар Зайсан гудамж	tertiary	1	0	0	Ar Zaisan Street
+MN	2028462	Арцат 11	residential	1	0	0	
+MN	2028462	Арцат 12	living_street	1	0	0	
+MN	2028462	Арцат 13	living_street	1	0	0	
+MN	2028462	Арцат 14	living_street	1	0	0	
+MN	2028462	Арцат 15	living_street	1	0	0	
+MN	2028462	Арцат 16	living_street	1	0	0	
+MN	2028462	Арцат 17	residential	1	0	0	
+MN	2028462	Б.Лхагвасүрэнгийн гудамж	tertiary	1	0	0	B.Lkhagvasuren street
+MN	2028462	Б.Ширэндэвийн гудамж	residential	1	0	0	
+MN	2028462	Бага дарь эх 8	residential	1	0	0	
+MN	2028462	Бага дарь эх 9	residential	1	0	0	
+MN	2028462	Базуун алтан өлгийн 34	residential	1	0	0	
+MN	2028577	Bayandalai-Khurmen	tertiary	1	0	0	
+MN	2028606	Арслан цохио		31	16	17	
+MN	2028606	Цогт уул 12		25	2	27	
+MN	2028606	arslan zohio		6	14	21	
+MN	2028606	Tsagaan davaa		3	33	33	
+MN	2028606	арслан цохио		3	17	17	
+MN	2028606	Bor tolgoin 10-+r gudamj	residential	1	0	0	
+MN	2028606	Bor tolgoin 51-r gudamj	residential	1	0	0	
+MN	2028606	Khalzangiin tuv zam	tertiary	1	0	0	
+MN	2028606	Ovgor tolgoi	residential	1	0	0	
+MN	2028606	Saijruulsan zam	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 31 gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 33 gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 34 gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 36 gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 37 gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii 39A gudamj	residential	1	0	0	
+MN	2028606	Tsagaan davaanii gudamj 32	residential	1	0	0	
+MN	2028606	Tsagaav davaanii 35 gudamj	residential	1	0	0	
+MN	2028606	Tsetserleg - Tsenkher Hot Spring	tertiary	1	0	0	
+MN	2028606	Tsgaan davaanii 39 gudamj	residential	1	0	0	
+MN	2028606	Tsgaan davvnii 38 gudamj	residential	1	0	0	
+MN	2028606	Uyeriin dalan	residential	1	0	0	
+MN	2028606	baaz oroh zam	unclassified	1	0	0	
+MN	2028606	goliin hoid taliin zam	unclassified	1	0	0	
+MN	2028606	Цогт уул 1 р гудамж	residential	1	0	0	
+MN	2028606	Цогт уул 1а гудамж	residential	1	0	0	
+MN	2028606	Үерийн далан	residential	1	0	0	
+MN	2028653	Delgertsogt-Deren	unclassified	1	0	0	
+MN	2028790	Airag - Bor Undur	tertiary	1	0	0	
+MN	2028792	Choibalsan-Bulgan-Khelenbuir	unclassified	1	0	0	
+MN	2028792	shoroon zam ch.Ankhbayar	secondary	1	0	0	
+MN	2028933	Teshig	tertiary	1	0	0	
+MN	2028961	Undur-Ulaan - Tariat via A0603	tertiary	1	0	0	
+MN	2028961	Undur-Ulaan - Tsetserleg via A0603	unclassified	1	0	0	
+MN	2028983	Tsenkher - Tubshruulekh via Borburgastain rashaan	tertiary	1	0	0	
+MN	2028983	Tubshruulekh	tertiary	1	0	0	
+MN	2028983	Tubshruulekh - Sant bag	tertiary	1	0	0	
+MN	2028983	Tubshruulekh - Tsenkher	tertiary	1	0	0	
+MN	2028983	Tubshruulekh - Ugiinnuur	unclassified	1	0	0	
+MN	2028983	Tuvshruulekh	tertiary	1	0	0	
+MN	2028983	Tuvshruulekh-Tsenkheriin rashaan	unclassified	1	0	0	
+MN	2029117	Dashinchilen	tertiary	1	0	0	
+MN	2029117	Lun-Dashinchlin	secondary	1	0	0	
+MN	2029117	Галбадрахын өвөлжөө	tertiary	1	0	0	
+MN	2029117	Дашинчилэн	tertiary	1	0	0	
+MN	2029117	Заан цогцолбор амралт, сувилал	tertiary	1	0	0	Elephant hotel
+MN	2029118	Gurvansaikhan-Endershil	tertiary	1	0	0	
+MN	2029118	Mandalgovi-Gurvansaikhan	tertiary	1	0	0	
+MN	2029176	Erdenet-Khyalganat	secondary	1	0	0	
+MN	2029238	Delerekh-Bayandelger	unclassified	1	0	0	
+MN	2029241	Арвайхээр - Баянгол	tertiary	1	0	0	Arvaikheer - Bayangol
+MN	2029241	Баянгол	unclassified	1	0	0	Bayangol
+MN	2029321	Bayanzag-Mandal-Ovoo	tertiary	1	0	0	
+MN	2029321	Erdene-dalai-Mandal-Ovoo	unclassified	1	0	0	
+MN	2029321	Khankhongor-Mandal-Ovoo	unclassified	1	0	0	
+MN	2029335	Saikhan - Bayan Agt	tertiary	1	0	0	
+MN	2029335	Tsetserleg - Bayan Agt	unclassified	1	0	0	
+MN	2029419	Awarga	residential	1	0	0	
+MN	2029419	Denj	residential	1	0	0	
+MN	2029419	Gunsawaa	residential	1	0	0	
+MN	2029419	Hogjil	residential	1	0	0	
+MN	2029419	Narlag	residential	1	0	0	
+MN	2029427	Өргөн-A0103	tertiary	1	0	0	
+MN	2029494	Өлзийт - A0301	unclassified	1	0	0	Ulziit - A0301
+MN	2029495	Erdene-dalai-Saikhan-Ovoo	tertiary	1	0	0	
+MN	2029495	Erdenedalai-Tsagaan-Ovoo	residential	1	0	0	
+MN	2029495	Erdenedalai-Ulaanbaatar	tertiary	1	0	0	
+MN	2029495	Мандалговь - Эрдэнэдалай	tertiary	1	0	0	Mandalgobi - Erdenedalai
+MN	2029499	Даланзадгад-Номгон	tertiary	1	0	0	Dalanzadgad-Nomgon
+MN	2029525	Erdenemandal-Khairkhan	tertiary	1	0	0	
+MN	2029542	Bat-Elzii	unclassified	1	0	0	
+MN	2029542	Bat-Elziit-Orkhon	residential	1	0	0	
+MN	2029542	Bat-Ulzii - Tsenkher	tertiary	1	0	0	
+MN	2029542	Chudschirt -	unclassified	1	0	0	
+MN	2029542	Mogoitiin rashaan-Bat-Elziit	unclassified	1	0	0	
+MN	2029542	Uyanga-Bat-Elziit	unclassified	1	0	0	
+MN	2029558	Дарьганга - Наран	unclassified	1	0	0	
+MN	2029558	Дарьганга - Шилийнбогд	unclassified	1	0	0	
+MN	2029588	Orkhontuul	residential	1	0	0	
+MN	2029588	Orkhontuul - Khutul	tertiary	1	0	0	
+MN	2029596	Баянговь - Шинэжинст	residential	1	0	0	Bayangovi - Shinejinst
+MN	2029597	Ugtaaltsaidam-Tseel	residential	1	0	0	
+MN	2029610	Binder - Batshireet	residential	1	0	0	
+MN	2029610	Binder - Bayan bag	tertiary	1	0	0	
+MN	2029610	Binder-Bayan Adraga	unclassified	1	0	0	
+MN	2029624	Burd - Erdenesant	residential	1	0	0	
+MN	2029635	Uaynga-Shireet nuur	unclassified	1	0	0	
+MN	2029635	Uyanga-Bat-Elziit	unclassified	1	0	0	
+MN	2029635	Uyanga-Taragt	tertiary	1	0	0	
+MN	2029636	Saikhan Ovoo - Tsogt Ovoo	tertiary	1	0	0	
+MN	2029656	Dulaan 14		2	1	1	
+MN	2029656	Навааннэрэн		2	0	0	
+MN	2029656	Gurvanbayan - Undurkhaan	tertiary	1	0	0	
+MN	2029656	ger	residential	1	0	0	
+MN	2029656	shoroon zam	unclassified	1	0	0	
+MN	2029656	zam	unclassified	1	0	0	
+MN	2029698	Erdene-Mandal-Tsetserleg	tertiary	1	0	0	
+MN	2029698	Erdenemandal-Khairkhan	tertiary	1	0	0	
+MN	2029698	Erdenemandal-Khanuin guur	residential	1	0	0	
+MN	2029698	Jatgalant - Erdenemandal	unclassified	1	0	0	
+MN	2029735	Dalanzadgad-Khankhongor	unclassified	1	0	0	
+MN	2029735	Khankhongor to A0202	tertiary	1	0	0	
+MN	2029735	Khankhongor-Mandal-Ovoo	unclassified	1	0	0	
+MN	2029840	Sant	unclassified	1	0	0	
+MN	2029886	Bayan-Uul - Bayandun Баян-Уул - Баяндун	tertiary	1	0	0	Bayan-Uul - Bayandun
+MN	2029886	Sergelen - Bayandun Сэргэлэн - Баяндун	unclassified	1	0	0	Sergelen - Bayandun
+MN	2029886	Сэргэлэн - Баяндун	unclassified	1	0	0	Sergelen - Bayandun
+MN	2029901	Партизан 1-р гудамж	residential	2	42	42	
+MN	2029901	Уурхайчид 14	residential	2	11	11	
+MN	2029901	Nalaikh - Arkhust	residential	1	0	0	
+MN	2029945	Meren - Ulaan Uul	tertiary	1	0	0	
+MN	2029945	Мөрөн - Түнэл	tertiary	1	0	0	
+MN	2029947	Meren	residential	1	0	0	
+MN	2029947	Murun	unclassified	1	0	0	
+MN	2029947	Murun - Delgerkhaan	unclassified	1	0	0	
+MN	2029961	Burd - Nessuelas	unclassified	1	0	0	
+MN	2029961	Өлзийт - Есөнзүйл	unclassified	1	0	0	Ulziit - Nessuelas
+MN	2029989	Baganuur - Jargaltkhaan	primary	1	0	0	
+MN	2030035	Arvaikheer - Sant	tertiary	1	0	0	
+MN	2030040	Khairkhandulaan	tertiary	1	0	0	
+MN	2030040	Uyanga-kharkhandulaan	unclassified	1	0	0	
+MN	2030053	Alag-Erdene	tertiary	1	0	0	
+MN	2030065	Mandalgobi - Manlai	tertiary	1	0	0	
+MN	2030065	Mandalgovi-Erdenedalai	residential	1	0	0	
+MN	2030065	Mandalgovi-Gurvansaikhan	residential	1	0	0	
+MN	2030065	Mandalgovi-Luus	residential	1	0	0	
+MN	2030065	Мандалговь - Гурвансайхан	unclassified	1	0	0	Mandalgobi - Gurvansaikhan
+MN	2030065	Мандалговь - Даланзадгад	tertiary	1	0	0	Mandalgovi - Dalanzadgad
+MN	2030065	Мандалговь - Даланзадгад хурдны зам	tertiary	1	0	0	Mandalgovi - Dalanzadgad Highway
+MN	2030065	Мандалговь - Эрдэнэдалай	residential	1	0	0	Mandalgobi - Erdenedalai
+MN	2030065	С.Буяннэмэхийн өргөн чөлөө	unclassified	1	0	0	S. Buyannemekh Avenue
+MN	2030065	Улаанбаатар - Мандалговь	tertiary	1	0	0	
+MN	2030066	Batsumber-Tunkhel	unclassified	1	0	0	
+MN	2030066	Tunkhel	unclassified	1	0	0	
+MN	2030066	Zuunkharaa-Tunkhel	unclassified	1	0	0	
+MN	2030066	Батсүмбэр-Түнхэл	unclassified	1	0	0	
+MN	2030066	ТЗ-н нүхэн гарам	tertiary	1	0	0	
+MN	2030067	Orkhon	tertiary	1	0	0	
+MN	2030067	Orkhon - Mandal	unclassified	1	0	0	
+MN	2030068	Bayanbuural	unclassified	1	0	0	
+MN	2030068	Bornuur-Batsumber	unclassified	1	0	0	
+MN	2030068	Батсүмбэр	unclassified	1	0	0	Jargalant - Batsumber
+MN	2030078	Avzaga - Khishig Undur	tertiary	1	0	0	
+MN	2030085	Zaamar - Lun	unclassified	1	0	0	
+MN	2030085	Лүн - Дашинчилэн	secondary	1	0	0	
+MN	2030159	Sumber - Tseel	unclassified	1	0	0	
+MN	2030161	Bayan-Uul - Ulikhan Баян-Уул - Ульхан	primary	1	0	0	
+MN	2030170	Tsagaannuur-Zuunburen	secondary	1	0	0	
+MN	2030170	Шаамар - Зүүнбүрэн	secondary	1	0	0	
+MN	2030172	Mörön - Temerbulag	unclassified	1	0	0	
+MN	2030172	Tsetserleg - Tumurbulag	unclassified	1	0	0	
+MN	2030173	Jargalant - Sumber	residential	1	0	0	
+MN	2030173	Жаргалант	tertiary	1	0	0	
+MN	2030175	Battsengel-Egiinuur	unclassified	1	0	0	
+MN	2030175	Battsengel-Tsetserleg	unclassified	1	0	0	
+MN	2030175	Ikhtamir-Battsengel	unclassified	1	0	0	
+MN	2030176	Chuluut - Jargalant	tertiary	1	0	0	
+MN	2030176	Ikh Tamir - Chuluut	tertiary	1	0	0	
+MN	2030208	Erdenet-Selenge sum	tertiary	1	0	0	
+MN	2030208	Selenge - Khutag Undur	unclassified	1	0	0	
+MN	2030208	Teshig - Khyalganat	unclassified	1	0	0	
+MN	2030218	Bayantsogt - Bayanchandmani	tertiary	1	0	0	
+MN	2030251	Demchigiin khiid-Khanbogd	tertiary	1	0	0	
+MN	2030251	Oyu tolgoi-Khanbogd	tertiary	1	0	0	
+MN	2030296	Tsagaannuur-Tushig	residential	1	0	0	
+MN	2030296	Tsagaannuur-Zuunburen	residential	1	0	0	
+MN	2030368	Saikhan - Bayan Agt	tertiary	1	0	0	
+MN	2030392	Choibalsan - Khavirga - Chuluunkhoroot, Чойбалсан - Хавирга - Чулуунхороот	primary	1	0	0	
+MN	2030427	Tsetserleg - Tumurbulag	residential	1	0	0	
+MN	2030428	Chudschirt -	tertiary	1	0	0	
+MN	2030428	Khujirt	unclassified	1	0	0	
+MN	2030428	Khujirt-Arvaikheer	secondary	1	0	0	
+MN	2030429	Бүрэн - Дэлгэрхаан	residential	1	0	0	
+MN	2030465	Gurvantes - Noyon	secondary	1	0	0	
+MN	2030465	Noyon	secondary	1	0	0	
+MN	2030465	Noyon-Sevrei	tertiary	1	0	0	
+MN	2030470	Зүүнбаян - Хөвсгөл	secondary	1	0	0	
+MN	2030474	Богд - Хонгорын элс	unclassified	1	0	0	Bogd - Khongoryn sand
+MN	2030474	Гучин-Ус - Богд	residential	1	0	0	
+MN	2030477	Khotont - Sant bag	tertiary	1	0	0	
+MN	2030477	Khotont - Ugiinnuur	unclassified	1	0	0	
+MN	2030502	Battsengel-Elziit	residential	1	0	0	
+MN	2030502	Ulziit - Avzaga	residential	1	0	0	
+MN	2030512	Bogd-Bayanlig	tertiary	1	0	0	
+MN	2030526	Baruunbayan - Khairkhandulaan	residential	1	0	0	
+MN	2030526	Баруунбаян-Улаан - Гучин-Ус	residential	1	0	0	Baruunbayan - Arvaikheer
+MN	2030531	Арвайхээр - Төгрөг	residential	1	0	0	Arvaikheer - Tugrug
+MN	2030531	Төгрөг - Булган	residential	1	0	0	Tugrug - Bulgan
+MN	2030570	Delgerekh-Ikhkhet	unclassified	1	0	0	
+MN	2030570	Сайншанд - Дэлгэрэх	unclassified	1	0	0	
+MN	2030646	Chandmani Undur - Khatgal	unclassified	1	0	0	
+MN	2030646	Чандмань-Өндөр - Цагаан-Үүр	unclassified	1	0	0	Tsagaan Uur - Chandmani Undur
+MN	2030696	Bayankhongor-Bayan-Ovoo	unclassified	1	0	0	
+MN	2030851	Баянговь - Баянлиг	tertiary	1	0	0	Bayangovi - Bayanlig
+MN	2030890	Delgerkhangai-Mandal-Ovoo	residential	1	0	0	
+MN	2031016	Чингис-Чойбалсан	primary	1	0	0	
+MN	2031088	Govi-Ugtaal	unclassified	1	0	0	
+MN	2031088	Tsagaandelger- Govi Ugtaal - Ikh Gazriin Chuluu	tertiary	1	0	0	
+MN	2031357	Mogod	tertiary	1	0	0	
+MN	2031357	Mogod - Bulgan	unclassified	1	0	0	
+MN	2031402	Erdenetsogt-Bulgan	tertiary	1	0	0	
+MN	2031405	Эрх чөлөөний гудамж	secondary	55	3	123	
+MN	2031405	11		3	14	22	
+MN	2031405	Орхоны гудамж	residential	2	2	123	
+MN	2031405	Төв зам		2	1	3	
+MN	2031405	Улан-үүдийн гудамж	residential	2	123	123	
+MN	2031405	Уурхайчины гудамж	residential	2	123	123	
+MN	2031405	Амар сайдын нэрэмжит талбай	pedestrian	1	0	0	
+MN	2031405	Аялагчдын гудамж	residential	1	0	0	
+MN	2031405	Баян-өндорийн гудамж	residential	1	0	0	
+MN	2031405	Дэнжийн зам	residential	1	0	0	
+MN	2031405	Залуучуудын гудамж	residential	1	0	0	
+MN	2031405	Магсаржавын гудамж	residential	1	0	0	
+MN	2031405	Монгол ажилчдын гудамж	residential	1	0	0	
+MN	2031405	Оюутны гудамж	tertiary	1	0	0	
+MN	2031405	Тюряковын гудамж	residential	1	0	0	
+MN	2031405	Ханддоржийн гудамж	residential	1	0	0	
+MN	2031405	Хантайн гудамж	residential	1	0	0	
+MN	2031405	Хивсчдийн гудамж	residential	1	0	0	
+MN	2031405	Хорооллын зам	tertiary	1	0	0	
+MN	2031405	Шулуун зам	tertiary	1	0	0	
+MN	2031405	Эрээний гудамж	residential	1	0	0	
+MN	2031405	жагсаалын газар	pedestrian	1	0	0	
+MN	2031405	төмөр замын станцын талбай	pedestrian	1	0	0	
+MN	2031405	эмин сан	residential	1	0	0	
+MN	2031408	Tsagaan Uur - Erdenebulgan	unclassified	1	0	0	
+MN	2031408	Тариалан - Эрдэнэбулган	unclassified	1	0	0	Erdenebulgan - Tarialan
+MN	2031408	Чандмань-Өндөр - Эрдэнэбулган	unclassified	1	0	0	Erdenebulgan - Chandmani Undur
+MN	2031411	Sant	unclassified	1	0	0	
+MN	2031484	Binder - Batshireet	tertiary	1	0	0	
+MN	2031517	6-р баг		2	0	0	
+MN	2031533	Bayangol-Zuunkharaa	tertiary	1	0	0	
+MN	2031533	Tunkhel - Zuunkharaa	unclassified	1	0	0	
+MN	2031533	Баянгол - Зүүнхараа	tertiary	1	0	0	
+MN	2031533	Зүүнхараа	secondary	1	0	0	
+MN	2031533	Зүүнхараа хотын төв зам	residential	1	0	0	
+MN	2031533	Найрамдлын гудамж	residential	1	0	0	
+MN	2031533	Сансрын гудамж	residential	1	0	0	
+MN	2031533	Хорихын гудамж	residential	1	0	0	
+MN	2031533	Энхтайвны гудамж	residential	1	0	0	
+MN	2031552	Matad - Khalkhgol Матад - Халхгол	unclassified	1	0	0	
+MN	2031552	Чойбалсан - Матад(өөр)	unclassified	1	0	0	Choibalsan-Matad(Alt)
+MN	2031613	Tsagaannuur-Tushig	tertiary	1	0	0	
+MN	2031613	Tushig - Желтура(ru)	secondary	1	0	0	
+MN	2031613	Түшиг уурхайн зам	secondary	1	0	0	
+MN	2031615	Khotont - Ugiinnuur	secondary	1	0	0	
+MN	2031615	Tubshruulekh - Ugiinnuur	secondary	1	0	0	
+MN	2031704	Ikh Tamir - Chuluut	tertiary	1	0	0	
+MN	2031832	Mandalgobi - Dalanzadgad Track	tertiary	1	0	0	
+MN	2031832	Saikhan Ovoo - Tsogt Ovoo	tertiary	1	0	0	
+MN	2031832	Ulziit - Tsagaan suvraga(rock paintings) - Tsogt-Ovoo	unclassified	1	0	0	
+MN	2031832	Zogt Ovoo - Tsogttsetsii Hwy	residential	1	0	0	
+MN	2031906	Zuunburen-Shaamar	secondary	1	0	0	
+MN	2031946	Bayandun - Dashbalbar Баяндун - Дашбалбар	residential	1	0	0	Bayandun - Dashbalbar
+MN	2031946	Талбай	pedestrian	1	0	0	
+MN	2031964	хорооллын гудам	residential	5	2	11	
+MN	2031964	Zulzaga road	residential	1	0	0	
+MN	2031964	baishin	residential	1	0	0	
+MN	2031964	road	residential	1	0	0	
+MN	2031964	tsengeliin gudam	residential	1	0	0	
+MN	2031964	Залуучууд театрын өмнөх талбай	pedestrian	1	0	0	theatre square
+MN	2031964	Нью-Иорк толгойгоос үйлдвэр явах зам	unclassified	1	0	0	
+MN	2031964	Нью-Иорк толгойн зам	unclassified	1	0	0	
+MN	2031964	ОБЕГ-ын сургалтын талбай	pedestrian	1	0	0	
+MN	2031964	Хандалтын Зам WPP	residential	1	0	0	Access Road WPP
+MN	2031964	Хараагийн гүүр	tertiary	1	0	0	
+MN	2031964	гудам	residential	1	0	0	
+MN	2031964	гүүр	residential	1	0	0	
+MN	2031964	дэлгүүр	residential	1	0	0	
+MN	2031964	зам	living_street	1	0	0	
+MN	2031964	зулзага зам	residential	1	0	0	
+MN	2031964	зулзага явах зам	road	1	0	0	
+MN	2031964	зулзагын зам	unclassified	1	0	0	
+MN	2031964	томр зам	unclassified	1	0	0	
+MN	2031964	төв зам	tertiary	1	0	0	
+MN	2031966	Баянмөнх - Дархан	unclassified	1	0	0	Darkhan - Bayanmunkh
+MN	2031966	Хажуу Улаан - Дархан	tertiary	1	0	0	Khajuu Ulaan - Darkhan
+MN	2031998	Bayandalai-Khurmen	tertiary	1	0	0	
+MN	2031998	Bulgan-Bayandalai	residential	1	0	0	
+MN	2031998	Sevrei, Bayandalai, Noyon	primary	1	0	0	
+MN	2031998	Баяндалай - Ноён	tertiary	1	0	0	Noyon - Bayandalai
+MN	2031998	Даланзадгад - Баяндалай	unclassified	1	0	0	
+MN	2032007	Dalanzadgad-Bayan-ovoo	residential	1	0	0	
+MN	2032007	Dalanzadgad-Khankhongor	residential	1	0	0	
+MN	2032007	Dalanzadgad-Khurmen	tertiary	1	0	0	
+MN	2032007	Dalanzadgad-Nomgon	tertiary	1	0	0	
+MN	2032007	Dalanzadgad-Tsogttsetsii	tertiary	1	0	0	
+MN	2032007	Yoliin Am	residential	1	0	0	
+MN	2032007	Булган - Даланзадгад	tertiary	1	0	0	
+MN	2032007	Даланзадгад-Номгон	tertiary	1	0	0	Dalanzadgad-Nomgon
+MN	2032007	Мандалговь - Даланзадгад	primary	1	0	0	Mandalgovi - Dalanzadgad
+MN	2032050	Хонхор		6	1	15	
+MN	2032050	Туслах зам	residential	2	1	5	
+MN	2032050	Bayanjargalan-Choir	unclassified	1	0	0	
+MN	2032050	Төгрөгийн 1-р гудамж	residential	1	0	0	
+MN	2032050	Төгрөгийн 2-р гудамж	residential	1	0	0	
+MN	2032050	Цагаан усны 3-р гудамж	residential	1	0	0	
+MN	2032054	"Чита"-ын гудамж Chita St		3	63	67	
+MN	2032054	"Чита"-ын гудамж	secondary	1	0	0	Chita St
+MN	2032054	Choibalsan - Gurvanzagal - Dashbalbar Чойбалсан - Гурванзагал - Дашбалбар	tertiary	1	0	0	
+MN	2032054	Ардчилалын гудамж	primary	1	0	0	Democracy Street
+MN	2032054	Баянтүмэнгийн гудамж	secondary	1	0	0	Bayantumen St
+MN	2032054	Бунхан толгой	pedestrian	1	0	0	
+MN	2032054	Бунханы гудамж	unclassified	1	0	0	Bunkhan Street
+MN	2032054	Дамдинсүрэнгийн гудамж	primary	1	0	0	Damdinsuren Street
+MN	2032054	Залуусын гудамж	primary	1	0	0	Zaluus Street
+MN	2032054	Зангиатын гудамж Zangiat St	residential	1	0	0	Zangiat St
+MN	2032054	Модон гүүр Wooden Bridge	unclassified	1	0	0	Wooden Bridge
+MN	2032054	Мэнэн гудамж	tertiary	1	0	0	Menen Street
+MN	2032054	Содномдаржаагийн гудамж	primary	1	0	0	Sodnomdarjaa St
+MN	2032054	Т. Ламжавын гудамж	tertiary	1	0	0	Lamjav St
+MN	2032054	Хогийн цэг очих зам	residential	1	0	0	
+MN	2032054	Худалдаачдын гудамж	secondary	1	0	0	Traders St
+MN	2032054	Худалдаачдын гудамж Traders St	primary	1	0	0	
+MN	2032054	Хуучин танкийн талбай	pedestrian	1	0	0	
+MN	2032054	Хянганы гудамж	secondary	1	0	0	Khyangan Street
+MN	2032054	Хянганы гудамж Khyangan St	secondary	1	0	0	Khyangan St
+MN	2032054	Хүүхэд эмэгтэйчүүдийн гудамж	primary	1	0	0	Woman and children St
+MN	2032054	Чойбалсан - Матад	unclassified	1	0	0	Choibalsan - Matad
+MN	2032054	Чойбалсан - Цагаан-Овоо ch.Ankhbayar	secondary	1	0	0	Choibalsan - Tsagaan-Ovoo ch Ankhbayar
+MN	2032054	Чойбалсан-21-р цооног Ч.Анхбаяр	tertiary	1	0	0	
+MN	2032054	Чойбалсан-Дашбалбар-Гурванзагал	tertiary	1	0	0	
+MN	2032054	Ялалтын гудамж	tertiary	1	0	0	Yalalt Street
+MN	2032054	Ялалтын гүүр Yalalt Bridge	tertiary	1	0	0	Yalalt Bridge
+MN	2032081	Saikhandulaan - Sainshand	secondary	1	0	0	
+MN	2032081	Sainshand-Khamriin khiid	unclassified	1	0	0	
+MN	2032081	Sainshand-Saikhandulaan	unclassified	1	0	0	
+MN	2032081	Ар Аймгийг холбосон зам	secondary	1	0	0	
+MN	2032081	Сайншанд - Алтанширээ	unclassified	1	0	0	Altanshiree - Sainshand
+MN	2032081	Сайншанд - Дэлгэрэх	unclassified	1	0	0	
+MN	2032081	Сайншанд - Хамрын хийд	secondary	1	0	0	
+MN	2032081	машин зам	residential	1	0	0	
+MN	2032157	Amarbayasgalant	tertiary	1	0	0	
+MN	2032191	Bayan Undur - Delgerkhaan	residential	1	0	0	
+MN	2032191	Арвайхээр - Баян-Өндөр	residential	1	0	0	
+MN	2032201	bulgan		3	1	6	
+MN	2032201	Mogod - Bulgan	unclassified	1	0	0	
+MN	2032202	Bulgan - Mandal-Ovoo	tertiary	1	0	0	
+MN	2032202	Bulgan-Bayandalai	tertiary	1	0	0	
+MN	2032202	Булган - Баяндалай	tertiary	1	0	0	
+MN	2032202	Хонгорын элс - Булган	unclassified	1	0	0	Khongoryn sand - Bulgan
+MN	2032220	Bugant - Khuder	tertiary	1	0	0	
+MN	2032220	Yuruu - Khuder	unclassified	1	0	0	
+MN	2032221	Erdenetsogt-Bulgan	unclassified	1	0	0	
+MN	2032225	Чандмань-Өндөр - Түнэл	tertiary	1	0	0	Chandmani Undur - Tunel
+MN	2032226	Baganuur-Mengenmorit	residential	1	0	0	
+MN	2032226	Бурхан халдун - Мөнгөнморьт	tertiary	1	0	0	
+MN	2032327	Bornuur	tertiary	1	0	0	
+MN	2032327	Bornuur-Batsumber	tertiary	1	0	0	
+MN	2032327	Борнуур	tertiary	1	0	0	
+MN	2032327	Борнуур - Батсүмбэр	tertiary	1	0	0	
+MN	2032362	Endershil-Saikhandulaan	unclassified	1	0	0	
+MN	2032362	Gurvansaikhan-Endershil	unclassified	1	0	0	
+MN	2032411	Berkh - Idermeg bag	unclassified	1	0	0	
+MN	2032432	Undurshireet - A0301	tertiary	1	0	0	
+MN	2032436	Enderkhaan - Baruun-Urt	tertiary	1	0	0	
+MN	2032436	Munkhkhaan - Tumentsogt	residential	1	0	0	
+MN	2032436	Munkhkhaan - Uulbayan	residential	1	0	0	
+MN	2032457	Arvaikheer-Zuunbayan-Ulaan	unclassified	1	0	0	
+MN	2032457	Bayan Ulaan - Uyanga	unclassified	1	0	0	
+MN	2032473	Jatgalant - Erdenemandal	unclassified	1	0	0	
+MN	2032480	Бүрэн - Булангаа	unclassified	1	0	0	Buren - Bulangaa
+MN	2032480	Бүрэн - Дэлгэрхаан	residential	1	0	0	
+MN	2032480	Улаанбаатар - Бүрэн	residential	1	0	0	Buren - Ulaan Baatar
+MN	2032490	Dadal-Norovlin	secondary	1	0	0	
+MN	2032491	Bayan-Ovoo-Tumentsogt	secondary	1	0	0	
+MN	2032491	Choibalsan - Undurkhaan shoroon zam ch.Ankhbayar	secondary	1	0	0	
+MN	2032523	Galuut - Bayankhongor	tertiary	1	0	0	
+MN	2032533	Bayankhongor		3	53	1000	
+MN	2032533	Bayankhongor - Shargaljuut	tertiary	1	0	0	
+MN	2032533	Bayankhongor-Erdene-Tsogt	unclassified	1	0	0	
+MN	2032533	Bayankhongor-Erdenetsogt	tertiary	1	0	0	
+MN	2032533	Bayankhongor-Jargalant	tertiary	1	0	0	
+MN	2032533	Bumbat bag - Bayankhongor	tertiary	1	0	0	
+MN	2032533	Гурван бүсийн өргөн чөлөө	residential	1	0	0	Three Zone Avenue
+MN	2032571	Bayandelger	unclassified	1	0	0	
+MN	2032571	Bayandelger - Bayankhangai	unclassified	1	0	0	
+MN	2032586	Gurvanbayan - Jargaltkhaan	tertiary	1	0	0	
+MN	2032586	Umnudelger - Khentii bag	tertiary	1	0	0	
+MN	2032595	Choibalsan-Bulgan-Khelenbuir	residential	1	0	0	
+MN	2032595	Khulunbuir	residential	1	0	0	
+MN	2032596	Khashaat	tertiary	1	0	0	
+MN	2032596	Khashaat - Gurvanbulag	residential	1	0	0	
+MN	2032596	Khashaat - Kharkhorin	unclassified	1	0	0	
+MN	2032597	Bayankhutag - Undurkhaan	tertiary	1	0	0	
+MN	2032598	Их хэт зам	tertiary	1	0	0	
+MN	2032602	Zaamar	unclassified	1	0	0	
+MN	2032602	Заамар - Халзангын даваа	unclassified	1	0	0	
+MN	2032602	Мондулаан - Заамар	tertiary	1	0	0	
+MN	2032614	7 худаг - Баруун-Урт	unclassified	1	0	0	
+MN	2032614	Baruun-Urt-Asgat	primary	1	0	0	
+MN	2032614	Baruun-Urt-Dariganga	primary	1	0	0	
+MN	2032614	Choibalsan - Baruun-Urt - Tsairt Чойбалсан - Баруун-урт - Цайрт	primary	1	0	0	
+MN	2032614	Tumentsogt - Baruun Urt	secondary	1	0	0	
+MN	2032614	Боловсролын гудамж	residential	1	0	0	Education Street
+MN	2032767	Tarialan - Ikh-Uul	unclassified	1	0	0	
+MN	2032786	Chinges khaanii kheshee / Ikh Aarug / Museum	unclassified	1	0	0	
+MN	2032786	Jargaltkhaan - Delgerkhaan	unclassified	1	0	0	
+MN	2032786	Kherlenbayan Ulaan - Delgerkhaan	unclassified	1	0	0	
+MN	2032814	баг		2	5	5	
+MN	2032814	Arvaikheer-Zuunbayan-Ulaan	residential	1	0	0	
+MN	2032814	Рэнчинпэлжээгийн гудамж	tertiary	1	0	0	Renchinpelje Street
+MN	2032814	Төв зам	tertiary	1	0	0	
+MN	2032850	Bayankhangai - Uvurjanchivlan	unclassified	1	0	0	
+MN	2032857	Gunnariin - Guchin-Us	unclassified	1	0	0	
+MN	2032860	Bayanjargalan-Choir	tertiary	1	0	0	
+MN	2032871	Bayantsogt - Argalant	unclassified	1	0	0	
+MN	2032899	Lun - Ugtaaltsaidam	tertiary	1	0	0	
+MN	2032956	Battsengel-Tsetserleg	tertiary	1	0	0	
+MN	2032956	Khairkhan - Tsenkher	tertiary	1	0	0	
+MN	2032956	Tsenkher	tertiary	1	0	0	
+MN	2032956	Батцэнгэл - Цэцэрлэг	unclassified	1	0	0	
+MN	2032960	улица Сухэ-Батора	residential	7	13	41	
+MN	2032961	Bayan-Unjuul	unclassified	1	0	0	
+MN	2032961	Buren-Ulaanbaatar	residential	1	0	0	
+MN	2032961	Улаанбаатар - Бүрэн	tertiary	1	0	0	Buren - Ulaan Baatar
+MN	6618718	Airag - Bor Undur	tertiary	1	0	0	
+MN	6618718	Ikh toirog	tertiary	1	0	0	
+MN	6618718	Бага тойрог	residential	1	0	0	
+MN	6618718	Бор-Өндөр - Дархан	tertiary	1	0	0	Bor Undur - Choir
+MN	6988118	Rashaant - Sweet Gobi	unclassified	1	0	0	
+MN	6988118	Tara Lake - Sweet Gobi	unclassified	1	0	0	
+MN	6997293	Халхгол - Буйр нуур	unclassified	1	0	0	
+MN	6997320	Ch.Ankhbayarin zam	unclassified	1	0	0	
+MN	6997320	Ч.Анхбаярын зам	residential	1	0	0	
+MN	6997380	Зуунмод - Ээж хад	unclassified	1	0	0	
+MN	7648817	tsengeldekh 3	residential	6	301	310	
+MN	7648817	Zuunmod -Eej khad	tertiary	1	0	0	
+MN	7648817	Zuunmod to Airport	tertiary	1	0	0	
+MN	7648817	Зуунмод -Идж хад	tertiary	1	0	0	
+MN	7648817	Зуунмод -ээж хад	unclassified	1	0	0	
+MN	7648891	Khashaat - Kharkhorin	tertiary	1	0	0	
+MN	7648891	Khotont - Kharkhorin	tertiary	1	0	0	
+MN	7648891	Tevkhen khiid	tertiary	1	0	0	
+MN	7648891	Tövkhön khiid	tertiary	1	0	0	
+MN	8468638	Төмөр замчдын гудамж	secondary	6	110	116	

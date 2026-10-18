@@ -1,0 +1,394 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+PF	4033077	Route de Ceinture	secondary	5	1	4	
+PF	4033077	Chemin de Servitude	residential	1	0	0	
+PF	4033077	Market	pedestrian	1	0	0	
+PF	4033094	Servitude TEIRIIRI 1	residential	8	52	161	
+PF	4033094	Route de Teahupo’o	primary	3	1221	1341	
+PF	4033094	PK 8,2 coté montagne		2	130	130	
+PF	4033094	Servitude TEFANATAUROA FARE AITO 4	residential	2	53	55	
+PF	4033094	5635	residential	1	0	0	
+PF	4033094	AORA APETAHI	residential	1	0	0	
+PF	4033094	AOREA TAINA	residential	1	0	0	
+PF	4033094	AOREA TIPANIE	residential	1	0	0	
+PF	4033094	Aroa TUAVA1 & 2	residential	1	0	0	
+PF	4033094	Avenue des Îles	tertiary	1	0	0	
+PF	4033094	Dorsale de Afaahiti	secondary	1	0	0	
+PF	4033094	FARE AITOS 4	residential	1	0	0	
+PF	4033205	Afaa Faafau	residential	1	0	0	
+PF	4033205	Ara Faafau 1	residential	1	0	0	
+PF	4033205	Ara Tenape 1a	residential	1	0	0	
+PF	4033205	Ara Tenape 6a	residential	1	0	0	
+PF	4033205	Ara Tenape 6b	residential	1	0	0	
+PF	4033205	Aratia Mane	residential	1	0	0	
+PF	4033205	Arati’a Faafau 1	residential	1	0	0	
+PF	4033205	Arati’a Faafau 10	residential	1	0	0	
+PF	4033205	Arati’a Faafau 11	residential	1	0	0	
+PF	4033205	Arati’a Faafau 2	residential	1	0	0	
+PF	4033205	Arati’a Faafau 4	residential	1	0	0	
+PF	4033205	Arati’a Faafau 5	residential	1	0	0	
+PF	4033295	Servitude MAIAI ATIHAU UTA 1	residential	4	83	171	
+PF	4033295	Servitude MAIAI ATIHAU UTA 2	residential	3	16	51	
+PF	4033295	Route du Plateau MAIAI ATIHAU-UTA	residential	2	68	250	
+PF	4033295	4997 - Domaine TOAHOTU	residential	1	0	0	
+PF	4033295	ANANAS 5	residential	1	0	0	
+PF	4033295	ANANAS 6	residential	1	0	0	
+PF	4033295	Allée des COCOTIERS	residential	1	0	0	
+PF	4033295	Allée des GARDENIAS	residential	1	0	0	
+PF	4033295	Allée des GOYAVIERS	residential	1	0	0	
+PF	4033295	Allée des IMMORTELLES	residential	1	0	0	
+PF	4033295	Allée des MANGUIERS	residential	1	0	0	
+PF	4033295	Allée des ORCHIDEES	residential	1	0	0	
+PF	4033356	Route Ceinture l’Est	primary	1	0	0	
+PF	4033356	Route des 3 Cascades	residential	1	0	0	
+PF	4033356	Servitude Pipinui	residential	1	0	0	
+PF	4033356	Servitude Tahuaitiare	residential	1	0	0	
+PF	4033375	Afaa Farepuhia	residential	1	0	0	
+PF	4033375	Afaa Opunu	residential	1	0	0	
+PF	4033375	Afaa Outumaoroa	residential	1	0	0	
+PF	4033375	Afaa Tepuhapa O Faita	residential	1	0	0	
+PF	4033375	Afaa Terototupee	residential	1	0	0	
+PF	4033375	Afaa Tetooroa	residential	1	0	0	
+PF	4033375	Afaa Vaiheruheru	residential	1	0	0	
+PF	4033375	Ara Atopa	residential	1	0	0	
+PF	4033375	Ara Maateumiumi	residential	1	0	0	
+PF	4033375	Ara Manuihi 1a	residential	1	0	0	
+PF	4033375	Ara Mapuhia A	residential	1	0	0	
+PF	4033375	Ara Mapuhia B	residential	1	0	0	
+PF	4033514	Route de ceinture	primary	1	0	0	
+PF	4033514	Résidence Tiaia	residential	1	0	0	
+PF	4033543	Route de Teahupo’o	primary	1	0	0	
+PF	4033557	474029	residential	1	0	0	
+PF	4033557	474047	residential	1	0	0	
+PF	4033566	Route de Ceinture Ouest	primary	1	0	0	
+PF	4033779	Servitude Tessier Pothier 2	residential	50	3	56	
+PF	4033779	Servitude Teissier Justin	residential	42	3	67	
+PF	4033779	Servitude Deligny 2	residential	38	4	69	
+PF	4033779	Route de Ceinture Ouest	primary	26	175	342	
+PF	4033779	Rte de Te Maruata	residential	2	0	0	
+PF	4033779	Aroa Aritia	residential	1	0	0	
+PF	4033779	Aroa Atitapu 1	residential	1	0	0	
+PF	4033779	Aroa Atitepua	residential	1	0	0	
+PF	4033779	Aroa Bennett 2	residential	1	0	0	
+PF	4033779	Aroa Bougues	residential	1	0	0	
+PF	4033779	Aroa Faaite	residential	1	0	0	
+PF	4033779	Aroa Farereira'a	residential	1	0	0	
+PF	4033779	Aroa Gisèle Sage	residential	1	0	0	
+PF	4033779	Aroa Hiro	residential	1	0	0	
+PF	4033779	Aroa Hopu	residential	1	0	0	
+PF	4033779	Aroa Jackson	residential	1	0	0	
+PF	4033779	Aroa Lori Teremate	residential	1	0	0	
+PF	4033779	Aroa Matatia 1	secondary	1	0	0	
+PF	4033779	Aroa Matatia 2	residential	1	0	0	
+PF	4033779	Aroa Matatia 4	residential	1	0	0	
+PF	4033779	Aroa Matatia 5	residential	1	0	0	
+PF	4033779	Aroa Matatia 6	residential	1	0	0	
+PF	4033779	Aroa Matatia 7	residential	1	0	0	
+PF	4033779	Aroa Rey 4	residential	1	0	0	
+PF	4033779	Aroa Roti	residential	1	0	0	
+PF	4033779	Aroa Stimson	residential	1	0	0	
+PF	4033779	Aroa Te Fare Manaha	residential	1	0	0	
+PF	4033779	Aroa Teiriiri Atehi	residential	1	0	0	
+PF	4033779	Aroa Tepuatea	residential	1	0	0	
+PF	4033779	Aroa Tiorai	residential	1	0	0	
+PF	4033779	Aros Jardonnet 2	residential	1	0	0	
+PF	4033779	Chemin de la vallée de la Matatia	residential	1	0	0	
+PF	4033779	Contre allée route des plaines	secondary	1	0	0	
+PF	4033779	Krause	residential	1	0	0	
+PF	4033779	Lot. Les Hauts de Matatia	residential	1	0	0	
+PF	4033779	Lot. Punavai Nui - Voie T	residential	1	0	0	
+PF	4033779	Lot. Vaiopu 1	residential	1	0	0	
+PF	4033779	Lot. Vaiopu 2 - Voie 1	residential	1	0	0	
+PF	4033779	Montée de Vaitavere	unclassified	1	0	0	
+PF	4033779	Mou Chi Youk	residential	1	0	0	
+PF	4033779	Punavai Plaine	primary	1	0	0	
+PF	4033779	Route de Jambolana	residential	1	0	0	
+PF	4033779	Route de la Pointe des Pecheurs	tertiary	1	0	0	
+PF	4033779	Route de la Pointe des Pecheurs (RT14)	residential	1	0	0	
+PF	4033779	Route des Plaines	secondary	1	0	0	
+PF	4033779	Route du Lot. Puna Iti	residential	1	0	0	
+PF	4033779	Rte de Punavai	secondary	1	0	0	
+PF	4033779	Rte de la propriété Teissier	residential	1	0	0	
+PF	4033792	473028	residential	1	0	0	
+PF	4033792	Acces SCI Mareva	residential	1	0	0	
+PF	4033792	Route de Tautira	primary	1	0	0	
+PF	4033838	Rue Tūtera'i Tāne	secondary	154	90	2659	
+PF	4033838	Rue Hamuta Plateau	residential	99	39	933	
+PF	4033838	Route des Aute Ho'e	residential	89	857	857	
+PF	4033838	Route Fare Rau Ape	secondary	80	135	1127	
+PF	4033838	Route Nahoata	residential	80	451	451	
+PF	4033838	Avenue Ari'ipaea Pōmare	primary	66	300	1490	
+PF	4033838	Rue Pirae Uta		66	11	26	
+PF	4033838	Rue Frédéric Gadiot	secondary	61	48	609	
+PF	4033838	Rue Anthony Bambridge	secondary	60	163	1433	
+PF	4033838	Rue Sarah Buchin		56	222	888	
+PF	4033838	Route des Aute	residential	55	56	1601	
+PF	4033838	Route de Vetea	residential	54	10	584	
+PF	4033838	Rue Fautaua Val		53	131	241	
+PF	4033838	Rue Hitiura	residential	53	16	196	
+PF	4033838	Rue Tematahi Temarii	residential	52	78	632	
+PF	4033838	Rue 'Āfareri'i	secondary	50	202	1012	
+PF	4033838	Rue Lagarde	residential	48	30	104	
+PF	4033838	Rue les Vini	residential	45	0	0	
+PF	4033838	Servitude Tuterai Tane		45	78	510	
+PF	4033838	Rue Paul Bernière	secondary	44	51	790	
+PF	4033838	Rue du Taaone	secondary	44	281	780	
+PF	4033838	Rue Côteaux de Hamuta	residential	43	0	0	
+PF	4033838	Route Vetea I		42	0	0	
+PF	4033838	Rue des Chalets de Pater	residential	41	200	508	
+PF	4033910	Résidence Tiahura	tertiary	6	7	67	
+PF	4033910	Hôtel Intercontinental Moorea Resort & Spa	residential	1	0	0	
+PF	4033910	Tropical Garden	residential	1	0	0	
+PF	4033936	Rue Paul Gauguin	tertiary	8	5	65	
+PF	4033936	Avenue de Sainte-Amélie	tertiary	6	37	43	
+PF	4033936	Avenue du Chef Vairaatoa	secondary	4	1	161	
+PF	4033936	Avenue du Commandant Destremau	primary	4	11	14	
+PF	4033936	Avenue Georges Clemenceau	primary	3	115	115	
+PF	4033936	Avenue du Commandant Chessé	secondary	3	1	122	
+PF	4033936	Rue Clappier	residential	3	17	23	
+PF	4033936	Avenue Georges Bambridge	tertiary	2	4	30	
+PF	4033936	Boulevard Hititai	secondary	2	8	127	
+PF	4033936	Rue Marcq de Blond de Saint-Hilaire	tertiary	2	63	76	
+PF	4033936	Rue Monseigneur Tepano Jaussen	residential	2	30	45	
+PF	4033936	Rue de Nansouty	tertiary	2	4	22	
+PF	4033936	Rue des Remparts	secondary	2	20	92	
+PF	4033936	Rue Édouard Ahnne	tertiary	2	16	16	
+PF	4033936	Acc. CPS	residential	1	0	0	
+PF	4033936	Allée Apetahi	residential	1	0	0	
+PF	4033936	Allée Aute	residential	1	0	0	
+PF	4033936	Allée Opuhi	residential	1	0	0	
+PF	4033936	Allée Taina	residential	1	0	0	
+PF	4033936	Allée Tiare	residential	1	0	0	
+PF	4033936	Aratia Nelson Mandela	primary	1	0	0	
+PF	4033936	Aroa Sanford	residential	1	0	0	
+PF	4033936	Aroā 5 nō Māti 1797	residential	1	0	0	
+PF	4033936	Aroā Nui Pouvāna'a a 'Ō'opa	primary	1	0	0	
+PF	4033936	Av. de Sainte Amélie	tertiary	1	0	0	
+PF	4033936	Av. de Tipaerui	residential	1	0	0	
+PF	4033936	Av. du maréchal Foch	primary	1	0	0	
+PF	4033936	Avenue Georges Clémenceau	primary	1	0	0	
+PF	4033936	Avenue Pierre Loti	secondary	1	0	0	
+PF	4033936	Avenue Pouvanaa a Oopa	secondary	1	0	0	
+PF	4033936	Avenue Pōmare V	secondary	1	0	0	
+PF	4033936	Avenue des Poilus Tahitiens	secondary	1	0	0	
+PF	4033936	Avenue du Maréchal Foch	primary	1	0	0	
+PF	4033936	Avenue du Prince Hīnoi	primary	1	0	0	
+PF	4033936	Bd. de la Reine Pomare IV	primary	1	0	0	
+PF	4033936	Boulevard de la Reine Pomare IV	primary	1	0	0	
+PF	4033936	Ch. Dupont	residential	1	0	0	
+PF	4033936	Chemin Benjamin Juventin	residential	1	0	0	
+PF	4033936	Esplanade Jacques Chirac	pedestrian	1	0	0	
+PF	4033936	Fara ata	residential	1	0	0	
+PF	4033936	Imp. Aratia	residential	1	0	0	
+PF	4033936	Imp. Du Bon Pasteur	residential	1	0	0	
+PF	4033936	Imp. Excelsior	residential	1	0	0	
+PF	4033936	Imp. Morvan	residential	1	0	0	
+PF	4033936	Imp. Papeava	residential	1	0	0	
+PF	4033936	Imp. Pureora 1	residential	1	0	0	
+PF	4033936	Imp. Pureora 2	residential	1	0	0	
+PF	4033936	Imp. Pureora 3	residential	1	0	0	
+PF	4033951	340003	residential	1	0	0	
+PF	4033951	340015	residential	1	0	0	
+PF	4033951	340041	residential	1	0	0	
+PF	4033951	340047	residential	1	0	0	
+PF	4033951	340052	residential	1	0	0	
+PF	4033951	340073	residential	1	0	0	
+PF	4033951	340074	residential	1	0	0	
+PF	4033951	340077	residential	1	0	0	
+PF	4033951	340084	residential	1	0	0	
+PF	4033951	340098	residential	1	0	0	
+PF	4033951	340101	residential	1	0	0	
+PF	4033951	340114	residential	1	0	0	
+PF	4033951	Ch. Tepaniuru 2	residential	1	0	0	
+PF	4033951	Lotissement Puhana, Voie 1	residential	1	0	0	
+PF	4033951	Lottissement peretuna	residential	1	0	0	
+PF	4033951	Route de Ceinture Ouest	primary	1	0	0	
+PF	4033951	SERVITUDE Pied G2	residential	1	0	0	
+PF	4033951	Servitude 137, Voie 17, Allée 1	residential	1	0	0	
+PF	4033951	Servitude 210	residential	1	0	0	
+PF	4033951	Servitude 222	residential	1	0	0	
+PF	4033951	Servitude 243	residential	1	0	0	
+PF	4033951	Servitude 253	residential	1	0	0	
+PF	4033951	Servitude 263	residential	1	0	0	
+PF	4033951	Servitude 263, Voie 1	residential	1	0	0	
+PF	4033958	Route de ceinture	primary	2	0	0	
+PF	4033958	Circuit des Ananas	tertiary	1	0	0	
+PF	4033958	Route Rotui	tertiary	1	0	0	
+PF	4033958	Route des Ananas	secondary	1	0	0	
+PF	4033958	Route du Belvédère	unclassified	1	0	0	
+PF	4034005	Rte du Marae Arahurahu	residential	2	17	18	
+PF	4034005	APUARII	residential	1	0	0	
+PF	4034005	Allée 1	residential	1	0	0	
+PF	4034005	Allée 3	residential	1	0	0	
+PF	4034005	Ch. de la vallée de Papehue	tertiary	1	0	0	
+PF	4034005	LOTISSEMENT Baldwin	residential	1	0	0	
+PF	4034005	LOTISSEMENT Vaiterupe	residential	1	0	0	
+PF	4034005	LOTISSEMENT Vaiterupe, Voie 1, Allée 1	residential	1	0	0	
+PF	4034005	LOTISSEMENT Vaiterupe, Voie 4, Allée 2	residential	1	0	0	
+PF	4034005	Lot. Chapman	residential	1	0	0	
+PF	4034005	Lot. Tehauparu	residential	1	0	0	
+PF	4034005	Lot. Tehauparu, Voie 1	residential	1	0	0	
+PF	4034005	Lot. Vaiterupe	residential	1	0	0	
+PF	4034005	Lotissement / Vallée Vaitupa	residential	1	0	0	
+PF	4034005	Lotissement Montaron	residential	1	0	0	
+PF	4034005	Lotissement Seigneur	residential	1	0	0	
+PF	4034005	Lotissement Vaitiare 2	residential	1	0	0	
+PF	4034005	Quartier FAREREA/ LOTISSEMENT VAITIARE 1	residential	1	0	0	
+PF	4034005	Quartier FAREREA/ LOTISSEMENT VAITIARE 1, Voie 2	residential	1	0	0	
+PF	4034005	ROUTE DU CIMETIERE, Voie 1	residential	1	0	0	
+PF	4034005	Route du CJA	residential	1	0	0	
+PF	4034005	Route du CJA, Voie 1	residential	1	0	0	
+PF	4034005	Route du Marae ARAHURAHU	residential	1	0	0	
+PF	4034005	Route du Marae ARAHURAHU, Voie 2	residential	1	0	0	
+PF	4034022	340135	residential	1	0	0	
+PF	4034022	340152	residential	1	0	0	
+PF	4034022	340154	residential	1	0	0	
+PF	4034022	340158	residential	1	0	0	
+PF	4034022	NREV	residential	1	0	0	
+PF	4034022	Route de Ceinture Ouest	primary	1	0	0	
+PF	4034307	Rue Vahinetua	residential	6	60	65	
+PF	4034307	Rue TITITI'A	residential	4	10	14	
+PF	4034307	Route Ceinture Est		3	1	1	
+PF	4034307	250443	residential	1	0	0	
+PF	4034307	Accès élevage	residential	1	0	0	
+PF	4034307	Allée Toparaa Mahana	residential	1	0	0	
+PF	4034307	Allée des Bougainvillées	residential	1	0	0	
+PF	4034307	Allée des Lychees	residential	1	0	0	
+PF	4034307	Allée des Manguiers	residential	1	0	0	
+PF	4034307	Allée des Pins	residential	1	0	0	
+PF	4034307	Allée des Vanilliers	residential	1	0	0	
+PF	4034307	Ancienne route de Mahinarama	residential	1	0	0	
+PF	4034307	Avenue Orohena	secondary	1	0	0	
+PF	4034307	Avenue du 'Orohena	secondary	1	0	0	
+PF	4034307	Hitira'a Mahana	residential	1	0	0	
+PF	4034307	Impasse Areiti	residential	1	0	0	
+PF	4034307	Impasse Maeva	residential	1	0	0	
+PF	4034307	Impasse Maraamu	residential	1	0	0	
+PF	4034307	Impasse Raimoana	residential	1	0	0	
+PF	4034307	Impasse Ririavai	residential	1	0	0	
+PF	4034307	Impasse du Diadème	residential	1	0	0	
+PF	4034307	Route Ceinture l’Est	primary	1	0	0	
+PF	4034307	Route Opaerahi	residential	1	0	0	
+PF	4034307	Route de Mahinarama	secondary	1	0	0	
+PF	4034320	Route Ceinture l’Est	primary	1	0	0	
+PF	4034320	Servitude Tefaratu	residential	1	0	0	
+PF	4034320	Voie Lotissement Te Aito	residential	1	0	0	
+PF	4034402	221009	residential	1	0	0	
+PF	4034402	Route Ceinture l’Est	primary	1	0	0	
+PF	4034434	Anini	unclassified	1	0	0	
+PF	4034434	Pont de Maroe	primary	1	0	0	
+PF	4034438	Mou’aroa Farm	unclassified	1	0	0	
+PF	4034496	Marae Manunu	residential	1	0	0	
+PF	4034548	221052	residential	1	0	0	
+PF	4034548	472005	residential	1	0	0	
+PF	4034548	472006	residential	1	0	0	
+PF	4034548	472007	residential	1	0	0	
+PF	4034548	Route Ceinture l’Est	primary	1	0	0	
+PF	4034551	Route de Ceinture	secondary	1	0	0	
+PF	4034561	10ème avenue	residential	1	0	0	
+PF	4034561	11ème avenue	residential	1	0	0	
+PF	4034561	12ème avenue	residential	1	0	0	
+PF	4034561	13ème avenue	residential	1	0	0	
+PF	4034561	14ème avenue	residential	1	0	0	
+PF	4034561	150385	tertiary	1	0	0	
+PF	4034561	16ème avenue	residential	1	0	0	
+PF	4034561	1ère avenue	residential	1	0	0	
+PF	4034561	2ème avenue	residential	1	0	0	
+PF	4034561	3ème avenue	residential	1	0	0	
+PF	4034561	4ème avenue	residential	1	0	0	
+PF	4034561	5ème avenue	residential	1	0	0	
+PF	4034561	6ème avenue	residential	1	0	0	
+PF	4034561	7ème avenue	residential	1	0	0	
+PF	4034561	8ème avenue	residential	1	0	0	
+PF	4034561	9ème avenue	residential	1	0	0	
+PF	4034561	Allée Arbelot (Aroaa Arbelot)	residential	1	0	0	
+PF	4034561	Allée Itaetae	residential	1	0	0	
+PF	4034561	Allée Kaveka	residential	1	0	0	
+PF	4034561	Allée Kikiriri	residential	1	0	0	
+PF	4034561	Allée Maire	residential	1	0	0	
+PF	4034561	Allée Meho	residential	1	0	0	
+PF	4034561	Allée Noha	residential	1	0	0	
+PF	4034561	Allée Ope'a	residential	1	0	0	
+PF	4034561	Allée Otu'u	residential	1	0	0	
+PF	4034561	Allée Pitate	residential	1	0	0	
+PF	4034561	Allée Ruro	residential	1	0	0	
+PF	4034561	Allée Tarapara	residential	1	0	0	
+PF	4034561	Allée Torea	residential	1	0	0	
+PF	4034561	Allée U'upa	residential	1	0	0	
+PF	4034561	Allée Uriri	residential	1	0	0	
+PF	4034561	Allée Vini	residential	1	0	0	
+PF	4034561	Allée des Anthoriums	residential	1	0	0	
+PF	4034561	Allée des Aute	residential	1	0	0	
+PF	4034561	Allée des Bougainvillées	residential	1	0	0	
+PF	4034561	Allée des Fara	residential	1	0	0	
+PF	4034561	Allée des Lauriers	residential	1	0	0	
+PF	4034561	Allée des Lotus	residential	1	0	0	
+PF	4034561	Allée des Maire	residential	1	0	0	
+PF	4034561	Allée des Roses	residential	1	0	0	
+PF	4034561	Allée des Tiare	residential	1	0	0	
+PF	4034561	Allée des Tipaniers	residential	1	0	0	
+PF	4034561	Aratia Aeroport	residential	1	0	0	
+PF	4034561	Aratia Ariininito Tepau a Tati	tertiary	1	0	0	
+PF	4034561	Aratia Ariininito a mai	tertiary	1	0	0	
+PF	4034561	Aratia Cité de l'Air	residential	1	0	0	
+PF	4034561	Aratia Collège Henri Hiro	residential	1	0	0	
+PF	4034561	Aratia Matarearea	secondary	1	0	0	
+PF	4034590	Boulevard Principal	secondary	1	0	0	
+PF	4034636	Servitude Vaiata	residential	2	1	1	
+PF	4034636	rue Puo'oro	residential	2	19	19	
+PF	4034636	Allée des Opuhi	residential	1	0	0	
+PF	4034636	Allée des Taina	residential	1	0	0	
+PF	4034636	Avenue Auti	residential	1	0	0	
+PF	4034636	Avenue Charles de Gaulle	primary	1	0	0	
+PF	4034636	Avenue Erima	secondary	1	0	0	
+PF	4034636	Bonno C	residential	1	0	0	
+PF	4034636	Ch. de l'Hippodrome	residential	1	0	0	
+PF	4034636	Chemin Cadousteau	residential	1	0	0	
+PF	4034636	Chemin César Benacek	residential	1	0	0	
+PF	4034636	Chemin Hélène Garbutt	residential	1	0	0	
+PF	4034636	Chemin Mututua Piti	residential	1	0	0	
+PF	4034636	Chemin Raihauti a Terearo I	residential	1	0	0	
+PF	4034636	Chemin Raihauti a Terearo II	residential	1	0	0	
+PF	4034636	Chemin Teano Pihatarioe	residential	1	0	0	
+PF	4034636	Chemin Tetianina	residential	1	0	0	
+PF	4034636	Erima A	residential	1	0	0	
+PF	4034636	Imp. Aeho	residential	1	0	0	
+PF	4034636	Imp. Ahia	residential	1	0	0	
+PF	4034636	Imp. Aito	residential	1	0	0	
+PF	4034636	Imp. Anina	residential	1	0	0	
+PF	4034636	Imp. Auteraa	residential	1	0	0	
+PF	4034636	Imp. Fei	residential	1	0	0	
+PF	4034688	Route de Ceinture	secondary	1	0	0	
+PF	4034688	St Regis Quay	pedestrian	1	0	0	
+PF	4034741	Accès Marina Vaiare	residential	1	0	0	
+PF	4034745	Faaone		2	0	0	
+PF	4034745	Route KIA ORA 3	residential	2	0	0	
+PF	4034745	Taravao Centre		2	0	0	
+PF	4034745	471082	residential	1	0	0	
+PF	4034745	471086	residential	1	0	0	
+PF	4034745	482009	residential	1	0	0	
+PF	4034745	482034	residential	1	0	0	
+PF	4034745	482140	residential	1	0	0	
+PF	4034745	Allee des ACACIAS	residential	1	0	0	
+PF	4034745	Allée des AUTI	residential	1	0	0	
+PF	4034745	Route Ceinture l’Est	primary	1	0	0	
+PF	4034745	Route de Ceinture Ouest	primary	1	0	0	
+PF	4034745	Route de Tautira	primary	1	0	0	
+PF	4034745	Route de Teahupo’o	primary	1	0	0	
+PF	4034745	Servitude Edith Vivish 2	residential	1	0	0	
+PF	4034745	Servitude Lotissement NORDHORF	residential	1	0	0	
+PF	4034745	Voie A	residential	1	0	0	
+PF	8063344	Hoata		2	292	292	
+PF	8063344	Route de Taipivai à Taiohae	primary	1	0	0	
+PF	8063344	Route de l'Aéroport	primary	1	0	0	
+PF	8554431	Afaa Moai	residential	1	0	0	
+PF	8554431	Afaa Mutuature	residential	1	0	0	
+PF	8554431	Afaa Punapiti	residential	1	0	0	
+PF	8554431	Afaa Tetoai - Papahiaroa	residential	1	0	0	
+PF	8554431	Ara Mutuature A	residential	1	0	0	
+PF	8554431	Ara Punapiti	residential	1	0	0	
+PF	8554431	Ara Tiaraaotehei	residential	1	0	0	
+PF	8554431	Ara Tohore	residential	1	0	0	
+PF	8554431	Ara Varuatahi	residential	1	0	0	
+PF	8554431	Arati’a Aehau 1	residential	1	0	0	
+PF	8554431	Arati’a Aehau 2	residential	1	0	0	
+PF	8554431	Arati’a Ereeo	residential	1	0	0	

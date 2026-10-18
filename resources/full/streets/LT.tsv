@@ -1,0 +1,4012 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+LT	592778	Kauno g.	secondary	109	6	111	
+LT	592778	Vytauto g.	secondary	77	6	68	
+LT	592778	Žaslių g.	secondary	77	5	73	
+LT	592778	Vilniaus g.	secondary	73	5	76	
+LT	592778	Strėvos g.	secondary	69	4	74	
+LT	592778	Žiedo g.	residential	53	2	28	
+LT	592778	Mokyklos g.	secondary	51	3	55	
+LT	592778	Statybininkų g.	residential	50	2	78	
+LT	592778	Sodų g.	residential	48	2	42	
+LT	592778	Antakalnio g.	secondary	41	3	36	
+LT	592778	Pastrėvio g.	secondary	40	1	30	
+LT	592778	Tulpių g.	residential	34	3	35	
+LT	592828	Sodų g.	secondary	104	3	42	
+LT	592828	Klaipėdos g.	primary	81	3	76	
+LT	592828	Laisvės g.	secondary	65	2	78	
+LT	592828	Dariaus ir Girėno g.	primary	43	2	50	
+LT	592828	Lendros 2-asis tak.		41	2	41	
+LT	592828	Vytauto g.	unclassified	41	5	42	
+LT	592828	Plaškuoto g.	secondary	38	2	38	
+LT	592828	Liepų g.	residential	37	1	16	
+LT	592828	Pievų g.	residential	34	1	31	
+LT	592828	Mirglono g.	secondary	32	2	37	
+LT	592828	Pergalės a.	residential	32	1	27	
+LT	592828	Birutės g.	residential	31	3	31	
+LT	592891	Kauno g.		111	6	80	
+LT	592891	Vytauto g.		96	1	69	
+LT	592891	Tiesioji g.	living_street	95	5	113	
+LT	592891	Šaltupės g.	primary	83	4	64	
+LT	592891	Vilniaus g.	residential	80	3	73	
+LT	592891	Malūno g.	residential	79	3	85	
+LT	592891	Šiaulių g.	primary	78	2	52	
+LT	592891	Dariaus ir Girėno g.	residential	75	1	59	
+LT	592891	K. Donelaičio g.	residential	75	2	76	
+LT	592891	Ežero g.	residential	71	2	59	
+LT	592891	Žemaitės g.	residential	69	6	77	
+LT	592891	Juozo Gruodžio g.	unclassified	67	5	98	
+LT	592891	Turmanto g.	primary	63	2	69	
+LT	592891	Piliakalnio g.	unclassified	59	4	63	
+LT	592891	Ilgoji g.	residential	56	3	61	
+LT	592891	K. Būgos g.	residential	48	4	43	
+LT	592891	Savanorių g.	residential	44	2	48	
+LT	592891	Pušyno g.	living_street	43	2	22	
+LT	592891	Šilo g.	unclassified	43	2	39	
+LT	592891	S. Nėries g.	residential	40	2	55	
+LT	592891	Valstiečių g.	residential	37	2	33	
+LT	592891	Palaukės g.	residential	35	4	40	
+LT	592891	Saulėtekio g.	residential	34	2	35	
+LT	592891	Birutės g.	unclassified	33	2	38	
+LT	592942	Sodų g.	secondary	120	4	106	
+LT	592942	P. Cvirkos g.	primary	109	9	129	
+LT	592942	Kęstučio g.	primary	99	2	93	
+LT	592942	Vilniaus g.	secondary	66	3	60	
+LT	592942	Žagarės g.	unclassified	58	3	52	
+LT	592942	Seno Ąžuolo g.	residential	53	3	49	
+LT	592942	Dariaus ir Girėno g.	residential	51	3	53	
+LT	592942	Raktuvės g.	residential	51	2	46	
+LT	592942	Sodžiaus g.	residential	51	3	52	
+LT	592942	Lauko g.	residential	49	1	32	
+LT	592942	Miesto a.	secondary	43	2	39	
+LT	592942	Aušros g.	secondary	41	2	41	
+LT	593063	Taikos pr.	primary	127	4	80	
+LT	593063	Magūnų g.	residential	109	3	82	
+LT	593063	Gulbinio g.	unclassified	104	3	108	
+LT	593063	Gaidės g.	unclassified	102	6	98	
+LT	593063	Petriškės g.	residential	77	2	77	
+LT	593063	Žiedo g.	residential	70	2	40	
+LT	593063	Elektrinės g.	residential	68	1	18	
+LT	593063	Energetikų g.	secondary	65	2	66	
+LT	593063	Upelio g.	residential	63	2	30	
+LT	593063	Sedulinos al.	pedestrian	62	4	75	
+LT	593063	Skryto g.	residential	59	2	45	
+LT	593063	Latgalių g.	residential	58	3	72	
+LT	593063	Saulės g.	residential	57	2	32	
+LT	593063	Lapušiškės g.	unclassified	56	4	68	
+LT	593063	Patrimpo g.	residential	56	3	58	
+LT	593063	Apvardų g.	residential	52	3	39	
+LT	593063	Drūkšių g.	residential	52	2	48	
+LT	593063	Aušrinės g.	residential	51	3	53	
+LT	593063	Gulbinės g.		51	3	66	
+LT	593063	Saulėtekio g.	residential	51	3	69	
+LT	593063	Dūkšto g.	residential	49	3	51	
+LT	593063	Perkūno g.	residential	48	3	47	
+LT	593063	Kukuižės g.	residential	47	3	46	
+LT	593063	Miško g.	residential	44	1	32	
+LT	593063	Krivių g.	residential	42	4	48	
+LT	593063	Kriaušių g.	residential	41	3	45	
+LT	593063	Parko g.	tertiary	41	2	21	
+LT	593063	Visagino g.	pedestrian	41	5	27	
+LT	593063	Šaltinio g.	residential	41	2	34	
+LT	593063	Dūkšto kel.	primary	40	2	98	
+LT	593063	Ryto g.	residential	40	1	24	
+LT	593063	Ežero g.	residential	39	1	20	
+LT	593063	Aušros g.	residential	37	2	29	
+LT	593063	Pamiškės g.	residential	37	1	29	
+LT	593063	Eglių g.	residential	36	2	47	
+LT	593063	Eglinio g.	unclassified	35	2	26	
+LT	593063	Babrūšos g.	residential	34	2	48	
+LT	593063	Ąžuolų g.	residential	34	2	35	
+LT	593063	Dvaro g.	unclassified	33	2	33	
+LT	593063	Rasos g.	residential	33	1	21	
+LT	593063	Tumelinos g.	unclassified	33	1	36	
+LT	593063	Vyšnių g.	residential	32	2	40	
+LT	593063	Laimės g.	residential	31	2	32	
+LT	593063	Lanko g.	residential	31	2	23	
+LT	593063	Vilties g.	residential	31	1	23	
+LT	593063	Draugystės g.	residential	29	3	29	
+LT	593063	Pušų g.	residential	29	2	32	
+LT	593063	Veteranų g.	tertiary	29	2	20	
+LT	593086	Vilniaus g.		62	3	56	
+LT	593086	Smėlio g.	residential	32	1	44	
+LT	593086	Beržų g.	residential	31	1	20	
+LT	593086	Kauno g.	secondary	30	1	30	
+LT	593086	Rytų g.	residential	30	1	25	
+LT	593086	Vyšnių g.		30	2	31	
+LT	593086	Gedimino g.	residential	29	2	35	
+LT	593086	Vištyčio g.	residential	23	2	21	
+LT	593086	Žalgirio g.	residential	23	1	22	
+LT	593086	Laisvės g.	residential	22	1	14	
+LT	593086	Maironio g.	residential	22	2	19	
+LT	593086	Saulės g.	residential	22	2	23	
+LT	593116	Žirmūnų g.	primary	610	2	137	
+LT	593116	Kalvarijų g.	primary	557	9	241	
+LT	593116	Kryžiokų g.		478	51	330	
+LT	593116	Savanorių pr.	primary	370	1	220	
+LT	593116	Taikos g.		345	4	253	
+LT	593116	Kolektyvo g.	living_street	314	8	256	
+LT	593116	Antakalnio g.	primary	304	21	98	
+LT	593116	Verkių g.	secondary	284	9	125	
+LT	593116	Ukmergės g.		275	137	369	
+LT	593116	Liepkalnio g.	primary	259	7	196	
+LT	593116	Šumsko g.	unclassified	253	10	360	
+LT	593116	Kryžiokų Sodų 9-oji g.		249	10	244	
+LT	593116	Laisvės pr.	primary	245	8	125	
+LT	593116	Gedimino pr.	secondary	242	2	60	
+LT	593116	A. Kojelavičiaus g.	unclassified	239	10	304	
+LT	593116	Architektų g.	tertiary	236	11	210	
+LT	593116	Jaunystės g.		228	11	163	
+LT	593116	Zubiškių g.		227	25	311	
+LT	593116	Europos Parko g.		226	21	246	
+LT	593116	Juodasis kel.	primary	225	20	104	
+LT	593116	Nemenčinės pl.	primary	216	2	194	
+LT	593116	Riovonių g.	residential	193	2	91	
+LT	593116	Justiniškių g.	secondary	184	14	144	
+LT	593116	Barsukynės g.	residential	179	4	57	
+LT	593116	Pramonės g.		178	10	205	
+LT	593116	Kriaučiūnų g.		175	2	77	
+LT	593116	Džiaugsmo g.	tertiary	174	13	176	
+LT	593116	Ozo g.	primary	171	6	30	
+LT	593116	Kryžiokų Sodų 2-oji g.		166	8	260	
+LT	593116	Versmių g.	residential	161	3	139	
+LT	593116	Grendavės g.		159	8	163	
+LT	593116	Didlaukio g.	tertiary	157	8	86	
+LT	593116	Dusinėnų g.		157	11	172	
+LT	593116	S. Šilingo g.	residential	156	11	143	
+LT	593116	Vėjo g.		154	9	205	
+LT	593116	Dariaus ir Girėno g.	primary	153	2	177	
+LT	593116	S. Stanevičiaus g.	secondary	152	4	96	
+LT	593116	Valonų g.	residential	151	3	32	
+LT	593116	Žirgo g.	residential	151	3	131	
+LT	593116	Naugarduko g.	secondary	150	7	99	
+LT	593116	Pylimo g.	primary	149	6	61	
+LT	593116	Žaliųjų Ežerų g.	secondary	149	5	260	
+LT	593116	Gvazdikų g.		147	18	197	
+LT	593116	Ožkinių g.		146	14	119	
+LT	593116	Sakališkių g.		143	6	165	
+LT	593116	Palydovo g.		142	8	143	
+LT	593116	Kryžiokų Sodų 6-oji g.		141	7	144	
+LT	593116	Žemoji g.	residential	140	7	156	
+LT	593116	Gelvonų g.	secondary	139	2	64	
+LT	593116	Kaimynų g.	residential	139	5	206	
+LT	593116	Užusienio g.	residential	139	3	128	
+LT	593116	Santariškių g.	secondary	136	2	111	
+LT	593116	Liudvinavo g.		135	9	127	
+LT	593116	Naujasodžio g.		135	4	91	
+LT	593116	Pupų g.	residential	131	2	170	
+LT	593116	Dituvos g.		130	8	88	
+LT	593116	Fabijoniškių g.	tertiary	130	2	96	
+LT	593116	Drevininkų g.		129	6	135	
+LT	593116	Viršuliškių g.	secondary	127	9	99	
+LT	593116	Subačiaus g.	secondary	126	6	135	
+LT	593116	Pagubės Sodų 10-oji g.		125	8	169	
+LT	593116	Paluknio g.		125	2	93	
+LT	593116	Raudonės g.		124	5	116	
+LT	593116	Skersinės g.		123	9	68	
+LT	593116	Ateities g.	primary	122	2	91	
+LT	593116	K. Bizausko g.	tertiary	121	3	119	
+LT	593116	Eišiškių pl.	primary	120	5	231	
+LT	593116	Filaretų g.	residential	120	6	111	
+LT	593116	Kryžiokų Sodų 8-oji g.		120	6	140	
+LT	593116	Kalno g.	residential	119	2	135	
+LT	593116	Kryžiokų Sodų 12-oji g.		119	7	180	
+LT	593116	Vorupės g.		118	8	85	
+LT	593116	Buivydiškių g.	secondary	117	3	68	
+LT	593116	Krakiškių Sodų 15-oji g.		117	5	109	
+LT	593116	J. Tiškevičiaus g.		116	3	167	
+LT	593116	S. Lozoraičio g.	residential	116	4	141	
+LT	593116	Salininkų g.	secondary	116	13	235	
+LT	593116	Sodų g.	residential	116	3	38	
+LT	593116	M. K. Čiurlionio g.	residential	115	5	110	
+LT	593116	Vilniaus g.	secondary	112	4	45	
+LT	593116	Giedraičių g.	residential	111	9	96	
+LT	593116	Rukainių g.	residential	111	11	183	
+LT	593116	Stepono Batoro g.	primary	111	4	154	
+LT	593116	Lyvių g.	residential	110	2	55	
+LT	593116	Sirpučių g.		110	3	106	
+LT	593116	Šeškinės g.		110	6	69	
+LT	593116	Švitrigailos g.	primary	109	2	40	
+LT	593116	Bliuzo g.		108	15	211	
+LT	593116	Kiaunių g.		108	5	73	
+LT	593116	Karačiūnų g.		107	4	63	
+LT	593116	Mozūriškių g.		107	15	240	
+LT	593116	Šiaurės Sodų 4-oji g.		107	6	101	
+LT	593116	Ateities Sodų 4-oji g.		106	5	104	
+LT	593116	J. Basanavičiaus g.	secondary	106	2	49	
+LT	593116	Mileišiškių g.	residential	106	9	99	
+LT	593116	Gulbinėlių g.		105	10	147	
+LT	593116	Tuskulėnų g.	primary	105	2	66	
+LT	593116	Balsių Sodų 1-oji g.		104	7	124	
+LT	593116	Kelmijos Sodų 34-oji g.		104	5	99	
+LT	593116	Lautės g.		103	39	104	
+LT	593116	Nugalėtojų g.	residential	103	1	39	
+LT	593116	Pylimėlių g.	residential	103	5	58	
+LT	593116	S. Grunau g.	residential	103	21	129	
+LT	593116	Vaduvos g.	residential	102	4	55	
+LT	593116	Gurių Sodų g.	residential	101	6	121	
+LT	593116	Gurelių g.		100	6	102	
+LT	593116	Kalnėnų g.	residential	100	5	100	
+LT	593116	Mechanikų g.		100	5	110	
+LT	593116	Rygos g.		99	1	48	
+LT	593116	Eglinės Sodų g.		97	5	108	
+LT	593116	Baltupio g.	tertiary	96	37	167	
+LT	593116	J. Jasinskio g.	secondary	95	3	17	
+LT	593116	Konstitucijos pr.	primary	95	3	26	
+LT	593116	Krakiškių g.		95	5	138	
+LT	593116	Kunigiškių g.		95	7	121	
+LT	593116	Rokantiškių g.	unclassified	95	1	171	
+LT	593116	Saulėtekio al.	secondary	95	4	63	
+LT	593116	Lazdynėlių g.		94	12	119	
+LT	593116	Algirdo g.	residential	93	2	75	
+LT	593116	Baskų g.	residential	93	5	78	
+LT	593116	Dzūkų g.	residential	93	4	101	
+LT	593116	Šilo g.	secondary	93	4	96	
+LT	593116	Kryžiokų Sodų 5-oji g.		92	6	96	
+LT	593116	Verkių Sodų 5-oji g.		92	4	116	
+LT	593116	Bubilo g.		91	7	102	
+LT	593116	Kelmijos Sodų 71-oji g.		91	7	118	
+LT	593116	J. Ereto g.	residential	90	8	125	
+LT	593116	Kauno g.	primary	90	2	39	
+LT	593116	Parko g.	residential	90	3	63	
+LT	593116	Rinktinės g.	secondary	90	3	55	
+LT	593116	Žilvino g.		90	5	82	
+LT	593116	Balsių Sodų 11-oji g.		89	5	121	
+LT	593116	Grūšiakalnio g.		89	5	110	
+LT	593116	Gabijos g.		88	2	83	
+LT	593116	Mokyklos g.	residential	88	1	88	
+LT	593116	Moliakalnio g.	residential	88	13	100	
+LT	593116	Polocko g.	unclassified	88	4	54	
+LT	593116	Baltiešos g.	residential	87	37	187	
+LT	593116	Kęstučio g.	secondary	87	3	62	
+LT	593116	Linksmoji g.	residential	87	3	131	
+LT	593116	M. Martinaičio g.		87	1	125	
+LT	593116	Vėtrungių g.		87	5	101	
+LT	593116	Balsių Sodų 2-oji g.		86	5	94	
+LT	593116	Gvazdikų Sodų 6-oji g.		86	6	146	
+LT	593116	Padvarės g.		86	5	87	
+LT	593116	Tyzenhauzų g.	residential	86	7	89	
+LT	593116	Šiaurės Sodų 1-oji g.		86	5	98	
+LT	593116	Ateities Sodų 3-ioji g.		85	6	97	
+LT	593116	Didžioji g.	unclassified	85	3	35	
+LT	593116	S. Konarskio g.	residential	85	1	37	
+LT	593116	V. Čarneckio g.	residential	85	5	166	
+LT	593116	Vindaubos g.		85	7	103	
+LT	593116	Ašmenėlės g.	residential	84	3	106	
+LT	593116	Pilies g.	pedestrian	84	3	38	
+LT	593116	Sakalaičių Sodų 5-oji g.		84	4	79	
+LT	593116	A. Lipniūno g.	residential	83	9	35	
+LT	593116	Baltosios Vokės Sodų g.		83	7	112	
+LT	593116	Šatrijos Raganos g.	residential	83	21	116	
+LT	593116	Šeimyniškių g.	primary	83	3	38	
+LT	593116	Ūmėdžių g.	residential	83	3	117	
+LT	593116	Barčių g.		82	3	77	
+LT	593116	Dvariškių g.		82	14	100	
+LT	593116	Kirtimų g.		82	2	61	
+LT	593116	Lentvario g.		82	7	111	
+LT	593116	Mindaugo g.	residential	82	7	36	
+LT	593116	P. P. Būčio g.	residential	82	2	23	
+LT	593116	Sadūniškių g.	residential	82	6	102	
+LT	593116	Sidaronių g.	secondary	82	15	137	
+LT	593116	Užupio g.	unclassified	82	2	38	
+LT	593116	Girdavos g.		81	5	61	
+LT	593116	Eglinės Sodų 1-oji g.		80	5	88	
+LT	593116	Geryčių g.		80	5	96	
+LT	593116	Gurių g.	tertiary	80	7	141	
+LT	593116	Naujakiemio g.	residential	80	5	47	
+LT	593116	Plikakalnio g.		80	8	101	
+LT	593116	Rasų g.	primary	80	6	111	
+LT	593116	Saltoniškių g.	tertiary	80	4	54	
+LT	593116	Vaidagų g.		80	5	118	
+LT	593116	Visorių g.	residential	80	6	96	
+LT	593116	Balsių Sodų 8-oji g.		79	3	81	
+LT	593116	Jeruzalės g.	secondary	79	4	61	
+LT	593116	Kašubų g.	residential	79	2	22	
+LT	593116	Linkmenų g.	residential	79	5	58	
+LT	593116	Minties g.	secondary	79	1	54	
+LT	593116	Pagubės Sodų 19-oji g.		79	12	154	
+LT	593116	Panerių g.	residential	79	10	56	
+LT	593116	Ukrainiečių g.	unclassified	79	5	106	
+LT	593116	Vismaliukų g.		79	6	105	
+LT	593116	Juodupio g.	residential	78	2	168	
+LT	593116	Katniavos g.		78	2	119	
+LT	593116	Kelmijos Sodų 31-oji g.		78	4	96	
+LT	593116	Molėtų pl.	unclassified	78	5	155	
+LT	593116	Sakalaičių Sodų 4-oji g.		78	5	79	
+LT	593116	V. Protasevičiaus g.		78	3	83	
+LT	593116	Vaidilutės g.	unclassified	78	9	79	
+LT	593116	Vaišelgos g.		78	9	92	
+LT	593116	Šilėnų g.		78	11	75	
+LT	593116	L. Baliukevičiaus-Dzūko g.		77	7	125	
+LT	593116	Tarandės g.		77	4	90	
+LT	593116	Vanaginės Sodų 3-ioji g.		77	4	95	
+LT	593144	Vydūno al.	primary	130	3	121	
+LT	593144	Beržų g.	tertiary	104	3	86	
+LT	593144	Alyvų g.	residential	94	1	24	
+LT	593144	Čekiškės g.	secondary	89	15	162	
+LT	593144	Nemuno g.	secondary	83	2	40	
+LT	593144	Kauno g.	residential	76	4	75	
+LT	593144	Žalioji g.	residential	76	2	33	
+LT	593144	Piliakalnio g.	unclassified	71	2	44	
+LT	593144	Pušų g.	residential	69	2	54	
+LT	593144	Liepų g.	residential	64	1	37	
+LT	593144	Bažnyčios g.	residential	63	4	46	
+LT	593144	Klevų g.	residential	60	1	27	
+LT	593153	Giedrių g.	primary	158	8	151	
+LT	593153	Vytauto g.	primary	156	2	139	
+LT	593153	Nepriklausomybės g.	primary	137	9	105	
+LT	593153	Žemdirbių g.	secondary	128	3	89	
+LT	593153	Kapų g.	secondary	114	11	143	
+LT	593153	Gėlių g.	residential	112	3	40	
+LT	593153	S. Nėries g.	primary	111	9	119	
+LT	593153	Gluosnių g.	residential	104	2	64	
+LT	593153	Žalumynų g.	residential	100	2	70	
+LT	593153	Gudelių g.	secondary	93	4	97	
+LT	593153	Vienybės g.	residential	91	3	94	
+LT	593153	Lauko g.	residential	87	1	39	
+LT	593153	Liepų g.	unclassified	81	2	26	
+LT	593153	Agrastų g.	residential	78	4	71	
+LT	593153	J. Basanavičiaus g.	tertiary	78	4	93	
+LT	593153	Beržų g.	residential	69	1	35	
+LT	593153	Tulpių g.	residential	69	4	107	
+LT	593153	Saulėtekio g.	residential	67	4	70	
+LT	593153	Aguonų g.	residential	60	1	35	
+LT	593153	Eglių g.	residential	60	1	23	
+LT	593153	Kooperatininkų g.	residential	60	3	72	
+LT	593153	Maldėnų g.	secondary	59	1	63	
+LT	593153	Birutės g.	secondary	58	2	61	
+LT	593153	Vyturių g.	residential	58	2	44	
+LT	593191	Semeliškių g.	residential	155	12	135	
+LT	593191	Trakų g.	primary	131	2	50	
+LT	593191	Liepų g.	residential	112	1	70	
+LT	593191	Vilniaus g.	residential	95	4	88	
+LT	593191	Rusakalnio g.	secondary	90	2	72	
+LT	593191	Žvejų g.	residential	88	3	77	
+LT	593191	Dvaro g.	tertiary	83	3	98	
+LT	593191	Gėlių g.	secondary	81	2	51	
+LT	593191	Ežero g.	residential	74	2	40	
+LT	593191	Upelio g.	residential	70	3	53	
+LT	593191	Stoties g.	residential	69	4	65	
+LT	593191	Ateities g.	residential	59	2	51	
+LT	593218	Dariaus ir Girėno g.	primary	114	2	131	
+LT	593218	Pušyno g.	secondary	112	2	120	
+LT	593218	Virvytės g.	tertiary	102	3	129	
+LT	593218	Raudonskardžio g.	residential	89	7	86	
+LT	593218	Mažeikių g.	residential	81	5	84	
+LT	593218	Vytauto g.	residential	70	5	67	
+LT	593218	Akmenės g.	residential	68	5	68	
+LT	593218	Viekšnių g.	primary	68	2	129	
+LT	593218	Ąžuolų g.	residential	51	2	43	
+LT	593218	Papilės g.	residential	49	2	57	
+LT	593218	Senkelio g.	residential	48	4	61	
+LT	593218	Laižuvos g.	residential	46	3	44	
+LT	593222	Nemuno g.	secondary	117	2	77	
+LT	593222	Neravų g.		94	76	163	
+LT	593222	Liškiavos g.	secondary	69	6	51	
+LT	593222	Senųjų Viečiūnų g.	residential	58	3	60	
+LT	593222	Mašnyčių g.	unclassified	39	3	45	
+LT	593222	Perkūno g.	residential	39	1	23	
+LT	593222	Žiogelių g.	residential	36	2	39	
+LT	593222	Mokyklos g.	unclassified	35	2	48	
+LT	593222	Vėjų g.	residential	35	3	37	
+LT	593222	Paparčio 28-oji g.	residential	32	2	32	
+LT	593222	Verpėjų g.	residential	32	1	28	
+LT	593222	Marcių g.		31	2	24	
+LT	593295	Šventosios g.	secondary	111	1	42	
+LT	593295	Parko g.	residential	71	3	66	
+LT	593295	Pakalnės g.	unclassified	65	2	54	
+LT	593295	Pergalės g.	secondary	52	2	28	
+LT	593295	Klevų g.	residential	40	2	40	
+LT	593295	Mėtų tak.		38	2	44	
+LT	593295	Ateities g.	secondary	37	1	22	
+LT	593295	Pušyno g.	residential	33	1	19	
+LT	593295	Ukmergės g.	secondary	32	1	32	
+LT	593295	Šaltinio g.	unclassified	32	2	40	
+LT	593295	Dvaro g.	unclassified	31	2	40	
+LT	593295	Samanynės g.	residential	28	2	30	
+LT	593303	Slyvų g.	residential	114	6	121	
+LT	593303	Sodų g.	residential	106	2	68	
+LT	593303	Draugystės g.	residential	55	3	57	
+LT	593303	Žemaičių g.	primary	55	2	54	
+LT	593303	Statybininkų g.	residential	53	1	95	
+LT	593303	Kriaušių g.	residential	49	3	47	
+LT	593303	Ventos g.	residential	44	3	44	
+LT	593303	Obelų g.	residential	43	3	42	
+LT	593303	Agrastų g.	residential	41	3	40	
+LT	593303	Vyšnių g.	residential	41	1	30	
+LT	593303	Stoties g.	residential	38	2	37	
+LT	593303	Serbentų g.	residential	34	2	33	
+LT	593338	Vytauto g.	primary	85	3	78	
+LT	593338	Liepų g.	secondary	73	1	48	
+LT	593338	Petroškų g.	secondary	56	2	41	
+LT	593338	Dugnų g.	residential	54	3	58	
+LT	593338	Kailinių g.	secondary	47	3	74	
+LT	593338	Leipalingio g.	primary	45	3	46	
+LT	593338	Vilties g.	secondary	45	3	33	
+LT	593338	Lazdijų pl.	primary	43	3	39	
+LT	593338	Veisiejo g.	unclassified	40	1	36	
+LT	593338	Radvilų g.	secondary	33	2	32	
+LT	593338	Saulėtekio g.	residential	32	1	20	
+LT	593338	Šlavantų g.	unclassified	32	2	32	
+LT	593378	Dariaus ir Girėno g.	primary	86	2	67	
+LT	593378	Viržuvėnų g.	secondary	74	6	79	
+LT	593378	Vytauto g.	secondary	61	2	49	
+LT	593378	Žarėnų g.	secondary	56	1	53	
+LT	593378	Šatrijos Raganos g.	secondary	55	3	53	
+LT	593378	S. Daukanto g.	primary	46	2	23	
+LT	593378	Laukuvos pl.	primary	36	2	40	
+LT	593378	Ežero g.	unclassified	35	2	27	
+LT	593378	M. Daukšos g.	residential	33	1	35	
+LT	593378	Lūksto Sodų 1-oji g.	unclassified	29	1	39	
+LT	593378	Girgždūtės g.	secondary	27	3	26	
+LT	593378	Šauklių g.	unclassified	27	4	29	
+LT	593405	Vardaunios g.	unclassified	76	1	79	
+LT	593405	Antakalnio g.	residential	72	7	92	
+LT	593405	Vytauto g.	primary	72	4	252	
+LT	593405	A. Ryliškio g.	residential	51	4	53	
+LT	593405	Užumelnyčio g.	residential	49	2	51	
+LT	593405	Mitriškių g.	residential	45	40	67	
+LT	593405	Epušinės g.		42	3	48	
+LT	593405	Mokyklos g.	residential	41	3	47	
+LT	593405	Pušų g.		39	1	26	
+LT	593405	Liepų g.	unclassified	37	1	40	
+LT	593405	Vilniaus g.		30	2	31	
+LT	593405	Varėnės g.	residential	29	4	36	
+LT	593406	Vytauto g.	tertiary	133	5	126	
+LT	593406	J. Basanavičiaus g.	tertiary	73	2	52	
+LT	593406	M. K. Čiurlionio g.	tertiary	67	5	68	
+LT	593406	Šilo g.	residential	55	2	48	
+LT	593406	Dzūkų g.	residential	54	6	66	
+LT	593406	Kadagių g.	residential	48	3	51	
+LT	593406	Martyno Vainilaičio g.	residential	48	2	25	
+LT	593406	Pušyno g.	residential	48	2	24	
+LT	593406	Savanorių g.	unclassified	47	1	54	
+LT	593406	Pievų g.	residential	45	1	42	
+LT	593406	Laisvės g.	residential	44	2	67	
+LT	593406	Geležinkelio g.	residential	42	3	63	
+LT	593406	Žalioji g.	living_street	38	3	33	
+LT	593406	Mergežerio g.	unclassified	36	1	13	
+LT	593406	Ligoninės g.	residential	28	3	26	
+LT	593406	Pramonės g.	tertiary	28	2	18	
+LT	593406	Juozo Vitkaus-Kazimieraičio g.	residential	27	2	27	
+LT	593406	Mechanizatorių g.	residential	27	4	34	
+LT	593406	Gedimino g.	living_street	26	3	33	
+LT	593406	Gandrų g.	residential	24	3	33	
+LT	593406	Girios g.	living_street	24	3	25	
+LT	593406	Grūdos g.	residential	22	2	21	
+LT	593406	Šilovainių g.	residential	22	4	26	
+LT	593406	Mitriškių g.		21	6	34	
+LT	593561	B. Sruogos g.	primary	75	5	69	
+LT	593561	Panevėžio g.	primary	67	2	37	
+LT	593561	J. Naujalio g.	primary	62	5	70	
+LT	593561	Tiesioji g.	residential	53	2	53	
+LT	593561	Draugystės g.	secondary	52	2	40	
+LT	593561	Beržų g.	residential	44	3	36	
+LT	593561	K. Šakenio g.	primary	36	3	36	
+LT	593561	Respublikos g.	secondary	35	4	50	
+LT	593561	Vyturių g.	residential	34	2	43	
+LT	593561	Kalno g.	residential	33	4	32	
+LT	593561	Upytės g.	secondary	33	3	35	
+LT	593561	Dvaro g.	residential	32	1	22	
+LT	593572	Šatrijos g.	primary	124	5	119	
+LT	593572	Kražių g.	primary	111	6	119	
+LT	593572	Žemaitės g.	primary	91	2	52	
+LT	593572	Ventos g.	residential	82	2	33	
+LT	593572	Kolainių g.	residential	39	3	56	
+LT	593572	Jaunimo g.	unclassified	38	1	24	
+LT	593572	Luokės g.	secondary	36	2	32	
+LT	593572	Dvaro g.	unclassified	29	2	27	
+LT	593572	P. Višinskio g.	residential	29	1	28	
+LT	593572	Volungių g.	residential	23	2	31	
+LT	593572	Kunigiškių g.	primary	22	2	18	
+LT	593572	M. Valančiaus g.	residential	22	4	22	
+LT	593672	J. Basanavičiaus g.	primary	270	2	131	
+LT	593672	Beržų g.	residential	212	2	76	
+LT	593672	Liepų g.	residential	158	2	54	
+LT	593672	Alyvų g.	residential	148	3	52	
+LT	593672	Pušyno g.	residential	135	3	117	
+LT	593672	Užpalių g.	secondary	131	5	94	
+LT	593672	Aušros g.	tertiary	127	8	95	
+LT	593672	Taikos g.	residential	120	2	86	
+LT	593672	Vilniaus g.	residential	117	5	131	
+LT	593672	Bokšto g.	residential	109	1	59	
+LT	593672	K. Ladygos g.	primary	106	7	106	
+LT	593672	Kalno g.	residential	105	2	24	
+LT	593672	Ežero g.	residential	104	2	43	
+LT	593672	Kaštonų g.	residential	104	3	26	
+LT	593672	Aido g.	residential	102	7	98	
+LT	593672	Pakalnės g.	residential	99	2	62	
+LT	593672	Algirdo g.	residential	97	6	102	
+LT	593672	Naujasodžio g.	living_street	96	7	139	
+LT	593672	Palangos g.	residential	93	3	88	
+LT	593672	Molėtų g.	tertiary	92	8	92	
+LT	593672	Kauno g.	primary	87	3	33	
+LT	593672	Vyšnių g.	residential	87	2	35	
+LT	593672	Svajonių g.	residential	85	3	79	
+LT	593672	Tuopų g.	secondary	83	2	43	
+LT	593672	Ukmergės g.	living_street	77	1	124	
+LT	593672	Kupiškio g.	primary	75	7	66	
+LT	593672	Tauragnų g.	secondary	72	2	45	
+LT	593672	Aukštakalnio g.	unclassified	69	3	114	
+LT	593672	Obelų g.	residential	65	2	47	
+LT	593672	Sėlių g.	residential	65	4	63	
+LT	593672	Kovo 11-osios g.	residential	64	5	68	
+LT	593672	Sodų g.	secondary	63	1	22	
+LT	593672	Vaižganto g.	secondary	63	6	66	
+LT	593672	Adolfo Šapokos g.	unclassified	62	4	75	
+LT	593672	Pramonės g.	secondary	62	4	37	
+LT	593672	Tvenkinio g.	residential	61	2	46	
+LT	593672	Ąžuolijos g.	residential	61	6	57	
+LT	593672	Lauko g.	residential	60	1	29	
+LT	593672	Vyžuonų g.	residential	60	5	53	
+LT	593672	Didlaukio g.		58	3	63	
+LT	593672	Dvaro g.	unclassified	58	1	38	
+LT	593672	Saulėtekio g.	residential	58	2	36	
+LT	593672	Maironio g.	residential	57	2	32	
+LT	593672	Stoties g.	residential	56	4	39	
+LT	593672	Sodžiaus g.	unclassified	55	3	48	
+LT	593672	Jono Asminavičiaus g.	secondary	53	2	53	
+LT	593672	Vėjų g.	secondary	53	3	47	
+LT	593672	Apynėlio g.	residential	52	3	61	
+LT	593733	Vytauto g.	primary	261	9	112	
+LT	593733	Vilniaus g.	primary	190	1	130	
+LT	593733	Nuotekų g.	unclassified	157	14	167	
+LT	593733	Kauno g.	primary	135	3	116	
+LT	593733	Gedimino g.	primary	132	7	115	
+LT	593733	Deltuvos g.	primary	123	10	45	
+LT	593733	Miškų g.	residential	97	3	56	
+LT	593733	Bugenių g.	residential	90	6	70	
+LT	593733	Grybautojų g.	residential	89	5	93	
+LT	593733	Žiedo g.	tertiary	88	1	65	
+LT	593733	Draugystės g.	residential	84	3	54	
+LT	593733	Linų g.	residential	84	9	101	
+LT	593733	Laukų g.	residential	76	1	37	
+LT	593733	Gruodžio 17-osios g.	residential	75	7	50	
+LT	593733	Paupio g.	residential	75	4	70	
+LT	593733	S. Daukanto g.	residential	71	9	69	
+LT	593733	Jaunimo g.	residential	70	1	60	
+LT	593733	Dariaus ir Girėno g.	residential	69	3	26	
+LT	593733	Ežero g.	unclassified	67	1	35	
+LT	593733	Antakalnio g.	primary	65	6	67	
+LT	593733	Sodų g.	unclassified	65	1	25	
+LT	593733	Klaipėdos g.	unclassified	64	5	60	
+LT	593733	Birutės g.	residential	62	3	41	
+LT	593733	Kareivinių g.	residential	61	5	55	
+LT	593733	Bažnyčios g.	residential	60	3	53	
+LT	593733	Gegutės g.	residential	60	3	59	
+LT	593733	Serbentų g.	residential	60	2	51	
+LT	593733	Tujų g.	residential	60	1	24	
+LT	593733	A. Vienuolio-Žukausko g.	residential	59	4	62	
+LT	593733	Vaižganto g.	residential	59	2	61	
+LT	593733	Ramygalos g.	secondary	58	4	77	
+LT	593733	Maironio g.	residential	57	2	54	
+LT	593733	A. Smetonos g.	residential	54	8	49	
+LT	593733	Kranto g.	residential	54	2	24	
+LT	593733	Pavasario g.	residential	54	2	53	
+LT	593733	Pašilės g.	unclassified	54	3	50	
+LT	593733	Pievų g.	residential	54	1	26	
+LT	593733	Bokšto g.	residential	52	1	24	
+LT	593733	Pergalės g.	secondary	52	3	53	
+LT	593733	Pušelės g.	residential	52	2	53	
+LT	593733	Vasario 16-osios g.	residential	51	3	49	
+LT	593733	Šlaitų g.	residential	51	2	52	
+LT	593733	Lakštingalų g.	residential	49	2	28	
+LT	593733	Begonijų g.	residential	48	3	43	
+LT	593733	Malkų g.	residential	47	8	57	
+LT	593733	Pilėnų g.	residential	47	4	49	
+LT	593733	J. Basanavičiaus g.	residential	46	2	34	
+LT	593733	Klevų g.	residential	46	1	44	
+LT	593746	Sodų g.	residential	89	2	24	
+LT	593746	Kybučių g.	tertiary	48	3	40	
+LT	593746	Mockaičių g.	secondary	38	1	37	
+LT	593746	Budraičių g.	secondary	32	2	36	
+LT	593746	Gudelių g.	secondary	26	2	33	
+LT	593746	Šukiškių g.	unclassified	25	2	28	
+LT	593746	Gryžuvos g.	unclassified	23	2	30	
+LT	593746	Draugystės g.	primary	21	2	13	
+LT	593746	Pievų g.	residential	20	1	13	
+LT	593746	Tolučių g.	unclassified	20	1	28	
+LT	593746	Vilties g.	residential	20	1	21	
+LT	593746	Liepų g.	residential	18	1	12	
+LT	593748	Sedulos g.	unclassified	123	7	175	
+LT	593748	Skaisgirio g.		93	5	89	
+LT	593748	Šiluvos g.	primary	72	1	48	
+LT	593748	Maironio g.	primary	68	2	51	
+LT	593748	Ramioji g.		66	4	93	
+LT	593748	Žemaitės g.	primary	63	1	60	
+LT	593748	J. Basanavičiaus g.	primary	59	1	50	
+LT	593748	Durpyno g.	secondary	46	3	41	
+LT	593748	Birutės g.		45	3	45	
+LT	593748	Pievų g.	unclassified	44	2	32	
+LT	593748	Rūtų g.	residential	39	3	40	
+LT	593748	Skogalio g.	residential	39	2	38	
+LT	593871	Karaimų g.	secondary	138	2	99	
+LT	593871	Vytauto g.	secondary	137	5	93	
+LT	593871	Miško g.	unclassified	109	1	29	
+LT	593871	Draugystės g.	unclassified	89	2	29	
+LT	593871	Beržų g.	residential	77	2	31	
+LT	593871	Mėgėjų g.	primary	77	1	30	
+LT	593871	Aukštadvario g.		74	1	90	
+LT	593871	Žemaitės g.	secondary	69	5	38	
+LT	593871	Gedimino g.	primary	68	3	43	
+LT	593871	Ežero g.	residential	63	1	35	
+LT	593871	Birutės g.	living_street	61	3	48	
+LT	593871	Nendrių g.	residential	59	2	49	
+LT	593871	Akmenos g.	unclassified	57	1	43	
+LT	593871	Ramunių g.	residential	55	1	34	
+LT	593871	Vėjo g.	residential	55	1	39	
+LT	593871	Šlaito g.	residential	54	1	19	
+LT	593871	Rožių g.	residential	52	2	39	
+LT	593871	Trakų g.	residential	52	2	37	
+LT	593871	Alyvų g.	unclassified	47	2	60	
+LT	593871	Liepų g.	residential	47	3	56	
+LT	593871	Linksmoji g.	residential	43	3	45	
+LT	593871	S. Nėries g.	residential	43	3	38	
+LT	593871	Užugirio g.	unclassified	43	2	45	
+LT	593871	Centrinė g.	residential	41	1	19	
+LT	593926	Luokės g.	secondary	140	8	106	
+LT	593926	Plungės g.	secondary	131	4	92	
+LT	593926	Muziejaus g.	secondary	116	7	128	
+LT	593926	Masčio g.	residential	115	3	50	
+LT	593926	Aušros g.	residential	112	2	49	
+LT	593926	Žarėnų g.	secondary	104	3	70	
+LT	593926	Išdegos Pušies g.	unclassified	99	9	124	
+LT	593926	Palangos g.	residential	93	11	102	
+LT	593926	Tryškių g.	secondary	93	4	63	
+LT	593926	Žalioji g.	residential	87	2	28	
+LT	593926	Kalno g.	unclassified	83	4	56	
+LT	593926	Respublikos g.	secondary	82	4	79	
+LT	593926	Dvaro g.	residential	81	1	50	
+LT	593926	Degaičių g.	residential	79	2	34	
+LT	593926	Ramunės Sodų 2-oji g.	residential	79	6	92	
+LT	593926	Judros g.	secondary	75	1	41	
+LT	593926	Ąžuolo Sodų 1-oji g.	residential	72	5	88	
+LT	593926	S. Nėries g.	residential	71	3	86	
+LT	593926	Šviesos g.	residential	70	5	65	
+LT	593926	Baltijos g.	residential	69	5	73	
+LT	593926	Karaliaus Mindaugo g.	secondary	69	1	82	
+LT	593926	S. Daukanto g.	residential	69	1	60	
+LT	593926	Sedos g.	primary	69	1	44	
+LT	593926	Žemaitės g.	residential	69	5	59	
+LT	593926	Parko g.	residential	67	1	39	
+LT	593926	Džiugo g.	primary	65	1	44	
+LT	593926	Lygumų g.	residential	65	6	69	
+LT	593926	Alyvų g.	residential	62	3	72	
+LT	593926	Anulėnų g.	residential	62	2	48	
+LT	593926	Berkinos g.	residential	61	4	66	
+LT	593926	Butkų Juzės g.	residential	59	7	76	
+LT	593926	M. Valančiaus g.	residential	58	2	51	
+LT	593926	Džiugailės g.	residential	56	3	60	
+LT	593926	Džiugo Sodų 1-oji g.	residential	54	4	52	
+LT	593926	Klevų g.	residential	54	1	57	
+LT	593926	Rožių g.	residential	52	3	34	
+LT	593926	Ežero g.	residential	51	2	42	
+LT	593926	Palangos pl.		50	3	37	
+LT	593926	Putino Sodų 1-oji g.	residential	50	3	54	
+LT	593926	Neringos g.	residential	49	5	60	
+LT	593926	V. Montvilos g.	residential	49	5	42	
+LT	593926	Mastupio g.	unclassified	48	1	28	
+LT	593926	Subedžio g.	primary	48	7	40	
+LT	593926	Žemaičio Sodų 1-oji g.	residential	48	5	54	
+LT	593926	Beržų g.	residential	47	1	24	
+LT	593926	Dobilo g.	residential	46	6	58	
+LT	593926	Taikos g.	residential	46	3	66	
+LT	593926	Telšių g.	primary	44	2	39	
+LT	593959	Vytauto g.	secondary	285	24	172	
+LT	593959	Dariaus ir Girėno g.	residential	214	7	154	
+LT	593959	T. Ivanausko g.	residential	207	10	189	
+LT	593959	Laisvės g.	residential	170	8	177	
+LT	593959	J. Tumo-Vaižganto g.	residential	169	6	136	
+LT	593959	Šilalės g.	primary	158	16	158	
+LT	593959	Putinų g.	residential	145	3	65	
+LT	593959	Tvenkinio g.	residential	125	1	59	
+LT	593959	Pramonės g.	secondary	124	2	30	
+LT	593959	Vilties g.	residential	112	2	42	
+LT	593959	Prezidento g.	residential	101	4	80	
+LT	593959	Kęstučio g.	residential	99	4	52	
+LT	593959	Gaurės g.	residential	96	2	31	
+LT	593959	Ryto g.	residential	95	2	55	
+LT	593959	Liepų g.	residential	83	2	30	
+LT	593959	Birutės g.	residential	82	5	57	
+LT	593959	Sodų g.	primary	82	2	27	
+LT	593959	Tilžės pl.		82	2	60	
+LT	593959	Gedimino g.	primary	80	12	58	
+LT	593959	Jūros g.	residential	75	3	51	
+LT	593959	K. Donelaičio g.	residential	74	4	65	
+LT	593959	Sandėlių g.	residential	74	2	84	
+LT	593959	Saulės g.	residential	73	3	40	
+LT	593959	Žalioji g.	residential	72	2	30	
+LT	593959	M. K. Čiurlionio g.	residential	68	6	78	
+LT	593959	Stoties g.	residential	62	5	45	
+LT	593959	K. Jauniaus g.	residential	60	4	64	
+LT	593959	Puntuko g.	residential	60	5	45	
+LT	593959	Topolių g.	residential	60	3	80	
+LT	593959	Bijūnų g.	residential	58	1	33	
+LT	593959	Pajūrio g.	residential	58	1	35	
+LT	593959	Pušų g.	residential	57	1	37	
+LT	593959	Rožių g.	residential	57	3	52	
+LT	593959	Knygnešio g.	residential	53	3	50	
+LT	593959	V. Kudirkos g.	residential	52	2	62	
+LT	593959	Vizbutų g.	residential	52	4	56	
+LT	593959	Bažnyčių g.	residential	50	2	22	
+LT	593959	Klevų g.	residential	50	1	18	
+LT	593959	Zuikių tak.		50	3	51	
+LT	593959	Ramunių g.	residential	49	2	39	
+LT	593959	M. Mažvydo g.	residential	48	5	52	
+LT	593959	Šermukšnių g.	residential	48	2	37	
+LT	593959	Žibuoklių g.		48	14	57	
+LT	593959	Alyvų g.	residential	46	2	32	
+LT	593959	Jovarų g.	residential	46	4	46	
+LT	593959	Meldikviršių g.	primary	46	1	32	
+LT	593959	Akacijų g.	residential	45	1	22	
+LT	593959	Daržų g.	residential	45	4	41	
+LT	594050	Naujo Gyvenimo g.	secondary	112	13	57	
+LT	594050	Želvių g.	secondary	77	5	123	
+LT	594050	Užkylininkų g.	unclassified	37	2	71	
+LT	594050	Sausdravų g.		35	2	26	
+LT	594050	Pušyno g.	residential	33	3	49	
+LT	594050	Malūno g.	unclassified	25	2	30	
+LT	594050	Stirnos g.		22	4	35	
+LT	594050	Tvenkinio g.	unclassified	20	1	49	
+LT	594050	Vlado Jurgučio g.	secondary	20	1	26	
+LT	594050	Miško g.	residential	19	1	21	
+LT	594050	Lazdupio g.		16	2	32	
+LT	594050	Liepų g.		16	59	63	
+LT	594064	Adutiškio g.	primary	169	9	155	
+LT	594064	Strūnaičio g.	secondary	157	6	187	
+LT	594064	Vilniaus g.	primary	101	5	56	
+LT	594064	Miško g.	residential	89	4	81	
+LT	594064	Lentupio g.	primary	83	5	71	
+LT	594064	Užupio g.	residential	64	1	61	
+LT	594064	Partizanų g.	residential	62	3	55	
+LT	594064	Naujoji g.	residential	54	2	36	
+LT	594064	Lauko g.	residential	51	3	36	
+LT	594064	Mėžionių g.	unclassified	46	2	53	
+LT	594064	Paparčių g.	residential	46	3	44	
+LT	594064	Pakalnės g.	residential	45	4	48	
+LT	594064	Ragaučinos g.	unclassified	45	5	52	
+LT	594064	Kunigiškės g.	unclassified	44	3	50	
+LT	594064	Didžioji g.	secondary	43	7	54	
+LT	594064	Sodų g.	residential	43	3	31	
+LT	594064	Tiesioji g.	residential	43	4	46	
+LT	594064	Uždvario g.	secondary	42	3	46	
+LT	594064	Modžiūnų g.	unclassified	41	2	50	
+LT	594064	Pievų g.	residential	38	2	43	
+LT	594064	Mokyklos g.	secondary	37	3	27	
+LT	594064	Naujųjų Zadvarninkų g.	primary	37	3	50	
+LT	594064	Aukštaičių g.	primary	32	2	33	
+LT	594064	Bažnyčios g.	residential	32	1	34	
+LT	594067	Vilniaus g.	secondary	111	9	124	
+LT	594067	Liepų g.	unclassified	98	11	119	
+LT	594067	Broniaus Laurinavičiaus g.	residential	90	7	112	
+LT	594067	Švenčionių g.	primary	78	2	60	
+LT	594067	Žemutinė g.	primary	77	7	65	
+LT	594067	Švenčionėlių g.	secondary	73	4	42	
+LT	594067	Žeimenos g.	unclassified	69	6	79	
+LT	594067	Kaltanėnų g.	residential	63	4	71	
+LT	594067	Klevų g.	residential	58	3	56	
+LT	594067	Pašto g.	secondary	57	5	59	
+LT	594067	Švento g.	unclassified	57	5	85	
+LT	594067	Bažnyčios g.	residential	54	3	51	
+LT	594073	Pergalės g.	secondary	59	2	42	
+LT	594073	Upelio g.	residential	55	7	78	
+LT	594073	Smėlio g.	residential	49	2	43	
+LT	594073	Sodų g.		42	52	137	
+LT	594073	Jurginų g.	living_street	38	1	28	
+LT	594073	Maironio g.	residential	34	3	41	
+LT	594073	Pavasario g.	unclassified	33	2	35	
+LT	594073	Beržų g.		29	1	22	
+LT	594073	Jonavos g.	living_street	29	1	28	
+LT	594073	Astrų g.		27	2	25	
+LT	594073	Kauno g.	living_street	26	2	29	
+LT	594073	Aguonų g.	residential	25	2	37	
+LT	594429	Nemuno g.	secondary	161	7	121	
+LT	594429	Tvenkinėlio Sodo 1-oji g.		42	3	40	
+LT	594429	Parko g.	unclassified	36	2	31	
+LT	594429	Martyno Sederevičiaus g.	primary	35	2	31	
+LT	594429	Liepų g.	residential	31	1	28	
+LT	594429	Tvenkinėlio Sodo 3-oji g.		25	2	25	
+LT	594429	Ąžuoliuko Sodo 1-oji g.		25	2	28	
+LT	594429	Knygnešių g.	residential	24	2	22	
+LT	594429	Žvejų g.	residential	23	2	13	
+LT	594429	Gėlių g.	residential	22	2	25	
+LT	594429	Palėkių g.	residential	22	2	31	
+LT	594429	Piliakalnių g.	residential	22	4	23	
+LT	594488	Laisvės g.	primary	166	4	152	
+LT	594488	Liepų g.	unclassified	120	1	24	
+LT	594488	Ilgoji g.	residential	119	3	84	
+LT	594488	Skuodo g.	secondary	95	1	34	
+LT	594488	Mosėdžio g.	secondary	89	6	71	
+LT	594488	Vilniaus g.	primary	84	4	81	
+LT	594488	Tulpių g.	residential	79	2	53	
+LT	594488	Mokyklos g.	residential	78	1	43	
+LT	594488	Judrioji g.	secondary	69	1	62	
+LT	594488	Rožių g.	residential	66	3	56	
+LT	594488	Vytauto g.	primary	65	3	71	
+LT	594488	Tujų g.	residential	64	4	64	
+LT	594488	Apuolės g.	residential	63	2	52	
+LT	594488	Vaižganto g.	residential	61	6	64	
+LT	594488	J. Basanavičiaus g.	primary	59	1	55	
+LT	594488	Rūtų g.	residential	57	2	54	
+LT	594488	Pievų g.	residential	56	1	42	
+LT	594488	Dariaus ir Girėno g.	residential	53	4	56	
+LT	594488	Šatrijos g.	residential	52	1	50	
+LT	594488	Piliakalnio g.	secondary	50	2	27	
+LT	594488	Sodo tak.	residential	48	2	44	
+LT	594488	Statybininkų g.	residential	48	1	29	
+LT	594488	S. Daukanto g.	residential	45	4	50	
+LT	594488	S. Nėries g.	residential	44	5	48	
+LT	594562	Tauragės g.	secondary	87	4	73	
+LT	594562	Sodų g.	residential	77	3	68	
+LT	594562	Vilniaus g.	primary	64	5	60	
+LT	594562	Nemakščių g.	secondary	61	3	59	
+LT	594562	Parko g.	residential	60	1	47	
+LT	594562	Kelmės g.	secondary	59	6	51	
+LT	594562	Žemaitės g.	residential	48	3	45	
+LT	594562	Dionizo Poškos g.	secondary	37	1	32	
+LT	594562	Kauno g.	residential	34	2	48	
+LT	594562	Pievų g.	residential	34	4	35	
+LT	594562	Turgaus a.	primary	33	1	19	
+LT	594562	Upynos g.	primary	32	3	26	
+LT	594585	Gegužinės g.	unclassified	116	4	64	
+LT	594585	Senasis Minsko pl.	secondary	91	4	158	
+LT	594585	Akacijų g.	residential	84	5	79	
+LT	594585	Beržų g.	residential	83	2	64	
+LT	594585	Aguonų g.	residential	79	2	52	
+LT	594585	Rudaminos g.	primary	79	1	39	
+LT	594585	Kaštonų g.	residential	73	1	41	
+LT	594585	Gegužinės 3-ioji g.	residential	71	4	73	
+LT	594585	Klebniškių g.	unclassified	71	2	70	
+LT	594585	Šv. Faustinos g.	residential	68	1	42	
+LT	594585	Sodų g.	residential	65	2	81	
+LT	594585	Minsko pl.		64	100	257	
+LT	594607	Vilniaus g.	residential	164	7	136	
+LT	594607	Kalnalaukio g.	residential	143	2	106	
+LT	594607	Širvintų g.	secondary	118	2	49	
+LT	594607	Draugystės g.	secondary	91	1	59	
+LT	594607	Plento g.	primary	84	1	90	
+LT	594607	Rožių g.	residential	72	3	37	
+LT	594607	Alyvų g.	residential	69	1	20	
+LT	594607	Kaštonų g.	residential	64	1	33	
+LT	594607	Liepų g.	residential	63	1	20	
+LT	594607	Paširvinčio g.	residential	63	3	56	
+LT	594607	Zibalų g.	secondary	62	8	69	
+LT	594607	Miško g.	residential	61	1	24	
+LT	594607	Sodų g.	residential	57	4	41	
+LT	594607	Tuopų g.	residential	53	2	41	
+LT	594607	Meldų g.	residential	52	2	30	
+LT	594607	I. Šeiniaus g.	residential	51	4	32	
+LT	594607	Užupio g.	residential	49	2	36	
+LT	594607	Bičiulių g.	residential	47	3	53	
+LT	594607	Tujų g.	residential	45	2	30	
+LT	594607	Pavasario g.	residential	40	2	38	
+LT	594607	Musninkų g.	residential	38	2	23	
+LT	594607	Tvenkinio g.	residential	38	1	31	
+LT	594607	Kaštanėlių g.	residential	37	2	37	
+LT	594607	Pamiškės g.	residential	36	2	46	
+LT	594639	Ežero g.	unclassified	125	2	48	
+LT	594639	Alytaus g.	primary	122	1	58	
+LT	594639	Kaštonų g.	primary	114	5	110	
+LT	594639	Dainavos g.	secondary	105	5	102	
+LT	594639	Vytauto g.	primary	98	5	89	
+LT	594639	Dzūkų g.	secondary	67	1	26	
+LT	594639	Vanagėlio g.	residential	59	5	64	
+LT	594639	Ateities g.	secondary	54	3	45	
+LT	594639	Gluosninkų g.	secondary	47	3	42	
+LT	594639	Giluičio g.	unclassified	46	2	41	
+LT	594639	Dariaus ir Girėno g.	primary	41	4	44	
+LT	594639	Krokininkų g.	unclassified	41	3	51	
+LT	594656	Lietuvininkų g.	primary	259	4	68	
+LT	594656	Tilžės g.	primary	151	2	99	
+LT	594656	Cintjoniškių g.	residential	91	5	24	
+LT	594656	Šilutės g.	secondary	89	2	91	
+LT	594656	Ramučių g.	secondary	80	1	64	
+LT	594656	Voveraičių tak.	residential	79	4	76	
+LT	594656	Pievų g.	unclassified	75	1	62	
+LT	594656	Pramonės g.	secondary	73	1	13	
+LT	594656	Sodų g.	residential	68	1	42	
+LT	594656	Dariaus ir Girėno g.	residential	67	1	30	
+LT	594656	Klaipėdos g.	secondary	65	2	101	
+LT	594656	Gluosnių g.	residential	64	4	29	
+LT	594656	Liepų g.	residential	64	1	24	
+LT	594656	Aukštumalės g.	secondary	60	2	63	
+LT	594656	Pavasario 2-asis tak.	residential	58	3	56	
+LT	594656	Šilojų g.	residential	55	1	49	
+LT	594656	Gamtos g.	secondary	53	5	58	
+LT	594656	Žemaičių Naumiesčio g.	primary	53	2	66	
+LT	594656	Rasos 4-asis tak.	living_street	52	3	48	
+LT	594656	Pavasario 3-iasis tak.	residential	51	4	50	
+LT	594656	Rasos 3-iasis tak.	living_street	51	3	47	
+LT	594656	Rasos 5-asis tak.	living_street	51	3	47	
+LT	594656	Draugystės 4-asis tak.	residential	48	3	45	
+LT	594656	Statybininkų g.	residential	48	2	91	
+LT	594693	Dariaus ir Girėno g.	primary	73	3	57	
+LT	594693	Draugystės g.	residential	64	2	49	
+LT	594693	Lokystos g.	residential	62	2	34	
+LT	594693	Lakštingalų g.	residential	59	1	33	
+LT	594693	Gardavos g.	unclassified	56	3	55	
+LT	594693	J. Basanavičiaus g.	secondary	55	3	30	
+LT	594693	Traukšlio g.	residential	55	2	28	
+LT	594693	Ašučio g.	residential	52	1	52	
+LT	594693	Lauryno Ivinskio g.	secondary	52	3	74	
+LT	594693	Aušros g.	residential	51	4	61	
+LT	594693	Svirno g.	residential	50	1	39	
+LT	594693	Kūtymų g.	secondary	48	3	47	
+LT	594739	Tilžės g.		538	28	227	
+LT	594739	Vilniaus g.	pedestrian	453	18	310	
+LT	594739	Sodo g.	residential	271	2	189	
+LT	594739	Rasos g.	residential	249	2	113	
+LT	594739	Vytauto g.	secondary	242	16	265	
+LT	594739	Palangos g.	residential	237	4	155	
+LT	594739	Birutės g.	tertiary	234	5	146	
+LT	594739	J. Basanavičiaus g.	primary	225	18	160	
+LT	594739	Žemaitės g.	primary	212	9	137	
+LT	594739	Pramonės g.	secondary	207	2	110	
+LT	594739	Sprudeikos g.	residential	201	15	240	
+LT	594739	V. Bielskio g.	residential	191	15	146	
+LT	594739	Dvaro g.	secondary	177	47	171	
+LT	594739	Miško g.	residential	166	3	47	
+LT	594739	Žiemgalių g.	residential	163	46	373	
+LT	594739	Bačiūnų g.	secondary	162	9	173	
+LT	594739	Tvenkinio g.	residential	158	2	70	
+LT	594739	Mažosios Lietuvos g.	residential	149	1	73	
+LT	594739	Liepų g.	residential	144	2	71	
+LT	594739	Ukmergės g.	residential	141	9	119	
+LT	594739	Ragainės g.	residential	138	7	92	
+LT	594739	Salduvės g.	residential	133	4	71	
+LT	594739	Vaivorykštės g.	residential	131	2	114	
+LT	594739	Panevėžio g.	residential	129	6	63	
+LT	594739	Radviliškio g.	residential	129	3	120	
+LT	594739	Gumbinės g.	primary	128	7	147	
+LT	594739	Serbentų g.	secondary	127	4	222	
+LT	594739	V. Kudirkos g.	residential	126	8	131	
+LT	594739	Gegužių g.	secondary	124	10	87	
+LT	594739	Ganyklų g.	residential	123	9	122	
+LT	594739	Rožių g.	residential	123	4	68	
+LT	594739	Vyšnių g.	residential	118	3	51	
+LT	594739	Klaipėdos g.	residential	117	4	96	
+LT	594739	Lelijų g.	residential	117	2	44	
+LT	594739	S. Daukanto g.	secondary	117	3	98	
+LT	594739	Algirdo Juliaus Greimo g.	residential	116	60	167	
+LT	594739	Žaliūkių g.	living_street	115	8	91	
+LT	594739	Vyturių g.	residential	113	4	103	
+LT	594739	Spindulio g.	residential	112	2	44	
+LT	594739	Aitvarų g.	residential	110	2	66	
+LT	594739	M. Mažvydo g.	residential	108	2	40	
+LT	594739	Aušros g.	primary	107	2	49	
+LT	594739	Dainų g.	residential	106	5	100	
+LT	594739	Skroblų g.	residential	106	6	176	
+LT	594739	Alyvų g.	residential	105	2	51	
+LT	594739	Ringuvos g.	residential	104	3	71	
+LT	594739	Aido g.	residential	103	8	37	
+LT	594739	Dubijos g.	primary	103	1	99	
+LT	594739	J. Šliūpo g.	residential	102	4	36	
+LT	594739	Ežero g.	secondary	101	1	63	
+LT	594739	Pabalių g.	residential	99	7	105	
+LT	594739	Beržų g.	residential	98	2	38	
+LT	594739	L. Rėzos g.	residential	94	6	25	
+LT	594739	Lizdeikos g.	residential	92	4	85	
+LT	594739	Ramunių g.	residential	90	3	50	
+LT	594739	Gintaro Sodų 1-oji g.	residential	89	5	97	
+LT	594739	Vilkaviškio g.	living_street	89	9	82	
+LT	594739	Vėtrungės g.	residential	89	5	166	
+LT	594739	Aušros al.	secondary	88	15	82	
+LT	594739	K. Donelaičio g.	residential	88	5	75	
+LT	594739	Akacijų g.	tertiary	87	4	54	
+LT	594739	Žemynos g.	living_street	87	7	130	
+LT	594739	Pagėgių g.	residential	83	8	66	
+LT	594739	Javų g.	residential	80	11	99	
+LT	594739	Švedės g.	residential	80	3	65	
+LT	594739	Žemdirbių g.	residential	80	4	60	
+LT	594739	Lydos g.	residential	79	9	79	
+LT	594739	Jotvingių g.	residential	77	5	96	
+LT	594739	Plento g.	secondary	77	1	55	
+LT	594739	Karaliaučiaus g.	residential	76	4	79	
+LT	594739	Kaštonų g.	residential	76	1	21	
+LT	594739	Voveraičių g.	residential	76	5	28	
+LT	594739	Žagarės g.	residential	76	4	80	
+LT	594739	Bijūnų g.	residential	75	1	37	
+LT	594739	Gardino g.	secondary	74	2	69	
+LT	594739	Margių Sodų 2-oji g.	residential	73	2	75	
+LT	594739	Pailių g.	residential	73	6	73	
+LT	594739	Vinkšnėnų g.	unclassified	73	2	23	
+LT	594739	Alytaus g.	residential	72	3	56	
+LT	594739	Verdulių g.	residential	72	4	84	
+LT	594739	Žygimanto g.	residential	72	13	83	
+LT	594739	Aušrinės Sodų 1-oji g.	residential	71	4	117	
+LT	594739	K. Korsako g.	residential	71	2	105	
+LT	594739	Sodininkų g.	residential	71	3	49	
+LT	594739	Jurginų g.	residential	70	3	49	
+LT	594739	Kadagių g.	residential	70	2	66	
+LT	594739	Eglyno g.	residential	69	5	80	
+LT	594739	Merkinės g.	residential	69	5	42	
+LT	594739	Noreikių g.	residential	69	2	84	
+LT	594739	Plungės g.	residential	69	4	94	
+LT	594739	Saulėtekio g.	residential	69	1	24	
+LT	594739	Karklų g.	residential	68	7	105	
+LT	594739	Lyros g.	tertiary	68	5	26	
+LT	594739	Pienių g.	residential	68	3	45	
+LT	594739	Pikeliškės g.	residential	68	5	90	
+LT	594739	Putinų g.	residential	68	2	27	
+LT	594739	Topolių g.	residential	68	1	20	
+LT	594739	Pasvalio g.	living_street	66	4	48	
+LT	594739	Prūsų g.	residential	66	3	54	
+LT	594739	Pumpučių g.	residential	66	2	53	
+LT	594744	Vytauto g.	secondary	56	2	53	
+LT	594744	Dvaro g.	secondary	40	1	29	
+LT	594744	B. Buračo g.	primary	39	1	43	
+LT	594744	Liepų g.	residential	39	1	38	
+LT	594744	Dariaus ir Girėno g.	secondary	38	5	39	
+LT	594744	Tytuvėnų g.	residential	37	2	43	
+LT	594744	Sodų g.	residential	36	2	40	
+LT	594744	Daukšių g.	unclassified	29	2	38	
+LT	594744	Sulinkių g.	residential	23	3	33	
+LT	594744	Kaimynų g.	primary	22	3	23	
+LT	594744	Kęstučio g.	residential	20	1	21	
+LT	594744	Žalioji g.	residential	20	8	32	
+LT	594767	Ramygalos g.	secondary	59	2	51	
+LT	594767	Kauno g.	primary	55	2	57	
+LT	594767	Liepų g.	unclassified	47	2	37	
+LT	594767	Sangailų g.	unclassified	37	2	36	
+LT	594767	Gaižūnų g.	secondary	36	2	34	
+LT	594767	Ukmergės g.	primary	36	1	37	
+LT	594767	Amatų g.	residential	33	2	33	
+LT	594767	Dariaus ir Girėno g.	residential	31	2	31	
+LT	594767	Lankesos g.	unclassified	30	2	57	
+LT	594767	Pagirių g.	residential	28	2	27	
+LT	594767	Draugystės g.	residential	24	7	48	
+LT	594767	Kėdainių g.	primary	24	1	21	
+LT	594776	Mokyklos g.	unclassified	60	1	53	
+LT	594776	Žalioji g.	residential	57	2	43	
+LT	594776	Lazdijų g.	primary	49	2	40	
+LT	594776	Beržų g.	secondary	46	2	32	
+LT	594776	Dzūkų g.	residential	45	2	22	
+LT	594776	Kovo 11-osios g.	unclassified	44	3	39	
+LT	594776	Sodų g.	unclassified	42	2	42	
+LT	594776	Vidzgailų g.	secondary	40	2	44	
+LT	594776	Pušyno g.	unclassified	38	1	25	
+LT	594776	Alytaus g.	primary	33	2	70	
+LT	594776	Kalnų g.	unclassified	30	1	30	
+LT	594776	Vilties g.	tertiary	30	2	34	
+LT	594814	Meduvio 1-oji g.	secondary	115	2	89	
+LT	594814	Trakų g.	primary	83	4	68	
+LT	594814	Dvarelio g.	residential	65	4	48	
+LT	594814	Laimės g.	unclassified	63	3	50	
+LT	594814	Lygainių g.	residential	47	2	48	
+LT	594814	Lauko g.	residential	43	3	33	
+LT	594814	Statybininkų g.	secondary	38	1	35	
+LT	594814	Pilies g.	primary	35	2	48	
+LT	594814	Gerovės g.		32	2	39	
+LT	594814	Ilgučio g.	unclassified	30	1	33	
+LT	594814	Sodų g.	residential	30	2	38	
+LT	594814	Draugystės g.	residential	29	5	31	
+LT	594848	Liepų g.	secondary	100	1	27	
+LT	594848	Vytauto g.	secondary	93	6	86	
+LT	594848	Ežero g.	unclassified	62	2	38	
+LT	594848	Ilgoji g.	unclassified	62	5	61	
+LT	594848	Naujoji g.	secondary	60	1	33	
+LT	594848	Paukščių g.	unclassified	51	1	47	
+LT	594848	Klevų g.	unclassified	47	2	31	
+LT	594848	Dusios g.	secondary	46	2	32	
+LT	594848	A. Žmuidzinavičiaus g.	secondary	45	3	45	
+LT	594848	Jono Reitelaičio g.	secondary	45	3	45	
+LT	594848	Algirdo g.	primary	43	3	45	
+LT	594848	Beržų g.	unclassified	40	1	25	
+LT	594861	Kėdainių g.	tertiary	130	8	130	
+LT	594861	Vytauto g.	secondary	96	8	96	
+LT	594861	Sporto g.	residential	95	1	79	
+LT	594861	Vėriškių g.	residential	74	2	57	
+LT	594861	Panevėžio g.	secondary	58	4	71	
+LT	594861	Sodų g.	residential	56	3	58	
+LT	594861	Šaltinio g.	residential	50	3	51	
+LT	594861	Vartyčios g.	secondary	46	3	47	
+LT	594861	Progimnazijos g.	residential	44	7	60	
+LT	594861	Taikos g.	secondary	44	2	36	
+LT	594861	Kaimynų g.	residential	42	1	35	
+LT	594861	Paežerių g.	secondary	42	3	34	
+LT	594867	Beržupio g.	secondary	98	7	196	
+LT	594867	Dariaus ir Girėno g.	primary	74	4	95	
+LT	594867	Židikų g.	primary	59	6	132	
+LT	594867	Telšių g.	primary	48	5	89	
+LT	594867	Konstantino Pliaterio g.	secondary	44	6	73	
+LT	594867	Sedos g.	primary	40	20	150	
+LT	594867	Ežero g.	residential	38	3	25	
+LT	594867	Gardenio g.	primary	38	4	146	
+LT	594867	Slėnio g.	secondary	36	10	89	
+LT	594867	Vytauto g.	primary	34	1	46	
+LT	594867	Puokės g.	unclassified	30	17	89	
+LT	594867	Ylakių g.	secondary	30	3	34	
+LT	594943	Vakarų g.	residential	21	2	12	
+LT	594943	Parmos g.	residential	18	1	21	
+LT	594943	Dobilų g.	residential	14	5	16	
+LT	594943	Hervantos g.	residential	14	1	22	
+LT	594943	Pilėnų g.	residential	12	5	14	
+LT	594943	Ajerų g.	residential	9	2	18	
+LT	594943	Paribio g.	residential	8	1	22	
+LT	594943	Meldų g.	residential	6	10	17	
+LT	594943	Tango g.	residential	6	7	12	
+LT	594943	Viesulo g.	residential	6	10	20	
+LT	594943	Žaros g.		6	2	12	
+LT	594943	Žiburių g.	residential	6	21	31	
+LT	595016	Vilniaus g.	secondary	244	2	112	
+LT	595016	Nepriklausomybės g.	primary	117	5	136	
+LT	595016	Sodų g.	residential	92	3	39	
+LT	595016	Pamūrinės g.	residential	89	5	142	
+LT	595016	A. Mickevičiaus g.	residential	85	3	84	
+LT	595016	Naujakiemio g.	residential	78	5	68	
+LT	595016	Pramonės g.	residential	71	2	19	
+LT	595016	Užupio g.	unclassified	69	2	95	
+LT	595016	Šalčininkų g.	secondary	68	4	74	
+LT	595016	Saulėtoji g.	primary	67	3	110	
+LT	595016	Krantinės g.	residential	58	1	71	
+LT	595016	Alyvų g.	residential	56	2	44	
+LT	595016	Dainavos g.	residential	55	3	76	
+LT	595016	Mokyklos g.	residential	54	1	26	
+LT	595016	Azalijų g.	residential	53	3	50	
+LT	595016	Naujoji g.	residential	53	1	34	
+LT	595016	Uogų g.	residential	52	3	48	
+LT	595016	Vilties g.	residential	52	5	78	
+LT	595016	Janapolio g.	residential	50	2	48	
+LT	595016	Ramunėlių g.	residential	50	3	47	
+LT	595016	Geležinkelio g.	secondary	48	2	66	
+LT	595016	Jubiliejinė g.	residential	47	1	44	
+LT	595016	Žalioji g.	residential	47	1	35	
+LT	595016	Plento g.	residential	46	1	42	
+LT	595020	Salantų g.	secondary	101	2	64	
+LT	595020	Žemaitės g.	secondary	89	6	100	
+LT	595020	M. Valančiaus g.	primary	68	2	64	
+LT	595020	Dariaus ir Girėno g.	unclassified	60	5	62	
+LT	595020	Piliakalnio g.	residential	58	2	35	
+LT	595020	Ilgoji g.	secondary	51	2	50	
+LT	595020	Mosėdžio g.	secondary	50	49	99	
+LT	595020	Erlos g.	secondary	48	2	37	
+LT	595020	Liepų g.	residential	45	2	24	
+LT	595020	Kalno g.	residential	40	1	15	
+LT	595020	Platelių g.	secondary	40	1	86	
+LT	595020	Bijūnų g.	unclassified	38	2	49	
+LT	595044	V. Kudirkos g.	secondary	237	17	132	
+LT	595044	Kęstučio g.	primary	138	4	116	
+LT	595044	J. Basanavičiaus g.	unclassified	109	4	111	
+LT	595044	Rasos g.	residential	106	3	90	
+LT	595044	Miško g.	residential	86	3	34	
+LT	595044	Kauno g.	primary	81	3	64	
+LT	595044	Šilgalių Sodų g.	residential	76	4	77	
+LT	595044	Aušros g.	secondary	73	3	67	
+LT	595044	Siesarties g.	residential	66	1	29	
+LT	595044	Bažnyčios g.	unclassified	65	4	56	
+LT	595044	Beržų g.	residential	62	2	39	
+LT	595044	Giedručių g.	residential	59	3	54	
+LT	595087	Žuvėdros 4-asis tak.		91	5	137	
+LT	595087	Neringos g.	residential	83	1	63	
+LT	595087	Pakalnės g.	secondary	78	3	80	
+LT	595087	Žuvėdros 3-iasis tak.		59	3	53	
+LT	595087	Žuvėdros 1-asis tak.		56	3	74	
+LT	595087	Uostadvario g.	secondary	49	2	47	
+LT	595087	Žuvėdros 2-asis tak.		45	3	43	
+LT	595087	K. Donelaičio g.	secondary	37	1	15	
+LT	595087	Lakštingalų g.	residential	30	1	11	
+LT	595087	Taikos g.	secondary	30	1	21	
+LT	595087	Šyškrantės g.	secondary	26	1	30	
+LT	595087	Nemuno g.	residential	25	2	31	
+LT	595160	Trakų g.	primary	117	1	85	
+LT	595160	Aluonos g.	secondary	87	1	55	
+LT	595160	Paluknės g.	secondary	67	2	73	
+LT	595160	Pušyno g.	residential	61	1	28	
+LT	595160	Gedimino g.		60	3	58	
+LT	595160	Aušros g.	primary	56	2	48	
+LT	595160	Gūdiškių g.	residential	56	3	49	
+LT	595160	Miško g.	residential	56	2	49	
+LT	595160	Malūno g.	unclassified	52	1	39	
+LT	595160	Vytauto Didžiojo kel.	unclassified	49	2	34	
+LT	595160	Ismonių g.	secondary	48	3	41	
+LT	595160	Karažiškių g.	unclassified	46	3	41	
+LT	595174	Miško g.	residential	125	2	32	
+LT	595174	Gamyklos g.	primary	109	1	56	
+LT	595174	Pušų g.	residential	100	1	28	
+LT	595174	Draugystės g.	residential	97	2	62	
+LT	595174	Mokyklos g.	unclassified	92	2	80	
+LT	595174	Vilniaus g.	secondary	86	3	73	
+LT	595174	Centrinė g.	residential	80	4	96	
+LT	595174	Didlaukio g.	residential	78	4	29	
+LT	595174	Gėlių g.	residential	75	1	47	
+LT	595174	Prūdiškių g.	unclassified	74	2	74	
+LT	595174	Parko g.	residential	70	2	63	
+LT	595174	A. Mickevičiaus g.	secondary	68	7	55	
+LT	595213	Respublikos g.	primary	159	7	111	
+LT	595213	Parko g.	residential	78	2	34	
+LT	595213	Jūžintų g.	residential	77	3	35	
+LT	595213	Kauno g.	secondary	74	1	61	
+LT	595213	J. Gruodžio g.	residential	65	3	60	
+LT	595213	Parokiškės g.	primary	65	3	39	
+LT	595213	Vytauto g.	secondary	65	4	47	
+LT	595213	J. Tumo-Vaižganto g.	residential	63	5	62	
+LT	595213	Paparčių g.	residential	63	2	34	
+LT	595213	Sodininkų g.	residential	63	4	71	
+LT	595213	Sodų g.	residential	62	2	39	
+LT	595213	Pandėlio g.	secondary	61	4	48	
+LT	595213	Saulėtekio g.	residential	58	2	39	
+LT	595213	Birutės g.	residential	57	5	64	
+LT	595213	Pušų g.	residential	57	2	36	
+LT	595213	Kęstučio g.	residential	56	4	53	
+LT	595213	Panevėžio g.	primary	55	1	38	
+LT	595213	Nepriklausomybės a.	secondary	53	2	30	
+LT	595213	Ąžuolų g.	residential	53	1	28	
+LT	595213	Lauko g.	residential	52	2	26	
+LT	595213	Vyšnių g.	residential	52	1	23	
+LT	595213	Ežero g.	residential	49	2	35	
+LT	595213	Rokiškio g.	primary	48	1	44	
+LT	595213	Aušros g.	residential	47	2	71	
+LT	595284	Plungės g.	primary	119	3	85	
+LT	595284	Žemaičių g.	residential	90	6	73	
+LT	595284	S. Nėries g.	residential	88	4	82	
+LT	595284	Vatušių g.	secondary	79	5	67	
+LT	595284	Bangos g.	residential	71	2	71	
+LT	595284	Kulių g.	secondary	61	5	69	
+LT	595284	Daržų g.	residential	46	1	46	
+LT	595284	Klaipėdos g.	primary	45	3	46	
+LT	595284	Beržų g.	residential	39	1	25	
+LT	595284	Laukuvos g.	residential	37	2	25	
+LT	595284	Palangos g.	unclassified	37	3	36	
+LT	595284	Vandentiekio g.	residential	35	1	35	
+LT	595356	Vlado Dautarto g.	residential	95	2	55	
+LT	595356	Atgimimo g.	secondary	79	1	228	
+LT	595356	J. Naujalio g.	primary	69	3	81	
+LT	595356	Saulės g.	residential	69	2	32	
+LT	595356	Žalgirio g.	residential	65	1	48	
+LT	595356	Mėtų g.	residential	63	2	51	
+LT	595356	Upytės g.	unclassified	57	4	84	
+LT	595356	Vėjo g.	living_street	53	2	55	
+LT	595356	Aukuro g.	residential	50	3	60	
+LT	595356	Pamiškės g.	residential	49	3	31	
+LT	595356	Dobilų g.	residential	46	2	27	
+LT	595356	Vyturių g.	residential	46	2	29	
+LT	595378	Vilniaus g.	primary	214	3	180	
+LT	595378	Garažų g.	residential	164	11	289	
+LT	595378	Dubysos g.	residential	127	2	76	
+LT	595378	Gedimino g.	residential	112	6	98	
+LT	595378	Stonų g.	secondary	109	8	153	
+LT	595378	Sodų g.	residential	91	1	50	
+LT	595378	Žemaičių g.	residential	88	1	72	
+LT	595378	Alyvų g.	residential	83	1	40	
+LT	595378	Gintaro g.	residential	70	3	50	
+LT	595378	Liepų g.	residential	70	1	34	
+LT	595378	Pušyno g.	secondary	65	3	38	
+LT	595378	Bokšto g.	residential	64	1	31	
+LT	595378	Žvyryno g.	residential	64	3	70	
+LT	595378	Maironio g.	primary	62	3	80	
+LT	595378	Pievų g.	residential	61	1	15	
+LT	595378	V. Grybo g.	unclassified	59	2	64	
+LT	595378	Vaižganto g.	secondary	59	5	54	
+LT	595378	Aguonų g.	residential	58	2	35	
+LT	595378	Savanorių g.	residential	58	3	49	
+LT	595378	Turgaus g.	residential	55	3	45	
+LT	595378	Vilties g.	residential	54	2	35	
+LT	595378	Partizanų g.	living_street	53	3	43	
+LT	595378	Ateities g.	residential	52	2	32	
+LT	595378	Šermukšnių g.	residential	52	2	26	
+LT	595387	Dariaus ir Girėno g.	residential	76	3	67	
+LT	595387	Sporto g.	residential	48	4	66	
+LT	595387	Krekenavos g.	secondary	43	4	48	
+LT	595387	Pavasario g.	secondary	40	1	46	
+LT	595387	Gėlių g.	residential	38	3	51	
+LT	595387	Panevėžio g.	residential	37	2	37	
+LT	595387	Šilo g.	residential	37	2	35	
+LT	595387	Savanorių g.	residential	34	4	34	
+LT	595387	Parko g.	residential	33	1	20	
+LT	595387	Ėriškių g.		31	2	29	
+LT	595387	A. Čyplio g.	residential	30	2	33	
+LT	595387	Papiškių g.	secondary	28	3	37	
+LT	595393	Parko g.	residential	169	1	80	
+LT	595393	Centrinė g.	secondary	108	1	56	
+LT	595393	Kertupio g.	unclassified	105	4	71	
+LT	595393	Beržų g.	residential	100	1	72	
+LT	595393	Ramunių g.	residential	91	3	39	
+LT	595393	Gėlių g.	residential	89	2	44	
+LT	595393	Tvenkinio g.	residential	77	2	57	
+LT	595393	Liepų g.	residential	72	1	65	
+LT	595393	Dvaro g.	residential	71	5	56	
+LT	595393	Žiedų g.	residential	64	2	51	
+LT	595393	Zversos g.	residential	63	4	54	
+LT	595393	Keramikų g.	unclassified	60	8	102	
+LT	595449	Maironio g.	unclassified	246	5	166	
+LT	595449	M. Mažvydo g.	residential	193	11	209	
+LT	595449	Dariaus ir Girėno g.	secondary	176	4	128	
+LT	595449	Liepų g.	residential	158	2	36	
+LT	595449	Gedimino g.	primary	145	3	73	
+LT	595449	Paplentės 1-oji g.		118	9	123	
+LT	595449	Paplentės 2-oji g.		117	6	124	
+LT	595449	Vaižganto g.	secondary	111	5	58	
+LT	595449	Ežero g.	unclassified	101	2	39	
+LT	595449	Šniūraičių g.	secondary	85	5	75	
+LT	595449	J. Basanavičiaus g.	unclassified	82	5	73	
+LT	595449	Alyvų g.	secondary	81	2	40	
+LT	595449	Skaistakalnio g.		78	4	75	
+LT	595449	Žalgirio g.	residential	73	2	73	
+LT	595449	Vilties g.	secondary	70	3	55	
+LT	595449	Beržų g.	residential	68	2	31	
+LT	595449	Pušų g.	residential	65	3	49	
+LT	595449	Vytauto Landsbergio-Žemkalnio g.		61	6	26	
+LT	595449	Miško g.	residential	57	1	62	
+LT	595449	S. Daukanto g.	residential	56	4	61	
+LT	595449	Šiaulių g.		55	1	41	
+LT	595449	Saulėtekio g.	residential	52	2	57	
+LT	595449	L. Radėno g.	unclassified	51	3	59	
+LT	595449	Pievų g.	residential	50	1	16	
+LT	595449	Draugystės g.	residential	49	2	36	
+LT	595449	Kęstučio g.	residential	48	3	31	
+LT	595449	Žemaitės g.	residential	48	4	47	
+LT	595449	J. Jaramino g.	unclassified	47	9	49	
+LT	595449	Plento g.	residential	47	2	48	
+LT	595449	Taikos g.	residential	46	1	34	
+LT	595449	Jaunystės g.	residential	45	2	33	
+LT	595449	Ąžuolyno g.	residential	45	2	48	
+LT	595449	Raktažolių g.	residential	44	3	45	
+LT	595449	Mindaugo g.	residential	43	14	51	
+LT	595449	Vasario 16-osios g.	residential	43	2	27	
+LT	595449	Žironų g.	secondary	42	2	20	
+LT	595449	J. Biliūno g.	residential	41	4	23	
+LT	595449	Alytaus g.	unclassified	40	10	71	
+LT	595449	Radviliškio g.	residential	40	1	40	
+LT	595449	Jonažolių g.	residential	38	2	40	
+LT	595449	Kaulinių g.	unclassified	37	1	31	
+LT	595449	Sodininkų g.	residential	37	5	50	
+LT	595449	Čiobrelių g.	residential	37	2	41	
+LT	595449	Radvilų g.	residential	36	2	27	
+LT	595449	Vikutinio g.		36	4	42	
+LT	595449	Laisvės al.	residential	35	3	42	
+LT	595449	Ąžuolų g.	residential	35	4	36	
+LT	595449	Kaštonų g.	unclassified	34	2	15	
+LT	595596	F. Vaitkaus g.	unclassified	190	7	170	
+LT	595596	Liepų g.	secondary	168	4	233	
+LT	595596	Kauno g.	tertiary	132	2	91	
+LT	595596	Kęstučio g.	secondary	123	12	104	
+LT	595596	Žemaitės g.	unclassified	112	5	101	
+LT	595596	Vytauto g.	tertiary	100	2	61	
+LT	595596	V. Kudirkos g.	residential	93	8	97	
+LT	595596	Revuonos g.	residential	89	9	80	
+LT	595596	J. Basanavičiaus g.	secondary	85	6	58	
+LT	595596	F. Martišiaus g.		81	4	82	
+LT	595596	Miško g.	residential	77	1	29	
+LT	595596	Vilniaus g.	residential	71	3	60	
+LT	595596	Paupio g.	secondary	64	2	46	
+LT	595596	Kalnų Sodo g.	residential	60	4	61	
+LT	595596	Šilo g.	secondary	60	1	58	
+LT	595596	Alksnių g.	tertiary	58	2	47	
+LT	595596	Stadiono g.	residential	57	2	57	
+LT	595596	Vingio g.	secondary	57	12	135	
+LT	595596	Panemunės g.	secondary	51	1	43	
+LT	595596	Sodų g.	residential	48	2	38	
+LT	595596	Pievų g.	residential	46	2	44	
+LT	595596	Medelyno g.	residential	45	5	82	
+LT	595596	Naujakurių g.	residential	45	3	55	
+LT	595596	Sodžiaus g.	residential	44	1	40	
+LT	595598	Klaipėdos g.	secondary	198	2	81	
+LT	595598	Minijos g.	residential	176	1	90	
+LT	595598	Dituvos g.	residential	168	9	186	
+LT	595598	Nidos g.	residential	138	2	73	
+LT	595598	Žvejų g.	residential	129	2	48	
+LT	595598	Preilos g.	residential	109	6	124	
+LT	595598	Alyvų g.	residential	108	2	71	
+LT	595598	Pavasario g.	residential	101	5	89	
+LT	595598	Liepų g.	residential	98	1	34	
+LT	595598	Turgaus g.	residential	98	3	54	
+LT	595598	Pervalkos g.	residential	96	5	95	
+LT	595598	Draugystės g.	residential	93	5	97	
+LT	595689	Liepų g.	residential	171	2	43	
+LT	595689	Telšių g.	unclassified	142	3	121	
+LT	595689	Birutės g.	secondary	138	4	71	
+LT	595689	Beržų g.	residential	133	1	50	
+LT	595689	J. Tumo-Vaižganto g.	primary	131	6	110	
+LT	595689	Rietavo g.	primary	125	5	114	
+LT	595689	S. Nėries g.	residential	100	7	94	
+LT	595689	Alyvų g.	residential	94	2	53	
+LT	595689	Babrungo g.	unclassified	93	2	25	
+LT	595689	V. Mačernio g.	residential	93	4	65	
+LT	595689	Rožių g.	residential	91	1	22	
+LT	595689	Kulių g.	primary	85	5	76	
+LT	595689	Dariaus ir Girėno g.	secondary	83	4	75	
+LT	595689	Klevų g.	unclassified	81	2	34	
+LT	595689	Žemaičių g.	residential	81	2	44	
+LT	595689	Paprūdžio g.	residential	80	4	45	
+LT	595689	Vingio g.	residential	80	2	34	
+LT	595689	Stoties g.	secondary	79	5	42	
+LT	595689	Gandingos g.	residential	77	4	54	
+LT	595689	Baltų g.	residential	75	4	96	
+LT	595689	Kaštonų g.	residential	73	2	39	
+LT	595689	Platelių g.	residential	73	4	67	
+LT	595689	J. Pabrėžos g.	residential	72	4	87	
+LT	595689	Medelyno g.	unclassified	69	4	63	
+LT	595689	Sruojos g.	residential	67	2	39	
+LT	595689	Žemaitės g.	residential	67	4	104	
+LT	595689	Laisvės g.	unclassified	65	5	67	
+LT	595689	Ramunių g.	residential	61	2	78	
+LT	595689	Tujų g.	residential	60	1	27	
+LT	595689	Draugystės g.	residential	59	2	28	
+LT	595689	Kalniškių g.	residential	59	3	45	
+LT	595689	Lankos g.	residential	59	2	51	
+LT	595689	Tvenkinio g.	unclassified	57	1	21	
+LT	595689	Tulpių g.	residential	55	2	28	
+LT	595689	Kalno g.	residential	54	2	30	
+LT	595689	J. Biliūno g.	residential	53	4	30	
+LT	595689	Pamiškės g.	residential	53	1	20	
+LT	595689	Saulėtekio g.	residential	50	2	28	
+LT	595689	Vytauto g.	secondary	50	3	33	
+LT	595689	J. Pabrėžos skg.	residential	49	3	49	
+LT	595689	Žalioji g.	residential	48	2	22	
+LT	595689	Lentpjūvės g.	residential	47	3	26	
+LT	595689	Margirio g.	residential	47	1	30	
+LT	595689	Miškų g.	residential	47	4	42	
+LT	595689	Vyturio g.	residential	47	3	35	
+LT	595689	A. Jucio g.	tertiary	46	2	53	
+LT	595689	Ežero g.	residential	46	1	32	
+LT	595689	Minijos g.	secondary	46	2	37	
+LT	595726	Vingio g.	secondary	95	3	60	
+LT	595726	Žemaičių Kalvarijos g.	secondary	69	1	75	
+LT	595726	Platelių g.	secondary	62	3	80	
+LT	595726	Ežero g.	secondary	55	2	46	
+LT	595726	Žemaitės g.	secondary	55	2	40	
+LT	595726	Žalioji g.	residential	49	3	46	
+LT	595726	Plungės g.	secondary	41	5	66	
+LT	595726	Didžioji g.	secondary	34	1	24	
+LT	595726	Liepijų g.	residential	32	2	27	
+LT	595726	Medsėdžių g.	residential	28	2	27	
+LT	595726	Naujoji g.	residential	27	2	26	
+LT	595726	Paežerės g.	secondary	27	3	40	
+LT	595842	Nidos-Smiltynės pl.	primary	1	0	0	
+LT	595842	Pervalkos g.	living_street	1	0	0	
+LT	595842	Privažiuojamasis kelias prie Pervalkos nuo kelio Smiltynė — Nida	secondary	1	0	0	
+LT	595997	Biržų g.	residential	154	5	114	
+LT	595997	Melioratorių g.	residential	99	6	54	
+LT	595997	Vilniaus g.	primary	98	3	61	
+LT	595997	Kalno g.	residential	97	4	89	
+LT	595997	Ąžuolų g.	secondary	93	2	54	
+LT	595997	Žalioji g.	unclassified	92	2	54	
+LT	595997	Mūšos g.	primary	90	1	26	
+LT	595997	Draugystės g.	residential	89	2	59	
+LT	595997	Joniškėlio g.	primary	86	4	65	
+LT	595997	Panevėžio g.	secondary	84	4	76	
+LT	595997	Nepriklausomybės g.	residential	78	2	73	
+LT	595997	Šimonių g.	tertiary	76	1	35	
+LT	595997	Taikos g.	secondary	75	1	39	
+LT	595997	Ežero g.	unclassified	72	1	33	
+LT	595997	Stoties g.	primary	66	6	37	
+LT	595997	Sodų g.	unclassified	63	1	23	
+LT	595997	Svalios g.	residential	57	2	30	
+LT	595997	Geležinkeliečių g.	residential	55	6	70	
+LT	595997	Pyvesos g.	residential	52	1	24	
+LT	595997	Pasvalio g.	secondary	51	2	36	
+LT	595997	Bokšto g.	residential	50	1	38	
+LT	595997	Jurginų g.	residential	50	3	47	
+LT	595997	Parko g.	residential	50	2	31	
+LT	595997	Ustukių g.	residential	48	3	43	
+LT	596102	Nepriklausomybės g.	primary	153	8	142	
+LT	596102	Pergalės g.	residential	44	3	42	
+LT	596102	Beržų g.	residential	37	2	39	
+LT	596102	Gumbakių g.	unclassified	35	2	33	
+LT	596102	Pavasario g.	secondary	35	2	28	
+LT	596102	Kruopių g.	secondary	33	1	33	
+LT	596102	J. Basanavičiaus g.	residential	32	2	28	
+LT	596102	S. Daukanto g.	secondary	31	1	27	
+LT	596102	Taikos g.	residential	30	2	28	
+LT	596102	Kaštonų g.	unclassified	28	1	23	
+LT	596102	Liepų g.	residential	27	2	22	
+LT	596102	Sodų g.	secondary	25	1	33	
+LT	596128	Klaipėdos g.	living_street	323	25	166	
+LT	596128	Pušaloto g.	secondary	323	11	213	
+LT	596128	Kniaudiškių g.	secondary	287	6	159	
+LT	596128	Smėlynės g.		276	9	200	
+LT	596128	Nevėžio g.	secondary	236	1	88	
+LT	596128	Alyvų g.	unclassified	228	3	136	
+LT	596128	Ramygalos g.	secondary	217	19	202	
+LT	596128	Rožių g.	tertiary	203	2	111	
+LT	596128	Tvenkinio g.	residential	184	5	80	
+LT	596128	Beržų g.	secondary	178	2	48	
+LT	596128	Senamiesčio g.	primary	171	11	116	
+LT	596128	Ūtos g.	residential	171	5	115	
+LT	596128	Vyturio g.	residential	169	3	47	
+LT	596128	Lėvens g.	residential	156	1	47	
+LT	596128	Šiaulių g.	living_street	155	5	81	
+LT	596128	Sodžiaus g.	residential	154	2	51	
+LT	596128	Saulėtekio g.	residential	153	2	58	
+LT	596128	Ryto g.	residential	146	2	38	
+LT	596128	Staniūnų g.	residential	141	9	183	
+LT	596128	Parko g.	secondary	139	5	89	
+LT	596128	J. Janonio g.	secondary	132	2	86	
+LT	596128	Pušyno g.	residential	130	6	138	
+LT	596128	Panendrės g.	residential	128	7	66	
+LT	596128	Tulpių g.	unclassified	128	3	62	
+LT	596128	Klevų g.	unclassified	127	2	63	
+LT	596128	Pelkių g.	living_street	122	6	71	
+LT	596128	Savanorių g.	residential	122	2	169	
+LT	596128	Debesų g.		121	7	115	
+LT	596128	Draugystės g.	secondary	121	1	88	
+LT	596128	Žibučių g.	residential	121	5	61	
+LT	596128	Daumėnų g.	residential	120	3	70	
+LT	596128	Stetiškių g.	residential	120	1	71	
+LT	596128	Vytauto g.	residential	120	2	54	
+LT	596128	Aguonų g.	unclassified	119	5	140	
+LT	596128	Pievų g.	residential	116	1	58	
+LT	596128	Piniavos g.	residential	114	3	96	
+LT	596128	J. Tilvyčio g.	primary	108	11	157	
+LT	596128	Pramonės g.	secondary	107	2	27	
+LT	596128	Saulės al.	living_street	107	4	75	
+LT	596128	J. Basanavičiaus g.		106	2	74	
+LT	596128	Molainių g.	tertiary	106	5	108	
+LT	596128	Miško g.	residential	105	2	27	
+LT	596128	Pavasario g.	residential	105	4	58	
+LT	596128	Šeškų g.	residential	105	6	102	
+LT	596128	Naujamiesčio g.	residential	104	6	87	
+LT	596128	Rūtų g.	residential	104	5	76	
+LT	596128	Amerikos g.	residential	103	3	89	
+LT	596128	Savitiškio g.	residential	103	4	192	
+LT	596128	Ąžuolų g.	residential	102	2	39	
+LT	596128	Šermukšnių g.	residential	101	4	62	
+LT	596128	Žalgirio g.	residential	101	4	77	
+LT	596128	Pajuosčio pl.	secondary	100	27	68	
+LT	596128	Velžio kel.	primary	100	5	192	
+LT	596128	Gėlainių g.	living_street	99	5	96	
+LT	596128	Žalioji g.	residential	99	2	35	
+LT	596128	Liepų g.	residential	97	2	31	
+LT	596128	Sodų g.	residential	97	3	52	
+LT	596128	Medžiotojų g.	living_street	95	2	62	
+LT	596128	Radastų g.	residential	95	4	68	
+LT	596128	Algirdo g.	residential	93	4	92	
+LT	596128	Aukštaičių g.	secondary	93	2	88	
+LT	596128	Kazio Naruševičiaus g.	unclassified	91	11	118	
+LT	596128	Vynupės g.	residential	90	4	86	
+LT	596128	Šilagalio g.	unclassified	90	2	108	
+LT	596128	Lakštingalų g.	residential	89	2	35	
+LT	596128	Ukmergės g.	residential	88	5	45	
+LT	596128	Astrų g.	residential	87	2	46	
+LT	596128	Gervių g.	living_street	87	1	59	
+LT	596128	Kęstučio g.	residential	87	3	34	
+LT	596128	Eglyno g.	residential	86	4	55	
+LT	596128	Sanžilės g.	residential	86	1	38	
+LT	596128	Bijūnų g.	residential	85	5	108	
+LT	596128	Karosų g.	living_street	84	5	81	
+LT	596128	Pilėnų g.	residential	84	6	67	
+LT	596128	Tinklų g.	secondary	84	3	35	
+LT	596128	Respublikos g.	secondary	82	3	77	
+LT	596128	Slyvų g.	residential	82	2	40	
+LT	596128	Suvalkų g.	residential	82	6	78	
+LT	596128	Nemuno g.	secondary	81	5	79	
+LT	596128	Vilniaus g.	primary	81	4	57	
+LT	596128	J. Zikaro g.	residential	80	5	78	
+LT	596128	Upės g.	residential	80	2	47	
+LT	596128	Upėtakių g.	living_street	80	3	76	
+LT	596128	Žemdirbių g.	residential	79	3	74	
+LT	596128	Bendrijų g.	living_street	78	4	78	
+LT	596128	Garšvių g.	unclassified	77	5	107	
+LT	596128	Merkurijaus g.	residential	77	4	86	
+LT	596128	Statybininkų g.	unclassified	76	3	54	
+LT	596128	Vėgėlių g.	living_street	76	4	73	
+LT	596128	A. Smetonos g.	residential	75	4	48	
+LT	596128	Jazminų g.	residential	75	3	38	
+LT	596128	Sūkurio g.	residential	75	2	45	
+LT	596128	Katkų g.	residential	74	5	99	
+LT	596128	Purienų g.	residential	74	3	35	
+LT	596128	S. Kerbedžio g.	primary	74	5	52	
+LT	596128	Šamų g.	living_street	74	4	71	
+LT	596128	Vyšnių g.	residential	73	2	35	
+LT	596128	Dvaro g.	residential	72	1	50	
+LT	596128	Kranto g.	living_street	72	3	62	
+LT	596128	Spanguolių g.	living_street	72	4	78	
+LT	596144	Puodžialaukės g.	unclassified	63	1	37	
+LT	596144	Biržų g.	primary	53	3	47	
+LT	596144	Nemunėlio g.	secondary	42	4	37	
+LT	596144	Rokiškio g.	primary	38	1	28	
+LT	596144	Sodų g.	unclassified	37	1	27	
+LT	596144	Apaščios g.	primary	35	2	48	
+LT	596144	Lakštutės g.	unclassified	35	2	33	
+LT	596144	Panemunio g.	secondary	34	2	34	
+LT	596144	Liepų g.	residential	32	1	23	
+LT	596144	Kurklaičių g.	secondary	29	2	30	
+LT	596144	Klaipėdos g.	residential	26	2	28	
+LT	596144	Naujoji g.	secondary	24	1	22	
+LT	596178	Senoji g.	secondary	59	3	64	
+LT	596178	Gegužinių g.	unclassified	51	2	46	
+LT	596178	Liepynų g.	residential	49	4	47	
+LT	596178	Luknos g.	unclassified	45	2	49	
+LT	596178	Užupio g.	unclassified	40	1	35	
+LT	596178	Debesų g.	residential	33	2	31	
+LT	596178	Rūdiškių g.	unclassified	31	1	30	
+LT	596178	Gėlių g.	secondary	29	1	29	
+LT	596178	Nuokalnės g.		27	2	34	
+LT	596178	Kranto g.	residential	25	2	27	
+LT	596178	Sukilėlių g.	unclassified	25	2	23	
+LT	596178	Gojaus g.	unclassified	24	1	36	
+LT	596238	Vaivorykštės g.	residential	573	11	86	
+LT	596238	Vytauto g.	tertiary	356	4	180	
+LT	596238	Klaipėdos pl.	secondary	244	4	63	
+LT	596238	Miško tak.		195	2	151	
+LT	596238	Užkanavės g.	residential	186	9	99	
+LT	596238	Mokyklos g.	secondary	182	2	82	
+LT	596238	Didžioji g.	residential	178	9	297	
+LT	596238	Paliepgirių kel.	residential	173	5	119	
+LT	596238	Žibų g.		151	9	118	
+LT	596238	Pušų g.	residential	150	7	59	
+LT	596238	Genio g.	residential	147	8	56	
+LT	596238	Vanagupės g.	residential	143	5	50	
+LT	596238	Jūros g.	residential	138	2	67	
+LT	596238	Aido tak.	residential	137	9	66	
+LT	596238	Vilimiškės kel.	residential	137	6	113	
+LT	596238	Šventosios g.		136	4	46	
+LT	596238	Gintaro g.	residential	133	3	62	
+LT	596238	Liepų g.	secondary	123	1	42	
+LT	596238	Šaltinio g.		119	5	115	
+LT	596238	Pylimo g.		117	11	141	
+LT	596238	Sodų g.	unclassified	117	4	63	
+LT	596238	Ajerų g.	residential	114	2	38	
+LT	596238	Kuršių tak.		110	1	46	
+LT	596238	Būtingės g.		107	5	53	
+LT	596238	Dulksnos g.		107	12	141	
+LT	596238	Kunigiškių g.	unclassified	104	2	16	
+LT	596238	Kurorto g.	residential	102	20	185	
+LT	596238	Ošupio tak.		101	1	25	
+LT	596238	Žalioji g.	residential	97	1	43	
+LT	596238	Žuvėdrų g.	residential	92	3	59	
+LT	596238	Kopų g.	residential	91	2	61	
+LT	596238	Hipodromo g.	residential	88	2	103	
+LT	596238	Klevų g.	residential	85	4	78	
+LT	596238	Mėguvos g.	residential	83	5	189	
+LT	596238	Kontininkų g.	residential	82	3	22	
+LT	596238	Pašventupio kel.		78	3	62	
+LT	596238	Ąžuolų g.	residential	77	2	67	
+LT	596238	Ilgoji g.	residential	76	10	95	
+LT	596238	Ganyklų g.	unclassified	75	4	63	
+LT	596238	J. Basanavičiaus g.	pedestrian	74	4	48	
+LT	596238	Kretingos g.	tertiary	74	3	64	
+LT	596238	Vakaro g.	residential	74	3	39	
+LT	596238	Monciškės g.		72	4	47	
+LT	596238	Molo g.		71	3	50	
+LT	596238	Paupio g.		71	9	94	
+LT	596238	Plytų g.	unclassified	71	3	85	
+LT	596238	Malūno g.	residential	69	1	19	
+LT	596238	Bangų g.	tertiary	68	5	30	
+LT	596260	Žalioji g.	secondary	86	2	50	
+LT	596260	Vytauto Didžiojo g.	secondary	79	17	97	
+LT	596260	Kruojos g.	secondary	69	1	38	
+LT	596260	Sidaugų g.	secondary	67	5	67	
+LT	596260	Linkuvos g.	secondary	54	2	58	
+LT	596260	Sodžiaus g.	unclassified	53	1	31	
+LT	596260	Užupio g.	secondary	53	2	37	
+LT	596260	Taikos g.	residential	52	2	54	
+LT	596260	Šilo g.	secondary	52	2	28	
+LT	596260	Rožių g.	residential	51	2	49	
+LT	596260	Saulėtekio g.	residential	51	3	51	
+LT	596260	Paupio g.	residential	47	1	53	
+LT	596399	Vilniaus g.	primary	70	3	46	
+LT	596399	Sodų g.	residential	69	2	43	
+LT	596399	Liepų g.	secondary	60	1	40	
+LT	596399	Vytauto g.	secondary	55	1	52	
+LT	596399	Mokyklos g.	residential	52	2	54	
+LT	596399	Darželių g.	secondary	49	2	57	
+LT	596399	Lauko g.	residential	46	2	35	
+LT	596399	Žemaičių g.	secondary	44	1	45	
+LT	596399	Rambyno g.	residential	43	1	30	
+LT	596399	M. Jankaus g.	tertiary	39	4	39	
+LT	596399	Nemuno g.	residential	39	3	44	
+LT	596399	Dvaro g.	secondary	37	1	26	
+LT	596473	Vilniaus g.	primary	173	5	153	
+LT	596473	Bajorėlių g.	secondary	141	9	129	
+LT	596473	Pušaitės 1-oji g.	residential	76	4	79	
+LT	596473	Arnionių g.	residential	75	6	68	
+LT	596473	Mokyklos g.	secondary	68	5	82	
+LT	596473	A. Mickevičiaus g.	residential	66	5	111	
+LT	596473	Malūno g.	residential	61	5	80	
+LT	596473	Lauko g.	unclassified	58	3	40	
+LT	596473	Švenčionių g.	primary	58	3	59	
+LT	596473	Gerovės g.	residential	53	3	68	
+LT	596473	Keisūnų g.	residential	51	2	44	
+LT	596473	Magūnų g.	secondary	50	3	48	
+LT	596473	Bažnyčios g.	secondary	48	1	24	
+LT	596473	Gaspariškių g.	unclassified	48	2	46	
+LT	596473	Vasarvietės g.	residential	48	3	71	
+LT	596473	Tylioji g.	residential	43	5	46	
+LT	596473	Įkalnės g.	residential	41	4	32	
+LT	596473	Parko g.	unclassified	40	2	45	
+LT	596473	Beržų g.	residential	38	2	40	
+LT	596473	Piorkų g.	unclassified	37	13	97	
+LT	596473	Upės g.	residential	36	2	38	
+LT	596473	Vasaros g.	unclassified	36	4	80	
+LT	596473	Šlaito g.	residential	35	1	72	
+LT	596473	Statybininkų g.	residential	33	2	40	
+LT	596479	Mėtų g.	residential	184	8	114	
+LT	596479	Ilgoji g.	unclassified	152	9	62	
+LT	596479	Riešės g.	unclassified	146	9	105	
+LT	596479	Bajorų g.	residential	135	3	109	
+LT	596479	Dvaro g.	residential	123	5	95	
+LT	596479	Vanaginės g.	residential	119	6	109	
+LT	596479	Tauro g.	residential	112	2	118	
+LT	596479	Žalioji g.	residential	112	1	58	
+LT	596479	Parko g.	residential	108	6	59	
+LT	596479	Miglės g.	residential	97	4	107	
+LT	596479	Žemuogių g.	residential	92	4	94	
+LT	596479	Jazminų g.	residential	89	5	126	
+LT	596479	Siauroji g.	residential	88	2	65	
+LT	596479	Spindulio g.	unclassified	86	5	100	
+LT	596479	Astrų g.	residential	85	8	98	
+LT	596479	Lindiniškių g.	unclassified	74	12	62	
+LT	596479	Sėkmės g.	residential	72	2	53	
+LT	596479	Draustinio g.	residential	71	3	58	
+LT	596479	Vijoklių g.	residential	66	6	27	
+LT	596479	Verbų g.	residential	65	3	59	
+LT	596479	Žydrių g.	residential	65	4	101	
+LT	596479	Didžioji g.	unclassified	60	6	102	
+LT	596479	Molėtų g.	unclassified	58	5	44	
+LT	596479	Miglos g.	residential	57	3	68	
+LT	596479	Pavasario g.	residential	57	2	58	
+LT	596479	Liepų g.	unclassified	54	100	157	
+LT	596479	Kaštonų g.	residential	51	1	26	
+LT	596479	Jurginų g.	residential	50	18	108	
+LT	596479	Paukščių Tako g.	residential	46	3	59	
+LT	596479	Jono Karolio Chodkevičiaus g.	residential	42	27	94	
+LT	596479	Ramunėlių g.	residential	41	4	40	
+LT	596479	Žemoji g.	residential	41	3	46	
+LT	596479	Lauko g.	residential	40	2	44	
+LT	596479	Skersinės g.	residential	40	51	91	
+LT	596479	Suopių g.	residential	40	2	43	
+LT	596479	Molėtų pl.		39	53	116	
+LT	596479	Vieversių g.		39	4	52	
+LT	596479	Kiparisų g.	residential	38	1	29	
+LT	596479	Šiaurinės g.	residential	37	1	52	
+LT	596479	Senoji g.	residential	36	1	28	
+LT	596479	Kalvų g.	residential	33	2	43	
+LT	596479	Pamiškės g.	residential	32	2	51	
+LT	596479	Vakarų g.	residential	29	2	32	
+LT	596479	Aušros g.	residential	28	6	35	
+LT	596479	Viržių g.	residential	27	2	40	
+LT	596479	Kėkštų g.		26	2	42	
+LT	596479	Meškėnų g.		26	14	49	
+LT	596479	Bijūnų g.	residential	25	2	26	
+LT	596544	Lėvens g.	secondary	85	3	42	
+LT	596544	Mituvos g.	unclassified	50	2	37	
+LT	596544	Pandėlio g.	secondary	45	3	40	
+LT	596544	Unės Babickaitės g.	secondary	34	7	40	
+LT	596544	Marių g.	secondary	30	1	29	
+LT	596544	Pamario g.	tertiary	26	2	38	
+LT	596544	Beržuonos g.	unclassified	23	2	28	
+LT	596544	Daupelių g.	unclassified	20	1	18	
+LT	596544	Liongino Šepkos g.	residential	20	1	20	
+LT	596544	Stasio Riauto g.	residential	20	1	33	
+LT	596544	Bitininkų g.	residential	19	1	18	
+LT	596544	Tuopų g.	residential	16	1	20	
+LT	596612	E. A. Jonušo g.	residential	1	0	0	
+LT	596612	G. D. Kuverto g.	residential	1	0	0	
+LT	596612	Kopų g.	residential	1	0	0	
+LT	596612	Kuršių g.	unclassified	1	0	0	
+LT	596612	Lotmiškio g.	residential	1	0	0	
+LT	596612	Nidos-Smiltynės pl.	primary	1	0	0	
+LT	596612	Pamario g.	unclassified	1	0	0	
+LT	596612	Purvynės g.	residential	1	0	0	
+LT	596612	Skruzdynės g.	residential	1	0	0	
+LT	596612	Taikos g.	unclassified	1	0	0	
+LT	596612	Tomo Mano g.	residential	1	0	0	
+LT	596612	Vėtrungių g.	residential	1	0	0	
+LT	596643	Purvynės g.		215	6	348	
+LT	596643	Preilos g.	residential	117	1	101	
+LT	596643	L. Rėzos g.		100	1	60	
+LT	596643	Pamario g.		79	2	51	
+LT	596643	Naglių g.		72	4	31	
+LT	596643	Pervalkos g.		71	2	44	
+LT	596643	G. D. Kuverto g.		48	1	17	
+LT	596643	Taikos g.		47	3	45	
+LT	596643	Vilų g.		46	2	36	
+LT	596643	Kopų g.		36	1	21	
+LT	596643	Nidos-Smiltynės pl.	primary	36	2	37	
+LT	596643	Ievos Kalno g.		28	2	28	
+LT	596661	Dvaro g.	residential	118	3	72	
+LT	596661	V. Sirokomlės g.	secondary	74	3	51	
+LT	596661	Baltarusių g.	secondary	54	2	44	
+LT	596661	Malūno g.	residential	53	4	31	
+LT	596661	Ąžuolyno g.		45	1	42	
+LT	596661	Lauko g.		40	2	28	
+LT	596661	Ežero g.		37	4	23	
+LT	596661	Stadiono g.	residential	34	2	32	
+LT	596661	Sodų g.		33	2	38	
+LT	596661	Senojo Kelio g.	residential	32	3	20	
+LT	596661	Topolių g.		32	2	30	
+LT	596661	Kaštonų g.		31	2	33	
+LT	596664	Nemenčinės g.	primary	189	2	149	
+LT	596664	Skirgiškių g.	unclassified	137	8	137	
+LT	596664	Švenčionių g.	secondary	134	12	118	
+LT	596664	Neries g.	residential	131	3	60	
+LT	596664	Pušų g.	residential	127	2	98	
+LT	596664	Vilniaus g.	primary	122	12	188	
+LT	596664	Užupio g.	residential	119	3	48	
+LT	596664	Bažnyčios g.	secondary	111	6	196	
+LT	596664	Kranto g.	residential	103	2	33	
+LT	596664	Ąžuolės al.		97	5	109	
+LT	596664	Miškonių g.	residential	95	2	40	
+LT	596664	Beržyno g.	residential	89	2	63	
+LT	596664	A. Mickevičiaus g.	unclassified	81	5	109	
+LT	596664	Liepų g.	secondary	79	2	58	
+LT	596664	Vakaro 8-oji g.	residential	79	5	77	
+LT	596664	Ąžuolynės 2-oji g.	residential	78	2	59	
+LT	596664	Piliakalnio g.	residential	73	6	78	
+LT	596664	Aukštuolės 1-oji g.	residential	72	4	91	
+LT	596664	Kalno g.	unclassified	71	2	33	
+LT	596664	Tapelių g.	unclassified	69	4	82	
+LT	596664	Dobilų g.	residential	68	4	78	
+LT	596664	Lauko g.	residential	65	2	47	
+LT	596664	Nemenčinės pl.	primary	65	197	278	
+LT	596664	Miško g.	residential	64	1	33	
+LT	596713	Mokyklos g.	residential	228	2	81	
+LT	596713	Aukštoji g.	unclassified	141	2	98	
+LT	596713	Medelyno g.	residential	128	2	70	
+LT	596713	Jaunimo g.	residential	118	2	61	
+LT	596713	Eglių g.	residential	116	2	50	
+LT	596713	Vėjų g.	unclassified	107	3	34	
+LT	596713	Filaretų g.	primary	105	15	88	
+LT	596713	Pergalės g.	primary	102	12	91	
+LT	596713	Šumsko pl.	primary	99	56	231	
+LT	596713	Užupio g.	unclassified	98	5	84	
+LT	596713	Didžiasalio g.	residential	92	2	52	
+LT	596713	Didžioji g.	unclassified	92	1	67	
+LT	596713	Bitininkų g.	residential	86	5	106	
+LT	596713	Šiaurės g.	secondary	86	4	87	
+LT	596713	Ežero g.	unclassified	85	23	96	
+LT	596713	Gėlių g.	residential	84	1	42	
+LT	596713	Mickūnų g.	residential	84	3	64	
+LT	596713	Centrinė g.	secondary	82	7	72	
+LT	596713	Egliškių g.	unclassified	82	1	122	
+LT	596713	Gailiūnų g.	residential	81	7	80	
+LT	596713	Pamiškės g.	unclassified	81	4	65	
+LT	596713	Beržų g.	residential	78	3	44	
+LT	596713	Liepų al.	unclassified	75	1	81	
+LT	596713	Kranto g.	residential	74	5	100	
+LT	596713	Mikalojaus Koperniko g.	residential	74	1	53	
+LT	596713	Pakupečių g.	residential	74	2	67	
+LT	596713	Vilniaus g.	primary	74	4	48	
+LT	596713	Vakario g.	residential	71	3	60	
+LT	596713	Dievoniškių g.	unclassified	70	4	59	
+LT	596713	Saulės g.	residential	67	4	38	
+LT	596713	Meldų g.	unclassified	66	2	79	
+LT	596713	Tulpių g.	residential	63	5	24	
+LT	596713	Miško g.	residential	60	1	33	
+LT	596713	Mykolo Kleopo Oginskio g.	residential	60	1	61	
+LT	596713	Skaisterių g.	secondary	59	2	45	
+LT	596713	Stanislavo Moravskio g.	residential	58	3	93	
+LT	596713	Upelio g.	unclassified	57	3	38	
+LT	596713	Darželių g.	residential	54	2	35	
+LT	596713	Raktažolių g.	residential	54	3	34	
+LT	596713	Naujoji g.	residential	53	1	24	
+LT	596713	Bičiulių g.	residential	52	1	46	
+LT	596713	Kerpių g.	unclassified	52	4	54	
+LT	596713	Lytos g.	primary	52	2	92	
+LT	596713	Saulėtoji g.	residential	52	3	62	
+LT	596713	Rytų g.	unclassified	51	3	29	
+LT	596713	Šv. Antano g.	residential	51	3	62	
+LT	596713	Pakalnės g.	residential	50	3	74	
+LT	596713	Aukštakalnio g.		48	3	62	
+LT	596719	Taikos g.	residential	119	4	102	
+LT	596719	Kaštonų g.	residential	114	1	51	
+LT	596719	Žemuogių g.	residential	113	6	127	
+LT	596719	Sodininkų g.	residential	107	6	106	
+LT	596719	Paparčių g.	residential	101	6	96	
+LT	596719	Braškių g.	residential	95	5	98	
+LT	596719	Astrų g.	residential	79	4	79	
+LT	596719	Jazminų g.	residential	78	2	68	
+LT	596719	Serbentų g.	residential	74	4	75	
+LT	596719	Vyšnių g.	residential	74	3	64	
+LT	596719	Gilių g.	residential	72	5	103	
+LT	596719	Žalioji g.	residential	72	3	50	
+LT	596719	Gaudžiočių g.	tertiary	69	3	51	
+LT	596719	Liepų g.	residential	64	2	35	
+LT	596719	Žemaitės g.	residential	64	4	69	
+LT	596719	Sodo g.	residential	62	3	56	
+LT	596719	Plukių g.	residential	61	4	92	
+LT	596719	Beržų g.	residential	58	2	55	
+LT	596719	Respublikos g.	residential	58	1	44	
+LT	596719	Klevų g.	secondary	57	2	43	
+LT	596719	Lazdynų g.	residential	56	2	30	
+LT	596719	Nepriklausomybės al.	residential	56	1	30	
+LT	596719	Gedimino g.	residential	52	4	52	
+LT	596719	Kadagių g.	residential	52	3	50	
+LT	596758	Naujamiesčio g.	secondary	92	3	89	
+LT	596758	Krekenavos g.	primary	57	2	68	
+LT	596758	Dariaus ir Girėno g.	secondary	56	3	52	
+LT	596758	Dvaro g.	residential	55	1	33	
+LT	596758	J. Basanavičiaus g.	residential	51	3	57	
+LT	596758	Aušros g.	secondary	49	2	69	
+LT	596758	M. Valančiaus g.	residential	40	2	40	
+LT	596758	Stoties g.	unclassified	39	3	35	
+LT	596758	Pažibų g.	unclassified	35	3	47	
+LT	596758	Šiaulių g.		35	1	100	
+LT	596758	Šermukšnių g.	unclassified	34	2	34	
+LT	596758	V. Kudirkos g.	residential	32	2	41	
+LT	596867	Vilniaus g.	primary	175	10	108	
+LT	596867	Aplinkkelio g.	secondary	126	1	163	
+LT	596867	Saulėtekio g.	primary	105	5	94	
+LT	596867	Juodiškių g.	residential	104	6	101	
+LT	596867	Inturkės g.	primary	101	4	86	
+LT	596867	Pušyno g.	unclassified	93	2	71	
+LT	596867	Slyvų g.	residential	76	4	73	
+LT	596867	Braškių g.	residential	74	4	71	
+LT	596867	Sporto g.	unclassified	72	3	63	
+LT	596867	Šilo g.	unclassified	71	2	83	
+LT	596867	Serbentų g.	residential	65	4	64	
+LT	596867	Miško g.	primary	63	1	26	
+LT	596867	Malkesto g.	unclassified	55	1	32	
+LT	596867	Parko g.	residential	54	3	47	
+LT	596867	Sietuvos g.	secondary	51	1	43	
+LT	596867	Ežerų g.	unclassified	50	3	49	
+LT	596867	Liepų g.	residential	46	2	27	
+LT	596867	Bajorų g.	primary	45	2	34	
+LT	596867	Ažubalių g.	unclassified	43	10	42	
+LT	596867	Levaniškių g.	unclassified	43	2	30	
+LT	596867	Pamiškės g.	residential	42	2	40	
+LT	596867	S. Dariaus ir S. Girėno g.	primary	42	3	41	
+LT	596867	Žiedo g.	residential	42	3	43	
+LT	596867	Siesarties g.	primary	40	3	34	
+LT	597070	Vilniaus g.	primary	78	4	81	
+LT	597070	Jagmino g.	residential	50	3	50	
+LT	597070	Sodžiaus g.	unclassified	47	2	45	
+LT	597070	Nemuno g.	unclassified	43	1	41	
+LT	597070	Pušyno g.	residential	43	2	34	
+LT	597070	Kaštonų g.	secondary	37	2	33	
+LT	597070	Šarūno g.	residential	35	2	31	
+LT	597070	Panemunės g.	primary	33	2	34	
+LT	597070	Merkinės g.	residential	32	1	55	
+LT	597070	Nemunaičio g.	secondary	32	2	33	
+LT	597070	Seinų g.	primary	31	3	34	
+LT	597070	Kauno g.	unclassified	29	2	37	
+LT	597188	Laisvės g.	primary	247	9	216	
+LT	597188	Šarmos g.	residential	166	10	203	
+LT	597188	Sodininkų g.	residential	154	1	186	
+LT	597188	Jazminų g.	residential	141	9	189	
+LT	597188	Laižuvos g.	secondary	138	5	87	
+LT	597188	Versmės g.	residential	134	8	148	
+LT	597188	Saulės g.	unclassified	132	3	84	
+LT	597188	Jazminų 3-ioji g.	residential	117	7	147	
+LT	597188	Vyšnių g.	residential	115	4	71	
+LT	597188	S. Nėries g.	primary	109	4	61	
+LT	597188	Žemaitijos g.	primary	108	4	80	
+LT	597188	Gamyklos g.	residential	101	6	46	
+LT	597188	Vytauto g.	unclassified	100	6	112	
+LT	597188	Viekšnių g.	primary	97	3	77	
+LT	597188	Šilo 2-oji g.	residential	97	5	136	
+LT	597188	Sodų g.	residential	96	3	64	
+LT	597188	Klevų g.	residential	95	3	45	
+LT	597188	Ventos g.	residential	93	2	81	
+LT	597188	Bokšto g.	residential	90	9	143	
+LT	597188	Žagarėlės g.	residential	90	3	52	
+LT	597188	Rasos g.	residential	88	5	136	
+LT	597188	Skuodo g.	primary	85	6	115	
+LT	597188	Miško g.	residential	77	3	54	
+LT	597188	V. Kudirkos g.	residential	77	2	92	
+LT	597188	Birutės g.	residential	76	7	81	
+LT	597188	Tulpių g.	residential	76	4	66	
+LT	597188	Pavenčių g.	residential	74	2	51	
+LT	597188	Varduvos g.	residential	73	4	80	
+LT	597188	Šaltinėlio 15-oji g.	residential	73	5	91	
+LT	597188	M. Valančiaus g.	residential	72	6	75	
+LT	597188	Jazminų 2-oji g.	residential	71	5	83	
+LT	597188	Respublikos g.	residential	71	4	74	
+LT	597188	Tirkšlių g.	residential	71	3	77	
+LT	597188	Putinų 1-oji g.	residential	70	3	66	
+LT	597188	Šaltinėlio g.	residential	69	5	73	
+LT	597188	Naftininkų g.	residential	67	7	78	
+LT	597188	Sedos g.	primary	67	3	57	
+LT	597188	Laukų g.	primary	66	2	32	
+LT	597188	Algirdo g.	primary	65	5	57	
+LT	597188	J. Tumo-Vaižganto g.	unclassified	63	2	60	
+LT	597188	M. Daukšos g.	residential	63	3	46	
+LT	597188	Smilgų g.	residential	63	4	68	
+LT	597188	Urvikių g.	residential	63	4	53	
+LT	597188	J. Janonio g.	tertiary	61	4	83	
+LT	597188	Linų g.	residential	60	4	61	
+LT	597188	Kūlupio g.	residential	59	4	47	
+LT	597188	Raselės g.	residential	59	2	46	
+LT	597188	Sodų kel.	residential	58	2	61	
+LT	597199	Merkio g.	residential	117	2	71	
+LT	597199	Paupio g.	unclassified	69	1	41	
+LT	597199	Samanų g.	secondary	67	2	68	
+LT	597199	Duobupio g.	unclassified	47	4	42	
+LT	597199	Giraitės g.	secondary	46	3	45	
+LT	597199	Liepų g.	residential	43	1	29	
+LT	597199	Šilo g.		36	1	24	
+LT	597199	Kaštonų g.	unclassified	34	1	25	
+LT	597199	Voriškių g.	secondary	33	3	25	
+LT	597199	Dzūkų g.	residential	32	2	29	
+LT	597199	Žalioji g.	residential	31	3	19	
+LT	597199	Kalno g.	residential	30	2	33	
+LT	597231	Vytauto g.	primary	235	13	99	
+LT	597231	Šešupės g.	tertiary	229	3	100	
+LT	597231	Vasaros g.	tertiary	197	11	178	
+LT	597231	Tarpučių g.	secondary	194	11	194	
+LT	597231	Kauno g.	primary	166	12	172	
+LT	597231	Gedimino g.	residential	137	6	124	
+LT	597231	P. Armino g.	primary	123	8	90	
+LT	597231	V. Kudirkos g.	secondary	115	3	103	
+LT	597231	Vilkaviškio g.		111	13	98	
+LT	597231	Saulės g.	secondary	110	2	89	
+LT	597231	Steponiškių g.	unclassified	110	4	110	
+LT	597231	Panevėžio g.	residential	99	1	101	
+LT	597231	Parko g.	residential	98	1	32	
+LT	597231	Liepų g.	residential	90	2	26	
+LT	597231	Klaipėdos g.	unclassified	88	3	95	
+LT	597231	Mokyklos g.	secondary	88	1	39	
+LT	597231	Skaisčiūnų g.	unclassified	88	4	80	
+LT	597231	Vingio g.	residential	88	2	39	
+LT	597231	A. J. Greimo g.	residential	87	8	98	
+LT	597231	Suvalkiečių g.	unclassified	86	4	50	
+LT	597231	Aušros g.	tertiary	85	3	78	
+LT	597231	Draugystės g.	unclassified	84	4	29	
+LT	597231	Ąžuolų g.	residential	84	5	66	
+LT	597231	R. Juknevičiaus g.	tertiary	82	5	106	
+LT	597231	Alyvų g.	unclassified	77	4	50	
+LT	597231	Kosmonautų g.	residential	77	5	71	
+LT	597231	Mokolų g.	secondary	77	5	73	
+LT	597231	Žiedo g.	residential	73	2	35	
+LT	597231	Karaliaučiaus g.	residential	71	4	73	
+LT	597231	Marijampolės g.	secondary	71	2	53	
+LT	597231	Geležinkelio g.	primary	70	3	142	
+LT	597231	Sodų g.	unclassified	69	1	42	
+LT	597231	Valčiuvos g.	residential	69	4	51	
+LT	597231	Tilžės g.	residential	68	4	74	
+LT	597231	Klevų g.	residential	67	3	43	
+LT	597231	Įsručio g.	living_street	66	2	71	
+LT	597231	Krėvos g.	unclassified	65	5	44	
+LT	597231	Šaulių g.	tertiary	65	5	60	
+LT	597231	A. Yliaus g.	residential	64	7	69	
+LT	597231	Maironio g.	residential	64	5	60	
+LT	597231	Nartelio g.	residential	64	4	40	
+LT	597231	Atgimimo g.	residential	61	6	72	
+LT	597231	L. Giros g.	residential	61	6	84	
+LT	597231	Ramunės g.	residential	60	10	70	
+LT	597231	Liepynų g.	residential	58	1	51	
+LT	597231	Matulaičių g.	unclassified	58	5	67	
+LT	597231	Stoties g.	primary	58	2	49	
+LT	597231	Sporto g.	tertiary	57	2	58	
+LT	597440	Liepų g.	residential	141	2	47	
+LT	597440	Mūšos g.	secondary	104	2	35	
+LT	597440	S. Dariaus ir S. Girėno g.	primary	51	5	47	
+LT	597440	Pašvitinio g.	primary	48	5	49	
+LT	597440	Centrinė g.	secondary	47	3	43	
+LT	597440	Mokyklos g.	tertiary	46	5	46	
+LT	597440	Klevų g.	residential	41	3	43	
+LT	597440	Ryto g.	residential	41	2	29	
+LT	597440	Sodžiaus g.	secondary	41	3	42	
+LT	597440	Gimnazijos g.	primary	36	4	38	
+LT	597440	Kalno g.	residential	36	1	31	
+LT	597440	Aušros g.	residential	34	2	20	
+LT	597532	Saulės g.	residential	203	2	80	
+LT	597532	Gėlių g.	residential	116	2	73	
+LT	597532	Lauko g.	residential	112	6	87	
+LT	597532	Ateities g.	residential	103	6	112	
+LT	597532	Draugystės g.	secondary	101	1	62	
+LT	597532	Geležinkelio g.	secondary	101	10	120	
+LT	597532	Beržų g.	residential	94	2	33	
+LT	597532	Pievų g.	residential	94	2	51	
+LT	597532	Lentvario g.	secondary	87	1	59	
+LT	597532	Pušų g.	residential	82	1	24	
+LT	597532	Miško g.	residential	80	1	38	
+LT	597532	Sodininkų al.	residential	75	4	107	
+LT	597532	Alyvų g.	unclassified	74	3	47	
+LT	597532	Mokyklos g.	residential	73	2	72	
+LT	597532	Pakalnės g.	residential	69	2	57	
+LT	597532	Vytauto g.	secondary	68	2	47	
+LT	597532	Gaidiškių g.	residential	66	4	46	
+LT	597532	Giraitės g.	residential	65	1	66	
+LT	597532	Medeinės g.	residential	64	1	84	
+LT	597532	Kraštinė g.	residential	63	4	51	
+LT	597532	Klevų al.	secondary	62	4	57	
+LT	597532	Černobylio g.	unclassified	61	2	39	
+LT	597532	Vėjo g.	residential	60	1	12	
+LT	597532	Žygimantų g.	residential	58	3	66	
+LT	597568	Alėjos g.	residential	75	4	73	
+LT	597568	Seirijų kel.	primary	57	2	45	
+LT	597568	Azagio g.	unclassified	55	7	37	
+LT	597568	Žaliamiškio g.	secondary	55	3	47	
+LT	597568	Vytauto g.	residential	51	3	57	
+LT	597568	Liepų g.	secondary	50	4	36	
+LT	597568	Vilkės g.	unclassified	43	3	58	
+LT	597568	Seiros g.	unclassified	42	1	33	
+LT	597568	Merkinės g.	primary	41	3	35	
+LT	597568	Druskininkų g.	unclassified	40	2	39	
+LT	597568	Kapų g.	unclassified	32	2	38	
+LT	597568	Leipalingio pl.	primary	31	3	57	
+LT	597596	Vilniaus g.	primary	136	5	145	
+LT	597596	Seinų g.	residential	132	4	105	
+LT	597596	Liepų g.	residential	125	2	45	
+LT	597596	Kauno g.	primary	119	6	120	
+LT	597596	Sodų g.	secondary	111	4	104	
+LT	597596	Vytauto g.	secondary	94	7	89	
+LT	597596	Kalnų g.	residential	76	2	38	
+LT	597596	Turistų g.	primary	72	4	92	
+LT	597596	Ežero g.	secondary	71	2	45	
+LT	597596	Pievų g.	unclassified	67	1	29	
+LT	597596	Piliakalnio g.	residential	66	1	27	
+LT	597596	Alyvų g.	unclassified	64	2	34	
+LT	597602	Dėdoniškių g.	unclassified	91	6	68	
+LT	597602	Vilniaus g.	primary	90	3	162	
+LT	597602	Vilnelės g.	primary	83	4	200	
+LT	597602	Linksmoji g.	residential	63	1	25	
+LT	597602	Taikos g.	primary	61	2	46	
+LT	597602	Užupio g.	residential	61	2	47	
+LT	597602	Gėlių g.	residential	60	2	29	
+LT	597602	M. Koperniko g.	residential	56	4	38	
+LT	597602	Liesiškių g.	unclassified	53	1	69	
+LT	597602	Jaunimo g.	residential	51	3	46	
+LT	597602	Miško g.	residential	49	2	28	
+LT	597602	Taurijos g.	unclassified	49	1	78	
+LT	597729	J. Basanavičiaus g.		139	6	114	
+LT	597729	Vištyčio g.	primary	103	3	56	
+LT	597729	Lieponos g.	residential	75	2	65	
+LT	597729	Dariaus ir Girėno g.	secondary	56	1	57	
+LT	597729	Putinų g.		54	2	54	
+LT	597729	Nepriklausomybės g.	residential	51	6	45	
+LT	597729	Raganių g.		50	3	48	
+LT	597729	Draugystės g.	residential	49	2	35	
+LT	597729	Gėlių g.	secondary	47	1	27	
+LT	597729	Kudirkos Naumiesčio g.	secondary	47	2	44	
+LT	597729	Saulės g.	residential	47	2	51	
+LT	597729	Žvejų g.	residential	47	1	29	
+LT	597729	Liepų g.	residential	46	1	26	
+LT	597729	Suvalkijos g.	residential	42	3	36	
+LT	597729	Kaštonų g.	residential	37	1	39	
+LT	597729	Šiaudiniškių g.	secondary	37	4	39	
+LT	597729	Pedagogų g.		36	3	43	
+LT	597729	Suvalkiečių g.	residential	36	2	41	
+LT	597729	Детская улица	residential	36	16	54	
+LT	597729	Smėlyno g.	residential	34	2	40	
+LT	597729	Vasario 16-osios g.	residential	34	6	48	
+LT	597729	Naujakurių g.	residential	32	2	32	
+LT	597729	Darvino g.	living_street	31	3	44	
+LT	597729	Dvaro g.	secondary	31	2	34	
+LT	597769	Ventos g.	primary	125	6	176	
+LT	597769	Aušros g.	residential	113	2	43	
+LT	597769	Daugėlių g.	secondary	111	2	100	
+LT	597769	Vytauto g.	primary	102	6	85	
+LT	597769	Žalioji g.	residential	101	1	47	
+LT	597769	Vilniaus g.		98	3	91	
+LT	597769	Pušyno g.	residential	89	2	74	
+LT	597769	Vydūno g.	residential	87	7	75	
+LT	597769	Gedimino g.	secondary	85	4	90	
+LT	597769	Taikos g.	residential	84	3	52	
+LT	597769	Alėjos g.	unclassified	81	3	60	
+LT	597769	Pramonės g.	tertiary	69	3	42	
+LT	597769	Gergždelių g.	residential	67	4	65	
+LT	597769	Papilės g.	primary	67	3	53	
+LT	597769	Laisvės g.	primary	65	2	62	
+LT	597769	Sodžiaus g.	residential	62	2	45	
+LT	597769	V. Kudirkos g.	tertiary	61	3	45	
+LT	597769	Stoties g.	unclassified	60	2	123	
+LT	597769	Beržų g.	unclassified	57	1	46	
+LT	597769	Darbo g.	living_street	54	3	46	
+LT	597769	Durpynų g.	tertiary	54	1	40	
+LT	597769	Draugystės g.	residential	51	2	32	
+LT	597769	Girios g.	residential	51	3	42	
+LT	597769	Užmiesčio g.	residential	49	3	64	
+LT	597806	Gedimino g.	unclassified	131	6	104	
+LT	597806	Lauko g.	secondary	97	2	76	
+LT	597806	Lėvens g.	secondary	96	1	40	
+LT	597806	Vytauto g.	secondary	95	3	69	
+LT	597806	Sodų g.	residential	90	2	34	
+LT	597806	Klevų g.	living_street	87	5	92	
+LT	597806	Indubo g.	living_street	84	6	98	
+LT	597806	Vilniaus g.	secondary	71	3	77	
+LT	597806	Beržų g.	secondary	69	1	25	
+LT	597806	Silikato 1-oji g.	living_street	68	4	90	
+LT	597806	P. Matulionio g.	secondary	66	4	61	
+LT	597806	Kapų g.	secondary	65	4	62	
+LT	597806	Slavinčiškio g.	residential	64	1	32	
+LT	597806	Ežerėlio g.	residential	57	1	24	
+LT	597806	Kupos 4-oji g.	residential	55	3	75	
+LT	597806	Vėžionių g.	secondary	53	3	47	
+LT	597806	Račiupėnų g.	residential	50	3	39	
+LT	597806	S. Dariaus ir S. Girėno g.	secondary	50	2	42	
+LT	597806	Skodinio g.	unclassified	48	2	60	
+LT	597806	Alyvų g.	secondary	47	3	41	
+LT	597806	Marių g.	secondary	47	1	32	
+LT	597806	Ąžuolų 1-oji g.	residential	47	3	55	
+LT	597806	Jaunimo g.	unclassified	46	1	29	
+LT	597806	Tujų g.	unclassified	46	2	18	
+LT	597881	Kranto g.	residential	100	2	119	
+LT	597881	Vytauto g.	primary	92	2	75	
+LT	597881	Pušyno g.	residential	77	1	47	
+LT	597881	Akacijų al.	residential	65	4	54	
+LT	597881	Ovos 1-oji g.	residential	59	3	60	
+LT	597881	Dievogalos g.	residential	56	2	54	
+LT	597881	Beržų g.	unclassified	46	2	61	
+LT	597881	Vilemų g.	residential	44	2	39	
+LT	597881	Lakštingalų g.	residential	42	4	32	
+LT	597881	Miško g.	residential	42	2	54	
+LT	597881	Altoniškių g.	unclassified	41	2	34	
+LT	597881	Nemuno g.	residential	40	2	54	
+LT	597904	P. Mašioto g.	residential	109	2	85	
+LT	597904	Šešupės g.	secondary	106	3	83	
+LT	597904	Vytauto g.	residential	65	2	61	
+LT	597904	Gėlių g.	unclassified	50	2	36	
+LT	597904	V. Kudirkos g.	residential	44	5	45	
+LT	597904	Dariaus ir Girėno g.	residential	43	4	41	
+LT	597904	J. Bagdono g.	residential	43	3	63	
+LT	597904	Tilto g.	primary	41	3	46	
+LT	597904	Vilkaviškio g.	primary	41	4	51	
+LT	597904	Baltkalnio g.	residential	40	2	40	
+LT	597904	Šakių g.	primary	35	1	49	
+LT	597904	Bažnyčios g.	residential	34	2	47	
+LT	597989	Klaipėdos g.	primary	283	4	143	
+LT	597989	Vytauto g.	unclassified	223	8	151	
+LT	597989	Taikos g.	residential	182	4	135	
+LT	597989	Mokyklos g.	unclassified	171	2	38	
+LT	597989	J. Basanavičiaus g.	residential	144	7	149	
+LT	597989	Sodų g.	residential	125	2	66	
+LT	597989	Sodžiaus g.	secondary	119	1	93	
+LT	597989	Penkininkų g.	residential	116	8	83	
+LT	597989	Parko g.	residential	107	2	44	
+LT	597989	Darbėnų pl.	primary	106	1	93	
+LT	597989	J. Pabrėžos g.	residential	106	4	85	
+LT	597989	Palangos g.	residential	106	7	108	
+LT	597989	Laukų g.	residential	101	3	39	
+LT	597989	Miško g.	residential	98	2	63	
+LT	597989	Tiekėjų g.	tertiary	98	2	48	
+LT	597989	J. Jablonskio g.	primary	92	4	107	
+LT	597989	Šventosios g.	primary	92	4	90	
+LT	597989	Rožių g.	residential	91	2	59	
+LT	597989	Šiaulių g.	unclassified	91	3	79	
+LT	597989	Kretingos g.	secondary	88	1	87	
+LT	597989	Jazminų g.	residential	82	2	68	
+LT	597989	Pasieniečių g.	residential	82	5	47	
+LT	597989	Savanorių g.	residential	82	3	62	
+LT	597989	Aušros g.	residential	81	2	31	
+LT	597989	Kamanių g.	residential	80	4	81	
+LT	597989	Mėguvos g.	residential	78	3	69	
+LT	597989	Kalvos g.	living_street	77	4	76	
+LT	597989	Minijos g.	residential	77	2	59	
+LT	597989	Genių g.	living_street	76	5	74	
+LT	597989	Lakštingalų g.	living_street	75	2	56	
+LT	597989	Joninių g.		72	4	78	
+LT	597989	Aviečių g.	residential	70	2	35	
+LT	597989	Laisvės g.	residential	69	3	65	
+LT	597989	Akmenos g.	unclassified	65	3	58	
+LT	597989	Giminių g.	residential	64	4	44	
+LT	597989	Liepų g.	residential	64	1	21	
+LT	597989	Tujų g.	living_street	64	2	32	
+LT	597989	Tvenkinio g.	residential	64	2	29	
+LT	597989	Dvaro g.	residential	63	2	53	
+LT	597989	Kęstučio g.	secondary	63	4	66	
+LT	597989	Grafų Tiškevičių g.	residential	61	5	103	
+LT	597989	Vynuogių g.	residential	61	2	47	
+LT	597989	Stirnų g.	living_street	60	2	31	
+LT	597989	Melioratorių g.	primary	59	4	77	
+LT	597989	Panevėžio g.	residential	59	4	59	
+LT	597989	Alyvų g.	residential	58	2	74	
+LT	597989	Danės g.	secondary	58	2	21	
+LT	597989	Žemaitės al.		58	1	43	
+LT	598098	Taikos pr.	primary	428	13	141	
+LT	598098	Liepų g.	primary	281	7	87	
+LT	598098	Šilutės pl.	primary	252	5	123	
+LT	598098	Kretingos g.	residential	202	9	197	
+LT	598098	Liepojos g.	primary	188	7	222	
+LT	598098	Tilžės g.	secondary	182	8	123	
+LT	598098	Vėjo g.	residential	181	3	153	
+LT	598098	Minijos g.	primary	175	9	176	
+LT	598098	H. Manto g.	primary	171	4	90	
+LT	598098	Arimų g.	secondary	162	4	70	
+LT	598098	Karališkių g.	residential	147	3	118	
+LT	598098	Kryžionių g.		147	8	208	
+LT	598098	Rūko g.	residential	143	3	62	
+LT	598098	Smeltaitės g.	secondary	139	3	142	
+LT	598098	Skaisgirių g.	residential	136	7	157	
+LT	598098	Upelio g.	residential	135	2	31	
+LT	598098	Šermukšnių g.	residential	122	2	63	
+LT	598098	Debreceno g.	tertiary	116	3	86	
+LT	598098	Baltijos pr.	unclassified	115	6	115	
+LT	598098	Tauralaukio g.	residential	110	4	53	
+LT	598098	Klaipėdos g.	residential	104	8	75	
+LT	598098	Danės g.	residential	102	3	76	
+LT	598098	Klemiškės g.	residential	96	4	53	
+LT	598098	Molo g.	residential	93	4	74	
+LT	598098	Jazminų g.	residential	91	2	64	
+LT	598098	Kaštonų g.	residential	89	2	19	
+LT	598098	Mažojo Kaimelio g.	residential	89	6	67	
+LT	598098	Mėtų g.	residential	88	2	73	
+LT	598098	Virkučių g.	residential	85	4	35	
+LT	598098	Lanko g.	residential	83	1	39	
+LT	598098	Laukininkų g.	residential	82	4	52	
+LT	598098	Technikos g.	residential	82	8	83	
+LT	598098	Veterinarijos g.	residential	82	5	75	
+LT	598098	Žalioji g.	residential	82	2	42	
+LT	598098	Austėjos g.	residential	81	2	38	
+LT	598098	Smiltelės g.	tertiary	80	2	55	
+LT	598098	Tolminkiemio g.	residential	80	3	65	
+LT	598098	Dubysos g.	residential	78	6	70	
+LT	598098	Statybininkų pr.	primary	78	3	82	
+LT	598098	Labguvos g.	residential	77	2	49	
+LT	598098	Šviesos g.	residential	77	1	37	
+LT	598098	Lubinų g.	residential	76	3	83	
+LT	598098	Rasytės g.	secondary	75	4	73	
+LT	598098	Kauno g.	secondary	73	2	45	
+LT	598098	Laukų g.	residential	73	2	40	
+LT	598098	Vyšnių g.	residential	71	4	61	
+LT	598098	Ragainės g.	residential	70	3	32	
+LT	598098	Vingio g.	secondary	70	3	41	
+LT	598098	Dvaro g.	residential	69	1	21	
+LT	598098	Jaunystės g.	residential	69	2	70	
+LT	598098	Smėlio g.	residential	69	2	42	
+LT	598098	Uosių g.	residential	69	2	36	
+LT	598098	Aušrinės g.	residential	68	2	23	
+LT	598098	Karlskronos g.	residential	68	6	76	
+LT	598098	Ąžuolynės g.	residential	68	2	33	
+LT	598098	Jūratės g.	residential	67	2	51	
+LT	598098	Pajūrio g.	secondary	67	3	47	
+LT	598098	Alyvų g.	residential	66	2	35	
+LT	598098	Saulės g.	residential	66	1	32	
+LT	598098	Jurginų g.	residential	65	2	28	
+LT	598098	Rugiagėlių g.	residential	65	2	36	
+LT	598098	Vyturių g.	residential	65	2	45	
+LT	598098	Ievų g.	residential	64	2	48	
+LT	598098	Luknojų g.	residential	64	2	48	
+LT	598098	Vikių g.	residential	64	3	64	
+LT	598098	Auros g.		63	4	60	
+LT	598098	Birutės g.	residential	63	1	29	
+LT	598098	Klipščių g.	residential	63	3	54	
+LT	598098	Bičių g.	residential	62	5	77	
+LT	598098	Medelyno g.	primary	62	6	64	
+LT	598098	Rumpiškės g.	residential	62	2	35	
+LT	598098	Tiesioji g.	residential	62	1	42	
+LT	598098	Vėluvos g.	residential	62	2	42	
+LT	598098	Šaulių g.	residential	62	4	50	
+LT	598098	Aušros g.	residential	61	3	42	
+LT	598098	Juodžemių g.	residential	61	5	57	
+LT	598098	Kalnelio g.	residential	60	3	48	
+LT	598098	Lietaus g.	residential	60	2	20	
+LT	598098	Piliarožių g.	residential	60	6	116	
+LT	598098	Debesų g.	residential	59	1	39	
+LT	598098	Smiltynės g.	primary	59	2	33	
+LT	598098	Užlaukio g.	residential	59	3	75	
+LT	598098	Renetų g.	residential	58	5	93	
+LT	598098	Verpėjų g.	residential	58	2	43	
+LT	598098	Linų g.	residential	57	3	69	
+LT	598098	Šaltinėlio g.	residential	57	3	59	
+LT	598098	Dvarininkų g.	residential	56	3	47	
+LT	598098	Rimkų g.	residential	56	2	55	
+LT	598098	Ringelio g.	living_street	56	6	53	
+LT	598098	Šilgalių g.	residential	56	2	37	
+LT	598098	Nemuno g.	residential	55	2	163	
+LT	598098	Slėnio g.	residential	55	1	39	
+LT	598098	Bajorų g.	residential	54	2	39	
+LT	598098	Garbsėdžių g.	residential	54	2	64	
+LT	598098	Naikupės g.	residential	54	4	56	
+LT	598098	Serviso g.	residential	54	3	40	
+LT	598098	Turgaus g.	residential	54	1	35	
+LT	598098	Žvejų g.	residential	54	1	22	
+LT	598098	Anso Bruožio g.	residential	53	4	46	
+LT	598098	Perkūno g.	residential	53	1	33	
+LT	598257	Vytauto Didžiojo g.	secondary	220	15	160	
+LT	598257	Nepriklausomybės g.	residential	145	3	124	
+LT	598257	Statybininkų g.	residential	129	4	97	
+LT	598257	Rasos g.	residential	122	4	94	
+LT	598257	Raseinių g.	primary	108	2	74	
+LT	598257	Dariaus ir Girėno g.	primary	99	3	95	
+LT	598257	Liepų g.	residential	97	3	82	
+LT	598257	Uosių g.	secondary	95	5	122	
+LT	598257	Parko g.	residential	90	2	36	
+LT	598257	Kooperacijos g.	residential	83	2	66	
+LT	598257	Maironio g.	secondary	83	7	73	
+LT	598257	Jaunimo g.	residential	76	3	48	
+LT	598257	Liolių g.	secondary	72	4	82	
+LT	598257	Žemaitės g.	residential	69	5	63	
+LT	598257	Kelmės g.	primary	66	1	59	
+LT	598257	Kražantės g.	residential	65	2	50	
+LT	598257	Birutės g.	residential	64	2	48	
+LT	598257	Kalnų g.	residential	62	3	70	
+LT	598257	Plento g.		59	1	70	
+LT	598257	Malūno g.	residential	54	2	41	
+LT	598257	Dvaro g.	residential	53	1	35	
+LT	598257	Naujoji g.	residential	52	2	45	
+LT	598257	Taikos g.	residential	50	5	63	
+LT	598257	Putinų g.	residential	49	1	36	
+LT	598272	Ilgoji g.	living_street	214	10	194	
+LT	598272	Nevėžio g.	residential	210	3	169	
+LT	598272	J. Basanavičiaus g.	primary	205	11	142	
+LT	598272	Janušavos g.	residential	151	3	137	
+LT	598272	Gėlių g.	residential	149	2	99	
+LT	598272	Josvainių g.	residential	142	5	82	
+LT	598272	Pavasario g.	residential	135	4	100	
+LT	598272	Sodininkų g.	living_street	131	6	124	
+LT	598272	Melioratorių g.	secondary	125	2	87	
+LT	598272	Šėtos g.	secondary	125	7	112	
+LT	598272	Sodų g.	residential	115	1	74	
+LT	598272	Lauko g.	residential	104	2	40	
+LT	598272	Liepų g.	residential	103	2	65	
+LT	598272	Vyturių g.	residential	100	2	65	
+LT	598272	Rožių g.	residential	96	2	34	
+LT	598272	Daukšių g.	unclassified	92	5	109	
+LT	598272	M. Daukšos g.	primary	85	4	73	
+LT	598272	Kauno g.	secondary	82	5	57	
+LT	598272	Klastingoji g.	residential	81	5	83	
+LT	598272	Pienių g.		81	3	62	
+LT	598272	Rūtų g.	residential	81	3	46	
+LT	598272	Mėtų g.		78	2	58	
+LT	598272	A. Kanapinsko g.	unclassified	73	2	67	
+LT	598272	Upelio g.	residential	71	5	76	
+LT	598272	Jaunimo g.	unclassified	67	4	45	
+LT	598272	Kranto g.	residential	67	1	34	
+LT	598272	Jubiliejaus g.	residential	65	7	89	
+LT	598272	Gandrų krant.	residential	64	4	71	
+LT	598272	Paparčių g.	residential	64	1	38	
+LT	598272	Eglių g.	residential	63	6	61	
+LT	598272	Gedimino g.	secondary	62	7	73	
+LT	598272	Žaltvykslių g.		62	6	60	
+LT	598272	Lakštingalų g.	residential	59	2	29	
+LT	598272	Aušros g.	residential	58	2	50	
+LT	598272	Didžioji g.	residential	56	4	62	
+LT	598272	Liepų al.	unclassified	56	2	39	
+LT	598272	Vilties g.	residential	56	1	27	
+LT	598272	Jazminų g.	residential	54	1	43	
+LT	598272	Kėdainių g.	secondary	54	1	51	
+LT	598272	Pirmūnų g.	residential	54	3	52	
+LT	598272	Takažolių g.		54	4	56	
+LT	598272	Vyšnių g.		53	2	41	
+LT	598272	Obelų g.	residential	52	1	30	
+LT	598272	Čiobrelių g.		52	2	53	
+LT	598272	Kalno g.	residential	51	3	51	
+LT	598272	Kosmonautų g.	residential	51	5	69	
+LT	598272	Miško g.	residential	51	1	29	
+LT	598272	Trumpoji g.	residential	51	2	28	
+LT	598286	Marijampolės g.	primary	108	2	45	
+LT	598286	Vytauto g.	secondary	101	3	56	
+LT	598286	Alyvų g.	residential	87	2	55	
+LT	598286	Ąžuolų g.	unclassified	86	1	43	
+LT	598286	Miško g.	residential	84	1	17	
+LT	598286	Medelyno g.	residential	75	1	67	
+LT	598286	Vilniaus g.	residential	73	3	58	
+LT	598286	Gedimino g.	secondary	62	1	41	
+LT	598286	Pievų g.	residential	59	1	21	
+LT	598286	Beržų g.	residential	56	1	18	
+LT	598286	Sodų g.	residential	56	1	21	
+LT	598286	M. K. Čiurlionio g.	tertiary	54	3	45	
+LT	598286	Tujų g.	residential	54	1	17	
+LT	598286	Kamanių g.		48	3	50	
+LT	598286	M. Valančiaus g.	secondary	48	2	44	
+LT	598286	Maironio g.	residential	48	2	40	
+LT	598286	S. Daukanto g.	tertiary	48	2	24	
+LT	598286	K. Donelaičio g.	residential	47	1	46	
+LT	598286	Liepų g.	residential	43	2	16	
+LT	598286	Varnėnų g.		42	3	49	
+LT	598286	J. Basanavičiaus g.	residential	41	3	51	
+LT	598286	Lietuvos Partizanų g.	unclassified	40	2	32	
+LT	598286	Stoties g.	unclassified	40	2	51	
+LT	598286	Mėtų g.	residential	37	2	47	
+LT	598304	J. Tumo-Vaižganto g.	primary	54	3	51	
+LT	598304	Panevėžio g.	secondary	52	1	54	
+LT	598304	Pumpučių g.	primary	47	3	54	
+LT	598304	Tvenkinio g.	residential	45	2	42	
+LT	598304	Kavarsko g.	secondary	43	1	48	
+LT	598304	P. Cvirkos g.	primary	43	3	42	
+LT	598304	Jono Biliūno g.	residential	40	4	52	
+LT	598304	Budrių g.	secondary	36	1	23	
+LT	598304	Šermukšnių g.	secondary	34	2	35	
+LT	598304	Miško g.	unclassified	32	1	19	
+LT	598304	Gėlių g.	residential	31	3	31	
+LT	598304	Upės g.	unclassified	31	2	30	
+LT	598316	Savanorių pr.	secondary	569	68	425	
+LT	598316	Raudondvario pl.	primary	475	72	288	
+LT	598316	Taikos pr.	primary	394	31	139	
+LT	598316	Panerių g.	primary	361	41	322	
+LT	598316	V. Krėvės pr.		340	11	129	
+LT	598316	Girios g.	residential	335	1	144	
+LT	598316	Partizanų g.	tertiary	322	9	216	
+LT	598316	A. Juozapavičiaus pr.	secondary	311	3	124	
+LT	598316	Laisvės al.	pedestrian	304	23	103	
+LT	598316	Vytauto g.	primary	286	7	198	
+LT	598316	Lubinų g.	residential	267	3	290	
+LT	598316	Vaidoto g.	secondary	247	9	231	
+LT	598316	Islandijos pl.		246	15	217	
+LT	598316	R. Kalantos g.	primary	241	10	187	
+LT	598316	Užnerio g.	residential	232	7	95	
+LT	598316	Veiverių g.	primary	232	13	183	
+LT	598316	Jonavos g.	primary	230	3	292	
+LT	598316	Politechnikos g.	residential	229	10	309	
+LT	598316	Marvelės g.	unclassified	226	13	207	
+LT	598316	Kalniečių g.	residential	223	11	206	
+LT	598316	Suopių g.	unclassified	223	4	74	
+LT	598316	Baltų pr.	tertiary	209	7	175	
+LT	598316	Kalvarijos g.	secondary	208	9	193	
+LT	598316	Palemono g.	tertiary	203	7	173	
+LT	598316	Aušros g.	residential	202	2	73	
+LT	598316	Pramonės pr.		198	4	83	
+LT	598316	Baltijos g.	tertiary	192	4	110	
+LT	598316	Romainių g.	secondary	190	13	148	
+LT	598316	Liucijanavos g.	unclassified	187	8	199	
+LT	598316	Ąžuolų g.	residential	182	2	110	
+LT	598316	Prancūzų g.	tertiary	181	10	167	
+LT	598316	Pušyno g.	residential	180	3	68	
+LT	598316	Varnėnų g.	residential	179	3	97	
+LT	598316	Vokiečių g.	residential	177	11	185	
+LT	598316	Bivylių g.	tertiary	174	8	253	
+LT	598316	T. Ivanausko g.	residential	173	4	246	
+LT	598316	Garšvės g.		168	5	191	
+LT	598316	Pikulo g.	residential	168	11	174	
+LT	598316	Kovo 11-osios g.		166	12	120	
+LT	598316	Žeimenos g.	residential	165	6	165	
+LT	598316	Ateities g.	tertiary	162	2	75	
+LT	598316	Žemaičių g.	residential	160	11	162	
+LT	598316	Kranto al.	residential	158	6	150	
+LT	598316	Marių g.	tertiary	158	5	148	
+LT	598316	E. Volterio g.	residential	157	11	173	
+LT	598316	Naujakurių g.	residential	156	4	94	
+LT	598316	Europos pr.	primary	151	9	172	
+LT	598316	Kapsų g.	residential	149	6	122	
+LT	598316	A. Mackevičiaus g.	residential	144	11	118	
+LT	598316	Medžiotojų g.	residential	144	2	73	
+LT	598316	Jazminų g.	residential	136	2	54	
+LT	598316	Vilniaus g.	pedestrian	136	3	68	
+LT	598316	Alksnių g.	residential	135	2	75	
+LT	598316	Kalnų g.	residential	133	4	140	
+LT	598316	Ateities pl.	primary	132	23	77	
+LT	598316	Guobų g.	living_street	132	3	87	
+LT	598316	Knygnešių g.	residential	132	5	81	
+LT	598316	Saulės g.	residential	132	2	50	
+LT	598316	Seniavos pl.	tertiary	129	4	101	
+LT	598316	Romuvos g.	unclassified	128	3	89	
+LT	598316	Šiaurės pr.		128	2	99	
+LT	598316	Parko g.	residential	127	1	42	
+LT	598316	Sukilėlių pr.	secondary	127	11	110	
+LT	598316	Sodų g.	residential	126	6	135	
+LT	598316	Drobės g.	tertiary	125	5	81	
+LT	598316	Pašilės g.	residential	125	5	120	
+LT	598316	Kęstučio g.	tertiary	124	6	87	
+LT	598316	Vandžiogalos pl.	primary	124	4	94	
+LT	598316	Vėjo g.	residential	122	7	171	
+LT	598316	Beržų g.	residential	121	1	51	
+LT	598316	Josvainių g.	residential	121	5	104	
+LT	598316	Lakūnų pl.	unclassified	120	8	75	
+LT	598316	Draugystės g.		119	3	20	
+LT	598316	Bitininkų g.	unclassified	118	5	76	
+LT	598316	Dubravų g.		118	4	182	
+LT	598316	Vytauto pr.	primary	118	6	87	
+LT	598316	Kaimelės g.	unclassified	115	7	211	
+LT	598316	Juodelynės g.	unclassified	113	3	127	
+LT	598316	Pylimo g.	residential	113	5	88	
+LT	598316	Chemijos g.	secondary	112	4	89	
+LT	598316	Įgulos g.	residential	112	1	65	
+LT	598316	Rūgštynių tak.	residential	111	6	105	
+LT	598316	Piliakalnio g.	primary	110	3	125	
+LT	598316	Obelynės g.	residential	109	3	61	
+LT	598316	Tilžės g.	residential	108	7	85	
+LT	598316	K. Donelaičio g.	tertiary	107	5	79	
+LT	598316	S. Dariaus ir S. Girėno g.	tertiary	107	7	98	
+LT	598316	Mėnulio g.	residential	106	3	68	
+LT	598316	Pakaunės g.	residential	106	5	95	
+LT	598316	Perkūno al.	residential	106	4	72	
+LT	598316	Mosėdžio g.	residential	105	6	71	
+LT	598316	Elnio g.	residential	104	6	87	
+LT	598316	Volungių g.	residential	103	2	93	
+LT	598316	Gėlių g.	unclassified	102	2	55	
+LT	598316	Gabijos g.	residential	101	2	86	
+LT	598316	J. Vienožinskio g.	residential	100	5	72	
+LT	598316	Kiečių g.	residential	100	4	137	
+LT	598316	P. Višinskio g.	residential	100	7	93	
+LT	598316	Pušų g.	residential	100	2	34	
+LT	598316	9-ojo Forto g.		99	19	70	
+LT	598316	Akacijų g.	residential	99	3	92	
+LT	598316	V. Borisevičiaus g.	residential	99	6	104	
+LT	598316	Elektrėnų g.		98	1	23	
+LT	598316	Servitutų g.	residential	98	3	111	
+LT	598316	Studentų g.	unclassified	98	2	71	
+LT	598316	P. Kalpoko g.	tertiary	97	6	91	
+LT	598316	Narsiečių g.	residential	96	2	63	
+LT	598316	S. Banaičio g.	residential	96	7	98	
+LT	598316	Tauro g.	residential	95	2	32	
+LT	598316	Vyčio Kryžiaus g.	tertiary	95	5	110	
+LT	598316	Šaldytuvų g.	residential	95	5	56	
+LT	598316	Žvejų g.	residential	95	1	57	
+LT	598316	Tvirtovės al.	primary	94	5	88	
+LT	598316	H. ir O. Minkovskių g.	primary	93	31	154	
+LT	598316	L. Ivinskio g.	residential	93	6	130	
+LT	598316	Didžioji g.	residential	92	10	147	
+LT	598316	Ramybės g.	residential	92	1	94	
+LT	598316	Vasarvietės g.	residential	92	4	23	
+LT	598316	Kaišiadorių g.	residential	91	7	91	
+LT	598316	Purienų g.	residential	91	2	31	
+LT	598316	Eidintų g.	residential	90	32	155	
+LT	598316	K. Baršausko g.	primary	90	51	95	
+LT	598316	Kleboniškio g.	tertiary	90	1	37	
+LT	598316	Medeinos g.	residential	90	1	59	
+LT	598316	Mikėnų aklg.	residential	90	2	22	
+LT	598316	P. Lukšio g.		90	3	66	
+LT	598316	Technikumo g.	tertiary	90	6	92	
+LT	598316	Vaižganto g.	residential	90	6	54	
+LT	598316	Žiburių g.		90	3	68	
+LT	598316	Klevų g.	residential	89	2	37	
+LT	598316	Moliakelio g.	unclassified	89	2	114	
+LT	598316	Piliuonos g.	residential	89	1	118	
+LT	598316	Žalgirio g.	residential	89	4	71	
+LT	598316	Kuršių g.	residential	88	1	51	
+LT	598316	Algirdo g.	residential	87	2	67	
+LT	598316	Gluosnių g.	residential	87	1	28	
+LT	598316	Aukštaičių g.	residential	85	7	88	
+LT	598316	Bernatonių g.	residential	85	4	72	
+LT	598316	Varnių g.	primary	85	4	49	
+LT	598316	Zanavykų g.	residential	85	6	60	
+LT	598316	V. Putvinskio g.	residential	84	5	66	
+LT	598316	Varžupio g.	residential	84	2	89	
+LT	598316	Bajorų g.	residential	83	2	35	
+LT	598316	Laukuvos g.		83	5	63	
+LT	598316	Sniegenų g.	residential	83	4	61	
+LT	598316	Vievio g.	residential	83	3	81	
+LT	598316	A. Strazdo g.	tertiary	82	6	82	
+LT	598316	Birutės g.	living_street	82	2	49	
+LT	598316	Lazūnų g.	tertiary	82	6	67	
+LT	598316	Linkuvos g.	tertiary	82	9	91	
+LT	598316	M. ir P. Šalčių g.		82	5	106	
+LT	598316	Meškauogių tak.	residential	82	7	111	
+LT	598316	Mėtų g.	residential	82	1	30	
+LT	598316	Žilvičių g.	residential	82	2	47	
+LT	598316	J. Semaškos g.	residential	81	3	96	
+LT	598316	Medynėlių g.		81	4	113	
+LT	598316	Radvilėnų pl.	tertiary	81	1	80	
+LT	598316	Verkių g.	unclassified	81	3	56	
+LT	598316	Vienkiemių g.		81	6	93	
+LT	598316	Žemaičių pl.		81	11	67	
+LT	598316	Debesų g.	residential	80	1	62	
+LT	598316	Laimės g.	residential	80	1	46	
+LT	598316	Armališkių g.		79	3	99	
+LT	598316	Laurų g.	residential	79	1	23	
+LT	598316	Putinų g.	residential	79	2	28	
+LT	598316	Alšėnų g.	unclassified	78	2	75	
+LT	598316	Vilties g.	residential	78	1	33	
+LT	598316	A. Stulginskio g.	residential	77	6	66	
+LT	598316	Julijanavos g.	residential	77	1	73	
+LT	598316	Kaštonų g.	residential	77	2	54	
+LT	598316	Žalioji g.	residential	77	3	65	
+LT	598316	Antagynės g.	residential	76	2	38	
+LT	598316	Bartuvos g.	residential	76	1	44	
+LT	598316	Ežero g.	residential	76	3	46	
+LT	598316	Pravienos g.		76	6	54	
+LT	598316	Slėnio g.	residential	76	3	40	
+LT	598316	Šermukšnių g.	residential	76	1	28	
+LT	598316	Gilių g.	residential	75	2	32	
+LT	598316	Pakraščio g.	residential	75	2	45	
+LT	598316	Pievų g.	residential	75	2	34	
+LT	598316	Švenčionių g.	tertiary	75	2	49	
+LT	598316	A. Smetonos al.	residential	74	7	81	
+LT	598316	Forto g.	residential	74	3	29	
+LT	598316	Stumbro g.	residential	74	1	37	
+LT	598316	Apuolės g.	unclassified	73	6	82	
+LT	598316	P. Dovydaičio g.	residential	73	3	72	
+LT	598316	Pravieniškių g.	residential	73	5	76	
+LT	598316	Rimties skg.	residential	73	5	72	
+LT	598316	Stumbražolių tak.	residential	73	41	231	
+LT	598316	Vijūkų g.	residential	73	4	122	
+LT	598316	T. Masiulio g.	primary	72	2	31	
+LT	598316	A. Mickevičiaus g.	residential	71	4	54	
+LT	598316	Ašigalio g.		71	1	53	
+LT	598316	Eglių g.	residential	71	2	17	
+LT	598316	Šviesos g.	residential	71	2	104	
+LT	598316	Kryžiasnapių tak.		70	6	114	
+LT	598316	Ringuvos g.	residential	70	7	72	
+LT	598316	Romainiškių g.	residential	70	4	97	
+LT	598316	Topolių g.	unclassified	70	1	65	
+LT	598316	Ugnės g.	residential	70	4	71	
+LT	598392	Pušyno g.	residential	160	2	31	
+LT	598392	Vilniaus g.		146	4	78	
+LT	598392	Neries g.	residential	145	2	50	
+LT	598392	Miško g.	residential	132	1	40	
+LT	598392	Vingio g.	unclassified	119	2	141	
+LT	598392	Liepų g.	residential	118	1	40	
+LT	598392	Tulpių g.	residential	112	1	40	
+LT	598392	Slėnio g.	unclassified	106	1	24	
+LT	598392	Draugystės g.	secondary	104	2	37	
+LT	598392	Rožių g.	residential	99	2	40	
+LT	598392	Šlaito g.	residential	98	2	73	
+LT	598392	Alyvų g.	residential	97	2	26	
+LT	598512	Sodų g.	residential	175	4	83	
+LT	598512	Dariaus ir Girėno g.	primary	109	5	86	
+LT	598512	Stoties g.	residential	107	6	128	
+LT	598512	Vytauto g.	primary	98	5	95	
+LT	598512	Gėlių g.	residential	89	2	49	
+LT	598512	Ežero g.	secondary	88	2	48	
+LT	598512	Ramybės g.	unclassified	77	2	40	
+LT	598512	Eglės g.	secondary	74	9	55	
+LT	598512	Žalioji g.	residential	73	2	36	
+LT	598512	Liepų g.	residential	72	2	58	
+LT	598512	Aušros g.	residential	68	2	37	
+LT	598512	Mokyklos g.	residential	65	2	46	
+LT	598567	Gedimino g.	primary	216	10	140	
+LT	598567	Vilniaus g.	residential	153	5	90	
+LT	598567	Vytauto Didžiojo g.	secondary	129	7	120	
+LT	598567	Pavasario g.	residential	93	3	49	
+LT	598567	Pamiškio g.	residential	89	5	75	
+LT	598567	Aušros Tako g.	residential	81	5	60	
+LT	598567	Ateities g.	residential	80	1	42	
+LT	598567	Palomenės g.	secondary	75	3	64	
+LT	598567	Žaslių g.	secondary	70	4	67	
+LT	598567	Ąžuolyno g.	unclassified	66	2	88	
+LT	598567	Maironio g.	residential	62	4	56	
+LT	598567	Taikos g.	residential	62	3	32	
+LT	598567	Kaštonų g.	residential	61	4	59	
+LT	598567	Kaišiadorių g.	secondary	57	2	40	
+LT	598567	Sodų g.	secondary	54	3	241	
+LT	598567	Vladikiškių g.	unclassified	54	3	57	
+LT	598567	Girelės g.	residential	52	2	55	
+LT	598567	Pievų g.	residential	52	1	27	
+LT	598567	Tujų g.	residential	52	2	54	
+LT	598567	Tiesioji g.	residential	51	2	34	
+LT	598567	Kęstučio g.	residential	49	1	47	
+LT	598567	Senolių g.	residential	46	3	55	
+LT	598567	J. Basanavičiaus g.	residential	44	2	42	
+LT	598567	Kalno g.	residential	44	2	53	
+LT	598599	J. Janonio g.	residential	157	5	114	
+LT	598599	Nemuno g.	residential	70	4	47	
+LT	598599	Apynėlio g.	residential	69	4	64	
+LT	598599	J. Biliūno g.	residential	63	2	62	
+LT	598599	Sodo g.	residential	53	3	61	
+LT	598599	Skrydžio g.	residential	43	5	73	
+LT	598599	Saulės g.	residential	41	2	42	
+LT	598599	Vandenio g.	residential	36	2	35	
+LT	598599	Šlaito g.	residential	36	3	53	
+LT	598599	Žemynos g.	residential	33	2	35	
+LT	598599	Paukščių tak.	residential	32	1	35	
+LT	598599	Upelio g.	residential	30	1	22	
+LT	598655	Nemuno g.	residential	200	4	126	
+LT	598655	Dariaus ir Girėno g.	primary	154	25	180	
+LT	598655	Vytauto Didžiojo g.	residential	122	5	105	
+LT	598655	Sodų g.	primary	119	2	113	
+LT	598655	K. Donelaičio g.	residential	118	7	95	
+LT	598655	A. Giedraičio-Giedriaus g.	unclassified	117	2	93	
+LT	598655	Vydūno g.	primary	114	6	78	
+LT	598655	Smukučių g.	residential	100	10	98	
+LT	598655	Kauno g.	residential	99	25	99	
+LT	598655	Mokyklos g.	residential	76	2	32	
+LT	598655	Vieversio g.	residential	68	4	83	
+LT	598655	Vieškelio g.	secondary	67	2	49	
+LT	598655	Gedimino g.	residential	66	2	30	
+LT	598655	Liepų g.	residential	66	3	66	
+LT	598655	S. Daukanto g.	primary	63	5	66	
+LT	598655	Barkūnų g.	unclassified	62	2	66	
+LT	598655	Kaštonų g.	unclassified	61	2	67	
+LT	598655	Lauko g.	residential	58	1	23	
+LT	598655	Obelų g.	residential	50	1	35	
+LT	598655	Vakaro g.	residential	50	1	19	
+LT	598655	Muitinės g.	primary	49	1	34	
+LT	598655	Greičių g.	unclassified	46	2	42	
+LT	598655	Kalninės g.	residential	46	3	41	
+LT	598655	Pasakos Sodo 1-oji g.	residential	46	3	52	
+LT	598657	Kauno g.	primary	138	5	88	
+LT	598657	Vyturių g.	secondary	51	1	70	
+LT	598657	Draugystės g.	residential	43	2	31	
+LT	598657	Kaštonų g.	residential	40	2	45	
+LT	598657	Jovarų g.	residential	39	2	41	
+LT	598657	Pažėrų g.	secondary	37	2	65	
+LT	598657	Belevičių g.	secondary	36	2	70	
+LT	598657	Liepų g.	residential	34	1	23	
+LT	598657	Žalgirio g.	residential	34	2	36	
+LT	598657	Gėlių g.	residential	31	1	28	
+LT	598657	Sodininkų g.	residential	31	4	36	
+LT	598657	Aušros g.	residential	28	3	20	
+LT	598690	Kalnų g.	secondary	78	5	84	
+LT	598690	Pergalės g.	residential	63	2	43	
+LT	598690	Pavasario 1-oji g.		60	3	61	
+LT	598690	Komarų g.	tertiary	58	3	65	
+LT	598690	Vėtrungės 1-oji g.	residential	43	3	55	
+LT	598690	Liepų g.	residential	32	4	35	
+LT	598690	Vyžuonos g.	secondary	30	2	32	
+LT	598690	Aukštaičių g.	residential	29	3	31	
+LT	598690	Ramybės g.	residential	29	4	34	
+LT	598690	Čeičių g.	secondary	28	2	34	
+LT	598690	Palangos g.	residential	27	2	32	
+LT	598690	Darbininkų g.	residential	26	2	30	
+LT	598706	Alksnynės g.	primary	1	0	0	
+LT	598706	Gintaro Įlankos g.	primary	1	0	0	
+LT	598706	Ievos Kalno g.	residential	1	0	0	
+LT	598706	L. Rėzos g.	primary	1	0	0	
+LT	598706	Miško g.	living_street	1	0	0	
+LT	598706	Nidos-Smiltynės pl.	primary	1	0	0	
+LT	598706	Vilų g.	living_street	1	0	0	
+LT	598706	Žaliasis kel.	unclassified	1	0	0	
+LT	598796	Žagarės g.	primary	187	4	59	
+LT	598796	Sidabros g.	residential	150	2	53	
+LT	598796	Vilniaus g.	primary	137	4	80	
+LT	598796	Žemaičių g.	secondary	136	2	73	
+LT	598796	Kaštonų g.	residential	124	4	60	
+LT	598796	Šiaulių Senoji g.	unclassified	115	3	94	
+LT	598796	Medžiotojų g.	unclassified	112	2	53	
+LT	598796	Beržų g.	primary	110	2	38	
+LT	598796	V. Kudirkos g.	tertiary	104	5	90	
+LT	598796	J. Basanavičiaus g.	unclassified	102	16	113	
+LT	598796	Livonijos g.	primary	96	3	65	
+LT	598796	Pienių tak.	residential	93	5	90	
+LT	598796	Upytės g.	primary	92	5	65	
+LT	598796	Ramunių tak.	residential	87	5	83	
+LT	598796	Saulės g.	residential	87	4	70	
+LT	598796	Sodų g.	secondary	87	3	57	
+LT	598796	Rugiagėlių tak.	residential	86	5	83	
+LT	598796	Spindulio tak.	residential	86	5	87	
+LT	598796	Jovarų tak.	residential	85	5	84	
+LT	598796	Senoji g.	secondary	83	2	36	
+LT	598796	Pirties g.	residential	80	4	150	
+LT	598796	Saulėgrąžų tak.	residential	80	3	75	
+LT	598796	Audruvės g.	unclassified	79	1	50	
+LT	598796	J. Avyžiaus g.	primary	76	4	72	
+LT	598818	Beržų g.	secondary	210	2	38	
+LT	598818	Kauno g.	secondary	173	5	102	
+LT	598818	Gėlių g.	residential	158	2	38	
+LT	598818	Saulės g.	residential	158	2	40	
+LT	598818	Pušų g.	residential	153	2	48	
+LT	598818	Miško g.	residential	142	1	23	
+LT	598818	Sodų g.	residential	137	3	83	
+LT	598818	Žeimių g.	primary	120	3	111	
+LT	598818	Tvenkinio g.	residential	116	1	33	
+LT	598818	Vingio g.	residential	101	2	51	
+LT	598818	Uosių g.	residential	100	2	34	
+LT	598818	Chemikų g.	residential	97	2	130	
+LT	598818	Žalioji g.	residential	90	2	22	
+LT	598818	J. Basanavičiaus g.	secondary	86	4	73	
+LT	598818	Naujakurių g.	residential	86	3	67	
+LT	598818	Taikos g.	residential	84	3	53	
+LT	598818	Liepų g.	residential	83	1	21	
+LT	598818	Pievų g.	residential	83	2	28	
+LT	598818	Žalgirio g.	living_street	82	5	67	
+LT	598818	Ąžuolų g.	residential	81	2	30	
+LT	598818	Kauno kel.	secondary	78	1	61	
+LT	598818	P. Vaičiūno g.	secondary	78	4	97	
+LT	598818	Plento g.	secondary	78	1	71	
+LT	598818	Alyvų g.	residential	72	2	35	
+LT	598818	Pušyno g.	residential	72	1	33	
+LT	598818	Ateities g.	secondary	67	2	47	
+LT	598818	Ežero g.	residential	67	4	69	
+LT	598818	Purienų g.	residential	62	4	54	
+LT	598818	Vilties g.	residential	62	2	53	
+LT	598818	Kalnų g.	residential	61	2	52	
+LT	598818	Eglių g.		58	2	38	
+LT	598818	Serbentų g.	residential	58	2	47	
+LT	598818	Mėtų g.	residential	57	1	20	
+LT	598818	Vasario 16-osios g.	secondary	56	1	60	
+LT	598818	Darbininkų g.	primary	55	3	53	
+LT	598818	Ryto g.		55	2	35	
+LT	598818	Žiedų g.	residential	55	2	45	
+LT	598818	Aronijų g.	residential	54	1	31	
+LT	598818	Fabriko g.	tertiary	54	1	52	
+LT	598818	Tiesioji g.	residential	54	2	26	
+LT	598818	Geležinkelio g.	residential	53	1	31	
+LT	598818	Rožių g.	residential	50	1	20	
+LT	598818	Žvirgždės 2-asis tak.		49	3	46	
+LT	598818	Draugystės g.	residential	47	2	61	
+LT	598818	Lakštingalų g.	residential	47	1	20	
+LT	598818	Žvirgždės 3-iasis tak.		46	3	42	
+LT	598818	Rasos g.	residential	45	1	21	
+LT	598818	Taurostos g.	unclassified	45	2	60	
+LT	598854	Vilniaus g.	secondary	88	4	87	
+LT	598854	Ežero g.	unclassified	58	2	26	
+LT	598854	Miško g.	unclassified	58	1	29	
+LT	598854	Vytauto g.	secondary	58	4	51	
+LT	598854	Verknės g.	unclassified	56	2	40	
+LT	598854	Nemuno g.	secondary	48	2	32	
+LT	598854	Piliakalnio g.	unclassified	44	2	57	
+LT	598854	Stakliškių g.	secondary	44	3	39	
+LT	598854	Gėlių g.	residential	38	1	29	
+LT	598854	Sodo g.	residential	37	3	43	
+LT	598854	J. Basanavičiaus g.	residential	32	2	35	
+LT	598854	Beržų g.	residential	30	1	21	
+LT	598998	Budrių g.	primary	100	5	104	
+LT	598998	Sodų g.	residential	99	2	54	
+LT	598998	Laisvės g.	residential	98	2	87	
+LT	598998	Dringio g.	secondary	87	6	82	
+LT	598998	Turistų g.	primary	82	8	63	
+LT	598998	Švenčionių g.	primary	73	3	54	
+LT	598998	Ažušilės g.	residential	71	2	55	
+LT	598998	Vilniaus g.	primary	61	5	79	
+LT	598998	Meiros g.	secondary	60	5	64	
+LT	598998	Ąžuolo g.	residential	59	2	47	
+LT	598998	Aukštaičių g.	residential	55	4	60	
+LT	598998	Rėkučių g.	residential	54	5	72	
+LT	598998	Lūšių g.	primary	52	2	50	
+LT	598998	Geležinkelio g.	primary	46	6	46	
+LT	598998	Smilgų g.		46	3	59	
+LT	598998	Vasario 16-osios g.	residential	44	4	52	
+LT	598998	Atgimimo g.	residential	42	6	37	
+LT	598998	Strigailiškio g.	residential	42	4	41	
+LT	598998	Smėlio g.	residential	40	1	34	
+LT	598998	Bėčiūnų g.	residential	39	2	39	
+LT	598998	Sodininkų g.		38	3	40	
+LT	598998	Ateities g.	residential	37	2	43	
+LT	598998	Vyšnių g.	residential	37	1	25	
+LT	598998	Liaudies g.	residential	35	2	44	
+LT	599142	Grinkiškio g.	secondary	100	4	80	
+LT	599142	Tilto g.	primary	72	4	75	
+LT	599142	Dvaro g.	secondary	54	4	55	
+LT	599142	Spindulio g.	secondary	52	3	50	
+LT	599142	Baisogalos g.	primary	47	3	47	
+LT	599142	Gegužinės g.	secondary	40	2	41	
+LT	599142	Mokyklos g.	secondary	38	1	32	
+LT	599142	Tiesioji g.	unclassified	38	2	41	
+LT	599142	Pašušvio g.	secondary	35	1	22	
+LT	599142	Lauko g.	secondary	34	2	31	
+LT	599142	Šušvės g.	residential	33	1	19	
+LT	599142	Krimslės g.	secondary	32	2	28	
+LT	599161	Kranto g.	residential	128	2	69	
+LT	599161	Upės g.	unclassified	115	81	176	
+LT	599161	Miško g.	residential	114	1	50	
+LT	599161	Kovo 11-osios g.	residential	102	6	69	
+LT	599161	Šaltinių g.	residential	96	1	51	
+LT	599161	Gėlių g.	residential	94	2	29	
+LT	599161	Vokės Sodų 1-oji g.	residential	94	5	107	
+LT	599161	Sodų g.	residential	92	2	41	
+LT	599161	Neries g.	residential	90	5	86	
+LT	599161	Vilniaus g.	secondary	90	1	65	
+LT	599161	Bokšto g.	residential	78	2	48	
+LT	599161	Kalno g.	secondary	73	2	38	
+LT	599161	Santakos g.	residential	68	6	111	
+LT	599161	Pušyno g.	residential	66	1	77	
+LT	599161	Pušų g.	residential	62	2	32	
+LT	599161	Saulės g.	residential	61	2	53	
+LT	599161	Vynuogių g.	residential	58	1	42	
+LT	599161	Kaštonų g.	residential	57	3	90	
+LT	599161	Klevų g.	residential	57	2	48	
+LT	599161	Smėlio g.	residential	57	1	31	
+LT	599161	Palaimos g.	unclassified	55	2	31	
+LT	599161	Grigiškių g.	secondary	53	1	30	
+LT	599161	Kauno Vokės g.	unclassified	53	3	54	
+LT	599161	Aukštųjų Semeniukų g.	unclassified	49	2	33	
+LT	599420	Nemuno g.	unclassified	277	2	99	
+LT	599420	Vytėnų g.	secondary	105	6	89	
+LT	599420	Taikos g.	secondary	77	5	76	
+LT	599420	Šaltinio g.	residential	67	4	65	
+LT	599420	Kalno g.	residential	62	2	44	
+LT	599420	Liepų g.	unclassified	61	1	23	
+LT	599420	Kartupėnų g.	secondary	59	2	78	
+LT	599420	Obelų 2-oji g.		57	3	44	
+LT	599420	Kaštonų g.	secondary	56	2	91	
+LT	599420	Miško g.	unclassified	45	1	25	
+LT	599420	Raseinių g.	primary	44	2	51	
+LT	599420	J. Baltrušaičio g.	residential	39	1	44	
+LT	599504	Vytauto g.	primary	214	2	155	
+LT	599504	J. Lukšos g.	secondary	166	10	241	
+LT	599504	Darbininkų g.	residential	125	6	108	
+LT	599504	Jiesios g.	unclassified	104	1	54	
+LT	599504	Liepų g.	residential	94	2	37	
+LT	599504	Kaštonų g.	residential	92	2	38	
+LT	599504	J. Gabrio g.	residential	88	3	73	
+LT	599504	Gėlių g.	residential	86	2	30	
+LT	599504	Vyšnių g.	residential	86	2	28	
+LT	599504	Beržų g.	residential	84	2	63	
+LT	599504	Pagirių g.	residential	75	4	79	
+LT	599504	Stasio Lozoraičio g.	residential	72	1	35	
+LT	599504	Putinų g.	residential	71	2	20	
+LT	599504	Bijūnų g.	residential	68	4	50	
+LT	599504	K. Donelaičio g.	residential	67	3	60	
+LT	599504	Alyvų g.	residential	64	2	60	
+LT	599504	Apynio g.	residential	62	5	99	
+LT	599504	J. Basanavičiaus g.	residential	61	6	55	
+LT	599504	Žalioji g.	residential	61	3	62	
+LT	599504	V. Kudirkos g.	residential	58	3	58	
+LT	599504	Pamiškės g.	residential	57	1	42	
+LT	599504	Vienybės g.	residential	57	3	46	
+LT	599504	Pienių g.	residential	55	2	50	
+LT	599504	Rūtų g.	residential	55	1	28	
+LT	599506	Klaipėdos g.	primary	179	4	88	
+LT	599506	Liepų g.	residential	174	3	63	
+LT	599506	Kvietinių g.	residential	162	9	127	
+LT	599506	Laukų g.	residential	136	1	41	
+LT	599506	Kviečių g.		124	7	146	
+LT	599506	Pušų g.	unclassified	122	5	53	
+LT	599506	Minijos g.	residential	119	2	69	
+LT	599506	Vasario 16-osios g.	residential	119	7	111	
+LT	599506	J. Basanavičiaus g.	unclassified	116	6	101	
+LT	599506	Pievų g.	residential	111	1	70	
+LT	599506	Dvarelio tak.	residential	110	5	103	
+LT	599506	Laisvės g.	secondary	110	3	154	
+LT	599506	Žalioji g.	residential	104	2	43	
+LT	599506	Žemaičių g.	secondary	100	2	48	
+LT	599506	Vingio g.	residential	98	2	47	
+LT	599506	Alyvų g.	residential	95	2	34	
+LT	599506	Žemaitės g.	residential	94	4	74	
+LT	599506	Ryto g.	residential	87	2	62	
+LT	599506	Grambaviškių g.	residential	86	6	84	
+LT	599506	Parko g.	residential	86	2	34	
+LT	599506	Lelijų g.	residential	85	2	30	
+LT	599506	Skinijos tak.	residential	83	5	78	
+LT	599506	Statybininkų g.	residential	82	3	71	
+LT	599506	Gerduvėnų g.	residential	79	1	54	
+LT	599506	Aušros g.	residential	78	2	55	
+LT	599506	Dobilų g.		76	2	59	
+LT	599506	Gėlių g.	residential	75	2	35	
+LT	599506	Pietų g.	residential	75	2	73	
+LT	599506	Vakarų g.	living_street	75	8	140	
+LT	599506	Ramunių g.	residential	74	1	29	
+LT	599506	Ąžuolų g.		71	2	38	
+LT	599506	Rūtų g.	residential	70	1	30	
+LT	599506	Mykolo Vaitkaus g.	residential	69	4	67	
+LT	599506	Sodų g.	residential	69	2	31	
+LT	599506	Gargždų g.	primary	68	2	42	
+LT	599506	Užuovėjos g.	residential	64	4	51	
+LT	599506	Pakrantės tak.	residential	63	2	58	
+LT	599506	Purienų g.	residential	63	3	56	
+LT	599506	Beržų g.	residential	62	2	21	
+LT	599506	Paupio g.	residential	62	2	25	
+LT	599506	Skaidrioji g.	unclassified	62	3	54	
+LT	599506	Smilgynų g.	residential	62	2	49	
+LT	599506	Statybininkų tak.	residential	62	4	59	
+LT	599506	Nausodžio g.	primary	61	4	91	
+LT	599506	Mokyklos g.	residential	60	1	50	
+LT	599506	Globėjų g.	residential	56	3	57	
+LT	599506	Miško g.	residential	56	1	19	
+LT	599506	Turgaus g.	residential	56	5	35	
+LT	599579	Kauno g.	residential	149	2	104	
+LT	599579	Miško g.	residential	112	5	129	
+LT	599579	Žirginių g.		80	4	82	
+LT	599579	Vaivorykštės g.		65	5	67	
+LT	599579	Meldų g.	residential	48	3	46	
+LT	599579	Karklų g.		45	5	91	
+LT	599579	Vaivorų g.	residential	42	3	47	
+LT	599579	Sodų g.	residential	35	2	51	
+LT	599579	Šerkšno g.		35	6	50	
+LT	599579	Nendrių g.	residential	33	2	32	
+LT	599579	Juodalksnių g.	residential	29	1	33	
+LT	599579	Šilo g.	unclassified	29	1	23	
+LT	599602	Ežero g.	unclassified	145	2	69	
+LT	599602	Šilo g.	secondary	142	3	50	
+LT	599602	Žalioji g.	residential	116	3	79	
+LT	599602	Klevų g.	residential	114	3	75	
+LT	599602	Liepų g.	residential	113	2	30	
+LT	599602	Geibonių g.	unclassified	112	1	44	
+LT	599602	Sanatorijos g.	unclassified	103	6	107	
+LT	599602	Alinkos g.	residential	93	1	60	
+LT	599602	Sabališkių g.	tertiary	84	1	34	
+LT	599602	Strėvos g.	residential	84	1	34	
+LT	599602	Bažnyčios g.	secondary	82	4	77	
+LT	599602	Mokyklos g.	residential	81	2	35	
+LT	599602	Profilaktoriumo g.	residential	80	4	85	
+LT	599602	Saulėtekio g.	residential	79	4	68	
+LT	599602	Dvaro g.	tertiary	77	4	58	
+LT	599602	Alyvų g.	residential	73	2	27	
+LT	599602	Skaistupio g.	secondary	65	3	54	
+LT	599602	Aušros g.	residential	62	3	61	
+LT	599602	Stoties g.	primary	61	8	137	
+LT	599602	Kaštonų g.	residential	60	2	47	
+LT	599602	Vingio g.	unclassified	60	2	74	
+LT	599602	Draugystės g.	residential	59	2	45	
+LT	599602	Elektrinės g.	tertiary	56	4	40	
+LT	599602	Gėlių g.	residential	55	2	91	
+LT	599614	Rodūnės g.	primary	144	6	150	
+LT	599614	Vilniaus g.	primary	104	6	108	
+LT	599614	Gegužės 3-osios g.	residential	98	6	114	
+LT	599614	Žalioji g.	residential	90	3	49	
+LT	599614	Naujoji g.	residential	81	2	36	
+LT	599614	Akacijų g.	residential	67	3	62	
+LT	599614	Raubiškių g.	residential	66	6	76	
+LT	599614	Naujojo Plano g.	secondary	64	6	62	
+LT	599614	Rasos g.	residential	63	12	140	
+LT	599614	Užmiesčio g.	residential	61	4	59	
+LT	599614	Vilties g.	residential	57	2	37	
+LT	599614	Jaunimo g.	unclassified	56	2	52	
+LT	599628	Pateklos g.	unclassified	44	1	58	
+LT	599628	Gedimino g.	secondary	30	2	30	
+LT	599628	Kiršių g.		28	2	42	
+LT	599628	Stoties g.	unclassified	28	2	23	
+LT	599628	Tausalo g.	unclassified	27	2	25	
+LT	599628	Judros g.	unclassified	26	2	36	
+LT	599628	Pievėnų g.	secondary	26	2	29	
+LT	599628	Medinių g.	residential	25	2	25	
+LT	599628	Alytaus g.	residential	24	2	33	
+LT	599628	Klevų g.	secondary	24	4	32	
+LT	599628	Vyšnių g.	unclassified	20	1	30	
+LT	599628	Šašaičių g.	unclassified	20	4	22	
+LT	599686	Vytauto g.	secondary	92	5	78	
+LT	599686	Vilniaus g.	unclassified	72	4	61	
+LT	599686	Žirgų g.	secondary	67	4	67	
+LT	599686	Melioratorių g.	secondary	63	4	25	
+LT	599686	A. Vienažindžio g.	primary	48	4	36	
+LT	599686	Dusetų g.	secondary	47	2	43	
+LT	599686	Beržų g.	residential	46	2	52	
+LT	599686	K. Būgos g.	secondary	41	3	36	
+LT	599686	Sodų g.	unclassified	32	2	29	
+LT	599686	Vytauto Striogos g.	primary	32	2	45	
+LT	599686	Sudeikių g.	secondary	30	2	30	
+LT	599686	Šilo g.	residential	30	2	34	
+LT	599727	Dysnų g.	secondary	73	2	60	
+LT	599727	Laisvės g.	residential	68	4	72	
+LT	599727	Vasario 16-osios g.	unclassified	63	4	71	
+LT	599727	Aušros g.	secondary	42	3	41	
+LT	599727	Sodų g.	residential	41	4	29	
+LT	599727	Rimšės g.	secondary	35	4	44	
+LT	599727	Vilniaus g.	primary	33	2	69	
+LT	599727	Donato Šarkos g.	residential	30	3	41	
+LT	599727	Smėlynės g.	residential	30	3	36	
+LT	599727	Dvaro g.	residential	29	1	20	
+LT	599727	Naujoji g.	residential	29	3	30	
+LT	599727	Stoties g.	residential	29	1	37	
+LT	599757	Gailiūnų g.	secondary	204	7	179	
+LT	599757	M. K. Čiurlionio g.	tertiary	192	10	163	
+LT	599757	Neravų g.	secondary	188	3	85	
+LT	599757	Baltašiškės g.	residential	148	4	63	
+LT	599757	Gardino g.	secondary	125	5	98	
+LT	599757	Nemuno kel.	secondary	113	9	95	
+LT	599757	Švendubrės g.	secondary	98	5	85	
+LT	599757	Sodžiaus g.	residential	93	4	47	
+LT	599757	Jaskonių g.	unclassified	91	2	64	
+LT	599757	Kaštonų g.	residential	85	4	63	
+LT	599757	Pylimo g.		78	8	80	
+LT	599757	Veisiejų g.	primary	71	2	79	
+LT	599757	Dainavos g.	residential	65	4	61	
+LT	599757	Raigardo g.	residential	65	6	70	
+LT	599757	Vytauto g.	residential	61	5	68	
+LT	599757	Paraistės g.	secondary	60	1	62	
+LT	599757	Saulėtekio g.	residential	60	3	72	
+LT	599757	Vienkiemių g.	residential	60	2	41	
+LT	599757	Mizarų g.	residential	57	3	55	
+LT	599757	Ateities g.	residential	56	2	76	
+LT	599757	Alyvų g.	unclassified	54	3	30	
+LT	599757	Pušyno g.	residential	54	3	52	
+LT	599757	Dzūkijos g.	residential	52	4	62	
+LT	599757	Vilniaus al.	pedestrian	48	2	34	
+LT	599808	Pavasario g.	residential	85	3	100	
+LT	599808	Vytauto g.	primary	83	5	90	
+LT	599808	Kranto g.	residential	73	1	30	
+LT	599808	Vainotiškių g.	unclassified	69	1	57	
+LT	599808	Šlapaberžės g.	secondary	60	2	57	
+LT	599808	Tilto g.	primary	55	2	59	
+LT	599808	Lelijų g.		50	3	53	
+LT	599808	Ruokio g.	residential	48	1	36	
+LT	599808	Aviečių g.		47	3	47	
+LT	599808	Stoties g.	secondary	46	1	18	
+LT	599808	Parko g.	primary	44	1	15	
+LT	599808	Pupų g.		44	3	45	
+LT	599815	Aušros g.		120	3	87	
+LT	599815	Rožių g.	unclassified	103	2	38	
+LT	599815	Slyvų g.		88	2	44	
+LT	599815	Lakštingalų g.	residential	86	3	61	
+LT	599815	Ramunių g.	residential	83	3	63	
+LT	599815	Alyvų g.	residential	69	2	48	
+LT	599815	Aukščių g.	residential	67	11	73	
+LT	599815	Mildos g.	unclassified	66	4	32	
+LT	599815	Jaunimo g.		65	3	56	
+LT	599815	Vyšnių g.		65	2	47	
+LT	599815	Juozapavos tak.	residential	57	3	72	
+LT	599815	Liepų g.	residential	55	3	75	
+LT	599815	Tulpių g.	residential	54	1	22	
+LT	599815	Vandžiogalos pl.	primary	54	81	132	
+LT	599815	Pakalnės g.	unclassified	51	3	20	
+LT	599815	Saulės g.	residential	50	2	38	
+LT	599815	Karaliaus Mindaugo al.		48	3	76	
+LT	599815	Luknės g.		47	3	85	
+LT	599815	Naujojo Gyvenimo g.	unclassified	46	1	37	
+LT	599815	Parko g.	unclassified	46	3	57	
+LT	599815	Jurginų g.	residential	45	2	28	
+LT	599815	Saulėtekio g.	unclassified	45	1	41	
+LT	599815	Topolių g.	residential	44	3	41	
+LT	599815	Laimės g.	residential	42	3	42	
+LT	600040	Ežero g.	residential	169	3	56	
+LT	600040	Vytauto g.	secondary	144	4	77	
+LT	600040	Maironio g.	unclassified	131	7	137	
+LT	600040	Dvaro g.	unclassified	72	1	36	
+LT	600040	Daugų g.	residential	63	2	24	
+LT	600040	Ilgoji g.	unclassified	63	4	71	
+LT	600040	Suvingio g.	unclassified	56	3	70	
+LT	600040	Varsos g.	unclassified	56	11	74	
+LT	600040	Mokyklos g.	residential	55	1	29	
+LT	600040	Dusmenų g.	tertiary	46	3	53	
+LT	600040	Alytaus g.	primary	44	2	48	
+LT	600040	Pylimo g.	unclassified	43	2	20	
+LT	600213	Vytauto g.	secondary	61	2	29	
+LT	600213	Margirio g.	secondary	59	2	55	
+LT	600213	Vilniaus g.	secondary	55	2	44	
+LT	600213	Pabalių g.	unclassified	53	3	58	
+LT	600213	Liepų g.	unclassified	52	1	32	
+LT	600213	Ateities g.	residential	46	4	49	
+LT	600213	Dariaus ir Girėno g.	secondary	44	5	60	
+LT	600213	Draugystės kel.	secondary	39	2	32	
+LT	600213	Obelties g.	secondary	39	3	38	
+LT	600213	Butrimonių g.	secondary	36	2	43	
+LT	600213	Kalnelio kel.	unclassified	35	2	43	
+LT	600213	Kedonių kel.	secondary	34	2	36	
+LT	600438	Vytauto g.	tertiary	205	4	114	
+LT	600438	Kilučių g.	tertiary	187	4	134	
+LT	600438	V. Kudirkos g.	residential	140	5	110	
+LT	600438	Vilniaus g.	residential	133	9	111	
+LT	600438	Respublikos g.	primary	107	1	94	
+LT	600438	J. Basanavičiaus g.	tertiary	101	4	67	
+LT	600438	Liepų g.	residential	90	1	37	
+LT	600438	Žemaitės g.	residential	85	5	86	
+LT	600438	Kęstučio g.	tertiary	79	2	60	
+LT	600438	Parko g.	residential	79	1	48	
+LT	600438	Draugystės g.	residential	76	2	42	
+LT	600438	Rinkuškių g.	primary	76	4	60	
+LT	600438	Pasvalio g.	primary	73	1	39	
+LT	600438	Kaštonų g.	residential	72	3	56	
+LT	600438	Taikos g.	residential	72	2	27	
+LT	600438	Agluonos g.	unclassified	70	2	63	
+LT	600438	Biržų g.	primary	69	1	33	
+LT	600438	Jovaro g.	residential	69	4	68	
+LT	600438	Astravo g.	secondary	68	3	36	
+LT	600438	Putinų g.		68	4	90	
+LT	600438	Rotušės g.	residential	60	2	30	
+LT	600438	Vabalninko g.	primary	58	2	44	
+LT	600438	Vyšnių g.	residential	58	1	22	
+LT	600438	Laisvės g.	residential	57	2	63	
+LT	600443	Mokyklos g.	living_street	62	5	88	
+LT	600443	Nemuno g.	unclassified	61	3	62	
+LT	600443	Prienų g.		61	3	45	
+LT	600443	Gojaus g.	residential	52	3	50	
+LT	600443	Pušyno g.	residential	51	2	73	
+LT	600443	Šilo g.	secondary	46	1	22	
+LT	600443	Žvėrinčiaus g.	residential	46	5	57	
+LT	600443	Bičiulių g.	unclassified	45	5	70	
+LT	600443	Bažnyčios g.	secondary	42	3	43	
+LT	600443	Ilgoji g.	residential	42	3	41	
+LT	600443	Birštono g.	secondary	41	3	35	
+LT	600443	Birutės g.	unclassified	39	1	35	
+LT	600688	Kalno g.	unclassified	125	2	75	
+LT	600688	Juozo Lašinsko g.	residential	107	2	56	
+LT	600688	Pagirių g.	residential	88	1	72	
+LT	600688	Vytauto g.	secondary	87	3	90	
+LT	600688	Geležinkelio g.		73	3	105	
+LT	600688	Svajonės g.	residential	71	4	90	
+LT	600688	Pienių g.	residential	63	7	37	
+LT	600688	Palivarko g.	residential	57	3	41	
+LT	600688	Rėvos g.	residential	57	3	29	
+LT	600688	Rūdninkų g.	primary	54	8	92	
+LT	600688	Svajonės 7-oji g.	residential	53	3	55	
+LT	600688	Totorių g.	residential	52	1	40	
+LT	600765	Mokyklos g.	secondary	110	3	86	
+LT	600765	Sodų 6-oji g.	residential	91	4	87	
+LT	600765	Palono g.	secondary	82	5	69	
+LT	600765	Kiršino g.	residential	76	2	80	
+LT	600765	Eglyno 2-oji g.		73	4	81	
+LT	600765	Stoties g.	secondary	63	1	45	
+LT	600765	Sodų 5-oji g.	residential	53	5	84	
+LT	600765	Draugystės g.	secondary	51	3	45	
+LT	600765	Maironio g.	unclassified	49	2	60	
+LT	600765	Kapų g.	residential	48	1	33	
+LT	600765	Žilvičio 1-oji g.		45	3	45	
+LT	600765	Beržų g.	unclassified	43	1	36	
+LT	600887	Taikos g.	secondary	65	2	60	
+LT	600887	Liepų g.	residential	48	1	46	
+LT	600887	Ąžuolo g.	unclassified	27	2	29	
+LT	600887	Mažaičių g.	residential	26	2	25	
+LT	600887	Žalioji g.	residential	22	1	19	
+LT	600887	Parko g.	unclassified	17	1	20	
+LT	600887	Naujoji g.	residential	16	1	20	
+LT	600887	Draugystės g.	residential	14	1	16	
+LT	600887	Karžygių g.	residential	13	1	13	
+LT	600887	Dvaro g.	residential	12	1	12	
+LT	600887	Lauko g.	residential	12	1	19	
+LT	600887	Girininkijos g.	tertiary	11	1	11	
+LT	600896	Vilniaus g.		98	3	78	
+LT	600896	Skrebės g.	residential	74	1	41	
+LT	600896	Sodų g.	residential	58	1	25	
+LT	600896	Verniejaus g.	unclassified	56	3	60	
+LT	600896	Ąžuolų g.	unclassified	54	3	63	
+LT	600896	Miško g.	secondary	42	1	14	
+LT	600896	Kranto g.	residential	41	1	19	
+LT	600896	Aukštadvario g.	primary	39	2	32	
+LT	600896	Didžioji g.	residential	36	1	26	
+LT	600896	Technikumo g.	primary	36	1	26	
+LT	600896	Ežero g.	residential	34	1	24	
+LT	600896	Samės g.	residential	31	2	34	
+LT	600962	Vytauto g.	secondary	197	6	165	
+LT	600962	Dubysos g.	secondary	194	1	50	
+LT	600962	Tulpių g.	residential	136	8	140	
+LT	600962	Žemaičių g.	primary	63	3	57	
+LT	600962	Maironio g.	residential	51	1	34	
+LT	600962	Pienių g.	residential	51	2	81	
+LT	600962	Plento g.	secondary	51	2	29	
+LT	600962	Liepų g.	residential	45	1	26	
+LT	600962	P. Cvirkos g.	residential	45	2	41	
+LT	600962	Sodo g.	secondary	43	4	45	
+LT	600962	Kilupaičio g.	secondary	37	3	50	
+LT	600962	Ąžuolo g.	residential	36	1	26	
+LT	600994	J. Biliūno g.	primary	172	7	130	
+LT	600994	Kęstučio g.	residential	121	2	113	
+LT	600994	Vilniaus g.	residential	109	5	101	
+LT	600994	Volupio g.	residential	98	1	146	
+LT	600994	Šaltupio g.	unclassified	90	5	89	
+LT	600994	Šilelio g.	residential	87	2	32	
+LT	600994	Taikos g.	residential	86	8	97	
+LT	600994	Gegužės g.	unclassified	78	1	49	
+LT	600994	Žvejų g.	residential	78	2	76	
+LT	600994	A. Vienuolio g.	primary	76	2	51	
+LT	600994	Žiburio g.	secondary	71	2	44	
+LT	600994	Draugystės g.	residential	66	3	57	
+LT	600994	Dvaro g.	residential	66	2	38	
+LT	600994	Liudiškių 1-oji g.	residential	65	6	63	
+LT	600994	Puntuko g.	residential	65	3	34	
+LT	600994	Šlavės g.	residential	59	2	36	
+LT	600994	Janydžių g.	residential	58	6	62	
+LT	600994	Gedimino g.	residential	54	7	57	
+LT	600994	Jono Basanavičiaus g.	residential	54	1	56	
+LT	600994	Liudiškių g.	primary	54	2	51	
+LT	600994	Parko g.	residential	51	1	23	
+LT	600994	K. Ladigos g.	residential	47	3	52	
+LT	600994	Elmos g.	residential	46	3	33	
+LT	600994	Kaštonų g.	residential	46	2	40	
+LT	601041	Antakalnio g.	primary	1	0	0	
+LT	601041	Aušrinės g.	residential	1	0	0	
+LT	601041	Babinių Sodų 1-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 10-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 11-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 12-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 13-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 14-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 15-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 16-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 2-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 21-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 25-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 26-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 27-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 28-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 3-ioji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 4-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 5-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 6-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 7-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 8-oji g.	residential	1	0	0	
+LT	601041	Babinių Sodų 9-oji g.	residential	1	0	0	
+LT	601041	Babinių g.	residential	1	0	0	
+LT	601041	Balsių g.	residential	1	0	0	
+LT	601041	Bistryčios g.	residential	1	0	0	
+LT	601041	Bliuzo g.	residential	1	0	0	
+LT	601041	Brastos g.	residential	1	0	0	
+LT	601041	Bulvikio g.	residential	1	0	0	
+LT	601041	Dalios g.	residential	1	0	0	
+LT	601041	Debesijos g.	residential	1	0	0	
+LT	601041	Delčios g.	residential	1	0	0	
+LT	601041	Dundulio g.	residential	1	0	0	
+LT	601041	Džiazo g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 1-oji g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 2-oji g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 3-ioji g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 4-oji g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 5-oji g.	residential	1	0	0	
+LT	601041	Gelvadiškių Sodų 6-oji g.	residential	1	0	0	
+LT	601041	Gelvadiškių g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 1-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 10-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 11-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 12-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 14-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 15-oji g.	residential	1	0	0	
+LT	601041	Gvazdikų Sodų 4-oji g.	residential	1	0	0	
+LT	601084	Nemuno g.	unclassified	321	2	78	
+LT	601084	Naujoji g.	primary	238	2	142	
+LT	601084	Kauno g.	primary	219	6	120	
+LT	601084	Druskininkų g.	unclassified	207	7	199	
+LT	601084	Lelijų g.	residential	191	2	117	
+LT	601084	Putinų g.	secondary	162	1	82	
+LT	601084	Alytaus g.	unclassified	161	3	56	
+LT	601084	Liepų g.	residential	158	2	44	
+LT	601084	Pavasario g.	unclassified	157	3	96	
+LT	601084	Pušyno g.	residential	153	2	46	
+LT	601084	Miško g.	residential	149	1	49	
+LT	601084	Saulėtekio g.	residential	148	2	62	
+LT	601084	Centrinė g.	residential	147	4	102	
+LT	601084	Jurgiškių g.	unclassified	146	5	68	
+LT	601084	Radžiūnų g.	residential	144	4	46	
+LT	601084	Tulpių g.	residential	143	2	25	
+LT	601084	Lakštingalų g.	residential	140	2	38	
+LT	601084	Aušros g.	residential	138	2	74	
+LT	601084	Stoties g.	residential	137	3	99	
+LT	601084	Alyvų g.	residential	135	2	28	
+LT	601084	Jazminų g.	unclassified	135	2	40	
+LT	601084	Merkinės g.	residential	128	5	167	
+LT	601084	Ūdrijos g.	secondary	127	1	107	
+LT	601084	Statybininkų g.	tertiary	123	5	109	
+LT	601084	Takniškių g.	primary	123	2	93	
+LT	601084	Medžiotojų g.	residential	122	3	110	
+LT	601084	Serbentų g.	residential	117	2	37	
+LT	601084	Draugystės g.	residential	115	2	46	
+LT	601084	Domantonių g.	residential	111	1	44	
+LT	601084	Miškininkų g.	secondary	111	1	61	
+LT	601084	Ūdrijos kel.	secondary	111	6	86	
+LT	601084	Santaikos g.	primary	107	7	63	
+LT	601084	Rūtų g.	residential	106	2	47	
+LT	601084	Klevų g.	residential	101	2	51	
+LT	601084	Vilniaus g.	primary	100	5	35	
+LT	601084	Saulės g.	residential	99	2	46	
+LT	601084	Lauko g.	residential	98	1	35	
+LT	601084	Jurginų g.	residential	97	1	22	
+LT	601084	Punsko g.	primary	97	1	132	
+LT	601084	Zaidų g.	residential	97	6	133	
+LT	601084	Alytupio g.	residential	96	5	176	
+LT	601084	Pramonės g.	unclassified	96	1	35	
+LT	601084	Pulko g.	primary	95	5	112	
+LT	601084	Tėviškės g.	unclassified	95	3	49	
+LT	601084	Pašilio g.	residential	94	4	92	
+LT	601084	Jūratės g.	tertiary	91	6	134	
+LT	601084	Žiedo g.	residential	90	1	30	
+LT	601084	Ąžuolų g.	residential	89	1	27	
+LT	601116	Algirdo g.	secondary	59	1	61	
+LT	601116	Naujasodžio g.	unclassified	50	3	57	
+LT	601116	Šeduvos g.		50	1	41	
+LT	601116	Parko g.	residential	32	1	17	
+LT	601116	Lauko g.	residential	29	1	24	
+LT	601116	Rozalimo g.	secondary	26	2	31	
+LT	601116	Radviliškio g.	secondary	21	2	30	
+LT	601116	Liepų g.	residential	20	1	15	
+LT	601116	Miškadvario g.	unclassified	20	1	30	
+LT	601116	Radvilonių g.	unclassified	19	1	20	
+LT	601116	Alksniupių g.	unclassified	17	1	20	
+LT	601116	Birjagalos g.	unclassified	17	1	22	
+LT	601138	Gėlių g.	unclassified	70	58	130	
+LT	601138	Motiejaus Gustaičio g.	residential	52	3	53	
+LT	601138	Smilgų g.	residential	43	2	32	
+LT	601138	Prezidento g.	residential	41	3	37	
+LT	601138	Tujų g.		40	2	39	
+LT	601138	Tulpių g.		35	1	21	
+LT	601138	Pempių g.		32	2	48	
+LT	601138	Bokšto g.		31	2	32	
+LT	601138	Povų g.	residential	30	1	37	
+LT	601138	Nemuno g.	secondary	29	2	26	
+LT	601138	Žibintų g.	residential	24	2	23	
+LT	601138	Lakštingalų g.	unclassified	23	1	144	
+LT	601138	Upelio g.	residential	21	2	25	
+LT	601138	Geležinkelio g.		19	1	37	
+LT	601138	Tvenkinių g.		18	1	33	
+LT	601138	Menininkų g.		17	1	27	
+LT	601138	Tiesioji g.	residential	17	1	81	
+LT	601138	Žvejų g.	residential	17	60	83	
+LT	601138	Gimtinės g.		14	1	15	
+LT	601138	Vakarų g.	residential	14	7	18	
+LT	601138	Lenktoji g.	residential	13	1	15	
+LT	601138	Svidrių g.	residential	13	1	16	
+LT	601138	Baublių g.		12	1	12	
+LT	601138	Kaimynų g.		12	1	19	
+LT	601138	Kelmyno g.	unclassified	12	3	21	
+LT	601138	Skardžio g.		12	1	14	
+LT	601138	Žemynos g.	residential	12	1	15	
+LT	601138	Bajorų g.	unclassified	11	4	20	
+LT	601138	Pajiesio g.		11	1	17	
+LT	601138	Jiesios g.	residential	10	2	20	
+LT	601138	Ramunių g.	residential	10	1	10	
+LT	601138	Ateities g.	residential	9	62	111	
+LT	601138	Kmynų g.	residential	9	1	10	
+LT	601138	Miglių g.		8	1	9	
+LT	601138	Nakvišų g.		8	1	29	
+LT	601138	Svajonių g.		8	1	8	
+LT	601138	Tauro g.	residential	8	20	34	
+LT	601138	Tvenkinio g.	residential	8	1	10	
+LT	601138	Laimės g.		7	1	13	
+LT	601138	Muraškinės g.		7	1	13	
+LT	601138	Teisininkų g.		7	1	8	
+LT	601138	Verslininkų g.		7	1	7	
+LT	601138	Zylių g.	residential	7	11	25	
+LT	601138	Fazanų g.		6	2	10	
+LT	601138	Pakalnučių g.		6	4	14	
+LT	601138	Jurginų g.		5	1	8	
+LT	601138	Alšėnų g.	unclassified	4	50	111	
+LT	601138	Gelžkeliuko g.		4	22	41	
+LT	601182	K. Kasakausko g.	secondary	80	4	77	
+LT	601182	Liepų g.	residential	55	1	32	
+LT	601182	Jurginų g.	residential	47	3	48	
+LT	601182	Sodo g.	residential	47	2	46	
+LT	601182	Puškino g.	residential	45	2	56	
+LT	601182	Klykolių g.	residential	44	3	45	
+LT	601182	Dabikinės g.	residential	43	5	46	
+LT	601182	Geltonės g.	secondary	41	3	40	
+LT	601182	Stoties g.	secondary	39	2	48	
+LT	601182	Bičių g.	residential	35	2	40	
+LT	601182	Bijūnų g.	residential	30	2	29	
+LT	601182	Jazminų g.	residential	29	2	28	
+LT	6618486	Ilgoji g.	residential	98	2	81	
+LT	6618486	Centrinė g.	residential	89	17	94	
+LT	6618486	Antano Merkio g.	residential	74	1	63	
+LT	6618486	Vilties g.	residential	74	1	34	
+LT	6618486	Upelio g.	residential	72	2	48	
+LT	6618486	Sergeičikų g.	secondary	62	12	82	
+LT	6618486	Pamiškės g.	residential	58	3	48	
+LT	6618486	Gėlių g.	living_street	57	2	41	
+LT	6618486	Pušyno g.	residential	55	2	38	
+LT	6618486	Kaštonų g.	residential	53	1	22	
+LT	6618486	Vairo g.	residential	53	3	61	
+LT	6618486	Smėlio g.	residential	52	2	28	
+LT	6618486	Aikštės g.	residential	50	3	64	
+LT	6618486	Apynių g.	residential	50	2	35	
+LT	6618486	Eglyno g.	residential	48	2	37	
+LT	6618486	Barsūniškio g.	secondary	46	1	36	
+LT	6618486	Sodų g.	residential	46	3	45	
+LT	6618486	Aviečių g.	residential	44	2	35	
+LT	6618486	Beržų g.	residential	43	2	26	
+LT	6618486	Rožių g.	residential	43	2	22	
+LT	6618486	Šermukšnių g.	living_street	43	1	20	
+LT	6618486	Mokyklos g.	residential	42	2	29	
+LT	6618486	Plento g.		42	2	58	
+LT	6618486	Žemdirbių g.	residential	42	3	28	
+LT	6618486	Tvenkinių g.	residential	41	4	43	
+LT	6618486	Galupio g.	residential	38	2	52	
+LT	6618486	Bičiulių g.		36	2	37	
+LT	6618486	Uosių g.	residential	36	2	40	
+LT	6618486	Šviesos g.	residential	36	1	27	
+LT	6618486	Marių g.	tertiary	35	1	33	
+LT	6618486	Slėnio g.	residential	35	1	18	
+LT	6618486	Tvenkinio g.	residential	35	1	26	
+LT	6618486	Lapių g.	residential	34	1	29	
+LT	6618486	Petro Songailos g.	residential	34	6	57	
+LT	6618486	Vėtrungės g.	residential	34	1	26	
+LT	6618486	Putinų g.	living_street	33	1	22	
+LT	6618486	Volungės g.	residential	33	2	41	
+LT	6618486	Agrastų g.	residential	32	1	17	
+LT	6618486	Veterinarų g.	residential	32	4	56	
+LT	6618486	Agnapolio g.	residential	31	2	31	
+LT	6618486	Elektrikų g.	residential	30	2	45	
+LT	6618486	Lašo g.	residential	29	2	33	
+LT	6618486	Kalno g.	secondary	28	1	38	
+LT	6618486	Liepų g.	living_street	28	1	24	
+LT	6618486	Saulės g.	residential	28	1	13	
+LT	6618486	Serbentų g.	residential	28	2	29	
+LT	6618486	Tako g.		28	1	24	
+LT	6618486	Tujų g.	residential	28	2	17	
+LT	6618486	Žaisos g.	residential	28	2	31	
+LT	6618486	Saulutės g.	residential	27	2	30	
+LT	6618486	Aguonų g.	residential	26	2	27	
+LT	6618486	Ąžuolų g.	residential	26	3	35	
+LT	6618486	Kranto g.	residential	25	1	17	
+LT	6618486	Mėtų g.	residential	25	2	22	
+LT	6618486	Pušų g.	residential	25	1	17	
+LT	6618486	Sodininkų g.	living_street	25	1	14	
+LT	6618486	Bebrų g.	residential	24	2	24	
+LT	6618486	Lelijų g.	residential	24	1	22	
+LT	6618486	Žemėtvarkininkų g.	residential	24	2	23	
+LT	6618486	Braškių g.	residential	23	2	22	
+LT	6618486	Briedžių tak.	residential	23	1	24	
+LT	6618486	Derliaus g.	residential	23	2	28	
+LT	6618486	Neries g.	residential	23	2	23	
+LT	6618486	Plytų g.	residential	23	3	20	
+LT	6618486	Radvilų g.		23	2	24	
+LT	6618486	Guostės g.	residential	22	2	21	
+LT	6618486	Šilagėlių g.	residential	22	2	21	
+LT	6618486	Bijūnų g.	residential	21	2	20	
+LT	6618486	Lakštingalų g.	residential	21	2	25	
+LT	6618486	Miškininkų g.	residential	21	1	12	
+LT	6618486	Parko g.	residential	21	2	21	
+LT	6618486	Šalavijų g.	residential	21	2	20	
+LT	6618486	Bruknių g.	residential	20	1	14	
+LT	6618486	Kaimynų g.	residential	20	1	20	
+LT	6618486	Luknės g.	residential	20	1	28	
+LT	6618486	Svarainių g.	residential	20	1	16	
+LT	6618486	Voverių g.	residential	20	1	20	
+LT	6618486	Būdos g.	residential	19	1	25	
+LT	6618486	Grikių g.	residential	19	1	19	
+LT	6618486	Jūros tak.	residential	19	4	42	
+LT	6618486	Miško g.	residential	19	1	15	
+LT	6618486	Riešutų g.		19	1	14	
+LT	6618486	Vytenio g.		19	1	20	
+LT	6618486	Šaltinio g.	secondary	19	1	15	
+LT	6618486	Abrikosų g.	residential	18	1	20	
+LT	6618486	Dzūkų g.		18	1	21	
+LT	6618486	Jūratės g.		18	11	36	
+LT	6618486	Morkų g.	residential	18	1	18	
+LT	6618486	Pasakų al.	residential	18	1	19	
+LT	6618486	Plukių g.	residential	18	1	18	
+LT	6618486	Suvalkų g.	residential	18	2	24	
+LT	6618486	Vyšnių g.	residential	18	1	10	
+LT	6618486	Algirdo g.		17	1	20	
+LT	6618486	Atokioji g.	residential	17	1	18	
+LT	6618486	Kalniškių g.	residential	17	3	46	
+LT	6618486	Medikų g.	living_street	17	1	31	
+LT	6618486	Pusiasalio g.	residential	17	1	20	
+LT	6618486	Smiltynų kel.	unclassified	17	1	82	
+LT	6618486	Žygimanto g.		17	1	18	
+LT	6618486	Žėručio g.	residential	17	1	18	
+LT	6955408	V. Sirokomlės g.	unclassified	69	59	151	
+LT	6955408	Poezijos g.	residential	16	5	35	
+LT	6955408	Murlinės g.		10	1	19	
+LT	6955408	Paribio g.		9	9	19	
+LT	6955408	Bijūnų g.		7	34	49	
+LT	6955408	Katiliškių g.	unclassified	6	91	109	
+LT	6955408	Dvaro g.		5	88	94	
+LT	6955408	Šv. Jono Pauliaus II g.		5	40	100	
+LT	6955408	Dirvonų g.		2	27	29	
+LT	6955408	A. Jaroševičiaus g.	residential	1	0	0	
+LT	6955408	A. Mikėno g.	residential	1	0	0	
+LT	6955408	Adutiškio g.	residential	1	0	0	
+LT	6955408	Akalotės g.	residential	1	0	0	
+LT	6955408	Alytaus g.	residential	1	0	0	
+LT	6955408	Alšėnų g.	residential	1	0	0	
+LT	6955408	Apso g.	residential	1	0	0	
+LT	6955408	Arliškių g.	residential	1	0	0	
+LT	6955408	Asavos g.	residential	1	0	0	
+LT	6955408	Avinėlių g.	secondary	1	0	0	
+LT	6955408	B. Brazdžionio g.	residential	1	0	0	
+LT	6955408	Baraškų g.	residential	1	0	0	
+LT	6955408	Barčių g.	residential	1	0	0	
+LT	6955408	Brolių g.	residential	1	0	0	
+LT	6955408	Dariaus ir Girėno g.	primary	1	0	0	
+LT	6955408	Daugų g.	residential	1	0	0	
+LT	6955408	Daškūnų g.	unclassified	1	0	0	
+LT	6955408	Drūkšių g.	residential	1	0	0	
+LT	6955408	Dusinėnų g.	residential	1	0	0	
+LT	6955408	Dzūkų g.	residential	1	0	0	
+LT	6955408	Gamyklos g.	residential	1	0	0	
+LT	6955408	Gervėbalės g.	residential	1	0	0	
+LT	6955408	Griežlių g.	residential	1	0	0	
+LT	6955408	Gudų g.	residential	1	0	0	
+LT	6955408	Gėlūnų g.	residential	1	0	0	
+LT	6955408	J. Ambraziejaus g.	residential	1	0	0	
+LT	6955408	J. Bielinio g.	residential	1	0	0	
+LT	6955408	J. Jurkšto g.	residential	1	0	0	
+LT	6955408	J. Strumilos g.	residential	1	0	0	
+LT	6955408	Kalniškių g.	residential	1	0	0	
+LT	6955408	Kalviškių g.	residential	1	0	0	
+LT	6955408	Kaminkelio g.	residential	1	0	0	
+LT	6955408	Kapsų g.	residential	1	0	0	
+LT	6955408	Karaliaus Šulinio g.	residential	1	0	0	
+LT	6955408	Karužiškių g.	residential	1	0	0	
+LT	6955408	Katros g.	residential	1	0	0	
+LT	6955408	Kelmijos Sodų 1-oji g.	residential	1	0	0	
+LT	6955408	Kelmijos Sodų 10-oji g.	residential	1	0	0	
+LT	6955408	Kelmijos Sodų 11-oji g.	residential	1	0	0	
+LT	7117229	Liepų g.	residential	72	1	25	
+LT	7117229	Sodų g.	residential	51	1	20	
+LT	7117229	Žvejų g.	secondary	44	2	43	
+LT	7117229	Juodupės g.	secondary	39	1	52	
+LT	7117229	Miško g.	residential	39	3	46	
+LT	7117229	Pajiesio kel.	tertiary	38	2	138	
+LT	7117229	Dainavos g.	residential	34	2	31	
+LT	7117229	Kauno g.	secondary	34	1	35	
+LT	7117229	Pakraščio g.	residential	33	2	39	
+LT	7117229	Šilo g.	secondary	31	3	72	
+LT	7117229	Šaltupio g.	primary	30	3	30	
+LT	7117229	Kauno pl.	primary	27	1	27	
+LT	8714608	A. J. Povilaičio g.	residential	1	0	0	
+LT	8714608	A. P. Kavoliuko g.	unclassified	1	0	0	
+LT	8714608	Architektų g.	tertiary	1	0	0	
+LT	8714608	Baltynės g.	unclassified	1	0	0	
+LT	8714608	D. Gerbutavičiaus g.	unclassified	1	0	0	
+LT	8714608	I. Šimulionio g.	tertiary	1	0	0	
+LT	8714608	L. Asanavičiūtės g.	secondary	1	0	0	
+LT	8714608	Laisvės pr.	primary	1	0	0	
+LT	8714608	Mėnulio g.	residential	1	0	0	
+LT	8714608	R. Jankausko g.	unclassified	1	0	0	
+LT	8714608	Sausio 13-osios g.	tertiary	1	0	0	
+LT	8714608	Sietyno g.	unclassified	1	0	0	
+LT	8714608	V. Maciulevičiaus g.	unclassified	1	0	0	
+LT	9610004	Pienių g.	residential	104	1	55	
+LT	9610004	Ledos g.	residential	96	2	62	
+LT	9610004	Griežlės g.	unclassified	94	19	135	
+LT	9610004	Ilgoji g.	residential	51	3	64	
+LT	9610004	Tuopų g.	residential	49	3	47	
+LT	9610004	Saulės g.	residential	40	1	23	
+LT	9610004	Pamiškės g.	residential	37	2	25	
+LT	9610004	Lauko g.	residential	36	1	18	
+LT	9610004	Erdvės g.	residential	35	3	55	
+LT	9610004	Laukų g.		29	2	33	
+LT	9610004	Marijampolės g.		29	3	29	
+LT	9610004	Piliakalnio g.	unclassified	29	61	112	
+LT	9610004	Vaivorykštės g.	residential	29	1	22	
+LT	9610004	Margirio g.	residential	27	7	49	
+LT	9610004	Tvenkinio g.	residential	27	2	41	
+LT	9610004	Plento g.	secondary	26	1	28	
+LT	9610004	Alytaus g.		25	7	29	
+LT	9610004	Bajorų g.	residential	25	2	33	
+LT	9610004	Sodžiaus g.	residential	25	3	21	
+LT	9610004	Žuvėdrų g.	residential	25	3	26	
+LT	9610004	Ainių g.	residential	24	2	26	
+LT	9610004	Draustinio g.	residential	24	2	21	
+LT	9610004	Šiaulių g.	residential	24	2	28	
+LT	9610004	Ežero g.		23	2	28	
+LT	9610004	Tulpių g.	residential	23	2	24	
+LT	9610004	Voverių g.	residential	23	3	23	
+LT	9610004	Ukmergės g.		22	10	29	
+LT	9610004	Medžiotojų g.	residential	21	1	31	
+LT	9610004	Bijūnų g.	unclassified	20	1	68	
+LT	9610004	Gubojos g.	residential	20	1	39	
+LT	9610004	Jazminų g.	residential	20	1	24	
+LT	9610004	Sedulų g.		20	1	24	
+LT	9610004	Daržų g.		19	3	25	
+LT	9610004	Kadagių g.		19	1	20	
+LT	9610004	Kalno g.	residential	19	1	11	
+LT	9610004	Lanksvų g.		19	1	19	
+LT	9610004	Miško g.		19	1	19	
+LT	9610004	Vilniaus g.		19	11	30	
+LT	9610004	Aronijų g.		18	1	33	
+LT	9610004	Raugeriškių g.		18	1	18	
+LT	9610004	Gimtinės g.	residential	17	1	31	
+LT	9610004	Stasio Krasausko g.		17	2	47	
+LT	9610004	Laurų g.	residential	16	1	16	
+LT	9610004	Medžių g.		16	1	19	
+LT	9610004	Nemuno g.	residential	16	8	46	
+LT	9610004	Pinijos g.	residential	16	1	14	
+LT	9610004	Rūko g.		16	2	32	
+LT	9610004	Klaipėdos g.		15	15	29	
+LT	9610008	Šiaurinė g.	residential	134	6	132	
+LT	9610008	Sodų g.	residential	83	5	84	
+LT	9610008	Smiltės g.	residential	61	4	71	
+LT	9610008	Taikos g.	residential	46	2	52	
+LT	9610008	Gandrų g.	residential	40	1	24	
+LT	9610008	Žemygalos g.	unclassified	35	4	68	
+LT	9610008	Žibintų g.	residential	34	2	37	
+LT	9610008	Rytmečio g.	residential	33	3	126	
+LT	9610008	Dvaro g.	unclassified	24	15	61	
+LT	9610008	Kėkštų g.	residential	24	2	23	
+LT	9610008	Jono Basanavičiaus al.		22	5	28	
+LT	9610008	Simono Daukanto al.		22	7	27	
+LT	9610008	Riešutų g.	residential	20	1	14	
+LT	9610008	Vagos g.	residential	20	1	20	
+LT	9610008	Vaižganto al.		20	6	28	
+LT	9610008	Vandens g.	residential	20	1	20	
+LT	9610008	Jurginų g.	residential	19	3	21	
+LT	9610008	Genio g.	unclassified	18	2	20	
+LT	9610008	Prūsų g.		18	1	18	
+LT	9610008	Kristijono Donelaičio al.		17	7	26	
+LT	9610008	Purienų g.	residential	17	3	31	
+LT	9610008	Ąžuolyno g.	residential	17	1	18	
+LT	9610008	Centrinė g.		16	1	12	
+LT	9610008	Gynios g.		16	1	20	
+LT	9610008	Kryžkelės g.	residential	16	1	18	
+LT	9610008	Žolyno g.	residential	16	1	16	
+LT	9610008	Antano Maceinos al.		15	1	16	
+LT	9610008	Kelininkų g.	residential	15	1	15	
+LT	9610008	Raudonėlio g.	residential	15	2	30	
+LT	9610008	Vinco Kudirkos al.		15	1	23	
+LT	9610008	Alkos g.	residential	14	1	15	
+LT	9610008	Birutės g.	unclassified	14	1	28	
+LT	9610008	Girininkijos g.	unclassified	14	1	40	
+LT	9610008	Smiltynų kel.	unclassified	14	92	114	
+LT	9610008	Varluvos g.		14	1	28	
+LT	9610008	Šilo g.	residential	14	1	18	
+LT	9610008	Kalnelio g.	residential	13	1	13	
+LT	9610008	Martyno Mažvydo al.		13	4	28	
+LT	9610008	Saulėtekio g.		13	5	19	
+LT	9610008	Jovarų g.	unclassified	12	1	20	
+LT	9610008	Narcizų g.	residential	12	1	12	
+LT	9610008	Samanų g.		12	1	12	
+LT	9610008	Santarvės al.		12	1	12	
+LT	9610008	Vienybės al.		12	1	15	
+LT	9610008	Imanuelio Kanto al.		11	1	11	
+LT	9610008	Liepų g.	residential	11	1	15	
+LT	9610008	Stiprybės al.		11	1	11	
+LT	9610008	Stirnų tak.	residential	11	1	11	
+LT	9610015	Jurginų g.	residential	73	5	103	
+LT	9610015	Ateities g.	residential	42	3	43	
+LT	9610015	Aušrinės g.	residential	39	5	41	
+LT	9610015	Saulės g.	residential	36	2	42	
+LT	9610015	Lietuvių g.	residential	34	2	26	
+LT	9610015	Rasos g.	residential	34	3	31	
+LT	9610015	Rožių tak.	residential	33	2	32	
+LT	9610015	Vynuogyno g.	residential	33	4	37	
+LT	9610015	Šalpusnių g.	residential	33	1	25	
+LT	9610015	Vaikaičių g.	living_street	32	2	31	
+LT	9610015	Erelių g.		31	2	35	
+LT	9610015	Obelų al.	residential	31	2	30	
+LT	9610016	Šiltnamių g.	secondary	81	2	70	
+LT	9610016	Stirnų g.		69	3	74	
+LT	9610016	Akacijų g.		66	2	22	
+LT	9610016	Šilo g.		60	3	57	
+LT	9610016	Forto g.		51	3	56	
+LT	9610016	Bičiulių g.	residential	49	3	49	
+LT	9610016	Kaštonų g.		48	3	38	
+LT	9610016	Šermukšnių g.		47	2	39	
+LT	9610016	Klevų g.		40	4	49	
+LT	9610016	Aušros g.		31	2	20	
+LT	9610016	Žagariškių tak.		31	2	31	
+LT	9610016	Žaliosios Girios g.		31	3	32	
+LT	9610406	Žiedo g.	residential	79	3	91	
+LT	9610406	Garliavos g.	residential	76	2	65	
+LT	9610406	Mokslo g.	residential	59	2	75	
+LT	9610406	Miglės g.		51	9	101	
+LT	9610406	Samanų g.		48	3	39	
+LT	9610406	J. Lukšos g.	secondary	39	97	321	
+LT	9610406	Alytaus g.	residential	31	1	40	
+LT	9610406	Šilo g.	residential	27	4	26	
+LT	9610406	Sakų g.		26	2	29	
+LT	9610406	Andriaus Gustaičio g.	unclassified	22	2	49	
+LT	9610406	Pašto g.	residential	18	2	20	
+LT	9610406	Lubinų g.		17	1	20	
+LT	10062599	Pikutiškių g.	residential	219	15	99	
+LT	10062599	Sudervės g.	primary	201	2	161	
+LT	10062599	Senasis Ukmergės kel.	secondary	200	5	136	
+LT	10062599	Perkūno g.	unclassified	183	5	79	
+LT	10062599	Pievų g.	unclassified	178	1	127	
+LT	10062599	Skardžio g.	unclassified	145	6	171	
+LT	10062599	Liepų g.	unclassified	138	3	81	
+LT	10062599	Ežero g.	unclassified	132	18	101	
+LT	10062599	Vaikystės g.	residential	107	5	78	
+LT	10062599	Miško g.	residential	106	2	62	
+LT	10062599	Saulės g.	residential	106	4	115	
+LT	10062599	Česlovo Milošo g.	unclassified	102	10	123	
+LT	10062599	Šviesos g.	residential	98	5	144	
+LT	10062599	Mėtų g.	unclassified	84	6	26	
+LT	10062599	Gervių g.	residential	83	3	64	
+LT	10062599	Žiedų g.	unclassified	78	3	139	
+LT	10062599	Kernavės g.	residential	76	7	59	
+LT	10062599	Draugystės g.	tertiary	75	2	73	
+LT	10062599	Sodų g.	tertiary	75	3	54	
+LT	10062599	Žalioji g.	unclassified	72	8	111	
+LT	10062599	Smėlio g.	residential	69	1	44	
+LT	10062599	Ateities g.	residential	68	4	74	
+LT	10062599	Draugų g.	residential	64	3	38	
+LT	10062599	Girių g.	residential	62	4	81	
+LT	10062599	Bendorių kel.	secondary	58	26	62	
+LT	10062599	Atžalyno g.	residential	57	1	44	
+LT	10062599	Ožiarūčių g.	residential	57	1	102	
+LT	10062599	Blindžių g.	residential	56	2	57	
+LT	10062599	Bendorėlių 2-oji al.	residential	55	3	70	
+LT	10062599	Kirų g.		55	3	59	
+LT	10062599	Pašilės g.	residential	55	3	66	
+LT	10062599	Rūtų g.	unclassified	55	6	57	
+LT	10062599	Smilgų g.	residential	55	3	83	
+LT	10062599	Medaus g.	residential	54	1	76	
+LT	10062599	Alyvų g.	residential	53	1	27	
+LT	10062599	Buivydiškių g.	secondary	53	47	138	
+LT	10062599	Vakarinė g.	residential	52	1	35	
+LT	10062599	Vanagų g.	residential	52	3	67	
+LT	10062599	Garnio g.	residential	51	2	45	
+LT	10062599	Gineitiškių g.	residential	51	2	102	
+LT	10062599	Užubalių g.	residential	50	3	55	
+LT	10062599	Ąžuolų g.	residential	50	1	17	
+LT	10062599	Lubinų g.	residential	49	1	21	
+LT	10062599	Bendorėlių 1-oji al.	residential	48	4	50	
+LT	10062599	Berželių g.	residential	48	4	55	
+LT	10062599	Bartų g.	residential	47	3	42	
+LT	10062599	Šaltinėlio g.	residential	47	2	27	
+LT	10062599	Gailašių g.	residential	46	3	44	
+LT	10062600	Adomo Mickevičiaus g.	secondary	184	20	202	
+LT	10062600	Skatulės g.	residential	104	2	51	
+LT	10062600	Čekoniškių g.	residential	78	4	91	
+LT	10062600	Draugų g.	unclassified	73	3	56	
+LT	10062600	Platiniškių g.	unclassified	66	15	68	
+LT	10062600	Salotės g.	unclassified	66	1	119	
+LT	10062600	Dvarykščių g.	residential	51	2	44	
+LT	10062600	Raišių g.	residential	51	2	22	
+LT	10062600	Sūkurio g.	residential	51	3	49	
+LT	10062600	Žebronių g.	residential	49	2	38	
+LT	10062600	Viktoriškių g.	residential	47	14	83	
+LT	10062600	Papiškių g.	residential	41	4	56	
+LT	10062600	Kaimynų g.	residential	39	4	50	
+LT	10062600	Balandžių g.	residential	38	4	48	
+LT	10062600	Medžiakalnio g.	residential	38	3	82	
+LT	10062600	Onos Radvilaitės-Mostovskos g.	residential	38	4	55	
+LT	10062600	Grįžulo Ratų g.		36	2	32	
+LT	10062600	Baltiešos g.	unclassified	35	1	32	
+LT	10062600	Kikilių g.	residential	32	2	31	
+LT	10062600	Dangaus g.	unclassified	31	15	55	
+LT	10062600	Saulės g.	residential	30	2	35	
+LT	10062600	Sėkmės g.	residential	30	1	14	
+LT	10062600	Drąsos g.	residential	28	13	46	
+LT	10062600	Kalvų g.	residential	28	1	6	
+LT	10062600	Upės g.	unclassified	28	58	84	
+LT	10062600	Giesmių g.	residential	26	2	42	
+LT	10062600	Verbų g.	residential	23	1	44	
+LT	10062600	Cintų g.	residential	22	2	20	
+LT	10062600	Jano Kochanovskio g.	residential	22	2	30	
+LT	10062600	Kranto al.	residential	21	2	31	
+LT	10062600	Debesų g.	residential	20	1	20	
+LT	10062600	Muzikos g.	residential	20	1	34	
+LT	10062600	Žiedų g.		20	1	20	
+LT	10062600	Pelėdų g.	residential	19	1	20	
+LT	10062600	Zigmanto Sierakausko g.	residential	19	1	22	
+LT	10062600	Eglių g.	residential	18	3	20	
+LT	10062600	Sonetų g.	residential	17	1	17	
+LT	10062600	Griovių g.	unclassified	16	5	39	
+LT	10062600	Pakrantės g.	residential	16	1	21	
+LT	10062600	Rūtų g.	residential	16	1	11	
+LT	10062600	Akacijų tak.	residential	15	1	16	
+LT	10062600	Alksnių g.	residential	14	1	18	
+LT	10062600	Dagilių g.	residential	13	1	15	
+LT	10062600	Jaunystės g.	residential	13	2	64	
+LT	10062600	Našlaičių g.	residential	13	1	12	
+LT	10062600	Kardelių g.	residential	12	1	12	
+LT	10062600	Palvininkų g.	residential	12	1	13	
+LT	10062600	Rugiagėlių g.	residential	12	6	48	
+LT	10062601	Dvaro g.	secondary	17	1	9	
+LT	10062601	Tvenkinių g.	residential	11	2	8	
+LT	10062601	Beržų g.	residential	9	1	5	
+LT	10062601	Klinikų g.	residential	9	7	17	
+LT	10062601	Sūduvių g.	unclassified	9	2	2	
+LT	10062601	Ąžuolų g.	residential	7	1	11	
+LT	10062601	Antano Giedraičio g.		2	112	114	
+LT	10062601	Buivydiškių g.	secondary	1	0	0	
+LT	10062601	Eitkūnų g.	residential	1	0	0	
+LT	10062601	Ežeraičio g.	residential	1	0	0	
+LT	10062601	Helsinkio g.	residential	1	0	0	
+LT	10062601	Ilmenos g.	residential	1	0	0	
+LT	10062601	J. Matulaičio a.	residential	1	0	0	
+LT	10062601	Jurgaičių g.	residential	1	0	0	
+LT	10062601	Justiniškių g.	secondary	1	0	0	
+LT	10062601	Kamantų g.	residential	1	0	0	
+LT	10062601	Kopenhagos g.	residential	1	0	0	
+LT	10062601	Laisvės pr.	primary	1	0	0	
+LT	10062601	Lūžių g.	unclassified	1	0	0	
+LT	10062601	Mozūriškių g.	residential	1	0	0	
+LT	10062601	Pilaitės Sodų 1-oji g.	residential	1	0	0	
+LT	10062601	Pilaitės Sodų 3-ioji g.	residential	1	0	0	
+LT	10062601	Pilaitės Sodų g.	residential	1	0	0	
+LT	10062601	Romintos g.	residential	1	0	0	
+LT	10062601	Rygos g.	secondary	1	0	0	
+LT	10062601	S. Kolupailos g.	residential	1	0	0	
+LT	10062601	Sidaronių g.	secondary	1	0	0	
+LT	10062601	Skatulės g.	residential	1	0	0	
+LT	10062601	Stokholmo g.	residential	1	0	0	
+LT	10062601	Taikos g.	unclassified	1	0	0	
+LT	10062601	Talino g.	unclassified	1	0	0	
+LT	10062601	Trempų g.	residential	1	0	0	
+LT	10062601	Viršuliškių g.	secondary	1	0	0	
+LT	10062601	Šešuolių g.	tertiary	1	0	0	
+LT	10062601	Šiaurinis takas	pedestrian	1	0	0	
+LT	10062601	Žemynos g.	tertiary	1	0	0	
+LT	10062602	Anykščių g.	residential	1	0	0	
+LT	10062602	Buivydiškių g.	secondary	1	0	0	
+LT	10062602	Deltuvos g.	residential	1	0	0	
+LT	10062602	Dūkštų g.	unclassified	1	0	0	
+LT	10062602	Gelvonų g.	secondary	1	0	0	
+LT	10062602	Musninkų g.	residential	1	0	0	
+LT	10062602	Ozo g.	primary	1	0	0	
+LT	10062602	Paberžės g.	tertiary	1	0	0	
+LT	10062602	Siesikų g.	residential	1	0	0	
+LT	10062602	Sudervės kel.	unclassified	1	0	0	
+LT	10062602	Upytės g.	residential	1	0	0	
+LT	10062602	Ąžuolyno g.	secondary	1	0	0	
+LT	10062602	Šeškinės g.	tertiary	1	0	0	
+LT	10062602	Želvos g.	residential	1	0	0	
+LT	10062605	Pramonės g.		3	8	16	
+LT	10062605	A. Baranausko g.	residential	1	0	0	
+LT	10062605	A. Forkevičiaus g.	residential	1	0	0	
+LT	10062605	A. Jurašaičio g.	residential	1	0	0	
+LT	10062605	A. Strauso g.	residential	1	0	0	
+LT	10062605	Agrastų g.	residential	1	0	0	
+LT	10062605	Architektų g.	tertiary	1	0	0	
+LT	10062605	Baltosios Vokės g.	secondary	1	0	0	
+LT	10062605	Baravykų g.	residential	1	0	0	
+LT	10062605	Bijūnų g.	residential	1	0	0	
+LT	10062605	Bukčių g.	residential	1	0	0	
+LT	10062605	D. Kleino g.	residential	1	0	0	
+LT	10062605	Daugirdų g.	residential	1	0	0	
+LT	10062605	Diemedžio g.	residential	1	0	0	
+LT	10062605	E. Andrė g.	residential	1	0	0	
+LT	10062605	E. Pliaterytės g.	residential	1	0	0	
+LT	10062605	E. Šimkūnaitės g.	residential	1	0	0	
+LT	10062605	Eišiškių pl.	primary	1	0	0	
+LT	10062605	Erfurto g.	tertiary	1	0	0	
+LT	10062605	Fermentų g.	secondary	1	0	0	
+LT	10062605	Gairinės g.	residential	1	0	0	
+LT	10062605	Gariūnų aklg.	residential	1	0	0	
+LT	10062605	Granito g.	residential	1	0	0	
+LT	10062605	Gudelių g.	residential	1	0	0	
+LT	10062605	Gurelių g.	residential	1	0	0	
+LT	10062605	I. Masalskio g.	residential	1	0	0	
+LT	10062605	Ižos g.	residential	1	0	0	
+LT	10062605	J. Janonio g.	unclassified	1	0	0	
+LT	10062605	J. Juodišiaus g.	residential	1	0	0	
+LT	10062605	J. K. Vilčinskio g.	residential	1	0	0	
+LT	10062605	J. Vitkaus-Kazimieraičio g.	residential	1	0	0	
+LT	10062605	J. Šimkevičiaus g.	residential	1	0	0	
+LT	10062605	Jonažolių g.	living_street	1	0	0	
+LT	10062605	Juodšilių g.	unclassified	1	0	0	
+LT	10062605	Jurbarko g.	residential	1	0	0	
+LT	10062605	K. Jokanto g.	residential	1	0	0	
+LT	10062605	K. Rusecko g.	residential	1	0	0	
+LT	10062605	Kadugių g.	residential	1	0	0	
+LT	10062605	Kardelių g.	residential	1	0	0	
+LT	10062605	Kazbėjų g.	unclassified	1	0	0	
+LT	10062605	Kazbėjų tiltas	secondary	1	0	0	
+LT	10062605	Kibirkšties g.	residential	1	0	0	
+LT	10062605	Kirtimų g.	tertiary	1	0	0	
+LT	10062605	Krautuvių g.	residential	1	0	0	
+LT	10062605	Kuro g.	residential	1	0	0	
+LT	10062605	L. Ivinskio g.	residential	1	0	0	
+LT	10062605	Lazdynėlių g.	unclassified	1	0	0	
+LT	10062605	Lazdynų g.	residential	1	0	0	
+LT	10062606	Eglių g.	residential	1	0	0	
+LT	10062606	Eigulių g.	residential	1	0	0	
+LT	10062606	Gerosios Vilties g.	secondary	1	0	0	
+LT	10062606	Iešmininkų g.	unclassified	1	0	0	
+LT	10062606	Naugarduko g.	secondary	1	0	0	
+LT	10062606	Panerių g.	residential	1	0	0	
+LT	10062606	Savanorių pr.	primary	1	0	0	
+LT	10062606	Skroblų g.	residential	1	0	0	
+LT	10062606	Vandentiekio g.	residential	1	0	0	
+LT	10062606	Vilkpėdės g.	secondary	1	0	0	
+LT	10062606	Zietelos g.	secondary	1	0	0	
+LT	10062606	Šlaito g.	residential	1	0	0	
+LT	10062607	A. Vivulskio g.	residential	1	0	0	
+LT	10062607	Algirdo g.	residential	1	0	0	
+LT	10062607	J. Basanavičiaus g.	secondary	1	0	0	
+LT	10062607	Mortos g.	residential	1	0	0	
+LT	10062607	T. Ševčenkos g.	residential	1	0	0	
+LT	10062607	Vytenio g.	residential	1	0	0	
+LT	10062607	Šviesos g.	residential	1	0	0	
+LT	10062607	Švitrigailos g.	primary	1	0	0	
+LT	10062609	Aukštaičių g.	residential	1	0	0	
+LT	10062609	Darbo g.	residential	1	0	0	
+LT	10062609	Drujos g.	primary	1	0	0	
+LT	10062609	Manufaktūrų g.	residential	1	0	0	
+LT	10062609	Paplaujos g.	residential	1	0	0	
+LT	10062609	Paupio g.	residential	1	0	0	
+LT	10062609	Stepono Batoro g.	primary	1	0	0	
+LT	10062609	Subačiaus g.	tertiary	1	0	0	
+LT	10062609	Zarasų g.	residential	1	0	0	

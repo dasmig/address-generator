@@ -1,0 +1,873 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+OM	286245	Al Bar Bridge	secondary	1	0	0	
+OM	286245	Promenade	residential	1	0	0	
+OM	286245	Sur Souq	pedestrian	1	0	0	
+OM	286245	جسر العيجة	primary	1	0	0	Al Ayjah Bridge
+OM	286245	طريق السلطان تركي بن سعيد	tertiary	1	0	0	Sultan Turki bin Said Road
+OM	286245	طريق بربويرة - الشرخة	secondary	1	0	0	Barr Buwayrah - Ash Sharkhah Road
+OM	286245	طريق حصن بلاد صور	residential	1	0	0	Bilad Sur Fort Road
+OM	286245	طريق صور الالتفافي	primary	1	0	0	Sur Meandering Road
+OM	286282	67 Street	tertiary	1	0	0	
+OM	286282	Sohar Sanniya Park Road	unclassified	1	0	0	
+OM	286282	الجائز السلطاني	tertiary	1	0	0	Al Jaiz al Sultani
+OM	286282	الطريق البحري	residential	1	0	0	Al Bahree Road
+OM	286282	دوار الصناعيه	secondary	1	0	0	
+OM	286282	دوار القلعة	primary	1	0	0	
+OM	286282	دوار المويلح	secondary	1	0	0	
+OM	286282	دوار الهجرة	primary	1	0	0	
+OM	286282	سكه 3404	residential	1	0	0	
+OM	286282	شارع البركه	tertiary	1	0	0	
+OM	286282	شارع البساتين	tertiary	1	0	0	
+OM	286282	شارع السوق	tertiary	1	0	0	Al Suq Street
+OM	286282	شارع العمران	tertiary	1	0	0	
+OM	286282	شارع الغشبه	tertiary	1	0	0	
+OM	286282	شارع المحمودي	secondary	1	0	0	al Mahmudi Street
+OM	286282	شارع المستشفى	tertiary	1	0	0	
+OM	286282	شارع المنار	tertiary	1	0	0	Al Manar street
+OM	286282	شارع المويلح	secondary	1	0	0	Al Muwaylh Street
+OM	286282	شارع النجاح	residential	1	0	0	
+OM	286282	شارع النزهة	primary	1	0	0	an Nuzha Street
+OM	286282	شارع النهضه	secondary	1	0	0	Al Nahda Street
+OM	286282	شارع الهمبار	tertiary	1	0	0	
+OM	286282	شارع صحار	primary	1	0	0	
+OM	286282	شارع كشمير	primary	1	0	0	Kashmir Street
+OM	286282	طريق السلطان قابوس	secondary	1	0	0	Sultan Qaboos Road
+OM	286282	طريق الشاطئ	secondary	1	0	0	A' Shatti Road
+OM	286293	طريق الخوبار - سمائل	residential	1	0	0	Khubar - Samayil Road
+OM	286293	طريق المدرة - لرغ	primary	1	0	0	Al Madrah - Lizugh Road
+OM	286293	طريق بيت الصاروج	unclassified	1	0	0	Bait Al Saruj Road
+OM	286402	شارع هلول الشيخ	residential	1	0	0	Sheikh Haloul Street
+OM	286402	طريق الصناعية - المسلخ	residential	1	0	0	
+OM	286402	طريق الهاملية العابر	residential	1	0	0	
+OM	286402	طريق الهاملية الغربية	residential	1	0	0	
+OM	286402	طريق الوادي - الهاملية	residential	1	0	0	
+OM	286402	طريق رسلة الملح	tertiary	1	0	0	Rissat al Milih Road
+OM	286402	طريق سور بني حماد	tertiary	1	0	0	Sur Bani Hammad Road
+OM	286402	طريق شناص - الرعلة	primary	1	0	0	Shinas - ar Ralah Road
+OM	286402	طريق شناص - الغوابي	residential	1	0	0	
+OM	286402	طريق شناص - الهاملية	tertiary	1	0	0	
+OM	286402	طريق فريج النادي	residential	1	0	0	
+OM	286402	طريق قلعة شناص	tertiary	1	0	0	Shinas Castle Road
+OM	286590	طريق العيينة - فلج المراغة	unclassified	1	0	0	Al Uyaiyna - Falaj Al Maragha Road
+OM	286590	طريق المدرة	primary	1	0	0	Al Madrah Road
+OM	286590	طريق المدرة - لرغ	primary	1	0	0	Al Madrah - Lizugh Road
+OM	286621	Way 16		10	1	27	
+OM	286621	Way 18		9	5	13	
+OM	286621	Way 48		9	3	14	
+OM	286621	Way 97		7	2	12	
+OM	286621	Way 12		6	5	17	
+OM	286621	Way 68		6	1	10	
+OM	286621	Al Mutazzah Street		5	41	56	
+OM	286621	Way 10		5	4	13	
+OM	286621	Way 120		5	9	19	
+OM	286621	Way 842		5	28	46	
+OM	286621	Al Montazah Street		4	97	227	
+OM	286621	Ammar Bin Yasser Street		4	3	7	
+OM	286621	Markaz Al Muhafdhah Street		4	58	64	
+OM	286621	Way 15		4	2	10	
+OM	286621	Way 30		4	11	17	
+OM	286621	Way 56		4	2	22	
+OM	286621	Way 84		4	11	20	
+OM	286621	A'Dawha Street		3	4	44	
+OM	286621	Way 82		3	1	5	
+OM	286621	Way 86		3	7	12	
+OM	286621	Al Bushra Street		2	27	28	
+OM	286621	Way 20		2	12	12	
+OM	286621	Way 23		2	7	21	
+OM	286621	Way 27		2	12	26	
+OM	286621	Way 31		2	4	7	
+OM	286621	Way 37		2	5	7	
+OM	286621	Way 6		2	40	53	
+OM	286621	Way 72		2	6	93	
+OM	286621	Way 847		2	2	2	
+OM	286621	Way 848		2	4	12	
+OM	286621	Way 92		2	10	15	
+OM	286621	al Shoura Street		2	11	24	
+OM	286621	شارع الخندق	residential	2	211	211	Al Khandaq Street
+OM	286621	شارع المنتزه	tertiary	2	239	245	Al Montazah Street
+OM	286621	23 سكة	residential	1	0	0	Al Mahallah Street
+OM	286621	Al Bena'a Street	unclassified	1	0	0	
+OM	286621	Way 4	residential	1	0	0	
+OM	286621	الطريق إلى مطار صلالة الدولي (سل)	tertiary	1	0	0	Approach Road to Salalah International Airport (SLL)
+OM	286621	خور صلالة	primary	1	0	0	Khor Salalah Roundabout
+OM	286621	دوار المستشفى	primary	1	0	0	Hospital Roundabout
+OM	286621	دوار النجاح	tertiary	1	0	0	Al Najah Roundabout
+OM	286621	دوار في السعادة	tertiary	1	0	0	
+OM	286621	سكة 1	residential	1	0	0	Way 1
+OM	286621	سكة 10	residential	1	0	0	Way 10
+OM	286621	سكة 100	residential	1	0	0	Way 100
+OM	286621	سكة 101	residential	1	0	0	Way 101
+OM	286621	سكة 102	residential	1	0	0	Way 102
+OM	286621	سكة 103	residential	1	0	0	Way 103
+OM	286621	سكة 104	residential	1	0	0	Way 104
+OM	286621	سكة 105	residential	1	0	0	Way 105
+OM	286621	سكة 106	residential	1	0	0	Way 106
+OM	286621	سكة 107	residential	1	0	0	Way 107
+OM	286621	سكة 108	residential	1	0	0	Way 108
+OM	286621	سكة 11	residential	1	0	0	Way 11
+OM	286621	سكة 110	residential	1	0	0	Way 110
+OM	286621	سكة 112	residential	1	0	0	Way 112
+OM	286621	سكة 114	residential	1	0	0	Way 114
+OM	286621	سكة 116	residential	1	0	0	Way 116
+OM	286621	سكة 118	residential	1	0	0	Way 118
+OM	286621	سكة 12	residential	1	0	0	Way 12
+OM	286621	سكة 120	residential	1	0	0	Way 120
+OM	286621	سكة 122	residential	1	0	0	Way 122
+OM	286621	سكة 13	residential	1	0	0	Way 13
+OM	286621	سكة 14	residential	1	0	0	Way 14
+OM	286621	سكة 15	residential	1	0	0	Way 15
+OM	286621	سكة 16	residential	1	0	0	Way 16
+OM	286621	سكة 17	residential	1	0	0	Way 17
+OM	286621	سكة 18	residential	1	0	0	Way 18
+OM	286621	سكة 19	residential	1	0	0	Way 19
+OM	286621	سكة 20	residential	1	0	0	Way 20
+OM	286621	سكة 21	residential	1	0	0	Way 21
+OM	286621	سكة 22	residential	1	0	0	Way 22
+OM	286621	سكة 23	residential	1	0	0	Way 23
+OM	286621	سكة 24	residential	1	0	0	Way 24
+OM	286621	سكة 25	residential	1	0	0	Way 25
+OM	286621	سكة 26	residential	1	0	0	Way 26
+OM	286621	سكة 27	residential	1	0	0	Way 27
+OM	286621	سكة 28	residential	1	0	0	Way 28
+OM	286621	سكة 29	residential	1	0	0	Way 29
+OM	286621	سكة 3	residential	1	0	0	Way 3
+OM	286621	سكة 30	residential	1	0	0	Way 30
+OM	286621	سكة 31	tertiary	1	0	0	Way 31
+OM	286621	سكة 32	residential	1	0	0	Way 32
+OM	286621	سكة 33	residential	1	0	0	Way 33
+OM	286621	سكة 34	residential	1	0	0	Way 34
+OM	286621	سكة 35	residential	1	0	0	Way 35
+OM	286621	سكة 36	residential	1	0	0	Way 36
+OM	286621	سكة 37	residential	1	0	0	Way 37
+OM	286621	سكة 38	residential	1	0	0	Way 38
+OM	286621	سكة 39	residential	1	0	0	Way 39
+OM	286621	سكة 4	residential	1	0	0	Way 4
+OM	286621	سكة 40	residential	1	0	0	Way 40
+OM	286621	سكة 41	residential	1	0	0	Way 41
+OM	286621	سكة 42	residential	1	0	0	Way 42
+OM	286621	سكة 43	residential	1	0	0	Way 43
+OM	286621	سكة 44	residential	1	0	0	Way 44
+OM	286621	سكة 45	residential	1	0	0	Way 45
+OM	286621	سكة 46	residential	1	0	0	Way 46
+OM	286621	سكة 47	residential	1	0	0	Way 47
+OM	286621	سكة 48	residential	1	0	0	Way 48
+OM	286647	طريق ابوالضروس - حلة البرج	secondary	1	0	0	Abu Al Durus - Hillat Al Burj Road
+OM	286647	طريق الظويهر	primary	1	0	0	Dhuwayhir Road
+OM	286647	طريق سيح الطيبات	secondary	1	0	0	Saih al Taibaat Road
+OM	286647	طريق صحم	secondary	1	0	0	Saham Road
+OM	286839	شارع الحصن	primary	1	0	0	Al Husn Street
+OM	286839	شارع الرملـه	secondary	1	0	0	
+OM	286839	شارع المصلى	tertiary	1	0	0	
+OM	286839	شارع الميناء	tertiary	1	0	0	Al Mina Street
+OM	286839	طريق قريات	primary	1	0	0	Quriyat Road
+OM	286987	حي العين الغربية	residential	1	0	0	
+OM	286987	طريق ازكي - نزوى - بهلاء	primary	1	0	0	Izki - Nizwa - Bahla Road
+OM	286987	طريق العين	secondary	1	0	0	Al Ain Road
+OM	286987	طريق حي التراث - غبرة نزوى	secondary	1	0	0	Hayy al Turath - Ghubrat Nizwa Road
+OM	286987	طريق فرق	tertiary	1	0	0	Faraq Road
+OM	286987	طريق فلج دارس - وادي سميط	tertiary	1	0	0	
+OM	287286	Way 4111		42	906	950	
+OM	287286	Way 4109		32	677	763	
+OM	287286	Way 3913		22	1032	1076	
+OM	287286	Way 4119		21	1517	1552	
+OM	287286	Way 4103		19	176	218	
+OM	287286	شارع المها	tertiary	19	0	3794	al Maha Street
+OM	287286	Way 3928		16	2426	2470	
+OM	287286	Way 3923		15	1917	2450	
+OM	287286	Way 4113		13	1031	1095	
+OM	287286	Way 3933		11	2818	2954	
+OM	287286	Al Bashair Street		9	18	149	
+OM	287286	Way 1710		9	723	753	
+OM	287286	Way 3716		7	1943	1957	
+OM	287286	Way 3939		6	3414	3522	
+OM	287286	Way 4110		6	694	790	
+OM	287286	Way 4112		6	966	980	
+OM	287286	Way 4115		6	1215	1446	
+OM	287286	Way 4128		6	1967	1972	
+OM	287286	Way 4104		5	352	363	
+OM	287286	Way 6919		5	1399	3247	
+OM	287286	Way 6940		5	3230	3252	
+OM	287286	Way 7311		5	780	1321	
+OM	287286	way 1710		5	18	1005	
+OM	287286	Way 1715		4	1170	1188	
+OM	287286	Way 3017		4	1329	1333	
+OM	287286	Way 4305		4	319	329	
+OM	287286	Way 6917		4	1248	3279	
+OM	287286	Way 6944		4	3465	4242	
+OM	287286	Way 6946		4	3347	3490	
+OM	287286	Way 2126		3	1371	1376	
+OM	287286	Way 2321		3	1718	1722	
+OM	287286	Way 2326		3	2269	2273	
+OM	287286	شارع المعرفة	primary	3	13	238	Al Marafeh Street
+OM	287286	شارع دوحة الأدب	secondary	3	133	133	Dohat al Adab Street
+OM	287286	18 نوفمبر شارع		2	325	336	
+OM	287286	2316 سكة	residential	2	0	0	Street 2316
+OM	287286	3209 way		2	725	725	
+OM	287286	Dohat Al Adab St		2	201	201	
+OM	287286	Way 2732		2	3947	3949	
+OM	287286	Way 3021		2	1776	1778	
+OM	287286	Way 3932		2	2425	2427	
+OM	287286	Way 3938		2	1487	3416	
+OM	287286	Way 4147		2	2761	2970	
+OM	287286	Way 6715		2	1410	1621	
+OM	287286	Way 6942		2	3234	3658	
+OM	287286	Way 6952		2	3246	3248	
+OM	287286	سكة 3017	residential	2	1339	1384	Way 3017
+OM	287286	شارع السلام		2	1169	1169	
+OM	287286	شارع المرافع	primary	2	113	3204	Al Marafeh Street
+OM	287286	2307 شارع	residential	1	0	0	Street 2307
+OM	287286	2502 سكة	residential	1	0	0	Street 2505
+OM	287286	2517 شارع	residential	1	0	0	Street 2517
+OM	287286	2518 شارع	residential	1	0	0	Street 2518
+OM	287286	2524 شارع	residential	1	0	0	Street 2524
+OM	287286	2526 شارع	residential	1	0	0	Street 2526
+OM	287286	2531 شارع	residential	1	0	0	Street 2531
+OM	287286	2535 شارع	residential	1	0	0	Street 2535
+OM	287286	3303 شارع	residential	1	0	0	Street 3303
+OM	287286	3305 سكة	residential	1	0	0	Street 3305
+OM	287286	3307 شارع	residential	1	0	0	Street 3307
+OM	287286	4007	residential	1	0	0	
+OM	287286	4214	residential	1	0	0	
+OM	287286	4703 سكة	residential	1	0	0	Street 4703
+OM	287286	4705 سكة	residential	1	0	0	Street 4705
+OM	287286	4706 سكة	residential	1	0	0	Street 4706
+OM	287286	4711 شارع	residential	1	0	0	Street 4711
+OM	287286	4717 شارع	residential	1	0	0	Street 4717
+OM	287286	4718 شارع	residential	1	0	0	Street 4718
+OM	287286	4720 شارع	residential	1	0	0	Street 4720
+OM	287286	4725 شارع	residential	1	0	0	Street 4725
+OM	287286	4726 شارع	residential	1	0	0	Street 4726
+OM	287286	4734 شارع	residential	1	0	0	Street 4734
+OM	287286	4744 شارع	residential	1	0	0	Street 4744
+OM	287286	4746 شارع	residential	1	0	0	Street 4746
+OM	287286	4748 شارع	residential	1	0	0	Street 4748
+OM	287286	4749 شارع	residential	1	0	0	Street 4749
+OM	287286	4908 شارع	residential	1	0	0	Street 4908
+OM	287286	4912 شارع	residential	1	0	0	Street 4912
+OM	287286	4914 شارع	residential	1	0	0	Street 4914
+OM	287286	4916 شارع	residential	1	0	0	Street 4916
+OM	287286	4919 شارع	residential	1	0	0	Street 4919
+OM	287286	4920 شارع	residential	1	0	0	Street 4920
+OM	287286	4928 شارع	residential	1	0	0	Street 4928
+OM	287286	4930 شارع	residential	1	0	0	Street 4930
+OM	287286	4935 شارع	residential	1	0	0	Street 4935
+OM	287286	4936 شارع	residential	1	0	0	Street 4936
+OM	287286	4942 شارع	residential	1	0	0	Street 4942
+OM	287286	4944 شارع	residential	1	0	0	Street 4944
+OM	287286	4946 شارع	residential	1	0	0	Street 4946
+OM	287286	5007	residential	1	0	0	
+OM	287286	68 سكة	residential	1	0	0	Street 68
+OM	287286	99 شارع	primary	1	0	0	99 Street
+OM	287286	Al Ghaf Street	secondary	1	0	0	
+OM	287286	Al Maha Street Roundabout	tertiary	1	0	0	
+OM	287286	Gated Private Road	living_street	1	0	0	
+OM	287286	Wadi al Khuwair Street	residential	1	0	0	
+OM	287286	Way 2817	tertiary	1	0	0	
+OM	287286	Way 4294	residential	1	0	0	
+OM	287286	way 8035	residential	1	0	0	
+OM	287286	الوزارات	primary	1	0	0	al Wazarat
+OM	287286	دوار العمران	primary	1	0	0	al Umran Roundabout
+OM	287286	دوار الكلية	tertiary	1	0	0	al Kuliah R/A
+OM	287286	دوار دوحة الأدب	secondary	1	0	0	Dawhet Al Adab Roundabout
+OM	287286	دوار سوق الخوير	secondary	1	0	0	Al Khuwair Market Roundabout
+OM	287286	ساحة الخوير	pedestrian	1	0	0	Al Khuwair Square
+OM	287286	سكة 1119	residential	1	0	0	Way 1119
+OM	287286	سكة 15	residential	1	0	0	Way 15
+OM	287286	سكة 1516	residential	1	0	0	Way 1516
+OM	287286	سكة 1518	residential	1	0	0	Way 1518
+OM	287286	سكة 1520	residential	1	0	0	Way 1520
+OM	287286	سكة 1521	tertiary	1	0	0	Way 1521
+OM	287286	سكة 1522	residential	1	0	0	Way 1522
+OM	287286	سكة 1525	residential	1	0	0	Way 1525
+OM	287286	سكة 1526	residential	1	0	0	Way 1526
+OM	287286	سكة 1528	residential	1	0	0	Way 1528
+OM	287286	سكة 1530	residential	1	0	0	Way 1530
+OM	287286	سكة 1539	residential	1	0	0	Way 1539
+OM	287286	سكة 1557	residential	1	0	0	Way 1557
+OM	287286	سكة 1559	residential	1	0	0	Way 1559
+OM	287286	سكة 1561	residential	1	0	0	Way 1561
+OM	287286	سكة 1564	residential	1	0	0	Way 1564
+OM	287286	سكة 1566	residential	1	0	0	Way 1566
+OM	287286	سكة 1567	residential	1	0	0	Way 1567
+OM	287286	سكة 1570	residential	1	0	0	Way 1570
+OM	287286	سكة 1574	residential	1	0	0	Way 1574
+OM	287286	سكة 1576	residential	1	0	0	Way 1576
+OM	287286	سكة 1578	residential	1	0	0	Way 1578
+OM	287286	سكة 1580	residential	1	0	0	Way 1580
+OM	287286	سكة 1586	residential	1	0	0	Way 1586
+OM	287286	سكة 1588	residential	1	0	0	Way 1588
+OM	287286	سكة 1591	residential	1	0	0	Way 1591
+OM	287286	سكة 1593	residential	1	0	0	Way 1593
+OM	287286	سكة 1595	residential	1	0	0	Way 1595
+OM	287286	سكة 1596	residential	1	0	0	Way 1596
+OM	287286	سكة 1597	residential	1	0	0	Way 1597
+OM	287286	سكة 1709	residential	1	0	0	Way 1709
+OM	287286	سكة 1710	residential	1	0	0	Way 1710
+OM	287286	سكة 1712	residential	1	0	0	Way 1712
+OM	287286	سكة 1713	residential	1	0	0	Way 1713
+OM	287286	سكة 1715	residential	1	0	0	Way 1715
+OM	287286	سكة 1716	residential	1	0	0	Way 1716
+OM	287286	سكة 1718	residential	1	0	0	Way 1718
+OM	287286	سكة 1721	residential	1	0	0	Way 1721
+OM	287286	سكة 1731	residential	1	0	0	Way 1731
+OM	287286	سكة 1733	residential	1	0	0	Way 1733
+OM	287286	سكة 1735	residential	1	0	0	Way 1735
+OM	287286	سكة 1737	residential	1	0	0	Way 1737
+OM	287286	سكة 1747	residential	1	0	0	Way 1747
+OM	287286	سكة 1748	residential	1	0	0	Way 1748
+OM	287286	سكة 1753	residential	1	0	0	Way 1753
+OM	287286	سكة 1925	residential	1	0	0	Way 1925
+OM	287286	سكة 1927	residential	1	0	0	Way 1927
+OM	287286	سكة 1929	residential	1	0	0	Way 1929
+OM	287286	سكة 1930	residential	1	0	0	Way 1930
+OM	287286	سكة 1932	residential	1	0	0	Way 1932
+OM	287286	سكة 1934	residential	1	0	0	Way 1934
+OM	287286	سكة 1936	residential	1	0	0	way 1936
+OM	287286	سكة 1947	residential	1	0	0	way 1947
+OM	287286	سكة 1949	residential	1	0	0	way 1949
+OM	287286	سكة 1950	residential	1	0	0	Way 1950
+OM	287286	سكة 1952	residential	1	0	0	Way 1952
+OM	287286	سكة 2108	residential	1	0	0	way 2108
+OM	287286	سكة 2114	residential	1	0	0	Way 2114
+OM	287286	سكة 2116	residential	1	0	0	Way 2116
+OM	287286	سكة 2118	residential	1	0	0	Way 2118
+OM	287286	سكة 2120	residential	1	0	0	Way 2120
+OM	287286	سكة 2122	residential	1	0	0	Way 2122
+OM	287286	سكة 2124	residential	1	0	0	Way 2124
+OM	287286	سكة 2126	residential	1	0	0	Way 2126
+OM	287286	سكة 2128	residential	1	0	0	Way 2128
+OM	287286	سكة 2131	residential	1	0	0	Way 2131
+OM	287286	سكة 2133	residential	1	0	0	Way 2133
+OM	287286	سكة 2135	residential	1	0	0	Way 2135
+OM	287286	سكة 2301	residential	1	0	0	Way 2301
+OM	287286	سكة 2307	residential	1	0	0	Way 2307
+OM	287286	سكة 2321	residential	1	0	0	Way 2321
+OM	287286	سكة 2322	residential	1	0	0	Way 2322
+OM	287286	سكة 2323	residential	1	0	0	Way 2323
+OM	287286	سكة 2325	residential	1	0	0	Way 2325
+OM	287286	سكة 2326	residential	1	0	0	Way 2326
+OM	287286	سكة 2327	residential	1	0	0	Way 2327
+OM	287286	سكة 2328	residential	1	0	0	Way 2328
+OM	287286	سكة 2330	residential	1	0	0	Way 2330
+OM	287286	سكة 2331	residential	1	0	0	Way 2331
+OM	287286	سكة 2332	residential	1	0	0	Way 2332
+OM	287286	سكة 2333	residential	1	0	0	Way 2333
+OM	287286	سكة 2334	residential	1	0	0	Way 2334
+OM	287286	سكة 2338	residential	1	0	0	Way 2338
+OM	287286	سكة 2501	residential	1	0	0	Way 2501
+OM	287286	سكة 2502	tertiary	1	0	0	Way 2502
+OM	287286	سكة 2506	residential	1	0	0	Way 2506
+OM	287286	سكة 2514	residential	1	0	0	Way 2514
+OM	287286	سكة 2518	residential	1	0	0	Way 2518
+OM	287286	سكة 2520	residential	1	0	0	Way 2520
+OM	287286	سكة 2532	residential	1	0	0	Way 2532
+OM	287286	سكة 2541	residential	1	0	0	Way 2541
+OM	287286	سكة 2542	residential	1	0	0	Way 2542
+OM	287286	سكة 2706	residential	1	0	0	Way 2706
+OM	287286	سكة 2708	residential	1	0	0	Way 2708
+OM	287286	سكة 2710	residential	1	0	0	Way 2710
+OM	287614	Khasab Main Road		2	434	434	
+OM	287614	طريق الحرف - وعب من	unclassified	1	0	0	Al Harf-Waab Man Road
+OM	287614	طريق الحصن	secondary	1	0	0	Al Hisn Road
+OM	287614	طريق الحقت	unclassified	1	0	0	Al Haqat Road
+OM	287614	طريق خصب - المبارق	secondary	1	0	0	Khasab - Al Mabariq Road
+OM	287614	طريق خصب - سل هيمس	tertiary	1	0	0	Khasab - Sall Haymis Road
+OM	287614	طريق خصب - عقبة رويبة	tertiary	1	0	0	Khasab - Aqbat Ruwaybah Road
+OM	287614	طريق سل أعلى	primary	1	0	0	Sall A'la Road
+OM	287614	طريق قدى	tertiary	1	0	0	Qada Road
+OM	287614	طريق وعب مبارك	unclassified	1	0	0	Wa'ab Mubarak Road
+OM	287614	طريق وعب من - طف الرخم	unclassified	1	0	0	Waab Man - Taff ar Rakham Road
+OM	287814	شارع الودي	residential	1	0	0	Al Widay Street
+OM	287814	شارع حارة الرحى	residential	1	0	0	Harat Al Raha Street
+OM	287814	طريق ازكي - الرسيس	secondary	1	0	0	Ar Risyas - Izki Road
+OM	287814	طريق ازكي - نزوى - بهلاء	primary	1	0	0	Izki - Nizwa - Bahla Road
+OM	287814	طريق القريتين	secondary	1	0	0	Al Qaryatayn Road
+OM	287814	طريق المنزلية	tertiary	1	0	0	Al Manzeleyah Street
+OM	287814	طريق النزار	residential	1	0	0	An Nizar Street
+OM	287814	طريق زكيت - منح	primary	1	0	0	Zukait - Manah Road
+OM	287814	طريق فلج الملكي	residential	1	0	0	Falaj Al Malki Road
+OM	287814	طريق مجلس إزكي	residential	1	0	0	Izki Majlis Road
+OM	287830	طريق الدريز - عبري	tertiary	1	0	0	Al Dariz - Ibri Road
+OM	287830	طريق السليف الداخلي	tertiary	1	0	0	Al Sulayf Road
+OM	287830	طريق الشرية	tertiary	1	0	0	Al Shariah Road
+OM	287830	طريق شريعة العراقي	tertiary	1	0	0	Sharia Al Araqi Road
+OM	287830	طريق عبري	secondary	1	0	0	Ibri Road
+OM	287830	طريق عبري-سيح المسرات	secondary	1	0	0	Ibri-Saih Al Masarrat Road
+OM	287832	طريق أبراء	primary	1	0	0	Ibra Road
+OM	287832	طريق النبأ - اسماعية	secondary	1	0	0	Naba - Ismaiyah Road
+OM	287832	طريق مصرون	primary	1	0	0	Masrun Road
+OM	287939	Old National Road 31	unclassified	1	0	0	
+OM	288507	طريق الحصن	tertiary	1	0	0	Al Hisn Road
+OM	288721	طريق بدبد	primary	1	0	0	Bidbid Road
+OM	288721	طريق بوة	secondary	1	0	0	Buwah Road
+OM	288721	طريق حصن بدبد	residential	1	0	0	Bidbid Fort Road
+OM	288721	طريق فنجاء	primary	1	0	0	Fanja Road
+OM	288764	99 شارع	primary	1	0	0	99 Street
+OM	288764	سكة 3706	residential	1	0	0	Way 3706
+OM	288764	سكة 3715	residential	1	0	0	Way 3715
+OM	288764	سكة 3716	residential	1	0	0	Way 3716
+OM	288764	سكة 3718	residential	1	0	0	Way 3718
+OM	288764	سكة 3722	residential	1	0	0	Way 3722
+OM	288764	سكة 3727	residential	1	0	0	Way 3727
+OM	288764	سكة 3728	residential	1	0	0	Way 3728
+OM	288764	سكة 3730	residential	1	0	0	Way 3730
+OM	288764	سكة 3732	residential	1	0	0	Way 3732
+OM	288764	سكة 3734	residential	1	0	0	Way 3734
+OM	288764	سكة 3736	residential	1	0	0	Way 3736
+OM	288764	سكة 3738	residential	1	0	0	Way 3738
+OM	288764	سكة 3740	residential	1	0	0	Way 3740
+OM	288764	سكة 3742	residential	1	0	0	Way 3742
+OM	288764	سكة 3745	residential	1	0	0	Way 3745
+OM	288764	سكة 3746	residential	1	0	0	Way 3746
+OM	288764	سكة 3748	residential	1	0	0	Way 3748
+OM	288764	سكة 3750	residential	1	0	0	Way 3750
+OM	288764	سكة 3751	residential	1	0	0	Way 3751
+OM	288764	سكة 3752	residential	1	0	0	Way 3752
+OM	288764	سكة 3754	residential	1	0	0	Way 3754
+OM	288764	سكة 3756	residential	1	0	0	Way 3756
+OM	288764	سكة 3759	residential	1	0	0	Way 3759
+OM	288764	سكة 3760	residential	1	0	0	Way 3760
+OM	288764	سكة 3762	residential	1	0	0	Way 3762
+OM	288764	سكة 3764	residential	1	0	0	Way 3764
+OM	288764	سكة 3766	residential	1	0	0	Way 3766
+OM	288764	سكة 3768	residential	1	0	0	Way 3768
+OM	288764	سكة 3770	residential	1	0	0	Way 3770
+OM	288764	سكة 3772	residential	1	0	0	Way 3772
+OM	288764	سكة 3774	residential	1	0	0	Way 3774
+OM	288764	سكة 3776	residential	1	0	0	Way 3776
+OM	288764	سكة 3778	residential	1	0	0	Way 3778
+OM	288764	سكة 3781	tertiary	1	0	0	Way 3781
+OM	288764	سكة 6128	residential	1	0	0	Way 6128
+OM	288764	سكة 6130	residential	1	0	0	Way 6130
+OM	288764	سكة 6303	tertiary	1	0	0	Way 6303
+OM	288764	سكة 6306	residential	1	0	0	Way 6306
+OM	288764	سكة 6308	residential	1	0	0	Way 6308
+OM	288764	سكة 6310	residential	1	0	0	Way 6310
+OM	288764	سكة 6312	residential	1	0	0	Way 6312
+OM	288764	سكة 6314	residential	1	0	0	Way 6314
+OM	288764	سكة 6316	residential	1	0	0	Way 6316
+OM	288764	سكة 6320	residential	1	0	0	Way 6320
+OM	288764	سكة 6325	residential	1	0	0	Way 6325
+OM	288764	سكة 6326	residential	1	0	0	Way 6326
+OM	288764	سكة 8666	residential	1	0	0	Way 8666
+OM	288764	سكة 8670	residential	1	0	0	Way 8670
+OM	288764	سكة 8671	residential	1	0	0	Way 8671
+OM	288764	سكة 8672	residential	1	0	0	Way 8672
+OM	288764	سكة 8674	residential	1	0	0	Way 8674
+OM	288764	سكة 8676	residential	1	0	0	Way 8676
+OM	288764	سكة 8678	residential	1	0	0	Way 8678
+OM	288764	سكة 8680	residential	1	0	0	Way 8680
+OM	288764	سكة 8684	residential	1	0	0	Way 8684
+OM	288764	سكة 8689	residential	1	0	0	Way 8689
+OM	288764	سكة 9023	residential	1	0	0	Way 9023
+OM	288764	سكة 9033	residential	1	0	0	Way 9033
+OM	288764	سكة 9041	residential	1	0	0	Way 9041
+OM	288764	سكة 9042	residential	1	0	0	Way 9042
+OM	288764	سكة 9044	residential	1	0	0	Way 9044
+OM	288764	سكة 9046	residential	1	0	0	Way 9046
+OM	288764	سكة 9047	residential	1	0	0	Way 9047
+OM	288764	سكة 9048	residential	1	0	0	Way 9048
+OM	288764	سكة 9202	residential	1	0	0	Way 9202
+OM	288764	سكة 9204	residential	1	0	0	Way 9204
+OM	288764	سكة 9205	residential	1	0	0	Way 9205
+OM	288764	سكة 9206	residential	1	0	0	Way 9206
+OM	288764	سكة 9208	residential	1	0	0	Way 9208
+OM	288764	سكة 9209	residential	1	0	0	Way 9209
+OM	288764	سكة 9210	residential	1	0	0	Way 9210
+OM	288764	سكة 9212	residential	1	0	0	Way 9212
+OM	288764	سكة 9215	residential	1	0	0	Way 9215
+OM	288764	شارع 18 نوفمبر	primary	1	0	0	18 November Street
+OM	288764	شارع 23 يوليو	primary	1	0	0	23rd July Street
+OM	288764	شارع الأنصب	primary	1	0	0	Al Ansab Road
+OM	288764	شارع الجامع الاكبر	tertiary	1	0	0	Al Jami Al Akbar Street
+OM	288764	شارع المعارض	secondary	1	0	0	Al Ma'aridh Street
+OM	288764	شارع بوشر	secondary	1	0	0	Bosher Street
+OM	288764	شارع غالا	secondary	1	0	0	Gala Road
+OM	288764	شارع غلا	primary	1	0	0	Ghala Street
+OM	288764	شارع غلا الصناعية	tertiary	1	0	0	Ghala al Sinaiyah Street
+OM	288764	طريق مطار مسقط الدولي	primary	1	0	0	Muscat International Airport Road
+OM	288789	طريق السلاحة - بركاء	primary	1	0	0	Al Sallaha - Barka Road
+OM	288789	طريق الفاعرة	secondary	1	0	0	Faghrah Road
+OM	288789	طريق الفراعة	secondary	1	0	0	Al Farayah Road
+OM	288789	طريق المريصي	secondary	1	0	0	Al Muraisi Road
+OM	288789	طريق بركاء	primary	1	0	0	Barka Road
+OM	288789	طريق سوق بركاء	residential	1	0	0	Barka Suq Road
+OM	288899	شارع الحواجر	residential	1	0	0	
+OM	288899	طريق ازكي - نزوى - بهلاء	primary	1	0	0	Izki - Nizwa - Bahla Road
+OM	288899	طريق بهلاء - الفتح	tertiary	1	0	0	Bahla - Al Fatah Road
+OM	288899	طريق بهلاء - بلاد سيت	secondary	1	0	0	Bahla - Bilad Sait Road
+OM	288899	طريق سوق بهلاء	residential	1	0	0	Bahla Suq Road
+OM	288899	طريق قلعه بهلاء	residential	1	0	0	Bahla Castle Road
+OM	288899	طيرق جبرين - بسياء - الحبي - أدم	primary	1	0	0	Jabrin - Bisyah - Habbi - Adam Road
+OM	288899	فريق الطمّاح	residential	1	0	0	
+OM	288899	محطة تحلية مياه الصرف الصحي	unclassified	1	0	0	
+OM	288899	مردم النفايات	unclassified	1	0	0	
+OM	288902	طريق الحوية	tertiary	1	0	0	Al Hawiyya Road
+OM	288902	طريق بدية	primary	1	0	0	Bidiyah Road
+OM	288955	Al Qarhah road	tertiary	1	0	0	
+OM	288955	Batha Road	tertiary	1	0	0	
+OM	288955	Jazma road	tertiary	1	0	0	
+OM	288955	Nubrah road	tertiary	1	0	0	
+OM	288955	Subaikhi road	residential	1	0	0	
+OM	288955	Subaykhi tunnel	tertiary	1	0	0	
+OM	288955	شارع الصبيخي	secondary	1	0	0	Subaikhi road
+OM	288955	طريق أم سيح	tertiary	1	0	0	Umm Saih Road
+OM	288955	طريق الساحل - السويق	primary	1	0	0	Al Sahil - Al Suwaiq Road
+OM	288955	طريق السويق	primary	1	0	0	Al Suwaiq Road
+OM	288955	طريق السويق - الحوقين	primary	1	0	0	al Suwaiq - al Hawquin Road
+OM	288955	طريق العويد - ودام الساحل	secondary	1	0	0	Al Uwaid - Widam Al Sahil Road
+OM	288955	طريق حيل الغافة	secondary	1	0	0	Hail Al Ghafa Road
+OM	288955	طريق خبة بني نعمان	residential	1	0	0	
+OM	288967	سكة 3774	residential	22	5127	5164	Way 3774
+OM	288967	Way 1806		15	436	466	
+OM	288967	سكة 3773	residential	15	4590	5096	Way 3773
+OM	288967	Way 1816		11	1165	1187	
+OM	288967	Way 3501		11	32	1201	
+OM	288967	Road No. 74		10	521	555	
+OM	288967	Way 1805		10	329	2351	
+OM	288967	سكة 3767	residential	10	4578	4611	Way 3767
+OM	288967	Way 1808		9	561	576	
+OM	288967	Way 1812		9	890	903	
+OM	288967	Way 1814		7	1005	1027	
+OM	288967	Way 1810		6	725	734	
+OM	288967	سكة 3769	residential	6	4668	4759	Way 3769
+OM	288967	Way 1235		4	2967	2975	
+OM	288967	Way 3769		4	4758	4758	
+OM	288967	شارع السد	tertiary	4	11	5148	As Sad Street
+OM	288967	سكة 3512	residential	3	1242	5576	Way 3512
+OM	288967	Al Rauda St		2	103	105	
+OM	288967	Way 1224		2	1970	6340	
+OM	288967	سكة 3770	residential	2	4919	4922	Way 3770
+OM	288967	2575	residential	1	0	0	
+OM	288967	دوار البلدية	primary	1	0	0	Al Baladiya Roundabout
+OM	288967	دوار التنمية	tertiary	1	0	0	Al Tanmiyah Roundabout
+OM	288967	دوار الجامع	primary	1	0	0	al Jame' Roundabout
+OM	288967	دوار الجامعة	primary	1	0	0	al Jamea'h Roundabout
+OM	288967	دوار الحيل	primary	1	0	0	al Hail Roundabout
+OM	288967	دوار الخوض التجاري	primary	1	0	0	Al Khoudh Al Tijari Roundabout
+OM	288967	دوار السلام	primary	1	0	0	As Salam Roundabout
+OM	288967	دوار الشباب	primary	1	0	0	
+OM	288967	دوار المها	primary	1	0	0	al Maha Roundabout
+OM	288967	دوار المودة	tertiary	1	0	0	al Mawaddah Roundabout
+OM	288967	دوار النادي	primary	1	0	0	an Nadi Roundabout
+OM	288967	دوار النزهة	primary	1	0	0	Al Nuzha Roundabout
+OM	288967	دوار النماء	primary	1	0	0	Al Nama R/A
+OM	288967	دوار النور	primary	1	0	0	Al Nur Roundabout
+OM	288967	دوار الوئام	primary	1	0	0	al Wea'm Roundabout
+OM	288967	دوار مزون	primary	1	0	0	Mazoun Roundabout
+OM	288967	دوار وادي العرش	primary	1	0	0	Wadi al Arsh Roundabout
+OM	288967	سكة 1203	residential	1	0	0	Way 1203
+OM	288967	سكة 1209	residential	1	0	0	Way 1209
+OM	288967	سكة 1210	residential	1	0	0	Way 1210
+OM	288967	سكة 1212	residential	1	0	0	Way 1212
+OM	288967	سكة 1218	residential	1	0	0	Way 1218
+OM	288967	سكة 1220	residential	1	0	0	Way 1220
+OM	288967	سكة 1224	residential	1	0	0	Way 1224
+OM	288967	سكة 1226	residential	1	0	0	Way 1226
+OM	288967	سكة 1228	residential	1	0	0	Way 1228
+OM	288967	سكة 1230	residential	1	0	0	Way 1230
+OM	288967	سكة 1232	residential	1	0	0	Way 1232
+OM	288967	سكة 1234	residential	1	0	0	Way 1234
+OM	288967	سكة 1235	residential	1	0	0	Way 1235
+OM	288967	سكة 1236	residential	1	0	0	Way 1236
+OM	288967	سكة 1239	residential	1	0	0	Way 1239
+OM	288967	سكة 1240	residential	1	0	0	Way 1240
+OM	288967	سكة 1245	residential	1	0	0	Way 1245
+OM	288967	سكة 1247	residential	1	0	0	Way 1247
+OM	288967	سكة 1249	tertiary	1	0	0	Way 1249
+OM	288967	سكة 1250	residential	1	0	0	Way 1250
+OM	288967	سكة 1262	residential	1	0	0	Way 1262
+OM	288967	سكة 1263	residential	1	0	0	Way 1263
+OM	288967	سكة 1264	residential	1	0	0	Way 1264
+OM	288967	سكة 1265	residential	1	0	0	Way 1265
+OM	288967	سكة 1266	residential	1	0	0	Way 1266
+OM	288967	سكة 1270	residential	1	0	0	Way 1270
+OM	288967	سكة 1274	residential	1	0	0	Way 1274
+OM	288967	سكة 1275	residential	1	0	0	Way 1275
+OM	288967	سكة 1282	residential	1	0	0	Way 1282
+OM	288967	سكة 1284	residential	1	0	0	Way 1284
+OM	288967	سكة 1285	residential	1	0	0	Way 1285
+OM	288967	سكة 1286	residential	1	0	0	Way 1286
+OM	288967	سكة 1287	residential	1	0	0	Way 1287
+OM	288967	سكة 1288	residential	1	0	0	Way 1288
+OM	288967	سكة 1290	residential	1	0	0	Way 1290
+OM	288967	سكة 1403	residential	1	0	0	Way 1403
+OM	288967	سكة 1404	residential	1	0	0	Way 1404
+OM	288967	سكة 1407	residential	1	0	0	Way 1407
+OM	288967	سكة 1408	residential	1	0	0	Way 1408
+OM	288967	سكة 1412	residential	1	0	0	Way 1412
+OM	288967	سكة 1414	residential	1	0	0	Way 1414
+OM	288967	سكة 1415	residential	1	0	0	Way 1415
+OM	288967	سكة 1416	residential	1	0	0	Way 1416
+OM	288967	سكة 1418	residential	1	0	0	Way 1418
+OM	288967	سكة 1420	residential	1	0	0	Way 1420
+OM	288967	سكة 1422	residential	1	0	0	Way 1422
+OM	288967	سكة 1424	residential	1	0	0	Way 1424
+OM	288967	سكة 1429	residential	1	0	0	Way 1429
+OM	288967	سكة 1434	residential	1	0	0	Way 1434
+OM	288967	سكة 1435	residential	1	0	0	Way 1435
+OM	288967	سكة 1437	residential	1	0	0	Way 1437
+OM	288967	سكة 1438	residential	1	0	0	Way 1438
+OM	288967	سكة 1440	residential	1	0	0	Way 1440
+OM	288967	سكة 1441	unclassified	1	0	0	Way 1441
+OM	288967	سكة 1452	residential	1	0	0	Way 1452
+OM	288967	سكة 1453	tertiary	1	0	0	Way 1453
+OM	288967	سكة 1454	residential	1	0	0	Way 1454
+OM	288967	سكة 1458	residential	1	0	0	Way 1458
+OM	288967	سكة 1462	residential	1	0	0	Way 1462
+OM	288967	سكة 1463	residential	1	0	0	Way 1463
+OM	288967	سكة 1464	residential	1	0	0	Way 1464
+OM	288967	سكة 1471	residential	1	0	0	Way 1471
+OM	288967	سكة 1472	residential	1	0	0	Way 1472
+OM	288967	سكة 1474	residential	1	0	0	Way 1474
+OM	288967	سكة 1475	residential	1	0	0	Way 1475
+OM	288967	سكة 1476	residential	1	0	0	Way 1476
+OM	288967	سكة 1478	residential	1	0	0	Way 1478
+OM	288967	سكة 1480	residential	1	0	0	Way 1480
+OM	288967	سكة 1482	residential	1	0	0	Way 1482
+OM	288967	سكة 1484	residential	1	0	0	Way 1484
+OM	288967	سكة 1486	residential	1	0	0	Way 1486
+OM	288967	سكة 1487	residential	1	0	0	Way 1487
+OM	288967	سكة 1488	residential	1	0	0	Way 1488
+OM	288967	سكة 1493	residential	1	0	0	Way 1493
+OM	288967	سكة 1603	residential	1	0	0	Way 1603
+OM	288967	سكة 1604	residential	1	0	0	Way 1604
+OM	288967	سكة 1608	residential	1	0	0	Way 1608
+OM	288967	سكة 1610	residential	1	0	0	Way 1610
+OM	288967	سكة 1612	residential	1	0	0	Way 1612
+OM	288967	سكة 1614	residential	1	0	0	Way 1614
+OM	288967	سكة 1616	residential	1	0	0	Way 1616
+OM	288967	سكة 1618	residential	1	0	0	Way 1618
+OM	288967	سكة 1620	residential	1	0	0	Way 1620
+OM	288967	سكة 1622	residential	1	0	0	Way 1622
+OM	288967	سكة 1624	residential	1	0	0	Way 1624
+OM	288967	سكة 1626	residential	1	0	0	Way 1626
+OM	288967	سكة 1628	residential	1	0	0	Way 1628
+OM	288967	سكة 1630	residential	1	0	0	Way 1630
+OM	288967	سكة 1632	residential	1	0	0	Way 1632
+OM	288967	سكة 1634	residential	1	0	0	Way 1634
+OM	288967	سكة 1636	residential	1	0	0	Way 1636
+OM	288967	سكة 1638	residential	1	0	0	Way 1638
+OM	288967	سكة 1640	residential	1	0	0	Way 1640
+OM	288967	سكة 1642	residential	1	0	0	Way 1642
+OM	288967	سكة 1644	residential	1	0	0	Way 1644
+OM	288967	سكة 1646	residential	1	0	0	Way 1646
+OM	288967	سكة 1650	residential	1	0	0	Way 1650
+OM	288967	سكة 1651	residential	1	0	0	Way 1651
+OM	288967	سكة 1653	residential	1	0	0	Way 1653
+OM	288967	سكة 1654	residential	1	0	0	Way 1654
+OM	288967	سكة 1656	residential	1	0	0	Way 1656
+OM	288967	سكة 1657	tertiary	1	0	0	Way 1657
+OM	288967	سكة 1660	residential	1	0	0	Way 1660
+OM	288967	سكة 1664	residential	1	0	0	Way 1664
+OM	288967	سكة 1666	residential	1	0	0	Way 1666
+OM	288967	سكة 1668	residential	1	0	0	Way 1668
+OM	288967	سكة 1670	residential	1	0	0	Way 1670
+OM	288967	سكة 1672	residential	1	0	0	Way 1672
+OM	288967	سكة 1674	residential	1	0	0	Way 1674
+OM	288967	سكة 1676	residential	1	0	0	Way 1676
+OM	288967	سكة 1677	residential	1	0	0	Way 1677
+OM	288967	سكة 1678	residential	1	0	0	Way 1678
+OM	288967	سكة 1680	residential	1	0	0	Way 1680
+OM	288967	سكة 1681	residential	1	0	0	Way 1681
+OM	288967	سكة 1683	residential	1	0	0	Way 1683
+OM	288967	سكة 1684	residential	1	0	0	Way 1684
+OM	288967	سكة 1686	residential	1	0	0	Way 1686
+OM	288967	سكة 1688	residential	1	0	0	Way 1688
+OM	288967	سكة 1690	residential	1	0	0	Way 1690
+OM	288967	سكة 1692	residential	1	0	0	Way 1692
+OM	288967	سكة 1694	residential	1	0	0	Way 1694
+OM	288967	سكة 1696	residential	1	0	0	Way 1696
+OM	288967	سكة 1697	residential	1	0	0	Way 1697
+OM	288967	سكة 1805	tertiary	1	0	0	Way 1805
+OM	288967	سكة 1806	residential	1	0	0	Way 1806
+OM	288967	سكة 1808	residential	1	0	0	Way 1808
+OM	288967	سكة 1810	residential	1	0	0	Way 1810
+OM	288967	سكة 1812	residential	1	0	0	Way 1812
+OM	288967	سكة 1814	residential	1	0	0	Way 1814
+OM	288967	سكة 1816	residential	1	0	0	Way 1816
+OM	288967	سكة 1818	residential	1	0	0	Way 1818
+OM	288967	سكة 1909	residential	1	0	0	Way 1909
+OM	288967	سكة 1912	residential	1	0	0	Way 1912
+OM	288967	سكة 1914	residential	1	0	0	Way 1914
+OM	288967	سكة 1916	residential	1	0	0	Way 2916
+OM	288967	سكة 1918	residential	1	0	0	Way 1918
+OM	288967	سكة 1920	residential	1	0	0	Way 1920
+OM	288967	سكة 1921	residential	1	0	0	Way 1921
+OM	288967	سكة 1923	residential	1	0	0	Way 1923
+OM	288967	سكة 1924	residential	1	0	0	Way 1924
+OM	288967	سكة 1928	residential	1	0	0	Way 1928
+OM	288967	سكة 1930	residential	1	0	0	Way 1930
+OM	288967	سكة 1932	residential	1	0	0	Way 1932
+OM	288967	سكة 1935	residential	1	0	0	Way 1935
+OM	288967	سكة 1936	residential	1	0	0	Way 1936
+OM	288967	سكة 1938	residential	1	0	0	Way 1938
+OM	288967	سكة 1940	residential	1	0	0	Way 1940
+OM	288967	سكة 1941	residential	1	0	0	Way 1941
+OM	288967	سكة 1942	residential	1	0	0	Way 1942
+OM	288967	سكة 1944	residential	1	0	0	Way 1944
+OM	288967	سكة 1946	residential	1	0	0	Way 1946
+OM	288967	سكة 1948	residential	1	0	0	Way 1948
+OM	288967	سكة 1949	residential	1	0	0	Way 2949
+OM	288967	سكة 1950	residential	1	0	0	Way 1950
+OM	288967	سكة 1952	residential	1	0	0	Way 1952
+OM	288967	سكة 1954	residential	1	0	0	Way 1954
+OM	288967	سكة 1956	residential	1	0	0	Way 1956
+OM	288967	سكة 1958	residential	1	0	0	Way 1958
+OM	288967	سكة 1964	residential	1	0	0	Way 1964
+OM	288967	سكة 1966	residential	1	0	0	Way 1966
+OM	288967	سكة 1968	residential	1	0	0	Way 1968
+OM	288967	سكة 1970	residential	1	0	0	Way 1970
+OM	289011	حي الأمجاد	residential	1	0	0	
+OM	289011	طريق الرستاق	secondary	1	0	0	Al Rustaq Road
+OM	289011	طريق الرستاق - فلج الحديث	unclassified	1	0	0	Al Rustaq - Falaj al Hadith Road
+OM	289011	طريق الرستاق الداخلي	residential	1	0	0	Al Rustaq Interal Road
+OM	289011	طريق وبل	tertiary	1	0	0	Wibil Road
+OM	289142	طريق أم قرن - الغلاجي	tertiary	1	0	0	Um Qarn - Al Ghulaji Road
+OM	289142	طريق بدية	primary	1	0	0	Bidiyah Road
+OM	289174	طريق حرمول	primary	1	0	0	Harmul Road
+OM	289174	طريق لوى - الرسة	secondary	1	0	0	Liwa - ar Rissah Road
+OM	289174	طريق ميناء صحار	primary	1	0	0	Mina Sohar Road
+OM	289174	طريق نبر	secondary	1	0	0	Nabr Road
+OM	289199	طريق ابوالضروس - حلة البرج	tertiary	1	0	0	Abu Al Durus - Hillat Al Burj Road
+OM	289199	طريق الخابورة	tertiary	1	0	0	Al Khabura Road
+OM	289199	طريق الخابورة - عبري	primary	1	0	0	Al Khaburah - Ibri Road
+OM	289199	طريق الزعاب	tertiary	1	0	0	Al Zaab Road
+OM	289199	طريق حجر السنانات	secondary	1	0	0	Hajr al Sinana't Road
+OM	289199	طريق حصن الخابورة	residential	1	0	0	Al Khabura Fort Road
+OM	289199	طريق قصبية	tertiary	1	0	0	Qasbiyaat Road
+OM	289317	شارع حماد بن سالم الكتبي	residential	83	29	453	Hammad Bin Salem Al Ketbi Street
+OM	289317	شارع الرضه بن بيات المهيري	residential	79	42	416	Alrada Bin Beyat Al Muhairi Street
+OM	289317	شارع التشريفات	residential	64	18	177	Al Tashreefat Street
+OM	289317	شارع المشارق	residential	61	31	219	Al Mashariq Street
+OM	289317	شارع البهاء	residential	58	19	165	Al Bahaa Street
+OM	289317	شارع التحية	residential	46	24	178	Al Tahiyyah Street
+OM	289317	شارع أم الدِّلِي	residential	40	5	95	Um Ad Diliy Street
+OM	289317	شارع هَزع الظَّبِي	residential	40	5	104	Haz' Adh Dhabi Street
+OM	289317	شارع البَشَاشَة	residential	39	3	93	Al Bashashah Street
+OM	289317	شارع الجمهور	residential	39	62	129	Al Jumhour Street
+OM	289317	شارع الحَوَّامِي	residential	38	4	100	Al Hawwami Street
+OM	289317	شارع البَشُوش	residential	36	6	119	Al Bashoush Street
+OM	289317	شارع آثَار هيلي	residential	34	20	104	Athar Hili Street
+OM	289317	شارع بني ياس	secondary	33	7	411	Bani Yas Street
+OM	289317	شارع وادِي صَرامة	residential	33	6	107	Wadi Saramah Street
+OM	289317	شارع اللِّسَيلِي	residential	31	2	73	Al Lisayli Street
+OM	289317	شارع رَملة الرَّاعِي	residential	30	16	81	Ramlat Ar Ra'i Street
+OM	289317	شارع سيح الرّوَيضات	residential	30	8	88	Sayh Ar Riwaydat Street
+OM	289317	شارع حمودة بن علي الظاهري	unclassified	29	76	130	Hamouda Bin Ali Al Dhaheri Street
+OM	289317	شارع غَلِيل الظِّباء	residential	29	6	84	Ghaleel Adh Dhiba-a Street
+OM	289317	شارع السماء	residential	27	7	90	Al Sama Street
+OM	289317	شارع الياه	residential	27	6	99	Al Yah Street
+OM	289317	شارع حمد بن ضاحي الكتبي	residential	24	6	138	Hamed Bin Dhahi Al Ketbi Street
+OM	289317	شارع عيد بن سعيد الغفلي	residential	24	11	122	Eid Bin Saeed Al Ghafli Street
+OM	289317	شارع قضمة بنت هلال الظاهري	tertiary	24	20	79	Qadma Bint Hilal Al Dhaheri Street
+OM	289317	شارع أم السَّلَم	residential	23	11	59	Um As Salam Street
+OM	289317	شارع الحُسام	residential	23	14	90	Al Husam Street
+OM	289317	شارع المُدرَجِي	residential	23	7	113	Al Mudraji Street
+OM	289317	شارع النظار	residential	23	9	64	Al Nadhaar Street
+OM	289317	شارع مطر بن حاذه الكتبي	residential	23	9	115	Matar Bin Hatha Al Ketbi Street
+OM	289317	شارع الوافين	residential	22	2	44	Al Wafeen Street
+OM	289317	شارع بَدع عِرَيد	residential	22	4	49	Bad' 'Irayd Street
+OM	289317	شارع بَرقا السِّلِمِيَّة	residential	22	27	99	Barqa As Silimiyah Street
+OM	289317	شارع سالم بن خميس الظاهري	residential	22	11	153	Salem Bin Khamis Al Dhaheri Street
+OM	289317	شارع وادِي المَسعُودِي	residential	22	11	96	Wadi Al Mas'oudi Street
+OM	289317	شارع الأوزان	residential	21	10	100	Al Awzan Street
+OM	289317	شارع زَيد بن الأرقم	residential	21	2	29	Zayd Bin Al Arqam Street
+OM	289317	شارع شَريعة هيلي	residential	21	6	56	Sharee'at Hili Street
+OM	289317	شارع أم العُوارِض	residential	20	2	50	Um Al 'Uwarid Street
+OM	289317	شارع الآثار	tertiary	20	1	296	Al Athar Street
+OM	289317	شارع سيح نِشاش	residential	20	4	52	Sayh Nishash Street
+OM	289317	شارع عبدالله محمد الكعبي	residential	20	1	51	Abdulla Mohammed Al Kaabi Street
+OM	289317	شارع عُقدة الحِصُون	residential	20	6	125	'Uqdat Al Hisoun Street
+OM	289317	شارع مدافِن هيلي	residential	20	2	37	Madafin Hili Street
+OM	289317	شارع أبو عُبَيدة بن الجَرَّاح	secondary	19	11	314	Abu 'Ubaidah Bin Al Jarrah Street
+OM	289317	شارع العَرْجُون	residential	19	1	27	Al 'Arjoun Street
+OM	289317	شارع القَصَب	residential	19	1	85	Al Qasab Street
+OM	289317	شارع سلطان بن مطر الحلامي	residential	19	91	235	Sultan Bin Matar Al Halami Street
+OM	289317	شارع عرقوب الحَزمِيَّة	residential	19	10	56	'Arqoub Al Hazmiyah Street
+OM	289317	شارع عِمران بن طَلحة	residential	19	2	100	Imran Bin Talhah Street
+OM	289317	شارع السَنَد	residential	18	9	73	Al Sanad Street
+OM	289317	شارع الوُرُود	residential	18	3	26	Al Wuroud Street
+OM	289317	شارع عرقوب الذَّرُّوب	residential	18	3	43	'Arqoub Adh Dharrub Street
+OM	289317	شارع الظَّبْيَاني	residential	17	46	75	Al Dhabyani Street
+OM	289317	شارع غافات الخَضَر	residential	17	2	34	Ghafat Al Khadar Street
+OM	289317	شارع قرن بَرمان	residential	17	3	93	Qurn Barmaan Street
+OM	289317	شارع محمد بن خليفة	primary	17	544	1085	Mohammed Bin Khalifa Street
+OM	289317	شارع أم الرَّمرام	residential	16	4	82	Um Ar Ramram Street
+OM	289317	شارع المُوَيهات	residential	16	2	47	Al Muwayhat Street
+OM	289317	شارع رِفاعة بن عبد المُنذِر	residential	16	4	32	Rifa'ah Bin Abdulmundhir Street
+OM	289317	شارع عبدالله خليفة النعيمي	residential	16	5	39	Abdulla Khalifa Al Nuaimi Street
+OM	289317	شارع وادِي النَّخَل	residential	16	4	34	Wadi An Nakhal Street
+OM	289317	شارع يَو مِغَيدِر	residential	16	14	60	Yaw Mighaydir Street
+OM	289317	شارع القَوافِي	residential	15	5	36	Al Qawafi Street
+OM	289317	شارع النُّجُوم	residential	15	7	52	An Nujoum Street
+OM	289317	شارع سَبخة الوُتَيِّد	residential	15	1	45	Sabkhat Al Wutayid Street
+OM	289317	شارع التُّوِيلعة	residential	14	1	18	At Tuweel'ah Street
+OM	289317	شارع الهِجِن	residential	14	2	30	Al Hijin Street
+OM	289317	شارع خليفة بن حاسوم الدرمكي	residential	14	24	88	Khalifa Bin Hasoom Al Darmaki Street
+OM	289317	شارع دِمية أم الشُّوك	residential	14	4	36	Dimyat Um Ash Shouk Street
+OM	289317	شارع سعيد أحمد المنصوري	residential	14	1	65	Saeed Ahmed Al Mansoori Street
+OM	289317	شارع علي بن عزيز الشريفي	residential	14	4	44	Ali Bin Aziz Al Sheraifi Street
+OM	289317	شارع عِرق السِّلِيل	residential	14	1	28	'Irq As Sileel Street
+OM	289317	شارع غابة الرَّوضة	residential	14	5	45	Ghabat Ar Rawdah Street
+OM	289317	شارع غابة الفَلاحِيَّة	residential	14	52	97	Ghabat Al Falahiyah Street
+OM	289317	شارع غَلِيل الطِّلَيعة	residential	14	1	36	Ghaleel At Tilay'ah Street
+OM	289317	شارع يَو الدِّعَيج	residential	14	1	28	Yaw Ad Di'ayj Street
+OM	289317	شارع التُّومِينة	residential	13	2	20	At Toumeenah Street
+OM	289317	شارع الجَزيره الحَمراء	unclassified	13	4	33	Al Jazeerah Al Hamra-a Street
+OM	289317	شارع الحَلالِيَّة	residential	13	5	22	Al Halaliyyah Street
+OM	289317	شارع السَّدر	residential	13	3	42	Al Sadir Street
+OM	289317	شارع الشِّبَيكة	residential	13	1	69	Ash Shibaykah Street
+OM	289317	شارع الفانُوس	residential	13	12	63	Al Fanous Street
+OM	289317	شارع المِيسانِي	residential	13	1	30	Al Meesani Street
+OM	289317	شارع غاف الهيلي	residential	13	7	35	Ghaf Al Hili Street
+OM	289317	شارع هيلي	residential	13	5	40	Hili Street
+OM	289317	شارع وادِي الثِّمَيد	residential	13	1	30	Wadi Ath Thimayd Street
+OM	289317	شارع وادِي الطّوَيسه	residential	13	9	61	Wadi At Tiwaysah Street
+OM	289317	شارع أبو اليَسِر	residential	12	1	26	Abu Al Yasir Street
+OM	289317	شارع الأصلاب	residential	12	1	20	Al Aslab Street
+OM	289317	شارع الأمطار	residential	12	1	35	Al Amtar Street
+OM	289317	شارع التِّمار	residential	12	8	44	At Timar Street
+OM	289317	شارع الرَّحابة	unclassified	12	6	54	Ar Rahabah Street
+OM	289317	شارع الصَّحارِي	residential	12	3	48	As Sahari Street
+OM	289317	شارع العِطر	unclassified	12	15	49	Al 'Itr Street
+OM	289317	شارع النسمات	residential	12	9	35	Al Nasmat Street
+OM	289317	شارع الوافِي	residential	12	6	38	Al Wafi Street
+OM	289317	شارع بو لفيات	residential	12	1	39	Bu Lfiyat Street
+OM	289317	شارع بَدع عِتِيج	residential	12	1	46	Bad' 'Iteej Street
+OM	289317	شارع سالِم بن عُمَير	residential	12	1	26	Salim Bin 'Umayr Street
+OM	289433	طريق أدم	primary	1	0	0	Adam Road
+OM	289433	طريق أدم - سناو	primary	1	0	0	Adam - Sinaw Road
+OM	289433	طريق النهيده - رأس الجبل	secondary	1	0	0	al Nuhaydah - Ras al Jabal Road
+OM	289433	طيرق جبرين - بسياء - الحبي - أدم	primary	1	0	0	Jabrin - Bisyah - Habbi - Adam Road
+OM	411849	Old 8	unclassified	1	0	0	
+OM	411849	Old National Road 8	secondary	1	0	0	
+OM	411849	طريق الراكي	tertiary	1	0	0	
+OM	411849	طريق العلو	residential	1	0	0	Al Uluw
+OM	411849	طريق اللثلي و الساقة	tertiary	1	0	0	
+OM	411849	طريق ضنك-ينقل	secondary	1	0	0	Dank-Yanqul Road
+OM	411849	طريق ظاهرالفوارس	tertiary	1	0	0	Dhahir Al Fawaris Road
+OM	411849	طريق ينقل - ضنك	primary	1	0	0	Yanqul - Dhank Road
+OM	411849	طريق ينقل - وادي صاع	secondary	1	0	0	Yanqul - Wadi Sa Road
+OM	412084	المحدوث	tertiary	1	0	0	
+OM	412084	حي الأمجاد	residential	1	0	0	
+OM	412084	طريق العلياء	tertiary	1	0	0	Al Alya Road
+OM	412084	طريق وادي بني عوف	tertiary	1	0	0	
+OM	412084	وادي صفون	residential	1	0	0	
+OM	12470176	شارع الخرِيدة	residential	1	0	0	Al Khreedah Street
+OM	12470176	شارع الذِّلُول	unclassified	1	0	0	Adh Dhiloul Street
+OM	12470176	شارع الزُّمُول	unclassified	1	0	0	Az Zumoul Street
+OM	12470176	شارع السفطان	residential	1	0	0	As Saftan Street
+OM	12470176	شارع السُّبُوق	residential	1	0	0	As Subouq Street
+OM	12470176	شارع الشمور	residential	1	0	0	Ash Shumour Street
+OM	12470176	شارع الشِّيهانة	residential	1	0	0	Ash Sheehanah Street
+OM	12470176	شارع الصَّحراء	residential	1	0	0	As Sahra-a Street
+OM	12470176	شارع الطُّوال	residential	1	0	0	At Tuwal Street
+OM	12470176	شارع العُروض	residential	1	0	0	Al 'Uroud Street
+OM	12470176	شارع الفُهُود	residential	1	0	0	Al Fuhoud Street
+OM	12470176	شارع القصائِد	residential	1	0	0	Al Qasa-id Street
+OM	13440142	طريق الشرية	secondary	1	0	0	Ash Sharyah Road
+OM	13440142	طريق الميناء	tertiary	1	0	0	Port Road
+OM	13440142	طريق صهناء	tertiary	1	0	0	Sahna Road
+OM	13440142	طريق مدحاء	primary	1	0	0	Madha Road
+OM	13440142	طريق مدحاء - القتيلة	primary	1	0	0	Madha - Al Qitaylah Road

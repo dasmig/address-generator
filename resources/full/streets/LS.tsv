@@ -1,0 +1,427 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+LS	932035	10th Avenue		2	1923	1923	
+LS	932035	1st Avenue	residential	1	0	0	
+LS	932035	2nd Avenue	residential	1	0	0	
+LS	932035	CEHAL Road	residential	1	0	0	
+LS	932035	Cartberg Street	residential	1	0	0	
+LS	932035	Cehal Road	unclassified	1	0	0	
+LS	932035	Court Road	residential	1	0	0	
+LS	932035	Dronk Straat	residential	1	0	0	
+LS	932035	Ha Motjoka Road	tertiary	1	0	0	
+LS	932035	Lebona	residential	1	0	0	
+LS	932035	Lebona Road	residential	1	0	0	
+LS	932035	Magistrate Road	residential	1	0	0	
+LS	932035	Main North 1	primary	1	0	0	
+LS	932035	Makaaka	residential	1	0	0	
+LS	932035	Mnunzana Street	residential	1	0	0	
+LS	932035	Mofolo Street	secondary	1	0	0	
+LS	932035	Molemane Street	residential	1	0	0	
+LS	932035	Moshoeshoe Road	tertiary	1	0	0	
+LS	932035	Mothebesoane	residential	1	0	0	
+LS	932035	Nthane Street	unclassified	1	0	0	
+LS	932035	Ntjabane Crescent	residential	1	0	0	
+LS	932035	Old Leribe	residential	1	0	0	
+LS	932035	Old Leribe Road	residential	1	0	0	
+LS	932035	Police Road	residential	1	0	0	
+LS	932035	Post Street	residential	1	0	0	
+LS	932035	Rats'iu Link	residential	1	0	0	
+LS	932035	Sentebale Road	residential	1	0	0	
+LS	932035	Shibobo	residential	1	0	0	
+LS	932035	Silos Road	residential	1	0	0	
+LS	932035	Taoana Street	residential	1	0	0	
+LS	932101	Main South 1	primary	1	0	0	
+LS	932151	Pius XII Road	unclassified	2	0	0	
+LS	932151	Construction Bypass	unclassified	1	0	0	
+LS	932151	Gerard Circle	unclassified	1	0	0	
+LS	932151	Thoteng-Bypass	unclassified	1	0	0	
+LS	932151	Trading Post Road	tertiary	1	0	0	
+LS	932183	Dooda Street	residential	1	0	0	
+LS	932183	Liphake Road	residential	1	0	0	
+LS	932218	Letloepe 1	unclassified	1	0	0	
+LS	932218	Letloepe Road	residential	1	0	0	
+LS	932218	Lifofaneng 1 Road	residential	1	0	0	
+LS	932218	Maboloka Road	residential	1	0	0	
+LS	932218	Machabeng Road	tertiary	1	0	0	
+LS	932218	Main South 1	primary	1	0	0	
+LS	932218	Makhaola Road	unclassified	1	0	0	
+LS	932218	Maqhaba Road	tertiary	1	0	0	
+LS	932218	Maseepho Road	unclassified	1	0	0	
+LS	932218	Old A4	unclassified	1	0	0	
+LS	932218	Seja Batho Road	tertiary	1	0	0	
+LS	932218	Senqu Road	residential	1	0	0	
+LS	932218	Ts'hinabelo Road	residential	1	0	0	
+LS	932218	Tsinabelo Road	residential	1	0	0	
+LS	932248	Khoabalaejabohobe Road	residential	1	0	0	
+LS	932248	Lota Road	unclassified	1	0	0	
+LS	932248	Maholing Road	residential	1	0	0	
+LS	932248	Makolikotoana Road	residential	1	0	0	
+LS	932248	Mandela Road	primary	1	0	0	
+LS	932248	Moreneng Road	residential	1	0	0	
+LS	932248	Mphenyeke London Road	unclassified	1	0	0	
+LS	932248	Old Post Office Road	residential	1	0	0	
+LS	932248	Ramapepe Road	unclassified	1	0	0	
+LS	932248	Thaba-Phatsoa Road	tertiary	1	0	0	
+LS	932248	Vukasenzela Main Road	residential	1	0	0	
+LS	932269	Ha Qacha 01	residential	1	0	0	
+LS	932269	Ha Qacha 02	residential	1	0	0	
+LS	932269	Ha Qacha 03	residential	1	0	0	
+LS	932269	Ha Qacha 04	residential	1	0	0	
+LS	932269	Ha Robi 01	residential	1	0	0	
+LS	932269	Ha Robi 02	residential	1	0	0	
+LS	932269	Hlathoza 01	residential	1	0	0	
+LS	932269	Hlathoza 02	residential	1	0	0	
+LS	932269	Janefeke 01	residential	1	0	0	
+LS	932269	Lempe 01	residential	1	0	0	
+LS	932269	Lempe 02	residential	1	0	0	
+LS	932269	Nkaine 01	residential	1	0	0	
+LS	932269	Nkaine 02	residential	1	0	0	
+LS	932269	Nkaine 03	residential	1	0	0	
+LS	932269	Nkaine 04	residential	1	0	0	
+LS	932269	Phamong 01	residential	1	0	0	
+LS	932269	Phamong 02	residential	1	0	0	
+LS	932269	Phamong 03	residential	1	0	0	
+LS	932269	Phoseng 01	residential	1	0	0	
+LS	932276	HA- TEBA	unclassified	1	0	0	
+LS	932341	Moorosi Chalet	residential	1	0	0	
+LS	932341	Mtr 01	residential	1	0	0	
+LS	932341	Mtr 02	residential	1	0	0	
+LS	932341	Mtr 03	residential	1	0	0	
+LS	932341	Mtr 04	residential	1	0	0	
+LS	932341	Mtr 05	residential	1	0	0	
+LS	932341	Mtr 06	residential	1	0	0	
+LS	932341	Mtr 07	residential	1	0	0	
+LS	932341	Mtr 08	residential	1	0	0	
+LS	932371	Hospital Road	tertiary	1	0	0	
+LS	932371	Lerato Bridge	primary	1	0	0	
+LS	932416	Lebopo Street	tertiary	1	0	0	
+LS	932416	Mokhotlo Street	unclassified	1	0	0	
+LS	932416	Senqu Bridge Campsite Road	unclassified	1	0	0	
+LS	932438	Hospital Road	residential	1	0	0	
+LS	932438	Lefoka Road	unclassified	1	0	0	
+LS	932438	Mafoso Road	residential	1	0	0	
+LS	932438	Makhaleng Bridge	secondary	1	0	0	
+LS	932438	Maluti Road	residential	1	0	0	
+LS	932438	Mohale Road	residential	1	0	0	
+LS	932438	Mohale's Hoek - Ha Sankatana Highway	primary	1	0	0	
+LS	932438	Mohlaka Road	unclassified	1	0	0	
+LS	932438	Mohlakana Road	unclassified	1	0	0	
+LS	932438	Moletsane Road	unclassified	1	0	0	
+LS	932438	Moshoeshoe Road	unclassified	1	0	0	
+LS	932438	Motlats Road	unclassified	1	0	0	
+LS	932438	Motlejoeng Road	unclassified	1	0	0	
+LS	932438	Ntsukunyane Street	residential	1	0	0	
+LS	932438	Phamong Drive	unclassified	1	0	0	
+LS	932438	Phamong Road	unclassified	1	0	0	
+LS	932438	Tenese Road	unclassified	1	0	0	
+LS	932466	Principal Highway	primary	2	0	0	
+LS	932466	Ha Matala - Ha 'Nalese	unclassified	1	0	0	
+LS	932466	Ha Motšoeneng - Ha Mosalla Road	secondary	1	0	0	
+LS	932466	Kofi Annan Road	primary	1	0	0	
+LS	932466	Kopanong Avenue	residential	1	0	0	
+LS	932466	Makhoaba Street	residential	1	0	0	
+LS	932466	Moshoeshoe I Road	secondary	1	0	0	
+LS	932466	Pena-Pena	secondary	1	0	0	
+LS	932466	a	residential	1	0	0	
+LS	932505	Moshoeshoe Road	primary	38	53	285	
+LS	932505	Pope John Paul II Road	secondary	30	0	0	
+LS	932505	Qoqolosing Road	residential	23	61	261	
+LS	932505	Kingsway	primary	19	331	331	
+LS	932505	Kofi Annan Road	primary	17	5	11	
+LS	932505	Pioneer Road	secondary	11	16	16	
+LS	932505	Mathebe Road	residential	8	10	18	
+LS	932505	Constitution Road	unclassified	5	160	167	
+LS	932505	Lepoqo Road	unclassified	5	295	295	
+LS	932505	Main North 1	primary	5	0	0	
+LS	932505	Tonakholo Road	unclassified	4	23	208	
+LS	932505	Malibamatso Street	residential	3	102	346	
+LS	932505	Maluti Rd, Maseru West		3	121	123	
+LS	932505	Moorosi Road	residential	3	42	50	
+LS	932505	Mpilo Boulevard / Kingsway		3	0	0	
+LS	932505	Orpen Road	residential	3	3	34	
+LS	932505	Qiloane Road	residential	3	38	46	
+LS	932505	Constitutional Rd		2	174	285	
+LS	932505	Kingsway Road		2	0	0	
+LS	932505	Lancers Rd		2	0	0	
+LS	932505	Lepoqo		2	7	9	
+LS	932505	Main South Road	primary	2	0	0	
+LS	932505	Mathebe Rd		2	15	48	
+LS	932505	Motsoene Road, Industrial Area		2	2	2	
+LS	932505	Mpilo Boulevard		2	165	200	
+LS	932505	Mpilo Boulevard / Kingsway Road		2	254	254	
+LS	932505	Nightingale Road	residential	2	0	0	
+LS	932505	Qalabane Street	residential	2	21	1290	
+LS	932505	Qoaling Road	residential	2	817	817	
+LS	932505	Sehalahala Street	residential	2	0	0	
+LS	932505	Accacia Road	residential	1	0	0	
+LS	932505	Army Road	tertiary	1	0	0	
+LS	932505	Assisi Road	unclassified	1	0	0	
+LS	932505	Balfour Road	residential	1	0	0	
+LS	932505	Bereng Road	residential	1	0	0	
+LS	932505	Betloane Street	residential	1	0	0	
+LS	932505	Black Swan Road	living_street	1	0	0	
+LS	932505	Bobatsi Street	residential	1	0	0	
+LS	932505	Bochabela Street	residential	1	0	0	
+LS	932505	Bofulatsepe Street	residential	1	0	0	
+LS	932505	Boiketlo Street	residential	1	0	0	
+LS	932505	Bolepeletsa Street	residential	1	0	0	
+LS	932505	Boqate Street	living_street	1	0	0	
+LS	932505	Borata Street	living_street	1	0	0	
+LS	932505	Bowker Road	residential	1	0	0	
+LS	932505	Caldwell Road	residential	1	0	0	
+LS	932505	Caledon Road	unclassified	1	0	0	
+LS	932505	Cemetery Road	residential	1	0	0	
+LS	932505	Cenez Road	residential	1	0	0	
+LS	932505	Chief	residential	1	0	0	
+LS	932505	Church Street	living_street	1	0	0	
+LS	932505	Circle	residential	1	0	0	
+LS	932505	Circle Rd	residential	1	0	0	
+LS	932505	Dove Road	secondary	1	0	0	
+LS	932505	Dover	residential	1	0	0	
+LS	932505	Evelyn Baring Street	residential	1	0	0	
+LS	932505	Fako Street	residential	1	0	0	
+LS	932505	Friebel Estates	residential	1	0	0	
+LS	932505	Ha Matala - Ha 'Nalese	unclassified	1	0	0	
+LS	932505	Ha Motšoeneng - Ha Mosalla Road	secondary	1	0	0	
+LS	932505	Ha Ratjomose Bypass	residential	1	0	0	
+LS	932505	Ha Tsui Road	tertiary	1	0	0	
+LS	932505	Half Moon Road	residential	1	0	0	
+LS	932505	Hammarskjold Street	unclassified	1	0	0	
+LS	932505	High Court Road	residential	1	0	0	
+LS	932505	High School Road	residential	1	0	0	
+LS	932505	Hilton Road	tertiary	1	0	0	
+LS	932505	Hlotse Street	residential	1	0	0	
+LS	932505	JJ Road	residential	1	0	0	
+LS	932505	Joang Street	residential	1	0	0	
+LS	932505	Joele Road	unclassified	1	0	0	
+LS	932505	Jonathan Street	unclassified	1	0	0	
+LS	932505	Keiso	tertiary	1	0	0	
+LS	932505	Khoisan Road	residential	1	0	0	
+LS	932505	Khotla Street	tertiary	1	0	0	
+LS	932505	Khotso Street	residential	1	0	0	
+LS	932505	Khubelu Street	residential	1	0	0	
+LS	932505	Koari Road	residential	1	0	0	
+LS	932505	Kobeli	residential	1	0	0	
+LS	932505	Koenaneng Street	residential	1	0	0	
+LS	932505	Kofi Annan Side-Step Road	tertiary	1	0	0	
+LS	932505	Kokobela Village Road	residential	1	0	0	
+LS	932505	Koma-Koma Street	residential	1	0	0	
+LS	932505	Koro-Koro Street	residential	1	0	0	
+LS	932505	Kuena Road	residential	1	0	0	
+LS	932505	LCE	residential	1	0	0	
+LS	932505	Lancer's Gap Road	secondary	1	0	0	
+LS	932505	Lancers Road	residential	1	0	0	
+LS	932505	Lechesa Street	residential	1	0	0	
+LS	932505	Lefitori Street	residential	1	0	0	
+LS	932505	Lehlaku Street	residential	1	0	0	
+LS	932505	Lekau RD	residential	1	0	0	
+LS	932505	Lekhabu	residential	1	0	0	
+LS	932505	Leloko Street	residential	1	0	0	
+LS	932505	Lento	residential	1	0	0	
+LS	932505	Lepereng	residential	1	0	0	
+LS	932505	Lepereng Rd	residential	1	0	0	
+LS	932505	Lerotholi Road	residential	1	0	0	
+LS	932505	Letamong	residential	1	0	0	
+LS	932505	Lethole Street	residential	1	0	0	
+LS	932505	Letlatsa Street	residential	1	0	0	
+LS	932505	Letsoapo Street	residential	1	0	0	
+LS	932505	Likila Road	residential	1	0	0	
+LS	932505	Likotsi Clinic Road	tertiary	1	0	0	
+LS	932505	Lilala Street	residential	1	0	0	
+LS	932505	Linakeng Street	residential	1	0	0	
+LS	932505	Linare Road	unclassified	1	0	0	
+LS	932505	Linearre Road	unclassified	1	0	0	
+LS	932505	Linotsing Street	residential	1	0	0	
+LS	932505	Lithoteng	secondary	1	0	0	
+LS	932505	Loli Street	residential	1	0	0	
+LS	932505	Lower Thamae Road	tertiary	1	0	0	
+LS	932505	Maama Street	residential	1	0	0	
+LS	932505	Mabekebeke Road	residential	1	0	0	
+LS	932505	Mabelebele Street	residential	1	0	0	
+LS	932505	Mabile Road	residential	1	0	0	
+LS	932505	Mabote Clinic Road	residential	1	0	0	
+LS	932505	Machache Road	residential	1	0	0	
+LS	932505	Macoba	residential	1	0	0	
+LS	932505	Maeba Road	residential	1	0	0	
+LS	932505	Mafole Street	residential	1	0	0	
+LS	932505	Mahlalela	residential	1	0	0	
+LS	932505	Main South	primary	1	0	0	
+LS	932505	Maisa	residential	1	0	0	
+LS	932505	Majara Road	residential	1	0	0	
+LS	932505	Majorobela	residential	1	0	0	
+LS	932505	Makhabane	tertiary	1	0	0	
+LS	932505	Makhoaba Street	residential	1	0	0	
+LS	932505	Makhunoane Street	residential	1	0	0	
+LS	932505	Makoanyane Road	residential	1	0	0	
+LS	932505	Makoata Street	residential	1	0	0	
+LS	932505	Malakabe Street	residential	1	0	0	
+LS	932505	Malintle	residential	1	0	0	
+LS	932505	Maluti Road	residential	1	0	0	
+LS	932505	Mamathe Street	residential	1	0	0	
+LS	932505	Manong Road	unclassified	1	0	0	
+LS	932505	Mantshebo Street	residential	1	0	0	
+LS	932505	Mapeleng Road	tertiary	1	0	0	
+LS	932505	Mapolankeng Street	residential	1	0	0	
+LS	932505	Maqalika Street	residential	1	0	0	
+LS	932505	Marantha	residential	1	0	0	
+LS	932505	Market Road	residential	1	0	0	
+LS	932505	Maseru Bypass	primary	1	0	0	
+LS	932505	Maseru Bypass West	primary	1	0	0	
+LS	932505	Maseru Mall Road	unclassified	1	0	0	
+LS	932505	Masia Road	residential	1	0	0	
+LS	932505	Matala Circle	primary	1	0	0	
+LS	932505	Mathiase Street	residential	1	0	0	
+LS	932505	Matlaka Road	living_street	1	0	0	
+LS	932505	Matlama Road	tertiary	1	0	0	
+LS	932505	Mejametalana Street	residential	1	0	0	
+LS	932505	Mmorobei Street	residential	1	0	0	
+LS	932505	Mochochoko Road	residential	1	0	0	
+LS	932505	Mohato Ring Street	living_street	1	0	0	
+LS	932505	Mohloai Street	residential	1	0	0	
+LS	932505	Mohlomi Mental Clinic Road	residential	1	0	0	
+LS	932505	Mohlomi Road	residential	1	0	0	
+LS	932505	Mohlomo Street	residential	1	0	0	
+LS	932505	Mohokare	residential	1	0	0	
+LS	932505	Mohokare Road	residential	1	0	0	
+LS	932505	Mohololi Street	residential	1	0	0	
+LS	932505	Mokorotlo Street	residential	1	0	0	
+LS	932505	Molapo Road	residential	1	0	0	
+LS	932505	Molepe Street	residential	1	0	0	
+LS	932505	Molise	residential	1	0	0	
+LS	932505	Molomomphi Street	residential	1	0	0	
+LS	932505	Molula Street	residential	1	0	0	
+LS	932505	Molumong Street	residential	1	0	0	
+LS	932505	Moluoaneng Street	residential	1	0	0	
+LS	932505	Monokots'Oai Street	residential	1	0	0	
+LS	932505	Moorosie Road	residential	1	0	0	
+LS	932505	Mopeli Street	residential	1	0	0	
+LS	932505	Moretele Street	residential	1	0	0	
+LS	932505	Morung Street	residential	1	0	0	
+LS	932505	Moseea Street	residential	1	0	0	
+LS	932505	Motimposo Road	tertiary	1	0	0	
+LS	932505	Motjoli Street	residential	1	0	0	
+LS	932505	Motla le Khosana Street	residential	1	0	0	
+LS	932505	Motlamelle	residential	1	0	0	
+LS	932505	Motlobelo Street	residential	1	0	0	
+LS	932505	Motsamai Road	residential	1	0	0	
+LS	932505	Motsamai Street	residential	1	0	0	
+LS	932505	Motsoene Road	unclassified	1	0	0	
+LS	932505	Mount Lane Maount Lane	residential	1	0	0	
+LS	932505	Mphatlalatsane Street	residential	1	0	0	
+LS	932505	Naleli Koalabata	unclassified	1	0	0	
+LS	932505	Naleli Pass Road	secondary	1	0	0	
+LS	932505	Naleli Street	residential	1	0	0	
+LS	932505	New Parliament Road	tertiary	1	0	0	
+LS	932505	Nkoe Street	residential	1	0	0	
+LS	932505	Ntlafatso Street	residential	1	0	0	
+LS	932505	Ntsane Street	tertiary	1	0	0	
+LS	932505	Nurse's Home Road	unclassified	1	0	0	
+LS	932505	Omega Road	residential	1	0	0	
+LS	932505	Oxbow Crescent	residential	1	0	0	
+LS	932505	PTC Road	residential	1	0	0	
+LS	932505	PTC South Lower Trail	residential	1	0	0	
+LS	932505	Palace Road	unclassified	1	0	0	
+LS	932505	Paveol Road	residential	1	0	0	
+LS	932505	Pepeane	residential	1	0	0	
+LS	932516	A Road	primary	1	0	0	
+LS	932521	Karee Street	residential	1	0	0	
+LS	932521	Moerbei Street	residential	1	0	0	
+LS	932521	Sir Seretse Khama Road	primary	1	0	0	
+LS	932537	Principal Highway	primary	1	0	0	
+LS	932547	Ha Mamathe - Tarabane Road	secondary	1	0	0	
+LS	932614	Dronk Strßße		6	0	0	
+LS	932614	Airport Road	residential	1	0	0	
+LS	932614	Cemetery Road	residential	1	0	0	
+LS	932614	Chief Matsepe Road	residential	1	0	0	
+LS	932614	Court Road	residential	1	0	0	
+LS	932614	Hospital Lane	residential	1	0	0	
+LS	932614	Hospital Rd	residential	1	0	0	
+LS	932614	Hospital Road	residential	1	0	0	
+LS	932614	Lehcoop Road	residential	1	0	0	
+LS	932614	Lekoantlana Bridge	primary	1	0	0	
+LS	932614	Letamong Road	residential	1	0	0	
+LS	932614	Mafeteng - Van Rooyen's Gate Highway	primary	1	0	0	
+LS	932614	Main South 1	unclassified	1	0	0	
+LS	932614	Motse Mocha Road	residential	1	0	0	
+LS	932614	Thabana Morena Road	unclassified	1	0	0	
+LS	932614	Tsalitlama Rd	unclassified	1	0	0	
+LS	932614	hospital lane	residential	1	0	0	
+LS	932698	Hlotse Main Street	tertiary	1	0	0	
+LS	932698	Malinakana Street	unclassified	1	0	0	
+LS	932698	Mandela Road	primary	1	0	0	
+LS	932698	Mankoane Street	unclassified	1	0	0	
+LS	932698	Maphakheng	unclassified	1	0	0	
+LS	932698	Maphothoane Street	residential	1	0	0	
+LS	932698	Maphothone Street	unclassified	1	0	0	
+LS	932698	Molapo Street	residential	1	0	0	
+LS	932698	Paqama Street	residential	1	0	0	
+LS	932698	Phakoe Street	residential	1	0	0	
+LS	932698	Phamotse Street	residential	1	0	0	
+LS	932698	Police Street	residential	1	0	0	
+LS	932698	Setjeo Street	residential	1	0	0	
+LS	932698	Tente Street	residential	1	0	0	
+LS	932698	Tseki Street	residential	1	0	0	
+LS	932718	Masheli Street	secondary	1	0	0	
+LS	932718	Sekolo Drive	residential	1	0	0	
+LS	932886	Ha Belo Industrial Estate	unclassified	1	0	0	
+LS	932886	Hospital Road	unclassified	1	0	0	
+LS	932886	Joele Road	residential	1	0	0	
+LS	932886	Lethole Road	tertiary	1	0	0	
+LS	932886	Loch Athlone	residential	1	0	0	
+LS	932886	Main North 1	primary	1	0	0	
+LS	932886	Muslim Road	residential	1	0	0	
+LS	932886	Sechele Road	residential	1	0	0	
+LS	1106835	Hospital Road	residential	1	0	0	
+LS	11237575	Bakhoele Street	residential	1	0	0	
+LS	11237575	Bochabela II Street	unclassified	1	0	0	
+LS	11237575	Bochabela III Street	tertiary	1	0	0	
+LS	11237575	Khotla Street	tertiary	1	0	0	
+LS	11237575	Lancer's Gap Road	secondary	1	0	0	
+LS	11237575	Lebonie Street	residential	1	0	0	
+LS	11237575	Letlakaka Street	residential	1	0	0	
+LS	11237575	Main North 1	primary	1	0	0	
+LS	11237575	Makara Street	residential	1	0	0	
+LS	11237575	Makhohlisa Street	residential	1	0	0	
+LS	11237575	Masoabi Street	residential	1	0	0	
+LS	11237575	Mine Workers Road	unclassified	1	0	0	
+LS	11237575	Mohasi Street	residential	1	0	0	
+LS	11237575	Molepe Road	residential	1	0	0	
+LS	11237575	Momgali Street	residential	1	0	0	
+LS	11237575	Mosese Street	residential	1	0	0	
+LS	11237575	Moshoeshoe II Street	residential	1	0	0	
+LS	11237575	Motoniosi Avenue	residential	1	0	0	
+LS	11237575	Motsamai Street	residential	1	0	0	
+LS	11237575	Mt. Machache Street	residential	1	0	0	
+LS	11237575	Mthembu Road	residential	1	0	0	
+LS	11237575	Phomolong II Street	residential	1	0	0	
+LS	11237575	Pitso Street	residential	1	0	0	
+LS	11237575	Pmokemane Street	residential	1	0	0	
+LS	11237575	Puleng Road	residential	1	0	0	
+LS	11237575	Rasetimela Street	residential	1	0	0	
+LS	11237575	Rural Road	residential	1	0	0	
+LS	11237575	Sekamaneng-Selakhapane	tertiary	1	0	0	
+LS	11237575	Sekamaneng-Thebe-ea-Khale	tertiary	1	0	0	
+LS	11237575	Sekhesa Street	residential	1	0	0	
+LS	11237575	Sekhutlong Road	unclassified	1	0	0	
+LS	11237575	Thabane Street	tertiary	1	0	0	
+LS	11237575	Thabong Street	residential	1	0	0	
+LS	11237575	Thaha Road	residential	1	0	0	
+LS	11237575	Tjobolo Street	residential	1	0	0	
+LS	11237575	Tsoere Street	residential	1	0	0	
+LS	11237575	Willis-Temong	secondary	1	0	0	
+LS	12687282	Lekher Street	residential	1	0	0	
+LS	12687284	Lookout Point	unclassified	1	0	0	
+LS	12687284	Semonkong town	tertiary	1	0	0	
+LS	12687287	Boiketlo 01	residential	1	0	0	
+LS	12687287	Boiketlo 02	residential	1	0	0	
+LS	12687287	Ha Kori 01	residential	1	0	0	
+LS	12687287	Ha Kori 02	residential	1	0	0	
+LS	12687287	Ha Thifa 01	residential	1	0	0	
+LS	12687287	Ha Thifa 02	residential	1	0	0	
+LS	12687287	Lipeneng 01	residential	1	0	0	
+LS	12687287	Mafika-Lisiu_01	residential	1	0	0	
+LS	12687287	Raseboko_01	residential	1	0	0	
+LS	12687287	Tau 01	residential	1	0	0	
+LS	12687291	Airport Road	unclassified	1	0	0	
+LS	12687291	Mapholaneng	primary	1	0	0	
+LS	12687291	Old Polihali Road	unclassified	1	0	0	
+LS	12718649	Thoteng-ea-'Majane	primary	1	0	0	

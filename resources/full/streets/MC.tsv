@@ -1,0 +1,180 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+MC	2992741	Rue des Roses		14	1	9	
+MC	2992741	Boulevard des Moulins	secondary	9	2	38	
+MC	2992741	Avenue Saint-Charles	tertiary	3	3	7	
+MC	2992741	Avenue de Grande-Bretagne	residential	3	10	22	
+MC	2992741	Avenue de la Costa	secondary	3	26	31	
+MC	2992741	Rue du Portier	residential	3	9	17	
+MC	2992741	Avenue Princesse Grace	residential	2	2	21	
+MC	2992741	Avenue Saint-Michel	secondary	2	19	19	
+MC	2992741	Boulevard Princesse Charlotte	secondary	2	20	35	
+MC	2992741	Impasse de la Fontaine	residential	2	6	7	
+MC	2992741	Rue Du Portier		2	7	7	
+MC	2992741	Rue des Géraniums		2	14	16	
+MC	2992741	Rue des Lilas		2	4	5	
+MC	2992741	Rue des Violettes		2	5	5	
+MC	2992741	Allées des Boulingrins	residential	1	0	0	
+MC	2992741	Avenue Camille Blanc	secondary	1	0	0	
+MC	2992741	Avenue Mareterra	pedestrian	1	0	0	
+MC	2992741	Avenue Saint-Laurent	tertiary	1	0	0	
+MC	2992741	Avenue de Monte-Carlo	residential	1	0	0	
+MC	2992741	Avenue de la Madone	residential	1	0	0	
+MC	2992741	Avenue des Beaux-Arts	pedestrian	1	0	0	
+MC	2992741	Avenue des Citronniers	residential	1	0	0	
+MC	2992741	Boulevard Louis II	secondary	1	0	0	
+MC	2992741	Boulevard de la République	secondary	1	0	0	
+MC	2992741	Boulevard du Général Leclerc	residential	1	0	0	
+MC	2992741	Boulevard du Larvotto	primary	1	0	0	
+MC	2992741	Esplanade et promenade Prince Jacques	pedestrian	1	0	0	
+MC	2992741	Place du Casino	pedestrian	1	0	0	
+MC	2992741	Promenade Princesse Charlène	pedestrian	1	0	0	
+MC	2992741	Rond-Point du Portier	secondary	1	0	0	
+MC	2992741	Rue des Iris	residential	1	0	0	
+MC	2992741	Square Beaumarchais	tertiary	1	0	0	
+MC	2992741	Square Winston Churchill	residential	1	0	0	
+MC	2993458	Quai Jean-Charles Rey		18	8	42	
+MC	2993458	Avenue Princesse Grace		16	1	43	
+MC	2993458	Boulevard de Belgique	tertiary	11	3	37	
+MC	2993458	Boulevard du Jardin Exotique	secondary	11	37	99	
+MC	2993458	Promenade Honoré II		11	1	7	
+MC	2993458	Avenue Crovetto-Frères		7	2	25	
+MC	2993458	Boulevard d'Italie		7	6	66	
+MC	2993458	Quai Antoine 1er	residential	7	1	14	
+MC	2993458	Rue Grimaldi	secondary	7	6	57	
+MC	2993458	Avenue de Monte-Carlo		6	1	21	
+MC	2993458	Avenue de la Costa	residential	6	2	25	
+MC	2993458	Boulevard de Suisse	tertiary	6	9	25	
+MC	2993458	Rue Princesse Caroline		6	3	21	
+MC	2993458	Rue de Millo		6	4	20	
+MC	2993458	Avenue Hector Otto	residential	5	11	47	
+MC	2993458	Avenue d'Alsace	residential	5	5	10	
+MC	2993458	Avenue des Papalins		5	8	31	
+MC	2993458	Avenue Albert II		4	9	27	
+MC	2993458	Avenue d'Ostende	secondary	4	9	15	
+MC	2993458	Avenue de Fontvieille		4	10	20	
+MC	2993458	Avenue de l'Annonciade		4	17	49	
+MC	2993458	Avenue des Spélugues		4	3	17	
+MC	2993458	Boulevard des Moulins		4	6	24	
+MC	2993458	Place d'Armes		4	1	15	
+MC	2993458	Rue du Gabian		4	1	9	
+MC	2993458	Avenue John F. Kennedy	secondary	3	7	7	
+MC	2993458	Avenue Princesse Alice		3	2	7	
+MC	2993458	Boulevard Rainier III	secondary	3	2	33	
+MC	2993458	Chemin de la Turbie	residential	3	9	12	
+MC	2993458	Place du Campanin		3	1	5	
+MC	2993458	Rue Bellevue	residential	3	13	22	
+MC	2993458	Rue Louis Auréglia	residential	3	1	21	
+MC	2993458	Rue de la Lüjerneta		3	2	2	
+MC	2993458	Rue de la Turbie		3	6	17	
+MC	2993458	Rue des Giroflées		3	1	2	
+MC	2993458	Avenue des Citronniers		2	2	4	
+MC	2993458	Boulevard Albert 1er	secondary	2	25	27	
+MC	2993458	Boulevard Princesse Charlotte	secondary	2	16	30	
+MC	2993458	Boulevard du Larvotto	primary	2	17	39	
+MC	2993458	Route de la Piscine	residential	2	6	54	
+MC	2993458	Rue Basse		2	35	37	
+MC	2993458	Rue Bel Respiro	residential	2	7	11	
+MC	2993458	Rue Colonel Bellando de Castro		2	5	10	
+MC	2993458	Rue Plati		2	9	29	
+MC	2993458	Rue Princesse Marie de Lorraine	residential	2	14	18	
+MC	2993458	Rue du Portier		2	11	27	
+MC	2993458	Rue Émile de Loth		2	24	24	
+MC	2993458	Accès Villa Yéyé	residential	1	0	0	
+MC	3009937	Allée Lazare Sauvaigo	pedestrian	5	9	16	
+MC	3009937	Rue Grimaldi	secondary	5	15	30	
+MC	3009937	Rue de la Turbie	residential	5	1	19	
+MC	3009937	Rue Suffren Reymond	residential	3	2	6	
+MC	3009937	Rue de la Colle	secondary	2	4	4	
+MC	3009937	Allée Guillaume Apollinaire	residential	1	0	0	
+MC	3009937	Avenue Albert II	secondary	1	0	0	
+MC	3009937	Avenue Crovetto-Frères	residential	1	0	0	
+MC	3009937	Avenue Prince Pierre	secondary	1	0	0	
+MC	3009937	Avenue de Fontvieille	tertiary	1	0	0	
+MC	3009937	Avenue de La Quarantaine	residential	1	0	0	
+MC	3009937	Avenue de la Porte Neuve	residential	1	0	0	
+MC	3009937	Avenue du Port	secondary	1	0	0	
+MC	3009937	Boulevard du Larvotto	primary	1	0	0	
+MC	3009937	Giratoire Aureglia	primary	1	0	0	
+MC	3009937	Place d'Armes	secondary	1	0	0	
+MC	3009937	Promenade Honoré II	pedestrian	1	0	0	
+MC	3009937	Rascasse	secondary	1	0	0	
+MC	3009937	Rond-Point Canton	primary	1	0	0	
+MC	3009937	Route de la Piscine	residential	1	0	0	
+MC	3009937	Rue Augustin Vento	residential	1	0	0	
+MC	3009937	Rue Baron Sainte-Suzanne	residential	1	0	0	
+MC	3009937	Rue Biovès	residential	1	0	0	
+MC	3009937	Rue Hubert Clerissi	residential	1	0	0	
+MC	3017814	Avenue des Papalins	residential	2	8	12	
+MC	3017814	Avenue des Guelfes	residential	1	0	0	
+MC	3017814	Avenue du Port	residential	1	0	0	
+MC	3017814	Place du Campanin	pedestrian	1	0	0	
+MC	3017814	Rond-Point Papalins	residential	1	0	0	
+MC	3017814	Rue du Campanin	residential	1	0	0	
+MC	3017814	Tunnel Pont Cadre	residential	1	0	0	
+MC	3225774	Boulevard d'Italie	tertiary	11	25	72	
+MC	3225774	Avenue Delphine	residential	1	0	0	
+MC	3225774	Avenue de France	primary	1	0	0	
+MC	3225774	Avenue de Saint-Romain	residential	1	0	0	
+MC	3225774	Boulevard du Larvotto	primary	1	0	0	
+MC	3225774	Boulevard du Tenao	residential	1	0	0	
+MC	3225774	Boulevard du Ténao	residential	1	0	0	
+MC	3225774	Lacets Saint-Léon	residential	1	0	0	
+MC	3225774	Rond-Point du Sporting	tertiary	1	0	0	
+MC	3225774	Rue des Giroflées	residential	1	0	0	
+MC	3225774	Rue du Ténao	residential	1	0	0	
+MC	3319177	Rue Bosio	residential	4	19	24	
+MC	3319177	Rue Honoré Labande	residential	2	5	6	
+MC	3319177	Boulevard de Belgique	tertiary	1	0	0	
+MC	3319177	Chemin de la Turbie	residential	1	0	0	
+MC	3319177	Jardin Paul Paray	pedestrian	1	0	0	
+MC	3319177	Rond-Point Bosio	tertiary	1	0	0	
+MC	3319177	Rue Jean Bouin	residential	1	0	0	
+MC	3319177	Rue Vourette	residential	1	0	0	
+MC	3319177	Square Lamark	secondary	1	0	0	
+MC	13527008	Rue Basse		6	13	31	
+MC	13527008	Rue Colonel Bellando de Castro	residential	3	2	8	
+MC	13527008	Rue Comte Félix Gastaldi		3	15	23	
+MC	13527008	Avenue de La Quarantaine	residential	1	0	0	
+MC	13527008	Avenue du Port	secondary	1	0	0	
+MC	13527008	Place Saint-Nicolas	pedestrian	1	0	0	
+MC	13527008	Place du Palais	residential	1	0	0	
+MC	13527008	Rue des Remparts	residential	1	0	0	
+MC	13527008	Tunnel Rocher Albert Ier	secondary	1	0	0	
+MC	13527008	Tunnel Rocher Cathédrale	secondary	1	0	0	
+MC	13527008	Tunnel Rocher Intermédiaire	secondary	1	0	0	
+MC	13527009	Avenue Albert II	secondary	8	2	25	
+MC	13527009	Rue du Gabian	residential	6	1	24	
+MC	13527009	Avenue des Papalins	residential	3	2	6	
+MC	13527009	Avenue Hugues Savorani	residential	2	26	28	
+MC	13527009	Avenue Hector Otto	residential	1	0	0	
+MC	13527009	Avenue Jacques Abba	residential	1	0	0	
+MC	13527009	Avenue Marquet	residential	1	0	0	
+MC	13527009	Avenue des Castelans	tertiary	1	0	0	
+MC	13527009	Boulevard Charles III	primary	1	0	0	
+MC	13527009	Boulevard Rainier III	residential	1	0	0	
+MC	13527009	Liaison Marquet	tertiary	1	0	0	
+MC	13527009	Place Wurtemberg	pedestrian	1	0	0	
+MC	13527009	Promenade Honoré II	pedestrian	1	0	0	
+MC	13527009	Rond-Point de l'Hopital	tertiary	1	0	0	
+MC	13527009	Route de l'Hôpital	residential	1	0	0	
+MC	13527009	Route de la Moyenne Corniche	primary	1	0	0	
+MC	13527009	Rue Jean Bono	residential	1	0	0	
+MC	13527009	Rue de la Lüjerneta	residential	1	0	0	
+MC	13527009	Ruelle Herculis	residential	1	0	0	
+MC	13527009	Tunnel Albert II	primary	1	0	0	
+MC	13527009	Tunnel Dsc Fontvieille	tertiary	1	0	0	
+MC	13527009	Tunnel Pasteur	primary	1	0	0	
+MC	13527009	Tunnel Rainier III	primary	1	0	0	
+MC	13527009	Tunnel Rocher Canton	secondary	1	0	0	
+MC	13527010	Boulevard d'Italie	tertiary	8	7	42	
+MC	13527010	Avenue Princesse Grace	tertiary	3	27	37	
+MC	13527010	Rue Révérend Père Louis Frolla	residential	3	4	18	
+MC	13527010	Boulevard du Général Leclerc	residential	2	31	31	
+MC	13527010	Avenue de Varavilla	tertiary	1	0	0	
+MC	13527010	Boulevard des Moulins	tertiary	1	0	0	
+MC	13527010	Boulevard du Tenao	residential	1	0	0	
+MC	13527010	Rue Orchidées Prolongée	residential	1	0	0	
+MC	13527011	Avenue Mareterra	pedestrian	1	0	0	
+MC	13527011	Boulevard du Larvotto	primary	1	0	0	
+MC	13527011	La Vallée de la Pinède	pedestrian	1	0	0	
+MC	13527011	Ruelle Saint-Jean	residential	1	0	0	

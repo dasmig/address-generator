@@ -1,0 +1,242 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+TL	1622471	Estrada Umaboco - Viqueque	primary	1	0	0	
+TL	1622471	Estrada Viqueque - Baucau	primary	1	0	0	
+TL	1622471	Estrada Viqueque - Iliomar	primary	1	0	0	
+TL	1622471	Jembatan Gantung	residential	1	0	0	
+TL	1623886	Avenida Pe. Tarsisius Dewanto	primary	1	0	0	
+TL	1623886	Estrada Principal	unclassified	1	0	0	
+TL	1626459	Avenida Camanaça	residential	1	0	0	
+TL	1626459	Avenida Cezar Maulaka	primary	1	0	0	
+TL	1626459	Avenida Pe. Hilario Madeira	primary	1	0	0	
+TL	1626459	Avenida Pe. Tarsisius Dewanto	primary	1	0	0	
+TL	1626459	Estrada Suai - Maliana	primary	1	0	0	
+TL	1628926	Estrada Fatuberlihu	tertiary	1	0	0	
+TL	1632533	Avenida de Oé-Cusse	secondary	1	0	0	
+TL	1632533	Beco de Lilah	living_street	1	0	0	
+TL	1632533	Beco de Meok Ana	living_street	1	0	0	
+TL	1632533	Beco de Mercado Numbei	residential	1	0	0	
+TL	1632533	Beco de Petah	living_street	1	0	0	
+TL	1632533	Dom Hugo Hermenegildo da Costa	tertiary	1	0	0	
+TL	1632533	Oé-Foco	residential	1	0	0	
+TL	1632533	Ponte Amor de Oé-Bau	tertiary	1	0	0	
+TL	1632533	Ponte Besi	residential	1	0	0	
+TL	1632533	Ponte de Oé-Kananga Manuimpena	primary	1	0	0	
+TL	1632533	Ponte de Upu Bola Padiae	primary	1	0	0	
+TL	1632533	Rotunda de Guido Valadares	secondary	1	0	0	
+TL	1635288	Avenida 28 de Novembro	secondary	1	0	0	
+TL	1635288	Avenida Hera	primary	1	0	0	
+TL	1635288	Estrada Díli - Manatuto	primary	1	0	0	
+TL	1635288	Rua Bedik-Hera	secondary	1	0	0	
+TL	1635814	Rede de Caminhos	unclassified	1	0	0	
+TL	1635814	residential	residential	1	0	0	
+TL	1635826	Estrada Balibó - Liquicá	primary	1	0	0	
+TL	1636526	Estrada Díli - Manatuto	primary	1	0	0	
+TL	1636526	Estrada Manatuto - Laclo	tertiary	1	0	0	
+TL	1636526	Estrada Mantuto - Baucau	primary	1	0	0	
+TL	1636526	Estrada Umaboco - Manatuto	primary	1	0	0	
+TL	1636526	Ponte	unclassified	1	0	0	
+TL	1636670	Agrikultura	unclassified	1	0	0	
+TL	1636670	Dalan	unclassified	1	0	0	
+TL	1636670	Estrada Bobonaro	residential	1	0	0	
+TL	1636670	Estrada Suai - Maliana	primary	1	0	0	
+TL	1636670	Maliana Cailaco	tertiary	1	0	0	
+TL	1636670	Ponte	unclassified	1	0	0	
+TL	1636670	Rua Nunu Heli	residential	1	0	0	
+TL	1636670	Rua Raeboanan	residential	1	0	0	
+TL	1636670	Rua de Oplegul	residential	1	0	0	
+TL	1636670	estrada Maria tapo	primary	1	0	0	
+TL	1636670	jalan Biabubu	unclassified	1	0	0	
+TL	1636670	rua maria tapo Maliana	primary	1	0	0	
+TL	1637730	Caminho pedonal	residential	1	0	0	
+TL	1637730	Estrada Aipelu - Bazartete	tertiary	1	0	0	
+TL	1637730	Estrada Bairro Leopa	residential	1	0	0	
+TL	1637730	Estrada Balibó - Liquicá	primary	1	0	0	
+TL	1637730	Estrada Bazartete - Railaco	tertiary	1	0	0	
+TL	1637730	Ponte	residential	1	0	0	
+TL	1637730	River	pedestrian	1	0	0	
+TL	1637730	Rotunda	residential	1	0	0	
+TL	1637754	Beco de Kaliu-Bola	residential	1	0	0	
+TL	1637754	Rua de Aesero	secondary	1	0	0	
+TL	1637754	Rua de Holok-Hau	secondary	1	0	0	
+TL	1637754	Rua de Kiunu	secondary	1	0	0	
+TL	1638295	Estrada Baukau - Com	secondary	1	0	0	
+TL	1638295	Estrada Baukau - Lospalos	primary	1	0	0	
+TL	1638295	Estrada Iparira - Soiquili	unclassified	1	0	0	
+TL	1638295	Estrada Lautem - Com	secondary	1	0	0	
+TL	1638295	Estrada Maina I - Pairara	unclassified	1	0	0	
+TL	1638295	Estrada Moro - Iparira	unclassified	1	0	0	
+TL	1638295	residential	residential	1	0	0	
+TL	1645457	Avenida Mártires da Pátria	secondary	11	0	0	
+TL	1645457	Rua De Tahu Bura	residential	4	4	4	
+TL	1645457	Avenida de Balide	secondary	2	0	0	
+TL	1645457	Rua Palácio das Cinzas	tertiary	2	5	5	
+TL	1645457	Rua da Justiça		2	0	0	
+TL	1645457	Rua de Bebonuk	tertiary	2	0	0	
+TL	1645457	Rua de Becussi	tertiary	2	0	0	
+TL	1645457	Rua de Natarlaran		2	0	0	
+TL	1645457	Avenida 28 de Novembro	secondary	1	0	0	
+TL	1645457	Avenida Areia Branca	tertiary	1	0	0	
+TL	1645457	Avenida Bispo de Medeiros	primary	1	0	0	
+TL	1645457	Avenida D. Ricardo da Silva	secondary	1	0	0	
+TL	1645457	Avenida Dom Martinho Lopes	secondary	1	0	0	
+TL	1645457	Avenida Hudi-Laran	secondary	1	0	0	
+TL	1645457	Avenida Nicolau Lobato	primary	1	0	0	
+TL	1645457	Avenida Praia dos Coqueiros	tertiary	1	0	0	
+TL	1645457	Avenida da Restauração	primary	1	0	0	
+TL	1645457	Avenida de Areia Branca	tertiary	1	0	0	
+TL	1645457	Avenida de Hudi-Laran	secondary	1	0	0	
+TL	1645457	Avenida de Manleuana	tertiary	1	0	0	
+TL	1645457	Avenida de Metiaut	secondary	1	0	0	
+TL	1645457	Avenida de Motael	secondary	1	0	0	
+TL	1645457	Avenida de Portugal	secondary	1	0	0	
+TL	1645457	Avenida de Sant' Ana	secondary	1	0	0	
+TL	1645457	Beco 27 Setembro 2002	residential	1	0	0	
+TL	1645457	Beco 3 de Dezembro de 1937	residential	1	0	0	
+TL	1645457	Beco Ai-Lele Tahan	residential	1	0	0	
+TL	1645457	Beco Ai-Tahan Matak	residential	1	0	0	
+TL	1645457	Beco Ba Dame	residential	1	0	0	
+TL	1645457	Beco Be'e Mos	residential	1	0	0	
+TL	1645457	Beco Buka Moris 3	living_street	1	0	0	
+TL	1645457	Beco Da Ribeira Klaran	residential	1	0	0	
+TL	1645457	Beco Da Rusa Fuik I	residential	1	0	0	
+TL	1645457	Beco Da Rusa Fuik II	residential	1	0	0	
+TL	1645457	Beco Da Rusa Fuik III	residential	1	0	0	
+TL	1645457	Beco Da Rusa Fuik IV	residential	1	0	0	
+TL	1645457	Beco Da Rusa Fuik V	residential	1	0	0	
+TL	1645457	Beco Da Sardinha I	residential	1	0	0	
+TL	1645457	Beco Da Unamet	residential	1	0	0	
+TL	1645457	Beco De Adilia Tuku	residential	1	0	0	
+TL	1645457	Beco De Ai-Parapa	residential	1	0	0	
+TL	1645457	Beco De Ai-Teka Hun	residential	1	0	0	
+TL	1645457	Beco De Ai-Teka Maran	residential	1	0	0	
+TL	1645457	Beco De Ai-Teka Tahan	residential	1	0	0	
+TL	1645457	Beco De Bedik Central	residential	1	0	0	
+TL	1645457	Beco De Be’e Lihun	residential	1	0	0	
+TL	1645457	Beco De Fatuk Fera I	residential	1	0	0	
+TL	1645457	Beco De Fatuk Fera II	residential	1	0	0	
+TL	1645457	Beco De Fatuk Kadi I	residential	1	0	0	
+TL	1645457	Beco De Fatuk Kadi II	residential	1	0	0	
+TL	1645457	Beco De Fatuk Kadi III	residential	1	0	0	
+TL	1645457	Beco De Fatuk Kadi IV	residential	1	0	0	
+TL	1645457	Beco De Gurita	residential	1	0	0	
+TL	1645457	Beco De Hali Abut	residential	1	0	0	
+TL	1645457	Beco De Hali Hun Bo’ot I	residential	1	0	0	
+TL	1645457	Beco De Hali Hun Bo’ot II	residential	1	0	0	
+TL	1645457	Beco De Kulu-Naka Hun	residential	1	0	0	
+TL	1645457	Beco De Maloa Kraik I	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu I	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu II	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu III	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu IV	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu V	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu VI	residential	1	0	0	
+TL	1645457	Beco De Rai-Kotu VII	residential	1	0	0	
+TL	1645457	Beco De Rate Kotuk I	residential	1	0	0	
+TL	1645457	Beco De Rate Kotuk II	residential	1	0	0	
+TL	1645457	Beco De Sakunar I	residential	1	0	0	
+TL	1645457	Beco De Tohu Laran	residential	1	0	0	
+TL	1645457	Beco Hali Tahan	residential	1	0	0	
+TL	1645457	Beco Madre Herminia (1930-1999)	residential	1	0	0	
+TL	1645457	Beco Mota Ain	residential	1	0	0	
+TL	1645457	Beco Mota Ulun	residential	1	0	0	
+TL	1645457	Beco Nú Tahan	residential	1	0	0	
+TL	1645457	Beco Tais Ainao I	unclassified	1	0	0	
+TL	1645457	Beco Tais Ainaro II	unclassified	1	0	0	
+TL	1645457	Beco da Tuba I	residential	1	0	0	
+TL	1645457	Beco da Tuba II	residential	1	0	0	
+TL	1645457	Beco de Debu Laran	residential	1	0	0	
+TL	1645457	Beco de Fatuk Kabuar	residential	1	0	0	
+TL	1645457	Beco de Nu'u Kulit	residential	1	0	0	
+TL	1645457	Beco de Sarin I	residential	1	0	0	
+TL	1645457	Bekaril Road	unclassified	1	0	0	
+TL	1645457	Elemloi	primary	1	0	0	
+TL	1645457	Estrada Aileu - Díli	primary	1	0	0	
+TL	1645457	Estrada ba centro fatsuka	unclassified	1	0	0	
+TL	1645457	Kuluhun	residential	1	0	0	
+TL	1645457	Laulora	residential	1	0	0	
+TL	1645457	Maupelu	primary	1	0	0	
+TL	1645457	Mota ulun	residential	1	0	0	
+TL	1645457	Ponte	residential	1	0	0	
+TL	1645457	Ponte B. J. Habibie	secondary	1	0	0	
+TL	1645457	Ponte Hinode	primary	1	0	0	
+TL	1645457	Rau de Ai Lok Laran	residential	1	0	0	
+TL	1645457	Road	residential	1	0	0	
+TL	1645457	Roda viaria residensia Dom Bosco	residential	1	0	0	
+TL	1645457	Rotunda	residential	1	0	0	
+TL	1645457	Rotunda Elemloi	primary	1	0	0	
+TL	1645457	Rotunda Nicolau Lobato	primary	1	0	0	
+TL	1645457	Rotunda Xavier do Amaral	primary	1	0	0	
+TL	1649539	Avenida Dom Carlos Filipe X. Belo, SDB	primary	1	0	0	
+TL	1649539	Estrada Baucau - Lautém	primary	1	0	0	
+TL	1649539	Estrada Mantuto - Baucau	primary	1	0	0	
+TL	1649539	Jalan Pemukiman	residential	1	0	0	
+TL	1649539	Rua Vila Antiga	primary	1	0	0	
+TL	1649539	Travessa Santo Antonio	primary	1	0	0	
+TL	1649539	Travessa Uailia	residential	1	0	0	
+TL	1651810	Estrada Aileu - Ainaro	primary	1	0	0	
+TL	1651810	Estrada Ainaro - Cassa	primary	1	0	0	
+TL	1651810	residential	residential	1	0	0	
+TL	1651816	EStrada Jovka	unclassified	1	0	0	
+TL	1651816	Estrada Aileu - Ainaro	primary	1	0	0	
+TL	1651816	Estrada Aileu - Díli	primary	1	0	0	
+TL	1651816	Estrada Dili-Aileu (Sarlala)	primary	1	0	0	
+TL	1651816	Estrada Gleno - Aileu	secondary	1	0	0	
+TL	1651816	Ponte	unclassified	1	0	0	
+TL	1651816	Rimory	living_street	1	0	0	
+TL	1937274	Caminho	unclassified	1	0	0	
+TL	1937274	Estrada Baukau - Lospalos	primary	1	0	0	
+TL	1937274	Estrada Iliomar - Lospalos	tertiary	1	0	0	
+TL	1937274	Estrada Lospalos - Mehara - Tutuala	secondary	1	0	0	
+TL	1937274	Ponte	residential	1	0	0	
+TL	1942811	Dalan Korta ba Saharai	unclassified	1	0	0	
+TL	1942811	Diresaun Estrada ba Office Tilofe	unclassified	1	0	0	
+TL	1942811	Eraulo Chapel	unclassified	1	0	0	
+TL	1942811	Estrada Bazartete - Railaco	tertiary	1	0	0	
+TL	1942811	Estrada Díli - Gleno	primary	1	0	0	
+TL	1942811	Estrada Ermera - Fatubolu	unclassified	1	0	0	
+TL	1942811	Estrada Ermera - Gleno	tertiary	1	0	0	
+TL	1942811	Estrada Gleno - Letefoho	secondary	1	0	0	
+TL	1942811	Estrada Gleno - Maliana	secondary	1	0	0	
+TL	1942811	Estrada Kiik ba Fatin Manu Broiler	unclassified	1	0	0	
+TL	1942811	Ponte	residential	1	0	0	
+TL	1942811	Ponte Mota-hare	primary	1	0	0	
+TL	1942993	Estrada Lospalos - Malahara - Mehara	secondary	1	0	0	
+TL	1942993	Estrada Lospalos - Mehara - Tutuala	secondary	1	0	0	
+TL	1942993	Road Mehara Tutuala	tertiary	1	0	0	
+TL	1942993	Road Mehara Tutuala I	tertiary	1	0	0	
+TL	1942993	Road Mehara-Tutuala	secondary	1	0	0	
+TL	1943194	Dalan	residential	1	0	0	
+TL	1943194	Estrada Aileu - Díli	primary	1	0	0	
+TL	1943194	Estrada Dili-Aileu (Sarlala)	primary	1	0	0	
+TL	1943194	Rua De Foho-Manumeta Lau	residential	1	0	0	
+TL	1943194	Rua de Dare	residential	1	0	0	
+TL	1943235	Estada Uai-cana	unclassified	1	0	0	
+TL	1943235	Estrada ETV	residential	1	0	0	
+TL	1943235	Estrada Uai-cana	unclassified	1	0	0	
+TL	1943235	Estrada Venilale- Suco Uai-oli	unclassified	1	0	0	
+TL	1943235	Estrada Venilale-Ariana	unclassified	1	0	0	
+TL	1943235	Estrada Venilale-Triloka	tertiary	1	0	0	
+TL	1943235	Estrada Viqueque - Baucau	primary	1	0	0	
+TL	1945361	Rua de Luro	tertiary	17	0	0	
+TL	1945361	Rua de Cotamuto		4	0	0	
+TL	1945361	Rua de Baricafa	tertiary	2	0	0	
+TL	1945361	Rua de Vairoque		2	0	0	
+TL	1945361	Estrada Lospalos - Viqueque - Iliomar	primary	1	0	0	
+TL	1945361	Ponte Afabobo	tertiary	1	0	0	
+TL	1945361	Rua Abere	residential	1	0	0	
+TL	1945361	Rua Mahina II	residential	1	0	0	
+TL	1945361	Rua de Lacawa(Aldeia Boruwali).	residential	1	0	0	
+TL	1945361	Rua de Usuwasu	unclassified	1	0	0	
+TL	8629790	Beco de Fulolo	residential	1	0	0	
+TL	8629790	Beco de Keneno	residential	1	0	0	
+TL	8629790	Beco de Kolam Xina	unclassified	1	0	0	
+TL	8629790	Ponte Noefefan	secondary	1	0	0	
+TL	8629790	Ponte de Samoro	primary	1	0	0	
+TL	8629790	Ponte de Tlaka-Kaem	secondary	1	0	0	
+TL	8629790	Rotunda de Eno Pante-Macassar	primary	1	0	0	
+TL	8629790	Rua de Anin Alaban	residential	1	0	0	
+TL	8629790	Rua de Enf. Domingos da Costa Kiu Maunteko	residential	1	0	0	
+TL	8629790	Rua de Francisco Lelan	residential	1	0	0	
+TL	8629790	Rua de Francisco do Rosário Bet-Banae	residential	1	0	0	
+TL	8629790	Rua de Kolamboe	secondary	1	0	0	
+TL	8643023	Estrada Iliomar - Viqueque	primary	1	0	0	

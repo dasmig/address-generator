@@ -1,0 +1,2904 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+NI	3615669	1a Avenida NE	residential	1	0	0	
+NI	3615669	1a Avenida NO	residential	1	0	0	
+NI	3615669	1a Avenida SO	residential	1	0	0	
+NI	3615669	2a Avenida NE	residential	1	0	0	
+NI	3615669	2a Avenida SE	residential	1	0	0	
+NI	3615669	Avenida Central	residential	1	0	0	
+NI	3615683	14a Calle SE	residential	1	0	0	
+NI	3615683	1a Avenida SE	residential	1	0	0	
+NI	3615683	1a Calle SE	living_street	1	0	0	
+NI	3615683	1a Calle SO	tertiary	1	0	0	
+NI	3615683	22a Avenida NE	secondary	1	0	0	
+NI	3615683	23a Calle SE	secondary	1	0	0	
+NI	3615683	24a Calle SE	living_street	1	0	0	
+NI	3615683	25a Calle SE	living_street	1	0	0	
+NI	3615683	26a Calle SE	living_street	1	0	0	
+NI	3615683	2a Avenida NE	secondary	1	0	0	
+NI	3615683	2a Avenida SE	secondary	1	0	0	
+NI	3615683	2a Avenida SO	living_street	1	0	0	
+NI	3615683	2a Calle SE	secondary	1	0	0	
+NI	3615683	3a Avenida SE	secondary	1	0	0	
+NI	3615683	3a Avenida SO	tertiary	1	0	0	
+NI	3615683	3a Calle SE	residential	1	0	0	
+NI	3615683	3a Calle SO	residential	1	0	0	
+NI	3615683	4a Avenida SO	residential	1	0	0	
+NI	3615683	Avenida Central	living_street	1	0	0	
+NI	3615683	Calle Central	residential	1	0	0	
+NI	3615683	Carretera Las Praderas - Wiwilí de Jinotega	secondary	1	0	0	
+NI	3615683	Carretera Quilalí - Wiwilí	secondary	1	0	0	
+NI	3615683	Carretera Wiwilí - Plan de Grama	secondary	1	0	0	
+NI	3615683	Carretera Wiwilí de Jinotega - Wiwilí de Nueva Segovia	secondary	1	0	0	
+NI	3615730	Calle Aeropuerto	unclassified	1	0	0	
+NI	3615730	Calle Comercial	residential	1	0	0	
+NI	3615730	Calle Embarcadero	residential	1	0	0	
+NI	3615730	Calle Hospital	unclassified	1	0	0	
+NI	3615730	Calle INOS	unclassified	1	0	0	
+NI	3615730	Calle Palacio Municipal	residential	1	0	0	
+NI	3615730	Calle Parque Central	residential	1	0	0	
+NI	3615730	Calle San Rafael Arcángel	residential	1	0	0	
+NI	3615730	Calle Santa Inés	unclassified	1	0	0	
+NI	3615730	Calle URACCAN	residential	1	0	0	
+NI	3615730	Calle de la Pista	residential	1	0	0	
+NI	3615730	Calle del Cementerio	residential	1	0	0	
+NI	3615730	Calle del Estadio	residential	1	0	0	
+NI	3615730	Calle del Mercado	residential	1	0	0	
+NI	3615730	Carretera Kisalaya	unclassified	1	0	0	
+NI	3615730	NIC-73	unclassified	1	0	0	
+NI	3615730	Rotonda de Waspam	tertiary	1	0	0	
+NI	3615745	1a Avenida NO	residential	1	0	0	
+NI	3615745	2a Avenida NE	residential	1	0	0	
+NI	3615745	2a Calle NE	residential	1	0	0	
+NI	3615745	3a Avenida NE	residential	1	0	0	
+NI	3615745	6a Avenida SO	tertiary	1	0	0	
+NI	3615745	7a Calle SO	residential	1	0	0	
+NI	3615745	8a Calle SO	residential	1	0	0	
+NI	3615745	Avenida Central	residential	1	0	0	
+NI	3615745	Carretera Siuna - Waslala	secondary	1	0	0	
+NI	3615745	NIC-5	secondary	1	0	0	
+NI	3615813	1a Calle NE	residential	1	0	0	
+NI	3615813	2a Calle NO	tertiary	1	0	0	
+NI	3615813	3a Calle NO	residential	1	0	0	
+NI	3615813	4a Avenida NO	tertiary	1	0	0	
+NI	3615813	4a Calle NO	residential	1	0	0	
+NI	3615813	Calle Central	tertiary	1	0	0	
+NI	3615817	1a Avenida NE	residential	1	0	0	
+NI	3615817	1a Avenida NO	residential	1	0	0	
+NI	3615817	1a Avenida SE	residential	1	0	0	
+NI	3615817	1a Avenida SO	residential	1	0	0	
+NI	3615817	1a Calle SO	secondary	1	0	0	
+NI	3615817	2a Avenida NE	residential	1	0	0	
+NI	3615817	2a Avenida NO	residential	1	0	0	
+NI	3615817	2a Avenida SE	residential	1	0	0	
+NI	3615817	2a Avenida SO	residential	1	0	0	
+NI	3615817	3a Avenida NO	residential	1	0	0	
+NI	3615817	3a Avenida SE	residential	1	0	0	
+NI	3615817	3a Avenida SO	residential	1	0	0	
+NI	3615865	Carretera San Francisco Libre-Los Zarzales	secondary	1	0	0	
+NI	3615899	Camino La Ermita de Saraguasca	unclassified	1	0	0	
+NI	3615899	Carretera Las Lomas - La Ermita de Saraguasca	unclassified	1	0	0	
+NI	3615899	Carretera hacia San Gabriel	secondary	1	0	0	
+NI	3615998	1a Calle NE	residential	1	0	0	
+NI	3615998	1a Calle SO	residential	1	0	0	
+NI	3615998	2a Avenida SE	residential	1	0	0	
+NI	3615998	2a Calle NE	residential	1	0	0	
+NI	3615998	Avenida Central	residential	1	0	0	
+NI	3615998	Calle Central	residential	1	0	0	
+NI	3616010	10a Calle S	residential	1	0	0	
+NI	3616010	1a Avenida	unclassified	1	0	0	
+NI	3616010	1a Avenida SO	residential	1	0	0	
+NI	3616010	1a Calle NE	residential	1	0	0	
+NI	3616010	1a Calle S	unclassified	1	0	0	
+NI	3616010	2a Avenida	residential	1	0	0	
+NI	3616010	2a Calle N	tertiary	1	0	0	
+NI	3616010	2a Calle S	residential	1	0	0	
+NI	3616010	3a Avenida	unclassified	1	0	0	
+NI	3616010	3a Calle S	unclassified	1	0	0	
+NI	3616010	4a Calle S	unclassified	1	0	0	
+NI	3616010	5a Avenida SE	residential	1	0	0	
+NI	3616019	1a Avenida NE	residential	1	0	0	
+NI	3616019	1a Avenida NO	unclassified	1	0	0	
+NI	3616019	1a Avenida SE	residential	1	0	0	
+NI	3616019	1a Avenida SO	secondary	1	0	0	
+NI	3616019	1a Calle NE	residential	1	0	0	
+NI	3616019	1a Calle NO	residential	1	0	0	
+NI	3616019	1a Calle SE	residential	1	0	0	
+NI	3616019	1a Calle SO	residential	1	0	0	
+NI	3616019	2a Avenida NE	residential	1	0	0	
+NI	3616019	2a Avenida NO	residential	1	0	0	
+NI	3616019	2a Avenida SE	residential	1	0	0	
+NI	3616019	2a Avenida SO	residential	1	0	0	
+NI	3616028	1a Avenida NO	residential	1	0	0	
+NI	3616028	2a Avenida SO	residential	1	0	0	
+NI	3616028	2a Calle SE	living_street	1	0	0	
+NI	3616028	5a Calle SO	residential	1	0	0	
+NI	3616028	6a Calle SO	residential	1	0	0	
+NI	3616028	7a Calle SO	residential	1	0	0	
+NI	3616028	Calle Central	residential	1	0	0	
+NI	3616028	Carretera Masaya -Tisma	secondary	1	0	0	
+NI	3616028	Carretera Zambrano - Tisma	secondary	1	0	0	
+NI	3616028	NIC-27	secondary	1	0	0	
+NI	3616035	10a Avenida NE	residential	1	0	0	
+NI	3616035	10a Avenida SE	residential	1	0	0	
+NI	3616035	11a Avenida NE	residential	1	0	0	
+NI	3616035	11a Avenida SE	residential	1	0	0	
+NI	3616035	11a Calle SO	residential	1	0	0	
+NI	3616035	12a Avenida NE	residential	1	0	0	
+NI	3616035	12a Avenida SE	residential	1	0	0	
+NI	3616035	12a Calle SE	residential	1	0	0	
+NI	3616035	13a Avenida NE	residential	1	0	0	
+NI	3616035	13a Avenida SE	residential	1	0	0	
+NI	3616035	13a Calle SE	residential	1	0	0	
+NI	3616035	14a Avenida NE	residential	1	0	0	
+NI	3616035	14a Calle SE	residential	1	0	0	
+NI	3616035	14a Calle SO	residential	1	0	0	
+NI	3616035	14v	residential	1	0	0	
+NI	3616035	15a Avenida SE	residential	1	0	0	
+NI	3616035	16a Avenida NE	residential	1	0	0	
+NI	3616035	16a Calle SO	residential	1	0	0	
+NI	3616035	17a Avenida NE	residential	1	0	0	
+NI	3616035	17a Avenida SE	residential	1	0	0	
+NI	3616035	17a Calle SE	residential	1	0	0	
+NI	3616035	17a Calle SO	residential	1	0	0	
+NI	3616035	18a Avenida NE	residential	1	0	0	
+NI	3616035	18a Avenida SE	residential	1	0	0	
+NI	3616035	18a Calle SO	residential	1	0	0	
+NI	3616035	19a Calle SE	residential	1	0	0	
+NI	3616035	1a Avenida NE	tertiary	1	0	0	
+NI	3616035	1a Avenida NO	tertiary	1	0	0	
+NI	3616035	1a Avenida SE	residential	1	0	0	
+NI	3616035	1a Avenida SO	tertiary	1	0	0	
+NI	3616035	1a Calle NE	residential	1	0	0	
+NI	3616035	1a Calle NO	residential	1	0	0	
+NI	3616035	1a Calle SE	residential	1	0	0	
+NI	3616035	1a Calle SO	residential	1	0	0	
+NI	3616035	21a Calle SE	residential	1	0	0	
+NI	3616035	22a Calle SE	residential	1	0	0	
+NI	3616035	23a Calle SE	residential	1	0	0	
+NI	3616035	24a Calle SE	residential	1	0	0	
+NI	3616035	27a Calle SO	residential	1	0	0	
+NI	3616035	28a Calle SE	residential	1	0	0	
+NI	3616035	28a Calle SO	residential	1	0	0	
+NI	3616035	2a Avenida NE	residential	1	0	0	
+NI	3616035	2a Avenida SE	residential	1	0	0	
+NI	3616035	2a Avenida SO	residential	1	0	0	
+NI	3616035	2a Calle NE	residential	1	0	0	
+NI	3616035	2a Calle NO	residential	1	0	0	
+NI	3616035	2a Calle SE	residential	1	0	0	
+NI	3616035	2a Calle SO	residential	1	0	0	
+NI	3616035	3020a Calle SO	residential	1	0	0	
+NI	3616035	30a Calle SE	residential	1	0	0	
+NI	3616035	37a Calle SO	residential	1	0	0	
+NI	3616035	3a Avenida NE	residential	1	0	0	
+NI	3616035	3a Avenida SE	residential	1	0	0	
+NI	3616035	3a Avenida SO	residential	1	0	0	
+NI	3616035	3a Calle NE	residential	1	0	0	
+NI	3616035	3a Calle NO	residential	1	0	0	
+NI	3616035	3a Calle SE	residential	1	0	0	
+NI	3616035	3v	residential	1	0	0	
+NI	3616035	4a Avenida NE	residential	1	0	0	
+NI	3616035	4a Avenida SE	residential	1	0	0	
+NI	3616035	4a Avenida SO	residential	1	0	0	
+NI	3616035	4a Calle NE	residential	1	0	0	
+NI	3616035	4a Calle NO	residential	1	0	0	
+NI	3616035	4a Calle SO	residential	1	0	0	
+NI	3616035	53a Calle NE	residential	1	0	0	
+NI	3616035	5a Avenida NE	residential	1	0	0	
+NI	3616035	5a Avenida SO	residential	1	0	0	
+NI	3616035	5a Calle NE	residential	1	0	0	
+NI	3616035	5a Calle SO	residential	1	0	0	
+NI	3616035	6a Avenida NE	residential	1	0	0	
+NI	3616035	6a Avenida SE	residential	1	0	0	
+NI	3616035	6a Avenida SO	residential	1	0	0	
+NI	3616035	6a Calle NE	residential	1	0	0	
+NI	3616035	7a Avenida NE	residential	1	0	0	
+NI	3616035	7a Avenida SE	residential	1	0	0	
+NI	3616035	7a Avenida SO	residential	1	0	0	
+NI	3616035	8a Avenida SE	residential	1	0	0	
+NI	3616035	8a Calle SO	residential	1	0	0	
+NI	3616035	9a Avenida SE	residential	1	0	0	
+NI	3616035	9a Calle SO	residential	1	0	0	
+NI	3616035	Calle Barrio César Vásquez	residential	1	0	0	
+NI	3616035	Calle Central	residential	1	0	0	
+NI	3616035	Camino de la Mocuana	residential	1	0	0	
+NI	3616035	Carretera La Carbonera	tertiary	1	0	0	
+NI	3616035	Carretera Las Mercedes - Coyotepe	primary	1	0	0	
+NI	3616035	Carretera San Judas	tertiary	1	0	0	
+NI	3616035	Carretera a Victoria de Julio	secondary	1	0	0	
+NI	3616035	NN-151	tertiary	1	0	0	
+NI	3616035	Rotonda México	residential	1	0	0	
+NI	3616064	Calle Momotombo	residential	2	3	46	
+NI	3616064	Carretera a Ticuantepe	secondary	2	0	0	
+NI	3616064	Carretera a Veracruz	secondary	2	1	28	
+NI	3616064	1a Calle S.E.	unclassified	1	0	0	
+NI	3616064	2a Calle N.E.	residential	1	0	0	
+NI	3616064	3a Avenida S.O.	residential	1	0	0	
+NI	3616064	4a Avenida N.O.	residential	1	0	0	
+NI	3616064	4a Avenida S.O.	residential	1	0	0	
+NI	3616064	5a Avenida N.O.	residential	1	0	0	
+NI	3616064	5ta calle	residential	1	0	0	
+NI	3616064	6a Avenida N.O.	unclassified	1	0	0	
+NI	3616064	7a Avenida N.O.	unclassified	1	0	0	
+NI	3616064	7a Avenida S.O.	residential	1	0	0	
+NI	3616064	8a Avenida N.O.	residential	1	0	0	
+NI	3616064	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3616064	Avenida Central	residential	1	0	0	
+NI	3616064	Avenida Marruecos	residential	1	0	0	
+NI	3616064	Avenida Mediterraneo	residential	1	0	0	
+NI	3616064	Avenida Primera	residential	1	0	0	
+NI	3616064	Avenida Roosvelt	residential	1	0	0	
+NI	3616064	Avenida Segunda	residential	1	0	0	
+NI	3616064	Calle	residential	1	0	0	
+NI	3616064	Calle 1	residential	1	0	0	
+NI	3616064	Calle 10	residential	1	0	0	
+NI	3616070	1a Avenida SO	residential	1	0	0	
+NI	3616070	2a Avenida NE	secondary	1	0	0	
+NI	3616070	2a Calle SE	residential	1	0	0	
+NI	3616070	3a Calle SO	residential	1	0	0	
+NI	3616070	5a Avenida NO	living_street	1	0	0	
+NI	3616070	Avenida Central	residential	1	0	0	
+NI	3616070	Calle 1	residential	1	0	0	
+NI	3616070	Calle 2	residential	1	0	0	
+NI	3616070	Calle Interceptada Py B	residential	1	0	0	
+NI	3616070	Calle compactada al Instituto Laurelee Scheideman	residential	1	0	0	
+NI	3616070	Carretera a Boaco	primary	1	0	0	
+NI	3616070	NIC-47	tertiary	1	0	0	
+NI	3616076	Avenida Central	residential	1	0	0	
+NI	3616076	Calle Jorge Navarro	residential	1	0	0	
+NI	3616076	NIC-47	tertiary	1	0	0	
+NI	3616088	1a Avenida SE	residential	1	0	0	
+NI	3616088	1a Calle NO	tertiary	1	0	0	
+NI	3616088	2a Avenida SO	residential	1	0	0	
+NI	3616088	2a Calle SE	residential	1	0	0	
+NI	3616088	2a Calle SO	residential	1	0	0	
+NI	3616088	Avenida Central	residential	1	0	0	
+NI	3616088	Calle Central	residential	1	0	0	
+NI	3616088	NIC-51	secondary	1	0	0	
+NI	3616092	1a Calle SO	residential	1	0	0	
+NI	3616092	2a Avenida NE	tertiary	1	0	0	
+NI	3616092	2a Calle NO	residential	1	0	0	
+NI	3616092	2a Calle SO	residential	1	0	0	
+NI	3616092	3a Avenida NE	residential	1	0	0	
+NI	3616092	3a Avenida SE	residential	1	0	0	
+NI	3616092	3a Calle SO	residential	1	0	0	
+NI	3616092	5a Avenida NE	residential	1	0	0	
+NI	3616092	5a Avenida SO	residential	1	0	0	
+NI	3616092	Avenida Central	residential	1	0	0	
+NI	3616092	Calle Central	tertiary	1	0	0	
+NI	3616092	Carretera Telica - San Isidro	primary	1	0	0	
+NI	3616092	NIC-56	secondary	1	0	0	
+NI	3616232	Avenida 1 Este	secondary	1	0	0	
+NI	3616232	Avenida 1 Oeste	residential	1	0	0	
+NI	3616232	Avenida 1 Sur	residential	1	0	0	
+NI	3616232	Avenida 10 Este	residential	1	0	0	
+NI	3616232	Avenida 11 Este	residential	1	0	0	
+NI	3616232	Avenida 13 Este	residential	1	0	0	
+NI	3616232	Avenida 15 Este	residential	1	0	0	
+NI	3616232	Avenida 2 Este	residential	1	0	0	
+NI	3616232	Avenida 2 Oeste	residential	1	0	0	
+NI	3616232	Avenida 3 Este	residential	1	0	0	
+NI	3616232	Avenida 3 Oeste	residential	1	0	0	
+NI	3616232	Avenida 4 Este	residential	1	0	0	
+NI	3616232	Avenida 4 Oeste	residential	1	0	0	
+NI	3616232	Avenida 5 Este	residential	1	0	0	
+NI	3616232	Avenida 5 Oeste	residential	1	0	0	
+NI	3616232	Avenida 6 Este	residential	1	0	0	
+NI	3616232	Avenida 6 Oeste	residential	1	0	0	
+NI	3616232	Avenida 7 Este	residential	1	0	0	
+NI	3616232	Avenida 8 Este	residential	1	0	0	
+NI	3616232	Avenida 9 Este	residential	1	0	0	
+NI	3616232	Avenida Central	secondary	1	0	0	
+NI	3616232	Calle 1 Norte	residential	1	0	0	
+NI	3616232	Calle 1 Sur	residential	1	0	0	
+NI	3616232	Calle 10 Sur	residential	1	0	0	
+NI	3616232	Calle 11 Sur	residential	1	0	0	
+NI	3616232	Calle 12 Sur	residential	1	0	0	
+NI	3616232	Calle 2 Norte	residential	1	0	0	
+NI	3616232	Calle 2 Sur	residential	1	0	0	
+NI	3616232	Calle 3 Norte	residential	1	0	0	
+NI	3616232	Calle 3 Sur	residential	1	0	0	
+NI	3616232	Calle 4 Norte	residential	1	0	0	
+NI	3616232	Calle 4 Sur	residential	1	0	0	
+NI	3616232	Calle 5 Norte	residential	1	0	0	
+NI	3616232	Calle 5 Sur	residential	1	0	0	
+NI	3616232	Calle 6 Sur	residential	1	0	0	
+NI	3616232	Calle 7 Norte	unclassified	1	0	0	
+NI	3616232	Calle 7 Sur	residential	1	0	0	
+NI	3616232	Calle 8 Sur	residential	1	0	0	
+NI	3616232	Calle 9 Sur	residential	1	0	0	
+NI	3616232	Calle Central	residential	1	0	0	
+NI	3616232	Carretera Somoto - San Lucas	secondary	1	0	0	
+NI	3616234	1a Calle N	residential	1	0	0	
+NI	3616234	1a Calle NO	residential	1	0	0	
+NI	3616234	1a Calle S	residential	1	0	0	
+NI	3616234	2a Calle NE	residential	1	0	0	
+NI	3616234	3a Calle NE	residential	1	0	0	
+NI	3616234	4a Avenida SE	residential	1	0	0	
+NI	3616234	4a Calle N	residential	1	0	0	
+NI	3616234	5a Avenida NE	residential	1	0	0	
+NI	3616234	5a Avenida NO	residential	1	0	0	
+NI	3616234	Avenida Central	residential	1	0	0	
+NI	3616234	Calle Central	residential	1	0	0	
+NI	3616234	Carretera Somotillo - San Juan de Limay	secondary	1	0	0	
+NI	3616253	Carretera Siuna - Waslala	secondary	1	0	0	
+NI	3616253	Entrada al Cerro Potosi	unclassified	1	0	0	
+NI	3616253	Entrada al Mined y Iprlb	residential	1	0	0	
+NI	3616253	NIC-21B	secondary	1	0	0	
+NI	3616253	NIC-5	secondary	1	0	0	
+NI	3616311	10a Avenida NO	residential	1	0	0	
+NI	3616311	10a Calle NO	residential	1	0	0	
+NI	3616311	11a Avenida NE	residential	1	0	0	
+NI	3616311	11a Avenida NO	residential	1	0	0	
+NI	3616311	11a Calle NO	residential	1	0	0	
+NI	3616311	12a Avenida NE	residential	1	0	0	
+NI	3616311	12a Avenida NO	residential	1	0	0	
+NI	3616311	12a Calle NO	residential	1	0	0	
+NI	3616311	13a Calle NO	residential	1	0	0	
+NI	3616311	14a Avenida NO	residential	1	0	0	
+NI	3616311	15a Avenida NO	residential	1	0	0	
+NI	3616311	15a Calle NE	residential	1	0	0	
+NI	3616346	Carretera Somotillo - San Juan de Limay	secondary	1	0	0	
+NI	3616349	1a Avenida SE	residential	1	0	0	
+NI	3616349	1a Avenida SO	residential	1	0	0	
+NI	3616349	1a Calle NO	residential	1	0	0	
+NI	3616349	1a Calle SO	residential	1	0	0	
+NI	3616349	2a Calle NE	residential	1	0	0	
+NI	3616349	2a Calle NO	residential	1	0	0	
+NI	3616349	2da Avenida SO	residential	1	0	0	
+NI	3616349	3a Avenida NO	residential	1	0	0	
+NI	3616349	3a Calle NO	residential	1	0	0	
+NI	3616349	4a Avenida NE	residential	1	0	0	
+NI	3616349	5a Avenida NE	residential	1	0	0	
+NI	3616349	5a Calle SO	residential	1	0	0	
+NI	3616349	6a Avenida NE	residential	1	0	0	
+NI	3616349	6a Avenida NO	residential	1	0	0	
+NI	3616349	6a Avenida SO	residential	1	0	0	
+NI	3616349	6a Calle SO	residential	1	0	0	
+NI	3616349	7a Avenida NO	residential	1	0	0	
+NI	3616349	7a Calle SE	residential	1	0	0	
+NI	3616349	8a Avenida NO	residential	1	0	0	
+NI	3616349	8a Avenida SO	residential	1	0	0	
+NI	3616349	8a Calle SE	residential	1	0	0	
+NI	3616349	Bahia de Autobuses	unclassified	1	0	0	
+NI	3616349	Calle Central	residential	1	0	0	
+NI	3616349	NIC-23A	secondary	1	0	0	
+NI	3616356	1a Avenida NE	residential	1	0	0	
+NI	3616356	1a Calle NE	unclassified	1	0	0	
+NI	3616356	1a Calle SO	residential	1	0	0	
+NI	3616356	2a Avenida NE	unclassified	1	0	0	
+NI	3616356	2a Avenida NO	residential	1	0	0	
+NI	3616356	2a Calle SO	residential	1	0	0	
+NI	3616356	3a Avenida NE	unclassified	1	0	0	
+NI	3616356	4a Avenida NE	unclassified	1	0	0	
+NI	3616356	Avenida Central	residential	1	0	0	
+NI	3616356	NIC-23B	secondary	1	0	0	
+NI	3616380	1a Avenida	residential	1	0	0	
+NI	3616380	1a Avenida NE	residential	1	0	0	
+NI	3616380	1a Avenida SE	residential	1	0	0	
+NI	3616380	1a Calle	residential	1	0	0	
+NI	3616380	2a Avenida	residential	1	0	0	
+NI	3616380	2a Avenida NE	residential	1	0	0	
+NI	3616380	2a Calle	residential	1	0	0	
+NI	3616380	3a Avenida	tertiary	1	0	0	
+NI	3616380	3a Calle	residential	1	0	0	
+NI	3616380	4a Avenida	residential	1	0	0	
+NI	3616380	4a Avenida NE	residential	1	0	0	
+NI	3616380	4a Avenida SE	residential	1	0	0	
+NI	3616387	1a Calle SE	residential	1	0	0	
+NI	3616387	1a Calle SO	residential	1	0	0	
+NI	3616387	2a Calle NO	residential	1	0	0	
+NI	3616387	3a Avenida NO	residential	1	0	0	
+NI	3616387	4a Avenida NO	residential	1	0	0	
+NI	3616387	Avenida Central	residential	1	0	0	
+NI	3616387	Calle Central	residential	1	0	0	
+NI	3616387	NIC-35C	secondary	1	0	0	
+NI	3616441	1a Calle NO	residential	1	0	0	
+NI	3616441	2a Avenida SO	residential	1	0	0	
+NI	3616441	Calle Central	residential	1	0	0	
+NI	3616441	NIC-53	secondary	1	0	0	
+NI	3616459	1a Calle NE	unclassified	1	0	0	
+NI	3616459	1a Calle NO	unclassified	1	0	0	
+NI	3616459	1a Calle SE	unclassified	1	0	0	
+NI	3616459	1a Calle SO	unclassified	1	0	0	
+NI	3616459	2a Calle NE	unclassified	1	0	0	
+NI	3616459	2a Calle NO	unclassified	1	0	0	
+NI	3616459	2a Calle SO	unclassified	1	0	0	
+NI	3616459	Avenida Central	unclassified	1	0	0	
+NI	3616459	Calle Central	unclassified	1	0	0	
+NI	3616459	Carretera a Los Álvarez	living_street	1	0	0	
+NI	3616459	NIC-47	tertiary	1	0	0	
+NI	3616459	NIC-59	secondary	1	0	0	
+NI	3616572	1a Avenida NE	secondary	1	0	0	
+NI	3616572	1a AvenidaNO	residential	1	0	0	
+NI	3616572	1a Calle NO	residential	1	0	0	
+NI	3616572	1a Calle SE	residential	1	0	0	
+NI	3616572	1a Calle SO	residential	1	0	0	
+NI	3616572	2a Avenida NO	residential	1	0	0	
+NI	3616572	2a Avenida SE	residential	1	0	0	
+NI	3616572	2a Avenida SO	residential	1	0	0	
+NI	3616572	2a Calle NO	residential	1	0	0	
+NI	3616572	2a Calle SO	residential	1	0	0	
+NI	3616572	3a Avenida NE	residential	1	0	0	
+NI	3616572	3a Avenida NO	residential	1	0	0	
+NI	3616584	1a Calle NO	living_street	1	0	0	
+NI	3616584	2a Calle NO	living_street	1	0	0	
+NI	3616584	2a Calle SO	residential	1	0	0	
+NI	3616584	3a Avenida NO	living_street	1	0	0	
+NI	3616584	Avenida Central	residential	1	0	0	
+NI	3616584	Calle Cerntral	residential	1	0	0	
+NI	3616584	NIC-19	secondary	1	0	0	
+NI	3616584	NIC-33	tertiary	1	0	0	
+NI	3616584	NIC-9	secondary	1	0	0	
+NI	3616594	10a Calle SO	residential	1	0	0	
+NI	3616594	11 Avenida NE	residential	1	0	0	
+NI	3616594	11 Avenida SO	residential	1	0	0	
+NI	3616594	12a Avenida SE	residential	1	0	0	
+NI	3616594	12a Avenida SO	residential	1	0	0	
+NI	3616594	13a Avenida SE	residential	1	0	0	
+NI	3616594	14a Avenida NE	residential	1	0	0	
+NI	3616594	1a Avenida NO	residential	1	0	0	
+NI	3616594	2a Avenida NE	residential	1	0	0	
+NI	3616594	2a Avenida SO	residential	1	0	0	
+NI	3616594	3a Avenida NE	residential	1	0	0	
+NI	3616594	3a Avenida SO	residential	1	0	0	
+NI	3616594	4a Avenida NE	residential	1	0	0	
+NI	3616594	4a Avenida NO	residential	1	0	0	
+NI	3616594	4a Calle SE	residential	1	0	0	
+NI	3616594	5a Avenida NE	residential	1	0	0	
+NI	3616594	6a Avenida SO	residential	1	0	0	
+NI	3616594	7a Avenida NE	residential	1	0	0	
+NI	3616594	7a Avenida SO	residential	1	0	0	
+NI	3616594	8a Avenida SO	residential	1	0	0	
+NI	3616594	9a Avenida SO	residential	1	0	0	
+NI	3616594	Avenida Central	residential	1	0	0	
+NI	3616594	Carretera Las Conchitas - Pochomil	primary	1	0	0	
+NI	3616594	Carretera San Rafael del Sur - La Trinidad	tertiary	1	0	0	
+NI	3616594	NIC-10	primary	1	0	0	
+NI	3616594	NIC-34A	tertiary	1	0	0	
+NI	3616594	Puente La Cementera	primary	1	0	0	
+NI	3616597	1a Avenida NE	tertiary	1	0	0	
+NI	3616597	1a Avenida NO	residential	1	0	0	
+NI	3616597	1a Avenida SE	tertiary	1	0	0	
+NI	3616597	1a Avenida SO	residential	1	0	0	
+NI	3616597	1a Calle NE	residential	1	0	0	
+NI	3616597	1a Calle NO	residential	1	0	0	
+NI	3616597	1a Calle SE	residential	1	0	0	
+NI	3616597	1a Calle SO	unclassified	1	0	0	
+NI	3616597	2a Avenida NE	residential	1	0	0	
+NI	3616597	2a Avenida SE	residential	1	0	0	
+NI	3616597	2a Calle NE	residential	1	0	0	
+NI	3616597	2a Calle NO	residential	1	0	0	
+NI	3616597	2a Calle SE	residential	1	0	0	
+NI	3616597	3a Calle NE	residential	1	0	0	
+NI	3616597	3a Calle NO	residential	1	0	0	
+NI	3616597	3a Calle SE	residential	1	0	0	
+NI	3616597	4a Calle NE	tertiary	1	0	0	
+NI	3616597	4a Calle NO	residential	1	0	0	
+NI	3616597	4a Calle SE	residential	1	0	0	
+NI	3616597	5a Calle SE	residential	1	0	0	
+NI	3616597	6a Calle SE	residential	1	0	0	
+NI	3616597	7a Calle SE	residential	1	0	0	
+NI	3616597	8a Calle SE	residential	1	0	0	
+NI	3616597	9a Calle SE	tertiary	1	0	0	
+NI	3616609	10a Avenida NE	residential	1	0	0	
+NI	3616609	1a Avenida NE	residential	1	0	0	
+NI	3616609	1a Calle NE	residential	1	0	0	
+NI	3616609	2a Calle NE	residential	1	0	0	
+NI	3616609	5a Avenida NE	residential	1	0	0	
+NI	3616609	5a Calle NE	residential	1	0	0	
+NI	3616609	5a Calle NO	residential	1	0	0	
+NI	3616609	6a Avenida NE	residential	1	0	0	
+NI	3616609	7a Avenida NE	residential	1	0	0	
+NI	3616609	8a Avenida NE	residential	1	0	0	
+NI	3616609	8a Avenida SE	residential	1	0	0	
+NI	3616609	9a Avenida NE	residential	1	0	0	
+NI	3616611	1a Calle	residential	1	0	0	
+NI	3616611	Avenida Central	secondary	1	0	0	
+NI	3616611	Carretera Cinco Pinos - San Pedro del Norte	secondary	1	0	0	
+NI	3616649	1a Avenida NO	residential	1	0	0	
+NI	3616649	1a Avenida SO	residential	1	0	0	
+NI	3616649	1a Calle SO	residential	1	0	0	
+NI	3616649	4a Calle SO	residential	1	0	0	
+NI	3616649	Avenida Central	residential	1	0	0	
+NI	3616649	Calle Central	residential	1	0	0	
+NI	3616649	NN-35A	tertiary	1	0	0	
+NI	3616649	NN-45	secondary	1	0	0	
+NI	3616659	NIC-67	secondary	1	0	0	
+NI	3616659	Nicaragua 25	primary	1	0	0	
+NI	3616682	10a Avenida SE	residential	1	0	0	
+NI	3616682	10a Avenida SO	residential	1	0	0	
+NI	3616682	10a Calle SO	residential	1	0	0	
+NI	3616682	11a Avenida SO	residential	1	0	0	
+NI	3616682	11a Calle SE	residential	1	0	0	
+NI	3616682	11a Calle SO	residential	1	0	0	
+NI	3616682	12a Avenida SO	residential	1	0	0	
+NI	3616682	12a Calle SE	residential	1	0	0	
+NI	3616682	13a Avenida SO	residential	1	0	0	
+NI	3616682	13a Calle SE	residential	1	0	0	
+NI	3616682	13a Calle SO	residential	1	0	0	
+NI	3616682	14a Avenida SO	residential	1	0	0	
+NI	3616682	14a Calle SO	residential	1	0	0	
+NI	3616682	15a Calle SE	residential	1	0	0	
+NI	3616682	15a Calle SO	residential	1	0	0	
+NI	3616682	16a Avenida SE	residential	1	0	0	
+NI	3616682	16a Calle SO	residential	1	0	0	
+NI	3616682	17a Calle SO	residential	1	0	0	
+NI	3616682	1a Avenida NE	secondary	1	0	0	
+NI	3616682	1a Avenida NO	residential	1	0	0	
+NI	3616682	1a Avenida SE	secondary	1	0	0	
+NI	3616682	1a Avenida SO	residential	1	0	0	
+NI	3616682	1a Calle NE	residential	1	0	0	
+NI	3616682	1a Calle NO	residential	1	0	0	
+NI	3616682	1a Calle SE	residential	1	0	0	
+NI	3616682	1a Calle SO	residential	1	0	0	
+NI	3616682	2a Avenida NE	residential	1	0	0	
+NI	3616682	2a Avenida NO	residential	1	0	0	
+NI	3616682	2a Avenida SE	residential	1	0	0	
+NI	3616682	2a Avenida SO	residential	1	0	0	
+NI	3616682	2a Calle NE	residential	1	0	0	
+NI	3616682	2a Calle NO	residential	1	0	0	
+NI	3616682	2a Calle SE	residential	1	0	0	
+NI	3616682	2a Calle SO	residential	1	0	0	
+NI	3616682	3a Avenida NE	residential	1	0	0	
+NI	3616682	3a Avenida NO	residential	1	0	0	
+NI	3616682	3a Avenida SE	residential	1	0	0	
+NI	3616682	3a Avenida SO	residential	1	0	0	
+NI	3616682	3a Calle NE	residential	1	0	0	
+NI	3616682	3a Calle SE	residential	1	0	0	
+NI	3616682	3a Calle SO	residential	1	0	0	
+NI	3616682	3a CalleNO	unclassified	1	0	0	
+NI	3616682	4a Avenida NE	residential	1	0	0	
+NI	3616682	4a Avenida NO	residential	1	0	0	
+NI	3616682	4a Avenida SE	residential	1	0	0	
+NI	3616682	4a Calle NO	unclassified	1	0	0	
+NI	3616682	4a Calle SE	residential	1	0	0	
+NI	3616682	5a Calle SE	tertiary	1	0	0	
+NI	3616700	1a Calle NO	residential	1	0	0	
+NI	3616700	1a Calle SO	residential	1	0	0	
+NI	3616700	2a Avenida NO	residential	1	0	0	
+NI	3616700	2a Avenida SO	residential	1	0	0	
+NI	3616700	2a Calle NO	residential	1	0	0	
+NI	3616700	2a Calle SE	unclassified	1	0	0	
+NI	3616700	3a Calle NO	residential	1	0	0	
+NI	3616700	Avenida Central	residential	1	0	0	
+NI	3616700	Calle Central	residential	1	0	0	
+NI	3616700	Carretera San Lucas - Las Sabanas	secondary	1	0	0	
+NI	3616700	Carretera Somoto - San Lucas	secondary	1	0	0	
+NI	3616708	1a Calle NO	residential	1	0	0	
+NI	3616708	2a Avenida SO	residential	1	0	0	
+NI	3616708	3a Avenida SO	residential	1	0	0	
+NI	3616708	6a Avenida NO	residential	1	0	0	
+NI	3616708	8a Avenida NO	residential	1	0	0	
+NI	3616708	Calle Central	secondary	1	0	0	
+NI	3616708	NN-102	tertiary	1	0	0	
+NI	3616721	1a Avenida NE	residential	1	0	0	
+NI	3616721	1a Avenida SE	residential	1	0	0	
+NI	3616721	1a Calle NO	secondary	1	0	0	
+NI	3616721	1a Calle SE	residential	1	0	0	
+NI	3616721	1a Calle SO	residential	1	0	0	
+NI	3616721	NIC-51	secondary	1	0	0	
+NI	3616721	San_Juan_del_Río_Coco-El_Jícaro	tertiary	1	0	0	
+NI	3616723	1a Avenida SO	residential	1	0	0	
+NI	3616723	1a Calle SO	residential	1	0	0	
+NI	3616723	2a Avenida SE	residential	1	0	0	
+NI	3616723	3a Calle SE	residential	1	0	0	
+NI	3616723	Avenida Central	residential	1	0	0	
+NI	3616726	Avenida Real	residential	2	75	75	
+NI	3616726	Avenida Central	residential	1	0	0	
+NI	3616726	Avenida El Calvario	residential	1	0	0	
+NI	3616726	Avenida El Estudiante	residential	1	0	0	
+NI	3616726	Avenida El Pargo	residential	1	0	0	
+NI	3616726	Avenida Gaspar García	residential	1	0	0	
+NI	3616726	Avenida Río Escondido	residential	1	0	0	
+NI	3616726	Avenida Vandervilt	residential	1	0	0	
+NI	3616726	Avenida del Rastro	residential	1	0	0	
+NI	3616726	Ca Costanzo	unclassified	1	0	0	
+NI	3616726	Calle Barlovento	residential	1	0	0	
+NI	3616726	Calle Central	residential	1	0	0	
+NI	3616726	Calle El Albañil	primary	1	0	0	
+NI	3616726	Calle El Dorado	residential	1	0	0	
+NI	3616726	Calle El Tropezón	primary	1	0	0	
+NI	3616726	Calle Hugo Medina	residential	1	0	0	
+NI	3616726	Calle La Chocolata	tertiary	1	0	0	
+NI	3616726	Calle Los Trapistos	residential	1	0	0	
+NI	3616726	Calle Pedro Joaquín Chamorro	residential	1	0	0	
+NI	3616726	Calle Real	tertiary	1	0	0	
+NI	3616726	Calle Río Escondido	residential	1	0	0	
+NI	3616726	Calle Sotavento	residential	1	0	0	
+NI	3616726	Calle Vandervilt	residential	1	0	0	
+NI	3616726	Callejon del Cable	residential	1	0	0	
+NI	3616732	1a Avenida SO	residential	1	0	0	
+NI	3616732	1a Calle NE	residential	1	0	0	
+NI	3616732	1a Calle NO	residential	1	0	0	
+NI	3616732	3a Avenida NE	residential	1	0	0	
+NI	3616732	6a Calle SE	residential	1	0	0	
+NI	3616732	9a Calle SO	residential	1	0	0	
+NI	3616732	Avenida Central	residential	1	0	0	
+NI	3616732	Calle Central	residential	1	0	0	
+NI	3616732	Carretera El Sauce - San Juan de Limay	secondary	1	0	0	
+NI	3616732	Carretera San Juan de Limay - Pueblo Nuevo	secondary	1	0	0	
+NI	3616732	Carretera Santa Cruz - La Esperanza	tertiary	1	0	0	
+NI	3616732	Carretera Somotillo - San Juan de Limay	secondary	1	0	0	
+NI	3616753	1a Calle NO	residential	1	0	0	
+NI	3616753	Avenida Central	secondary	1	0	0	
+NI	3616753	Carretera a Esquipulas	secondary	1	0	0	
+NI	3616753	NN-80	secondary	1	0	0	
+NI	3616753	NN-83	tertiary	1	0	0	
+NI	3616757	Avenida Central	residential	1	0	0	
+NI	3616757	Calle Central	residential	1	0	0	
+NI	3616757	Carretera Las Sabanas - San José de Cusmapa	secondary	1	0	0	
+NI	3616759	1a Avenida NE	secondary	1	0	0	
+NI	3616759	1a Avenida SE	secondary	1	0	0	
+NI	3616759	1a Avenida SO	secondary	1	0	0	
+NI	3616759	1a Calle SE	secondary	1	0	0	
+NI	3616759	2a Avenida NO	residential	1	0	0	
+NI	3616759	2a Avenida SE	residential	1	0	0	
+NI	3616759	3a Calle SO	secondary	1	0	0	
+NI	3616759	Avenida Central	residential	1	0	0	
+NI	3616759	Calle Central	residential	1	0	0	
+NI	3616759	Carretera Bocay - Ayapal	secondary	1	0	0	
+NI	3616759	Carretera El Cua - Bocay	secondary	1	0	0	
+NI	3616759	Carretera hacia Plan de Grama	tertiary	1	0	0	
+NI	3616794	Puerto Lacustre		2	0	0	
+NI	3616794	1era Calle NO	residential	1	0	0	
+NI	3616794	3era Calle NO	residential	1	0	0	
+NI	3616794	4ta Calle NO	residential	1	0	0	
+NI	3616794	4ta Calle SO	residential	1	0	0	
+NI	3616794	5ta Avenida NO	residential	1	0	0	
+NI	3616794	5ta Avenida SO	residential	1	0	0	
+NI	3616794	5ta Calle NE	residential	1	0	0	
+NI	3616794	5ta Calle NO	residential	1	0	0	
+NI	3616794	6ta Avenida NO	residential	1	0	0	
+NI	3616794	Avenida Central	residential	1	0	0	
+NI	3616794	Avenida Santa Carlota	residential	1	0	0	
+NI	3616794	Calle Donald Avilés	residential	1	0	0	
+NI	3616794	Calle Real	secondary	1	0	0	
+NI	3616794	Calle del Lago	secondary	1	0	0	
+NI	3616794	Carretera Fondación López Carazo - Buenos Aires	tertiary	1	0	0	
+NI	3616794	Terminal 2	residential	1	0	0	
+NI	3616818	4a Avenida NO	residential	1	0	0	
+NI	3616818	4a Calle SE	residential	1	0	0	
+NI	3616818	5a Calle SE	residential	1	0	0	
+NI	3616818	Avenida Central	residential	1	0	0	
+NI	3616818	Calle Central	residential	1	0	0	
+NI	3616818	Carretera Telica - San Isidro	primary	1	0	0	
+NI	3616848	4a Calle NE	residential	1	0	0	
+NI	3616848	Avenida Central	residential	1	0	0	
+NI	3616848	San Francisco Libre	residential	1	0	0	
+NI	3616852	2a Calle SO	residential	1	0	0	
+NI	3616852	Carretera Somotillo - San Juan de Limay	secondary	1	0	0	
+NI	3616852	Quebrada El Panteón	tertiary	1	0	0	
+NI	3616871	NIC-29	secondary	1	0	0	
+NI	3616871	NN-13	tertiary	1	0	0	
+NI	3616888	2a Calle SE	residential	1	0	0	
+NI	3616888	3a Calle NO	residential	1	0	0	
+NI	3616888	3a Calle SE	residential	1	0	0	
+NI	3616888	Avenida Central	residential	1	0	0	
+NI	3616888	Calle Central	residential	1	0	0	
+NI	3616888	NIC-19	secondary	1	0	0	
+NI	3616888	San Dionisio	residential	1	0	0	
+NI	3616911	12a Avenida Oeste	residential	1	0	0	
+NI	3616911	13a Avenida Oeste	residential	1	0	0	
+NI	3616911	1a Avenida Este	residential	1	0	0	
+NI	3616911	1a Avenida Oeste	primary	1	0	0	
+NI	3616911	1a Calle Sur	residential	1	0	0	
+NI	3616911	2a Avenida Este	residential	1	0	0	
+NI	3616911	2a Calle Sur	residential	1	0	0	
+NI	3616911	3a Avenida Este	residential	1	0	0	
+NI	3616911	3a Avenida Oeste	residential	1	0	0	
+NI	3616911	4a Calle Norte	residential	1	0	0	
+NI	3616911	5a Avenida Este	residential	1	0	0	
+NI	3616911	7a Avenida Oeste	residential	1	0	0	
+NI	3616911	7a Calle Norte	residential	1	0	0	
+NI	3616911	8a Avenida Oeste	residential	1	0	0	
+NI	3616911	9a Calle Norte	residential	1	0	0	
+NI	3616911	Avenida Central	residential	1	0	0	
+NI	3616911	Calle Central	residential	1	0	0	
+NI	3616911	NIC-25B	primary	1	0	0	
+NI	3616911	NN-117	primary	1	0	0	
+NI	3617052	11a Avenida NE	residential	1	0	0	
+NI	3617052	12a Avenida NE	residential	1	0	0	
+NI	3617052	13a Avenida NE	residential	1	0	0	
+NI	3617052	14 Avenida NE	residential	1	0	0	
+NI	3617052	14a Avenida NE	residential	1	0	0	
+NI	3617052	15a Avenida NE	residential	1	0	0	
+NI	3617052	17a Avenida NE	residential	1	0	0	
+NI	3617052	1a Avenida NE	residential	1	0	0	
+NI	3617052	1a Avenida SO	residential	1	0	0	
+NI	3617052	1st Calle NO	residential	1	0	0	
+NI	3617052	1st Callpida	unclassified	1	0	0	
+NI	3617052	2a Avenida SO	residential	1	0	0	
+NI	3617052	2a Calle NE	residential	1	0	0	
+NI	3617052	2nd Avenida NE	residential	1	0	0	
+NI	3617052	2nd Calle NO	residential	1	0	0	
+NI	3617052	3a Avenida NE	residential	1	0	0	
+NI	3617052	3a Avenida SO	residential	1	0	0	
+NI	3617052	3a Calle NE	residential	1	0	0	
+NI	3617052	3a Calle NO	residential	1	0	0	
+NI	3617052	3rd Avenida	residential	1	0	0	
+NI	3617052	3rd Avenida NO	residential	1	0	0	
+NI	3617052	3rd Calle NO	residential	1	0	0	
+NI	3617052	4a Avenida SO	residential	1	0	0	
+NI	3617052	4a Calle NE	residential	1	0	0	
+NI	3617052	4th Avenida NE	residential	1	0	0	
+NI	3617052	4th Callpida NE	residential	1	0	0	
+NI	3617052	5a Avenida SO	residential	1	0	0	
+NI	3617052	5a Calle NE	residential	1	0	0	
+NI	3617052	5a Calle SE	residential	1	0	0	
+NI	3617052	5th Avenida NE	residential	1	0	0	
+NI	3617052	6a Calle NE	residential	1	0	0	
+NI	3617052	6a Calle SE	residential	1	0	0	
+NI	3617052	6th Avenida NE	residential	1	0	0	
+NI	3617052	7a Calle NE	residential	1	0	0	
+NI	3617052	7th Avenida NE	residential	1	0	0	
+NI	3617052	9a Avenida NE	residential	1	0	0	
+NI	3617052	9a Calle SE	residential	1	0	0	
+NI	3617052	Acseso en Vehiculo a la Iglesia	unclassified	1	0	0	
+NI	3617052	Avenida Central	residential	1	0	0	
+NI	3617052	Avenida José Castillo	tertiary	1	0	0	
+NI	3617052	Avenida Santa Carlota	residential	1	0	0	
+NI	3617052	Banco de Material Selecto	unclassified	1	0	0	
+NI	3617052	Calle Carrilera	residential	1	0	0	
+NI	3617052	Calle Central	residential	1	0	0	
+NI	3617052	Calle La Chocolata	tertiary	1	0	0	
+NI	3617052	Calle Los Millonarios	tertiary	1	0	0	
+NI	3617052	Calle Martia Douglas Ramos Castillo	residential	1	0	0	
+NI	3617052	Calle Real	secondary	1	0	0	
+NI	3617069	1a Avenida SE	residential	1	0	0	
+NI	3617069	2a Avenida SE	residential	1	0	0	
+NI	3617069	3a Avenida SE	residential	1	0	0	
+NI	3617069	5a Avenida SE	residential	1	0	0	
+NI	3617069	9a Calle SE	residential	1	0	0	
+NI	3617069	Avenida Central	residential	1	0	0	
+NI	3617069	Calle Central	residential	1	0	0	
+NI	3617069	Camino a Bocana de Paiwas	tertiary	1	0	0	
+NI	3617069	Carretera Muy Muy - Río Blanco	tertiary	1	0	0	
+NI	3617069	Carretera Wanawana-San Pedro del Norte	secondary	1	0	0	
+NI	3617069	NIC-13B	secondary	1	0	0	
+NI	3617095	1a Avenida NO	residential	1	0	0	
+NI	3617095	2a Avenida NE	residential	1	0	0	
+NI	3617095	2a Avenida SE	residential	1	0	0	
+NI	3617095	2a Calle NE	residential	1	0	0	
+NI	3617095	2a Calle NO	residential	1	0	0	
+NI	3617095	2a Calle SE	residential	1	0	0	
+NI	3617095	3a Avenida NE	residential	1	0	0	
+NI	3617095	4a Avenida SE	residential	1	0	0	
+NI	3617095	4a Calle NE	residential	1	0	0	
+NI	3617095	5a Avenida NE	residential	1	0	0	
+NI	3617095	5a Calle NE	residential	1	0	0	
+NI	3617095	6a Avenida NE	secondary	1	0	0	
+NI	3617095	6a Avenida SE	residential	1	0	0	
+NI	3617095	6a Calle NE	secondary	1	0	0	
+NI	3617095	8a Avenida NE	residential	1	0	0	
+NI	3617095	9a Calle NE	residential	1	0	0	
+NI	3617095	Calle Central	tertiary	1	0	0	
+NI	3617095	Calle Hospital	unclassified	1	0	0	
+NI	3617095	Carretera El Rama - El Tortuguero	secondary	1	0	0	
+NI	3617095	Carretera El Rama - Laguna de Perlas	primary	1	0	0	
+NI	3617095	Carretera al Rama	secondary	1	0	0	
+NI	3617095	Carretera de Circunvalación del Rama	primary	1	0	0	
+NI	3617095	Entrada BICU	residential	1	0	0	
+NI	3617095	Paseo Parque Lorenzo	residential	1	0	0	
+NI	3617109	2a Calle NE	residential	1	0	0	
+NI	3617109	Carretera Quilalí - Wiwilí	secondary	1	0	0	
+NI	3617109	NIC-35D	tertiary	1	0	0	
+NI	3617109	NIC-51	secondary	1	0	0	
+NI	3617115	1a Avenida SE	residential	1	0	0	
+NI	3617115	1a Avenida SO	tertiary	1	0	0	
+NI	3617115	1a Calle NE	residential	1	0	0	
+NI	3617115	1a Calle SE	residential	1	0	0	
+NI	3617115	1a Calle SO	residential	1	0	0	
+NI	3617115	2a Avenida NO	living_street	1	0	0	
+NI	3617115	2a Calle NO	living_street	1	0	0	
+NI	3617115	2a Calle SE	unclassified	1	0	0	
+NI	3617115	2a Calle SO	residential	1	0	0	
+NI	3617115	3a Avenida NO	living_street	1	0	0	
+NI	3617115	3a Calle SO	residential	1	0	0	
+NI	3617115	4a Calle SO	residential	1	0	0	
+NI	3617143	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3617143	Carretera Puerto Sandino - El Tránsito	secondary	1	0	0	
+NI	3617143	El Velero	tertiary	1	0	0	
+NI	3617143	La Paz Centro - Empalme Puerto Sandino	primary	1	0	0	
+NI	3617143	NIC-52	primary	1	0	0	
+NI	3617143	NIC-52B	unclassified	1	0	0	
+NI	3617143	Puente Las Coyundas	primary	1	0	0	
+NI	3617146	Carretera Tonalá - Puerto Morazán	primary	1	0	0	
+NI	3617146	NN-262	tertiary	1	0	0	
+NI	3617154	10ma Calle NE	residential	1	0	0	
+NI	3617154	1era Avenida NE	residential	1	0	0	
+NI	3617154	1era Avenida NO	residential	1	0	0	
+NI	3617154	1era Avenida SE	residential	1	0	0	
+NI	3617154	1era Avenida SO	tertiary	1	0	0	
+NI	3617154	1era Calle N	residential	1	0	0	
+NI	3617154	1era Calle NE	residential	1	0	0	
+NI	3617154	1era Calle NO	living_street	1	0	0	
+NI	3617154	1era Calle SE	residential	1	0	0	
+NI	3617154	2da Avenida NE	residential	1	0	0	
+NI	3617154	2da Avenida NO	residential	1	0	0	
+NI	3617154	2da Avenida SO	residential	1	0	0	
+NI	3617154	2da Calle NO	residential	1	0	0	
+NI	3617154	2da Calle SE	residential	1	0	0	
+NI	3617154	2da Calle SO	residential	1	0	0	
+NI	3617154	3era Avenida NO	residential	1	0	0	
+NI	3617154	3era Avenida SE	residential	1	0	0	
+NI	3617154	3era Calle NE	residential	1	0	0	
+NI	3617154	3era Calle NO	residential	1	0	0	
+NI	3617154	3ra Avenida SO	residential	1	0	0	
+NI	3617154	4ta Avenida NO	residential	1	0	0	
+NI	3617154	4ta Avenida SO	residential	1	0	0	
+NI	3617154	4ta Calle NE	residential	1	0	0	
+NI	3617154	4ta Calle NO	residential	1	0	0	
+NI	3617154	4ta Calle SE	living_street	1	0	0	
+NI	3617154	4ta Calle SO	tertiary	1	0	0	
+NI	3617154	5ta Avenida NO	residential	1	0	0	
+NI	3617154	5ta Avenida SO	residential	1	0	0	
+NI	3617154	5ta Calle NE	residential	1	0	0	
+NI	3617154	5ta Calle SE	residential	1	0	0	
+NI	3617154	5ta Calle SO	residential	1	0	0	
+NI	3617154	6ta Calle NE	residential	1	0	0	
+NI	3617154	6ta Calle NO	residential	1	0	0	
+NI	3617154	6ta Calle SE	residential	1	0	0	
+NI	3617154	6ta Calle SO	tertiary	1	0	0	
+NI	3617154	7ma Calle NE	residential	1	0	0	
+NI	3617154	7ma Calle SE	tertiary	1	0	0	
+NI	3617154	7ma Calle SO	residential	1	0	0	
+NI	3617154	8va Calle NE	residential	1	0	0	
+NI	3617154	9na Calle NO	residential	1	0	0	
+NI	3617154	Avenida Central	tertiary	1	0	0	
+NI	3617154	Calle Central	residential	1	0	0	
+NI	3617154	Calle del Hermanamiento	residential	1	0	0	
+NI	3617154	Carretera a Kamla	tertiary	1	0	0	
+NI	3617154	Carretera a Lam Laya	secondary	1	0	0	
+NI	3617154	Entrada a Puesto de salud	living_street	1	0	0	
+NI	3617154	La Rotondita	residential	1	0	0	
+NI	3617154	Puente Nipco	secondary	1	0	0	
+NI	3617162	1a Avenida NE	secondary	1	0	0	
+NI	3617162	1a Avenida SE	secondary	1	0	0	
+NI	3617162	2a Calle SE	secondary	1	0	0	
+NI	3617162	2a Calle SO	secondary	1	0	0	
+NI	3617162	Avenida Central	residential	1	0	0	
+NI	3617162	Calle Central	residential	1	0	0	
+NI	3617162	Carretera Pueblo Nuevo - Palacagüina	secondary	1	0	0	
+NI	3617162	Carretera Pueblo Nuevo Norte	tertiary	1	0	0	
+NI	3617162	Carretera San Juan de Limay - Pueblo Nuevo	tertiary	1	0	0	
+NI	3617187	1a Avenida	residential	1	0	0	
+NI	3617187	1a Calle	residential	1	0	0	
+NI	3617187	2a Avenida	residential	1	0	0	
+NI	3617187	2a Calle	unclassified	1	0	0	
+NI	3617187	3a Avenida	residential	1	0	0	
+NI	3617187	4a Avenida	residential	1	0	0	
+NI	3617187	5a Avenida	tertiary	1	0	0	
+NI	3617187	Avenida Cantral	residential	1	0	0	
+NI	3617187	Calle Central	residential	1	0	0	
+NI	3617191	1a Avenida	residential	1	0	0	
+NI	3617191	1a Avenida NE	residential	1	0	0	
+NI	3617191	1a Avenida NO	residential	1	0	0	
+NI	3617191	2a Avenida	residential	1	0	0	
+NI	3617191	2a Avenida NO	residential	1	0	0	
+NI	3617191	3a Avenida NE	residential	1	0	0	
+NI	3617191	5a Calle NE	residential	1	0	0	
+NI	3617191	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3617191	Calle Central	residential	1	0	0	
+NI	3617191	NIC-36	secondary	1	0	0	
+NI	3617204	Avenida Corleone	residential	1	0	0	
+NI	3617204	Carretera León - Poneloya	secondary	1	0	0	
+NI	3617204	NIC-14	tertiary	1	0	0	
+NI	3617311	10a Calle SO	tertiary	1	0	0	
+NI	3617311	1a Avenida SE	residential	1	0	0	
+NI	3617311	2a Avenida NO	secondary	1	0	0	
+NI	3617311	2a Avenida SO	secondary	1	0	0	
+NI	3617311	2a Calle SO	residential	1	0	0	
+NI	3617311	3a Calle NO	tertiary	1	0	0	
+NI	3617311	5a Calle NO	residential	1	0	0	
+NI	3617311	Calle del Parque	unclassified	1	0	0	
+NI	3617311	Carretera Abisinia - El Cua	secondary	1	0	0	
+NI	3617311	Carretera El Bocaycito	unclassified	1	0	0	
+NI	3617311	Carretera El Cua - Bocay	secondary	1	0	0	
+NI	3617311	Carretera Hacia El Bote	tertiary	1	0	0	
+NI	3617388	1a Avenida NO	residential	1	0	0	
+NI	3617388	1a Avenida SE	unclassified	1	0	0	
+NI	3617388	1a Avenida SO	residential	1	0	0	
+NI	3617388	1a Calle	residential	1	0	0	
+NI	3617388	1a Calle NE	residential	1	0	0	
+NI	3617388	2a Avenida SE	residential	1	0	0	
+NI	3617388	2a Avenida SO	secondary	1	0	0	
+NI	3617388	2a Calle	residential	1	0	0	
+NI	3617388	3a Calle	residential	1	0	0	
+NI	3617388	3a Calle NO	residential	1	0	0	
+NI	3617388	4a Calle	residential	1	0	0	
+NI	3617388	4a Calle NO	residential	1	0	0	
+NI	3617448	10a Calle NO	residential	1	0	0	
+NI	3617448	4a Avenida SE	residential	1	0	0	
+NI	3617448	4a Calle NE	tertiary	1	0	0	
+NI	3617448	4a Calle NO	tertiary	1	0	0	
+NI	3617448	8a Avenida NO	residential	1	0	0	
+NI	3617448	Avenida 7	residential	1	0	0	
+NI	3617448	Avenida Centroamericana	residential	1	0	0	
+NI	3617448	Avenida Diriangén	residential	1	0	0	
+NI	3617448	Avenida Santa Fe	residential	1	0	0	
+NI	3617448	Avenida Segovia	residential	1	0	0	
+NI	3617448	Avenida Wiesbaden	tertiary	1	0	0	
+NI	3617448	Calle Bosawás	residential	1	0	0	
+NI	3617448	Calle Cocibolca	residential	1	0	0	
+NI	3617448	Calle Consigüina	residential	1	0	0	
+NI	3617448	Calle Inmaculada Concepción	residential	1	0	0	
+NI	3617448	Calle José Carlos Tercero	residential	1	0	0	
+NI	3617448	Calle José Santos Zelaya	residential	1	0	0	
+NI	3617448	Calle Mogotón	residential	1	0	0	
+NI	3617448	Calle Momotombo	residential	1	0	0	
+NI	3617448	Calle Moyuá	residential	1	0	0	
+NI	3617448	Calle Ometepe	unclassified	1	0	0	
+NI	3617448	Calle Prinzapolka	residential	1	0	0	
+NI	3617448	Calle Quetzalcoalt	residential	1	0	0	
+NI	3617448	Carretera Ocotal - Jalapa	secondary	1	0	0	
+NI	3617448	NIC-29	secondary	1	0	0	
+NI	3617448	NIC-53	secondary	1	0	0	
+NI	3617457	Carretera El Rama - El Tortuguero	secondary	1	0	0	
+NI	3617459	NIC-71		20	0	0	
+NI	3617459	Calle Del Monumento		2	0	0	
+NI	3617459	Calle del Mercado	residential	2	0	0	
+NI	3617459	!a Avenida NE	residential	1	0	0	
+NI	3617459	10a Avenida NO	residential	1	0	0	
+NI	3617459	11a Avenida NO	residential	1	0	0	
+NI	3617459	1a Avenida SE	residential	1	0	0	
+NI	3617459	1a Avenida SO	residential	1	0	0	
+NI	3617459	1a Calle N	residential	1	0	0	
+NI	3617459	2a Avenida SE	residential	1	0	0	
+NI	3617459	2a Avenida SO	residential	1	0	0	
+NI	3617459	2a Calle NE	residential	1	0	0	
+NI	3617459	2a Calle NO	residential	1	0	0	
+NI	3617459	2a Calle SO	tertiary	1	0	0	
+NI	3617459	3a Avenida NE	tertiary	1	0	0	
+NI	3617459	3a Avenida NO	residential	1	0	0	
+NI	3617459	3a Avenida SO	residential	1	0	0	
+NI	3617459	3a Calle N	residential	1	0	0	
+NI	3617459	3a Calle NE	residential	1	0	0	
+NI	3617459	3a Calle NO	residential	1	0	0	
+NI	3617459	3a Calle SE	residential	1	0	0	
+NI	3617459	3a Calle SO	residential	1	0	0	
+NI	3617459	4a Avenida NE	residential	1	0	0	
+NI	3617459	4a Avenida NO	residential	1	0	0	
+NI	3617459	4a Avenida SE	residential	1	0	0	
+NI	3617459	4a Avenida SO	residential	1	0	0	
+NI	3617459	4a Calle N	residential	1	0	0	
+NI	3617459	4a Calle NE	residential	1	0	0	
+NI	3617459	4a Calle NO	residential	1	0	0	
+NI	3617459	4a Calle S	residential	1	0	0	
+NI	3617459	4a Calle SE	residential	1	0	0	
+NI	3617459	4a Calle SO	residential	1	0	0	
+NI	3617459	5a Avenida SO	residential	1	0	0	
+NI	3617459	5a Calle N	residential	1	0	0	
+NI	3617459	5a Calle NE	residential	1	0	0	
+NI	3617459	5a Calle NO	residential	1	0	0	
+NI	3617459	5a Calle S	residential	1	0	0	
+NI	3617459	6a Avenida NO	residential	1	0	0	
+NI	3617459	6a Avenida SO	residential	1	0	0	
+NI	3617459	6a Calle	residential	1	0	0	
+NI	3617459	6a Calle N	residential	1	0	0	
+NI	3617459	6a Calle NE	residential	1	0	0	
+NI	3617459	7a Avenida SO	residential	1	0	0	
+NI	3617459	7a Calle	residential	1	0	0	
+NI	3617459	7a Calle N	residential	1	0	0	
+NI	3617459	7a Calle NE	residential	1	0	0	
+NI	3617459	7a Calle SE	residential	1	0	0	
+NI	3617459	7a Calle SO	residential	1	0	0	
+NI	3617459	8a Calle N	residential	1	0	0	
+NI	3617459	8a Calle NE	residential	1	0	0	
+NI	3617459	8a Calle NO	residential	1	0	0	
+NI	3617459	8a Calle SO	residential	1	0	0	
+NI	3617459	9a Calle NE	residential	1	0	0	
+NI	3617459	9a Calle NO	residential	1	0	0	
+NI	3617459	Avenida Central	residential	1	0	0	
+NI	3617459	Benwficio La Luz	unclassified	1	0	0	
+NI	3617459	Boulevard de Chavez a Sandino	residential	1	0	0	
+NI	3617459	Calle UDO	residential	1	0	0	
+NI	3617459	Calle Zona 8	unclassified	1	0	0	
+NI	3617459	Calle a los Bomberos	residential	1	0	0	
+NI	3617459	Camino a Las Corinas	unclassified	1	0	0	
+NI	3617459	Carretera Nueva Guinea - Verdún	tertiary	1	0	0	
+NI	3617459	Carretera a Colonia Agrícola Jerusalén	tertiary	1	0	0	
+NI	3617459	Carretera a Guinea Vieja	unclassified	1	0	0	
+NI	3617459	Carretera a Yolaina	tertiary	1	0	0	
+NI	3617459	NN-133	tertiary	1	0	0	
+NI	3617459	NN-134	tertiary	1	0	0	
+NI	3617459	Nueva Guinea - El plata	residential	1	0	0	
+NI	3617459	Nueva Guinea - Esperancita	unclassified	1	0	0	
+NI	3617470	1a Avenida NE	residential	1	0	0	
+NI	3617470	1a Avenida SE	residential	1	0	0	
+NI	3617470	1a Avenida SO	residential	1	0	0	
+NI	3617470	1a Calle SE	residential	1	0	0	
+NI	3617470	1a Calle SO	residential	1	0	0	
+NI	3617470	2a Avenida NO	residential	1	0	0	
+NI	3617470	2a Avenida SE	residential	1	0	0	
+NI	3617470	2a Avenida SO	residential	1	0	0	
+NI	3617470	2a Calle NE	residential	1	0	0	
+NI	3617470	2a Calle NO	residential	1	0	0	
+NI	3617470	2a Calle SO	residential	1	0	0	
+NI	3617470	3a Avenida SE	residential	1	0	0	
+NI	3617470	3a Avenida SO	residential	1	0	0	
+NI	3617470	4a Avenida NE	residential	1	0	0	
+NI	3617470	4a Avenida NO	residential	1	0	0	
+NI	3617470	4a Avenida SE	residential	1	0	0	
+NI	3617470	4a Avenida SO	residential	1	0	0	
+NI	3617470	5a Avenida SE	residential	1	0	0	
+NI	3617470	5a Avenida SO	unclassified	1	0	0	
+NI	3617470	6a Avenida NO	residential	1	0	0	
+NI	3617470	Avenida Central	residential	1	0	0	
+NI	3617470	Calle Genaro Tapia	residential	1	0	0	
+NI	3617470	Calle Real	tertiary	1	0	0	
+NI	3617470	Camino Viejo a Niquinohomo	tertiary	1	0	0	
+NI	3617473	3a Avenida N.E.	unclassified	1	0	0	
+NI	3617473	3a Avenida N.O.	residential	1	0	0	
+NI	3617473	3a Avenida S.O.	residential	1	0	0	
+NI	3617473	3a Calle S.E.	living_street	1	0	0	
+NI	3617473	4a Avenida S.E.	tertiary	1	0	0	
+NI	3617473	4a Calle S.E.	residential	1	0	0	
+NI	3617473	6a Avenida S.E.	residential	1	0	0	
+NI	3617473	Avenida Central	tertiary	1	0	0	
+NI	3617473	Calle A. Murillo H.	residential	1	0	0	
+NI	3617473	Calle Central	tertiary	1	0	0	
+NI	3617473	Carretera Las Mercedes - Coyotepe	primary	1	0	0	
+NI	3617510	1a Calle SE	residential	1	0	0	
+NI	3617510	Avenida Central	residential	1	0	0	
+NI	3617510	Avenida Marcos Alemán	residential	1	0	0	
+NI	3617510	Avenida Édgar Gutiérrez	tertiary	1	0	0	
+NI	3617513	1a Avenida NE	residential	1	0	0	
+NI	3617513	1a Avenida SE	residential	1	0	0	
+NI	3617513	1a Avenida SO	unclassified	1	0	0	
+NI	3617513	2a Avenida NE	residential	1	0	0	
+NI	3617513	2a Avenida NO	residential	1	0	0	
+NI	3617513	2a Avenida SE	residential	1	0	0	
+NI	3617513	2a Avenida SO	residential	1	0	0	
+NI	3617513	2a Calle SE	residential	1	0	0	
+NI	3617513	3a Avenida NE	residential	1	0	0	
+NI	3617513	3a Avenida SO	residential	1	0	0	
+NI	3617513	3a Calle SE	residential	1	0	0	
+NI	3617513	3a Calle SO	residential	1	0	0	
+NI	3617513	4a Avenida NE	residential	1	0	0	
+NI	3617513	4a Avenida NO	residential	1	0	0	
+NI	3617513	4a Avenida SO	residential	1	0	0	
+NI	3617513	Avenida Central	residential	1	0	0	
+NI	3617513	Calle Central	residential	1	0	0	
+NI	3617513	Calle De Los Martires	residential	1	0	0	
+NI	3617513	NN-207	tertiary	1	0	0	
+NI	3617513	Nandaime	residential	1	0	0	
+NI	3617522	10a Avenida NO	residential	1	0	0	
+NI	3617522	11a Avenida NO	residential	1	0	0	
+NI	3617522	13a Avenida SO	residential	1	0	0	
+NI	3617522	1a Avenida NO	residential	1	0	0	
+NI	3617522	2a Avenida NO	residential	1	0	0	
+NI	3617522	3a Avenida SE	residential	1	0	0	
+NI	3617522	3a Avenida SO	residential	1	0	0	
+NI	3617522	5a Avenida NO	residential	1	0	0	
+NI	3617522	6a Avenida NO	tertiary	1	0	0	
+NI	3617522	7a Avenida NO	residential	1	0	0	
+NI	3617522	9a Avenida NO	residential	1	0	0	
+NI	3617522	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3617522	Avenida Central	residential	1	0	0	
+NI	3617522	Calle Central	residential	1	0	0	
+NI	3617532	2a Avenida SO	residential	1	0	0	
+NI	3617532	3a Calle SO	residential	1	0	0	
+NI	3617532	5a Calle SO	residential	1	0	0	
+NI	3617532	6a Avenida SE	residential	1	0	0	
+NI	3617532	Avenida Central	tertiary	1	0	0	
+NI	3617532	Calle Central	residential	1	0	0	
+NI	3617532	Calle Fabián Rodríguez	residential	1	0	0	
+NI	3617532	Carretera Esquipulas - Muy Muy	secondary	1	0	0	
+NI	3617532	NIC-21B	secondary	1	0	0	
+NI	3617532	NIC-9	primary	1	0	0	
+NI	3617532	Rotonda Augusto César Sandino	secondary	1	0	0	
+NI	3617543	NIC-55	tertiary	1	0	0	
+NI	3617551	6a Avenida SNE	residential	1	0	0	
+NI	3617562	Calle Central	residential	2	2515	2515	
+NI	3617562	1a Avenida NO	residential	1	0	0	
+NI	3617562	2a Avenida NO	residential	1	0	0	
+NI	3617562	3a Avenida NO	residential	1	0	0	
+NI	3617562	3a Calle NO	residential	1	0	0	
+NI	3617562	6a Avenida NO	residential	1	0	0	
+NI	3617562	7a Avenida SO	residential	1	0	0	
+NI	3617562	8a Avenida NO	residential	1	0	0	
+NI	3617562	Calle del Pueblo	residential	1	0	0	
+NI	3617562	Carretera al Rama	primary	1	0	0	
+NI	3617565	NIC-29	secondary	1	0	0	
+NI	3617569	1a Avenida Noreste	residential	1	0	0	
+NI	3617569	1a Avenida Noroeste	residential	1	0	0	
+NI	3617569	1a Avenida Sureste	residential	1	0	0	
+NI	3617569	1a Avenida Suroeste	residential	1	0	0	
+NI	3617569	1a Calle Noreste	residential	1	0	0	
+NI	3617569	1a Calle Noroeste	residential	1	0	0	
+NI	3617569	1a Calle Sureste	residential	1	0	0	
+NI	3617569	1a Calle Suroeste	residential	1	0	0	
+NI	3617569	2a Avenida Noroeste	residential	1	0	0	
+NI	3617569	2a Avenida Suroeste	residential	1	0	0	
+NI	3617569	2a Calle Noreste	residential	1	0	0	
+NI	3617569	2a Calle Noroeste	residential	1	0	0	
+NI	3617575	Avenida Central	residential	1	0	0	
+NI	3617575	NIC-65	secondary	1	0	0	
+NI	3617694	11a Avenida SO	residential	1	0	0	
+NI	3617694	13a Avenida NO	residential	1	0	0	
+NI	3617694	1a Avenida NO	residential	1	0	0	
+NI	3617694	1a Avenida SE	residential	1	0	0	
+NI	3617694	1a Calle NO	residential	1	0	0	
+NI	3617694	1a Calle SO	residential	1	0	0	
+NI	3617694	2a Calle NO	residential	1	0	0	
+NI	3617694	2a Calle SO	residential	1	0	0	
+NI	3617694	3a Calle SO	residential	1	0	0	
+NI	3617694	4a Calle NE	residential	1	0	0	
+NI	3617694	5a Avenida NO	residential	1	0	0	
+NI	3617694	6a Avenida NO	residential	1	0	0	
+NI	3617694	7a Avenida SO	residential	1	0	0	
+NI	3617694	8a Avenida NE	residential	1	0	0	
+NI	3617694	9a Avenida SO	residential	1	0	0	
+NI	3617694	Avenida Central	residential	1	0	0	
+NI	3617694	Calle Central	residential	1	0	0	
+NI	3617697	Avenida 5	residential	12	0	0	
+NI	3617697	Principal	residential	11	0	0	
+NI	3617697	Calle 1	residential	6	0	0	
+NI	3617697	4a Avenida S.E.	residential	1	0	0	
+NI	3617697	5a Avenida S.E.	residential	1	0	0	
+NI	3617697	6a Avenida N.E.	residential	1	0	0	
+NI	3617697	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3617697	Avenida 1	residential	1	0	0	
+NI	3617697	Avenida 10	residential	1	0	0	
+NI	3617697	Avenida 11	residential	1	0	0	
+NI	3617697	Avenida 12	residential	1	0	0	
+NI	3617697	Avenida 13	residential	1	0	0	
+NI	3617697	Avenida 14	residential	1	0	0	
+NI	3617697	Avenida 15	residential	1	0	0	
+NI	3617697	Avenida 16	residential	1	0	0	
+NI	3617697	Avenida 17	residential	1	0	0	
+NI	3617697	Avenida 18	residential	1	0	0	
+NI	3617697	Avenida 19	residential	1	0	0	
+NI	3617697	Avenida 2	residential	1	0	0	
+NI	3617697	Avenida 20	residential	1	0	0	
+NI	3617697	Avenida 21	residential	1	0	0	
+NI	3617697	Avenida 22	residential	1	0	0	
+NI	3617697	Avenida 23	residential	1	0	0	
+NI	3617697	Avenida 24	residential	1	0	0	
+NI	3617697	Avenida 25	residential	1	0	0	
+NI	3617697	Avenida 26	residential	1	0	0	
+NI	3617697	Avenida 27	residential	1	0	0	
+NI	3617697	Avenida 28	residential	1	0	0	
+NI	3617697	Avenida 29	residential	1	0	0	
+NI	3617697	Avenida 3	residential	1	0	0	
+NI	3617697	Avenida 30	residential	1	0	0	
+NI	3617697	Avenida 31	residential	1	0	0	
+NI	3617697	Avenida 32	residential	1	0	0	
+NI	3617697	Avenida 33	residential	1	0	0	
+NI	3617697	Avenida 34	residential	1	0	0	
+NI	3617697	Avenida 4	residential	1	0	0	
+NI	3617697	Avenida 6	residential	1	0	0	
+NI	3617697	Avenida 7	residential	1	0	0	
+NI	3617697	Avenida 9	residential	1	0	0	
+NI	3617697	Avenida Central	residential	1	0	0	
+NI	3617697	Calle 12	residential	1	0	0	
+NI	3617697	Calle 2 (Tercera Etapa)	residential	1	0	0	
+NI	3617697	Calle 3 (Tercera Etapa)	residential	1	0	0	
+NI	3617697	Calle 4	residential	1	0	0	
+NI	3617697	Calle 5	residential	1	0	0	
+NI	3617697	Calle 6	residential	1	0	0	
+NI	3617697	Calle 7	residential	1	0	0	
+NI	3617697	Calle Central	residential	1	0	0	
+NI	3617697	Calle3	residential	1	0	0	
+NI	3617697	NIC-46	tertiary	1	0	0	
+NI	3617708	Calle Central	tertiary	2	2772	8879	
+NI	3617708	Calle de los bancos		2	2772	5714	
+NI	3617708	10a Calle Norte	residential	1	0	0	
+NI	3617708	10a Calle Sur	residential	1	0	0	
+NI	3617708	11a Avenida Este	residential	1	0	0	
+NI	3617708	11a Calle Sur	residential	1	0	0	
+NI	3617708	12a Calle Sur	tertiary	1	0	0	
+NI	3617708	13a Calle Sur	residential	1	0	0	
+NI	3617708	14a Calle Sur	residential	1	0	0	
+NI	3617708	15a Calle Sur	residential	1	0	0	
+NI	3617708	17a Calle Sur	residential	1	0	0	
+NI	3617708	18a Calle Sur	tertiary	1	0	0	
+NI	3617708	1a Avenida Este	residential	1	0	0	
+NI	3617708	1a Avenida Oeste	tertiary	1	0	0	
+NI	3617708	1a Calle Norte	residential	1	0	0	
+NI	3617708	1a Calle Sur	residential	1	0	0	
+NI	3617708	2a Avenida Oeste	residential	1	0	0	
+NI	3617708	2a Calle Norte	residential	1	0	0	
+NI	3617708	2a Calle Sur	residential	1	0	0	
+NI	3617708	3a Avenida Este	residential	1	0	0	
+NI	3617708	3a Calle Norte	residential	1	0	0	
+NI	3617708	3a Calle Sur	residential	1	0	0	
+NI	3617708	4a Avenida Este	residential	1	0	0	
+NI	3617708	4a Avenida Oeste	residential	1	0	0	
+NI	3617708	4a Calle Norte	tertiary	1	0	0	
+NI	3617708	5a Avenida Este	residential	1	0	0	
+NI	3617708	5a Avenida Oeste	residential	1	0	0	
+NI	3617708	5a Calle Norte	residential	1	0	0	
+NI	3617708	6a Avenida Este	tertiary	1	0	0	
+NI	3617708	6a Avenida Oeste	tertiary	1	0	0	
+NI	3617708	6a Calle Sur	residential	1	0	0	
+NI	3617708	7a Avenida Este	residential	1	0	0	
+NI	3617708	7a Avenida Oeste	tertiary	1	0	0	
+NI	3617708	7a Calle Norte	residential	1	0	0	
+NI	3617708	7a Calle Sur	residential	1	0	0	
+NI	3617708	8a Avenida Este	residential	1	0	0	
+NI	3617708	8a Avenida Oeste	residential	1	0	0	
+NI	3617708	8a Calle Norte	tertiary	1	0	0	
+NI	3617708	8a Calle Sur	tertiary	1	0	0	
+NI	3617708	9a Avenida Este	residential	1	0	0	
+NI	3617708	9a Calle Norte	residential	1	0	0	
+NI	3617708	9a Calle Sur	residential	1	0	0	
+NI	3617708	Avenida Central	tertiary	1	0	0	
+NI	3617708	Avenida Flor de Caña	residential	1	0	0	
+NI	3617708	Avenida José Dolores Estrada	residential	1	0	0	
+NI	3617708	Avenida del Río	residential	1	0	0	
+NI	3617708	Calle Del Rio	residential	1	0	0	
+NI	3617708	Calle Francisco Aráuz Blandón	tertiary	1	0	0	
+NI	3617708	Carretera Matagalpa - Sébaco	primary	1	0	0	
+NI	3617708	Carretera Matagalpa - empalme a San Ramón	secondary	1	0	0	
+NI	3617723	Rotondas		3	0	0	
+NI	3617723	4a Avenida N.E.	residential	1	0	0	
+NI	3617723	6a Calle SE	residential	1	0	0	
+NI	3617723	6a Calle SO	residential	1	0	0	
+NI	3617723	7a Calle SE	residential	1	0	0	
+NI	3617723	7a Calle SO	residential	1	0	0	
+NI	3617723	8a Calle SO	residential	1	0	0	
+NI	3617723	9a Avenida S.E.	residential	1	0	0	
+NI	3617723	9a Calle SE	residential	1	0	0	
+NI	3617723	9a Calle SO	residential	1	0	0	
+NI	3617723	Acceso Iglesia Cuerpo de Cristo	living_street	1	0	0	
+NI	3617723	Accesos a Fincas Privadas	residential	1	0	0	
+NI	3617723	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3617723	Avenida Ballardo Baltodano	residential	1	0	0	
+NI	3617723	Avenida El Calvario	residential	1	0	0	
+NI	3617723	Avenida El Coco	residential	1	0	0	
+NI	3617723	Avenida El Progreso	tertiary	1	0	0	
+NI	3617723	Avenida Enrique Espino	residential	1	0	0	
+NI	3617723	Avenida La Libertad	residential	1	0	0	
+NI	3617723	Avenida La Moneda	tertiary	1	0	0	
+NI	3617723	Avenida Las Flores	residential	1	0	0	
+NI	3617723	Avenida Los Leones	residential	1	0	0	
+NI	3617723	Avenida Magdalena	residential	1	0	0	
+NI	3617723	Avenida Mártires y Héroes	residential	1	0	0	
+NI	3617723	Avenida Real de Monimbó	tertiary	1	0	0	
+NI	3617723	Avenida Ronda	residential	1	0	0	
+NI	3617723	Avenida San Jerónimo	residential	1	0	0	
+NI	3617723	Avenida Zelaya	tertiary	1	0	0	
+NI	3617723	Avenida Édgar Trejos	residential	1	0	0	
+NI	3617723	Boulevard Docotr Manuel Maldonado	residential	1	0	0	
+NI	3617723	Boulevard Doctor Manuel Maldonado	residential	1	0	0	
+NI	3617723	Bulevar Federico Kuhn	tertiary	1	0	0	
+NI	3617723	Calle 10 de Mayo	residential	1	0	0	
+NI	3617723	Calle Arnoldo Guerrero	residential	1	0	0	
+NI	3617723	Calle Atravesada	residential	1	0	0	
+NI	3617723	Calle Carlos Vega Bolaños	tertiary	1	0	0	
+NI	3617723	Calle Casa de Leña	residential	1	0	0	
+NI	3617723	Calle Central	residential	1	0	0	
+NI	3617723	Calle Coyotepe	residential	1	0	0	
+NI	3617723	Calle Cristal	residential	1	0	0	
+NI	3617723	Calle Eduardo José López R.	residential	1	0	0	
+NI	3617723	Calle El Calvario	residential	1	0	0	
+NI	3617723	Calle El Mono	residential	1	0	0	
+NI	3617723	Calle El Pochotillo	residential	1	0	0	
+NI	3617723	Calle Gerardo García M.	residential	1	0	0	
+NI	3617723	Calle Henry Bermúdez	residential	1	0	0	
+NI	3617723	Calle Herm Reyes Aguirre	residential	1	0	0	
+NI	3617723	Calle José Domingo Gutierres	residential	1	0	0	
+NI	3617723	Calle José Javier Calero	residential	1	0	0	
+NI	3617723	Calle La Bolsa	residential	1	0	0	
+NI	3617723	Calle La Jabonera	residential	1	0	0	
+NI	3617723	Calle La Reforma	tertiary	1	0	0	
+NI	3617723	Calle Max Somarriba	residential	1	0	0	
+NI	3617723	Calle Rafaela Padilla	residential	1	0	0	
+NI	3617723	Calle Reparto El Repliegue	residential	1	0	0	
+NI	3617723	Calle Roger F. Álvarez G.	residential	1	0	0	
+NI	3617723	Calle San José	residential	1	0	0	
+NI	3617723	Calle San Miguel	tertiary	1	0	0	
+NI	3617723	Calle Santa Delfina	residential	1	0	0	
+NI	3617723	Calle Simpson	residential	1	0	0	
+NI	3617723	Camino Al Pochote	unclassified	1	0	0	
+NI	3617723	Camino de la Laguna	unclassified	1	0	0	
+NI	3617723	Camino de los Bueyes	unclassified	1	0	0	
+NI	3617723	Camino viejo a Niquinohomo	tertiary	1	0	0	
+NI	3617723	Carretera Las Mercedes - Coyotepe	primary	1	0	0	
+NI	3617723	Carretera Masaya -Tisma	secondary	1	0	0	
+NI	3617723	Carretera al Coyotepe	unclassified	1	0	0	
+NI	3617723	Circunvalación Nindirí - Las Flores	primary	1	0	0	
+NI	3617723	El Arenal	unclassified	1	0	0	
+NI	3617723	El Cocal	residential	1	0	0	
+NI	3617723	El Pochote	unclassified	1	0	0	
+NI	3617723	Empalme Las Flores	tertiary	1	0	0	
+NI	3617723	La Sabanita	unclassified	1	0	0	
+NI	3617723	Los Coyotes	unclassified	1	0	0	
+NI	3617723	Los Maderales	residential	1	0	0	
+NI	3617723	Los cerda al camino de los Bueyes	unclassified	1	0	0	
+NI	3617723	NN-109	tertiary	1	0	0	
+NI	3617723	NN-188	tertiary	1	0	0	
+NI	3617723	Plaza Magdalena	pedestrian	1	0	0	
+NI	3617723	Plaza de la Cultura	pedestrian	1	0	0	
+NI	3617723	Puente El Guanacaste	residential	1	0	0	
+NI	3617723	Quebrada Grande	unclassified	1	0	0	
+NI	3617723	Rotonda Ceibita	primary	1	0	0	
+NI	3617723	Villa Bosco Monge	unclassified	1	0	0	
+NI	3617725	1a Calle SE	residential	1	0	0	
+NI	3617725	2a Avenida NE	residential	1	0	0	
+NI	3617725	2a Avenida NO	residential	1	0	0	
+NI	3617725	2a Avenida SE	residential	1	0	0	
+NI	3617725	2a Avenida SO	residential	1	0	0	
+NI	3617725	3a Avenida NE	residential	1	0	0	
+NI	3617725	3a Avenida NO	residential	1	0	0	
+NI	3617725	3a Avenida SE	residential	1	0	0	
+NI	3617725	3a Avenida SO	residential	1	0	0	
+NI	3617725	4a Avenida SE	residential	1	0	0	
+NI	3617725	4a Calle NO	residential	1	0	0	
+NI	3617725	4a Calle SE	residential	1	0	0	
+NI	3617725	5a Avenida SE	residential	1	0	0	
+NI	3617725	5a Avenida SO	residential	1	0	0	
+NI	3617725	6a Avenida SO	residential	1	0	0	
+NI	3617725	7a Avenida SO	residential	1	0	0	
+NI	3617725	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3617725	Avenida Central	residential	1	0	0	
+NI	3617725	Avenida Eduardo Alemán	residential	1	0	0	
+NI	3617725	Avenida Ernesto Tapia M "Purito"	residential	1	0	0	
+NI	3617725	Avenida Manuel Sánchez	unclassified	1	0	0	
+NI	3617725	Avenida de La Laguna	residential	1	0	0	
+NI	3617725	Calle Benjamín Mercado	residential	1	0	0	
+NI	3617725	Calle Central	residential	1	0	0	
+NI	3617725	Calle Francisco Mercado Téllez	residential	1	0	0	
+NI	3617725	Calle Los Pinos	residential	1	0	0	
+NI	3617725	Calle Ricardo Pérez	unclassified	1	0	0	
+NI	3617725	Masatepe-Nandasmo	unclassified	1	0	0	
+NI	3617725	Quebrada Grande	residential	1	0	0	
+NI	3617730	Carretera Las Conchitas - Pochomil	primary	1	0	0	
+NI	3617730	Carretera Litoral del Pacífico	primary	1	0	0	
+NI	3617730	NIC-10	primary	1	0	0	
+NI	3617730	NN-283	tertiary	1	0	0	
+NI	3617730	Rotonda Masachapa	primary	1	0	0	
+NI	3617763	Paseo del Club	tertiary	11	66	203	
+NI	3617763	Carretera Norte		10	12	5727	
+NI	3617763	12a Avenida S.E.	tertiary	8	251	259	
+NI	3617763	Calle Vista Alegre	residential	8	214	303	
+NI	3617763	Semáforos		8	0	0	
+NI	3617763	Calle Arto De La Sabana	residential	6	17	222	
+NI	3617763	Paseo Ciprés	residential	6	48	67	
+NI	3617763	39a Calle S.E.	residential	5	0	0	
+NI	3617763	Avenida Central	residential	4	13	290	
+NI	3617763	Avenida Principal de Altamira	secondary	4	507	560	
+NI	3617763	Avenida de las Colinas	residential	4	12	96	
+NI	3617763	Bancos		4	0	0	
+NI	3617763	Calle Colina Sur	residential	4	24	340	
+NI	3617763	Calle Los Mangos	tertiary	4	7	1630	
+NI	3617763	Carretera a Masaya		4	0	0	
+NI	3617763	Tercera Entrada a las Colinas	residential	4	9	30	
+NI	3617763	11a Calle S.O.	residential	3	11	910	
+NI	3617763	32a Calle S.E.	residential	3	29	73	
+NI	3617763	Calle 27 de Mayo	tertiary	3	1204	1815	
+NI	3617763	Calle Acoma	residential	3	5	24	
+NI	3617763	Calle La Cuaresma	residential	3	7	228	
+NI	3617763	Calle Las Flores	residential	3	185	188	
+NI	3617763	Carretera Nueva a León		3	14	14	
+NI	3617763	Centro Comercial		3	0	0	
+NI	3617763	Curva De Los Gallos	residential	3	251	272	
+NI	3617763	33a Calle S.E.	residential	2	11	11	
+NI	3617763	Avenida Los Robles	residential	2	134	135	
+NI	3617763	Calle 15 de Septiembre	residential	2	0	1509	
+NI	3617763	Calle Granada	residential	2	139	149	
+NI	3617763	Calle José C. Urtecho	residential	2	113	113	
+NI	3617763	Calle Los Campos	residential	2	147	148	
+NI	3617763	Calle Prado Ecuestre	residential	2	255	255	
+NI	3617763	Callejon Roger Velásquez Reina	living_street	2	561	5333	
+NI	3617763	Carretera Managua - León		2	0	0	
+NI	3617763	Carretera Masaya		2	6	6	
+NI	3617763	Colonia Reissell		2	81	81	
+NI	3617763	Embajadas		2	0	0	
+NI	3617763	Paseo Naciones Unidas	secondary	2	11	8962	
+NI	3617763	Paseo del Coyol	residential	2	242	255	
+NI	3617763	Pista Jean Paul Genie	secondary	2	50	50	
+NI	3617763	Pista de la Solidaridad	primary	2	1	11	
+NI	3617763	Radial Santo Domingo	secondary	2	184	190	
+NI	3617763	Residencia Familia Jarazo		2	0	0	
+NI	3617763	Residencial		2	0	0	
+NI	3617763	1 Calle Abajo	living_street	1	0	0	
+NI	3617763	100a Avenida N.E.	residential	1	0	0	
+NI	3617763	100a Avenida S.E.	residential	1	0	0	
+NI	3617763	101a Avenida N.E.	residential	1	0	0	
+NI	3617763	101a Avenida S.E.	living_street	1	0	0	
+NI	3617763	102a Avenida N.E.	residential	1	0	0	
+NI	3617763	102a Avenida S.E.	residential	1	0	0	
+NI	3617763	103a Avenida N.E.	residential	1	0	0	
+NI	3617763	103a Avenida S.E.	living_street	1	0	0	
+NI	3617763	104a AVenida N.E.	residential	1	0	0	
+NI	3617763	104a Avenida N.E.	unclassified	1	0	0	
+NI	3617763	104a Avenida S.E.	residential	1	0	0	
+NI	3617763	104a Pasaje S.E.	living_street	1	0	0	
+NI	3617763	105a Avenida N.E.	residential	1	0	0	
+NI	3617763	105a Avenida S.E.	residential	1	0	0	
+NI	3617763	106a Avenida S.E.	living_street	1	0	0	
+NI	3617763	107 Pasillo N.E.	living_street	1	0	0	
+NI	3617763	107a Avenida N.E.	residential	1	0	0	
+NI	3617763	107a Avenida S.E.	living_street	1	0	0	
+NI	3617763	108a Avenida N.E.	living_street	1	0	0	
+NI	3617763	108a Avenida S.E.	living_street	1	0	0	
+NI	3617763	109a Avenida S.E.	living_street	1	0	0	
+NI	3617763	10a Avenida N.E.	residential	1	0	0	
+NI	3617763	10a Avenida N.O.	residential	1	0	0	
+NI	3617763	10a Avenida S.O.	residential	1	0	0	
+NI	3617763	10a Calle N.E.	residential	1	0	0	
+NI	3617763	10a Calle N.O.	residential	1	0	0	
+NI	3617763	10a Calle S.E.	residential	1	0	0	
+NI	3617763	10a Callejón S.E.	residential	1	0	0	
+NI	3617763	110a Avenida S.E.	residential	1	0	0	
+NI	3617763	111a Avenida S.E.	living_street	1	0	0	
+NI	3617763	112a Avenida S.E.	living_street	1	0	0	
+NI	3617763	113a Avenida S.E.	residential	1	0	0	
+NI	3617763	114a Avenida S.E.	residential	1	0	0	
+NI	3617763	115a Avenida S.E.	residential	1	0	0	
+NI	3617763	116a Avenida S.E.	residential	1	0	0	
+NI	3617763	117a Avenida N.E.	residential	1	0	0	
+NI	3617763	117a Avenida S.E.	residential	1	0	0	
+NI	3617763	118a Avenida S.E.	residential	1	0	0	
+NI	3617763	119a Avenida S.E.	residential	1	0	0	
+NI	3617763	11a Avenida N.E.	residential	1	0	0	
+NI	3617763	11a Avenida N.O.	residential	1	0	0	
+NI	3617763	11a Avenida S.E.	residential	1	0	0	
+NI	3617763	11a Avenida S.O.	residential	1	0	0	
+NI	3617763	11a Calle N.E.	tertiary	1	0	0	
+NI	3617763	11a Calle N.O.	residential	1	0	0	
+NI	3617763	11a Calle S.E.	tertiary	1	0	0	
+NI	3617763	11a Callejón S.E.	residential	1	0	0	
+NI	3617763	12 Pasaje N.O.	residential	1	0	0	
+NI	3617763	120a Avenida S.E.	residential	1	0	0	
+NI	3617763	121a Avenida S.E.	living_street	1	0	0	
+NI	3617763	122a Avenida S.E.	living_street	1	0	0	
+NI	3617763	123a Avenida S.E.	living_street	1	0	0	
+NI	3617763	124a Avenida S.E.	living_street	1	0	0	
+NI	3617763	12a Avenida N.E.	residential	1	0	0	
+NI	3617763	12a Avenida N.O.	secondary	1	0	0	
+NI	3617763	12a Avenida S.O.	residential	1	0	0	
+NI	3617763	12a Calle N.E.	residential	1	0	0	
+NI	3617763	12a Calle N.O.	residential	1	0	0	
+NI	3617763	12a Calle S.E.	residential	1	0	0	
+NI	3617763	12a Callejón S.E.	residential	1	0	0	
+NI	3617763	13 Calle S.E.	residential	1	0	0	
+NI	3617763	13a Avenida Diagonal N.O.	tertiary	1	0	0	
+NI	3617763	13a Avenida N.E.	residential	1	0	0	
+NI	3617763	13a Avenida N.O.	residential	1	0	0	
+NI	3617763	13a Avenida S.O.	residential	1	0	0	
+NI	3617763	13a Calle N.O.	residential	1	0	0	
+NI	3617763	13a Calle S.E.	residential	1	0	0	
+NI	3617763	13a Calle S.O.	residential	1	0	0	
+NI	3617763	13a Callejón S.E.	living_street	1	0	0	
+NI	3617763	14 Calle S.E.	residential	1	0	0	
+NI	3617763	14 Calzada S.E.	residential	1	0	0	
+NI	3617763	14a Avenida N.O.	residential	1	0	0	
+NI	3617763	14a Avenida S.E.	residential	1	0	0	
+NI	3617763	14a Avenida S.O.	residential	1	0	0	
+NI	3617763	14a Calle S.E.	residential	1	0	0	
+NI	3617763	14a Calle S.O.	residential	1	0	0	
+NI	3617763	14a Callejón S.E.	living_street	1	0	0	
+NI	3617763	15 Bajada S.E.	residential	1	0	0	
+NI	3617763	15 Calle S.E.	residential	1	0	0	
+NI	3617763	15 Callejón S.E.	residential	1	0	0	
+NI	3617763	15A Calle SO	residential	1	0	0	
+NI	3617763	15a Avenida N.E.	residential	1	0	0	
+NI	3617763	15a Avenida N.O.	residential	1	0	0	
+NI	3617763	15a Avenida S.E.	residential	1	0	0	
+NI	3617763	15a Avenida S.O.	residential	1	0	0	
+NI	3617763	15a Calle S.O.	residential	1	0	0	
+NI	3617763	15a Callejón S.E.	living_street	1	0	0	
+NI	3617763	15a Pasaje S.E.	residential	1	0	0	
+NI	3617763	15a Pje S.O.	residential	1	0	0	
+NI	3617763	16 Andén S.E.	residential	1	0	0	
+NI	3617763	16 Calle S.E.	residential	1	0	0	
+NI	3617763	16 Pje. S.E.	residential	1	0	0	
+NI	3617763	16a Avenida Diagonal N. O.	residential	1	0	0	
+NI	3617763	16a Avenida N.E.	residential	1	0	0	
+NI	3617763	16a Avenida N.O.	residential	1	0	0	
+NI	3617763	16a Avenida S.O.	residential	1	0	0	
+NI	3617763	16a Calle S.E.	residential	1	0	0	
+NI	3617763	16a Calle S.O.	residential	1	0	0	
+NI	3617763	16a Callejón S.E.	living_street	1	0	0	
+NI	3617763	16a Pasaje N.O.	living_street	1	0	0	
+NI	3617763	17 Calle S.E.	residential	1	0	0	
+NI	3617763	17A Calle SO	residential	1	0	0	
+NI	3617763	17a Avenida S.E.	residential	1	0	0	
+NI	3617763	17a Avenida S.O.	tertiary	1	0	0	
+NI	3617763	17a Calle S.E.	residential	1	0	0	
+NI	3617763	17a Calle S.O.	living_street	1	0	0	
+NI	3617763	17a Pasaje S.O.	residential	1	0	0	
+NI	3617763	17a Pje S.E.	residential	1	0	0	
+NI	3617763	18 Pasaje S.E.	residential	1	0	0	
+NI	3617763	18A Avenida So	tertiary	1	0	0	
+NI	3617763	18A Calle SO	residential	1	0	0	
+NI	3617763	18a Avenida N.E.	residential	1	0	0	
+NI	3617763	18a Avenida N.O.	tertiary	1	0	0	
+NI	3617763	18a Avenida S.E.	residential	1	0	0	
+NI	3617763	18a Avenida S.O.	residential	1	0	0	
+NI	3617763	18a Avenida SO	residential	1	0	0	
+NI	3617763	18a Calle S.E.	residential	1	0	0	
+NI	3617763	18a Calle S.O.	residential	1	0	0	
+NI	3617763	18a Callejón S.E.	living_street	1	0	0	
+NI	3617763	18a Pasaje S.E.	residential	1	0	0	
+NI	3617763	18a Pasaje S.O.	residential	1	0	0	
+NI	3617763	18a Pje S.O.	residential	1	0	0	
+NI	3617763	19 Calle S.E.	residential	1	0	0	
+NI	3617763	19 Callejón S.E.	living_street	1	0	0	
+NI	3617763	19 de Julio	living_street	1	0	0	
+NI	3617763	19a Avenida N.E.	residential	1	0	0	
+NI	3617763	19a Avenida N.O.	residential	1	0	0	
+NI	3617763	19a Avenida S.O.	residential	1	0	0	
+NI	3617763	19a Calle S.E.	residential	1	0	0	
+NI	3617763	19a Calle S.O.	residential	1	0	0	
+NI	3617763	19a Pasaje S.E.	residential	1	0	0	
+NI	3617763	1a Avenida N.E.	pedestrian	1	0	0	
+NI	3617763	1a Avenida N.O.	residential	1	0	0	
+NI	3617763	1a Avenida S.E.	living_street	1	0	0	
+NI	3617763	1a Avenida S.O.	living_street	1	0	0	
+NI	3617763	1a Calle N.E.	residential	1	0	0	
+NI	3617763	1a Calle N.O.	residential	1	0	0	
+NI	3617763	1a Calle S.E.	residential	1	0	0	
+NI	3617763	1a Calle S.O.	residential	1	0	0	
+NI	3617763	1a Callejon S.O.	residential	1	0	0	
+NI	3617763	1a Callejón S.E.	residential	1	0	0	
+NI	3617763	1a Callejón S.O.	residential	1	0	0	
+NI	3617763	1ra. Entrada Pradera del Doral	residential	1	0	0	
+NI	3617763	20a Avenida N.E.	residential	1	0	0	
+NI	3617763	20a Avenida N.O.	residential	1	0	0	
+NI	3617763	20a Avenida S.E.	residential	1	0	0	
+NI	3617763	20a Avenida S.O.	residential	1	0	0	
+NI	3617763	20a Avenida SO	residential	1	0	0	
+NI	3617763	20a Calle S.E.	tertiary	1	0	0	
+NI	3617763	20a Calle S.O.	residential	1	0	0	
+NI	3617763	21a Avenida N.E.	residential	1	0	0	
+NI	3617763	21a Avenida N.O.	residential	1	0	0	
+NI	3617763	21a Avenida S.E.	residential	1	0	0	
+NI	3617763	21a Avenida S.O.	residential	1	0	0	
+NI	3617763	21a Avenida SO	residential	1	0	0	
+NI	3617766	12a Calle NO	residential	1	0	0	
+NI	3617766	1a Avenida NO	residential	1	0	0	
+NI	3617766	1a Avenida SO	residential	1	0	0	
+NI	3617766	1a Calle NE	residential	1	0	0	
+NI	3617766	2a Avenida NE	residential	1	0	0	
+NI	3617766	2a Avenida NO	residential	1	0	0	
+NI	3617766	2a Avenida SE	residential	1	0	0	
+NI	3617766	2a Avenida SO	residential	1	0	0	
+NI	3617766	2a Calle NE	residential	1	0	0	
+NI	3617766	3a Avenida NE	residential	1	0	0	
+NI	3617766	3a Avenida NO	residential	1	0	0	
+NI	3617766	3a Avenida SE	residential	1	0	0	
+NI	3617804	NIC-53	secondary	1	0	0	
+NI	3618030	1 Calle Nor Oeste	tertiary	12	163	728	
+NI	3618030	Avenida Central	residential	6	405	6246	
+NI	3618030	3era Avenida Nor Este	residential	4	201	211	
+NI	3618030	2 Calle Norte	residential	3	301	434	
+NI	3618030	1era Avenida Nor Oeste	tertiary	2	308	504	
+NI	3618030	2da Calle Nor Oeste	residential	2	700	704	
+NI	3618030	1 Calle Norte	residential	1	0	0	
+NI	3618030	1 Calle Sur	residential	1	0	0	
+NI	3618030	10a Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	10a Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	11 Avenida Nor Oeste	unclassified	1	0	0	
+NI	3618030	11 Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	12ava Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	12ava Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	13ava Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	13ava Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	14ava Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	14ava Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	15a Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	15a Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	16ta Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	16ta Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	1era Avenida Sur Este	tertiary	1	0	0	
+NI	3618030	1era Calle Nor Este	tertiary	1	0	0	
+NI	3618030	1era Calle Nor Oeste	residential	1	0	0	
+NI	3618030	1era Calle Sur Oeste	residential	1	0	0	
+NI	3618030	1era Entrada Residencial San Mateo	residential	1	0	0	
+NI	3618030	2A Av SE	residential	1	0	0	
+NI	3618030	2da Avenida Nor Oeste	tertiary	1	0	0	
+NI	3618030	2da Avenida Sur Este	residential	1	0	0	
+NI	3618030	3 Calle Norte	residential	1	0	0	
+NI	3618030	3era Calle Nor Este	residential	1	0	0	
+NI	3618030	3era Calle Nor Oeste	residential	1	0	0	
+NI	3618030	3ra Calle Nor Este	residential	1	0	0	
+NI	3618030	4 Calle Norte	residential	1	0	0	
+NI	3618030	4 Calle Sur	tertiary	1	0	0	
+NI	3618030	4ta Calle No Este	residential	1	0	0	
+NI	3618030	5ta Avenida	tertiary	1	0	0	
+NI	3618030	5ta Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	5ta Calle Nor Este	residential	1	0	0	
+NI	3618030	5ta Calle Nor Oeste	residential	1	0	0	
+NI	3618030	6ta Calle Nor Este	tertiary	1	0	0	
+NI	3618030	7ma avenida Nor Oeste	residential	1	0	0	
+NI	3618030	9na Avenida Nor Oeste	residential	1	0	0	
+NI	3618030	9na Avenida Sur Oeste	residential	1	0	0	
+NI	3618030	9na Sur Este	tertiary	1	0	0	
+NI	3618030	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3618030	Avenida 1 Poniente	residential	1	0	0	
+NI	3618030	Avenida 3	residential	1	0	0	
+NI	3618030	Avenida 4 Poniente	residential	1	0	0	
+NI	3618030	Avenida 5 Poniente	residential	1	0	0	
+NI	3618030	Avenida 8 Poniente	tertiary	1	0	0	
+NI	3618030	Avenida José W. Mayorga S.	tertiary	1	0	0	
+NI	3618030	Avenida Pedro Arauz Palacios	tertiary	1	0	0	
+NI	3618030	Blvd. Residencial Veracruz	residential	1	0	0	
+NI	3618030	Calle 2 Norte	residential	1	0	0	
+NI	3618030	Calle Agrosa	residential	1	0	0	
+NI	3618030	Calle Central Rubén Darío	residential	1	0	0	
+NI	3618030	Calle Rubén Darío	tertiary	1	0	0	
+NI	3618030	Calle San José de Getsemani	residential	1	0	0	
+NI	3618030	Calle del Chaguite	residential	1	0	0	
+NI	3618030	Carretera La Paz - León	tertiary	1	0	0	
+NI	3618030	El Convento	residential	1	0	0	
+NI	3618030	Ferrocarril Antiguo	unclassified	1	0	0	
+NI	3618030	Pasada de La Estación	pedestrian	1	0	0	
+NI	3618030	Primera calle Reparto Rubendario	residential	1	0	0	
+NI	3618087	1a Calle SE	residential	1	0	0	
+NI	3618087	2a Avenida SE	residential	1	0	0	
+NI	3618087	2a Avenida SO	residential	1	0	0	
+NI	3618087	3a Avenida NE	residential	1	0	0	
+NI	3618087	4a Avenida SO	residential	1	0	0	
+NI	3618087	8a Calle SO	residential	1	0	0	
+NI	3618087	Avenida Central	residential	1	0	0	
+NI	3618087	Calle Central	residential	1	0	0	
+NI	3618087	Carretera Jinotega - La Trinidad	tertiary	1	0	0	
+NI	3618087	Pedro Juaquin Chamorro	residential	1	0	0	
+NI	3618124	Calle Central	secondary	1	0	0	
+NI	3618124	Carretera Las Sabanas - San José de Cusmapa	secondary	1	0	0	
+NI	3618124	Carretera San Juan de Limay - Pueblo Nuevo	tertiary	1	0	0	
+NI	3618124	Carretera San Lucas - Las Sabanas	secondary	1	0	0	
+NI	3618336	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3618336	Calle Real de Tolapa	residential	1	0	0	
+NI	3618336	Carretera Telica - San Isidro	primary	1	0	0	
+NI	3618410	Avenida Central	residential	1	0	0	
+NI	3618410	Calle Central	unclassified	1	0	0	
+NI	3618410	El Esfuerzo	residential	1	0	0	
+NI	3618410	NIC-20	tertiary	1	0	0	
+NI	3618410	NN-196	tertiary	1	0	0	
+NI	3618411	1a Avenida SE	residential	1	0	0	
+NI	3618411	1a Calle NE	residential	1	0	0	
+NI	3618411	2a Avenida SE	residential	1	0	0	
+NI	3618411	2a Avenida SO	residential	1	0	0	
+NI	3618411	2a Calle NE	residential	1	0	0	
+NI	3618411	3a Avenida NE	residential	1	0	0	
+NI	3618411	3a Avenida NO	residential	1	0	0	
+NI	3618411	3a Avenida SE	residential	1	0	0	
+NI	3618411	3a Calle SO	residential	1	0	0	
+NI	3618411	4a Avenida NE	residential	1	0	0	
+NI	3618411	4a Avenida NO	residential	1	0	0	
+NI	3618411	4a Avenida SE	residential	1	0	0	
+NI	3618411	5a Avenida NE	residential	1	0	0	
+NI	3618411	5a Calle SE	residential	1	0	0	
+NI	3618411	7a Calle SE	residential	1	0	0	
+NI	3618411	7a Calle SO	residential	1	0	0	
+NI	3618411	8a Avenida NE	unclassified	1	0	0	
+NI	3618411	9a Avenida NE	residential	1	0	0	
+NI	3618411	9a Avenida SE	unclassified	1	0	0	
+NI	3618411	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3618411	Avenida Central	tertiary	1	0	0	
+NI	3618411	Calle Central	tertiary	1	0	0	
+NI	3618411	Carretera La Paz - León	tertiary	1	0	0	
+NI	3618411	Carretera La Paz - Malpaisillo	primary	1	0	0	
+NI	3618411	La Paz Centro - Empalme Puerto Sandino	primary	1	0	0	
+NI	3618411	Rotonda La Biblia	tertiary	1	0	0	
+NI	3618482	10ma Calle Sur	living_street	1	0	0	
+NI	3618482	1ra Avenida Este	residential	1	0	0	
+NI	3618482	1ra Avenida Oeste	residential	1	0	0	
+NI	3618482	2da Av. Este	residential	1	0	0	
+NI	3618482	2da Avenida Este	residential	1	0	0	
+NI	3618482	2da Avenida Oeste	residential	1	0	0	
+NI	3618482	3ra Avenida Oeste	residential	1	0	0	
+NI	3618482	3ra Calle Sur	residential	1	0	0	
+NI	3618482	3ra avenida Este	tertiary	1	0	0	
+NI	3618482	4ta Avenida Oeste	residential	1	0	0	
+NI	3618482	Avenida Central	unclassified	1	0	0	
+NI	3618482	NIC-23A	secondary	1	0	0	
+NI	3618522	Calle Patterson	residential	1	0	0	
+NI	3618522	Carretera El Rama - Laguna de Perlas	primary	1	0	0	
+NI	3618522	Carretera Laguna de Perlas - Raitipura	residential	1	0	0	
+NI	3618522	Carretera Raitipura - Awas	residential	1	0	0	
+NI	3618522	Carretera Raitipura - Awás	unclassified	1	0	0	
+NI	3618522	Fox Street	residential	1	0	0	
+NI	3618522	Hendy Clarence Street	residential	1	0	0	
+NI	3618522	Henry Clarence Street	residential	1	0	0	
+NI	3618522	King Street	residential	1	0	0	
+NI	3618522	Moravian Street	residential	1	0	0	
+NI	3618522	Patterson Street	residential	1	0	0	
+NI	3618522	Pearl City - Raitipura Road	unclassified	1	0	0	
+NI	3618522	Pentecostal Street	residential	1	0	0	
+NI	3618522	Segundo Puente	unclassified	1	0	0	
+NI	3618522	Taylor Street	residential	1	0	0	
+NI	3618635	1a Avenida SO	residential	1	0	0	
+NI	3618635	3a Avenida SO	residential	1	0	0	
+NI	3618635	Jinotepe-La_Conquista	unclassified	1	0	0	
+NI	3618635	NIC-20	tertiary	1	0	0	
+NI	3618637	1a Avenida NE	residential	1	0	0	
+NI	3618637	1a Avenida NO	residential	1	0	0	
+NI	3618637	1a Avenida SE	tertiary	1	0	0	
+NI	3618637	1a Avenida SO	residential	1	0	0	
+NI	3618637	1a Calle NE	residential	1	0	0	
+NI	3618637	1a Calle NO	residential	1	0	0	
+NI	3618637	1a Calle SE	residential	1	0	0	
+NI	3618637	1a Calle SO	tertiary	1	0	0	
+NI	3618637	2a Avenida NO	residential	1	0	0	
+NI	3618637	2a Avenida SE	residential	1	0	0	
+NI	3618637	2a Avenida SO	tertiary	1	0	0	
+NI	3618637	2a Calle SO	residential	1	0	0	
+NI	3618648	2a Avenida NO	residential	1	0	0	
+NI	3618648	2a Avenida SO	residential	1	0	0	
+NI	3618648	3a Calle SE	residential	1	0	0	
+NI	3618648	4a Calle SO	residential	1	0	0	
+NI	3618648	8a Avenida NE	unclassified	1	0	0	
+NI	3618648	8a Avenida SE	residential	1	0	0	
+NI	3618648	Avenida Central	secondary	1	0	0	
+NI	3618648	Calle Ricardo Morales Avilés	residential	1	0	0	
+NI	3618648	Calle San Antonio	residential	1	0	0	
+NI	3618648	Calle del Cementerio	residential	1	0	0	
+NI	3618648	Carretera La Concepción	secondary	1	0	0	
+NI	3618648	Carretera La Concepción - San Marcos	secondary	1	0	0	
+NI	3618648	Carretera Ticuantepe - La Concepción	secondary	1	0	0	
+NI	3618648	La Mariposa	living_street	1	0	0	
+NI	3618648	La Sabanita	unclassified	1	0	0	
+NI	3618648	Quebrada El Algodón	residential	1	0	0	
+NI	3618791	10a Avenida NO	unclassified	1	0	0	
+NI	3618791	10a Avenida SO	unclassified	1	0	0	
+NI	3618791	11a Avenida NO	unclassified	1	0	0	
+NI	3618791	11a Avenida SO	unclassified	1	0	0	
+NI	3618791	12a Avenida SO	unclassified	1	0	0	
+NI	3618791	13a Avenida NO	unclassified	1	0	0	
+NI	3618791	13a Calle SO	unclassified	1	0	0	
+NI	3618791	1a Avenida NE	residential	1	0	0	
+NI	3618791	1a Avenida SE	residential	1	0	0	
+NI	3618791	1a Calle NO	unclassified	1	0	0	
+NI	3618791	2a Calle NO	unclassified	1	0	0	
+NI	3618791	2a Calle SO	residential	1	0	0	
+NI	3618908	Carretera al Rama		5	0	0	
+NI	3618908	10ma Calle NorOeste	residential	1	0	0	
+NI	3618908	10ma Calle SO	residential	1	0	0	
+NI	3618908	10ma Calle SurOeste	residential	1	0	0	
+NI	3618908	11ma Avenida SO	residential	1	0	0	
+NI	3618908	11ma Calle NorOeste	residential	1	0	0	
+NI	3618908	11ma Calle SO	residential	1	0	0	
+NI	3618908	12ma Calle NorOeste	residential	1	0	0	
+NI	3618908	12ma Calle SE	residential	1	0	0	
+NI	3618908	12ma Calle SO	residential	1	0	0	
+NI	3618908	12va Avenida SO	residential	1	0	0	
+NI	3618908	13va Avenida SO	residential	1	0	0	
+NI	3618908	13va Calle SurOeste	residential	1	0	0	
+NI	3618908	1a Calle NO	residential	1	0	0	
+NI	3618908	1ra Avenida SE	residential	1	0	0	
+NI	3618908	1ra Avenida SO	residential	1	0	0	
+NI	3618908	1ra. Ent. San Antonio	living_street	1	0	0	
+NI	3618908	2a Calle NO	residential	1	0	0	
+NI	3618908	2da Calle SE	residential	1	0	0	
+NI	3618908	2da Calle SO	residential	1	0	0	
+NI	3618908	2da. Ent. San Antonio	residential	1	0	0	
+NI	3618908	3da Calle NE	residential	1	0	0	
+NI	3618908	3da Calle NO	residential	1	0	0	
+NI	3618908	3ra Avenida NE	residential	1	0	0	
+NI	3618908	3ra Avenida SO	residential	1	0	0	
+NI	3618908	3ra Calle SE	residential	1	0	0	
+NI	3618908	3ra Calle SO	residential	1	0	0	
+NI	3618908	3ra Calle SurOeste	residential	1	0	0	
+NI	3618908	3rca. Ent. San Antonio	living_street	1	0	0	
+NI	3618908	4da Calle NE	residential	1	0	0	
+NI	3618908	4ta Avenida SO	residential	1	0	0	
+NI	3618908	4ta Calle NE	residential	1	0	0	
+NI	3618908	4ta Calle NorOeste	residential	1	0	0	
+NI	3618908	4ta Calle SurOeste	residential	1	0	0	
+NI	3618908	4ta. Ent. San Antonio	residential	1	0	0	
+NI	3618908	5da Calle NE	residential	1	0	0	
+NI	3618908	5ta Avenida NE	residential	1	0	0	
+NI	3618908	5ta Avenida SO	living_street	1	0	0	
+NI	3618908	5ta Calle NO	residential	1	0	0	
+NI	3618908	5ta Calle SO	residential	1	0	0	
+NI	3618908	5ta Calle SurOeste	residential	1	0	0	
+NI	3618908	6da Calle NE	residential	1	0	0	
+NI	3618908	6ta Avenida SO	residential	1	0	0	
+NI	3618908	6ta Calle SurOeste	residential	1	0	0	
+NI	3618908	7da Calle NE	residential	1	0	0	
+NI	3618908	7ma Avenida SO	residential	1	0	0	
+NI	3618908	7ma Calle NorOeste	residential	1	0	0	
+NI	3618908	7ma Calle SurOeste	residential	1	0	0	
+NI	3618908	8da Calle NE	residential	1	0	0	
+NI	3618908	8va Avenida NO	residential	1	0	0	
+NI	3618908	8va Avenida SO	residential	1	0	0	
+NI	3618908	8va Calle NorOeste	residential	1	0	0	
+NI	3618908	8va Calle SurOeste	residential	1	0	0	
+NI	3618908	9na Avenida NO	residential	1	0	0	
+NI	3618908	9na Avenida SO	residential	1	0	0	
+NI	3618908	9na Calle NO	residential	1	0	0	
+NI	3618908	9na Calle NorOeste	residential	1	0	0	
+NI	3618908	9na Calle SE	residential	1	0	0	
+NI	3618908	9na Calle SurOeste	residential	1	0	0	
+NI	3618908	Acseso peatonal a Viviendas	residential	1	0	0	
+NI	3618908	Avenida Byron Blandino	residential	1	0	0	
+NI	3618908	Avenida Isaac D´Leo	residential	1	0	0	
+NI	3618908	Avenida de los Estudiantes	pedestrian	1	0	0	
+NI	3618908	Avenida del Zoológico	residential	1	0	0	
+NI	3618908	Calle a Palo Solo	residential	1	0	0	
+NI	3618908	Calle del Rastro Municipal	residential	1	0	0	
+NI	3618908	Carretera Juigalpa - Puerto Díaz	tertiary	1	0	0	
+NI	3618908	Estación de Servicio UNO	residential	1	0	0	
+NI	3618908	Hacia Pan de Jabón	unclassified	1	0	0	
+NI	3618908	Hacia la Finca	living_street	1	0	0	
+NI	3618908	NIC-23B	secondary	1	0	0	
+NI	3618908	NIC-37A	secondary	1	0	0	
+NI	3618908	Paiwa	residential	1	0	0	
+NI	3618924	Carretera Chinandega - El Congo	primary	1	0	0	
+NI	3618924	Carretera Petacaltepe - Padre Ramos	tertiary	1	0	0	
+NI	3618926	10a Calle Sur	residential	1	0	0	
+NI	3618926	12a Calle Sur	residential	1	0	0	
+NI	3618926	1a Avenida Este	residential	1	0	0	
+NI	3618926	1a Avenida Oeste	residential	1	0	0	
+NI	3618926	1a Calle Norte	residential	1	0	0	
+NI	3618926	2a Avenida Este	residential	1	0	0	
+NI	3618926	3a Avenida	tertiary	1	0	0	
+NI	3618926	3a Avenida Este	residential	1	0	0	
+NI	3618926	3a Calle Norte	unclassified	1	0	0	
+NI	3618926	4a Calle Norte	residential	1	0	0	
+NI	3618926	4a Calle Sur	residential	1	0	0	
+NI	3618926	5a Avenida Este	residential	1	0	0	
+NI	3618926	5a Avenida Oeste	residential	1	0	0	
+NI	3618926	5a Calle Norte	residential	1	0	0	
+NI	3618926	6a Avenida Este	residential	1	0	0	
+NI	3618926	6a Avenida Oeste	residential	1	0	0	
+NI	3618926	6a Calle Sur	residential	1	0	0	
+NI	3618926	7a Avenida Este	residential	1	0	0	
+NI	3618926	7a Calle Sur	residential	1	0	0	
+NI	3618926	8a Calle Sur	residential	1	0	0	
+NI	3618926	Avenida Central	residential	1	0	0	
+NI	3618926	Calle Central	residential	1	0	0	
+NI	3618926	Carretera San Marcos - Jinotepe	secondary	1	0	0	
+NI	3618926	La_Conquista-Santa_Teresa	unclassified	1	0	0	
+NI	3618929	10a Calle	residential	1	0	0	
+NI	3618929	10a Calle SE	residential	1	0	0	
+NI	3618929	11a Calle	tertiary	1	0	0	
+NI	3618929	11a Calle SE	residential	1	0	0	
+NI	3618929	12a Calle	residential	1	0	0	
+NI	3618929	12a Calle SE	residential	1	0	0	
+NI	3618929	13a Calle	residential	1	0	0	
+NI	3618929	13a Calle SE	tertiary	1	0	0	
+NI	3618929	14a Calle	residential	1	0	0	
+NI	3618929	14a Calle SE	residential	1	0	0	
+NI	3618929	15a Calle SE	residential	1	0	0	
+NI	3618929	16a Calle SE	residential	1	0	0	
+NI	3618929	17a Calle SE	residential	1	0	0	
+NI	3618929	18a Calle SE	tertiary	1	0	0	
+NI	3618929	19a Calle SE	residential	1	0	0	
+NI	3618929	1a Avenida	residential	1	0	0	
+NI	3618929	1a Avenida NO	residential	1	0	0	
+NI	3618929	1a Avenida SE	residential	1	0	0	
+NI	3618929	1a Avenida SO	residential	1	0	0	
+NI	3618929	1a Calle	tertiary	1	0	0	
+NI	3618929	1a Calle SE	residential	1	0	0	
+NI	3618929	1a Calle SO	residential	1	0	0	
+NI	3618929	1a calle	residential	1	0	0	
+NI	3618929	2a Avenida	residential	1	0	0	
+NI	3618929	2a Avenida NE	tertiary	1	0	0	
+NI	3618929	2a Avenida NO	residential	1	0	0	
+NI	3618929	2a Avenida SE	tertiary	1	0	0	
+NI	3618929	2a Avenida SO	residential	1	0	0	
+NI	3618929	2a Calle	residential	1	0	0	
+NI	3618929	2a Calle NE	tertiary	1	0	0	
+NI	3618929	2a Calle NO	residential	1	0	0	
+NI	3618929	2a Calle SE	residential	1	0	0	
+NI	3618929	2a Calle SO	residential	1	0	0	
+NI	3618929	2a calle	residential	1	0	0	
+NI	3618929	3a Avenida	residential	1	0	0	
+NI	3618929	3a Avenida NE	residential	1	0	0	
+NI	3618929	3a Avenida SE	residential	1	0	0	
+NI	3618929	3a Calle	residential	1	0	0	
+NI	3618929	3a Calle NE	residential	1	0	0	
+NI	3618929	3a Calle NO	residential	1	0	0	
+NI	3618929	3a Calle SO	tertiary	1	0	0	
+NI	3618929	3a calle	residential	1	0	0	
+NI	3618929	4a Avenida NE	residential	1	0	0	
+NI	3618929	4a Avenida SE	tertiary	1	0	0	
+NI	3618929	4a Calle	residential	1	0	0	
+NI	3618929	4a Calle NE	residential	1	0	0	
+NI	3618929	4a Calle NO	residential	1	0	0	
+NI	3618929	4a calle	residential	1	0	0	
+NI	3618929	5a Avenida NE	tertiary	1	0	0	
+NI	3618929	5a Calle	residential	1	0	0	
+NI	3618929	5a Calle NE	residential	1	0	0	
+NI	3618929	5a Calle NO	residential	1	0	0	
+NI	3618929	5a calle	residential	1	0	0	
+NI	3618929	6a Avenida NE	residential	1	0	0	
+NI	3618929	6a Avenida SE	tertiary	1	0	0	
+NI	3618929	6a Calle	residential	1	0	0	
+NI	3618929	6a Calle NE	residential	1	0	0	
+NI	3618929	6a Calle NO	residential	1	0	0	
+NI	3618929	6a Calle SE	residential	1	0	0	
+NI	3618929	6a calle	residential	1	0	0	
+NI	3618929	7a Avenida NE	residential	1	0	0	
+NI	3618929	7a Avenida SE	residential	1	0	0	
+NI	3618929	7a Calle	residential	1	0	0	
+NI	3618929	7a Calle NO	residential	1	0	0	
+NI	3618929	7a Calle SE	residential	1	0	0	
+NI	3618929	7a calle	residential	1	0	0	
+NI	3618929	8a Avenida SE	tertiary	1	0	0	
+NI	3618929	8a Calle	residential	1	0	0	
+NI	3618929	8a Calle SE	residential	1	0	0	
+NI	3618929	8a calle	residential	1	0	0	
+NI	3618929	9a Avenida SE	residential	1	0	0	
+NI	3618929	9a Calle	residential	1	0	0	
+NI	3618929	9a Calle SE	residential	1	0	0	
+NI	3618929	Avenida Germán Pomares	secondary	1	0	0	
+NI	3618929	Avenida Principal	tertiary	1	0	0	
+NI	3618929	Calle 4 Noreste	residential	1	0	0	
+NI	3618929	Calle 5 Noreste	residential	1	0	0	
+NI	3618929	Calle Antonina de Rosales	residential	1	0	0	
+NI	3618929	Calle El Centenario	secondary	1	0	0	
+NI	3618929	Calle Ingnacio Chávez	residential	1	0	0	
+NI	3618929	Calle Las Américas	residential	1	0	0	
+NI	3618929	Calle Principal	residential	1	0	0	
+NI	3618929	Calle San Jacinto	secondary	1	0	0	
+NI	3618929	Calle Victoria Motta	tertiary	1	0	0	
+NI	3618929	Calle Yucapuca	secondary	1	0	0	
+NI	3618929	Calle del Cementerio	pedestrian	1	0	0	
+NI	3618929	Camino a la Planta Centroamérica	unclassified	1	0	0	
+NI	3618929	Camino a las Antenas de Telecomunicaciones	unclassified	1	0	0	
+NI	3618929	Carretera El Guayacán	secondary	1	0	0	
+NI	3618929	Carretera Jinotega - El Guayacán	secondary	1	0	0	
+NI	3618929	Carretera Jinotega - La Trinidad	unclassified	1	0	0	
+NI	3618929	Carretera Jinotega - Las Lomas	tertiary	1	0	0	
+NI	3618929	Carretera Las Lomas - El Cacao	tertiary	1	0	0	
+NI	3618929	Carretera Las Lomas - La Ermita de Saraguasca	unclassified	1	0	0	
+NI	3618929	Carretera Los Papales - La Fundadora	unclassified	1	0	0	
+NI	3618929	Carretera Norte	secondary	1	0	0	
+NI	3618929	Carretera Vida Joven - Santa Carmela	tertiary	1	0	0	
+NI	3618929	Carretera hacia El Cacao	unclassified	1	0	0	
+NI	3618929	Carretera hacia El Ocotalillo	unclassified	1	0	0	
+NI	3618929	Carretera hacia La Cal	unclassified	1	0	0	
+NI	3618954	11 Avenida NE	residential	1	0	0	
+NI	3618954	12a Avenida SE	residential	1	0	0	
+NI	3618954	18a Avenida SE	residential	1	0	0	
+NI	3618954	22 Avenida SE	residential	1	0	0	
+NI	3618954	24 Avenida SE	residential	1	0	0	
+NI	3618954	2a Calle SO	residential	1	0	0	
+NI	3618954	4a Calle SE	residential	1	0	0	
+NI	3618954	6a Calle SE	residential	1	0	0	
+NI	3618954	7a Calle SE	residential	1	0	0	
+NI	3618954	Calle Central	residential	1	0	0	
+NI	3618954	Calle Inmaculada	residential	1	0	0	
+NI	3618954	El coyolito Road	unclassified	1	0	0	
+NI	3618954	NIC-29	secondary	1	0	0	
+NI	3618954	Ruta a La Providencia	unclassified	1	0	0	
+NI	3618954	Yumpali	unclassified	1	0	0	
+NI	3619136	Calle La Calzada	tertiary	8	203	505	
+NI	3619136	Calle Consulado	residential	5	203	318	
+NI	3619136	Calle Nueva	residential	5	156	308	
+NI	3619136	Calle Real Xalteva	tertiary	5	205	507	
+NI	3619136	Avenida Guzman		3	303	522	
+NI	3619136	Calle El Arsenal	residential	3	205	545	
+NI	3619136	Calle El Caimito	tertiary	3	0	0	
+NI	3619136	Calle La Libertad	tertiary	3	301	783	
+NI	3619136	Turismo		3	0	0	
+NI	3619136	Calle Corral	residential	2	212	212	
+NI	3619136	Calle El Cementerio	residential	2	118	501	
+NI	3619136	Calle el Martirio		2	102	106	
+NI	3619136	El Canal		2	104	106	
+NI	3619136	Hoteles		2	0	0	
+NI	3619136	1. Entrada al Escudo	living_street	1	0	0	
+NI	3619136	1a Calle Reparto Adelita	living_street	1	0	0	
+NI	3619136	2a Avenida Norte	residential	1	0	0	
+NI	3619136	2a Avenida Norte Campo de Aterrizaje	residential	1	0	0	
+NI	3619136	2a Calle Reparto Adelita	unclassified	1	0	0	
+NI	3619136	3a Calle Reparto Adelita	residential	1	0	0	
+NI	3619136	4a Calle Reparto Adelita	residential	1	0	0	
+NI	3619136	8o Alvaro José Rocha	living_street	1	0	0	
+NI	3619136	Anden Carlos José Orozco	residential	1	0	0	
+NI	3619136	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3619136	Avenida 17 de Julio	residential	1	0	0	
+NI	3619136	Avenida Bodán	residential	1	0	0	
+NI	3619136	Avenida Carazo	residential	1	0	0	
+NI	3619136	Avenida El Domingazo	unclassified	1	0	0	
+NI	3619136	Avenida España	secondary	1	0	0	
+NI	3619136	Avenida Federico García Lorca	secondary	1	0	0	
+NI	3619136	Avenida Guzmán	residential	1	0	0	
+NI	3619136	Avenida Miguel Cervantes Savedra	residential	1	0	0	
+NI	3619136	Avenida Obispo Ulloa	residential	1	0	0	
+NI	3619136	Avenida Principal La Islita	residential	1	0	0	
+NI	3619136	Avenida Tatiana Raskoski	residential	1	0	0	
+NI	3619136	Avenida Urania Quintana Primera Etapa	residential	1	0	0	
+NI	3619136	Calle Adolfo Salazar	residential	1	0	0	
+NI	3619136	Calle Amelia Bernard	residential	1	0	0	
+NI	3619136	Calle Arroyo Carita	residential	1	0	0	
+NI	3619136	Calle Astillero El Diamante	unclassified	1	0	0	
+NI	3619136	Calle Atravesada	tertiary	1	0	0	
+NI	3619136	Calle Boca Negro	residential	1	0	0	
+NI	3619136	Calle Camilo Ortega	residential	1	0	0	
+NI	3619136	Calle Carita Feliz	residential	1	0	0	
+NI	3619136	Calle Carlos José Méndez Pérez	residential	1	0	0	
+NI	3619136	Calle Centro Turístico	tertiary	1	0	0	
+NI	3619136	Calle Centro de Salud	unclassified	1	0	0	
+NI	3619136	Calle Chavarría	residential	1	0	0	
+NI	3619136	Calle Cuiscoma	residential	1	0	0	
+NI	3619136	Calle Destilatorio	residential	1	0	0	
+NI	3619136	Calle Doctor Silvio Cuadra Sáenz	residential	1	0	0	
+NI	3619136	Calle El Almendro	residential	1	0	0	
+NI	3619136	Calle El Bolsón	residential	1	0	0	
+NI	3619136	Calle El Bolzon	residential	1	0	0	
+NI	3619136	Calle El Cisne	residential	1	0	0	
+NI	3619136	Calle El Comercio	tertiary	1	0	0	
+NI	3619136	Calle El Esfuerzo	residential	1	0	0	
+NI	3619136	Calle El Galillo	residential	1	0	0	
+NI	3619136	Calle El Ganado	residential	1	0	0	
+NI	3619136	Calle El Hormiguero	residential	1	0	0	
+NI	3619136	Calle El Martirio	residential	1	0	0	
+NI	3619136	Calle El Palenque	residential	1	0	0	
+NI	3619136	Calle El Pochote	residential	1	0	0	
+NI	3619136	Calle El Pozo de Oro	residential	1	0	0	
+NI	3619136	Calle El Ruso	living_street	1	0	0	
+NI	3619136	Calle El Yoyo	residential	1	0	0	
+NI	3619136	Calle Entrada al Rosario	residential	1	0	0	
+NI	3619136	Calle Ermita El Socorro	residential	1	0	0	
+NI	3619136	Calle Ferrocarril	residential	1	0	0	
+NI	3619136	Calle Guapinol	living_street	1	0	0	
+NI	3619136	Calle Gutiérrez	residential	1	0	0	
+NI	3619136	Calle Hermanos Hernández	residential	1	0	0	
+NI	3619136	Calle Huerto de Paz	unclassified	1	0	0	
+NI	3619136	Calle Islita	residential	1	0	0	
+NI	3619136	Calle Jon El Gran Señor	residential	1	0	0	
+NI	3619136	Calle Kusterdingen	residential	1	0	0	
+NI	3619136	Calle La Carrilera	residential	1	0	0	
+NI	3619136	Calle La Ceiba	residential	1	0	0	
+NI	3619136	Calle La Concepción	residential	1	0	0	
+NI	3619136	Calle La Estación	residential	1	0	0	
+NI	3619136	Calle La Gota de Leche	residential	1	0	0	
+NI	3619136	Calle La Hielera	residential	1	0	0	
+NI	3619136	Calle La Hoyada	residential	1	0	0	
+NI	3619136	Calle La Inmaculada	secondary	1	0	0	
+NI	3619136	Calle La Otra Banda	residential	1	0	0	
+NI	3619136	Calle La Otra Bandita	residential	1	0	0	
+NI	3619136	Calle La Pólvora	residential	1	0	0	
+NI	3619136	Calle La Sirena	residential	1	0	0	
+NI	3619136	Calle Leonora	residential	1	0	0	
+NI	3619136	Calle Mario José Rojas Cruz	residential	1	0	0	
+NI	3619136	Calle María Elena Sunsín	residential	1	0	0	
+NI	3619136	Calle Miguel Ángel Ortez	residential	1	0	0	
+NI	3619136	Calle Morazán	residential	1	0	0	
+NI	3619136	Calle Palmira	tertiary	1	0	0	
+NI	3619136	Calle Pancasán	residential	1	0	0	
+NI	3619136	Calle Principal Reparto Adelita	tertiary	1	0	0	
+NI	3619136	Calle Pueblo Chiquito	residential	1	0	0	
+NI	3619136	Calle Reparto San Carlos	residential	1	0	0	
+NI	3619136	Calle San Ignacio	residential	1	0	0	
+NI	3619136	Calle San Juan Bosco	residential	1	0	0	
+NI	3619194	Avenida 1 NO	residential	1	0	0	
+NI	3619194	Avenida 1 SE	tertiary	1	0	0	
+NI	3619194	Avenida 1 SO	residential	1	0	0	
+NI	3619194	Avenida 10 NE	residential	1	0	0	
+NI	3619194	Avenida 10 NO	residential	1	0	0	
+NI	3619194	Avenida 10 SE	residential	1	0	0	
+NI	3619194	Avenida 11 NE	residential	1	0	0	
+NI	3619194	Avenida 11 NO	residential	1	0	0	
+NI	3619194	Avenida 11 SE	residential	1	0	0	
+NI	3619194	Avenida 12 NE	residential	1	0	0	
+NI	3619194	Avenida 12 NO	residential	1	0	0	
+NI	3619194	Avenida 12 SE	residential	1	0	0	
+NI	3619194	Avenida 13 NO	residential	1	0	0	
+NI	3619194	Avenida 13 SE	residential	1	0	0	
+NI	3619194	Avenida 14 NO	residential	1	0	0	
+NI	3619194	Avenida 15 NO	residential	1	0	0	
+NI	3619194	Avenida 17 SE	residential	1	0	0	
+NI	3619194	Avenida 2 NE	residential	1	0	0	
+NI	3619194	Avenida 2 NO	residential	1	0	0	
+NI	3619194	Avenida 2 SE	residential	1	0	0	
+NI	3619194	Avenida 2 SO	residential	1	0	0	
+NI	3619194	Avenida 3 NE	residential	1	0	0	
+NI	3619194	Avenida 3 NO	residential	1	0	0	
+NI	3619194	Avenida 3 SE	residential	1	0	0	
+NI	3619194	Avenida 3 SO	residential	1	0	0	
+NI	3619194	Avenida 4 NE	residential	1	0	0	
+NI	3619194	Avenida 4 NO	residential	1	0	0	
+NI	3619194	Avenida 4 SE	residential	1	0	0	
+NI	3619194	Avenida 4 SO	residential	1	0	0	
+NI	3619194	Avenida 5 NE	residential	1	0	0	
+NI	3619194	Avenida 5 SE	residential	1	0	0	
+NI	3619194	Avenida 6	residential	1	0	0	
+NI	3619194	Avenida 6 NE	residential	1	0	0	
+NI	3619194	Avenida 6 NO	residential	1	0	0	
+NI	3619194	Avenida 6 SO	residential	1	0	0	
+NI	3619194	Avenida 7 NE	residential	1	0	0	
+NI	3619194	Avenida 7 NO	residential	1	0	0	
+NI	3619194	Avenida 7 SE	residential	1	0	0	
+NI	3619194	Avenida 8 NE	residential	1	0	0	
+NI	3619194	Avenida 8 NO	residential	1	0	0	
+NI	3619194	Avenida 8 SE	residential	1	0	0	
+NI	3619194	Avenida 9 NE	residential	1	0	0	
+NI	3619194	Avenida 9 NO	residential	1	0	0	
+NI	3619194	Avenida 9 SE	residential	1	0	0	
+NI	3619194	Avenida Central	tertiary	1	0	0	
+NI	3619194	Avenida Central Norte	tertiary	1	0	0	
+NI	3619194	Avenida Central Sur	tertiary	1	0	0	
+NI	3619194	Calle 1 NO	residential	1	0	0	
+NI	3619194	Calle 1 SE	residential	1	0	0	
+NI	3619194	Calle 1 SO	residential	1	0	0	
+NI	3619194	Calle 10 A SE	unclassified	1	0	0	
+NI	3619194	Calle 10 NE	residential	1	0	0	
+NI	3619194	Calle 10 NO	residential	1	0	0	
+NI	3619194	Calle 10 SE	residential	1	0	0	
+NI	3619194	Calle 10 SO	residential	1	0	0	
+NI	3619194	Calle 11 NE	residential	1	0	0	
+NI	3619194	Calle 11 SE	tertiary	1	0	0	
+NI	3619194	Calle 11 SO	residential	1	0	0	
+NI	3619194	Calle 12 NE	residential	1	0	0	
+NI	3619194	Calle 12 SE	residential	1	0	0	
+NI	3619194	Calle 12 SO	residential	1	0	0	
+NI	3619194	Calle 13 A SE	residential	1	0	0	
+NI	3619194	Calle 13 NE	residential	1	0	0	
+NI	3619194	Calle 13 SE	residential	1	0	0	
+NI	3619194	Calle 13 SO	residential	1	0	0	
+NI	3619194	Calle 14 NE	residential	1	0	0	
+NI	3619194	Calle 14 NO	residential	1	0	0	
+NI	3619194	Calle 14 SE	residential	1	0	0	
+NI	3619194	Calle 14 SO	residential	1	0	0	
+NI	3619194	Calle 15 NE	residential	1	0	0	
+NI	3619194	Calle 15 SE	residential	1	0	0	
+NI	3619194	Calle 15 SO	residential	1	0	0	
+NI	3619194	Calle 16 NE	residential	1	0	0	
+NI	3619194	Calle 16 SO	residential	1	0	0	
+NI	3619194	Calle 17 SE	residential	1	0	0	
+NI	3619194	Calle 17 SO	residential	1	0	0	
+NI	3619194	Calle 18 SE	residential	1	0	0	
+NI	3619194	Calle 18 SO	residential	1	0	0	
+NI	3619194	Calle 19 SE	residential	1	0	0	
+NI	3619194	Calle 2 NE	residential	1	0	0	
+NI	3619194	Calle 2 NO	residential	1	0	0	
+NI	3619194	Calle 2 SE	residential	1	0	0	
+NI	3619194	Calle 2 SO	residential	1	0	0	
+NI	3619194	Calle 20 SE	residential	1	0	0	
+NI	3619194	Calle 20 SO	residential	1	0	0	
+NI	3619194	Calle 21 SE	residential	1	0	0	
+NI	3619194	Calle 3 NE	residential	1	0	0	
+NI	3619194	Calle 3 NO	residential	1	0	0	
+NI	3619194	Calle 3 SE	residential	1	0	0	
+NI	3619194	Calle 3 SO	residential	1	0	0	
+NI	3619194	Calle 4 NE	residential	1	0	0	
+NI	3619194	Calle 4 NO	residential	1	0	0	
+NI	3619194	Calle 4 SE	residential	1	0	0	
+NI	3619194	Calle 4 SO	residential	1	0	0	
+NI	3619194	Calle 5 NE	residential	1	0	0	
+NI	3619194	Calle 5 NO	residential	1	0	0	
+NI	3619194	Calle 5 SE	residential	1	0	0	
+NI	3619194	Calle 5 SO	residential	1	0	0	
+NI	3619194	Calle 5A NE	residential	1	0	0	
+NI	3619194	Calle 6 NE	residential	1	0	0	
+NI	3619204	1a Avenida SO	residential	1	0	0	
+NI	3619204	2a Avenida SE	residential	1	0	0	
+NI	3619204	2a Avenida SO	residential	1	0	0	
+NI	3619204	2a Calle SE	secondary	1	0	0	
+NI	3619204	2a Calle SO	secondary	1	0	0	
+NI	3619204	3a Avenida SE	residential	1	0	0	
+NI	3619204	3a Avenida SO	residential	1	0	0	
+NI	3619204	3a Calle SE	residential	1	0	0	
+NI	3619204	3a Calle SO	residential	1	0	0	
+NI	3619204	4a Avenida NO	residential	1	0	0	
+NI	3619204	4a Avenida SE	residential	1	0	0	
+NI	3619204	4a Avenida SO	residential	1	0	0	
+NI	3619267	10a Calle NE	residential	1	0	0	
+NI	3619267	11a Avenida SE	residential	1	0	0	
+NI	3619267	12a Avenida SE	residential	1	0	0	
+NI	3619267	1a Avenida NE	primary	1	0	0	
+NI	3619267	1a Avenida NO	residential	1	0	0	
+NI	3619267	1a Avenida SE	residential	1	0	0	
+NI	3619267	1a Calle SE	residential	1	0	0	
+NI	3619267	1a Calle SO	residential	1	0	0	
+NI	3619267	2a Avenida NE	residential	1	0	0	
+NI	3619267	2a Avenida SE	residential	1	0	0	
+NI	3619267	2a Calle SE	residential	1	0	0	
+NI	3619267	3a Avenida NE	residential	1	0	0	
+NI	3619267	3a Avenida SE	residential	1	0	0	
+NI	3619267	3a Avenida SO	residential	1	0	0	
+NI	3619267	3a Calle NE	residential	1	0	0	
+NI	3619267	3a Calle NO	residential	1	0	0	
+NI	3619267	3a Calle SE	residential	1	0	0	
+NI	3619267	4a Avenida NE	residential	1	0	0	
+NI	3619267	4a Avenida SE	residential	1	0	0	
+NI	3619267	4a Avenida SO	residential	1	0	0	
+NI	3619267	4a Calle NE	residential	1	0	0	
+NI	3619267	4a Calle SO	residential	1	0	0	
+NI	3619267	5a Avenida NE	residential	1	0	0	
+NI	3619267	5a Avenida SE	residential	1	0	0	
+NI	3619267	5a Avenida SO	residential	1	0	0	
+NI	3619267	5a Calle SE	residential	1	0	0	
+NI	3619267	5a Calle SO	residential	1	0	0	
+NI	3619267	6a Avenida NE	residential	1	0	0	
+NI	3619267	6a Avenida NO	residential	1	0	0	
+NI	3619267	6a Avenida SE	residential	1	0	0	
+NI	3619267	6a Calle NE	tertiary	1	0	0	
+NI	3619267	6a Calle SO	residential	1	0	0	
+NI	3619267	7a Avenida SE	residential	1	0	0	
+NI	3619267	7a Calle SO	residential	1	0	0	
+NI	3619267	8a Avenida NE	residential	1	0	0	
+NI	3619267	8a Avenida SE	residential	1	0	0	
+NI	3619267	8a Calle SE	residential	1	0	0	
+NI	3619267	9a Avenida NE	residential	1	0	0	
+NI	3619267	9a Calle NE	residential	1	0	0	
+NI	3619267	9a Calle SE	residential	1	0	0	
+NI	3619267	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3619267	Avenida Central	primary	1	0	0	
+NI	3619267	Calle 1	residential	1	0	0	
+NI	3619267	Calle Central	residential	1	0	0	
+NI	3619267	Camino Hacia Ingenio Monte Rosa	unclassified	1	0	0	
+NI	3619267	Carretera Chinandega - El Congo	primary	1	0	0	
+NI	3619267	Carretera El Viejo - Tonalá	primary	1	0	0	
+NI	3619267	NIC-50	primary	1	0	0	
+NI	3619382	1a Avenida SO	residential	1	0	0	
+NI	3619382	1a Calle NE	residential	1	0	0	
+NI	3619382	1a Calle SE	residential	1	0	0	
+NI	3619382	1a Calle SO	residential	1	0	0	
+NI	3619382	2a Avenida SO	tertiary	1	0	0	
+NI	3619382	2a Calle SE	tertiary	1	0	0	
+NI	3619382	2a Calle SO	tertiary	1	0	0	
+NI	3619382	3a Avenida NE	tertiary	1	0	0	
+NI	3619382	3a Avenida SE	secondary	1	0	0	
+NI	3619382	3a Calle SO	tertiary	1	0	0	
+NI	3619382	4a Avenida SE	residential	1	0	0	
+NI	3619382	4a Calle SE	residential	1	0	0	
+NI	3619382	5a Avenida SO	residential	1	0	0	
+NI	3619382	7a Avenida NE	residential	1	0	0	
+NI	3619382	8a Calle SE	residential	1	0	0	
+NI	3619382	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3619382	Avenida Central	residential	1	0	0	
+NI	3619382	Boulevard	secondary	1	0	0	
+NI	3619382	Calle Central	secondary	1	0	0	
+NI	3619382	Carretera El Sauce - San Juan de Limay	secondary	1	0	0	
+NI	3619382	Carretera Estelí - El Sauce	tertiary	1	0	0	
+NI	3619382	NIC-38	secondary	1	0	0	
+NI	3619382	NIC-49A1	tertiary	1	0	0	
+NI	3619382	Puente El Sauce	tertiary	1	0	0	
+NI	3619419	1a Calle NE	residential	1	0	0	
+NI	3619419	1a Calle SE	residential	1	0	0	
+NI	3619419	2a Avenida NE	residential	1	0	0	
+NI	3619419	Avenida Central	residential	1	0	0	
+NI	3619419	Calle Central	residential	1	0	0	
+NI	3619420	Carretera Diriamba - La Boquita	secondary	1	0	0	
+NI	3619420	Carretera San Rafael del Sur - La Trinidad	tertiary	1	0	0	
+NI	3619420	NN-287	tertiary	1	0	0	
+NI	3619420	ruta hacia cascada	unclassified	1	0	0	
+NI	3619451	1a Avenida NE	unclassified	1	0	0	
+NI	3619451	1a Avenida SE	residential	1	0	0	
+NI	3619451	1a Avenida SO	residential	1	0	0	
+NI	3619451	1a Calle NE	residential	1	0	0	
+NI	3619451	1a Calle SE	residential	1	0	0	
+NI	3619451	2a Calle SE	unclassified	1	0	0	
+NI	3619451	3a Avenida NE	residential	1	0	0	
+NI	3619451	3a Avenida SO	residential	1	0	0	
+NI	3619451	4a Calle SO	residential	1	0	0	
+NI	3619451	5a Calle SO	residential	1	0	0	
+NI	3619451	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3619451	Avenida Central	residential	1	0	0	
+NI	3619451	Calle Central	residential	1	0	0	
+NI	3619451	Chinandega-Chichigalpa	unclassified	1	0	0	
+NI	3619451	NIC-54	tertiary	1	0	0	
+NI	3619451	NN-276	tertiary	1	0	0	
+NI	3619695	1a Avenida NO	residential	1	0	0	
+NI	3619695	3a Avenida NE	residential	1	0	0	
+NI	3619695	Carretera San Francisco Libre-Los Zarzales	secondary	1	0	0	
+NI	3619695	Carretera Telica - San Isidro	primary	1	0	0	
+NI	3619695	Larreynaga-El_Jicaral	unclassified	1	0	0	
+NI	3619695	NIC-35C	secondary	1	0	0	
+NI	3619853	123a Calle S.O.	residential	1	0	0	
+NI	3619853	131a Calle S.O.	residential	1	0	0	
+NI	3619853	Camino El Galope	tertiary	1	0	0	
+NI	3619853	Carretera Las Conchitas - Pochomil	primary	1	0	0	
+NI	3619853	Carretera Las Conchitas - San Rafael del Sur	primary	1	0	0	
+NI	3619853	Carretera Santa Ana - El Boquete	secondary	1	0	0	
+NI	3619853	Finca Utila	unclassified	1	0	0	
+NI	3619853	NN-168	tertiary	1	0	0	
+NI	3619853	a torre movistra	residential	1	0	0	
+NI	3619954	Carretera Juan Rafael Mora Porras	tertiary	1	0	0	
+NI	3619954	Muelle El Castillo	pedestrian	1	0	0	
+NI	3620084	NIC-23B	secondary	1	0	0	
+NI	3620106	1a Avenida NE	residential	1	0	0	
+NI	3620106	6a Calle NE	residential	1	0	0	
+NI	3620106	NN-114	secondary	1	0	0	
+NI	3620163	1a Avenida SE	residential	1	0	0	
+NI	3620163	2a Calle NO	residential	1	0	0	
+NI	3620163	2a Calle SE	residential	1	0	0	
+NI	3620163	2a Calle SO	residential	1	0	0	
+NI	3620163	3a Avenida NO	residential	1	0	0	
+NI	3620163	4a Calle NO	residential	1	0	0	
+NI	3620163	Antigua Vía del Ferrocarril	residential	1	0	0	
+NI	3620168	1a Avenida Este	residential	1	0	0	
+NI	3620168	1a Avenida Oeste Rubén Darío	residential	1	0	0	
+NI	3620168	1a Calle Norte	residential	1	0	0	
+NI	3620168	1a Calle Sur	residential	1	0	0	
+NI	3620168	2a Avenida Este	residential	1	0	0	
+NI	3620168	2a Avenida Oeste Rafaela Herrera	residential	1	0	0	
+NI	3620168	2a Calle Norte	residential	1	0	0	
+NI	3620168	2a Calle Sur	residential	1	0	0	
+NI	3620168	3a Avenida Este	residential	1	0	0	
+NI	3620168	3a Avenida Oeste	residential	1	0	0	
+NI	3620168	3a Calle Norte	residential	1	0	0	
+NI	3620168	3a Calle Sur	residential	1	0	0	
+NI	3620168	4a Avenida Este	residential	1	0	0	
+NI	3620168	4a Avenida Oeste	residential	1	0	0	
+NI	3620168	4a Calle Norte	residential	1	0	0	
+NI	3620168	4a Calle Sur	residential	1	0	0	
+NI	3620168	5a Avenida Oeste	residential	1	0	0	
+NI	3620168	5a Calle Sur	residential	1	0	0	
+NI	3620168	6a Calle Sur	residential	1	0	0	
+NI	3620168	Al Mombacho	unclassified	1	0	0	
+NI	3620168	Avenida Central	residential	1	0	0	
+NI	3620168	Calle Central	residential	1	0	0	
+NI	3620168	NN-196	tertiary	1	0	0	
+NI	3620170	10a Avenida NE	unclassified	1	0	0	
+NI	3620170	11a Avenida SO	residential	1	0	0	
+NI	3620170	12a Avenida SO	residential	1	0	0	
+NI	3620170	1a Avenida NE	residential	1	0	0	
+NI	3620170	1a Avenida NO	residential	1	0	0	
+NI	3620170	1a Avenida SE	residential	1	0	0	
+NI	3620170	1a Avenida SO	residential	1	0	0	
+NI	3620170	1a Calle NE	residential	1	0	0	
+NI	3620170	1a Calle NO	residential	1	0	0	
+NI	3620170	1a Calle SE	residential	1	0	0	
+NI	3620170	1a Calle SO	residential	1	0	0	
+NI	3620170	22a Calle SE	residential	1	0	0	
+NI	3620170	2a Avenida NE	residential	1	0	0	
+NI	3620170	2a Avenida SE	residential	1	0	0	
+NI	3620170	2a Calle NE	unclassified	1	0	0	
+NI	3620170	2a Calle NO	residential	1	0	0	
+NI	3620170	2a Calle SE	residential	1	0	0	
+NI	3620170	2a Calle SO	residential	1	0	0	
+NI	3620170	3a Avenida NE	residential	1	0	0	
+NI	3620170	3a Avenida SE	residential	1	0	0	
+NI	3620170	3a Calle NE	residential	1	0	0	
+NI	3620170	3a Calle NO	residential	1	0	0	
+NI	3620170	3a Calle SE	residential	1	0	0	
+NI	3620170	3a Calle SO	residential	1	0	0	
+NI	3620170	4a Avenida NE	residential	1	0	0	
+NI	3620170	4a Avenida SE	residential	1	0	0	
+NI	3620170	4a Calle NE	secondary	1	0	0	
+NI	3620170	4a Calle NO	secondary	1	0	0	
+NI	3620170	4a Calle SE	residential	1	0	0	
+NI	3620170	4a Calle SO	residential	1	0	0	
+NI	3620170	5a Avenida NE	residential	1	0	0	
+NI	3620170	5a Avenida SE	residential	1	0	0	
+NI	3620170	5a Avenida SO	residential	1	0	0	
+NI	3620170	5a Calle NE	residential	1	0	0	
+NI	3620170	5a Calle SE	residential	1	0	0	
+NI	3620170	5a Calle SO	residential	1	0	0	
+NI	3620170	6a Avenida SO	residential	1	0	0	
+NI	3620170	6a Calle NE	residential	1	0	0	
+NI	3620170	7a Calle NE	residential	1	0	0	
+NI	3620170	8a Calle NE	residential	1	0	0	
+NI	3620170	8a Calle SE	residential	1	0	0	
+NI	3620170	Avenida Central	residential	1	0	0	
+NI	3620170	Calle Central	residential	1	0	0	
+NI	3620170	Carretera Diriamba - La Boquita	secondary	1	0	0	
+NI	3620170	Diriamba-San_Marcos	unclassified	1	0	0	
+NI	3620170	NN-287	tertiary	1	0	0	
+NI	3620170	camino	unclassified	1	0	0	
+NI	3620170	camino al palo pan	unclassified	1	0	0	
+NI	3620172	Avenida El Candil	residential	1	0	0	
+NI	3620172	Avenida El Hueco	residential	1	0	0	
+NI	3620172	Avenida La Gaveta	residential	1	0	0	
+NI	3620172	Avenida Real Diriangén	residential	1	0	0	
+NI	3620172	Calle Don Teodoro	residential	1	0	0	
+NI	3620172	Calle El Cementerio	residential	1	0	0	
+NI	3620172	Calle El Rastro	residential	1	0	0	
+NI	3620172	Calle La Poma	residential	1	0	0	
+NI	3620172	Calle Laguna de Apoyo	residential	1	0	0	
+NI	3620172	Calle Monseñor Ruiz	residential	1	0	0	
+NI	3620172	Calle Profesor Félix Calero	residential	1	0	0	
+NI	3620243	1a Avenida NE	tertiary	1	0	0	
+NI	3620243	1a Calle NO	residential	1	0	0	
+NI	3620243	2a Calle SO	secondary	1	0	0	
+NI	3620243	3a Calle SO	residential	1	0	0	
+NI	3620243	NIC-37A	tertiary	1	0	0	
+NI	3620266	Calle La Loma	unclassified	1	0	0	
+NI	3620266	Calle Pasión	residential	1	0	0	
+NI	3620266	Calle Principal	secondary	1	0	0	
+NI	3620266	Via Principal	secondary	1	0	0	
+NI	3620269	16a Calle Norte	residential	1	0	0	
+NI	3620269	19a Calle Norte	residential	1	0	0	
+NI	3620269	1a Avenida Este	residential	1	0	0	
+NI	3620269	1a Avenida Oeste	residential	1	0	0	
+NI	3620269	1a Calle Sur	tertiary	1	0	0	
+NI	3620269	2a Avenida Este	residential	1	0	0	
+NI	3620269	2a Avenida Oeste	residential	1	0	0	
+NI	3620269	2a Calle Norte	residential	1	0	0	
+NI	3620269	2a Calle Sur	residential	1	0	0	
+NI	3620269	3a Avenida Oeste	tertiary	1	0	0	
+NI	3620269	3a Calle Norte	residential	1	0	0	
+NI	3620269	3a Calle Sur	residential	1	0	0	
+NI	3620269	4 Avenida Oeste	residential	1	0	0	
+NI	3620269	4a Avenida Oeste	residential	1	0	0	
+NI	3620269	4a Calle Norte	residential	1	0	0	
+NI	3620269	4a Calle Sur	tertiary	1	0	0	
+NI	3620269	5a Avenida Oeste	residential	1	0	0	
+NI	3620269	5a Calle Norte	residential	1	0	0	
+NI	3620269	6a Avenida Oeste	residential	1	0	0	
+NI	3620269	6a Calle Norte	residential	1	0	0	
+NI	3620269	7a Calle Norte	residential	1	0	0	
+NI	3620269	8a Calle Norte	residential	1	0	0	
+NI	3620269	9a Calle Norte	residential	1	0	0	
+NI	3620269	Angeles de Minab	residential	1	0	0	
+NI	3620269	Avenida Central	tertiary	1	0	0	
+NI	3620269	Barrio el Chorizo	residential	1	0	0	
+NI	3620269	Calle Central	residential	1	0	0	
+NI	3620269	Circunvalación de Corinto	secondary	1	0	0	
+NI	3620269	El_Realejo-Chichigalpa	unclassified	1	0	0	
+NI	3620269	Paso Caballos	residential	1	0	0	
+NI	3620269	Puente Esparta	unclassified	1	0	0	
+NI	3620298	13a Calle NE	residential	1	0	0	
+NI	3620298	1a Avenida NE	residential	1	0	0	
+NI	3620298	1a Avenida NO	residential	1	0	0	
+NI	3620298	1a Avenida SE	residential	1	0	0	
+NI	3620298	1a Avenida SO	residential	1	0	0	
+NI	3620298	2a Avenida NE	residential	1	0	0	
+NI	3620298	2a Calle SE	residential	1	0	0	
+NI	3620298	2a Calle SO	residential	1	0	0	
+NI	3620298	3a Calle NE	residential	1	0	0	
+NI	3620298	7a Calle NE	residential	1	0	0	
+NI	3620298	Calle Central	residential	1	0	0	
+NI	3620298	Carretera Pueblo Nuevo - Palacagüina	secondary	1	0	0	
+NI	3620298	Carretera Yalí - Condega	secondary	1	0	0	
+NI	3620298	Carretera al Rio Grande	unclassified	1	0	0	
+NI	3620298	carretera al Gamalote	unclassified	1	0	0	
+NI	3620298	carretera al sector Carlos Fonseca	unclassified	1	0	0	
+NI	3620298	carretera hacia el Gamalote	unclassified	1	0	0	
+NI	3620318	NIC-19B1	secondary	1	0	0	
+NI	3620318	NIC-37A	tertiary	1	0	0	
+NI	3620348	10a Avenida Noreste	residential	1	0	0	
+NI	3620348	1a Avenida Noreste	unclassified	1	0	0	
+NI	3620348	1a Avenida Noroeste	residential	1	0	0	
+NI	3620348	1a Avenida SO	tertiary	1	0	0	
+NI	3620348	1a Avenida Suroeste	tertiary	1	0	0	
+NI	3620348	1a Calle Noreste	unclassified	1	0	0	
+NI	3620348	1a Calle Sureste	unclassified	1	0	0	
+NI	3620348	1a Calle Suroeste	unclassified	1	0	0	
+NI	3620348	2a Avenida Noreste	unclassified	1	0	0	
+NI	3620348	2a Avenida Suroeste	residential	1	0	0	
+NI	3620348	2a Calle Noreste	unclassified	1	0	0	
+NI	3620348	2a Calle Noroeste	unclassified	1	0	0	
+NI	3620350	11a Calle NE	residential	1	0	0	
+NI	3620350	13a Calle NE	residential	1	0	0	
+NI	3620350	17a Calle NO	residential	1	0	0	
+NI	3620350	1a Avenida NE	residential	1	0	0	
+NI	3620350	1a Avenida SE	residential	1	0	0	
+NI	3620350	1a Calle SE	residential	1	0	0	
+NI	3620350	20a Calle NE	residential	1	0	0	
+NI	3620350	22a Calle NO	residential	1	0	0	
+NI	3620350	23a Calle NO	residential	1	0	0	
+NI	3620350	24a Calle NO	residential	1	0	0	
+NI	3620350	25a Calle NO	residential	1	0	0	
+NI	3620350	27a Calle NO	residential	1	0	0	
+NI	3620350	2a Avenida NE	residential	1	0	0	
+NI	3620350	2a Avenida NO	primary	1	0	0	
+NI	3620350	2a Avenida SE	residential	1	0	0	
+NI	3620350	2a Avenida SO	primary	1	0	0	
+NI	3620350	2a Calle SE	residential	1	0	0	
+NI	3620350	3a Calle SE	residential	1	0	0	
+NI	3620350	4a Avenida NE	residential	1	0	0	
+NI	3620350	4a Calle NE	residential	1	0	0	
+NI	3620350	5a Avenida NE	residential	1	0	0	
+NI	3620350	8a Calle NE	residential	1	0	0	
+NI	3620350	Avenida Azul	residential	1	0	0	
+NI	3620350	Avenida Central	residential	1	0	0	
+NI	3620353	1a Avenida NO	residential	1	0	0	
+NI	3620353	2a Avenida NO	unclassified	1	0	0	
+NI	3620353	2a Avenida SE	residential	1	0	0	
+NI	3620353	3a Avenida NO	tertiary	1	0	0	
+NI	3620353	3a Avenida SO	residential	1	0	0	
+NI	3620353	Calle Central	tertiary	1	0	0	
+NI	3620353	NN-13	tertiary	1	0	0	
+NI	3620358	1a Avenida SO	residential	1	0	0	
+NI	3620358	1a Calle SO	residential	1	0	0	
+NI	3620358	3a Avenida NO	secondary	1	0	0	
+NI	3620358	3a Avenida SO	secondary	1	0	0	
+NI	3620358	4a Avenida NO	residential	1	0	0	
+NI	3620358	Calle Central	tertiary	1	0	0	
+NI	3620358	Carretera Cinco Pinos - San Pedro del Norte	secondary	1	0	0	
+NI	3620358	Carretera Somotillo - San Juan de Limay	secondary	1	0	0	
+NI	3620358	NN-275	secondary	1	0	0	
+NI	3620381	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3620381	Avenida 1 E	tertiary	1	0	0	
+NI	3620381	Avenida 10 E	residential	1	0	0	
+NI	3620381	Avenida 12 E	residential	1	0	0	
+NI	3620381	Avenida 2 E	residential	1	0	0	
+NI	3620381	Avenida 2 O	residential	1	0	0	
+NI	3620381	Avenida 3 E	residential	1	0	0	
+NI	3620381	Avenida 4 O	residential	1	0	0	
+NI	3620381	Avenida 9 E	residential	1	0	0	
+NI	3620381	Avenida Central	residential	1	0	0	
+NI	3620381	Avenida David y Mauricio Martínez	residential	1	0	0	
+NI	3620381	Avenida Francisca de López	tertiary	1	0	0	
+NI	3620381	Avenida Rubén Darío	residential	1	0	0	
+NI	3620381	Calle 1 N	residential	1	0	0	
+NI	3620381	Calle 12 de Septiembre	residential	1	0	0	
+NI	3620381	Calle 13 S	residential	1	0	0	
+NI	3620381	Calle 17 S	residential	1	0	0	
+NI	3620381	Calle 19 S	residential	1	0	0	
+NI	3620381	Calle 2 N	residential	1	0	0	
+NI	3620381	Calle 2 S	residential	1	0	0	
+NI	3620381	Calle 22 S	residential	1	0	0	
+NI	3620381	Calle 3 N	residential	1	0	0	
+NI	3620381	Calle 31 S	residential	1	0	0	
+NI	3620381	Calle 4 N	residential	1	0	0	
+NI	3620381	Calle 5 S	residential	1	0	0	
+NI	3620381	Calle 6 S	residential	1	0	0	
+NI	3620381	Calle 7 N	residential	1	0	0	
+NI	3620381	Calle 8 S	residential	1	0	0	
+NI	3620381	Calle Centro De Salud	residential	1	0	0	
+NI	3620381	Calle El Selecto	living_street	1	0	0	
+NI	3620381	Calle Francisca de López	tertiary	1	0	0	
+NI	3620381	Calle Granadino	residential	1	0	0	
+NI	3620381	Calle Principal	residential	1	0	0	
+NI	3620381	Calle Satana	residential	1	0	0	
+NI	3620381	Carretera Chinandega - El Congo	primary	1	0	0	
+NI	3620381	Carretera Chinandega - Mata de Cacao	tertiary	1	0	0	
+NI	3620381	Ferrocarril Antiguo	unclassified	1	0	0	
+NI	3620381	NIC-12	tertiary	1	0	0	
+NI	3620381	NIC-12B	primary	1	0	0	
+NI	3620381	NIC-54	tertiary	1	0	0	
+NI	3620381	Reparte Jiron	residential	1	0	0	
+NI	3620390	10a Calle SO	residential	1	0	0	
+NI	3620390	11a Avenida SO	residential	1	0	0	
+NI	3620390	12a Calle SO	residential	1	0	0	
+NI	3620390	13a Calle SO	residential	1	0	0	
+NI	3620390	14a Calle SO	residential	1	0	0	
+NI	3620390	1a Avenida	residential	1	0	0	
+NI	3620390	2a Avenida	residential	1	0	0	
+NI	3620390	2a Avenida SE	residential	1	0	0	
+NI	3620390	2a Calle SO	residential	1	0	0	
+NI	3620390	3a Avenida	residential	1	0	0	
+NI	3620390	3a Calle SO	residential	1	0	0	
+NI	3620390	4a Avenida	residential	1	0	0	
+NI	3620390	4a Calle SE	residential	1	0	0	
+NI	3620390	4a Calle SO	residential	1	0	0	
+NI	3620390	5a Avenida	residential	1	0	0	
+NI	3620390	5a Calle SE	residential	1	0	0	
+NI	3620390	6a Avenida	residential	1	0	0	
+NI	3620390	8a Calle SE	residential	1	0	0	
+NI	3620390	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3620390	Avenida El Calvario	residential	1	0	0	
+NI	3620390	Calle Central	residential	1	0	0	
+NI	3620390	Camino Parque Ecológico Volcán San Cristóbal	unclassified	1	0	0	
+NI	3620390	Ferrocarril Antiguo	unclassified	1	0	0	
+NI	3620390	NIC-36	secondary	1	0	0	
+NI	3620390	Name=11a Calle SO	residential	1	0	0	
+NI	3620441	1a Avenida NO	residential	1	0	0	
+NI	3620441	1a Avenida SO	residential	1	0	0	
+NI	3620441	1a Calle NE	residential	1	0	0	
+NI	3620441	1a Calle NO	residential	1	0	0	
+NI	3620441	2a Avenida NO	tertiary	1	0	0	
+NI	3620441	2a Calle NE	residential	1	0	0	
+NI	3620441	3a Calle NE	residential	1	0	0	
+NI	3620441	3a Calle SO	residential	1	0	0	
+NI	3620441	Avenida Central	residential	1	0	0	
+NI	3620441	Calle Central	tertiary	1	0	0	
+NI	3620473	1a Avenida NO	residential	1	0	0	
+NI	3620473	1a Calle NO	residential	1	0	0	
+NI	3620473	1a Calle SE	tertiary	1	0	0	
+NI	3620473	3a Calle SE	residential	1	0	0	
+NI	3620473	5a Avenida SE	residential	1	0	0	
+NI	3620473	6a Avenida SE	residential	1	0	0	
+NI	3620473	Avenida Central	residential	1	0	0	
+NI	3620473	Calle Central	tertiary	1	0	0	
+NI	3620473	Camino antiguo a Samaria km 42	unclassified	1	0	0	
+NI	3620473	Camino viejo a Villa El Carmen	unclassified	1	0	0	
+NI	3620473	Entrada antigua a Samaria km 42	unclassified	1	0	0	
+NI	3620473	NIC-10	primary	1	0	0	
+NI	3620479	Avenida Central	residential	1	0	0	
+NI	3620479	Calle San Fernando	unclassified	1	0	0	
+NI	3620479	Carretera Cárdenas - Colón	secondary	1	0	0	
+NI	3620479	Carretera Sapoá - Cárdenas	secondary	1	0	0	
+NI	3620479	Carretera a La Libertad	tertiary	1	0	0	
+NI	3620479	Vía 938	tertiary	1	0	0	
+NI	3620544	1a Avenida SE	residential	1	0	0	
+NI	3620544	1a Avenida SO	residential	1	0	0	
+NI	3620544	1a Calle NE	residential	1	0	0	
+NI	3620544	1a Calle NO	residential	1	0	0	
+NI	3620544	1a Calle SE	residential	1	0	0	
+NI	3620544	1a Calle SO	residential	1	0	0	
+NI	3620544	2a Avenida NE	tertiary	1	0	0	
+NI	3620544	2a Avenida SE	residential	1	0	0	
+NI	3620544	2a Calle NE	tertiary	1	0	0	
+NI	3620544	2a Calle NO	tertiary	1	0	0	
+NI	3620544	2a Calle SO	residential	1	0	0	
+NI	3620544	3a Avenida NE	residential	1	0	0	
+NI	3620544	3a Avenida SO	residential	1	0	0	
+NI	3620544	3a Calle NO	residential	1	0	0	
+NI	3620544	3a Calle SE	residential	1	0	0	
+NI	3620544	4a Avenida SO	residential	1	0	0	
+NI	3620544	4a Calle NE	residential	1	0	0	
+NI	3620544	4a Calle NO	residential	1	0	0	
+NI	3620544	5a Avenida NO	residential	1	0	0	
+NI	3620544	5a Calle NO	residential	1	0	0	
+NI	3620544	5a Calle SE	residential	1	0	0	
+NI	3620544	5a Calle SO	residential	1	0	0	
+NI	3620544	6a Calle NO	residential	1	0	0	
+NI	3620544	6a Calle SE	residential	1	0	0	
+NI	3620544	6a Calle SO	residential	1	0	0	
+NI	3620544	7a Avenida SO	residential	1	0	0	
+NI	3620544	7a Calle NO	residential	1	0	0	
+NI	3620544	7a Calle SO	residential	1	0	0	
+NI	3620544	8a Avenida NO	residential	1	0	0	
+NI	3620544	8a Avenida SO	residential	1	0	0	
+NI	3620544	8a Calle NO	residential	1	0	0	
+NI	3620544	8a Calle SO	residential	1	0	0	
+NI	3620544	9a Avenida NE	residential	1	0	0	
+NI	3620544	9a Avenida SE	residential	1	0	0	
+NI	3620544	9a Calle NO	residential	1	0	0	
+NI	3620544	9a Calle SO	residential	1	0	0	
+NI	3620544	Avenida Central	residential	1	0	0	
+NI	3620544	Calle Central	residential	1	0	0	
+NI	3620544	NIC-17	secondary	1	0	0	
+NI	3620544	NIC-19	secondary	1	0	0	
+NI	3620544	NIC-19B1	secondary	1	0	0	
+NI	3620544	Puente Las Lajas	secondary	1	0	0	
+NI	3620544	Puente Zárrigo	secondary	1	0	0	
+NI	3620603	Carretera Fondación López Carazo - Buenos Aires	tertiary	1	0	0	
+NI	3620645	NIC-30	tertiary	1	0	0	
+NI	3620661	Camino a Bocana de Paiwas	tertiary	1	0	0	
+NI	3620663	Calle Central	residential	1	0	0	
+NI	3620663	Calle Guillermo Godínez	unclassified	1	0	0	
+NI	3620663	Calle Las Delicias	unclassified	1	0	0	
+NI	3620663	Carretera Juan Rafael Mora Porras	tertiary	1	0	0	
+NI	3620663	NN-118	tertiary	1	0	0	
+NI	3620663	NN-120	tertiary	1	0	0	
+NI	3620663	Puente de Puentón	tertiary	1	0	0	
+NI	3620674	1a Avenida Este	residential	1	0	0	
+NI	3620674	1a Avenida Oeste	residential	1	0	0	
+NI	3620674	1a Calle Norte	residential	1	0	0	
+NI	3620674	2a Avenida Este	residential	1	0	0	
+NI	3620674	2a Avenida Oeste	residential	1	0	0	
+NI	3620674	3a Avenida Este	residential	1	0	0	
+NI	3620674	3a Avenida Oeste	residential	1	0	0	
+NI	3620674	3a Calle Norte	residential	1	0	0	
+NI	3620674	4a Avenida Este	residential	1	0	0	
+NI	3620674	4a Avenida Oeste	residential	1	0	0	
+NI	3620674	4a Calle Norte	residential	1	0	0	
+NI	3620674	5a Avenida Este	residential	1	0	0	
+NI	3620674	5a Avenida Oeste	residential	1	0	0	
+NI	3620674	5a Calle Norte	residential	1	0	0	
+NI	3620674	6a Calle Sur	residential	1	0	0	
+NI	3620674	Calle tierra blanca	residential	1	0	0	
+NI	3620674	NIC-19	secondary	1	0	0	
+NI	3620674	NIC-47	tertiary	1	0	0	
+NI	3620674	NIC-59	secondary	1	0	0	
+NI	3620674	NIC-9	primary	1	0	0	
+NI	3620674	NN-102	tertiary	1	0	0	
+NI	3620674	NN-83	tertiary	1	0	0	
+NI	3620680	Aberdeen Street	residential	1	0	0	
+NI	3620680	Avenida Colón	residential	1	0	0	
+NI	3620680	Avenida Hospital	residential	1	0	0	
+NI	3620680	Avenida La Morenita	residential	1	0	0	
+NI	3620680	Avenida Lacayo	residential	1	0	0	
+NI	3620680	Avenida Nueva York	residential	1	0	0	
+NI	3620680	Avenida Patterson	residential	1	0	0	
+NI	3620680	Avenida Silais	residential	1	0	0	
+NI	3620680	Calle 11 de Julio	residential	1	0	0	
+NI	3620680	Calle Acceso Distrito Naval	unclassified	1	0	0	
+NI	3620680	Calle Aeropuerto	unclassified	1	0	0	
+NI	3620680	Calle Barrera	residential	1	0	0	
+NI	3620680	Calle Cabezas	residential	1	0	0	
+NI	3620680	Calle Clarence	tertiary	1	0	0	
+NI	3620680	Calle Colón	tertiary	1	0	0	
+NI	3620680	Calle Hansack	unclassified	1	0	0	
+NI	3620680	Calle Juárez	residential	1	0	0	
+NI	3620680	Calle King	living_street	1	0	0	
+NI	3620680	Calle La Cárcel	unclassified	1	0	0	
+NI	3620680	Calle La Loma	residential	1	0	0	
+NI	3620680	Calle Lacayo	residential	1	0	0	
+NI	3620680	Calle Lincoln	tertiary	1	0	0	
+NI	3620680	Calle Loma Verde	residential	1	0	0	
+NI	3620680	Calle Madrid	residential	1	0	0	
+NI	3620680	Calle Monroe	residential	1	0	0	
+NI	3620680	Calle Municipal	residential	1	0	0	
+NI	3620680	Calle Ojaro	residential	1	0	0	
+NI	3620680	Calle Pancasán	tertiary	1	0	0	
+NI	3620680	Calle Patterson	residential	1	0	0	
+NI	3620680	Calle Río	residential	1	0	0	
+NI	3620680	Calle Salazar	residential	1	0	0	
+NI	3620680	Calle San José	residential	1	0	0	
+NI	3620680	Calle Stephens	residential	1	0	0	
+NI	3620680	Calle Teodoro Martínez	residential	1	0	0	
+NI	3620680	Calle Universitaria	tertiary	1	0	0	
+NI	3620680	Calle Zelaya	residential	1	0	0	
+NI	3620680	Clarence Street	tertiary	1	0	0	
+NI	3620680	Court Street	residential	1	0	0	
+NI	3620680	King Street	residential	1	0	0	
+NI	3620680	Lincoln Street	residential	1	0	0	
+NI	3620680	Malecón de Santa Rosa	residential	1	0	0	
+NI	3620680	Municipal Street	residential	1	0	0	
+NI	3620680	Puente Santa Rosa	unclassified	1	0	0	
+NI	3620680	Ruta Antigua Hacia Bluefields	unclassified	1	0	0	
+NI	3620680	san pedro - santa rosa	unclassified	1	0	0	
+NI	3620734	Camino Belén-Mata de Caña	tertiary	1	0	0	
+NI	3620734	Camino Finca las Balanzas Grupo COLCA	unclassified	1	0	0	
+NI	3620734	Camino a comarca San Jose de la montana	unclassified	1	0	0	
+NI	3620734	Camino a comarca la montana	residential	1	0	0	
+NI	3620734	Tola-Belén	unclassified	1	0	0	
+NI	3620930	1a Avenida Noreste	residential	1	0	0	
+NI	3620930	1a Avenida Noroeste	unclassified	1	0	0	
+NI	3620930	1a Avenida Sureste	residential	1	0	0	
+NI	3620930	1a Avenida Suroeste	residential	1	0	0	
+NI	3620930	1a Calle Noreste	residential	1	0	0	
+NI	3620930	1a Calle Noroeste	residential	1	0	0	
+NI	3620930	1a Calle Sureste	residential	1	0	0	
+NI	3620930	1a Calle Suroeste	residential	1	0	0	
+NI	3620930	2a Avenida Noreste	residential	1	0	0	
+NI	3620930	2a Avenida Noroeste	residential	1	0	0	
+NI	3620930	2a Avenida Sureste	residential	1	0	0	
+NI	3620930	2a Avenida Suroeste	residential	1	0	0	
+NI	3620942	NN-288	tertiary	1	0	0	
+NI	3620978	10a Calle SO	residential	1	0	0	
+NI	3620978	11a Calle SO	residential	1	0	0	
+NI	3620978	1a Avenida SE	residential	1	0	0	
+NI	3620978	1a Calle NO	residential	1	0	0	
+NI	3620978	2a Avenida SO	residential	1	0	0	
+NI	3620978	2a Calle SO	living_street	1	0	0	
+NI	3620978	3a Avenida NO	residential	1	0	0	
+NI	3620978	3a Calle SE	residential	1	0	0	
+NI	3620978	4a Avenida NO	residential	1	0	0	
+NI	3620978	4a Calle SO	secondary	1	0	0	
+NI	3620978	5a Calle SE	residential	1	0	0	
+NI	3620978	6a Calle SE	residential	1	0	0	
+NI	3620978	Antigua entrada a Acoyapa	secondary	1	0	0	
+NI	3620978	Avenida Central	secondary	1	0	0	
+NI	3620978	Avenida Leonardo Núñez	secondary	1	0	0	
+NI	3620978	Calle Central	tertiary	1	0	0	
+NI	3620978	Carretera Hacia Acoyapa	primary	1	0	0	
+NI	3620978	NIC-25	primary	1	0	0	
+NI	3620978	NIC-7	primary	1	0	0	
+NI	3620982	1a Avenida SE	residential	1	0	0	
+NI	3620982	1a Avenida SO	residential	1	0	0	
+NI	3620982	1a Calle SE	tertiary	1	0	0	
+NI	3620982	2a Avenida NE	residential	1	0	0	
+NI	3620982	2a Avenida SE	residential	1	0	0	
+NI	3620982	2a Calle NO	residential	1	0	0	
+NI	3620982	2a Calle SE	residential	1	0	0	
+NI	3620982	4a Avenida NO	residential	1	0	0	
+NI	3620982	Avenida Central	residential	1	0	0	
+NI	3620982	Calle Central	residential	1	0	0	
+NI	3620982	Carretera Achupa - Villanueva	tertiary	1	0	0	
+NI	3620982	Carretera El Sauce - San Juan de Limay	secondary	1	0	0	
+NI	3828262	Ciudad Sandino	residential	5	0	0	
+NI	3828262	101vo Callejón N.O.	residential	1	0	0	
+NI	3828262	1054a Avenida N.O.	residential	1	0	0	
+NI	3828262	105a Avenida N.O.	residential	1	0	0	
+NI	3828262	106a Avenida N.O.	residential	1	0	0	
+NI	3828262	115a Avenida N.O.	residential	1	0	0	
+NI	3828262	117a Avenida N.O.	residential	1	0	0	
+NI	3828262	118a Avenida N.O.	residential	1	0	0	
+NI	3828262	127 Andén N.O.	unclassified	1	0	0	
+NI	3828262	12a Calle N.O.	residential	1	0	0	
+NI	3828262	12a Calle S.O.	residential	1	0	0	
+NI	3828262	13vo Callejón N.O.	residential	1	0	0	
+NI	3828262	14a Calle N.O.	residential	1	0	0	
+NI	3828262	14vo Callejón N.O.	residential	1	0	0	
+NI	3828262	15a Calle N.O.	residential	1	0	0	
+NI	3828262	15a Calle S.O.	residential	1	0	0	
+NI	3828262	15vo Callejón N.O.	residential	1	0	0	
+NI	3828262	17a Calle N.O.	tertiary	1	0	0	
+NI	3828262	1ra Calle	residential	1	0	0	
+NI	3828262	20a Calle N.O.	residential	1	0	0	
+NI	3828262	22 Calle Noroeste	residential	1	0	0	
+NI	3828262	22a Calle S.O.	residential	1	0	0	
+NI	3828262	23a Calle S.O.	residential	1	0	0	
+NI	3828262	24a Calle S.O.	residential	1	0	0	
+NI	3828262	25a Calle S.O.	residential	1	0	0	
+NI	3828262	27a Callejón N.O.	living_street	1	0	0	
+NI	3828262	29a Calle N.O.	residential	1	0	0	
+NI	3828262	2da Calle	residential	1	0	0	
+NI	3828262	3 Corredor N.O.	residential	1	0	0	
+NI	3828262	3ra Calle	residential	1	0	0	
+NI	3828262	4ta Calle	residential	1	0	0	
+NI	3828262	5ta Calle	residential	1	0	0	
+NI	3828262	6ta Calle	tertiary	1	0	0	
+NI	3828262	72a Avenida S.O.	residential	1	0	0	
+NI	3828262	80a Avenida S.O.	residential	1	0	0	
+NI	3828262	84a Avenida S.O.	residential	1	0	0	
+NI	3828262	85 Pasaje N.O.	living_street	1	0	0	
+NI	3828262	86 Pasaje N.O.	residential	1	0	0	
+NI	3828262	91a Avenida N.O.	tertiary	1	0	0	
+NI	3828262	94a Avenida N.O.	residential	1	0	0	
+NI	3828262	94a Avenida S.O.	residential	1	0	0	
+NI	3828262	95a Avenida N.O.	residential	1	0	0	
+NI	3828262	96a Avenida N.O.	residential	1	0	0	
+NI	3828262	98vo Avenida N.O.	residential	1	0	0	
+NI	3828262	Antigua Vía del Ferrocarril	unclassified	1	0	0	
+NI	3828262	Avenida #1	residential	1	0	0	
+NI	3828262	Avenida 1	residential	1	0	0	
+NI	3828262	Avenida 2	residential	1	0	0	
+NI	3828262	Avenida 3	residential	1	0	0	
+NI	3828262	Avenida 4	residential	1	0	0	
+NI	3828262	Avenida Nejapa	residential	1	0	0	
+NI	3828262	Bulevar Ciudad Sandino	tertiary	1	0	0	
+NI	3828262	Calle #1	residential	1	0	0	
+NI	3828262	Calle #10	residential	1	0	0	
+NI	3828262	Calle #13	residential	1	0	0	
+NI	3828262	Calle #14	residential	1	0	0	
+NI	3828262	Calle #15	living_street	1	0	0	
+NI	3828262	Calle #4	living_street	1	0	0	
+NI	3828262	Calle #5	living_street	1	0	0	
+NI	3828262	Calle #6	residential	1	0	0	
+NI	3828262	Calle #7	living_street	1	0	0	
+NI	3828262	Calle #8	residential	1	0	0	
+NI	3828262	Calle #9	living_street	1	0	0	
+NI	3828262	Calle 1	residential	1	0	0	
+NI	3828262	Calle Central Cedro Galán	residential	1	0	0	
+NI	3828262	Calle La Corona	living_street	1	0	0	
+NI	3828262	Calle Las Amapolas	residential	1	0	0	
+NI	3828262	Calle Las Flores	residential	1	0	0	
+NI	3828262	Calle Las Rosas	residential	1	0	0	
+NI	3828262	Calle Los Geranios	residential	1	0	0	
+NI	3828262	Calle Los Madroños	residential	1	0	0	
+NI	3828262	Calle Principal	residential	1	0	0	
+NI	3828262	Calle Rosario Murillo	residential	1	0	0	
+NI	3828262	Calle los tamarindos	residential	1	0	0	
+NI	3828262	Camino A Comarca La Trinidad	unclassified	1	0	0	
+NI	3828262	Camino Altos de Motastepe	tertiary	1	0	0	
+NI	3828262	Camino Gruta de Javier	residential	1	0	0	
+NI	3828262	Circular Cocibolca	residential	1	0	0	
+NI	3828262	Circular Los Jardines	residential	1	0	0	
+NI	3828262	Circunvalación Motastepe	residential	1	0	0	
+NI	3828262	Cuesta del Plomo	primary	1	0	0	
+NI	3828262	Entrada	residential	1	0	0	
+NI	3828262	Mateare-Ciudad_Sandino	unclassified	1	0	0	
+NI	3828262	NIC-46	secondary	1	0	0	
+NI	3828262	Recidencial Cedro Galán	residential	1	0	0	
+NI	7701408	8a Avenida NO	residential	1	0	0	
+NI	7701408	Calle Central	secondary	1	0	0	
+NI	7701408	Carretera Las Cruces - San Gabriel	secondary	1	0	0	
+NI	7701408	Carretera Las Praderas (Pantasma) - Wiwilí	secondary	1	0	0	
+NI	7701408	Carretera Las Praderas - Wiwilí de Jinotega	secondary	1	0	0	
+NI	7701408	Carretera Pantasma - Las Cruces	secondary	1	0	0	
+NI	7701408	Carretera Pantasma - Wiwilí de Jinotega	secondary	1	0	0	
+NI	7701408	Carretera San Rafael del Norte - Las Praderas (Pantasma)	unclassified	1	0	0	
+NI	7701408	Carretera hacia Las Praderas (Pantasma)	unclassified	1	0	0	
+NI	7701408	Carretera hacia San Gabriel	secondary	1	0	0	
+NI	7701408	Cuesta de Guale	secondary	1	0	0	
+NI	7701408	Cuesta de Loma Alta	secondary	1	0	0	
+NI	9613285	Carretera San Rafael del Norte - Las Praderas (Pantasma)	unclassified	1	0	0	
+NI	11279237	10a Calle SE	living_street	1	0	0	
+NI	11279237	11a Calle SE	living_street	1	0	0	
+NI	11279237	12a Calle SE	residential	1	0	0	
+NI	11279237	1a Avenida SE	residential	1	0	0	
+NI	11279237	2a Avenida SE	residential	1	0	0	
+NI	11279237	3a Avenida SE	secondary	1	0	0	
+NI	11279237	6a Calle SE	living_street	1	0	0	
+NI	11279237	7a Calle SE	residential	1	0	0	
+NI	11279237	Carretera Las Praderas - Wiwilí de Jinotega	secondary	1	0	0	
+NI	11911379	1a Avenida SE	residential	1	0	0	
+NI	11911379	2a Avenida SE	residential	1	0	0	
+NI	11911379	2a Calle SE	residential	1	0	0	
+NI	11911379	2a Calle SO	residential	1	0	0	
+NI	11911379	3a Calle SO	residential	1	0	0	
+NI	11911379	6a Calle SE	residential	1	0	0	
+NI	11911379	7a Calle SO	residential	1	0	0	
+NI	11911379	Avenida Central	residential	1	0	0	
+NI	11911379	Calle El Cementerio	residential	1	0	0	
+NI	11911379	Caller Real	unclassified	1	0	0	
+NI	11911379	Camino La Ceiba a La Manga	tertiary	1	0	0	
+NI	11911379	NN-115	tertiary	1	0	0	
+NI	11911820	1a Avenida NE	residential	1	0	0	
+NI	11911820	1a Calle NO	residential	1	0	0	
+NI	11911820	1a Calle SE	residential	1	0	0	
+NI	11911820	2a Avenida SE	residential	1	0	0	
+NI	11911820	2a Calle NE	residential	1	0	0	
+NI	11911820	4a Avenida NE	residential	1	0	0	
+NI	11911820	5a Avenida SE	residential	1	0	0	
+NI	11911820	6a Avenida SE	residential	1	0	0	
+NI	11911820	9a Avenida NE	residential	1	0	0	
+NI	11911820	9a Avenida SE	residential	1	0	0	
+NI	11911820	Calle Central	residential	1	0	0	
+NI	11911820	NIC-23B	secondary	1	0	0	
+NI	11911831	10a Calle NE	residential	1	0	0	
+NI	11911831	11a Calle NE	residential	1	0	0	
+NI	11911831	2a Avenida NE	residential	1	0	0	
+NI	11911831	2a Calle NE	residential	1	0	0	
+NI	11911831	4a Avenida NE	residential	1	0	0	
+NI	11911831	6a Avenida NE	residential	1	0	0	
+NI	11911831	Camino Abajo	unclassified	1	0	0	
+NI	11911831	Carretera La Colonia - San Luis	unclassified	1	0	0	
+NI	11911831	Carretera Waslala a empalme Rancho Grande	secondary	1	0	0	
+NI	11911831	NIC-5	secondary	1	0	0	
+NI	11911832	1a Avenida NO	tertiary	1	0	0	
+NI	11911832	Avenida La Castilla	residential	1	0	0	
+NI	11911832	Calle Central	tertiary	1	0	0	
+NI	11911832	Carretera Hacia El Bote	tertiary	1	0	0	
+NI	11911832	Carretera Waslala a empalme Rancho Grande	secondary	1	0	0	
+NI	11911832	Carretera a Rancho Grande	tertiary	1	0	0	
+NI	11911832	NIC-5	secondary	1	0	0	

@@ -1,0 +1,1443 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+ZM	175961	Mbala-Mpulungu Road	primary	1	0	0	
+ZM	176146	Kasesha Road	primary	1	0	0	
+ZM	176146	Kawama Road	unclassified	1	0	0	
+ZM	176146	Little Poland Road	residential	1	0	0	
+ZM	176146	Makanta Avenue	tertiary	1	0	0	
+ZM	897045	Kankasa Road	unclassified	1	0	0	
+ZM	897045	Katondo	residential	1	0	0	
+ZM	897045	Kisu Road	unclassified	1	0	0	
+ZM	897045	Magrade Last Road	residential	1	0	0	
+ZM	897045	Magrade Road	residential	1	0	0	
+ZM	897045	Mushitala Loop	residential	1	0	0	
+ZM	897045	Trident Road	unclassified	1	0	0	
+ZM	897456	Chalets Road	unclassified	1	0	0	
+ZM	898188	Lake Drive	primary	1	0	0	
+ZM	898905	Airport Street	residential	1	0	0	
+ZM	898905	Katima Mulilo Bridge	primary	1	0	0	
+ZM	898912	Great North Road		3	1	1	
+ZM	898912	Ibolelo Road	tertiary	1	0	0	
+ZM	898947	Hospital Street	residential	1	0	0	
+ZM	899274	D95	unclassified	1	0	0	
+ZM	899274	Mansa - Samfya Road	tertiary	1	0	0	
+ZM	899825	Boma Road	secondary	1	0	0	
+ZM	899825	Nyamphande Road	tertiary	1	0	0	
+ZM	899825	Ukwimi Road	tertiary	1	0	0	
+ZM	901344	Broadway	secondary	2	88	102	
+ZM	901344	Kenya Road		2	9	13	
+ZM	901344	Mupundu Road	residential	2	6	8	
+ZM	901344	Vitanda Street	tertiary	2	1	16	
+ZM	901344	Airport Road	tertiary	1	0	0	
+ZM	901344	Anoya Zulu Road	residential	1	0	0	
+ZM	901344	Arusha Street	residential	1	0	0	
+ZM	901344	Azad Road	residential	1	0	0	
+ZM	901344	Beatty Avenue	residential	1	0	0	
+ZM	901344	Blantyre Road	residential	1	0	0	
+ZM	901344	Bomba Close	residential	1	0	0	
+ZM	901344	Boundary Road	residential	1	0	0	
+ZM	901344	Buchetekelo Crescent	residential	1	0	0	
+ZM	901344	Buka Close	residential	1	0	0	
+ZM	901344	Bulimi Road	residential	1	0	0	
+ZM	901344	Bupingulo Avenue	residential	1	0	0	
+ZM	901344	Burton	residential	1	0	0	
+ZM	901344	Buteko Avenue	unclassified	1	0	0	
+ZM	901344	Bwalo Street	residential	1	0	0	
+ZM	901344	Byng Avenue	residential	1	0	0	
+ZM	901344	Canberra Close	residential	1	0	0	
+ZM	901344	Chifubu Road	secondary	1	0	0	
+ZM	901344	Chimwemwe Road	unclassified	1	0	0	
+ZM	901344	Chinika Road	secondary	1	0	0	
+ZM	901344	Chintu Road	residential	1	0	0	
+ZM	901344	Chirupula Road	residential	1	0	0	
+ZM	901344	Chisokone Road	unclassified	1	0	0	
+ZM	901344	Cross Crescent	unclassified	1	0	0	
+ZM	901344	Depot Road	residential	1	0	0	
+ZM	901344	Dominic Moomba Road	residential	1	0	0	
+ZM	901344	Dr Damie Street	residential	1	0	0	
+ZM	901344	Entebbe Road	residential	1	0	0	
+ZM	901344	Evelyn Crescent	residential	1	0	0	
+ZM	901344	Evelyn Road	residential	1	0	0	
+ZM	901344	Feira Street	residential	1	0	0	
+ZM	901344	Fitente Road	secondary	1	0	0	
+ZM	901344	French Avenue	residential	1	0	0	
+ZM	901344	Fyesu Road	residential	1	0	0	
+ZM	901344	Ghandi Road	residential	1	0	0	
+ZM	901344	Goodall Road	residential	1	0	0	
+ZM	901344	Gough Avenue	residential	1	0	0	
+ZM	901344	Hammarskjoeld Drive	secondary	1	0	0	
+ZM	901344	Independence Avenue	unclassified	1	0	0	
+ZM	901344	Ituna Road	residential	1	0	0	
+ZM	901344	Kabelenga Avenue	residential	1	0	0	
+ZM	901344	Kabinga Avenue	residential	1	0	0	
+ZM	901344	Kabompo Road	residential	1	0	0	
+ZM	901344	Kabushi Road	secondary	1	0	0	
+ZM	901344	Kafue Road	residential	1	0	0	
+ZM	901344	Kagona Road	residential	1	0	0	
+ZM	901344	Kalewa Road	unclassified	1	0	0	
+ZM	901344	Kamimbi Close	residential	1	0	0	
+ZM	901344	Kampala Road	residential	1	0	0	
+ZM	901344	Kangere Road	residential	1	0	0	
+ZM	901344	Kanongesha Road	residential	1	0	0	
+ZM	901344	Kapele Road	residential	1	0	0	
+ZM	901344	Kasempa Lane	residential	1	0	0	
+ZM	901344	Kasusu Road	residential	1	0	0	
+ZM	901344	Katutwa Road	residential	1	0	0	
+ZM	901344	Kaunda Road	residential	1	0	0	
+ZM	901344	King George Avenue West	residential	1	0	0	
+ZM	901344	Kisumu Road	residential	1	0	0	
+ZM	901344	Kopa Road	residential	1	0	0	
+ZM	901344	Kwacha Road	secondary	1	0	0	
+ZM	901344	Langashi Close	residential	1	0	0	
+ZM	901344	Lechwe Street	residential	1	0	0	
+ZM	901344	Lewanika Street	residential	1	0	0	
+ZM	901344	Liberia Road	unclassified	1	0	0	
+ZM	901344	Livingstone Road	unclassified	1	0	0	
+ZM	901344	Luangwa Road	residential	1	0	0	
+ZM	901344	Luneta Road	residential	1	0	0	
+ZM	901344	Lusemfwa Road	tertiary	1	0	0	
+ZM	901344	Macha Road	residential	1	0	0	
+ZM	901344	Makoli Avenue	unclassified	1	0	0	
+ZM	901344	Mango Street	secondary	1	0	0	
+ZM	901344	Martin Banda Road	residential	1	0	0	
+ZM	901344	Maybin Crescent	residential	1	0	0	
+ZM	901344	Mbala Road	residential	1	0	0	
+ZM	901344	Minsundu Road	tertiary	1	0	0	
+ZM	901344	Moffat Avenue	unclassified	1	0	0	
+ZM	901344	Mulimbwa Road	residential	1	0	0	
+ZM	901344	Mulobezi Road	residential	1	0	0	
+ZM	901344	Mungule Road	residential	1	0	0	
+ZM	901344	Musokotwane Road	residential	1	0	0	
+ZM	901344	Mwabombeni Road	residential	1	0	0	
+ZM	901344	Mwinilunga Close	residential	1	0	0	
+ZM	901344	Naidu Close	unclassified	1	0	0	
+ZM	901344	Nawaitwika Road	residential	1	0	0	
+ZM	901344	Nelson Avenue	residential	1	0	0	
+ZM	901344	Nelson Mandela Road	residential	1	0	0	
+ZM	901344	Nkandabwe Road	residential	1	0	0	
+ZM	901344	Pamodzi Road	tertiary	1	0	0	
+ZM	901344	Petauke Crescent	residential	1	0	0	
+ZM	901344	President Avenue	secondary	1	0	0	
+ZM	901344	Shibuchinga Road	residential	1	0	0	
+ZM	901344	Small Street	residential	1	0	0	
+ZM	901344	St. Andrew's Close	residential	1	0	0	
+ZM	901344	Tagore Road	residential	1	0	0	
+ZM	901344	Tanzania Road	residential	1	0	0	
+ZM	901344	Tata Road	residential	1	0	0	
+ZM	901344	The Oval	residential	1	0	0	
+ZM	901344	Uplands Close	residential	1	0	0	
+ZM	901344	Vitanda Road	unclassified	1	0	0	
+ZM	901344	Wilson Sakala Road	residential	1	0	0	
+ZM	902620	Lunga View Road	unclassified	1	0	0	
+ZM	902620	Mwinilunga Boarding Road	unclassified	1	0	0	
+ZM	902620	Zesco Road	residential	1	0	0	
+ZM	904422	Chibolyo	residential	1	0	0	
+ZM	904422	Mongu Road	primary	1	0	0	
+ZM	904422	Mumbwa Road	primary	1	0	0	
+ZM	905395	Buteko Street	tertiary	1	0	0	
+ZM	905395	Butondo Road	tertiary	1	0	0	
+ZM	905395	Bwalya Crescent	residential	1	0	0	
+ZM	905395	David Kaunda Drive	residential	1	0	0	
+ZM	905395	Itumbi Avenue	residential	1	0	0	
+ZM	905395	Jomo Kenyata Avenue	tertiary	1	0	0	
+ZM	905395	Jomo Kenyatta Avenue	residential	1	0	0	
+ZM	905395	Kambalange Drive	tertiary	1	0	0	
+ZM	905395	Maina Soko	tertiary	1	0	0	
+ZM	905395	Milemba Avenue	residential	1	0	0	
+ZM	905395	Mulilansolo Avenue	residential	1	0	0	
+ZM	905395	Ndola Road	primary	1	0	0	
+ZM	905395	Omelo Mumba	residential	1	0	0	
+ZM	905395	Pempuleni Avenue	unclassified	1	0	0	
+ZM	905395	Samfya Avenue	residential	1	0	0	
+ZM	905846	Musakanya Kombe Road	unclassified	1	0	0	
+ZM	906054	Limulunga Road	secondary	1	0	0	
+ZM	906054	Mongu Road	primary	1	0	0	
+ZM	906221	ILUME ROAD	tertiary	1	0	0	
+ZM	907111	Nyerere Street	residential	2	6700	6700	
+ZM	907111	Allanson Close	residential	1	0	0	
+ZM	907111	Cha cha cha Road	residential	1	0	0	
+ZM	907111	Chirundu way	unclassified	1	0	0	
+ZM	907111	Coimbatore lane	residential	1	0	0	
+ZM	907111	Kabanje Road	residential	1	0	0	
+ZM	907111	Kaonga Road	unclassified	1	0	0	
+ZM	907111	Main Steet	residential	1	0	0	
+ZM	907111	Mango road	unclassified	1	0	0	
+ZM	907111	Mulungushi Road	residential	1	0	0	
+ZM	907111	Mwanachingwala road	unclassified	1	0	0	
+ZM	907111	Shabeenzu Avenue	residential	1	0	0	
+ZM	907770	Cathedral Road	unclassified	1	0	0	
+ZM	907770	Chimpampwe Road	residential	1	0	0	
+ZM	907770	Mansa - Samfya Road	primary	1	0	0	
+ZM	908718	Batoka - Maamba Road	secondary	1	0	0	
+ZM	909137	Makeni Villa		2267	37	9710	
+ZM	909137	Makeni villa		834	86	143	
+ZM	909137	makeni villa		652	44	165	
+ZM	909137	Garden House		563	27	119	
+ZM	909137	Mbasela		499	16	64	
+ZM	909137	masauko		431	58	6057	
+ZM	909137	old kanyama		375	18	220	
+ZM	909137	Masauko		354	58	602	
+ZM	909137	kanyama		350	6	3321	
+ZM	909137	First Road	unclassified	250	16	2015	
+ZM	909137	Shalom		250	11	148	
+ZM	909137	Kanyama Makeni Villa		244	166	184	
+ZM	909137	Makeni Vila		225	98	197	
+ZM	909137	kanyama west		214	17	102	
+ZM	909137	basela		205	26	49	
+ZM	909137	first road		195	12	18	
+ZM	909137	new kanyama		195	6	479	
+ZM	909137	Kabuma		193	18	51	
+ZM	909137	Chinika		187	6	25	
+ZM	909137	Masauko Road	residential	186	60	82	
+ZM	909137	Kanyama		183	44	328	
+ZM	909137	Bus Stop		176	76	711	
+ZM	909137	mutanda Bantu		170	21	56	
+ZM	909137	shalom		168	145	152	
+ZM	909137	Kanono Street		167	36	139	
+ZM	909137	kwa banda		162	67	88	
+ZM	909137	Kanyama Bus Stop		156	27	75	
+ZM	909137	kanono		133	38	64	
+ZM	909137	superior		127	9	25	
+ZM	909137	mutanda bantu		121	52	171	
+ZM	909137	New kanyama		118	22	386	
+ZM	909137	kwa Banda		116	66	70	
+ZM	909137	makeni simson		116	85	1602	
+ZM	909137	mbasera road		115	18	68	
+ZM	909137	New Kanyama		107	6	237	
+ZM	909137	simoson		102	162	687	
+ZM	909137	makeni Villa		100	135	192	
+ZM	909137	kwacha		98	376	6149	
+ZM	909137	Old Kanyama		97	18	702	
+ZM	909137	bombers		95	67	132	
+ZM	909137	kadoli		93	8	1960	
+ZM	909137	Banda Masauko		92	62	70	
+ZM	909137	Kanono		91	38	88	
+ZM	909137	Los Angeles		89	78	2191	
+ZM	909137	Los Angeles Road	secondary	85	78	83	
+ZM	909137	banda		84	85	8547	
+ZM	909137	Makani Vila		82	98	187	
+ZM	909137	garden house		80	32	104	
+ZM	909137	Makani Valley		77	109	170	
+ZM	909137	Bombasi		73	31	134	
+ZM	909137	choipa road		73	80	8081	
+ZM	909137	Mutanda Bantu	residential	71	57	73	
+ZM	909137	Makani simsom		69	87	159	
+ZM	909137	Makeni		69	83	184	
+ZM	909137	Poleni		69	26	28	
+ZM	909137	Makeni Simson		67	63	163	
+ZM	909137	mutanda banthu		62	54	56	
+ZM	909137	malango		60	8	1959	
+ZM	909137	chinika		59	22	128	
+ZM	909137	Kwa banda		58	88	88	
+ZM	909137	mbasela		58	29	57	
+ZM	909137	ligoms		57	100	100	
+ZM	909137	malango Street		56	95	2031	
+ZM	909137	Bombars		53	38	134	
+ZM	909137	chipatala		52	66	165	
+ZM	909137	kanyama bus stop		49	21	54	
+ZM	909137	Chinika Chat		48	12	2513	
+ZM	909137	Tabwela Road	unclassified	47	265	1663	
+ZM	909137	Youngstar		47	66	66	
+ZM	909137	masuako road		47	73	532	
+ZM	909137	Banda masauko		45	68	87	
+ZM	909137	Saint Mornica		45	165	165	
+ZM	909137	Zone 10		45	48	48	
+ZM	909137	GARDEN HOUSE		44	101	116	
+ZM	909137	odd		44	8	1003	
+ZM	909137	Lady Diana		43	1291	1503	
+ZM	909137	abwino ayende		43	278	438	
+ZM	909137	Man Jerald		42	179	181	
+ZM	909137	Transmitter area		42	38	43	
+ZM	909137	nalutete road		41	100	104	
+ZM	909137	sun rise		41	47	63	
+ZM	909137	Kanyama West		40	102	105	
+ZM	909137	hard days		40	65	68	
+ZM	909137	Evergreen Area		39	34	43	
+ZM	909137	Superior		39	22	5079	
+ZM	909137	mutanda		39	5	6314	
+ZM	909137	Hard Days		38	64	6404	
+ZM	909137	Kanyama west		38	34	36	
+ZM	909137	melenium		38	1591	8685	
+ZM	909137	Police road		37	30	31	
+ZM	909137	magwaba Bombaz		36	99	132	
+ZM	909137	makani simsom		36	59	159	
+ZM	909137	Great East Road	primary	35	12	3829	
+ZM	909137	Malango		35	8	80	
+ZM	909137	Ligoms		34	32	116	
+ZM	909137	Mama Emma		34	180	1810	
+ZM	909137	St Monica road		34	166	166	
+ZM	909137	Maken Villa		32	161	162	
+ZM	909137	maken villa		32	161	162	
+ZM	909137	Kuma Church		31	20	2140	
+ZM	909137	Ngumbo Road	residential	30	3	21	
+ZM	909137	sangalala road		30	65	68	
+ZM	909137	Mpondamali Area		28	110	116	
+ZM	909137	Y road		27	114	124	
+ZM	909137	Kasangula Road	secondary	25	194	6526	
+ZM	909137	Mumbwa First Road		25	40	144	
+ZM	909137	makeni		25	89	158	
+ZM	909137	Nakatindi		24	46	6403	
+ZM	909137	chimwele		24	1212	6148	
+ZM	909137	tabwela		24	3	1217	
+ZM	909137	Bus stop		23	21	488	
+ZM	909137	Kakola Road	residential	23	2	242	
+ZM	909137	Masauka		23	58	60	
+ZM	909137	Mpondamali road		23	108	110	
+ZM	909137	Musuku Street		23	132	151	
+ZM	909137	Zone 11		23	1	179	
+ZM	909137	first road mumbwa		23	16	16	
+ZM	909137	hard talk		23	46	235	
+ZM	909137	Mukula Street		21	105	126	
+ZM	909137	masauko road		21	70	96	
+ZM	909137	Garden house		20	108	114	
+ZM	909137	Kafue Road	primary	20	1647	1647	
+ZM	909137	Muchenje Street		19	88	914	
+ZM	909137	Young Star		19	62	69	
+ZM	909137	zone11		19	36	3635	
+ZM	909137	Masauko paradise		18	70	7077	
+ZM	909137	Musangu Street		18	82	889	
+ZM	909137	maken		18	1595	2192	
+ZM	909137	nalutete		18	100	104	
+ZM	909137	Miombo Street		17	29	103	
+ZM	909137	Mumbwa Road Area		16	17	19	
+ZM	909137	Mutanda Bathu		16	56	72	
+ZM	909137	Pan blick road		16	27	91	
+ZM	909137	Makeni vella		15	174	192	
+ZM	909137	Masauko Paradise		15	70	74	
+ZM	909137	Old kanyama		15	46	63	
+ZM	909137	Thabo Mbeki Road, ehind Arcades , Opposite Protea Hotel .		15	2372	2372	
+ZM	909137	chalo		15	10	1073	
+ZM	909137	monica		15	66	165	
+ZM	909137	Magwaba Bombaz		14	97	128	
+ZM	909137	chilikulia road		14	690	704	
+ZM	909137	st Monica road		14	166	166	
+ZM	909137	1		13	7	668	
+ZM	909137	Kwa Banda		13	85	86	
+ZM	909137	Makani Villa		13	98	173	
+ZM	909137	chalo n bathu road		13	56	90	
+ZM	909137	chikulu kulya road		13	6	685	
+ZM	909137	geoget		13	1388	9021	
+ZM	909137	khola road		13	11	31	
+ZM	909137	lesa wabonse road		13	166	166	
+ZM	909137	nyakezu road		13	44	45	
+ZM	909137	police road		13	30	31	
+ZM	909137	Kafue Rd (Makeni Mall)		12	1	1	
+ZM	909137	Los Angeles Boulevard	secondary	12	1	4899	
+ZM	909137	Mumbwa Road	primary	12	17	110	
+ZM	909137	legoms road		12	33	100	
+ZM	909137	masuko road		12	38	70	
+ZM	909137	mutanda bantu road		12	46	4612	
+ZM	909137	Chilimbulu Road	secondary	11	2710	2712	
+ZM	909137	Legoms		11	100	100	
+ZM	909137	Lusiwasi Road	residential	11	1	5523	
+ZM	909137	Monica		11	66	164	
+ZM	909137	Nyakezu		11	43	73	
+ZM	909137	abwino ayende route 3		11	302	308	
+ZM	909137	pan blick road		11	27	39	
+ZM	909137	Chaholi Road	residential	10	5	17	
+ZM	909137	Makenk Villa		10	173	173	
+ZM	909137	Mutanda bantu		10	46	5757	
+ZM	909137	St Monica Road		10	166	166	
+ZM	909137	Twashuka		10	94	173	
+ZM	909137	kanyama West		10	105	105	
+ZM	909137	supior		10	23	23	
+ZM	909137	Independence Avenue	secondary	9	74	5210	
+ZM	909137	Los Angeles road		9	78	78	
+ZM	909137	Magoye Road	unclassified	9	3	14	
+ZM	909137	Makani simson		9	94	95	
+ZM	909137	Mopani Street		9	510	911	
+ZM	909137	Transmitter road		9	4	38	
+ZM	909137	Zambezi Road	secondary	9	2	2188	
+ZM	909137	nakatindi road		9	46	46	
+ZM	909137	Kacha Road		8	9592	9592	
+ZM	909137	Lesa wabonse road		8	166	166	
+ZM	909137	Mbasela Road	unclassified	8	16	17	
+ZM	909137	New Kenyama Complex		8	1224	1469	
+ZM	909137	kanyama Site & Service		8	1219	1428	
+ZM	909137	makoma		8	6398	6472	
+ZM	909137	masuako		8	73	235	
+ZM	909137	new kanyama road		8	610	621	
+ZM	909137	Chitimukulu		7	27	27	
+ZM	909137	HardTalk		7	65	65	
+ZM	909137	Los Angeles Area		7	83	8325	
+ZM	909137	MASAUKO		7	6	60	
+ZM	909137	Twikatane Road	residential	7	1	9	
+ZM	909137	eutop		7	85	8569	
+ZM	909137	firstroad		7	14	14	
+ZM	909137	kabuma		7	21	50	
+ZM	909137	muchi		7	21	21	
+ZM	909137	musandile		7	84	84	
+ZM	909137	Chiparamba Road	tertiary	6	0	0	
+ZM	909137	Haile Selassie Avenue	secondary	6	1105	5218	
+ZM	909137	MPONDA MALI		6	108	110	
+ZM	909137	Mutanda bathu road		6	55	55	
+ZM	909137	Rome road		6	6	677	
+ZM	909137	bus stop		6	78	78	
+ZM	909137	mbasela road		6	68	69	
+ZM	909137	Alick Nkhata Road	secondary	5	3	1779	
+ZM	909137	Banda masauku		5	87	87	
+ZM	909137	Dedan Kimathi Road	unclassified	5	0	0	
+ZM	909137	Kanyama Commersa area		5	35	35	
+ZM	909137	Mululwe Street		5	511	515	
+ZM	909137	Musandile		5	84	84	
+ZM	909137	Nyati Close	residential	5	1	6	
+ZM	909137	Off Pendela Road.		5	0	0	
+ZM	909137	Police		5	29	34	
+ZM	909137	Suez Road	residential	5	6941	6941	
+ZM	909137	The Littles street		5	297	299	
+ZM	909137	fitu n wagu road		5	55	57	
+ZM	909137	ku ma chechi road		5	6	38	
+ZM	909137	ma chechi road		5	6	2087	
+ZM	909137	makeni Vila		5	170	170	
+ZM	909137	mumbwa road		5	2	27	
+ZM	909137	George		4	337	337	
+ZM	909137	Joseph Mwilwa Road	residential	4	25	30	
+ZM	909137	Kanyama Bus stop		4	54	54	
+ZM	909137	Leopards Hill Road	secondary	4	53	2321	
+ZM	909137	Mberere Road	residential	4	6618	6730	
+ZM	909137	Mukwa Street		4	81	85	
+ZM	909137	Sakunwa		4	42	42	
+ZM	909137	bombasi		4	39	134	
+ZM	909137	kanyama site and service		4	1219	1435	
+ZM	909137	legoms		4	33	100	
+ZM	909137	mandala		4	13	13	
+ZM	909137	new		4	6	335	
+ZM	909137	paradise		4	62	71	
+ZM	909137	y road		4	123	123	
+ZM	909137	youngsters		4	62	65	
+ZM	909137	zone 11		4	26	40	
+ZM	909137	Addis Ababa Drive	secondary	3	443	443	
+ZM	909137	Banda		3	67	68	
+ZM	909137	Baptist Area		3	45	75	
+ZM	909137	Chimwela		3	52	57	
+ZM	909137	Emelita		3	55	7557	
+ZM	909137	First		3	12	13	
+ZM	909137	Katima Mulilo Road	secondary	3	5459	6663	
+ZM	909137	Lagos Road	unclassified	3	12	9592	
+ZM	909137	Libala Road	residential	3	22	6465	
+ZM	909137	Makin Vila		3	170	170	
+ZM	909137	Masuko		3	82	82	
+ZM	909137	Mbasela junction		3	17	17	
+ZM	909137	Mwaleshi Road	residential	3	20	33	
+ZM	909137	NEW APOSTOLIC		3	110	110	
+ZM	909137	Nangwenya Road	secondary	3	9	8238	
+ZM	909137	New Kenyama site and service		3	1427	1428	
+ZM	909137	Pandit Nehru Road	residential	3	1	1	
+ZM	909137	Raphael Kombe Road	residential	3	8	8	
+ZM	909137	Simon Mwansa Kapwepwe Avenue		3	844	844	
+ZM	909137	cross roads		3	299	300	
+ZM	909137	evergreen education center		3	38	38	
+ZM	909137	first time		3	15	15	
+ZM	909137	maken Villa		3	161	161	
+ZM	909137	makeni Simon		3	165	192	
+ZM	909137	mu		3	1050	1050	
+ZM	909137	muchi road		3	10	21	
+ZM	909137	nyakezu school road		3	45	45	
+ZM	909137	pinck house Area		3	116	116	
+ZM	909137	.masauko		2	37	61	
+ZM	909137	Big Shop Road		2	180	180	
+ZM	909137	Bishops Road	secondary	2	4	4	
+ZM	909137	Cairo Road	primary	2	0	0	
+ZM	909137	Chakeluka Road	residential	2	23	23	
+ZM	909137	Cosmopolitan Mall		2	0	0	
+ZM	909137	Garde House		2	102	107	
+ZM	909137	Garden		2	119	119	
+ZM	909137	Greg Lungu Road		2	0	0	
+ZM	909137	Hard Talk		2	83	6398	
+ZM	909137	HardTalk Road		2	63	63	
+ZM	909137	KANYAMA WEST		2	31	31	
+ZM	909137	Kanyama Site and service		2	1431	1467	
+ZM	909137	Kariba		2	5459	5459	
+ZM	909137	Katemo Road	residential	2	17	17	
+ZM	909137	Lukasu Road	residential	2	3	5	
+ZM	909137	Makeni Valley		2	158	158	
+ZM	909137	Makishi road		2	15	18	
+ZM	909137	Manchinchi Road	secondary	2	61	1906	
+ZM	909137	Masauko ROAD		2	82	82	
+ZM	909137	Masauko road		2	74	74	
+ZM	909137	Msuzi Road	residential	2	15	24	
+ZM	909137	Mtanda Bathu		2	57	59	
+ZM	909137	Mtedza Road	residential	2	4	8	
+ZM	909137	Mwaimwena Road	unclassified	2	0	0	
+ZM	909137	Mwinilunga Road	residential	2	16	4109	
+ZM	909137	Omelo Mumba Road	residential	2	14	14	
+ZM	909137	Pan blick		2	27	31	
+ZM	909137	Table lamp Road		2	1771	1771	
+ZM	909137	Teagles Road		2	396	396	
+ZM	909137	United Nations Avenue	secondary	2	4	5208	
+ZM	909137	Y Road Loge		2	118	118	
+ZM	909137	chaholi		2	7	23	
+ZM	909137	chipolopolo		2	1418	1418	
+ZM	909137	hard		2	65	65	
+ZM	909137	hard Days		2	65	65	
+ZM	909137	kanyama makeni Villa		2	167	167	
+ZM	909137	kwa Band		2	67	67	
+ZM	909137	lesa wabonse		2	166	166	
+ZM	909137	makani Valley		2	157	157	
+ZM	909137	makeni simsom		2	83	89	
+ZM	909137	masauko paradise		2	70	71	
+ZM	909137	mukwas school education center		2	226	226	
+ZM	909137	musaka		2	74	74	
+ZM	909137	mwabonwa		2	79	80	
+ZM	909137	nataira road		2	18	18	
+ZM	909137	nyakezu school		2	45	45	
+ZM	909137	off Los angeles		2	372	372	
+ZM	909137	4th Street	residential	1	0	0	
+ZM	909137	Addis Ababa Roundabout	secondary	1	0	0	
+ZM	909137	Agness Morton Close	residential	1	0	0	
+ZM	909137	Air Force Street	residential	1	0	0	
+ZM	909137	Air Force street	residential	1	0	0	
+ZM	909137	Akanongo Road	residential	1	0	0	
+ZM	909137	Akashambatwa Road	residential	1	0	0	
+ZM	909137	Alex Masala Road	residential	1	0	0	
+ZM	909137	Andrew Mwenya Road	residential	1	0	0	
+ZM	909137	Anoya Zulu Road	residential	1	0	0	
+ZM	909137	Antelope Close	residential	1	0	0	
+ZM	909137	Arcades Roundabout	primary	1	0	0	
+ZM	909137	Azikwe Road	residential	1	0	0	
+ZM	909137	Balovala Road	residential	1	0	0	
+ZM	909137	Beit Road	residential	1	0	0	
+ZM	909137	Benangombe Road	residential	1	0	0	
+ZM	909137	Beu Cresent	residential	1	0	0	
+ZM	909137	Birdcage Walk	unclassified	1	0	0	
+ZM	909137	Bishops Close	residential	1	0	0	
+ZM	909137	Boli Street	residential	1	0	0	
+ZM	909137	Bombay Road	unclassified	1	0	0	
+ZM	909137	Bombo Road	unclassified	1	0	0	
+ZM	909137	Brentwood Drive	residential	1	0	0	
+ZM	909137	Bridget Ndovi Street	residential	1	0	0	
+ZM	909137	Broads Road	residential	1	0	0	
+ZM	909137	Buchi Road	residential	1	0	0	
+ZM	909137	Bukavu Road	residential	1	0	0	
+ZM	909137	Burma Road	secondary	1	0	0	
+ZM	909137	Busuma Road	residential	1	0	0	
+ZM	909137	Buteko Place	unclassified	1	0	0	
+ZM	909137	Buwa Close	residential	1	0	0	
+ZM	909137	Buyantanshi Road	unclassified	1	0	0	
+ZM	909137	Bwembele Road	residential	1	0	0	
+ZM	909137	Bwinjimfumu Road	residential	1	0	0	
+ZM	909137	Cariboor Street	residential	1	0	0	
+ZM	909137	Catholic Road	residential	1	0	0	
+ZM	909137	Cedar Road	residential	1	0	0	
+ZM	909137	Chabisa Road	residential	1	0	0	
+ZM	909137	Chachacha Road	tertiary	1	0	0	
+ZM	909137	Chainama Road	residential	1	0	0	
+ZM	909137	Chanda Place	unclassified	1	0	0	
+ZM	909137	Chanda Road	residential	1	0	0	
+ZM	909137	Chandwe Musonda Road	tertiary	1	0	0	
+ZM	909137	Changa Road	tertiary	1	0	0	
+ZM	909137	Chapita Road	residential	1	0	0	
+ZM	909137	Charles Muyamwa Street	residential	1	0	0	
+ZM	909137	Chela Road	unclassified	1	0	0	
+ZM	909137	Chibengele Road	unclassified	1	0	0	
+ZM	909137	Chibuli Road	residential	1	0	0	
+ZM	909137	Chibwa Road	unclassified	1	0	0	
+ZM	909137	Chifinga Road	unclassified	1	0	0	
+ZM	909137	Chifumbule Road	residential	1	0	0	
+ZM	909137	Chifundo Road	tertiary	1	0	0	
+ZM	909137	Chigwirizano Road	residential	1	0	0	
+ZM	909137	Chikemwiko Close	residential	1	0	0	
+ZM	909137	Chikemwiko Road	residential	1	0	0	
+ZM	909137	Chikulu Kulya Road	unclassified	1	0	0	
+ZM	909137	Chikuni Road	residential	1	0	0	
+ZM	909137	Chikwa Road	secondary	1	0	0	
+ZM	909137	Chila Road	tertiary	1	0	0	
+ZM	909137	Chilebe Close	residential	1	0	0	
+ZM	909137	Chilekwa Mwamba	residential	1	0	0	
+ZM	909137	Chilube Road	residential	1	0	0	
+ZM	909137	Chilufya Mulenga Road	unclassified	1	0	0	
+ZM	909137	Chimanga Road	secondary	1	0	0	
+ZM	909137	Chimukoko Road	residential	1	0	0	
+ZM	909137	Chimwemwe Road	unclassified	1	0	0	
+ZM	909137	Chindo Road	secondary	1	0	0	
+ZM	909137	Chingalika Road	residential	1	0	0	
+ZM	909137	Chingombe Road	residential	1	0	0	
+ZM	909137	Chinsala Road	residential	1	0	0	
+ZM	909137	Chinungu Road	residential	1	0	0	
+ZM	909137	Chinyunyu Road	residential	1	0	0	
+ZM	909137	Chipmunk Street	residential	1	0	0	
+ZM	909137	Chipoma Road	residential	1	0	0	
+ZM	909137	Chipovu Road	residential	1	0	0	
+ZM	909137	Chisango	unclassified	1	0	0	
+ZM	909137	Chisongo Road	residential	1	0	0	
+ZM	909137	Chitanda Road	tertiary	1	0	0	
+ZM	909137	Chite Road	residential	1	0	0	
+ZM	909137	Chitemene Road	residential	1	0	0	
+ZM	909137	Chitimukulu Road	tertiary	1	0	0	
+ZM	909137	Chitimukulu road	residential	1	0	0	
+ZM	909137	Chitukuko Road	tertiary	1	0	0	
+ZM	909137	Chituli Road	residential	1	0	0	
+ZM	909137	Chiwaya Road	unclassified	1	0	0	
+ZM	909137	Chiyanga Road	residential	1	0	0	
+ZM	909299	Castle Crescent	tertiary	1	0	0	
+ZM	909299	Church Road	unclassified	1	0	0	
+ZM	909299	Lameck Goma Road	residential	1	0	0	
+ZM	909863	Buntungwa Avenue	residential	1	0	0	
+ZM	909863	Cheswa avenue	residential	1	0	0	
+ZM	909863	Chisonke Avenue	tertiary	1	0	0	
+ZM	909863	Datura Avenue	residential	1	0	0	
+ZM	909863	Democracy Road	residential	1	0	0	
+ZM	909863	Ghana Circle	residential	1	0	0	
+ZM	909863	Ghandi Road	unclassified	1	0	0	
+ZM	909863	Independence Avenue	unclassified	1	0	0	
+ZM	909863	Padmore Close	residential	1	0	0	
+ZM	909863	Zaone Avenue	residential	1	0	0	
+ZM	909887	Access Road to ZRP Kanyemba	unclassified	1	0	0	
+ZM	909887	Chilombwe Road	unclassified	1	0	0	
+ZM	910111	INGWEE STREET		15	0	0	
+ZM	910111	Mansa Street	residential	9	0	0	
+ZM	910111	Ingwee Street	residential	7	0	0	
+ZM	910111	Mosi-Oa-Tunya Road		7	6	217	
+ZM	910111	Mulonda Street	residential	5	0	0	
+ZM	910111	2nd floor, shop 48		2	0	0	
+ZM	910111	Mokambo Road	residential	2	20	559	
+ZM	910111	Mushili Way	unclassified	2	23	25	
+ZM	910111	10th Street	residential	1	0	0	
+ZM	910111	11th Street	residential	1	0	0	
+ZM	910111	12th Street	residential	1	0	0	
+ZM	910111	13th Street	residential	1	0	0	
+ZM	910111	1st Street	residential	1	0	0	
+ZM	910111	2nd Street	residential	1	0	0	
+ZM	910111	3rd Street	residential	1	0	0	
+ZM	910111	4th Street	residential	1	0	0	
+ZM	910111	5th Street	residential	1	0	0	
+ZM	910111	6th Street	residential	1	0	0	
+ZM	910111	7th Street	residential	1	0	0	
+ZM	910111	8th Street	residential	1	0	0	
+ZM	910111	9th Street	residential	1	0	0	
+ZM	910111	Airport Road	tertiary	1	0	0	
+ZM	910111	Akapelwa Street	unclassified	1	0	0	
+ZM	910111	Balewa Road	unclassified	1	0	0	
+ZM	910111	Botswana Road	tertiary	1	0	0	
+ZM	910111	Centenary Street	unclassified	1	0	0	
+ZM	910111	Cha Cha Street	residential	1	0	0	
+ZM	910111	Chilanga Road	residential	1	0	0	
+ZM	910111	Chimwemwe Street	residential	1	0	0	
+ZM	910111	Chipata Road	residential	1	0	0	
+ZM	910111	Chipembi Road	unclassified	1	0	0	
+ZM	910111	Chipepo Road	residential	1	0	0	
+ZM	910111	Chisamba Road	residential	1	0	0	
+ZM	910111	Chishimba Falls Road	residential	1	0	0	
+ZM	910111	Chitimukulu Road	residential	1	0	0	
+ZM	910111	Choongo Street	residential	1	0	0	
+ZM	910111	Davidson Avenue	residential	1	0	0	
+ZM	910111	Davidson Road	residential	1	0	0	
+ZM	910111	Falls View	residential	1	0	0	
+ZM	910111	Flamboyant Lane	residential	1	0	0	
+ZM	910111	Francistown Road	unclassified	1	0	0	
+ZM	910111	Gandhi Avenue	residential	1	0	0	
+ZM	910111	Gwembe Street	residential	1	0	0	
+ZM	910111	Hornbill Street	residential	1	0	0	
+ZM	910111	Imusho Road	residential	1	0	0	
+ZM	910111	Inambao Road	residential	1	0	0	
+ZM	910111	Jacaranda Road	residential	1	0	0	
+ZM	910111	Jager Road	residential	1	0	0	
+ZM	910111	Johane Road	residential	1	0	0	
+ZM	910111	Kabila Street	residential	1	0	0	
+ZM	910111	Kabompo Road	unclassified	1	0	0	
+ZM	910111	Kabondo Street	residential	1	0	0	
+ZM	910111	Kafubu Road	unclassified	1	0	0	
+ZM	910111	Kafue Rd	residential	1	0	0	
+ZM	910111	Kafue Road	residential	1	0	0	
+ZM	910111	Kahila Street	residential	1	0	0	
+ZM	910111	Kalambo Falls Crescent	residential	1	0	0	
+ZM	910111	Kalanga Road	residential	1	0	0	
+ZM	910111	Kaliangile Road	residential	1	0	0	
+ZM	910111	Kalimina Road	residential	1	0	0	
+ZM	910111	Kalukuluku Street	residential	1	0	0	
+ZM	910111	Kambole Street	residential	1	0	0	
+ZM	910111	Kamunjoma Street	residential	1	0	0	
+ZM	910111	Kapatamoyo Lane	residential	1	0	0	
+ZM	910111	Kapondo Street	unclassified	1	0	0	
+ZM	910111	Kapufi Avenue	residential	1	0	0	
+ZM	910111	Kariba Crescent	residential	1	0	0	
+ZM	910111	Kashitu	residential	1	0	0	
+ZM	910111	Kasolo Road	residential	1	0	0	
+ZM	910111	Katete Avenue	tertiary	1	0	0	
+ZM	910111	Katuba Road	residential	1	0	0	
+ZM	910111	Kaunda Road	residential	1	0	0	
+ZM	910111	Kenyatte Road	residential	1	0	0	
+ZM	910111	Knight Road	residential	1	0	0	
+ZM	910111	Kombe Drive	unclassified	1	0	0	
+ZM	910111	Kundabwika Street	residential	1	0	0	
+ZM	910111	Kunwa Road	residential	1	0	0	
+ZM	910111	Kuta Way	residential	1	0	0	
+ZM	910111	Kwame Nkrumah Road	residential	1	0	0	
+ZM	910111	Kwasiya Avenue	residential	1	0	0	
+ZM	910111	Kwilimba Street	residential	1	0	0	
+ZM	910111	Lenda Road	unclassified	1	0	0	
+ZM	910111	Lewanika Street	residential	1	0	0	
+ZM	910111	Libala Drive	unclassified	1	0	0	
+ZM	910111	Likute Way	residential	1	0	0	
+ZM	910111	Linda Road	residential	1	0	0	
+ZM	910111	Litunga Road	residential	1	0	0	
+ZM	910111	Lukuni Road	residential	1	0	0	
+ZM	910111	Lunga Street	residential	1	0	0	
+ZM	910111	Lungamwe Street	residential	1	0	0	
+ZM	910111	Lwangeni Street	residential	1	0	0	
+ZM	910111	Lwanginga Crescent	residential	1	0	0	
+ZM	910111	Maabenzya Street	residential	1	0	0	
+ZM	910111	Maamba Road	residential	1	0	0	
+ZM	910111	Macha Avenue	unclassified	1	0	0	
+ZM	910111	Maina Soko Street	residential	1	0	0	
+ZM	910111	Makoma Road	residential	1	0	0	
+ZM	910111	Mandela Road	unclassified	1	0	0	
+ZM	910111	Maramba Road	unclassified	1	0	0	
+ZM	910111	Mataa Road	residential	1	0	0	
+ZM	911148	15th Street	residential	1	0	0	
+ZM	911148	26th Avenue	residential	1	0	0	
+ZM	911148	27th Avenue	residential	1	0	0	
+ZM	911148	Abercorn Avenue	residential	1	0	0	
+ZM	911148	Accra Road	unclassified	1	0	0	
+ZM	911148	Alick Nkhata Road	residential	1	0	0	
+ZM	911148	Almalik Street	unclassified	1	0	0	
+ZM	911148	Andrews Drive	residential	1	0	0	
+ZM	911148	Arno Close	residential	1	0	0	
+ZM	911148	Auckland Avenue	residential	1	0	0	
+ZM	911148	Avon Close	residential	1	0	0	
+ZM	911148	Bandawe Avenue	residential	1	0	0	
+ZM	911148	Beit Street	residential	1	0	0	
+ZM	911148	Blantyre Road	unclassified	1	0	0	
+ZM	911148	Boma Street	tertiary	1	0	0	
+ZM	911148	Bombesheni (Derwent) Close	residential	1	0	0	
+ZM	911148	Brighton Road	unclassified	1	0	0	
+ZM	911148	Buffalo Avenue	residential	1	0	0	
+ZM	911148	Buseko Road	residential	1	0	0	
+ZM	911148	Byron Close	residential	1	0	0	
+ZM	911148	C. Fourie Road	residential	1	0	0	
+ZM	911148	Carl Street	residential	1	0	0	
+ZM	911148	Catholic Road	residential	1	0	0	
+ZM	911148	Central Street	secondary	1	0	0	
+ZM	911148	Chambeshi Street	tertiary	1	0	0	
+ZM	911148	Chaucer Close	residential	1	0	0	
+ZM	911148	Cherwell Crescent	residential	1	0	0	
+ZM	911148	Chibuluma Road	secondary	1	0	0	
+ZM	911148	Chile Street	residential	1	0	0	
+ZM	911148	Chisokone Avenue	tertiary	1	0	0	
+ZM	911148	Chitambo Road	residential	1	0	0	
+ZM	911148	Chitimukulu Close	residential	1	0	0	
+ZM	911148	Chitoshi Road	residential	1	0	0	
+ZM	911148	Chiwala Avenue	secondary	1	0	0	
+ZM	911148	Church Street	tertiary	1	0	0	
+ZM	911148	Clifton Crescent	residential	1	0	0	
+ZM	911148	Club Street	unclassified	1	0	0	
+ZM	911148	Codrington Street	residential	1	0	0	
+ZM	911148	Collier Street	residential	1	0	0	
+ZM	911148	Congo Way	residential	1	0	0	
+ZM	911148	Conway Crescent	residential	1	0	0	
+ZM	911148	Dahomey Drive	residential	1	0	0	
+ZM	911148	Diamond Drive	residential	1	0	0	
+ZM	911148	Don Close	residential	1	0	0	
+ZM	911148	Dr Aggrey Avenue	tertiary	1	0	0	
+ZM	911148	Dury Lane	tertiary	1	0	0	
+ZM	911148	Edmund Davis Street	residential	1	0	0	
+ZM	911148	Egupto Close (Dickens Close)	residential	1	0	0	
+ZM	911148	Eighteenth Avenue	residential	1	0	0	
+ZM	911148	Eleventh Avenue	residential	1	0	0	
+ZM	911148	Ely Crescent	residential	1	0	0	
+ZM	911148	Emmanuel Mulemena Road	unclassified	1	0	0	
+ZM	911148	Empire Drive	residential	1	0	0	
+ZM	911148	Enos Chomba Avenue	residential	1	0	0	
+ZM	911148	Entebe Road	unclassified	1	0	0	
+ZM	911148	Eshowe Road	unclassified	1	0	0	
+ZM	911148	Euclid Road	unclassified	1	0	0	
+ZM	911148	Fifteenth Avenue	residential	1	0	0	
+ZM	911148	Fifth Avenue	residential	1	0	0	
+ZM	911148	First Avenue	residential	1	0	0	
+ZM	911148	First Mayor Street	unclassified	1	0	0	
+ZM	911148	First Street	unclassified	1	0	0	
+ZM	911148	Forest Road	unclassified	1	0	0	
+ZM	911148	Fourteenth Avenue	residential	1	0	0	
+ZM	911148	Fourth Avenue	residential	1	0	0	
+ZM	911148	Fourth Street	residential	1	0	0	
+ZM	911148	Foxtail palm Street	residential	1	0	0	
+ZM	911148	Frazer Crescent	residential	1	0	0	
+ZM	911148	Freedom Avenue	secondary	1	0	0	
+ZM	911148	Freetown Road	unclassified	1	0	0	
+ZM	911148	Fwifwi Close	residential	1	0	0	
+ZM	911148	Fyalipwa (Stour) Close	residential	1	0	0	
+ZM	911148	Fyapakale Crescent (Danube Gardens)	residential	1	0	0	
+ZM	911148	Geddes Street	residential	1	0	0	
+ZM	911148	Glenalmond Close	residential	1	0	0	
+ZM	911148	Government Road	tertiary	1	0	0	
+ZM	911148	Harrow Crescent	residential	1	0	0	
+ZM	911148	Hertford Avenue	residential	1	0	0	
+ZM	911148	Hillcombe Road	unclassified	1	0	0	
+ZM	911148	Hippo Street	residential	1	0	0	
+ZM	911148	Hospital Steet	tertiary	1	0	0	
+ZM	911148	Ikelenge close	residential	1	0	0	
+ZM	911148	Jambo Drive	secondary	1	0	0	
+ZM	911148	Jameson Street	residential	1	0	0	
+ZM	911148	Kabengele Avenue	residential	1	0	0	
+ZM	911148	Kabonbo Road	residential	1	0	0	
+ZM	911148	Kabwe Road	unclassified	1	0	0	
+ZM	911148	Kafubu Road	unclassified	1	0	0	
+ZM	911148	Kafulafute Road	unclassified	1	0	0	
+ZM	911148	Kai Close	residential	1	0	0	
+ZM	911148	Kalambo Crescent	residential	1	0	0	
+ZM	911148	Kalela Avenue	residential	1	0	0	
+ZM	911148	Kalemba Drive	unclassified	1	0	0	
+ZM	911148	Kambombo Road	residential	1	0	0	
+ZM	911148	Kambwili Drive	unclassified	1	0	0	
+ZM	911148	Kaminda Drive	residential	1	0	0	
+ZM	911148	Kamongesha Road	unclassified	1	0	0	
+ZM	911148	Kaniki Road	residential	1	0	0	
+ZM	911148	Kanono (Deleware) Close	residential	1	0	0	
+ZM	911148	Kantanta Street	tertiary	1	0	0	
+ZM	911148	Kanwe Avenue	secondary	1	0	0	
+ZM	911148	Kanyanta Avenue	tertiary	1	0	0	
+ZM	911148	Kariba Road	unclassified	1	0	0	
+ZM	911148	Kasempa Road	residential	1	0	0	
+ZM	911148	Katilunhu Avenue	secondary	1	0	0	
+ZM	911148	Katyetye Road	tertiary	1	0	0	
+ZM	911148	Kaunda Street	residential	1	0	0	
+ZM	911148	Kawambwa Street	unclassified	1	0	0	
+ZM	911148	Kazembe Road	secondary	1	0	0	
+ZM	911148	Kensington Road	residential	1	0	0	
+ZM	911148	Kenyatta Road	residential	1	0	0	
+ZM	911148	Kew Gardens	residential	1	0	0	
+ZM	911148	Khama Road East	residential	1	0	0	
+ZM	911148	Khama Road West	residential	1	0	0	
+ZM	911148	Kingston Road	unclassified	1	0	0	
+ZM	911148	Kitwe Street	residential	1	0	0	
+ZM	911148	Kopa Street	residential	1	0	0	
+ZM	911148	Kuomboka Drive	secondary	1	0	0	
+ZM	911148	Kwacha Road	secondary	1	0	0	
+ZM	911148	Langashe Street	primary	1	0	0	
+ZM	911148	Liberia Street	residential	1	0	0	
+ZM	911148	Lilongwe Road	unclassified	1	0	0	
+ZM	911148	Limpopo Drive	residential	1	0	0	
+ZM	911148	Limulunga Crescent	residential	1	0	0	
+ZM	911148	Lister Avenue	residential	1	0	0	
+ZM	911148	Litunga Close	residential	1	0	0	
+ZM	911148	Livingstone Street	residential	1	0	0	
+ZM	911148	Luangwa Avenue	unclassified	1	0	0	
+ZM	911148	Luangwa Road	residential	1	0	0	
+ZM	911148	Luangwa Way	residential	1	0	0	
+ZM	911148	Luano Road	unclassified	1	0	0	
+ZM	911148	Lubambe Street	unclassified	1	0	0	
+ZM	911148	Lukasu Drive	residential	1	0	0	
+ZM	911148	Lumbambe Drive	residential	1	0	0	
+ZM	911148	Lumumba Road	tertiary	1	0	0	
+ZM	911148	Lunda Road	tertiary	1	0	0	
+ZM	911148	Lundazi Road	unclassified	1	0	0	
+ZM	911148	Lunga Close	residential	1	0	0	
+ZM	911148	Luputu Close	residential	1	0	0	
+ZM	911148	Lusemfwa Close	residential	1	0	0	
+ZM	911148	Lwanshimba Road	tertiary	1	0	0	
+ZM	911148	Madzimoyo Road	residential	1	0	0	
+ZM	911148	Magala Avenue	unclassified	1	0	0	
+ZM	911148	Malenga Road	residential	1	0	0	
+ZM	911148	Mansa Road	unclassified	1	0	0	
+ZM	911148	Market Road	tertiary	1	0	0	
+ZM	911148	Mateyo Street	residential	1	0	0	
+ZM	911148	Matuka Avenue	unclassified	1	0	0	
+ZM	911148	Mayfair Crescent	residential	1	0	0	
+ZM	911148	Messenger Road	residential	1	0	0	
+ZM	911148	Milambo Road	tertiary	1	0	0	
+ZM	911148	Milenge Close	residential	1	0	0	
+ZM	911148	Mill Street	residential	1	0	0	
+ZM	911148	Mindola Road	secondary	1	0	0	
+ZM	911148	Mindolo Road	tertiary	1	0	0	
+ZM	911148	Miseshi Street	unclassified	1	0	0	
+ZM	911148	Moffat Street	residential	1	0	0	
+ZM	911148	Monmouth Close	residential	1	0	0	
+ZM	911148	Mpezeni Avenue	residential	1	0	0	
+ZM	911148	Muchinga Street	residential	1	0	0	
+ZM	911148	Mugoti close	residential	1	0	0	
+ZM	911148	Mukuba Road	tertiary	1	0	0	
+ZM	911148	Mukuba Street	residential	1	0	0	
+ZM	911148	Mukwae Road	tertiary	1	0	0	
+ZM	911148	Mulilakwenda Road	unclassified	1	0	0	
+ZM	911148	Mulilansolo Crescent	residential	1	0	0	
+ZM	911148	Munali Road (Bartok Crescent)	residential	1	0	0	
+ZM	911148	Mushili close	residential	1	0	0	
+ZM	911148	Musokotwane close	residential	1	0	0	
+ZM	911148	Mwandi Crescent	residential	1	0	0	
+ZM	911148	Mwese close	residential	1	0	0	
+ZM	911148	Myundu Street	tertiary	1	0	0	
+ZM	911148	Nachibungulubwe Road	unclassified	1	0	0	
+ZM	911148	Nationalist Way	tertiary	1	0	0	
+ZM	911148	Natwanga Road	tertiary	1	0	0	
+ZM	911148	Newlands Court	residential	1	0	0	
+ZM	911148	Ngozi Road	residential	1	0	0	
+ZM	911148	Ngozi Street	unclassified	1	0	0	
+ZM	911148	Niger Avenue	residential	1	0	0	
+ZM	911148	Nile Avenue	residential	1	0	0	
+ZM	911148	Nineteenth Avenue	residential	1	0	0	
+ZM	911148	Nkumbula Street	residential	1	0	0	
+ZM	911148	Northampton Road	unclassified	1	0	0	
+ZM	911148	Nsansa Road	residential	1	0	0	
+ZM	911148	Nsumbu Close	residential	1	0	0	
+ZM	911148	Nyerere Road	secondary	1	0	0	
+ZM	911148	Nyika Road	residential	1	0	0	
+ZM	911148	Off Kaleni Street	residential	1	0	0	
+ZM	911148	Ohio Drive	residential	1	0	0	
+ZM	911148	Olympia Way	unclassified	1	0	0	
+ZM	911148	Oppenheimer Street	residential	1	0	0	
+ZM	911148	Orange Crescent	residential	1	0	0	
+ZM	911148	Oxford Road	secondary	1	0	0	
+ZM	911148	Parker Street	residential	1	0	0	
+ZM	911148	Philip Street	residential	1	0	0	
+ZM	911148	Pollak Street	residential	1	0	0	
+ZM	911148	Prescot Road	unclassified	1	0	0	
+ZM	911148	President Avenue	secondary	1	0	0	
+ZM	911148	Pridham Jones Street	residential	1	0	0	
+ZM	911148	Princess Street	residential	1	0	0	
+ZM	911300	Makalanguzu Road	residential	1	0	0	
+ZM	911300	Mambova Road	unclassified	1	0	0	
+ZM	911300	Simalaha Road	primary	1	0	0	
+ZM	912072	Katete-Chadiza Road	tertiary	1	0	0	
+ZM	912072	Tikondane road	unclassified	1	0	0	
+ZM	912764	Lukupa-Mwamba Road	tertiary	1	0	0	
+ZM	912764	Lunzuwa Road	tertiary	1	0	0	
+ZM	912764	Mungwi Road	secondary	1	0	0	
+ZM	912764	kasama-mbala road	primary	1	0	0	
+ZM	913323	Mongu Road	primary	1	0	0	
+ZM	914959	Boyinia Street	residential	1	0	0	
+ZM	914959	Buteko Drive Way	tertiary	1	0	0	
+ZM	914959	Chambishi Street	residential	1	0	0	
+ZM	914959	Chavuma Avenue	residential	1	0	0	
+ZM	914959	Chifuwe Lane	residential	1	0	0	
+ZM	914959	Chilubi Street	residential	1	0	0	
+ZM	914959	Chimene Street	residential	1	0	0	
+ZM	914959	Chisengalumbwe Street	residential	1	0	0	
+ZM	914959	Dag Hammarskjöld Road	residential	1	0	0	
+ZM	914959	Dongwe Street	residential	1	0	0	
+ZM	914959	Kafukula Street	residential	1	0	0	
+ZM	914959	Kalomo Street	residential	1	0	0	
+ZM	914959	Kalulushi Main Roundabout	tertiary	1	0	0	
+ZM	914959	Kambopo Street	residential	1	0	0	
+ZM	914959	Katyetye Street	residential	1	0	0	
+ZM	914959	Lalafuta lane	residential	1	0	0	
+ZM	914959	Luapula Drive	tertiary	1	0	0	
+ZM	914959	Luena Street	residential	1	0	0	
+ZM	914959	Lunganga street	residential	1	0	0	
+ZM	914959	Lushwishi Lane	residential	1	0	0	
+ZM	914959	Manyinga Lane	residential	1	0	0	
+ZM	914959	Minasoko Drive	residential	1	0	0	
+ZM	914959	Mobrhouf Drive	residential	1	0	0	
+ZM	914959	Musenga Street	residential	1	0	0	
+ZM	914959	Mwiseni Crescent	residential	1	0	0	
+ZM	914959	Ngweshi street	residential	1	0	0	
+ZM	914959	Nyansa Street	residential	1	0	0	
+ZM	914959	President Avenue	tertiary	1	0	0	
+ZM	914959	Siakandobo Avenue	residential	1	0	0	
+ZM	914959	Zambezi Street	unclassified	1	0	0	
+ZM	915883	Old Kafue Road	tertiary	1	0	0	
+ZM	916095	2nd Street	residential	1	0	0	
+ZM	916095	3rd Street	residential	1	0	0	
+ZM	916095	5th Street	residential	1	0	0	
+ZM	916095	6th Street	residential	1	0	0	
+ZM	916095	Butungwa Street	secondary	1	0	0	
+ZM	916095	Chavuma	tertiary	1	0	0	
+ZM	916095	Chilubi Island	tertiary	1	0	0	
+ZM	916095	Chilubi Island Avenue	tertiary	1	0	0	
+ZM	916095	Chishimba Falls Road	residential	1	0	0	
+ZM	916095	Ghana Avenue	secondary	1	0	0	
+ZM	916095	Great North Road	primary	1	0	0	
+ZM	916095	Jameson Avenue	residential	1	0	0	
+ZM	916095	Kafue River Avenue	unclassified	1	0	0	
+ZM	916095	Lewanika Street	residential	1	0	0	
+ZM	916095	Luangwa Avenue	unclassified	1	0	0	
+ZM	916095	Luapula Street	tertiary	1	0	0	
+ZM	916095	Mansa Street	residential	1	0	0	
+ZM	916095	Metcalf	unclassified	1	0	0	
+ZM	916095	Munkoyo Street	tertiary	1	0	0	
+ZM	916095	Munyama Street (4th Street)	unclassified	1	0	0	
+ZM	916095	Petauke Street	residential	1	0	0	
+ZM	916095	Raleigh Road	residential	1	0	0	
+ZM	916095	Uganda Avenue	residential	1	0	0	
+ZM	917688	Kanakantapa Road	tertiary	1	0	0	
+ZM	917688	Kapete Road	tertiary	1	0	0	
+ZM	917688	Mpango Road	tertiary	1	0	0	
+ZM	917748	Kapondo Street	residential	1	0	0	
+ZM	918398	Clinc Road	unclassified	1	0	0	
+ZM	918488	Entry road to Rifa Educational Camp	unclassified	1	0	0	
+ZM	918488	New Chessa Point track	unclassified	1	0	0	
+ZM	918488	Otto Beit Bridge	unclassified	1	0	0	
+ZM	918702	Umodzi Highway		3	808	5100	
+ZM	918702	Magwero Road	tertiary	2	0	0	
+ZM	918702	10th Street	residential	1	0	0	
+ZM	918702	1st Street	residential	1	0	0	
+ZM	918702	2nd Street	residential	1	0	0	
+ZM	918702	3rd Street	residential	1	0	0	
+ZM	918702	4th Street	tertiary	1	0	0	
+ZM	918702	5th Street	residential	1	0	0	
+ZM	918702	6th Street	residential	1	0	0	
+ZM	918702	7th Street	residential	1	0	0	
+ZM	918702	8th Street	tertiary	1	0	0	
+ZM	918702	9th Street	residential	1	0	0	
+ZM	918702	Acacia Road	residential	1	0	0	
+ZM	918702	Aggrey St	residential	1	0	0	
+ZM	918702	Aggrey Street	residential	1	0	0	
+ZM	918702	Angola Street	residential	1	0	0	
+ZM	918702	Anoya Zulu Road	residential	1	0	0	
+ZM	918702	Asiloti Avenue	residential	1	0	0	
+ZM	918702	Bakers Crescent	residential	1	0	0	
+ZM	918702	Baobab Street	residential	1	0	0	
+ZM	918702	Beit Avenue	residential	1	0	0	
+ZM	918702	Beza Street	residential	1	0	0	
+ZM	918702	Birdcage Road	residential	1	0	0	
+ZM	918702	Bishops Road	residential	1	0	0	
+ZM	918702	Boma Road	residential	1	0	0	
+ZM	918702	Bombay Street	residential	1	0	0	
+ZM	918702	Bwezani Banda Road	residential	1	0	0	
+ZM	918702	Chama Street	residential	1	0	0	
+ZM	918702	Chambeshi Street	residential	1	0	0	
+ZM	918702	Chanje Road	tertiary	1	0	0	
+ZM	918702	Chankhanga Street	residential	1	0	0	
+ZM	918702	Chasefu Street	residential	1	0	0	
+ZM	918702	Chavuka Street	residential	1	0	0	
+ZM	918702	Chavuma Street	residential	1	0	0	
+ZM	918702	Chawama Road	residential	1	0	0	
+ZM	918702	Chibwete Road	residential	1	0	0	
+ZM	918702	Chikoka Road	tertiary	1	0	0	
+ZM	918702	Chikowa Road	residential	1	0	0	
+ZM	918702	Chikuwe Street	residential	1	0	0	
+ZM	918702	Chimpinga Road	residential	1	0	0	
+ZM	918702	Chimwemwe Road	tertiary	1	0	0	
+ZM	918702	Chingazi Drive	residential	1	0	0	
+ZM	918702	Chinsali Avenue	residential	1	0	0	
+ZM	918702	Chinunda Street	residential	1	0	0	
+ZM	918702	Chinyaku Street	residential	1	0	0	
+ZM	918702	Chinyunyu Street	residential	1	0	0	
+ZM	918702	Chipangali Road	residential	1	0	0	
+ZM	918702	Chiparamba Road	residential	1	0	0	
+ZM	918702	Chipata - Lundazi Road	primary	1	0	0	
+ZM	918702	Chipata - Mfuwe Road	primary	1	0	0	
+ZM	918702	Chipata-Chadiza Road	secondary	1	0	0	
+ZM	918702	Chipembere Street	residential	1	0	0	
+ZM	918702	Chipikula Street	residential	1	0	0	
+ZM	918702	Chisitu Road	residential	1	0	0	
+ZM	918702	Chiswa Street	residential	1	0	0	
+ZM	918702	Chitukuko Road	residential	1	0	0	
+ZM	918702	Chitungulu Street	residential	1	0	0	
+ZM	918702	Chiwoko Road	residential	1	0	0	
+ZM	918702	Chiyanjano Street	residential	1	0	0	
+ZM	918702	Chiziro Road	tertiary	1	0	0	
+ZM	918702	Chizongwe Road	tertiary	1	0	0	
+ZM	918702	Choma Road	residential	1	0	0	
+ZM	918702	Chongwe Road	residential	1	0	0	
+ZM	918702	Church Road	tertiary	1	0	0	
+ZM	918702	College Lane	residential	1	0	0	
+ZM	918702	Comesa Road	residential	1	0	0	
+ZM	918702	Cooperatives Avenue	residential	1	0	0	
+ZM	918702	Damview Road	tertiary	1	0	0	
+ZM	918702	David Kaunda Road	tertiary	1	0	0	
+ZM	918702	Dilika Road	residential	1	0	0	
+ZM	918702	Dingeni Street	residential	1	0	0	
+ZM	918702	District Road	residential	1	0	0	
+ZM	918702	Doctors Road	residential	1	0	0	
+ZM	918702	Downshops Roundabout	tertiary	1	0	0	
+ZM	918702	Dyakanani Avenue	residential	1	0	0	
+ZM	918702	Eastrise Road	tertiary	1	0	0	
+ZM	918702	Edingeni Road	residential	1	0	0	
+ZM	918702	Feni Street	residential	1	0	0	
+ZM	918702	Findeco Road	tertiary	1	0	0	
+ZM	918702	Fisheni Street	residential	1	0	0	
+ZM	918702	Flamingo Drive	residential	1	0	0	
+ZM	918702	Forest Road	residential	1	0	0	
+ZM	918702	Fort Jameson Road	tertiary	1	0	0	
+ZM	918702	Fredrick Chiluba Road	residential	1	0	0	
+ZM	918702	Fredrick Chiluba Street	residential	1	0	0	
+ZM	918702	Freedom Street	residential	1	0	0	
+ZM	918702	Fulata Rd	residential	1	0	0	
+ZM	918702	Gandhi Road	tertiary	1	0	0	
+ZM	918702	Gardenia Avenue	residential	1	0	0	
+ZM	918702	Gmelina Street	residential	1	0	0	
+ZM	918702	Govingo Road	residential	1	0	0	
+ZM	918702	Grey Zulu Road	residential	1	0	0	
+ZM	918702	Heroes Street	residential	1	0	0	
+ZM	918702	Highlands Road	residential	1	0	0	
+ZM	918702	Hillview Road	residential	1	0	0	
+ZM	918702	Hollywood Road	residential	1	0	0	
+ZM	918702	Hospital Road	tertiary	1	0	0	
+ZM	918702	Hotel Crescent	residential	1	0	0	
+ZM	918702	Impala Road	residential	1	0	0	
+ZM	918702	Independence Street	residential	1	0	0	
+ZM	918702	Jerusalem Road	residential	1	0	0	
+ZM	918702	Jonathan Road	residential	1	0	0	
+ZM	918702	Josiah Lungu Road	residential	1	0	0	
+ZM	918702	Jubeva Road	residential	1	0	0	
+ZM	918702	Jumbe Road	residential	1	0	0	
+ZM	918702	Juniper Road	residential	1	0	0	
+ZM	918702	Kabwe Street	residential	1	0	0	
+ZM	918702	Kafue Street	residential	1	0	0	
+ZM	918702	Kagunda Road	tertiary	1	0	0	
+ZM	918702	Kaikumbe Street	residential	1	0	0	
+ZM	918702	Kakumbi Street	residential	1	0	0	
+ZM	918702	Kalindawalo Road	tertiary	1	0	0	
+ZM	918702	Kalonga Road	residential	1	0	0	
+ZM	918702	Kalongola Road	residential	1	0	0	
+ZM	918702	Kalongwezi Road	tertiary	1	0	0	
+ZM	918702	Kamina Road	residential	1	0	0	
+ZM	918702	Kampala Crescent	residential	1	0	0	
+ZM	918702	Kamulaza Street	residential	1	0	0	
+ZM	918702	Kamungu Road	tertiary	1	0	0	
+ZM	918702	Kanele Road	residential	1	0	0	
+ZM	918702	Kanjala Drive	tertiary	1	0	0	
+ZM	918702	Kapata Road	tertiary	1	0	0	
+ZM	918702	Kapatamoyo Avenue	residential	1	0	0	
+ZM	918702	Kapatamoyo Road	tertiary	1	0	0	
+ZM	918702	Kapezi Road	residential	1	0	0	
+ZM	918702	Kapichila Street	residential	1	0	0	
+ZM	918702	Kapoche Road	residential	1	0	0	
+ZM	918702	Kapote Road	residential	1	0	0	
+ZM	918702	Kapundi Road	residential	1	0	0	
+ZM	918702	Kasama Road	residential	1	0	0	
+ZM	918702	Kasenengwa Road	residential	1	0	0	
+ZM	918702	Kasenga Crescent	residential	1	0	0	
+ZM	918702	Katambo Street	residential	1	0	0	
+ZM	918702	Katandala Street	residential	1	0	0	
+ZM	918702	Katete Avenue	tertiary	1	0	0	
+ZM	918702	Katopola Road	tertiary	1	0	0	
+ZM	918702	Kaulembe Street	residential	1	0	0	
+ZM	918702	Kaunda Road	tertiary	1	0	0	
+ZM	918702	Kawalala Road	tertiary	1	0	0	
+ZM	918702	Kawambwa Street	residential	1	0	0	
+ZM	918702	Kawaza Street	residential	1	0	0	
+ZM	918702	Kazembe Street	residential	1	0	0	
+ZM	918702	Kazimule Road	residential	1	0	0	
+ZM	918702	Kenyatta Road	residential	1	0	0	
+ZM	918702	Khova Road	residential	1	0	0	
+ZM	918702	Kilimanjaro Road	residential	1	0	0	
+ZM	918702	Kitwe Avenue	residential	1	0	0	
+ZM	918702	Kombe Road	tertiary	1	0	0	
+ZM	918702	Kulamba Road	residential	1	0	0	
+ZM	918702	Kuomboka Street	residential	1	0	0	
+ZM	918702	Kwacha Road	residential	1	0	0	
+ZM	918702	Kwenje Road	residential	1	0	0	
+ZM	918702	Lake Road	residential	1	0	0	
+ZM	918702	Lembani Street	residential	1	0	0	
+ZM	918702	Lilongwe Road	residential	1	0	0	
+ZM	918702	Lima Street	residential	1	0	0	
+ZM	918702	Limpopo Street	residential	1	0	0	
+ZM	918702	Livingstone Road	residential	1	0	0	
+ZM	918702	Luangeni Rd	residential	1	0	0	
+ZM	918702	Luangwa Road	residential	1	0	0	
+ZM	918702	Luapula Road	residential	1	0	0	
+ZM	918702	Lumezi Street	residential	1	0	0	
+ZM	918702	Lumimba Road	residential	1	0	0	
+ZM	918702	Lumumba Road	residential	1	0	0	
+ZM	918702	Lundazi Road	unclassified	1	0	0	
+ZM	918702	Lunevwa Street	residential	1	0	0	
+ZM	918702	Lunkwakwa Street	residential	1	0	0	
+ZM	918702	Lunzi Street	residential	1	0	0	
+ZM	918702	Lupamadzi Street	residential	1	0	0	
+ZM	918702	Lupande Road	residential	1	0	0	
+ZM	918702	Lusandwa Road	residential	1	0	0	
+ZM	918702	Lusangazi Road	tertiary	1	0	0	
+ZM	918702	Lusiwasi Street	residential	1	0	0	
+ZM	918702	Lutembwe Road	residential	1	0	0	
+ZM	918702	Luwingu Street	residential	1	0	0	
+ZM	918702	Luwumbu Street	residential	1	0	0	
+ZM	918702	Madziatuwa St	residential	1	0	0	
+ZM	918702	Madzimawe Road	residential	1	0	0	
+ZM	918702	Madzimoyo Road	residential	1	0	0	
+ZM	918702	Mafinga Road	residential	1	0	0	
+ZM	918702	Mafuta Crescent	residential	1	0	0	
+ZM	918702	Magazine Road	residential	1	0	0	
+ZM	918702	Maguya Street	residential	1	0	0	
+ZM	918702	Makole Street	residential	1	0	0	
+ZM	918702	Makungwa Road	residential	1	0	0	
+ZM	918702	Malama Road	tertiary	1	0	0	
+ZM	918702	Malambo Street	residential	1	0	0	
+ZM	918702	Mambwe Street	residential	1	0	0	
+ZM	918702	Mansa Street	residential	1	0	0	
+ZM	918702	Market Road	residential	1	0	0	
+ZM	918702	Mbala Street	residential	1	0	0	
+ZM	918702	Mbazima Road	residential	1	0	0	
+ZM	918702	Mboza Street	residential	1	0	0	
+ZM	918702	Mchenga Road	tertiary	1	0	0	
+ZM	918702	Mchini Road	tertiary	1	0	0	
+ZM	918702	Menyani Street	residential	1	0	0	
+ZM	918702	Milenge Street	residential	1	0	0	
+ZM	918702	Mishoro Street	residential	1	0	0	
+ZM	918702	Mkhanya Road	residential	1	0	0	
+ZM	918702	Mkoma Road	residential	1	0	0	
+ZM	919009	'	residential	1	0	0	
+ZM	919009	14th Crescent	residential	1	0	0	
+ZM	919009	3rd Street	residential	1	0	0	
+ZM	919009	Albany Crescent	residential	1	0	0	
+ZM	919009	Avon Road	residential	1	0	0	
+ZM	919009	Chester Court	residential	1	0	0	
+ZM	919009	Derby Court	residential	1	0	0	
+ZM	919009	Dover Court	residential	1	0	0	
+ZM	919009	Gardenia Street	residential	1	0	0	
+ZM	919009	Isunga Road	residential	1	0	0	
+ZM	919009	Kabundi Road	tertiary	1	0	0	
+ZM	919009	Kasompe Road	unclassified	1	0	0	
+ZM	919009	Kaunda Road	residential	1	0	0	
+ZM	919009	Kitwe Road	unclassified	1	0	0	
+ZM	919009	Magoye Court	residential	1	0	0	
+ZM	919009	Malile Street	residential	1	0	0	
+ZM	919009	Mersey Road	residential	1	0	0	
+ZM	919009	Riverside Drive	residential	1	0	0	
+ZM	919009	Shannon Road	residential	1	0	0	
+ZM	919009	Thames Road	residential	1	0	0	
+ZM	919009	Tweed Road	residential	1	0	0	
+ZM	919009	Yeta Road	residential	1	0	0	
+ZM	919544	Cross Ways	unclassified	1	0	0	
+ZM	919544	Masonkola Avenue	residential	1	0	0	
+ZM	920820	Bangweulu Drive	unclassified	1	0	0	
+ZM	920820	Ingwe Street	residential	1	0	0	
+ZM	921028	Chadiza - Vubwi Road	tertiary	1	0	0	
+ZM	921028	Chadiza Main Road	tertiary	1	0	0	
+ZM	921028	Chadiza Road	secondary	1	0	0	
+ZM	921028	Chimwemwe Road	residential	1	0	0	
+ZM	921028	Chipata Road	unclassified	1	0	0	
+ZM	921028	Chipata-Chadiza Road	secondary	1	0	0	
+ZM	921028	Chipili Road	residential	1	0	0	
+ZM	921028	Kamwala Road	residential	1	0	0	
+ZM	921028	New Houses Road	residential	1	0	0	
+ZM	921028	School Ave	residential	1	0	0	
+ZM	921028	Tafelansoni Road	tertiary	1	0	0	
+ZM	7932530	Kafue Road		4	0	0	
+ZM	7932530	Southview Road	residential	4	34	34	
+ZM	7932530	Rotana Road		3	2	4	
+ZM	7932530	Mimosa Road	tertiary	2	401	401	
+ZM	7932530	Sandys Creations, Kafue Road		2	0	0	
+ZM	7932530	10th Avenue	residential	1	0	0	
+ZM	7932530	1st Avenue	residential	1	0	0	
+ZM	7932530	2nd Avnue	residential	1	0	0	
+ZM	7932530	3rd Avenue	residential	1	0	0	
+ZM	7932530	4th Avenue	residential	1	0	0	
+ZM	7932530	5th Avenue	residential	1	0	0	
+ZM	7932530	6th Avenue	residential	1	0	0	
+ZM	7932530	7th Avenue	residential	1	0	0	
+ZM	7932530	8th Avenue	residential	1	0	0	
+ZM	7932530	9th Avenue	residential	1	0	0	
+ZM	7932530	Chipapa Road	tertiary	1	0	0	
+ZM	7932530	Lilayi Road	tertiary	1	0	0	
+ZM	7932530	Linda Road	tertiary	1	0	0	
+ZM	7932530	Lodge Road	residential	1	0	0	
+ZM	7932530	Mahogany Drive	residential	1	0	0	
+ZM	7932530	Main Road	residential	1	0	0	
+ZM	7932530	Mount Makulu Road	unclassified	1	0	0	
+ZM	7932530	Mukwa Drive	residential	1	0	0	
+ZM	7932530	Musekese Drive	residential	1	0	0	
+ZM	13132720	Palabana Road	tertiary	1	0	0	
+ZM	13132721	Makeni Road	tertiary	1	0	0	
+ZM	13132721	Nyoni Road	unclassified	1	0	0	
+ZM	13132721	Western Bypass	primary	1	0	0	
+ZM	13132723	Chainda Street	residential	1	0	0	
+ZM	13132723	Chalimbana Street	residential	1	0	0	
+ZM	13132723	Chambeshi Road	residential	1	0	0	
+ZM	13132723	Dongwe Street	residential	1	0	0	
+ZM	13132723	Luanginga Street	residential	1	0	0	
+ZM	13132723	Luete Street	residential	1	0	0	
+ZM	13132723	Lufupa Street	residential	1	0	0	
+ZM	13132723	Lumbe Street	residential	1	0	0	
+ZM	13132723	Lunga Street	residential	1	0	0	
+ZM	13132723	Luombwa Street	residential	1	0	0	
+ZM	13132723	Lupamadzi Street	residential	1	0	0	
+ZM	13132723	Lupande Street	residential	1	0	0	
+ZM	13132723	Luswishi Street	residential	1	0	0	
+ZM	13132723	Lwombe Street	residential	1	0	0	
+ZM	13132723	Mabungo Street	unclassified	1	0	0	
+ZM	13132723	Machili Street	residential	1	0	0	
+ZM	13132723	Makole Street	residential	1	0	0	
+ZM	13132723	Mapela Street	residential	1	0	0	
+ZM	13132723	Masau Street	residential	1	0	0	
+ZM	13132723	Matambula Street	residential	1	0	0	
+ZM	13132723	Miombo Street	residential	1	0	0	
+ZM	13132723	Mopani Street	residential	1	0	0	
+ZM	13132723	Mpundu Street	residential	1	0	0	
+ZM	13132723	Mubanga Street	residential	1	0	0	
+ZM	13132724	Estone Mulenga Road	residential	2	2	3	
+ZM	13132724	3rd Street	residential	1	0	0	
+ZM	13132724	Acacia Drive	residential	1	0	0	
+ZM	13132724	Aggrey Chiyangi Close	residential	1	0	0	
+ZM	13132724	Alex Chola Road	unclassified	1	0	0	
+ZM	13132724	Bauleni Roundabout	secondary	1	0	0	
+ZM	13132724	Bulalo Way	unclassified	1	0	0	
+ZM	13132724	Buluwe Road	tertiary	1	0	0	
+ZM	13132724	Bwalya Kapila Street	residential	1	0	0	
+ZM	13132724	Chandamali Road	residential	1	0	0	
+ZM	13132724	Chase Nsofwa Street	residential	1	0	0	
+ZM	13132724	Chikawanda Street	residential	1	0	0	
+ZM	13132724	Chikube Street	residential	1	0	0	
+ZM	13132724	Chikumbi	residential	1	0	0	
+ZM	13132724	Chirwa’s street	residential	1	0	0	
+ZM	13132724	Chisamba Close	residential	1	0	0	
+ZM	13132724	Chungu street	residential	1	0	0	
+ZM	13132724	Clinic Road	tertiary	1	0	0	
+ZM	13132724	Copper Street	unclassified	1	0	0	
+ZM	13132724	Dennis Lota Street	residential	1	0	0	
+ZM	13132724	Derby Makinka	residential	1	0	0	
+ZM	13132724	Diamond Street	residential	1	0	0	
+ZM	13132724	Dimond Street	residential	1	0	0	
+ZM	13132724	Dr Elias Favour Street	residential	1	0	0	
+ZM	13132724	Efford Chalaba Street	residential	1	0	0	
+ZM	13132724	Elias FM Close	residential	1	0	0	
+ZM	13132724	Emmanuel Mwape	residential	1	0	0	
+ZM	13132724	Emmanuel Nambote Close	residential	1	0	0	
+ZM	13132724	Esther Lungu Road	tertiary	1	0	0	
+ZM	13132724	Fenton Mhone Close	residential	1	0	0	
+ZM	13132724	Flint Road	residential	1	0	0	
+ZM	13132724	Gawa Undi Street	tertiary	1	0	0	
+ZM	13132724	Gift Kampamba	residential	1	0	0	
+ZM	13132724	Given Lubinda Road	tertiary	1	0	0	
+ZM	13132724	Godfrey Chitalu Road	unclassified	1	0	0	
+ZM	13132724	Granet Street	unclassified	1	0	0	
+ZM	13132724	Greg Lungu Road	tertiary	1	0	0	
+ZM	13132724	Harrison Chongo	residential	1	0	0	
+ZM	13132724	Harry Mwanga Nkumbula Road	unclassified	1	0	0	
+ZM	13132724	Hunter Street	residential	1	0	0	
+ZM	13132724	Ishindi Street	residential	1	0	0	
+ZM	13132724	James Phiri Street	residential	1	0	0	
+ZM	13132724	Joe Mwala Street	residential	1	0	0	
+ZM	13132724	Johnson Bwalya Street	residential	1	0	0	
+ZM	13132724	Jumbe Street	residential	1	0	0	
+ZM	13132724	Kalilele Street	residential	1	0	0	
+ZM	13132724	Kalunguti Road	residential	1	0	0	
+ZM	13132724	Kambwali Street	residential	1	0	0	
+ZM	13132725	Fumbelo Market Kabanana	residential	1	0	0	
+ZM	13132725	Great North Road	primary	1	0	0	
+ZM	13132725	Ngwerere Road	secondary	1	0	0	
+ZM	13132725	Ngwerere Roundabout	primary	1	0	0	
+ZM	13132725	St Francis School Kabanana	unclassified	1	0	0	
+ZM	13132725	Vine Ark School Kabanana	residential	1	0	0	
+ZM	13132725	Western Bypass	primary	1	0	0	
+ZM	13132725	Zambezi Road	secondary	1	0	0	
+ZM	13132725	kabanana Unnamed Road	residential	1	0	0	
+ZM	13132727	Roland Street	residential	3	29	29	
+ZM	13132727	2nd Street	unclassified	1	0	0	
+ZM	13132727	4th Street	unclassified	1	0	0	
+ZM	13132727	50th Eagle	residential	1	0	0	
+ZM	13132727	Abelia Avenue	residential	1	0	0	
+ZM	13132727	Acacia	secondary	1	0	0	
+ZM	13132727	Airport Road	secondary	1	0	0	
+ZM	13132727	Airport Roundabout	primary	1	0	0	
+ZM	13132727	Alyssum Street	residential	1	0	0	
+ZM	13132727	Ammi	residential	1	0	0	
+ZM	13132727	Anise Close	residential	1	0	0	
+ZM	13132727	Asparagus Close	residential	1	0	0	
+ZM	13132727	Bamibambo	residential	1	0	0	
+ZM	13132727	Baobab Avenue	unclassified	1	0	0	
+ZM	13132727	Basil Street	residential	1	0	0	
+ZM	13132727	Beetroot Close	residential	1	0	0	
+ZM	13132727	Begonia Street	residential	1	0	0	
+ZM	13132727	Bloom Street	residential	1	0	0	
+ZM	13132727	Bondwe Street	residential	1	0	0	
+ZM	13132727	Brahman Road	unclassified	1	0	0	
+ZM	13132727	Broccoli Street	residential	1	0	0	
+ZM	13132727	Bwatanga Street	residential	1	0	0	
+ZM	13132727	Caraway Street	residential	1	0	0	
+ZM	13132727	Carrot Close	residential	1	0	0	
+ZM	13132727	Champanga	residential	1	0	0	
+ZM	13132727	Chelstone Green	unclassified	1	0	0	
+ZM	13132727	Cherry Street	residential	1	0	0	
+ZM	13132727	Chiku	residential	1	0	0	
+ZM	13132727	Chilonga	residential	1	0	0	
+ZM	13132727	Chilusa	residential	1	0	0	
+ZM	13132727	Chilusa Road	residential	1	0	0	
+ZM	13132727	Chimanga Road	tertiary	1	0	0	
+ZM	13132727	Chipakula	residential	1	0	0	
+ZM	13132727	Chitange Street	residential	1	0	0	
+ZM	13132727	Chitanje Street	residential	1	0	0	
+ZM	13132727	Chitunguza Street	residential	1	0	0	
+ZM	13132727	Chongwe Road	residential	1	0	0	
+ZM	13132727	Church road	residential	1	0	0	
+ZM	13132727	Coconut Street	residential	1	0	0	
+ZM	13132727	Corn Street	residential	1	0	0	
+ZM	13132727	Croton	residential	1	0	0	
+ZM	13132727	Cucumber Close	residential	1	0	0	
+ZM	13132727	Cycad Street	residential	1	0	0	
+ZM	13132727	Daffodil Street	residential	1	0	0	
+ZM	13132727	Dahlia Street	residential	1	0	0	
+ZM	13132727	Daisy Street	residential	1	0	0	
+ZM	13132727	Dodonea Avenue	residential	1	0	0	
+ZM	13132727	Don Gordon Road	residential	1	0	0	
+ZM	13132727	Elymus Close	residential	1	0	0	
+ZM	13132727	Embassy Drive	residential	1	0	0	
+ZM	13132727	Eucalyptus Avenue	unclassified	1	0	0	
+ZM	13132727	Fire Thorn Avenue	residential	1	0	0	
+ZM	13132727	Galium Street	residential	1	0	0	
+ZM	13132727	Gardenhia Avenue	secondary	1	0	0	
+ZM	13132727	Gazania Street	residential	1	0	0	
+ZM	13132727	Ginger Street	residential	1	0	0	
+ZM	13132727	Ginseng	residential	1	0	0	
+ZM	13132727	Granadilla Close	residential	1	0	0	
+ZM	13132727	Grape Street	residential	1	0	0	
+ZM	13132727	Great East Road	primary	1	0	0	
+ZM	13132727	Hibiscus Street	residential	1	0	0	
+ZM	13132727	Juniper Avenue	residential	1	0	0	
+ZM	13132727	KAlembwe Street	residential	1	0	0	
+ZM	13132727	Kakuku	residential	1	0	0	
+ZM	13132727	Kareboom Avenue	unclassified	1	0	0	
+ZM	13132727	Kasuku	residential	1	0	0	
+ZM	13132727	Katela Street	residential	1	0	0	
+ZM	13132727	Katope Avenue	residential	1	0	0	
+ZM	13132727	Kwanda Street	residential	1	0	0	
+ZM	13132727	Kwiki Street	residential	1	0	0	
+ZM	13132727	Lemonwood Avenue	residential	1	0	0	
+ZM	13132727	Likaka	residential	1	0	0	
+ZM	13132727	Lily Street	residential	1	0	0	
+ZM	13132727	Lincoln	residential	1	0	0	
+ZM	13132727	Main Street	secondary	1	0	0	
+ZM	13132727	Makole Street	residential	1	0	0	
+ZM	13132727	Mapini Avenue	residential	1	0	0	
+ZM	13132727	Marigold Street	residential	1	0	0	
+ZM	13132727	Market Street	unclassified	1	0	0	
+ZM	13132727	Marrow Street	residential	1	0	0	
+ZM	13132727	Masuku Street	residential	1	0	0	
+ZM	13132727	Mbwawa Avenue	residential	1	0	0	
+ZM	13132727	Melon Street	residential	1	0	0	
+ZM	13132727	Miombo Street	residential	1	0	0	
+ZM	13132727	Mopani Avenue	residential	1	0	0	
+ZM	13132727	Mporokoso	residential	1	0	0	
+ZM	13132727	Mubanga Avenue	residential	1	0	0	
+ZM	13132727	Mubanga Street	residential	1	0	0	
+ZM	13132727	Mubobu Avenue	residential	1	0	0	
+ZM	13132727	Mucheja	residential	1	0	0	
+ZM	13132727	Mukobo Avenue	residential	1	0	0	
+ZM	13132727	Mukula Street	residential	1	0	0	
+ZM	13132727	Mukusi	residential	1	0	0	
+ZM	13132727	Mukwa Street	residential	1	0	0	
+ZM	13132727	Mulemu Street	residential	1	0	0	
+ZM	13132727	Muliti	residential	1	0	0	
+ZM	13132727	Mululu Street	residential	1	0	0	
+ZM	13132727	Munali Road	secondary	1	0	0	
+ZM	13132727	Mungongo Street	residential	1	0	0	
+ZM	13132727	Mupapa Avenue	residential	1	0	0	
+ZM	13132732	Shalom		261	122	154	
+ZM	13132732	Makeni Villa		23	28	192	
+ZM	13132732	shalom		21	120	153	
+ZM	13132732	55 Road		12	121	122	
+ZM	13132732	Y road		12	120	124	
+ZM	13132732	Kanyama Makeni Villa		9	183	184	
+ZM	13132732	makeni Villa		9	192	192	
+ZM	13132732	Road 55		8	120	122	
+ZM	13132732	Makeni vella		7	172	192	
+ZM	13132732	Makeni villa		2	192	192	
+ZM	13132732	Fifty Five (55) Road	unclassified	1	0	0	
+ZM	13132732	Kasupe Road	tertiary	1	0	0	
+ZM	13132732	Los Angeles Road	secondary	1	0	0	
+ZM	13132732	Mumbwa Road	primary	1	0	0	
+ZM	13132732	Mungwi Road	secondary	1	0	0	
+ZM	13132732	Namalombwe Road	residential	1	0	0	
+ZM	13132732	Ndipo Road	residential	1	0	0	
+ZM	13132732	Satwant Road	unclassified	1	0	0	
+ZM	13132732	Silom Road	residential	1	0	0	
+ZM	13132732	Western Bypass	primary	1	0	0	
+ZM	13132732	White Rock Road	residential	1	0	0	
+ZM	13132733	1st Street	unclassified	1	0	0	
+ZM	13132733	3rd Street	unclassified	1	0	0	
+ZM	13132733	Brooke Lane	residential	1	0	0	
+ZM	13132733	Kumpili Road	unclassified	1	0	0	
+ZM	13132733	Marigold Road	residential	1	0	0	
+ZM	13132733	Meanwood Drive	unclassified	1	0	0	
+ZM	13132733	Mission Road	unclassified	1	0	0	
+ZM	13132733	Olive Tree Street	residential	1	0	0	
+ZM	13132733	Palabana Road	tertiary	1	0	0	
+ZM	13132733	Pisano Close	residential	1	0	0	
+ZM	13132733	Red Bishop Lane	residential	1	0	0	
+ZM	13132733	Russel Road	unclassified	1	0	0	
+ZM	13132733	Seringa Drive	unclassified	1	0	0	
+ZM	13132733	State Lodge Road	tertiary	1	0	0	
+ZM	13132733	Twinpalm Road	secondary	1	0	0	
+ZM	13132734	Efflorecent Road	residential	1	0	0	
+ZM	13132734	Leopards Hill Road	secondary	1	0	0	
+ZM	13132734	Palabana Road	tertiary	1	0	0	
+ZM	13132734	Philippa Road	residential	1	0	0	

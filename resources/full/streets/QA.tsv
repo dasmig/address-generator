@@ -1,0 +1,1940 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+QA	289511	Wadi Al Sahl		6	1	72	
+QA	289511	Abu Huraira		3	8	136	
+QA	289511	Test		2	125	125	
+QA	289511	Curlew Street	living_street	1	0	0	
+QA	289511	أم الضعا	unclassified	1	0	0	Umm Al Daa Street
+QA	289511	ابا الحيران	unclassified	1	0	0	Abal Heeran Street
+QA	289511	ابا الخراسع	residential	1	0	0	Abu Al Kharasea Street
+QA	289511	ابا الرحيات	unclassified	1	0	0	Aba Al Erhayyat Street
+QA	289511	ابا الرحيات Aba Al Erhayyat Street	unclassified	1	0	0	Aba Al Erhayyat Street
+QA	289511	ابا السعد	residential	1	0	0	Aba Al Saad Street
+QA	289511	ابا السنوت	residential	1	0	0	Abal Sannoot Street
+QA	289511	ابا الصفا	residential	1	0	0	Aba Al Safa Street
+QA	289511	ابا اليوابي	residential	1	0	0	Aba Al Yuwabi Street
+QA	289511	ابن المعتز	residential	1	0	0	Ibn Al Muataz Street
+QA	289511	ابن النبيل	residential	1	0	0	Ibn Al Nabeel
+QA	289511	ابن بطوطة	residential	1	0	0	Ibn Batouta Street
+QA	289511	ابن رشد	residential	1	0	0	Ibn Roshid Street
+QA	289511	ابن زريق	residential	1	0	0	Ibn Zuraiq Street
+QA	289511	ابن سلام	residential	1	0	0	Ibn Salam Street
+QA	289511	ابن سهل	residential	1	0	0	Ibn Sahl
+QA	289511	ابن شعبة	residential	1	0	0	Ibn Shuba Street
+QA	289511	ابن طولون	residential	1	0	0	Ibn Toloun Street
+QA	289511	ابن عاصم	residential	1	0	0	Ibn Aasin
+QA	289511	ابن غالب	residential	1	0	0	Ign Ghalib Street
+QA	289511	ابن غياث	residential	1	0	0	Ibn Ghiyath
+QA	289511	ابن قتيبة	residential	1	0	0	Ibn Qutaiba
+QA	289511	ابن مسعود	residential	1	0	0	Ibn Masoud Street
+QA	289511	ابن معاذ	residential	1	0	0	Ibn Muaath
+QA	289511	ابن منظور	residential	1	0	0	Ibn Manzur Street
+QA	289511	ابن نافع	residential	1	0	0	Ibn Nafie
+QA	289511	ابن نصير	residential	1	0	0	Ibn Nusair Street
+QA	289511	ابن هشام	residential	1	0	0	Ibn Hisham
+QA	289511	ابن وهبان	residential	1	0	0	Ibn Wahban Street
+QA	289511	ابو الحكم	residential	1	0	0	Abu Al Hakam Street
+QA	289511	ابو الدرداء	residential	1	0	0	Abu Al Dardaa
+QA	289511	ابو تمام	residential	1	0	0	Abu Tammam Street
+QA	289511	ابو صليلة	residential	1	0	0	Abu Slaila
+QA	289511	ابو طالب	residential	1	0	0	Abu Talib Street
+QA	289511	ابو طريفة	residential	1	0	0	Abu Teraifa
+QA	289511	ابو نثيلة	residential	1	0	0	Abu Nathaila Street
+QA	289511	ابو هريرة	residential	1	0	0	Abu Huraira Street
+QA	289511	اطفيح	residential	1	0	0	Etfayyeh Street
+QA	289511	الاصداف	residential	1	0	0	Al Asdaf Street
+QA	289511	الاعناب	residential	1	0	0	Al Aanab Street
+QA	289511	الافراح	residential	1	0	0	Al Afrah
+QA	289511	الانشراح	residential	1	0	0	Al Inshirah
+QA	289511	الايثار	residential	1	0	0	Al Eithar Street
+QA	289511	البتيل	residential	1	0	0	Al Betteel Street
+QA	289523	Street 55		3	43	49	
+QA	289523	أم اشهرين	tertiary	1	0	0	Umm Shahrain Street
+QA	289523	أم طاقة	tertiary	1	0	0	Umm Taqa
+QA	289523	إبن عاصم	residential	1	0	0	Ibn Aasim Street
+QA	289523	ابا اصخال	residential	1	0	0	Aba Eskhal Street
+QA	289523	ابا العطف	residential	1	0	0	Aba Al Ataf Street
+QA	289523	ابن الحاجب	residential	1	0	0	Ibn Al Hajeb
+QA	289523	ابن الوليد	residential	1	0	0	Ibn Al Waleed
+QA	289523	ابن ثابت	residential	1	0	0	Ibn Thabet
+QA	289523	ابن زهير	residential	1	0	0	Ibn Zuhair Street
+QA	289523	ابن سلام	residential	1	0	0	Ibn Sallam
+QA	289523	ابن عامر	residential	1	0	0	Ibn Aamir Street
+QA	289523	ابن ماجد	residential	1	0	0	Ibn Majed
+QA	289523	اجبيجب	residential	1	0	0	Ejbaijeb
+QA	289523	احمد بن علي	residential	1	0	0	Ahmed Bin Ali
+QA	289523	اسهلة المرخ	residential	1	0	0	Iszhalat Al Markh Street
+QA	289523	الاخاء	residential	1	0	0	Al Ikhaa Street
+QA	289523	الاخلاص	residential	1	0	0	Al Ikhlas Street
+QA	289523	الازيرق	residential	1	0	0	Al Azairiq
+QA	289523	الاصلاح	residential	1	0	0	Al Islah Street
+QA	289523	الامان	residential	1	0	0	Al Aman Street
+QA	289523	الامل	residential	1	0	0	Al Amal
+QA	289523	البديعة	residential	1	0	0	Al Bedaiah
+QA	289523	الثليم	residential	1	0	0	Al Thelaim
+QA	289523	الثميد	residential	1	0	0	Al Themaid
+QA	289523	الجاهلية	residential	1	0	0	Al Jahiya Street
+QA	289523	الجبهة	residential	1	0	0	Al Jabha
+QA	289523	الجميل	residential	1	0	0	Al Jemail
+QA	289523	الجو الرملي	residential	1	0	0	Al Jaww Al Ramli Street
+QA	289523	الجواد	residential	1	0	0	Al Jawad Street
+QA	289523	الحزوم	residential	1	0	0	Al Huzoum Street
+QA	289523	الخرارة	residential	1	0	0	Al Kharrara
+QA	289523	الخرسعة	residential	1	0	0	Al Kharsaah
+QA	289523	الخزامة	residential	1	0	0	Al Khuzama Street
+QA	289523	الخزامى	residential	1	0	0	Al Khuzama
+QA	289523	الخويــمات	residential	1	0	0	Al Khuwaimat Street
+QA	289523	الخيرية	residential	1	0	0	Al Khairiya
+QA	289523	الخيل	residential	1	0	0	Al Khail Street
+QA	289523	الرشا	residential	1	0	0	Al Rasha Street
+QA	289523	الرشاد	residential	1	0	0	Al Rashad Street
+QA	289523	الرمال	residential	1	0	0	Al Remal Street
+QA	289523	الروابي	residential	1	0	0	Al Rawabi Street
+QA	289523	الروض	residential	1	0	0	Al Ruwad Street
+QA	289523	الرويسات	residential	1	0	0	Al Ruwaisat Street
+QA	289523	الزور	residential	1	0	0	Al Zawr
+QA	289523	الزوير	residential	1	0	0	Al Zuwair
+QA	289523	السراج	residential	1	0	0	Al Siraj
+QA	289523	السهلة	residential	1	0	0	Al Sahla
+QA	289524	أم طاقة	tertiary	1	0	0	Umm Taqa
+QA	289524	ابا الصليل	residential	1	0	0	Aba Al Seleel
+QA	289524	احمد بن سلطان	residential	1	0	0	Ahmed Bin Sultan Street
+QA	289524	احمد بن علي	residential	1	0	0	Ahmed Bin Ali
+QA	289524	الثغب	residential	1	0	0	Al Thaghab Street
+QA	289524	الجهيمية	residential	1	0	0	Al Juhaimiya
+QA	289524	السديريات	residential	1	0	0	Al Sedairiyat
+QA	289524	السراج	residential	1	0	0	Al Siraj
+QA	289524	الشولة	residential	1	0	0	Al Shuwala
+QA	289524	العندب	residential	1	0	0	Al Andab
+QA	289524	القوس	unclassified	1	0	0	Al Qaws
+QA	289524	الماردية	residential	1	0	0	Al Mardiya
+QA	289525	برقا ام وادي	residential	2	9	92	Barga Umm Wadi Street
+QA	289525	ابا انثيلة	residential	1	0	0	Abe Inthaila Street
+QA	289525	الحديقة	residential	1	0	0	Al Hadeeqa Street
+QA	289525	الصناعات المتوسطة	tertiary	1	0	0	Medium Industries Road
+QA	289525	الملاحة	unclassified	1	0	0	Navigation Street
+QA	289525	الميناء	unclassified	1	0	0	Al Meena
+QA	289525	امهات غويفة	residential	1	0	0	Ummahat Ghuwaifa Street
+QA	289525	اوجاب الحوض	residential	1	0	0	Awjab Al Saber Street
+QA	289525	اوجاب السبر	residential	1	0	0	Awjab Al Saber Street
+QA	289525	بو خيسة	residential	1	0	0	Bu Kheesa Street
+QA	289525	بو مرزاز	residential	1	0	0	Bu Merzaz Street
+QA	289525	تويم بو سمرة	residential	1	0	0	Tuwaim Bu Samra Street
+QA	289525	ثنية الجمل	residential	1	0	0	Thenyet Al Jamal
+QA	289525	جري بو امجيبرة	residential	1	0	0	Jery Bu Imjaibra Street
+QA	289525	جري بو بريكة	residential	1	0	0	Jery Bu Braika Street
+QA	289525	جري بو عريش	unclassified	1	0	0	Jery Bu Esh Street
+QA	289525	جري بو عوسج	residential	1	0	0	Jery Bu Awsaj Street
+QA	289525	جري بو عوينة	residential	1	0	0	Jery Bu Owaina Street
+QA	289525	جريان الاعويجات	residential	1	0	0	Jeryan Al Ewaijat Street
+QA	289525	جريان الدبدبة	residential	1	0	0	Jeryan Al Debdeba Street
+QA	289525	جريان السماري	residential	1	0	0	Jeryan Al Samari Street
+QA	289525	جريان الصيحة	residential	1	0	0	Jeryan Al Saiha Street
+QA	289525	جريان امقيطنات	residential	1	0	0	Jeryan Imgaitnat Street
+QA	289525	جريان انقيبات	residential	1	0	0	Jeryan Ingaibat Street
+QA	289545	طريق الغويرية	secondary	1	0	0	Al Ghuwairiya Road
+QA	289545	طريق لجملية	secondary	1	0	0	Lijmiliya Road
+QA	289548	شارع 18	tertiary	1	0	0	Street 18
+QA	289548	شارع 19	unclassified	1	0	0	Street 19
+QA	289548	شارع 22	tertiary	1	0	0	Street 22
+QA	289548	شارع 23	unclassified	1	0	0	Street 23
+QA	289548	شارع 24	tertiary	1	0	0	Street 24
+QA	289548	شارع 28	unclassified	1	0	0	Street 28
+QA	289548	شارع 30	unclassified	1	0	0	Street 30
+QA	289548	شارع 40	residential	1	0	0	Street 40
+QA	289548	شارع 41	residential	1	0	0	Street 41
+QA	289548	شارع 42	residential	1	0	0	Street 42
+QA	289548	شارع 44	residential	1	0	0	Street 44
+QA	289548	شارع 45	residential	1	0	0	Street 45
+QA	289698	ابن دراج	residential	1	0	0	Ibn Darraj Street
+QA	289698	ابن دريد	residential	1	0	0	Ibn Duraid Street
+QA	289698	ابن شهاب	residential	1	0	0	Ibn Shehab Street
+QA	289698	اجنان	residential	1	0	0	Ejnan Street
+QA	289698	احمد بن زيدون	residential	1	0	0	Ahmed Bin Zaidoun Street
+QA	289698	الاسيود	residential	1	0	0	Lesaiwed Street
+QA	289698	البراعم	residential	1	0	0	Al Baraimm Street
+QA	289698	البسيتينات	residential	1	0	0	Al Besaitinat Street
+QA	289698	البعوضيات	residential	1	0	0	Al Baoudiyat
+QA	289698	البكري	residential	1	0	0	Al Bakri Street
+QA	289698	البيضاء	residential	1	0	0	Al Baidaa Street
+QA	289698	الحجاز	residential	1	0	0	Al Hejaz Street
+QA	289698	الحنيزيبه	residential	1	0	0	Al Henaiziba Street
+QA	289698	الخمائل	residential	1	0	0	Al Khamaill Street
+QA	289698	الخوارزمي	residential	1	0	0	Al Khawarizmi Street
+QA	289698	الدويحة	residential	1	0	0	Al Duwaiha Street
+QA	289698	الرشا	residential	1	0	0	Al Rasha Street
+QA	289698	الزنبق	residential	1	0	0	Al Zanbaq Street
+QA	289698	السافلية	residential	1	0	0	Al Safliya Street
+QA	289698	السبسب	residential	1	0	0	Al Sebseb Street
+QA	289698	السداري	residential	1	0	0	Al Sedari Street
+QA	289698	السديم	residential	1	0	0	Al Sadeem Street
+QA	289698	السعن	residential	1	0	0	Al Saan Street
+QA	289698	السلمية	residential	1	0	0	Al Salamiya Street
+QA	289698	الصخامة	residential	1	0	0	Al Sakhama Street
+QA	289698	الصنيع	residential	1	0	0	Al Sunay Street
+QA	289698	الطريق الدائري الخامس	primary	1	0	0	E Ring Road
+QA	289698	العامرية	residential	1	0	0	Al Aameriya Street
+QA	289698	العب	residential	1	0	0	Al Ebb Street
+QA	289698	العد	residential	1	0	0	Al Edd Street
+QA	289698	العراد	residential	1	0	0	Al Arad Street
+QA	289698	العقدة	residential	1	0	0	Al Egda Street
+QA	289698	الغارب	residential	1	0	0	Al Ghareb Street
+QA	289698	الفراهيدي	residential	1	0	0	Al Farahidi Street
+QA	289698	الكمال	residential	1	0	0	Al Kamal Street
+QA	289698	الماوردي	residential	1	0	0	Al Mawradi Street
+QA	289698	المزرعة	residential	1	0	0	Al Mazraah Street
+QA	289698	المسعودي	residential	1	0	0	Al Masoudi Street
+QA	289698	المقدسي	residential	1	0	0	Al Maqdesi Street
+QA	289698	النادي	residential	1	0	0	Al Nadi Street
+QA	289698	النسيم	residential	1	0	0	Al Naseem Street
+QA	289698	ام العمد	residential	1	0	0	Umm Al Amad Street
+QA	289698	ام المقارين	residential	1	0	0	Umm Al Magareen Street
+QA	289698	ام سويجة	residential	1	0	0	Umm Suwaija Street
+QA	289698	ام فسيلة	residential	1	0	0	Umm Fesseela Street
+QA	289698	ام لخَرَق	residential	1	0	0	Umm Al Lekhrag Street
+QA	289698	بن جرير	residential	1	0	0	Ibn Jareer Street
+QA	289698	بن مجير	residential	1	0	0	Ibn Mujjer Street
+QA	289716	Al Sidari Street		8	1	8	
+QA	289716	شارع 15	unclassified	2	294	294	Street 15
+QA	289716	أبــا الزبار	residential	1	0	0	Aba Al Zubar Street
+QA	289716	أم البرك	residential	1	0	0	Umm Al Birak Street
+QA	289716	أم السلم	residential	1	0	0	Umm Al Salam
+QA	289716	أم الماء	residential	1	0	0	Umm Al Maa Street
+QA	289716	أم ثنيتين	residential	1	0	0	Umm Ethnaiteen Street
+QA	289716	أم جذيع	residential	1	0	0	Umm Juthaya Street
+QA	289716	ارحية	residential	1	0	0	Erhayya Street
+QA	289716	اسكك	residential	1	0	0	Eskak Street
+QA	289716	البناء	unclassified	1	0	0	Al Binaa Street
+QA	289716	البيرق	residential	1	0	0	Al Bairaq Street
+QA	289716	الثغب	residential	1	0	0	Al Thaghab Street
+QA	289716	الجدي	residential	1	0	0	Al Jaddy Street
+QA	289716	الجلبوت	residential	1	0	0	Al Jalboot Street
+QA	289716	الجوزاء	residential	1	0	0	Al Jawzaa Street
+QA	289716	الجوهر	residential	1	0	0	Al Jawhar
+QA	289716	الحمرة	residential	1	0	0	Al Hamra
+QA	289716	الحوافر	residential	1	0	0	Al Hawafer Street
+QA	289716	الخرارة	residential	1	0	0	Al Kharrara Street
+QA	289716	الدحيليات	residential	1	0	0	Al Dehailiyyat Street
+QA	289716	الدرع	residential	1	0	0	Al Dera
+QA	289716	الديمة	residential	1	0	0	Al Deema
+QA	289716	الذيبية	residential	1	0	0	Al Theebiya Street
+QA	289716	الرديف	residential	1	0	0	Al Redeef Street
+QA	289716	الرفاع	residential	1	0	0	Al Rufaa
+QA	289716	الركب	residential	1	0	0	Al Rekab Street
+QA	289716	الركي	residential	1	0	0	Al Rekayy
+QA	289716	الرملة	residential	1	0	0	Al Ramla Street
+QA	289716	الريم	residential	1	0	0	Al Reem
+QA	289716	السداري	residential	1	0	0	Al Sidari Street
+QA	289716	السدرة	residential	1	0	0	Al Sidra Street
+QA	289716	السفينة	residential	1	0	0	Al Safeena Street
+QA	289716	السلم	residential	1	0	0	Al Salama Street
+QA	289716	السماك	residential	1	0	0	Al Sammak Street
+QA	289716	السنبوك	residential	1	0	0	Al Senbouk Street
+QA	289716	الشوعي	residential	1	0	0	Al Shooei
+QA	289716	الصرفة	residential	1	0	0	Al Sarfa Street
+QA	289716	الصنيعات	residential	1	0	0	Al Sunaiat Street
+QA	289716	الضعينيات	residential	1	0	0	Al Dainiyat Street
+QA	289716	الطوسي	residential	1	0	0	Al Tousi Street
+QA	289716	العقدة	residential	1	0	0	Al Oqda Street
+QA	289716	العمران	unclassified	1	0	0	Al Imran Street
+QA	289716	الغيث	residential	1	0	0	Al Ghaith Street
+QA	289716	القوس	residential	1	0	0	Al Qaws Street
+QA	289716	الكراجات	unclassified	1	0	0	Al Kharajat Street
+QA	289716	الكسارات	unclassified	1	0	0	Al Kassarat
+QA	289716	المحارق	residential	1	0	0	Al Mahareq
+QA	289738	Umm Al Amad Street		44	1	1	
+QA	289738	Ibn Sireen Street		4	6	92	
+QA	289738	Sahl Bin Qais		3	2	16	
+QA	289738	Al Khuzama Street		2	9	11	
+QA	289738	Al Tadhamon Street		2	23	39	
+QA	289738	Hassan Bin Numair		2	3	12	
+QA	289738	Rawdat Al Oqla		2	33	50	
+QA	289738	Saad Bin Eyas Street		2	43	45	
+QA	289738	Saad Bin Yazeed Street		2	2	5	
+QA	289738	Umm Shahrain		2	1	23	
+QA	289738	أمهات السلام	residential	1	0	0	Ummahat Al Salam Street
+QA	289738	ابا النعام	residential	1	0	0	Aba Al Naam Street
+QA	289738	ابن الاحنف	residential	1	0	0	Ibn Al Ahnaf Street
+QA	289738	ابن الازور	residential	1	0	0	Ibn Al Azwar
+QA	289738	ابن الحاجب	residential	1	0	0	Ibn Al Hajeb Street
+QA	289738	ابن الزيات	residential	1	0	0	Ibn Al Zayyat Street
+QA	289738	ابن العديم	residential	1	0	0	Ibn Al Adeem Street
+QA	289738	ابن الغدير	residential	1	0	0	Saeed Bin Al Musaybe Street
+QA	289738	ابن المغيرة	residential	1	0	0	Ibn Al Mughira Street
+QA	289738	ابن النعمان	residential	1	0	0	Ibn Al Numan Street
+QA	289738	ابن جبلة	residential	1	0	0	Ibn Jabala Street
+QA	289738	ابن جبير	residential	1	0	0	Ibn Jubair Street
+QA	289738	ابن حاطب	residential	1	0	0	Ibn Hateb Street
+QA	289738	ابن حزام	residential	1	0	0	Ibn Hazam Street
+QA	289738	ابن حكيم	residential	1	0	0	Ibn Hakeem Street
+QA	289738	ابن حمدون	residential	1	0	0	Ibn Hamdoon Street
+QA	289738	ابن رشيق	residential	1	0	0	Ibn Rasheeq
+QA	289738	ابن رواحة	residential	1	0	0	Ibn Rawaha Street
+QA	289738	ابن سراقة	residential	1	0	0	Ibn Suraqa Street
+QA	289738	ابن سنان	residential	1	0	0	Ibn Sinan
+QA	289738	ابن سيرين	residential	1	0	0	Ibn Yunis Street
+QA	289738	ابن عامر	residential	1	0	0	Ibn Aamer Street
+QA	289738	ابن عدي	residential	1	0	0	Ibn Addi Street
+QA	289738	ابن عربي	residential	1	0	0	Ibn Arabi Street
+QA	289738	ابن عطيف	residential	1	0	0	Ibn Othaif Street
+QA	289738	ابن عياد	residential	1	0	0	Ibn Ayyad Street
+QA	289738	ابن مهند	residential	1	0	0	Ibn Muhannad Street
+QA	289738	ابن نباتة	residential	1	0	0	Ibn Nubata Street
+QA	289738	ابن هذيل	residential	1	0	0	Ibn Huthail Street
+QA	289738	ابن وهب	residential	1	0	0	Ibn Wahb Street
+QA	289738	ابواب	residential	1	0	0	Abwab Street
+QA	289738	اسفينة	residential	1	0	0	Esfaina Street
+QA	289738	الأزيرق	residential	1	0	0	Al Ezaireg Street
+QA	289738	الابهرية	residential	1	0	0	Al Abhariya Street
+QA	289738	الابواء	residential	1	0	0	Al Abwaa Street
+QA	289738	الاحسان	residential	1	0	0	Al Ishsan Street
+QA	289738	الادريسي	residential	1	0	0	Al Idreesi Street
+QA	289738	الاريج	residential	1	0	0	Al Areej Street
+QA	289739	أبو الدرداء	residential	1	0	0	Abu Al Dardaa Street
+QA	289739	ابن سينا	residential	1	0	0	Ibn Seena Street
+QA	289739	ابو بكر الصديق	residential	1	0	0	Abu Bakr Al Siddiq Street
+QA	289739	البرثة	residential	1	0	0	Al Baratha
+QA	289739	الثغب	residential	1	0	0	Al Thaghab Street
+QA	289739	الحربة	residential	1	0	0	Al Harba Street
+QA	289739	الخوارزمي	residential	1	0	0	Al Khawarizmi Street
+QA	289739	الزبير بن العوام	residential	1	0	0	Al Zubair Bin Al Awwam Street
+QA	289739	السيف	residential	1	0	0	Al Seef Street
+QA	289739	العطورية	residential	1	0	0	Al Utouriya
+QA	289739	القاعية	residential	1	0	0	Al Gaaiya
+QA	289739	الكورنيش	residential	1	0	0	Al Corniche Street
+QA	289739	ام الصوف	residential	1	0	0	Umm Al Soof
+QA	289739	ام شمروخ	residential	1	0	0	Umm Shamroukh Street
+QA	289739	بو ظلوف	tertiary	1	0	0	Bu Dulouf Street
+QA	289739	تقاطع مدينة الشمال	unclassified	1	0	0	Madinat Al Shamal Interchange
+QA	289739	ساحة الحوش	residential	1	0	0	Sahat Al Hawsh
+QA	289739	شارع 253	unclassified	1	0	0	Street 253
+QA	289739	شارع 320	unclassified	1	0	0	Street 320
+QA	289739	شارع 616	residential	1	0	0	Street 616
+QA	289739	شارع 631	residential	1	0	0	Street 631
+QA	289739	شارع 634	residential	1	0	0	Street 634
+QA	289739	شارع 635	residential	1	0	0	Street 635
+QA	289739	شارع 640	residential	1	0	0	Street 640
+QA	289813	شارع 301	residential	1	0	0	Street 301
+QA	289813	شارع 302	residential	1	0	0	Street 302
+QA	289813	شارع 303	unclassified	1	0	0	Street 303
+QA	289813	شارع 304	residential	1	0	0	Street 304
+QA	289813	شارع 305	residential	1	0	0	Street 305
+QA	289813	شارع 306	residential	1	0	0	Street 306
+QA	289813	شارع 307	residential	1	0	0	Street 307
+QA	289813	شارع 308	residential	1	0	0	Street 308
+QA	289813	شارع 309	residential	1	0	0	Street 309
+QA	289813	شارع 311	unclassified	1	0	0	Street 311
+QA	289813	شارع 312	residential	1	0	0	Street 312
+QA	289813	شارع 313	residential	1	0	0	Street 313
+QA	289813	شارع 314	residential	1	0	0	Street 314
+QA	289813	شارع 315	unclassified	1	0	0	Street 315
+QA	289813	شارع 316	residential	1	0	0	Street 316
+QA	289813	شارع 317	residential	1	0	0	Street 317
+QA	289813	شارع 318	residential	1	0	0	Street 318
+QA	289813	شارع 319	residential	1	0	0	Street 319
+QA	289813	شارع 320	residential	1	0	0	Street 320
+QA	289813	شارع 321	residential	1	0	0	Street 321
+QA	289813	شارع 323	residential	1	0	0	Street 323
+QA	289813	شارع 325	residential	1	0	0	Street 325
+QA	289813	شارع 326	residential	1	0	0	Street 326
+QA	289813	شارع 330	residential	1	0	0	Street 330
+QA	289847	البقاره	residential	2	3060	3060	Al Baggara
+QA	289847	شارع 3059	residential	2	70	70	Street 3059
+QA	289847	أم قرن	tertiary	1	0	0	Umm Qarn Road
+QA	289847	البوم	residential	1	0	0	Al Boom
+QA	289847	الحديقة	residential	1	0	0	Al Hadeeqa
+QA	289847	الحيا	residential	1	0	0	Al Haya
+QA	289847	الديمة	residential	1	0	0	Al Deema
+QA	289847	السليمي	tertiary	1	0	0	Al Sulaimi
+QA	289847	الشوعي	residential	1	0	0	Al Shooei
+QA	289847	الغيث	residential	1	0	0	Al Ghaith Street
+QA	289847	الغيص	residential	1	0	0	Al Ghais
+QA	289847	القلاف	residential	1	0	0	Al Gallaf
+QA	289847	المجدمى	residential	1	0	0	Al Mejaddemi
+QA	289847	المزارع	residential	1	0	0	Al Mazara
+QA	289847	النهام	residential	1	0	0	Al Nahham
+QA	289847	النواخذة	residential	1	0	0	Al Nuwakhetha Street
+QA	289847	ام قرن	tertiary	1	0	0	Umm Qarn Road
+QA	289847	شارع 1406	tertiary	1	0	0	Street 1406
+QA	289847	شارع 1407	residential	1	0	0	Street 1407
+QA	289847	شارع 1409	residential	1	0	0	Street 1409
+QA	289847	شارع 1410	unclassified	1	0	0	Street 1410
+QA	289847	شارع 1411	tertiary	1	0	0	Street 1411
+QA	289847	شارع 1412	unclassified	1	0	0	Street 1412
+QA	289847	شارع 1413	unclassified	1	0	0	Street 1413
+QA	289847	شارع 1414	residential	1	0	0	Street 1414
+QA	289847	شارع 1416	tertiary	1	0	0	Street 1416
+QA	289847	شارع 1417	residential	1	0	0	Street 1417
+QA	289847	شارع 1419	residential	1	0	0	Street 1419
+QA	289847	شارع 1420	residential	1	0	0	Street 1420
+QA	289847	شارع 1421	residential	1	0	0	Street 1421
+QA	289847	شارع 1422	residential	1	0	0	Street 1422
+QA	289847	شارع 1423	residential	1	0	0	Street 1423
+QA	289847	شارع 1425	tertiary	1	0	0	Street 1425
+QA	289847	شارع 1426	residential	1	0	0	Street 1426
+QA	289847	شارع 1427	residential	1	0	0	Street 1427
+QA	289847	شارع 1431	residential	1	0	0	Street 1431
+QA	289847	شارع 1432	residential	1	0	0	Street 1432
+QA	289847	شارع 1433	residential	1	0	0	Street 1433
+QA	289847	شارع 1434	residential	1	0	0	Street 1434
+QA	289847	شارع 1435	residential	1	0	0	Street 1435
+QA	289847	شارع 1436	residential	1	0	0	Street 1436
+QA	289847	شارع 1437	residential	1	0	0	Street 1437
+QA	289847	شارع 1445	residential	1	0	0	
+QA	289847	شارع 1446	residential	1	0	0	Street 1446
+QA	289847	شارع 1450	residential	1	0	0	Street 1450
+QA	289847	شارع 1451	residential	1	0	0	Street 1451
+QA	289847	شارع 1452	residential	1	0	0	Street 1452
+QA	289847	شارع 146	unclassified	1	0	0	Street 146
+QA	289847	شارع 1460	residential	1	0	0	Street 1460
+QA	289847	شارع 1461	residential	1	0	0	
+QA	289847	شارع 1465	residential	1	0	0	Street 1465
+QA	289847	شارع 1467	residential	1	0	0	Street 1467
+QA	289847	شارع 147	unclassified	1	0	0	Street 147
+QA	289847	شارع 1471	residential	1	0	0	
+QA	289847	شارع 148	unclassified	1	0	0	Street 148
+QA	289847	شارع 196	unclassified	1	0	0	Street 196
+QA	289847	شارع 201	residential	1	0	0	Street 201
+QA	289847	شارع 202	residential	1	0	0	Street 202
+QA	289847	شارع 203	residential	1	0	0	Street 203
+QA	289847	شارع 205	residential	1	0	0	Street 205
+QA	289847	شارع 206	residential	1	0	0	Street 206
+QA	289847	شارع 207	residential	1	0	0	Street 207
+QA	289847	شارع 210	residential	1	0	0	Street 210
+QA	289847	شارع 211	residential	1	0	0	Street 211
+QA	289847	شارع 214	residential	1	0	0	
+QA	289847	شارع 215	residential	1	0	0	
+QA	289847	شارع 216	residential	1	0	0	
+QA	289847	شارع 217	residential	1	0	0	
+QA	289847	شارع 218	residential	1	0	0	
+QA	289847	شارع 219	residential	1	0	0	
+QA	289847	شارع 220	residential	1	0	0	Street 220
+QA	289847	شارع 221	residential	1	0	0	Street 221
+QA	289847	شارع 222	residential	1	0	0	
+QA	289847	شارع 226	residential	1	0	0	
+QA	289847	شارع 227	residential	1	0	0	
+QA	289847	شارع 229	residential	1	0	0	Street 229
+QA	289847	شارع 230	residential	1	0	0	Street 230
+QA	289847	شارع 231	residential	1	0	0	Street 231
+QA	289847	شارع 232	residential	1	0	0	Street 232
+QA	289847	شارع 234	residential	1	0	0	
+QA	289847	شارع 238	residential	1	0	0	Street 238
+QA	289847	شارع 239	residential	1	0	0	Street 239
+QA	289847	شارع 241	residential	1	0	0	Street 241
+QA	289847	شارع 242	residential	1	0	0	Street 242
+QA	289847	شارع 244	residential	1	0	0	
+QA	289847	شارع 249	residential	1	0	0	
+QA	289847	شارع 254	residential	1	0	0	Street 254
+QA	289847	شارع 255	residential	1	0	0	Street 255
+QA	289847	شارع 256	residential	1	0	0	Street 256
+QA	289847	شارع 257	residential	1	0	0	Street 257
+QA	289847	شارع 258	residential	1	0	0	Street 258
+QA	289847	شارع 259	residential	1	0	0	Street 259
+QA	289847	شارع 261	residential	1	0	0	Street 261
+QA	289847	شارع 262	residential	1	0	0	Street 262
+QA	289847	شارع 263	residential	1	0	0	Street 263
+QA	289847	شارع 264	tertiary	1	0	0	Street 264
+QA	289847	شارع 265	residential	1	0	0	
+QA	289847	شارع 266	residential	1	0	0	Street 266
+QA	289847	شارع 267	residential	1	0	0	Street 267
+QA	289847	شارع 268	residential	1	0	0	
+QA	289877	الشيحانية	tertiary	1	0	0	Al Sheehaniya
+QA	289877	بئر الخريب	unclassified	1	0	0	Bir Lekhraib
+QA	289877	خور العديد	residential	1	0	0	Khor Al Edaid
+QA	289877	روضة محيرجة	residential	1	0	0	Rawdat Mehairja
+QA	289877	روضة مريجيل	residential	1	0	0	Rawdat Meraijeel
+QA	289877	شارع 102	residential	1	0	0	Street 102
+QA	289877	شارع 103	residential	1	0	0	Street 103
+QA	289877	شارع 104	residential	1	0	0	Street 104
+QA	289877	شارع 106	residential	1	0	0	Street 106
+QA	289877	شارع 107	residential	1	0	0	Street 107
+QA	289877	شارع 108	residential	1	0	0	Street 108
+QA	289877	شارع 1100	residential	1	0	0	Street 1100
+QA	289877	شارع 1110	residential	1	0	0	Street 1110
+QA	289877	شارع 1111	residential	1	0	0	Street 1111
+QA	289877	شارع 112	residential	1	0	0	Street 112
+QA	289877	شارع 113	residential	1	0	0	Street 113
+QA	289877	شارع 114	residential	1	0	0	Street 114
+QA	289877	شارع 115	residential	1	0	0	Street 115
+QA	289877	شارع 116	residential	1	0	0	Street 116
+QA	289877	شارع 117	residential	1	0	0	Street 117
+QA	289877	شارع 118	residential	1	0	0	Street 118
+QA	289877	شارع 119	residential	1	0	0	Street 119
+QA	289877	شارع 120	residential	1	0	0	Street 120
+QA	289877	شارع 121	residential	1	0	0	Street 121
+QA	289884	الحوايا	residential	1	0	0	Al Hawaya
+QA	289884	الخليج	residential	1	0	0	Al Khaleej Street
+QA	289884	القعابية	residential	1	0	0	Al Qaabiya Street
+QA	289884	حذيفه بن اليمان	residential	1	0	0	Hodaifa Bin Al Yaman Street
+QA	289884	خاصومة	residential	1	0	0	Khasooma Street
+QA	289884	سعد بن ابي وقاص	residential	1	0	0	Saad Bin Abi Waqas
+QA	289884	شارع 253	unclassified	1	0	0	Street 253
+QA	289884	شارع 319	unclassified	1	0	0	Street 319
+QA	289884	شارع 320	unclassified	1	0	0	Street 320
+QA	289884	شارع 815	residential	1	0	0	Street 815
+QA	289884	شارع 816	residential	1	0	0	Street 816
+QA	289884	شارع 825	residential	1	0	0	Street 825
+QA	289888	Al Aziziya Street		7	6	49	
+QA	289888	Ibn Mahran Street		7	19	31	
+QA	289888	Othman Bin Affan		7	35	101	
+QA	289888	Saeed Bin Basheer		7	40	50	
+QA	289888	Sara Street		7	1	13	
+QA	289888	Al Rawdah Street		4	1	9	
+QA	289888	Zamzam Street		4	1	12	
+QA	289888	1002		3	10	10	
+QA	289888	Dana Street		3	1	3	
+QA	289888	Osama Bin Zaid Street		3	57	71	
+QA	289888	شارع عيد بن محمد بن ثاني	tertiary	3	19	27	Eid Bin Mohammed Bin Thani Street
+QA	289888	Al Qadisi		2	84	88	
+QA	289888	Khawla Street		2	1	2	
+QA	289888	Rawdat Al Oqla		2	35	48	
+QA	289888	المسحبية	residential	2	226	226	Al Maszhabiya Street
+QA	289888	Jethjath Court	residential	1	0	0	
+QA	289888	Snay Bu Hasa Street	residential	1	0	0	
+QA	289888	Street 300	residential	1	0	0	
+QA	289888	آمد	residential	1	0	0	Aamed Street
+QA	289888	أبا البروج	residential	1	0	0	Aba Al Burooj Street
+QA	289888	أبا الجثجاث	residential	1	0	0	Aba Al Jethjath Street
+QA	289888	أبا الجحازل	residential	1	0	0	Aba Al Jahazel Street
+QA	289888	أبا الحوايا	residential	1	0	0	Aba Al Hawaya
+QA	289888	أبا الخراسع	residential	1	0	0	Aba Al Kharasea
+QA	289888	أبا الدوم	residential	1	0	0	Aba Al Dawm Street
+QA	289888	أبا الربي	residential	1	0	0	Aba Al Rubbi Street
+QA	289888	أبا الربيات	residential	1	0	0	Aba Al Rubeyyat Street
+QA	289888	أبا الريش	residential	1	0	0	Aba Al Reesh Street
+QA	289888	أبا السنيم	residential	1	0	0	Aba Al Seneem
+QA	289888	أبا الصليل	residential	1	0	0	Aba Al Seleel Street
+QA	289888	أبا المشموم	residential	1	0	0	Aba Al Mashmoom Street
+QA	289888	أبــا الزبار	residential	1	0	0	Aba Al Zubar Street
+QA	289888	أبواب	residential	1	0	0	Abwab Street
+QA	289888	أكثم	residential	1	0	0	Aktham
+QA	289888	أم اسوية	residential	1	0	0	Umm Suwayya Street
+QA	289888	أم اشخوط	residential	1	0	0	Umm Eshkoot Street
+QA	289888	أم اشهرين	residential	1	0	0	Umm Shahrain
+QA	289888	أم البرك	residential	1	0	0	Umm Al Birak Street
+QA	289888	أم الحول	residential	1	0	0	Umm Al Hool Street
+QA	289888	أم الربى	residential	1	0	0	Umm Al Ruba Street
+QA	289888	أم السلم	residential	1	0	0	Umm Al Salam
+QA	289888	أم الشبرم	residential	1	0	0	Umm Al Shubrum Street
+QA	289888	أم العمد	residential	1	0	0	Umm Al Amad Street
+QA	289888	أم القرضي	residential	1	0	0	Umm Legredi Street
+QA	289888	أم القهاب	residential	1	0	0	Umm Al Gehab Street
+QA	289888	أم الماء	residential	1	0	0	Umm Al Maa Street
+QA	289888	أم المسام	residential	1	0	0	Umm Al Masam
+QA	289888	أم المقارين	residential	1	0	0	Umm Al Magareen Street
+QA	289888	أم المواقع	residential	1	0	0	Umm Al Mawagea
+QA	289888	أم النعام	residential	1	0	0	Umm Al Naam Street
+QA	289888	أم بركة	residential	1	0	0	Umm Birka Street
+QA	289888	أم ثغيب	residential	1	0	0	Umm Thughaib Street
+QA	289888	أم جحازل	residential	1	0	0	Umm Jahazel Street
+QA	289888	أم جذيع	residential	1	0	0	Umm Juthaya Street
+QA	289888	أم جويعد	residential	1	0	0	Umm Juwaied Street
+QA	289888	أم جويفة	residential	1	0	0	Umm Ejwaifa Street
+QA	289888	أم دحل	residential	1	0	0	Umm Dahal
+QA	289888	أم ردوم	residential	1	0	0	Umm Erdoom Street
+QA	289888	أم زرع	residential	1	0	0	Umm Zara Street
+QA	289888	أم سدرة	residential	1	0	0	Umm Sidra
+QA	289888	أم سمرة	residential	1	0	0	Um Samra Street
+QA	289888	أم سويد	residential	1	0	0	Umm Suwwaid
+QA	289888	أم طاقة	residential	1	0	0	Umm Taqa
+QA	289888	أم عبيرية	residential	1	0	0	Umm Obairiya
+QA	289888	أم غويفة	residential	1	0	0	Umm Eghwaifa
+QA	289888	أم غويلينة	residential	1	0	0	Umm Ghuwailina Street
+QA	289888	أم قرن	residential	1	0	0	Umm Qam Street
+QA	289888	أم قريبة	residential	1	0	0	Umm Egraiba Street
+QA	289888	أم قرين	residential	1	0	0	Umm Grain Street
+QA	289888	أم لقرضي	residential	1	0	0	Umm Legredi Street
+QA	289888	أم لقهاب	residential	1	0	0	Umm Laghab Street
+QA	289888	أمرير	residential	1	0	0	Imrair
+QA	289888	أمغدر	residential	1	0	0	Imghadar Street
+QA	289888	أمهات عوينة	residential	1	0	0	Ummahat Owaina Street
+QA	289888	إبن عاصم	residential	1	0	0	Ibn Aasim Street
+QA	289888	إبن مغيث	residential	1	0	0	Ibn Mugheeth Street
+QA	289888	ابا الخراسع	residential	1	0	0	Abal Kharasea Street
+QA	289888	ابا الصفاء	residential	1	0	0	Aba Al Safa Street
+QA	289888	ابن اجثم	residential	1	0	0	Ibn Aktham Street
+QA	289888	ابن ادريس	residential	1	0	0	Ibn Idrees Street
+QA	289888	ابن ادهم	residential	1	0	0	Ibn Adham Street
+QA	289888	ابن ارقم	residential	1	0	0	Ibn Arqam Street
+QA	289888	ابن اسحق	residential	1	0	0	Ibn Iszhaq Street
+QA	289888	ابن اسلم	residential	1	0	0	Ibn Aslam Street
+QA	289888	ابن افلح	residential	1	0	0	Ibn Aflah Street
+QA	289888	ابن الاحنف	residential	1	0	0	Ibn Al Ahnaf Street
+QA	289888	ابن الارت	residential	1	0	0	Ibn Al Aratt Street
+QA	289888	ابن الارقم	residential	1	0	0	Ibn Al Arqam Street
+QA	289888	ابن الازرق	residential	1	0	0	Ibn Al Azraq Street
+QA	289888	ابن الانباري	residential	1	0	0	Ibn Al Anbari Street
+QA	289888	ابن الاهتم	residential	1	0	0	Ibn Al Ahtam Street
+QA	289888	ابن البراء	residential	1	0	0	Ibn Al Baraa Street
+QA	289888	ابن البناء	residential	1	0	0	Ibn Al Bannaa
+QA	289888	ابن الجلاب	residential	1	0	0	Ibn Al Jallab
+QA	289888	ابن الجموح	residential	1	0	0	Ibn Al Jamouh Street
+QA	289888	ابن الحاجب	residential	1	0	0	Ibn Al Hajeb Street
+QA	289888	ابن الحارث	residential	1	0	0	Ibn Al Harith Street
+QA	289888	ابن الحصين	residential	1	0	0	Ibn Al Husain Street
+QA	289888	ابن الحكم	residential	1	0	0	Ibn Al Hakam Street
+QA	289888	ابن الخصيب	residential	1	0	0	Ibn Al Khaseeb Street
+QA	289888	ابن الخطيب	residential	1	0	0	Ibn Al Khateeb Street
+QA	289888	ابن الزبير	residential	1	0	0	Ibn Al Zubair Street
+QA	289888	ابن الصامت	residential	1	0	0	Ibn Al Samit Street
+QA	289888	ابن الصوري	residential	1	0	0	Al Sour Street
+QA	289888	ابن العطار	residential	1	0	0	Ibn Al Attar Street
+QA	289888	ابن العوام	residential	1	0	0	Ibn Al Awwam Street
+QA	289888	ابن الفراء	residential	1	0	0	Ibn Al Farra Street
+QA	289888	ابن الفرات	residential	1	0	0	Ibn Al Furat Street
+QA	289888	ابن المعتز	residential	1	0	0	Ibn Al Muataz Street
+QA	289888	ابن النعمان	residential	1	0	0	Ibn Al Numan Street
+QA	289888	ابن الهيثم	residential	1	0	0	Ibn Al Haitham
+QA	289888	ابن الودة	residential	1	0	0	Ibn Al Waddah Street
+QA	289888	ابن انيس	residential	1	0	0	Ibn Anees Street
+QA	289888	ابن اوس	residential	1	0	0	Ibn Aws Street
+QA	289888	ابن باديس	residential	1	0	0	Ibn Badees Street
+QA	289888	ابن بركة	residential	1	0	0	Ibn Baraka Street
+QA	289888	ابن بسام	residential	1	0	0	Ibn Bassam Street
+QA	289888	ابن بشر	residential	1	0	0	Ibn Bishr Street
+QA	289888	ابن بشير	residential	1	0	0	Ibn Basheer Street
+QA	289888	ابن جرير	residential	1	0	0	Ibn Jareer Street
+QA	289888	ابن جنادة	residential	1	0	0	Ibn Jenada Street
+QA	289888	ابن حابس	residential	1	0	0	Ibn Habess Street
+QA	289888	ابن حاتم	residential	1	0	0	Ibn Hatem Street
+QA	289888	ابن حاطب	residential	1	0	0	Ibn Hateb Street
+QA	289888	ابن حذيفة	residential	1	0	0	Ibn Huthaifa Street
+QA	289888	ابن حكيم	residential	1	0	0	Ibn Hakeem Street
+QA	289888	ابن حمد	residential	1	0	0	Ibn Hamad
+QA	289888	ابن دراج	residential	1	0	0	Ibn Darraj Street
+QA	289888	ابن دريد	residential	1	0	0	Ibn Duraid Street
+QA	289888	ابن دينار	residential	1	0	0	Ibn Dinar Street
+QA	289888	ابن رافع	residential	1	0	0	Ibn Rafa Street
+QA	289888	ابن ربيعة	residential	1	0	0	Ibn Rabiah Street
+QA	289888	ابن رجاء	residential	1	0	0	Ibn Rajaa Street
+QA	289888	ابن رجب	residential	1	0	0	Ibn Rajab Street
+QA	289888	ابن رحال	residential	1	0	0	Ibn Rahhal Street
+QA	289888	ابن زهير	residential	1	0	0	Ibn Zuhair Street
+QA	289888	ابن سعد	residential	1	0	0	Ibn Saad Street
+QA	289888	ابن سلام	residential	1	0	0	Ibn Sallam Street
+QA	289888	ابن سلمة	residential	1	0	0	Ibn Salama Street
+QA	289888	ابن سليم	residential	1	0	0	Ibn Sulaim Street
+QA	289888	ابن سمرة	residential	1	0	0	Ibn Samra Street
+QA	289888	ابن سنان	residential	1	0	0	Ibn Sinan Street
+QA	289888	ابن سهل	residential	1	0	0	Ibn Sahl Street
+QA	289888	ابن شريك	residential	1	0	0	Ibn Shuraik Street
+QA	289888	ابن شهاب	residential	1	0	0	Ibn Shehab Street
+QA	289888	ابن شهيد	residential	1	0	0	Ibn Shaheed Street
+QA	289888	ابن طلحة	residential	1	0	0	Ibn Talha Street
+QA	289888	ابن عدي	residential	1	0	0	Ibn Addi Street
+QA	289888	ابن عفيف	residential	1	0	0	Ibn Afeef
+QA	289888	ابن عميرة	residential	1	0	0	Ibn Omaira Street
+QA	289888	ابن فرقد	residential	1	0	0	Ibn Farqad
+QA	289888	ابن مالك	residential	1	0	0	Ibn Malik Street
+QA	289888	ابن مانع	residential	1	0	0	Ibn Mana Street
+QA	289888	ابن مسعدة	residential	1	0	0	Ibn Masada
+QA	289888	ابن مسلم	residential	1	0	0	Ibn Muslim Street
+QA	289888	ابن معبد	residential	1	0	0	Ibn Maabad Street
+QA	289888	ابن معمر	residential	1	0	0	Ibn Maamar
+QA	289888	ابن معين	residential	1	0	0	Ibn Maeen
+QA	289888	ابن منيب	residential	1	0	0	Ibn Muneeb Street
+QA	289888	ابن مهران	residential	1	0	0	Ibn Mahran Street
+QA	289888	ابن نعيم	residential	1	0	0	Ibn Naeem Street
+QA	289888	ابن نوفل	residential	1	0	0	Ibn Nawfal Street
+QA	289888	ابن وهب	residential	1	0	0	Ibn Wahb Street
+QA	289888	ابن ياسر	residential	1	0	0	Ibn Yasser Street
+QA	289888	ابها	residential	1	0	0	Abha Street
+QA	289888	ابو امامة	residential	1	0	0	Abu Umama Street
+QA	289888	ابو ايوب	residential	1	0	0	Abu Ayyoub Street
+QA	289888	ابو بشر	residential	1	0	0	Abu Bishr Street
+QA	289888	ابو ثابت	residential	1	0	0	Abu Thabit Street
+QA	289888	ابو جبير	residential	1	0	0	Abu Jubair Street
+QA	289888	ابو حذيفة	residential	1	0	0	Abu Huthaifa Street
+QA	289888	ابو دجانة	residential	1	0	0	Abu Dujana Street
+QA	289888	ابو صليلة	residential	1	0	0	Bu Slaila Street
+QA	289888	ابو عباد	residential	1	0	0	Abu Abbad Street
+QA	289888	ابو عمارة	residential	1	0	0	Abu Omara Street
+QA	289888	ابو مجاهد	residential	1	0	0	Abu Mujahed Street
+QA	289888	ابو نثيلة	residential	1	0	0	Abu Nathaila Street
+QA	289888	ابو هند	residential	1	0	0	Abu Hind Street
+QA	289888	ابواب	residential	1	0	0	Abwab Street
+QA	289888	اثمدة	residential	1	0	0	Ethmeda
+QA	289888	اجبيجب	residential	1	0	0	Ejbaijeb Street
+QA	289888	اجياد	residential	1	0	0	Ajyad Street
+QA	289888	احد	residential	1	0	0	Uhud Street
+QA	289888	ادعسة	residential	1	0	0	Edaasa Street
+QA	289888	ارحية	residential	1	0	0	Erhayya Street
+QA	289888	ارفيق	residential	1	0	0	Erfaig Street
+QA	289888	ارميلة	residential	1	0	0	Ermaila Street
+QA	289888	ازغين	residential	1	0	0	Izghain Street
+QA	289888	اسامة بن صخر	residential	1	0	0	Usama Bin Sakhr
+QA	289888	اسعد بن نسيب	residential	1	0	0	Asaad Bin Naseeb Street
+QA	289888	اسماء	residential	1	0	0	Asmaa Street
+QA	289888	اسهلة	residential	1	0	0	Ashala Street
+QA	289888	اسهيل	residential	1	0	0	Suhail Street
+QA	289888	اسويحلية	residential	1	0	0	Eswaihilya Street
+QA	289888	اشقب	residential	1	0	0	Eshgab Street
+QA	289888	اعسيلة	residential	1	0	0	Esaila Street
+QA	289888	الأبهرية	residential	1	0	0	Al Abhariya Street
+QA	289888	الأصبعة	residential	1	0	0	Al Esbaah Street
+QA	289888	الأقواع	residential	1	0	0	Al Agwaa Street
+QA	289888	الابتهاج	residential	1	0	0	Al Ibtehaj Street
+QA	289913	شارع 744	residential	6	12	20	Street 744
+QA	289913	شارع 52	unclassified	2	27	50	Street 52
+QA	289913	Street 1525	residential	1	0	0	
+QA	289913	أبواب	residential	1	0	0	Abwab Street
+QA	289913	أم الشخوط	residential	1	0	0	Umm Al Shukhout Street
+QA	289913	أم العظام	residential	1	0	0	Umm Leadam Street
+QA	289913	أمهات عوينة	residential	1	0	0	Ummahat Owaina Street
+QA	289913	ابن البناء	tertiary	1	0	0	Ibn Al Bannaa
+QA	289913	ابن الهيثم	residential	1	0	0	Ibn Al Haitham Street
+QA	289913	ابن دينار	residential	1	0	0	Ibn Dinaar
+QA	289913	اصبخة المسحبية	residential	1	0	0	Esbakhat Al Maszhabiya Street
+QA	289913	الأزيرق	residential	1	0	0	Al Ezaireq Street
+QA	289913	الاحقاف	residential	1	0	0	Al Ahqaf Street
+QA	289913	الاخلاص	residential	1	0	0	Al Ikhlas Street
+QA	289913	البحتري	residential	1	0	0	Al Buhturi Street
+QA	289913	البقيع	residential	1	0	0	Al Begaia Street
+QA	289913	الجذوعية	residential	1	0	0	Al Jethouaiya Street
+QA	289913	الجساسية	residential	1	0	0	Al Jassasiya
+QA	289913	الحنيزبية	residential	1	0	0	Al Henaizeebia Street
+QA	289913	الخرسعة	residential	1	0	0	Al Kharsaah Street
+QA	289913	الخشينة	residential	1	0	0	Al Kheshaina Street
+QA	289913	الخفوس	tertiary	1	0	0	Al Khufous
+QA	289913	الخور	residential	1	0	0	Al Khor Street
+QA	289913	الدبدبة	residential	1	0	0	Al Debdeba Street
+QA	289915	آساط الراعي	residential	1	0	0	Asat Al Raei Street
+QA	289915	آل إد	residential	1	0	0	Al Edd Street
+QA	289915	آل جيل	residential	1	0	0	Al Jeel Street
+QA	289915	آل ديمة	residential	1	0	0	Al Deema Street
+QA	289915	أبا الروبي	residential	1	0	0	Aba Al Rubbi Street
+QA	289915	أم أردوم	residential	1	0	0	Umm Erdoom Street
+QA	289915	أم إنثيله	residential	1	0	0	Umm Inthaila Street
+QA	289915	أم الزبار	residential	1	0	0	Umm Al Zubar Street
+QA	289915	أم الماء	residential	1	0	0	Umm Al Maa Street
+QA	289915	أم الهول	residential	1	0	0	Umm Al Hool Street
+QA	289915	أم بركة	residential	1	0	0	Umm Birka Street
+QA	289915	أم بيركا	residential	1	0	0	Umm Birka Street
+QA	289915	أم جويد	residential	1	0	0	Umm Juwaied Street
+QA	289915	أم جويعد	residential	1	0	0	Umm Juwaied Street
+QA	289915	أم غرن	residential	1	0	0	Umm Garn Street
+QA	289915	أم لغريدي	residential	1	0	0	Umm Legredi Street
+QA	289915	إتفاق	residential	1	0	0	Al Ittefaq Street
+QA	289915	إثميد	residential	1	0	0	Ithmaid Street
+QA	289915	إد شاجرا	residential	1	0	0	Edd Shagra Street
+QA	289915	ابا الحيران	residential	1	0	0	Aba Al Heeran
+QA	289915	ابن ادريس	residential	1	0	0	Ibn Idrees Street
+QA	289915	ابن اسحق	residential	1	0	0	Ibn Iszhaq Street
+QA	289915	ابن الأرقم	residential	1	0	0	Ibn Al Arqam Street
+QA	289915	ابن الاثير	residential	1	0	0	Ibn Al Atheer Street
+QA	289915	ابن الارت	residential	1	0	0	Ibn Al Aratt Street
+QA	289915	ابن الاهتم	residential	1	0	0	Ibn Al Ahtem Street
+QA	289915	ابن الحارث	residential	1	0	0	Ibn Al Harith Street
+QA	289915	ابن الرومي	residential	1	0	0	Ibn Al Roumi Street
+QA	289915	ابن الزبير	residential	1	0	0	Ibn Al Zubair Street
+QA	289915	ابن الشاطر	living_street	1	0	0	Ibn Al Shater Street
+QA	289915	ابن العميد	residential	1	0	0	Ibn Al Ameed Street
+QA	289915	ابن العوام	residential	1	0	0	Ibn Al Awwam Street
+QA	289915	ابن النديم	residential	1	0	0	Ibn Al Nadeem Street
+QA	289915	ابن اياس	residential	1	0	0	Ibn Eyas Street
+QA	289915	ابن خلدون	residential	1	0	0	Ibn Khaldoun Street
+QA	289915	ابن رشد	residential	1	0	0	Ibn Rushd Street
+QA	289915	ابن زهر	residential	1	0	0	Ibn Zuhr Street
+QA	289915	ابن سينا	residential	1	0	0	Ibn Seena Street
+QA	289915	ابن كثير	residential	1	0	0	Ibn Katheer Street
+QA	289915	ابن مهند	residential	1	0	0	Ibn Muhannad Street
+QA	289915	ابها	residential	1	0	0	Abha Street
+QA	289915	ابو فراس	residential	1	0	0	Abu Firas Street
+QA	289915	اثمدة	residential	1	0	0	Ethmeda Street
+QA	289915	احد	residential	1	0	0	Uhud Street
+QA	289915	احمد بن حنبل	residential	1	0	0	Ahmed Bin Hanbal Street
+QA	289915	اسامة بن زيد	residential	1	0	0	Osama Bin Zaid Street
+QA	289915	اسماء	residential	1	0	0	Asmaa Street
+QA	289915	اشبيلية	residential	1	0	0	Ishbiliya Street
+QA	289962	Street 73	residential	6	0	0	
+QA	289962	أبو طلحة الأنصاري	tertiary	1	0	0	Abu Talha Al Ansari Street
+QA	289962	أبو عبيدة بن الجراح	tertiary	1	0	0	Abu Obaida Bin Al Jarrah Street
+QA	289962	أبواب	residential	1	0	0	Abwab
+QA	289962	أم المقارين	residential	1	0	0	Umm Al Magareen
+QA	289962	ابا المطاعم	residential	1	0	0	Aba Al Mataem
+QA	289962	ابن الشاطر	residential	1	0	0	Ibn Al Shater Street
+QA	289962	ابن العوام	residential	1	0	0	Ibn Al Awwam
+QA	289962	ابن النفيس	residential	1	0	0	Ibn Al Nafees Street
+QA	289962	ابن الهيثم	residential	1	0	0	Ibn Al Haitham
+QA	289962	ابن تيمية	residential	1	0	0	Ibn Taimiyah Street
+QA	289962	ابن خلدون	residential	1	0	0	Ibn Khaldoun Street
+QA	289962	ابن رشد	residential	1	0	0	Ibn Rushd
+QA	289962	ابن سينا	residential	1	0	0	Ibn Seena Street
+QA	289962	ابن كثير	residential	1	0	0	Ibn Katheer Street
+QA	289962	ابن ماجد	residential	1	0	0	Ibn Majed Street
+QA	289962	ابن ماسويه	residential	1	0	0	Ibn Masaweh
+QA	289962	ابو العلاء المعري	residential	1	0	0	Abu Al Alaa Al Marri
+QA	289962	ابو بكر الصديق	tertiary	1	0	0	Abu Bakr Al Siddiq Street
+QA	289962	ابو هريرة	residential	1	0	0	Abu Huraira Street
+QA	289962	احد	residential	1	0	0	Uhud
+QA	289962	اخريص	residential	1	0	0	Ekhrais Street
+QA	289962	ادعسة	residential	1	0	0	Edaasa
+QA	289962	الأزهر	residential	1	0	0	Al Azhar
+QA	289962	الأزيرق	residential	1	0	0	Al Ezaireq
+QA	289962	الأقصى	residential	1	0	0	Al Aqsa
+QA	289962	الإدريسي	residential	1	0	0	Al Idreesi Street
+QA	289962	الإشراق	residential	1	0	0	Al Ishraq
+QA	289962	الإشيقر	residential	1	0	0	Al Eshaiqer Street
+QA	289962	الابتهاج	residential	1	0	0	Al Ibtehaj Street
+QA	289962	الاتحاد	residential	1	0	0	Al Ittehad
+QA	289962	الاحسان	residential	1	0	0	Al Ihsan
+QA	289962	الاخلاص	residential	1	0	0	Al Ikhlas
+QA	289962	الارجوان	residential	1	0	0	Al Urjuwan
+QA	289962	الارشاد	residential	1	0	0	Al Irshad
+QA	289962	الاسراء	residential	1	0	0	Al Israa
+QA	289962	الاصداف	residential	1	0	0	Al Asdaf
+QA	289962	الاصيل	residential	1	0	0	Al Aseel
+QA	289962	الامام مالك	residential	1	0	0	Al Imam Malik Street
+QA	289962	الامين	residential	1	0	0	Al Ameen Street
+QA	289962	الاندلس	residential	1	0	0	Al Andalus
+QA	289962	الانصار	residential	1	0	0	Al Ansar
+QA	289962	البانوش	residential	1	0	0	Al Banoush
+QA	289962	البحتري	residential	1	0	0	Al Buhturi
+QA	289962	البديعة	residential	1	0	0	Al Bedaiah
+QA	289962	البرج	residential	1	0	0	Al Burj
+QA	289962	البيروني	residential	1	0	0	Al Bairouni
+QA	289962	الترمذي	residential	1	0	0	Al Termithie Street
+QA	289975	ابا الفحم	residential	1	0	0	Aba Al Faham
+QA	289975	البصير	residential	1	0	0	Lebsayyer
+QA	289975	شارع 800	unclassified	1	0	0	Street 800
+QA	289975	شارع 804	residential	1	0	0	Street 804
+QA	289975	شارع 805	residential	1	0	0	Street 805
+QA	289975	شارع 808	residential	1	0	0	Street 808
+QA	289975	شارع 821	residential	1	0	0	Street 821
+QA	289975	شارع 826	residential	1	0	0	Street 826
+QA	289975	شارع 827	residential	1	0	0	Street 827
+QA	289975	شارع 830	residential	1	0	0	Street 830
+QA	289975	شارع 831	residential	1	0	0	Street 831
+QA	289975	شارع 832	residential	1	0	0	Street 832
+QA	289993	شارع 253	unclassified	1	0	0	Street 253
+QA	289993	شارع 255	unclassified	1	0	0	Street 255
+QA	289993	شارع 260	unclassified	1	0	0	Street 260
+QA	289993	شارع 262	unclassified	1	0	0	Street 262
+QA	289993	شارع 266	unclassified	1	0	0	Street 266
+QA	289993	شارع 815	residential	1	0	0	Street 815
+QA	289993	شارع 816	residential	1	0	0	Street 816
+QA	289993	شارع 817	residential	1	0	0	Street 817
+QA	289993	شارع 819	residential	1	0	0	Street 819
+QA	289993	شارع 822	residential	1	0	0	Street 822
+QA	289993	شارع 825	residential	1	0	0	Street 825
+QA	289993	شارع 828	residential	1	0	0	Street 828
+QA	290030	Alfardan Gardens		46	17	132	
+QA	290030	Abdulla Bin Wahb Street		9	38	69	
+QA	290030	Ibn Al Arqam Street		9	5	40	
+QA	290030	Al Athal Street		8	1	14	
+QA	290030	Al Messila		8	5	20	
+QA	290030	Abdulla Bin Omar Street		7	16	32	
+QA	290030	Al Jood Street		7	38	54	
+QA	290030	Najma Street		7	102	145	
+QA	290030	Sulaiman Bin Al Hasan		7	14	24	
+QA	290030	Al Arak Street		6	2	8	
+QA	290030	Jawaan Street		6	40	50	
+QA	290030	Othman Bin Talha		6	10	28	
+QA	290030	Al Maymoun Street		5	1	33	
+QA	290030	Jaber Street		5	1	9	
+QA	290030	Salwa Road		5	2	390	
+QA	290030	طريق سلوى	secondary	5	11	423	Salwa Road
+QA	290030	Al Amwaaj		4	3	25	
+QA	290030	Al Sulaymi Street		4	67	81	
+QA	290030	Ibn Hanbal		4	2	6	
+QA	290030	Leslaimi St. No.467		4	79	85	
+QA	290030	Mareb Street		4	2	8	
+QA	290030	(920)		3	65	74	
+QA	290030	Abu Al Stur Bil Al Stur Street		3	56	4567	
+QA	290030	Al Asmakh Street		3	41	55	
+QA	290030	Al Hakam Bin Otaiba		3	301	303	
+QA	290030	Al Mazrouaa		3	59	66	
+QA	290030	Al Munthir Bin Amr Street		3	112	112	
+QA	290030	Al Salam Street		3	111	119	
+QA	290030	Al Waab Street		3	0	0	
+QA	290030	Ali Bin Al Jahm		3	1	3	
+QA	290030	Ibn Aamir St. No.430		3	37	77	
+QA	290030	Ibn Al Haitham		3	48	68	
+QA	290030	Ibn Al Jamouh		3	5	9	
+QA	290030	Museum Street		3	36	40	
+QA	290030	Najd Street		3	40	65	
+QA	290030	Shareek Bin Aamir		3	20	25	
+QA	290030	Street 805, zone 61		3	4	4	
+QA	290030	Zuhair Bin Othman		3	21	36	
+QA	290030	حادة مجيبل	residential	3	61	61	Al Funduq Street
+QA	290030	طريق الريان	primary	3	6	61	Al Rayyan Road
+QA	290030	1264		2	7	7	
+QA	290030	231		2	236	236	
+QA	290030	979		2	11	11	
+QA	290030	Abu Al Alaa		2	22	24	
+QA	290030	Al Buhturi		2	23	27	
+QA	290030	Al Heshaima		2	19	20	
+QA	290030	Al Khattiya		2	35	39	
+QA	290030	Al Maahed Street		2	14	18	
+QA	290030	Al Nabat		2	6	7	
+QA	290030	Al Quds Street		2	9	10	
+QA	290030	C Ring Road		2	14	207	
+QA	290030	Dafna Street		2	10	152	
+QA	290030	Diplomatic Area Street		2	4	4	
+QA	290030	Hisham Bin Urwa		2	24	26	
+QA	290030	Ibn Malik		2	19	23	
+QA	290030	Ibn Nusaih Street		2	8	10	
+QA	290030	Lusail Street		2	37	41	
+QA	290030	Mohamed Bin Al Qassim St		2	65	65	
+QA	290030	Palestine Street		2	22	28	
+QA	290030	Porto Arabia		2	1	31	
+QA	290030	Saad Bin Majid		2	4	5	
+QA	290030	Saeed Al Ali		2	5	9	
+QA	290030	Saha 19 Street		2	1	2	
+QA	290030	أمهات السلام		2	974	974	
+QA	290030	ام البرك	residential	2	15	15	Umm Al Birak Street
+QA	290030	شارع 340	residential	2	32	32	Street 340
+QA	290030	شارع اللؤلؤة		2	104	104	
+QA	290030	شارع عمر المختار	secondary	2	61	61	Omar Al Mukhtar Street
+QA	290030	شارع كتارا		2	26	1595	
+QA	290030	محمد بن القاسم	tertiary	2	65	91	Mohammed Bin Al Qasim Street
+QA	290030	Casablanca Street	living_street	1	0	0	
+QA	290030	Eastern Avenue	living_street	1	0	0	
+QA	290030	Flag Plaza	pedestrian	1	0	0	
+QA	290030	Sahat Al Nakheel	pedestrian	1	0	0	
+QA	290030	Sahat Wadi Msherib	pedestrian	1	0	0	
+QA	290030	Sahat al Kahraba	pedestrian	1	0	0	
+QA	290030	Sikkat Al Shatt Street	residential	1	0	0	
+QA	290030	Sikkat Bait al Sharika	pedestrian	1	0	0	
+QA	290030	آسياد 2006	unclassified	1	0	0	Asiad 2006
+QA	290030	أبا الحوايا	residential	1	0	0	Aba Al Hawaya Street
+QA	290030	أبا الدوم	residential	1	0	0	Aba Al Dawm Street
+QA	290030	أبا المشموم	residential	1	0	0	Aba Al Mashmoom Street
+QA	290030	أبــا الزبار	residential	1	0	0	Aba Al Zubar Street
+QA	290030	أم اشهرين	residential	1	0	0	Umm Shahrain Street
+QA	290030	أم ردوم	residential	1	0	0	Umm Erdoom Street
+QA	290030	أم طاقة	residential	1	0	0	Umm Taqa Street
+QA	290030	أم لقهاب	residential	1	0	0	Umm Leghab Street
+QA	290030	أم ليجريدي	residential	1	0	0	Umm Legredi Street
+QA	290030	أم نذيلة	residential	1	0	0	Umm Nethaila Street
+QA	290030	ابا السعد	residential	1	0	0	Aba Al Saad Street
+QA	290030	ابا الصليل	residential	1	0	0	Aba Al Seleel Street
+QA	290030	ابا الضعيات	residential	1	0	0	Aba Daayyat Street
+QA	290030	ابا القنا	residential	1	0	0	Aba Al Gana Street
+QA	290030	ابان بن عثمان	residential	1	0	0	Aban Bin Othman Street
+QA	290030	ابراهيم	residential	1	0	0	Ebrahim Street
+QA	290030	ابروق	residential	1	0	0	Abroug
+QA	290030	ابريدة	residential	1	0	0	Braida Street
+QA	290030	ابن ابجر	residential	1	0	0	Ibn Abjar Street
+QA	290030	ابن ارقم	residential	1	0	0	Ibn Arqam Street
+QA	290030	ابن افلح	tertiary	1	0	0	Ibn Aflah
+QA	290030	ابن الاثير	residential	1	0	0	Ibn Al Atheer Street
+QA	290030	ابن الارقم	residential	1	0	0	Ibn Al Arqam Street
+QA	290030	ابن الاغلب	unclassified	1	0	0	Ibn Al Aghlab Street
+QA	290030	ابن البحتري	residential	1	0	0	Ibn Al Buhturi Street
+QA	290030	ابن البراء	residential	1	0	0	Ibn Al Baraa Street
+QA	290030	ابن الجارود	residential	1	0	0	Ibn Al Jarood Street
+QA	290030	ابن الجزري	residential	1	0	0	Ibn Al Jazri
+QA	290030	ابن الجموح	residential	1	0	0	Ibn Al Jamouh Street
+QA	290030	ابن الحصيب	residential	1	0	0	Ibn Al Haseeb
+QA	290030	ابن الخضري	residential	1	0	0	Ibn Al Akhdari Street
+QA	290030	ابن الخطيب	residential	1	0	0	Ibn Al Khateeb Street
+QA	290030	ابن الزبير	residential	1	0	0	Ibn Al Zubair Street
+QA	290030	ابن السراج	residential	1	0	0	Ibn Al Sarraj Street
+QA	290030	ابن الصامت	residential	1	0	0	Ibn Al Samit Street
+QA	290030	ابن الصانع	residential	1	0	0	Ibn Al Sana Street
+QA	290030	ابن الطيب	residential	1	0	0	Ibn Al Tayyeb Street
+QA	290030	ابن العباس	residential	1	0	0	Ibn Al Abbas Street
+QA	290030	ابن العميد	residential	1	0	0	Ibn Al Ameed Street
+QA	290030	ابن العوام	residential	1	0	0	Ibn Al Awwam
+QA	290030	ابن الفرات	residential	1	0	0	Ibn Al Furat Street
+QA	290030	ابن القنطري	residential	1	0	0	Ibn Al Qantari Street
+QA	290030	ابن المثنى	residential	1	0	0	Ibn Al Muthanna
+QA	290030	ابن المجدي	residential	1	0	0	Ibn Al Majdi Street
+QA	290030	ابن المسيب	residential	1	0	0	Ibn Al Musayyeb Street
+QA	290030	ابن المفضل	residential	1	0	0	Ibn Al Mufaddal Street
+QA	290030	ابن المقرئ	residential	1	0	0	Ibn Al Muqri
+QA	290030	ابن المنذر	residential	1	0	0	Ibn Al Munthir
+QA	290030	ابن النحاس	residential	1	0	0	Ibn Al Nahhas Street
+QA	290030	ابن الهيثم	residential	1	0	0	Ibn Al Haitham
+QA	290030	ابن الوليد	residential	1	0	0	Ibn Al Waleed
+QA	290030	ابن اوس	residential	1	0	0	Ibn Aws Street
+QA	290030	ابن اياس	residential	1	0	0	Ibn Eyas Street
+QA	290030	ابن بدر	residential	1	0	0	Ibn Badr Street
+QA	290030	ابن بلال	residential	1	0	0	Ibn Bilal Street
+QA	290030	ابن ثابت	residential	1	0	0	Ibn Thabit Street
+QA	290030	ابن جامع	residential	1	0	0	Ibn Jama Street
+QA	290030	ابن جندب	residential	1	0	0	Ibn Jundab Street
+QA	290030	ابن حاتم	residential	1	0	0	Ibn Hatem Street
+QA	290030	ابن حذافة	residential	1	0	0	Ibn Musab Street
+QA	290030	ابن حنبل	residential	1	0	0	Ibn Hanbal
+QA	290030	ابن حيان	residential	1	0	0	Ibn Hayyan Street
+QA	290030	ابن خفاجة	residential	1	0	0	Ibn Khafaja
+QA	290030	ابن خلدون	residential	1	0	0	Ibn Khaldoun Street
+QA	290030	ابن درهم	tertiary	1	0	0	Ibn Dirhem Street
+QA	290030	ابن رباح	residential	1	0	0	Ibn Rabah Street
+QA	290030	ابن رجاء	residential	1	0	0	Ibn Rajaa Street
+QA	290030	ابن زائدة	residential	1	0	0	Ibn Zaeda Street
+QA	290030	ابن زيد	residential	1	0	0	Ibn Zaid
+QA	290030	ابن سعيد	residential	1	0	0	Ibn Saeed Street
+QA	290030	ابن سليم	residential	1	0	0	Ibn Saleem Street
+QA	290030	ابن سيار	residential	1	0	0	Ibn Sayyar Street
+QA	290030	ابن شعبة	residential	1	0	0	Ibn Shuba Street
+QA	290030	ابن شعيب	residential	1	0	0	Ibn Shuaib Street
+QA	290030	ابن شكيل	residential	1	0	0	Ibn Shakeel Street
+QA	290030	ابن شماس	residential	1	0	0	Ibn Shammas Street
+QA	290030	ابن شهيد	residential	1	0	0	Ibn Shaheed Street
+QA	290030	ابن صفوان	residential	1	0	0	Ibn Safwan Street
+QA	290030	ابن عباس	residential	1	0	0	Ibn Abbas
+QA	290030	ابن عثمان	residential	1	0	0	Ibn Othman Street
+QA	290030	ابن عديس	residential	1	0	0	Ibn Adees
+QA	290030	ابن عمر	residential	1	0	0	Ibn Omar Street
+QA	290030	ابن عمير	residential	1	0	0	Ibn Omair Street
+QA	290030	ابن عميرة	residential	1	0	0	Ibn Omaira Street
+QA	290030	ابن عوف	residential	1	0	0	Ibn Awf Street
+QA	290030	ابن عياض	residential	1	0	0	Ibn Eyadh Street
+QA	290030	ابن غزوان	residential	1	0	0	Ibn Ghazwan Street
+QA	290030	ابن قيس	residential	1	0	0	Ibn Qais Street
+QA	290030	ابن لبيد	residential	1	0	0	Ibn Labeed Street
+QA	290030	ابن ماجد	residential	1	0	0	Ibn Majid
+QA	290030	ابن مالك	residential	1	0	0	Ibn Malik
+QA	290030	ابن مخلد	residential	1	0	0	Ibn Makhlad Street
+QA	290030	ابن مسلم	residential	1	0	0	Ibn Muslim Street
+QA	290030	ابن مصعب	residential	1	0	0	Ibn Musab Street
+QA	290030	ابن معمر	residential	1	0	0	Ibn Maamar Street
+QA	290030	ابن منقذ	residential	1	0	0	Ibn Munqith Street
+QA	290030	ابن مهاجر	residential	1	0	0	Ibn Muhajer Street
+QA	290030	ابن ميمون	residential	1	0	0	Ibn Maymoum Street
+QA	290030	ابن نصيح	residential	1	0	0	Ibn Nusaih Street
+QA	290030	ابن نعيم	residential	1	0	0	Ibn Naeem Street
+QA	290030	ابن نوفل	residential	1	0	0	Ibn Nawfal
+QA	290030	ابن هوازن	residential	1	0	0	Ibn Huwazin
+QA	290030	ابن هود	residential	1	0	0	Ibn Houd
+QA	290030	ابن وائلة	residential	1	0	0	Ibn Waila Street
+QA	290030	ابو الحارث	residential	1	0	0	Abu Al Harith
+QA	290030	ابو العلاء	residential	1	0	0	Abu Al Alaa Street
+QA	290030	ابو الفتح	residential	1	0	0	Abu Al Fateh Street
+QA	290030	ابو القاسم الشابي	residential	1	0	0	Abu Al Qasim Al Shabi Street
+QA	290030	ابو الهيثم	residential	1	0	0	Abu Al Haithem
+QA	290030	ابو امامة	residential	1	0	0	Abu Umama Street
+QA	290030	ابو ايوب	residential	1	0	0	Abu Ayyoub Street
+QA	290030	ابو بردة	residential	1	0	0	Abu Burdah Street
+QA	290030	ابو بصير	residential	1	0	0	Abu Baseer Street
+QA	290030	ابو بكر الوراق	residential	1	0	0	Abu Bakr Al Warraq Street
+QA	290030	ابو ثابت	residential	1	0	0	Abu Thabit Street
+QA	290030	ابو جبير	residential	1	0	0	Abu Jubair Street
+QA	290030	ابو حاتم	residential	1	0	0	Abu Hatim Street
+QA	290030	ابو حامد	residential	1	0	0	Abu Hamed Street
+QA	290030	ابو حذيفة	residential	1	0	0	Abu Huthaifa Street
+QA	290030	ابو حيان	residential	1	0	0	Abu Hayyan Street
+QA	290030	ابو رافع	residential	1	0	0	Abu Rafi Street
+QA	398806	طريق سلوى	secondary	1	0	0	Salwa Road
+QA	406787	تقاطع عذبة	tertiary	1	0	0	Athba Interchange
+QA	406787	تقاطع فويرط	tertiary	1	0	0	Fuwairit Interchange
+QA	406787	شارع 253	unclassified	1	0	0	Street 253
+QA	406787	شارع 324	unclassified	1	0	0	Street 324
+QA	406787	شارع 800	tertiary	1	0	0	Street 800
+QA	406787	شارع 801	residential	1	0	0	Street 801
+QA	406787	شارع 802	residential	1	0	0	Street 802
+QA	406787	شارع 803	residential	1	0	0	Street 803
+QA	406787	شارع 804	residential	1	0	0	Street 804
+QA	406787	شارع 805	residential	1	0	0	Street 805
+QA	406787	شارع 806	residential	1	0	0	Street 806
+QA	406787	شارع 807	residential	1	0	0	Street 807
+QA	411751	Ibn Zaidoun		3	52	84	
+QA	411751	ابن زيدون	residential	1	0	0	Ibn Zaidoun Street
+QA	411751	ابن شبيب	residential	1	0	0	Ibn Shebeeb
+QA	411751	الثقفي	residential	1	0	0	Al Thaqafi Street
+QA	411751	الرابية	residential	1	0	0	Al Rabiya Street
+QA	411751	الصواري	residential	1	0	0	Al Sawari Street
+QA	411751	العوينات	residential	1	0	0	Al Owaina Street
+QA	411751	الغوير	residential	1	0	0	Al Ghuwair Street
+QA	411751	المشاخيل	residential	1	0	0	Al Mashakheel Street
+QA	411751	الهورية	residential	1	0	0	Al Houriya Street
+QA	411751	بوسدرة	residential	1	0	0	Abu Sidra Street
+QA	411751	خالد بن عبادة	residential	1	0	0	Khaled Bin Obada Street
+QA	411751	ساحة 1	residential	1	0	0	Saha 1
+QA	411751	ساحة 2	residential	1	0	0	Saha 2
+QA	411751	ساحة 3	residential	1	0	0	Saha 3
+QA	411751	ساحة 4	residential	1	0	0	Saha 4
+QA	411751	ساحة 5	residential	1	0	0	Saha 5
+QA	411751	ساحة 6	residential	1	0	0	Saha 6
+QA	411751	ساحة 7	residential	1	0	0	Saha 7
+QA	411751	ساهت بو دالوف	residential	1	0	0	Sahat Bu Dalouf Street
+QA	411751	شارع 826	residential	1	0	0	Street 826
+QA	411751	شارع 827	residential	1	0	0	Street 827
+QA	411751	شارع 833	residential	1	0	0	Street 833
+QA	411751	شارع 835	residential	1	0	0	Street 835
+QA	411752	آل حلوان	residential	1	0	0	Helwan Street
+QA	411752	أبا الربي	residential	1	0	0	Aba Al Rubbi Street
+QA	411752	أبواب	residential	1	0	0	Abwab Street
+QA	411752	أم الهول	residential	1	0	0	Umm Al Hool Street
+QA	411752	أم لقرضي	residential	1	0	0	Umm Legredi Street
+QA	411752	ابا اليوابي	residential	1	0	0	Al Yuwabi Street
+QA	411752	ابان بن عمرو	residential	1	0	0	Aban Bin Amr Street
+QA	411752	ابراهيم بن يحيى	residential	1	0	0	Ebrahim Bin Yahya Street
+QA	411752	ابن الاهتم	residential	1	0	0	Ibn Al Ahtam Street
+QA	411752	ابن الجراح	residential	1	0	0	Ibn Al Jarrah Street
+QA	411752	ابن الفرضي	residential	1	0	0	Ibn Al Fardi Street
+QA	411752	ابن الهيثم	residential	1	0	0	Al Haitham Street
+QA	411752	ابن حارثة	residential	1	0	0	Ibn Haritha
+QA	411752	ابن رجب	residential	1	0	0	Ibn Rajab Street
+QA	411752	ابن معين	residential	1	0	0	Ibn Maeen Street
+QA	411752	اسفينة	residential	1	0	0	Esfaina Street
+QA	411752	اصبخة القصار	residential	1	0	0	Isbakhat Al Gassar
+QA	411752	اطلس	residential	1	0	0	Atlas Street
+QA	411752	الإشيقر	residential	1	0	0	Al Eshaiqer Street
+QA	411752	الاحقاف	residential	1	0	0	Al Ahqaf Street
+QA	411752	الامام مسلم	residential	1	0	0	Al Imam Muslim Street
+QA	411752	الايوبي	residential	1	0	0	Al Ayyoubi Street
+QA	411752	البحتري	residential	1	0	0	Al Buhturi Street
+QA	411752	البشر	residential	1	0	0	Al Bishr Street
+QA	411752	الثراء	residential	1	0	0	Al Tharaa Street
+QA	411752	الثنية	residential	1	0	0	Al Thenyeh
+QA	411752	الجريان	residential	1	0	0	Al Jeryan Street
+QA	411752	الجلتة	residential	1	0	0	Al Jalta Street
+QA	411752	الحكم بن امية	residential	1	0	0	Al Hakam Bin Umayya
+QA	411752	الحمرة	residential	1	0	0	Al Humra Street
+QA	411752	الختمة	residential	1	0	0	Al Khatma Street
+QA	411752	الخطمي	residential	1	0	0	Al Jaad Street
+QA	411752	الخليفات الجديدة	residential	1	0	0	Al Khulaifat Al Jadeeda Street
+QA	411752	الدانة	residential	1	0	0	Al Dana Street
+QA	411752	الديبل	residential	1	0	0	Al Deebel Street
+QA	411752	الراية	unclassified	1	0	0	Al Rayah Street
+QA	411752	الركيّة	residential	1	0	0	Al Rekayya Street
+QA	411752	الزبرقان	residential	1	0	0	Al Zabraqan Street
+QA	411752	الزنبق	residential	1	0	0	Al Zanbaq Street
+QA	411752	السداري	residential	1	0	0	Al Sidari Street
+QA	411752	السدرة	residential	1	0	0	Al Sidra Street
+QA	411752	السلطة الجديدة	residential	1	0	0	Al Salata Al Jadeeda Street
+QA	411752	السلمة	residential	1	0	0	Al Salma Street
+QA	411752	السهيلي	residential	1	0	0	Al Suhaili
+QA	411752	السيق	residential	1	0	0	Al Seeg
+QA	411752	الشاهينة	residential	1	0	0	Al Shaheen Street
+QA	411752	الشاهينية	residential	1	0	0	Al Shaheeniya Street
+QA	411752	الشرايف	residential	1	0	0	Al Sharayef Street
+QA	411758	Ziyad Bin Eyadh		7	100	149	
+QA	411758	Ziyad Bin Ryadh		6	107	167	
+QA	411758	Zurara Bin Amr		4	28	55	
+QA	411758	الخطابي	residential	1	0	0	Al Khattabi
+QA	411758	انس بن مالك	residential	1	0	0	Anas Bin Malik
+QA	411758	شارع ابن عبد السلام	residential	1	0	0	Ibn Abdul Salam Street
+QA	411758	شارع الدوحة الجديدة	residential	1	0	0	Al Doha Al Jadeeda Street
+QA	411758	شارع زرارة بن عمرو	residential	1	0	0	Zurara Bin Amr Street
+QA	411758	شارع زياد بن عياض	residential	1	0	0	Ziyad Bin Eyadh Street
+QA	411758	شارع صلاح الدين	residential	1	0	0	Salah Al Deen Street
+QA	411758	شارع لندى	residential	1	0	0	Al Nada Street
+QA	411758	معاذ بن جبل	residential	1	0	0	Muaath Bin Jabal
+QA	411759	Dana Street		13	56	91	
+QA	411759	Sara Street		12	3	11	
+QA	411759	Zamzam Street		8	14	27	
+QA	411759	Khawla Street		4	3	7	
+QA	411759	Al Rawdah Street		3	11	62	
+QA	411759	Al Mansoura Street		2	51	108	
+QA	411759	Ain Khalid Roundabout	residential	1	0	0	
+QA	411759	أبا الصليل	residential	1	0	0	Aba Al Seleel Street
+QA	411759	أم الغلام	residential	1	0	0	Umm Al Ghallam Street
+QA	411759	أم المقارين	residential	1	0	0	Umm Al Magareen Street
+QA	411759	أم ردوم	residential	1	0	0	Umm Erdoom Street
+QA	411759	أم غويفة	residential	1	0	0	Umm Eghwaifa Street
+QA	411759	أم نذيلة	residential	1	0	0	Umm Nethaila Street
+QA	411759	ابا الحيران	residential	1	0	0	Aba Al Heeran
+QA	411759	ابا الدوم	residential	1	0	0	Aba Al Dawm Street
+QA	411759	ابن الازرق	residential	1	0	0	Ibn Al Azraq Street
+QA	411759	ابن الحارث	residential	1	0	0	Ibn Al Harith Street
+QA	411759	ابن السراج	residential	1	0	0	Ibn Al Sarraj Street
+QA	411759	ابن القاسم	residential	1	0	0	Ibn Al Qasim Street
+QA	411759	ابن القيم	residential	1	0	0	Ibn Al Qayyem Street
+QA	411759	ابن بكار	residential	1	0	0	Ibn Bakkar Street
+QA	411759	ابن حزم	residential	1	0	0	Ibn Hazm Street
+QA	411759	ابن درهم	tertiary	1	0	0	Ibn Dirhem Street
+QA	411759	ابن رباح	residential	1	0	0	Ibn Rabah Street
+QA	411759	ابن سمعان	residential	1	0	0	Ibn Samaan Street
+QA	411759	ابن طريف	residential	1	0	0	Ibn Tareef Street
+QA	411759	ابن عمار	residential	1	0	0	Ibn Ammar Street
+QA	411759	ابن فرناس	residential	1	0	0	Ibn Firnas Street
+QA	411759	ابن مرداس	residential	1	0	0	Ibn Merdas Street
+QA	411759	ابن وافد	residential	1	0	0	Ibn Wafed Street
+QA	411759	ابها	residential	1	0	0	Abha Street
+QA	411759	ابو حاتم	residential	1	0	0	Abu Hatim Street
+QA	411759	ابو زياد	residential	1	0	0	Abu Ziyad Street
+QA	411759	ابو شعيب	residential	1	0	0	Abu Shuaib Street
+QA	411759	ابو عمرو	residential	1	0	0	Abu Amr Street
+QA	411759	ابو عمير	residential	1	0	0	Abu Omair Street
+QA	411759	ابو محجن	residential	1	0	0	Abu Mihjan Street
+QA	411759	ابو مسلم	residential	1	0	0	Abu Muslim Street
+QA	411759	ابو هند	residential	1	0	0	Abu Hind Street
+QA	411759	اسعد بن زرارة	residential	1	0	0	Asaad Bin Zurara Street
+QA	411759	اشبيلية	residential	1	0	0	Ishbiliya Street
+QA	411759	اشقب	residential	1	0	0	Eshgab Street
+QA	411759	الإشيقر	residential	1	0	0	Al Eshaiqer Street
+QA	411759	الابنوس	residential	1	0	0	Al Abanous Street
+QA	411759	الانباري	residential	1	0	0	Al Anbari Street
+QA	411759	الباهلي	residential	1	0	0	Al Bahili Street
+QA	411759	البخاري	residential	1	0	0	Al Bukhari Street
+QA	411759	البراء بن مالك	residential	1	0	0	Al Bara Bin Malik Street
+QA	411759	الترحاب	residential	1	0	0	Al Terhab Street
+QA	411759	الثريا	residential	1	0	0	Al Thurayya Street
+QA	411759	الجساسية	residential	1	0	0	Al Jassasiya Street
+QA	411759	الجسرة	residential	1	0	0	Al Jasra Street
+QA	411759	الجوزاء	residential	1	0	0	Al Jaow Street
+QA	411759	الحد	residential	1	0	0	Al Hid Street
+QA	411759	الحريرة	residential	1	0	0	Al Hareer Street
+QA	411759	الحصن	residential	1	0	0	Al Hissn Street
+QA	411759	الخبيب	residential	1	0	0	Al Khubaib Street
+QA	411759	الخرائج	residential	1	0	0	Al Kharaej Street
+QA	411759	الدسمة	residential	1	0	0	Al Dasma Street
+QA	411759	الدواخل	residential	1	0	0	Al Duwakhil Street
+QA	411759	الروضتين	residential	1	0	0	Al Rawdhatain Street
+QA	411759	الزوراء	residential	1	0	0	Al Zawraa Street
+QA	411759	السدرة	residential	1	0	0	Al Sadd Street
+QA	411759	السعود	residential	1	0	0	Al Saoud Street
+QA	411759	السهيل	residential	1	0	0	Al Suhail Street
+QA	411759	السَمر	residential	1	0	0	Al Samur
+QA	411759	السَّهم	residential	1	0	0	Al Saham Street
+QA	411759	الشاهينة	residential	1	0	0	Al Shaheena Street
+QA	411759	الشراع	residential	1	0	0	Al Shiraa Street
+QA	411759	الشعب	residential	1	0	0	Al Shaab Street
+QA	411759	الصالحية	residential	1	0	0	Al Salhiya Street
+QA	411759	الصخبرية	residential	1	0	0	Al Sakhbariya Street
+QA	411759	الصنايع	residential	1	0	0	Al Sanayea Street
+QA	411759	الصندل	residential	1	0	0	Al Sandal Street
+QA	411759	الصنوبر	residential	1	0	0	Al Sanawbar Street
+QA	411759	الصويريات	residential	1	0	0	Al Suwairiya Street
+QA	411759	الطريق الدائري الثالث	unclassified	1	0	0	C Ring Road
+QA	411759	الطواش	residential	1	0	0	Al Tawwash Street
+QA	411759	الظليفات	residential	1	0	0	Al Dhulaifat Street
+QA	411759	العامرية	residential	1	0	0	Al Aamriya Street
+QA	411759	العب	residential	1	0	0	Al Ebb Street
+QA	411759	العدل	residential	1	0	0	Al Adl Street
+QA	411759	العرب	residential	1	0	0	Al Arab Street
+QA	411759	العروبة	residential	1	0	0	Al Urouba Street
+QA	411759	العريش	residential	1	0	0	Al Areesh Street
+QA	411759	العمارة	residential	1	0	0	Al Imara Street
+QA	411759	الغزالية	residential	1	0	0	Al Ghazaliya Street
+QA	411759	الغزلانية	residential	1	0	0	Al Ghezlaniya Street
+QA	411759	الغشامية	residential	1	0	0	Al Ghashamiya Street
+QA	411759	الكثبان	residential	1	0	0	Al Kuthban Street
+QA	411759	الكناني	residential	1	0	0	Al Kinani Street
+QA	411759	الماردية	residential	1	0	0	Al Mardiya Street
+QA	411759	المرمر	residential	1	0	0	Al Marmar Street
+QA	411759	المسك	residential	1	0	0	Al Misk Street
+QA	411759	المشعل	residential	1	0	0	Al Mishaal Street
+QA	411759	المهند	residential	1	0	0	Al Muhannad Street
+QA	411759	النجاد	residential	1	0	0	Al Nejad Street
+QA	411759	النشاب	residential	1	0	0	Al Nushab Street
+QA	411759	النعيجة	residential	1	0	0	Al Nuaija Street
+QA	411759	الهلال	residential	1	0	0	Al Hilal Street
+QA	411760	Alfardan Gardens		18	37	150	
+QA	411760	Al Salam Street		2	100	102	
+QA	411760	ابن الارت	residential	1	0	0	Ibn Al Aratt Street
+QA	411760	ابن الحارث	residential	1	0	0	Ibn Al Harith Street
+QA	411760	ابن الربيع	residential	1	0	0	Ibn Al Rabei Street
+QA	411760	ابن النفيس	residential	1	0	0	Ibn Al Nafees
+QA	411760	ابن باجة	residential	1	0	0	Ibn Bajah Street
+QA	411760	ابن بسام	residential	1	0	0	Ibn Bassam Street
+QA	411760	ابن تيمية	residential	1	0	0	Ibn Taymiya Street
+QA	411760	ابن حذيفة	residential	1	0	0	Ibn Huthaifa Street
+QA	411760	ابن شعيب	residential	1	0	0	Ibn Shuaib Street
+QA	411760	ابن محصن	residential	1	0	0	Ibn Muhsen Street
+QA	411760	ابو اميمة	residential	1	0	0	Abu Umaimah
+QA	411760	ابو حكيمة	residential	1	0	0	Abu Hakeema Street
+QA	411760	اجنادين	residential	1	0	0	Ajnadeen Street
+QA	411760	الاعشى	residential	1	0	0	Al Aasha Street
+QA	411760	البدع	residential	1	0	0	Al Bidda
+QA	411760	البندقية	residential	1	0	0	Al Bunduqiya Street
+QA	411760	الثريا	residential	1	0	0	Al Thurayya Street
+QA	411760	الجهرة	unclassified	1	0	0	Al Jahra
+QA	411760	الجوهر	residential	1	0	0	Al Jawhar Street
+QA	411760	الحارث بن مسلم	residential	1	0	0	Al Harith Bin Muslim Street
+QA	411760	الحارث بن نوفل	residential	1	0	0	Al Harith Bin Nawfal Street
+QA	411760	الخالدية	residential	1	0	0	Al Khalidiya Street
+QA	411760	الخريب	residential	1	0	0	Al Kharaib Street
+QA	411760	الخريس	residential	1	0	0	Al Kharees Street
+QA	411760	الخيام	residential	1	0	0	Al Khiyam Street
+QA	411760	الدواخل	residential	1	0	0	Al Duwakhil Street
+QA	411760	السنا	residential	1	0	0	Al Sana Street
+QA	411760	الشحانية	residential	1	0	0	Al Shahhanaiya Street
+QA	411760	الصاحب بن عباد	residential	1	0	0	Al Sahib Bin Abbad Street
+QA	411760	الطرفاء	residential	1	0	0	Al Tarfaa Street
+QA	411760	الطريق الدائري الثالث	unclassified	1	0	0	C Ring Road
+QA	411760	العرب	unclassified	1	0	0	Al Arab Street
+QA	411760	العين	residential	1	0	0	Al Ain Street
+QA	411760	الفشت	residential	1	0	0	Al Fasht Street
+QA	411760	القرويين	residential	1	0	0	Al Qaraweyeen Street
+QA	411760	الكناري	residential	1	0	0	Al Kanari Street
+QA	411760	المريخ	residential	1	0	0	Al Marreekh Street
+QA	411760	النجود	residential	1	0	0	Al Najood
+QA	411760	النصرانية	residential	1	0	0	Al Nasraniya Street
+QA	411760	النعمان بن بشير	residential	1	0	0	Al Numan Bin Basheer Street
+QA	411760	الهلال	residential	1	0	0	Al Hilal Street
+QA	411760	الهودج	residential	1	0	0	Al Hawdaj Street
+QA	411760	ام الحول	residential	1	0	0	Umm Al Hool Street
+QA	411760	ام غويلينة	tertiary	1	0	0	Umm Ghuwailina Street
+QA	411760	بشر بن البراء	residential	1	0	0	Bishr Bin Al Baraa Street
+QA	411760	جندب	residential	1	0	0	Jundab Street
+QA	411763	ابن القاسم	residential	1	0	0	Ibn Al Qasim Street
+QA	411763	ابن القيم	residential	1	0	0	Ibn Al Qayyem Street
+QA	411763	ابن الوردي	residential	1	0	0	Ibn Al Wardi Street
+QA	411763	ابن حزم	residential	1	0	0	Ibn Hazm Street
+QA	411763	ابن شداد	residential	1	0	0	Ibn Shaddad Street
+QA	411763	ابن عباد	residential	1	0	0	Ibn Abbad Street
+QA	411763	ابن نهشل	residential	1	0	0	Ibn Nahshal Street
+QA	411763	ابن وائل	residential	1	0	0	Ibn Waill Street
+QA	411763	الانباري	residential	1	0	0	Al Anbari Street
+QA	411763	الجليل	residential	1	0	0	Al Jaleel Street
+QA	411763	السرج	residential	1	0	0	Al Sarj Street
+QA	411763	الطريق الدائري الرابع	primary	1	0	0	D Ring Road
+QA	411763	العدل	residential	1	0	0	Al Adl Street
+QA	411763	العزيمة	residential	1	0	0	Al Azeema Street
+QA	411763	القاسم بن مسعود	residential	1	0	0	Al Qasim BIn Masoud Street
+QA	411763	المناهل	residential	1	0	0	Al Manahell Street
+QA	411763	النعيجة	residential	1	0	0	Al Nuaija Street
+QA	411763	الوفاء	residential	1	0	0	Al Wafaa Street
+QA	411763	ام المقارين	residential	1	0	0	Umm Al Magareen Street
+QA	411763	اياس بن معاوية	residential	1	0	0	Eyas Bin Muawiya Street
+QA	411763	جرير بن عطية	residential	1	0	0	Jareer Bin Atiya Street
+QA	411763	خارجة	residential	1	0	0	Kharja Street
+QA	411763	رشد بن زهير	residential	1	0	0	Rushd Bin Zuhair Street
+QA	411763	رفيع بن سلمة	residential	1	0	0	Rafea Bin Salama Street
+QA	411763	روضة ابا الذهب	residential	1	0	0	Rawdat Aba Thahab Street
+QA	411763	روضة الخيل	unclassified	1	0	0	Rawdat Al Khail Street
+QA	411763	ساحة الهلال	residential	1	0	0	Sahat Al Hilal
+QA	411763	شارع التعاون	residential	1	0	0	Al Taawon Street
+QA	411763	شارع الشعلة	residential	1	0	0	Al Shualah Street
+QA	411763	شارع المجد	residential	1	0	0	Al Majd Street
+QA	411763	شارع بلال بن رباح	tertiary	1	0	0	Bilal Bin Rabah Street
+QA	411763	شارع مسيمير	tertiary	1	0	0	Mesaimeer Street
+QA	411763	شارع نجمة	secondary	1	0	0	Najma Street
+QA	411763	شارع نجمة Najma Street	secondary	1	0	0	Najma Street
+QA	411763	عبدالله بن جبير	residential	1	0	0	Abdulla Bin Jubair Street
+QA	411763	عمر بن هارون	residential	1	0	0	Omar Bin Haroun Street
+QA	411763	مالك بن دينار	residential	1	0	0	Malik Bin Dinaar Street
+QA	411763	محمد بن ماجة	residential	1	0	0	Mohammed Bin Majah Street
+QA	411763	يحيى بن اكثم	residential	1	0	0	Yahya Bin Aktham Street
+QA	411763	يودة	residential	1	0	0	Youda Street
+QA	411768	Alfardan Gardens		25	21	143	
+QA	411768	Abdul Qadir Al Jazairi Street		9	1	21	
+QA	411768	ابراهيم الفزاري	residential	1	0	0	Ebrahim Al Fazari Street
+QA	411768	ابن تيمية	residential	1	0	0	Ibn Taymiya Street
+QA	411768	ابن ربيعة	residential	1	0	0	Ibn Rabiah Street
+QA	411768	ابن زهر	residential	1	0	0	Ibn Zuhair Street
+QA	411768	ابن سينا	residential	1	0	0	Ibn Seena Street
+QA	411768	ابن عقبة	residential	1	0	0	Ibn Oqba Street
+QA	411768	اجنادين	residential	1	0	0	Ajnadeen Street
+QA	411768	الخليل	residential	1	0	0	Al Khaleel Street
+QA	411768	الخوارزمي	residential	1	0	0	Al Khawarizmi Street
+QA	411768	السراج	residential	1	0	0	Al Siraj Street
+QA	411768	الشهب	residential	1	0	0	Al Shuhub Street
+QA	411768	المدارس	residential	1	0	0	Al Madaress Street
+QA	411768	الهضاب	residential	1	0	0	Al Hedaab Street
+QA	411768	بن ابي داود	residential	1	0	0	Ibn Abi Daoud Street
+QA	411768	تطوان	residential	1	0	0	Tatwan Street
+QA	411768	تميم الداري	residential	1	0	0	Tameem Al Dari Street
+QA	411768	حاجب	residential	1	0	0	Hajeb Street
+QA	411768	حافظ ابراهيم	residential	1	0	0	Hafiz Ebrahim Street
+QA	411768	حسان بن ثابت	tertiary	1	0	0	Hassan Bin Thabit Street
+QA	411768	شارع السلام	residential	1	0	0	Al Salam Street
+QA	411768	شارع تمام بن عامر	residential	1	0	0	Tammam Bin Aamir Street
+QA	411768	شارع جابر	residential	1	0	0	Jaber Street
+QA	411768	شارع زهير بن حباب	residential	1	0	0	Zuhair Bin Hubab Street
+QA	411768	شارع صخر	residential	1	0	0	Sakhr Street
+QA	411768	طريق الزينية	living_street	1	0	0	Zinnia Road
+QA	411768	عامر الشعبي	residential	1	0	0	Aamir Al Shaabi
+QA	411768	عامر بن عبدالله	residential	1	0	0	Aamir Bin Abdulla Street
+QA	411768	عبدالقادر الجزائري	residential	1	0	0	Abdul Qadir Al Jazairi Street
+QA	411768	عبدالله بن وهب	residential	1	0	0	Abdulla Bin Wahb Street
+QA	411768	غمدان	residential	1	0	0	Ghamdan
+QA	411768	لحج	residential	1	0	0	Lahaj
+QA	411768	محمد بن مالك	residential	1	0	0	Mohammed Bin Malik Street
+QA	411768	محمد بن يزيد	residential	1	0	0	Mohammed Bin Yazeed Street
+QA	411768	معيذر رشيدة	residential	1	0	0	Muaither Rasheeda
+QA	411768	منصور بن عمار	residential	1	0	0	Mansour Bin Ammar Street
+QA	411768	وادي العوينة	residential	1	0	0	Wadi Al Owaina Street
+QA	411768	وادي النيل	residential	1	0	0	Wadi Al Neel Street
+QA	411785	البشيرية	residential	1	0	0	Al Beshairiya
+QA	411785	السياحة	residential	1	0	0	Al Siyaha
+QA	411785	الشارع المعاريف	residential	1	0	0	Al Maarif Street
+QA	411785	الفطام	residential	1	0	0	Al Futam
+QA	411785	اللؤلؤ	residential	1	0	0	Al Loulou Street
+QA	411785	ام الغيلم	residential	1	0	0	Umm Al Ghallam Street
+QA	411785	بحر العرب	residential	1	0	0	Bahr Al Arab
+QA	411785	شارع الدستور	residential	1	0	0	Al Dostour Street
+QA	411785	شارع المتحف	tertiary	1	0	0	Museum Street
+QA	411785	شارع رأس بو عبود	primary	1	0	0	Ras Abu Abboud Street
+QA	411785	شارع شراعوه	tertiary	1	0	0	Sheraouh Street
+QA	411785	شارع مالك بن أنس	residential	1	0	0	Malik Bin Anas Street
+QA	411785	عدي بن زيد	residential	1	0	0	Addi Bin Zaid Street
+QA	411785	علي بن عمر العطية	primary	1	0	0	Ali Bin Amur Al Attiya Street
+QA	411785	لمعتز	residential	1	0	0	Al Mutazz
+QA	411785	مالك بن انس	residential	1	0	0	Malik Bin Anas Street
+QA	411785	يافا	residential	1	0	0	Yafa
+QA	411803	Al Wifaq		3	52	74	
+QA	411803	ابن ابي بكر	residential	1	0	0	Ibn Abi Bakr Street
+QA	411803	ابن الزبير	residential	1	0	0	Ibn Al Zubair Street
+QA	411803	ابن المسيب	residential	1	0	0	Ibn Al Musayyeb Street
+QA	411803	ابن خلدون	residential	1	0	0	Ibn Khaldoun Street
+QA	411803	ابن عبدالمطلب	residential	1	0	0	Ibn Abdul Muttalib Street
+QA	411803	ابو وقاص	residential	1	0	0	Abu Waqqas
+QA	411803	الاماني	residential	1	0	0	Al Amani Street
+QA	411803	الثقافة	residential	1	0	0	Al Thaqafa
+QA	411803	الطريق الدائري الثاني	primary	1	0	0	B Ring Road
+QA	411803	ام المواقع	residential	1	0	0	Umm Al Mawaqea
+QA	411803	بيت الحكمة	residential	1	0	0	Bait Al Hikma Street
+QA	411803	حسن	residential	1	0	0	Hasan
+QA	411803	حسين	residential	1	0	0	Husein
+QA	411803	خيبر	residential	1	0	0	Khaybar Street
+QA	411803	سعد بن عبادة	residential	1	0	0	Saad Bin Ubada
+QA	411803	شارع ابن عبد المطلب	residential	1	0	0	Ibn Abdul Muttalib Street
+QA	411803	شارع الوفاق	residential	1	0	0	Al Wifaq Street
+QA	411803	شارع طارق بن زياد	residential	1	0	0	Tariq Bin Ziyad Street
+QA	411803	عبدالحميد الكاتب	residential	1	0	0	Abdul Hameed Al Katib
+QA	411803	كعب بن زهير	residential	1	0	0	Kaab Bin Zuhair Street
+QA	411803	موسى	residential	1	0	0	Mousa
+QA	411820	Al Jaadi		2	44	44	
+QA	411820	Jawaan Street		2	26	32	
+QA	411820	أبــا الزبار	residential	1	0	0	Aba Al Zubar Street
+QA	411820	أسماء بنت ابي بكر	residential	1	0	0	Asmah Bint Abi Bakr
+QA	411820	ابن ادريس	residential	1	0	0	Ibn Idrees Street
+QA	411820	ابن امية	residential	1	0	0	Ibn Umayah Street
+QA	411820	ابن حيال	residential	1	0	0	Ibn Heyaal Street
+QA	411820	ابن دينار	residential	1	0	0	Ibn Dinaar Street
+QA	411820	ابن زياد	residential	1	0	0	Ibn Ziyad Street
+QA	411820	ابن شريح	residential	1	0	0	Ibn Shuraih Street
+QA	411820	ابن عتيبة	residential	1	0	0	Ibn Otaiba Street
+QA	411820	ابن لبيد	residential	1	0	0	Ibn Labeed Street
+QA	411820	ابن مزاحم	residential	1	0	0	Ibn Muzahim Street
+QA	411820	ابن نجاء	residential	1	0	0	Ibn Najaa Street
+QA	411820	ابن وائلة	residential	1	0	0	Ibn Waila Street
+QA	411820	ابن وضاح	residential	1	0	0	Ibn Waddah Street
+QA	411820	البلاغ	residential	1	0	0	Al Balagh Street
+QA	411820	الجريف	residential	1	0	0	Al Jareef Street
+QA	411820	الجعدي	residential	1	0	0	Al Jaadi Street
+QA	411820	الحارث	residential	1	0	0	Al Harith Street
+QA	411820	الحصين	residential	1	0	0	Al Husain Street
+QA	411820	الحمداني	residential	1	0	0	Al Hamdani Street
+QA	411820	الرشيد	residential	1	0	0	Al Rasheed Street
+QA	411820	الزبير بن بكار	residential	1	0	0	Al Zubair Bin Bakkar Street
+QA	411820	الساعدي	residential	1	0	0	Al Saidi Street
+QA	411820	السيف	residential	1	0	0	Al Saif Street
+QA	411820	الشهاب	residential	1	0	0	Al Shehaab Street
+QA	411820	الشولة	residential	1	0	0	Al Shuwala Street
+QA	411820	الضفاف	residential	1	0	0	Al Difaaf Street
+QA	411820	العب	residential	1	0	0	Al Ebb Street
+QA	411820	العباس بن سهل	residential	1	0	0	Al Abbas Bin Sahl Street
+QA	411820	الغوطة	residential	1	0	0	Al Ghotah Street
+QA	411820	القبس	residential	1	0	0	Al Qabass Street
+QA	411820	القراين	residential	1	0	0	Qarayen Street
+QA	411820	القلايل	residential	1	0	0	Al Qalayel Street
+QA	411820	القوافل	residential	1	0	0	Al Qawafell Street
+QA	411820	المربد	residential	1	0	0	Al Merbad Street
+QA	411820	النصال	residential	1	0	0	Al Nesaal Street
+QA	411820	النعمان بن عمرو	residential	1	0	0	Al Numan Bin Amr Street
+QA	411820	ام العبيريات	residential	1	0	0	Umm Al Obairiyat Street
+QA	411820	ثمامة	residential	1	0	0	Thumama Street
+QA	411820	جري الرملي	residential	1	0	0	Jery Al Ramli Street
+QA	411820	حارثة	residential	1	0	0	Haritha Street
+QA	411820	حذيفة بن انيس	residential	1	0	0	Huthaifa Bin Anees Street
+QA	411820	حماد	residential	1	0	0	Hammad Street
+QA	411820	خور شقيق	residential	1	0	0	Khor Shaqeeq Street
+QA	411820	دوحة زكريت	residential	1	0	0	Dohat Zekreet Street
+QA	411820	رأس قرطاس	residential	1	0	0	Ras Qertas Street
+QA	11207824	ابا النوفل	residential	1	0	0	Aba Al Nafal Street
+QA	11207824	ابن طلحة	residential	1	0	0	Ibn Talha Street
+QA	11207824	احمد بن اسحق	residential	1	0	0	Ahmed Bin Iszhaq Street
+QA	11207824	اشنان	residential	1	0	0	Eshnan Street
+QA	11207824	الاحسان	residential	1	0	0	Al Ishsan Street
+QA	11207824	الاشيقر	residential	1	0	0	Al Ishaiqer Street
+QA	11207824	الالماس	residential	1	0	0	Al Almas Street
+QA	11207824	البياتية	residential	1	0	0	Al Bayyatiya Street
+QA	11207824	الثغب	residential	1	0	0	Al Thaghab Street
+QA	11207824	الثمامة	residential	1	0	0	Al Thumama Street
+QA	11207824	الثميد	residential	1	0	0	Al Themaid Street
+QA	11207824	الجسرة	residential	1	0	0	Al Jasra Street
+QA	11207824	الجمان	residential	1	0	0	Al Juman Street
+QA	11207824	الحارث بن عدوان	residential	1	0	0	Al Harith Bin Adwan
+QA	11207824	الحاير	residential	1	0	0	Al Hayer Street
+QA	11207824	الحدية	residential	1	0	0	Al Heddiya
+QA	11207824	الحصباه	residential	1	0	0	Al Hasbah Street
+QA	11207824	الحكم بن حزام	residential	1	0	0	Al Hakam Bin Hazam
+QA	11207824	الحوافر	residential	1	0	0	Al Hawafer Street
+QA	11207824	الحواير	residential	1	0	0	Al Hawayer Street
+QA	11207824	الخريطيات	secondary	1	0	0	Al Kharaitiyat Street
+QA	11207824	الخزعلية	residential	1	0	0	Al Khazeliya Street
+QA	11207824	الخطية	residential	1	0	0	Al Khattiya Street
+QA	11207824	الداودية	residential	1	0	0	Al Dawoodiya Street
+QA	11207824	الدواخل	residential	1	0	0	Al Dawakhil Street
+QA	11207824	الديحة	residential	1	0	0	Al Dalha Street
+QA	11207824	الذيبية	residential	1	0	0	Al Theebiya Street
+QA	11207824	الرحيات	residential	1	0	0	Al Rehayyat Street
+QA	11207824	الركب	residential	1	0	0	Al Rakb
+QA	11207824	السبسب	residential	1	0	0	Al Sabsab Street
+QA	11207824	السبطة	residential	1	0	0	Al Sabta Street
+QA	11207824	السحمية	residential	1	0	0	Al Sehmiya Street
+QA	11207824	السلج	residential	1	0	0	Al Silj Street
+QA	11207824	السماري	residential	1	0	0	Al Samari Street
+QA	11207824	السميح	residential	1	0	0	Rawdat Kharija Street
+QA	11207824	الشراع	residential	1	0	0	Al Shiraa Street
+QA	11207824	الصمعة	residential	1	0	0	Al Samaah Street
+QA	11207824	الصوير	residential	1	0	0	Al Suwair Street
+QA	11207824	الطفيل بن عمرو	residential	1	0	0	Al Tufail Bin Amr Street
+QA	11207824	الظليفات	residential	1	0	0	Al Dhulaifat Street
+QA	11207824	العزائم	residential	1	0	0	Al Azaimm Street
+QA	11207824	العشرة	residential	1	0	0	Al Eshra Street
+QA	11207824	العصفرة	residential	1	0	0	Al Asfara Street
+QA	11207824	العقوريات	residential	1	0	0	Al Uqouriyat Street
+QA	11207824	العكرش	residential	1	0	0	Al Ekresh Street
+QA	11207824	العلاء بن جارية	residential	1	0	0	Al Alaa Bin Jariya Street
+QA	11207824	العوام بن عقبة	residential	1	0	0	Al Awwam Bin Oqba
+QA	11207824	العوسج	residential	1	0	0	Al Awsaj Street
+QA	12219797	أمهات السلام	residential	1	0	0	Ummahat Al Salam Street
+QA	12219797	الجامع	residential	1	0	0	Al Jama Street
+QA	12219797	الخراسع	residential	1	0	0	Al Kharasea Street
+QA	12219797	ام الزبد	residential	1	0	0	Umm Al Zabad Street
+QA	12219797	امهات التويم	residential	1	0	0	Ummahat Al Tuwaim Street
+QA	12219797	جريان السيف	unclassified	1	0	0	Jeryan Al Saif Street
+QA	12219797	حزم السبطة	residential	1	0	0	Hazm Al Sabta Street
+QA	12219797	دوار 2	unclassified	1	0	0	Roundabout 2
+QA	12219797	دوار 3	unclassified	1	0	0	Roundabout 3
+QA	12219797	دوار 4	unclassified	1	0	0	Roundabout 4
+QA	12219797	دوار 5	unclassified	1	0	0	Roundabout 5
+QA	12219797	دوار 8	unclassified	1	0	0	Roundabout 8
+QA	12219797	دوار 9	unclassified	1	0	0	Roundabout 9
+QA	12219797	دوحة الخيمة	residential	1	0	0	Dohat Al Khaima Street
+QA	12219797	دوحة النفايد	residential	1	0	0	Dohat Al Nefayed Street
+QA	12219797	راس النسعة	residential	1	0	0	Ras Al Nassah Street
+QA	12219797	ساحة 105	residential	1	0	0	Saha 105
+QA	12219797	ساحة 249	residential	1	0	0	Saha 249
+QA	12219797	ساحة 250	residential	1	0	0	Saha 250
+QA	12219797	شارع الجامعة	primary	1	0	0	University Street
+QA	12219797	شارع جريان نجيمة	unclassified	1	0	0	Jeryan Nejaima Street
+QA	12219797	غرب خليج لاغون ستريت	tertiary	1	0	0	West Bay Lagoon Street
+QA	12219798	Al Areesh		11	1	24	
+QA	12219798	Umm Al Amad Street		4	1	1	
+QA	12219798	Saif Al Dawla		2	8	10	
+QA	12219798	ابا الصليل	residential	1	0	0	Aba Al Seleel Street
+QA	12219798	ابان بن سعيد	residential	1	0	0	Aban Bin Saeed Street
+QA	12219798	ابن الابار	residential	1	0	0	Ibn Al Abbar Street
+QA	12219798	ابن الاخضر	residential	1	0	0	Ibn Al Akhdar Street
+QA	12219798	ابن الحصين	residential	1	0	0	Ibn Al Husain Street
+QA	12219798	ابن الفارض	residential	1	0	0	Ibn Al Fared Street
+QA	12219798	ابن بشير	residential	1	0	0	Ibn Basheer Street
+QA	12219798	ابن حباب	residential	1	0	0	Ibn Hubab Street
+QA	12219798	ابن طفيل	residential	1	0	0	Ibn Tufail Street
+QA	12219798	ابن عمران	residential	1	0	0	Ibn Omran Street
+QA	12219798	ابن مجاهد	residential	1	0	0	Ibn Mujahed Street
+QA	12219798	ابن ياسر	residential	1	0	0	Ibn Yasser Street
+QA	12219798	ابو الطيب	residential	1	0	0	Abu Al Tayyeb Street
+QA	12219798	ابو صفوان	residential	1	0	0	Abu Safwan Street
+QA	12219798	الابهرية	residential	1	0	0	Al Abhariya Street
+QA	12219798	الاتفاق	residential	1	0	0	Al Ittifaaq Street
+QA	12219798	الاحنف	residential	1	0	0	Al Ahnaf Street
+QA	12219798	الاشنان	residential	1	0	0	Al Ishnaan Street
+QA	12219798	الانوار	residential	1	0	0	Al Anwar Street
+QA	12219798	الاوزاعي	residential	1	0	0	Al Awzaei Street
+QA	12219798	البديعة	residential	1	0	0	Al Bedaiah Street
+QA	12219798	البراء بن عازب	residential	1	0	0	Al Baraa Bin Aazib Street
+QA	12219798	البروق	residential	1	0	0	Al Barwaq Street
+QA	12219798	البيروني	residential	1	0	0	Al Bairouni Street
+QA	12219798	الثمامة	unclassified	1	0	0	Al Thumama Street
+QA	12219798	الجدي	residential	1	0	0	Al Jaddy Street
+QA	12219798	الحميض	residential	1	0	0	Al Hummaid Street
+QA	12219798	الحنزاب	residential	1	0	0	Al Henzaab Street
+QA	12219798	الحويل	residential	1	0	0	Al Huwail Street
+QA	12219798	الحويلة	residential	1	0	0	Al Huwaila Street
+QA	12219798	الخازن	residential	1	0	0	Al Khazinn Street
+QA	12219798	الخباب	residential	1	0	0	Al Khabbab Street
+QA	12219798	الخرسعة	residential	1	0	0	Al Kharsaah Street
+QA	12219798	الخيرية	residential	1	0	0	Al Khairiya Street
+QA	12219798	الربيع بن زياد	residential	1	0	0	Al Rabee Bin Ziyad Street
+QA	12219798	الرحبة	residential	1	0	0	Al Rahbah Al Rabee Bin Ziyad Street
+QA	12219798	الرمث	residential	1	0	0	Al Remth Street
+QA	12219798	الزغين	residential	1	0	0	Al Zagheen Street
+QA	12219798	الزمرد	residential	1	0	0	Al Zumurrud Street
+QA	12219798	الزيتون	residential	1	0	0	Al Zalioun Street
+QA	12219798	السبط	residential	1	0	0	Al Sebtt Street
+QA	12219798	السحاب	residential	1	0	0	Al Sahaab Street
+QA	12219798	السلم	residential	1	0	0	Al Salem Street
+QA	12219798	السيف	residential	1	0	0	Al Saif Street
+QA	12219798	الشرايف	residential	1	0	0	Al Sharayef Street
+QA	12242643	Alfardan Gardens		60	3	115	
+QA	12242643	Street 1126		24	0	0	
+QA	12242643	Street 1124		20	0	0	
+QA	12242643	Street 1122		11	0	0	
+QA	12242643	Street 1127		2	0	0	
+QA	12242643	أحد	residential	1	0	0	Uhud Street
+QA	12242643	أم الهول	residential	1	0	0	Umm Al Hool Street
+QA	12242643	ابا العكرش	residential	1	0	0	Aba Al Ekresh Street
+QA	12242643	ابن اكثم	residential	1	0	0	Ibn Zuhail Street
+QA	12242643	ابن الاعرابي	residential	1	0	0	Ibn Al Aarabi Street
+QA	12242643	ابن الزيات	residential	1	0	0	Ibn Al Zayyat Street
+QA	12242643	ابن الطفيل	residential	1	0	0	Ibn Al Tufail Street
+QA	12242643	ابن العماد	residential	1	0	0	Ibn Al Imad Street
+QA	12242643	ابن الفراء	residential	1	0	0	Ibn Al Farra Street
+QA	12242643	ابن المرابط	residential	1	0	0	Ibn Al Murabit Street
+QA	12242643	ابن المستوفي	residential	1	0	0	Ibn Al Mustawfi Street
+QA	12242643	ابن الوزان	residential	1	0	0	Ibn Al Wazzan Street
+QA	12242643	ابن حصين	residential	1	0	0	Ibn Husain Street
+QA	12242643	ابن طيفور	residential	1	0	0	Ibn Taifour Street
+QA	12242643	ابو البقاء	residential	1	0	0	Abu Al Baqaa Street
+QA	12242643	ابو الطفيل	residential	1	0	0	Abu Al Tufail Street
+QA	12242643	ابو اليقظان	residential	1	0	0	Abu Al Yaqdan Street
+QA	12242643	ابو عبيد الثقفي	residential	1	0	0	Abu Obaid Al Thaqafi Street
+QA	12242643	ابو عروبة	residential	1	0	0	Abu Arouba Street
+QA	12242643	احمد بن شهيد	residential	1	0	0	Ahmed Bin Shaheed Street
+QA	12242643	احمد بن ميمون	residential	1	0	0	Ahmed Bin Maimoun Street
+QA	12242643	احمد بن وضاح	residential	1	0	0	Ahmed Bin Waddah Street
+QA	12242643	احمد بن يحيى	residential	1	0	0	Ahmed Bin Yahya Street
+QA	12242643	اسحق	residential	1	0	0	Ishaq Street
+QA	12242643	اسحق بن الحسين	residential	1	0	0	Ishaq Bin Al Hussein Street
+QA	12242643	اشقب	residential	1	0	0	Eshgab Street
+QA	12242643	اصبخة القصار	residential	1	0	0	Esbakhat Al Gassar
+QA	12242643	افريقيا	residential	1	0	0	Afriqia Street
+QA	12242643	اكثم بن صيفي	residential	1	0	0	Aktham Bin Saifi Street
+QA	12242643	الاحنف بن قيس	residential	1	0	0	Al Ahnaf Bin Qais Street
+QA	12242643	الارياف	residential	1	0	0	Al Aryaf Street
+QA	12242643	الازرقي	residential	1	0	0	Al Azraqi Street
+QA	12242643	الامين	residential	1	0	0	Al Ameen
+QA	12242643	البراء	residential	1	0	0	Al Baraa Street
+QA	12242643	البوصيري	residential	1	0	0	Al Busairi
+QA	12242643	التبريزي	residential	1	0	0	Al Tabreezi
+QA	12242643	التنوخي	residential	1	0	0	Al Tanoukhi Street
+QA	12242643	الثعيلب	residential	1	0	0	Thuaileb Street
+QA	12242643	الجبيرة	residential	1	0	0	Al Jubaira Street
+QA	12242643	الجبيل	residential	1	0	0	Al Jebaii Street
+QA	12242643	الجثيل	residential	1	0	0	Al Jatheel Street
+QA	12242643	الجخينة	residential	1	0	0	Al Jekhaina Street
+QA	12242643	الجفارة	residential	1	0	0	Al Jaffara Street
+QA	12242643	الجميل	residential	1	0	0	Al Jemail Street
+QA	12242643	الحارث بن عباد	residential	1	0	0	Al Harith Bin Abbad Street
+QA	12242643	الحرية	residential	1	0	0	Al Hurriya
+QA	12242643	الحسن بن رجاء	residential	1	0	0	Al Hasan Bin Rajaa Street
+QA	12242643	الحسن بن مخلد	residential	1	0	0	Al Hasan Bin Makhlad Street
+QA	12242643	الحسين بن علي	residential	1	0	0	Al Husein BIn Ali Street
+QA	12242643	الحمدانية	residential	1	0	0	Al Hamdaniya Street
+QA	12242643	الديوانية	residential	1	0	0	Al Diwaniya Street
+QA	12242643	الرباب	residential	1	0	0	Al Rabab Street
+QA	12242643	الزبداني	residential	1	0	0	Al Zabadani Street
+QA	12242643	الزرع الكبير	unclassified	1	0	0	Al Zara Al Kabeer Street
+QA	12242643	الزمخشري	residential	1	0	0	Al Zamakhshari Street
+QA	12242643	الزهراني	residential	1	0	0	Al Zahrani Street
+QA	12242643	الزيتونة	residential	1	0	0	Al Zaitouna Street
+QA	12242643	السراج	residential	1	0	0	Al Siraj Street
+QA	12242643	السمان	residential	1	0	0	Al Samman Street
+QA	12242643	السمح بن مالك	residential	1	0	0	Al Samh Bin Malik Street
+QA	12242643	السوباط	residential	1	0	0	Al Sawbat Street
+QA	12242643	الشاغيه	residential	1	0	0	Al Shaghiya Street
+QA	12242643	الشريف الادريسي	residential	1	0	0	Al Shareef Al Idrisi Street
+QA	12242643	الشفلح	residential	1	0	0	Al Shaflah Street
+QA	12242643	الصابرية	residential	1	0	0	Al Sabriya Street
+QA	12242643	الصبحة	residential	1	0	0	Al Sabha Street
+QA	12242643	الصفاء	residential	1	0	0	Al Safaa Street
+QA	12242643	الصلاح	unclassified	1	0	0	Al Salah Street
+QA	12242643	الضرم	residential	1	0	0	Al Darm Street
+QA	12242643	الطبراني	residential	1	0	0	Al Tabarani Street
+QA	12242643	الطريق الدائري الخامس	primary	1	0	0	E Ring Road
+QA	12242643	الطريق الدائري الرابع	primary	1	0	0	D Ring Road
+QA	12242643	العريش	residential	1	0	0	Al Areesh Street
+QA	12242643	العقلة	residential	1	0	0	Al Egla Street
+QA	12242643	العين	residential	1	0	0	Al Ain Street
+QA	12242643	الغارب	residential	1	0	0	Al Ghareb Street
+QA	12242643	الغديرية	residential	1	0	0	Al Ghadeeriya Street
+QA	12242643	الفرات بن حيال	residential	1	0	0	Al Furat Bin Hayyat Street
+QA	12242643	الفركيه	residential	1	0	0	Al Farkiya Street
+QA	12242643	الفضل بن حاتم	residential	1	0	0	Al Fadl Bin Hatem Street
+QA	12242643	الفضل بن حماد	residential	1	0	0	Al Fadl Bin Hammad Street
+QA	12242643	الفضل بن سهل	residential	1	0	0	Al Fadl Bin Sahl Street
+QA	12242643	القاعية	residential	1	0	0	Al Qaeiya Street
+QA	12242643	القان	residential	1	0	0	Al Qan Street
+QA	12242643	القرينات	residential	1	0	0	Al Grainat Street
+QA	12242643	القصار	residential	1	0	0	Al Gassar
+QA	12242643	القطارة	residential	1	0	0	Al Gattara Street
+QA	12242643	القميرية	residential	1	0	0	Al Gmairiya Street
+QA	12242643	الكرامة	unclassified	1	0	0	Al Karama Street
+QA	12242643	الكرعانة	residential	1	0	0	Al Karaana Street
+QA	12242643	الماردية	residential	1	0	0	Al Mardiya Street
+QA	12242643	المجمعة	residential	1	0	0	Al Majmaah Street
+QA	12242643	المرن	residential	1	0	0	Al Marn Street
+QA	12242643	المرونة	residential	1	0	0	Al Marrouna Street
+QA	12242643	المستكفي	residential	1	0	0	Al Mustakfi Street
+QA	12242644	ابا الجحازل	residential	1	0	0	Aba Al Jahazel Street
+QA	12242644	ابا الحنين	residential	1	0	0	Aba Al Haneen Street
+QA	12242644	ابن السمح	residential	1	0	0	Ibn Al Samh Street
+QA	12242644	ابن الصوري	residential	1	0	0	Ibn Al Souri Street
+QA	12242644	ابن اللباد	residential	1	0	0	Ibn Al Labbad Street
+QA	12242644	ابن بنان	residential	1	0	0	Ibn Banan Street
+QA	12242644	ابو الفدا	residential	1	0	0	Abu Al Fida Street
+QA	12242644	احمد بن سهل	residential	1	0	0	Ahmed Bin Sahl Street
+QA	12242644	احمد بن شعيب	residential	1	0	0	Ahmed Bin Shuaib Street
+QA	12242644	اصيلة	residential	1	0	0	Al Aseela Street
+QA	12242644	الازالية	residential	1	0	0	Al Azalea Street
+QA	12242644	الاسحا	residential	1	0	0	Al Tuwaim Street
+QA	12242644	الاسحاط	residential	1	0	0	Al Aszhat Street
+QA	12242644	الانطلاق	residential	1	0	0	Al Intelaq Street
+QA	12242644	البتيل	residential	1	0	0	Al Betteel Street
+QA	12242644	الجفارة	residential	1	0	0	Al Jaffara Street
+QA	12242644	الجولان	residential	1	0	0	Al Jolan Street
+QA	12242644	الحارث بن بكر	residential	1	0	0	Al Harith Bin Bakr Street
+QA	12242644	الحريرة	residential	1	0	0	Al Hareera Street
+QA	12242644	الرحيب	residential	1	0	0	Al Raheeb Street
+QA	12242644	الزهراوي	residential	1	0	0	Al Zahrawi Street
+QA	12242644	السداري	residential	1	0	0	Al Sedari Street
+QA	12242644	الشوفان	residential	1	0	0	Al Shoufan Street
+QA	12242644	الصرفة	residential	1	0	0	Al Sarfa Street
+QA	12242644	الضعة	residential	1	0	0	Al Daah Street
+QA	12242644	الطريق الدائري الخامس	primary	1	0	0	E Ring Road
+QA	12242644	العرفج	residential	1	0	0	Al Arfaj Street
+QA	12242644	العكرش	residential	1	0	0	Al Ekresh Street
+QA	12242644	العلم	residential	1	0	0	Al Ellm Street
+QA	12242644	الغزلانية	residential	1	0	0	Al Ghezlaniya Street
+QA	12242644	الغشامية	residential	1	0	0	Al Ghashamiya Street
+QA	12242644	الفراديس	residential	1	0	0	Al Faradees Street
+QA	12242644	اللبلاب	residential	1	0	0	Al Leblab Street
+QA	12242644	المايدة	residential	1	0	0	
+QA	12242644	المسحبية	residential	1	0	0	Al Maszhabiya Street
+QA	12242644	المشاخيل	residential	1	0	0	Al Meshakheel Street
+QA	12242644	النصرانية	residential	1	0	0	Al Nasraniya Street
+QA	12242644	النفافيس	residential	1	0	0	Al Nefafees Street
+QA	12242644	النهرواني	residential	1	0	0	Al Nahrawani Street
+QA	12242644	الوجبة	residential	1	0	0	Al Wajba Street
+QA	12242644	اليعقوبي	unclassified	1	0	0	Al Yaqoubi Street
+QA	12242644	ام الجماجم	residential	1	0	0	Umm Al Jamajim Street
+QA	12242644	ام الحرابي	residential	1	0	0	Umm Al Harabi Street
+QA	12242644	ام الحوايا	residential	1	0	0	Umm Al Hawaya Street
+QA	12242644	ام الحيران	residential	1	0	0	Umm Al Heeran Street
+QA	12242644	ام الروس	residential	1	0	0	Umm Al Roos Street
+QA	12242644	ام الزبد	residential	1	0	0	Umm Al Zabad Street
+QA	12242644	ام الصوف	residential	1	0	0	Umm Al Souf Street
+QA	12242645	1127		17	0	0	
+QA	12242645	1125		4	0	0	
+QA	12242645	Street 1127		4	0	0	
+QA	12242645	أم البرك	residential	1	0	0	Umm Al Birak Street
+QA	12242645	أم العظام	residential	1	0	0	Umm Leadam Street
+QA	12242645	ابن المرابط	residential	1	0	0	Ibn Al Murabit Street
+QA	12242645	ابن المستوفي	residential	1	0	0	Ibn Al Mustawfi Street
+QA	12242645	ابن خاتمة	residential	1	0	0	Ibn Khatima Street
+QA	12242645	ابن خليد	residential	1	0	0	Ibn Khulaid Street
+QA	12242645	الجبايا	residential	1	0	0	Al Jabaya Street
+QA	12242645	الطريق الدائري الخامس	primary	1	0	0	E Ring Road
+QA	12242645	العاملي	residential	1	0	0	Al Ameli Street
+QA	12242645	النصي	residential	1	0	0	Al Nessi Street
+QA	12242645	بلهمبار	tertiary	1	0	0	Balhambar Street
+QA	12242645	بو سمرة	tertiary	1	0	0	Bu Samra Street
+QA	12242645	جري الظبي	residential	1	0	0	Jery Al Dhabi Street
+QA	12242645	راس لفان	residential	1	0	0	Ras Laffan Street
+QA	12242645	شارع 1010	residential	1	0	0	Street 1010
+QA	12242645	شارع 1110	tertiary	1	0	0	Street 1110
+QA	12242645	شارع 1127	residential	1	0	0	Street 1127
+QA	12242645	شارع 1128	residential	1	0	0	Street 1128
+QA	12242645	شارع 1129	residential	1	0	0	Street 1129
+QA	12242645	شارع 1130	residential	1	0	0	Street 1130
+QA	12242645	شارع 1132	residential	1	0	0	Street 1132
+QA	12242645	شارع 1138	tertiary	1	0	0	Street 1138
+QA	12242645	شارع 1201	unclassified	1	0	0	Street 1201
+QA	12242645	شارع 801	residential	1	0	0	Street 801
+QA	12242645	شارع 802	residential	1	0	0	Street 802
+QA	12242645	شارع 803	residential	1	0	0	Street 803
+QA	12242645	شارع 806	residential	1	0	0	Street 806
+QA	12242645	شارع 807	residential	1	0	0	Street 807
+QA	12242645	شارع 808	residential	1	0	0	Street 808
+QA	12242645	شارع 809	residential	1	0	0	Street 809
+QA	12242645	شارع 810	residential	1	0	0	Street 810
+QA	12242645	شارع 811	residential	1	0	0	Street 811
+QA	12242645	شارع 812	residential	1	0	0	Street 812
+QA	12242645	شارع 813	residential	1	0	0	Street 813
+QA	12242645	شارع 815	residential	1	0	0	Street 815
+QA	12242645	شارع 816	residential	1	0	0	Street 816
+QA	12242645	شارع 817	residential	1	0	0	Street 817
+QA	12242645	شارع 820	residential	1	0	0	Street 820
+QA	12242645	شارع 821	residential	1	0	0	Street 821
+QA	12242645	شارع 822	residential	1	0	0	Street 822
+QA	12242645	شارع 823	residential	1	0	0	Street 823
+QA	12242645	شارع 824	residential	1	0	0	Street 824
+QA	12242645	شارع 826	residential	1	0	0	Street 826
+QA	12242645	شارع 827	residential	1	0	0	Street 827
+QA	12242645	شارع 828	residential	1	0	0	Street 828
+QA	12242646	Street 1123		16	0	0	
+QA	12242646	Street 1125		12	0	0	
+QA	12242646	1125		7	0	0	
+QA	12242646	Street 1122		5	0	0	
+QA	12242646	Street 1124		4	0	0	
+QA	12242646	Barwa Village		2	4	4	
+QA	12242646	اصبخة القصار	residential	1	0	0	Esbakhat Al Gassar
+QA	12242646	الزرع الكبير	residential	1	0	0	Al Zara Al Kabeer Street
+QA	12242646	الغارية	secondary	1	0	0	Al Ghariya
+QA	12242646	الفجر	residential	1	0	0	Al Fajr
+QA	12242646	المبتعدة	residential	1	0	0	Al Mebtaeda
+QA	12242646	الوعب	residential	1	0	0	Al Waab
+QA	12242646	ام باب	residential	1	0	0	Umm Bab
+QA	12242646	ام بشر	residential	1	0	0	Umm Besher
+QA	12242646	ام سوية	residential	1	0	0	Umm Suwayya
+QA	12242646	بلقوبع	residential	1	0	0	Balgawba
+QA	12242646	بلهمبار	tertiary	1	0	0	Balhambar Street
+QA	12242646	دحل مسفر	residential	1	0	0	Dahal Misfer
+QA	12242646	ساحة الثمامه	residential	1	0	0	Sahat Al Thumama Street
+QA	12242646	شارع 1010	tertiary	1	0	0	Street 1010
+QA	12242646	شارع 1115	tertiary	1	0	0	Street 1115
+QA	12242646	شارع 1117	unclassified	1	0	0	Street 1117
+QA	12242646	شارع 1118	unclassified	1	0	0	Street 1118
+QA	12242646	شارع 1121	tertiary	1	0	0	Street 1121
+QA	12242646	شارع 1123	residential	1	0	0	Street 1123
+QA	12242646	شارع 1124	residential	1	0	0	Street 1124
+QA	12242646	شارع 1125	residential	1	0	0	Street 1125
+QA	12242646	شارع 1131	residential	1	0	0	Street 1131
+QA	12242646	شارع 1132	residential	1	0	0	Street 1132
+QA	12242646	شارع 1138	tertiary	1	0	0	Street 1138
+QA	12242646	شارع 295	residential	1	0	0	Street 295
+QA	12242646	شارع 297	primary	1	0	0	Street 297
+QA	12242646	شارع 298	tertiary	1	0	0	Street 298
+QA	12242646	شارع 300	tertiary	1	0	0	Street 300
+QA	12242646	شارع 324	residential	1	0	0	Street 324
+QA	12242646	شارع 330	tertiary	1	0	0	Street 330
+QA	12242646	شارع 399	residential	1	0	0	Street 399
+QA	12242646	شارع 400	unclassified	1	0	0	Street 400
+QA	12242646	شارع 401	residential	1	0	0	Street 401
+QA	12242646	شارع 402	residential	1	0	0	Street 402
+QA	12242646	شارع 403	residential	1	0	0	Street 403
+QA	12242646	شارع 404	residential	1	0	0	Street 404
+QA	12242646	شارع 405	residential	1	0	0	Street 405
+QA	12242646	شارع 406	residential	1	0	0	Street 406
+QA	12242646	شارع 407	residential	1	0	0	Street 407
+QA	12242646	شارع 408	residential	1	0	0	Street 408
+QA	12242646	شارع 409	residential	1	0	0	Street 409
+QA	12242646	شارع 410	residential	1	0	0	Street 410
+QA	12242742	Western Avenue	living_street	1	0	0	
+QA	12242742	أم الشبرم	residential	1	0	0	Umm Al Shubrum Street
+QA	12242742	أمهات عوينة	residential	1	0	0	Ummahat Owaina Street
+QA	12242742	ابا السنوت	residential	1	0	0	Aba Al Sannoot Street
+QA	12242742	ابروق	residential	1	0	0	Abroug Street
+QA	12242742	ابن الاغلب	residential	1	0	0	Ibn Al Aghlab Street
+QA	12242742	ابن الربيع	residential	1	0	0	Ibn Al Rabei Street
+QA	12242742	ابن ثابت	residential	1	0	0	Ibn Thabit Street
+QA	12242742	ابن عوف	residential	1	0	0	Ibn Awf Street
+QA	12242742	ابن عياض	residential	1	0	0	Ibn Eyadh Street
+QA	12242742	ابن لبيد	residential	1	0	0	Ibn Labeed Street
+QA	12242742	ابن محصن	residential	1	0	0	Ibn Muhsen Street
+QA	12242742	ابن يزيد	residential	1	0	0	Ibn Yazeed Street
+QA	12242742	الاحسان	residential	1	0	0	Al Ihsan Street
+QA	12242742	الاسحاقي	residential	1	0	0	Al Iszhaqi Street
+QA	12242742	البلوط	residential	1	0	0	Al Ballout Street
+QA	12242742	البيداء	residential	1	0	0	Al Baidaa Street
+QA	12242742	البيرق	residential	1	0	0	Al Bairaq Street
+QA	12242742	الثغب	residential	1	0	0	Al Thaghab Street
+QA	12242742	الثليم	residential	1	0	0	Al Thelaim Street
+QA	12242742	الثنية	residential	1	0	0	Al Thahnya Street
+QA	12242742	الجامع	residential	1	0	0	Al Jama Street
+QA	12242742	الخرسعة	residential	1	0	0	Al Kharsaah Street
+QA	12242742	الخريج	residential	1	0	0	Al Khuraij Street
+QA	12242742	الدارمي	residential	1	0	0	Al Darim Street
+QA	12242742	الرسوم	residential	1	0	0	Al Resoom Street
+QA	12242742	الركيات	residential	1	0	0	Ibn Eyas Street
+QA	12242742	الريان القديم	unclassified	1	0	0	Al Rayyan Al Qadeem
+QA	12242742	الزعفرانية	residential	1	0	0	Al Zaafaraniya Street
+QA	12242742	الزهرة	residential	1	0	0	Al Zuhra Street
+QA	12242742	السداري	residential	1	0	0	Al Sedari Street
+QA	12242742	السدرة	residential	1	0	0	Al Sidra Street
+QA	12242742	السهلة	residential	1	0	0	Al Sahla Street
+QA	12242742	الطبعة	residential	1	0	0	Al Tabaah Street
+QA	12242742	الظبي	residential	1	0	0	Al Dhabi Street
+QA	12242742	العامرية	residential	1	0	0	Al Aamriya Street
+QA	12242742	العشرة	residential	1	0	0	Al Ashara Street
+QA	12242742	الغامد	residential	1	0	0	Al Ghamed Street
+QA	12242742	الغياض	residential	1	0	0	Al Gheyad
+QA	12242742	القاعية	residential	1	0	0	Al Gaaiya Street
+QA	12242742	القلايل	residential	1	0	0	Al Qalayel Street
+QA	12242742	المشار	residential	1	0	0	Al Mashar Street
+QA	12242742	الندوة	residential	1	0	0	Al Nadwa Street
+QA	12242742	ام الطين	residential	1	0	0	Umm Al Teen Street
+QA	12242742	بو اعرين	secondary	1	0	0	Bu Erayyen Street
+QA	12242742	بو فسيلة	residential	1	0	0	Bu Fesseela Street
+QA	12242742	بيض القاع	residential	1	0	0	Beed Al Qaa Street
+QA	12242742	جري الظبي	residential	1	0	0	Jery Al Dhabi Street
+QA	13512674	روضة الظليفات	residential	22	2	81	Rawdat Al Delaifat
+QA	13512674	شارع لوسيل	tertiary	2	148	148	Lusail Street
+QA	13512674	Katara Square	pedestrian	1	0	0	
+QA	13512674	Lagtaifia	unclassified	1	0	0	
+QA	13512674	Restaurant Row	pedestrian	1	0	0	
+QA	13512674	S33-RD A13A	residential	1	0	0	
+QA	13512674	S66-RD A11	residential	1	0	0	
+QA	13512674	Wadi Al Banat Street	tertiary	1	0	0	
+QA	13512674	أبا الخراسع	residential	1	0	0	
+QA	13512674	أبا الدوم	residential	1	0	0	
+QA	13512674	أبا السعد	residential	1	0	0	
+QA	13512674	أبا الصليل	residential	1	0	0	
+QA	13512674	أبواب	residential	1	0	0	Abwab Street
+QA	13512674	أم الحوايا	residential	1	0	0	
+QA	13512674	أم العرشان	residential	1	0	0	Wadi Al Sahla Street
+QA	13512674	أم الماء	residential	1	0	0	
+QA	13512674	أم باب	residential	1	0	0	
+QA	13512674	أم جذيع	residential	1	0	0	
+QA	13512674	أم لقرضي	residential	1	0	0	
+QA	13512674	أمهات السلام	residential	1	0	0	Ummahat Al Salam Street
+QA	13512674	ابا الرحيات	residential	1	0	0	Aba Al Rehayyat Street
+QA	13512674	ابا الصفا	residential	1	0	0	Aba Al Safa Street
+QA	13512674	ابريدة	residential	1	0	0	Braida Street
+QA	13512674	ارحية	residential	1	0	0	Erhayya Street
+QA	13512674	اسهلة المرخ	residential	1	0	0	Iszhalat Al Markh Street
+QA	13512674	اعفيجين	residential	1	0	0	Efaijeen
+QA	13512674	الاسيود	residential	1	0	0	Lesaiwed Street
+QA	13512674	البحيرة	residential	1	0	0	Al Buhaira
+QA	13512674	الثميد	residential	1	0	0	
+QA	13512674	الثنية	residential	1	0	0	Al Thahnya Street
+QA	13512674	الجامع	residential	1	0	0	Al Jama Street
+QA	13512674	الجريبه	residential	1	0	0	Al Jeraiba Street
+QA	13512674	الجو الرملي	residential	1	0	0	Al Jaww Al Ramli Street
+QA	13512674	الحبيان	residential	1	0	0	Al Hebbeyan
+QA	13512674	الحنيزيبة	residential	1	0	0	Al Henaiziba Street
+QA	13512674	الحوة	unclassified	1	0	0	Al Huwa
+QA	13512674	الخراسع	residential	1	0	0	Al Kharasea Street
+QA	13512674	الخرسعة	residential	1	0	0	Al Kharsaah Street
+QA	13512674	الخريزة	residential	1	0	0	
+QA	13512674	الخطية	residential	1	0	0	Al Khattiya Street
+QA	13512674	الخيسة	tertiary	1	0	0	Al Kheesa
+QA	13512674	الدحيليات	residential	1	0	0	Al Dehiliyat Street
+QA	13512674	الربيات	residential	1	0	0	Al Erbayyat Street
+QA	13512674	الرسوم	residential	1	0	0	Al Resoom Street
+QA	13512674	الرقروق	unclassified	1	0	0	
+QA	13512674	الرياض	residential	1	0	0	Al Riyadh
+QA	13512674	الزبارة	residential	1	0	0	Al Zubarah
+QA	13512674	السافلية	unclassified	1	0	0	Al Safliya Street
+QA	13512674	السدر	unclassified	1	0	0	Street 803
+QA	13512674	الشارع الأوسط	residential	1	0	0	Centre Avenue
+QA	13512674	الشارع الاول	primary	1	0	0	First Street
+QA	13512674	الشارع التاسع	unclassified	1	0	0	Ninth Street
+QA	13512674	الشارع الثالث	residential	1	0	0	Third Street
+QA	13512674	الشارع الثالث عشر	unclassified	1	0	0	Thirteenth Street
+QA	13512674	الشارع الثامن	tertiary	1	0	0	Eighth Street
+QA	13512674	الشارع الثاني	residential	1	0	0	2nd Avenue
+QA	13512674	الشارع الثاني عشر	unclassified	1	0	0	Twelfth Street
+QA	13512674	الشارع الحادي عشر	tertiary	1	0	0	Eleventh Street
+QA	13512674	الشارع الرابع	unclassified	1	0	0	4th Avenue
+QA	13512674	الشارع الرابع عشر	residential	1	0	0	Fourteenth Street
+QA	13512674	الشارع السابع	unclassified	1	0	0	Seventh Street
+QA	13512674	الشارع السادس	residential	1	0	0	Sixth Street
+QA	13512674	الشارع العاشر	unclassified	1	0	0	Tenth Street
+QA	13512674	الشوفان	residential	1	0	0	Al Shoofan
+QA	13512674	الصبانه	residential	1	0	0	Al Sabbana
+QA	13512674	الصقور	residential	1	0	0	Falcon Street
+QA	13512674	الطرفة	tertiary	1	0	0	Al Tarfa
+QA	13512674	العراد	residential	1	0	0	Al Arad Street
+QA	13512674	العويجه	residential	1	0	0	Al Ewaija Street
+QA	13512674	الغارب	residential	1	0	0	Al Ghareb Street
+QA	13512674	الغبيره	residential	1	0	0	Al Ghebaira
+QA	13512674	الغويفة	residential	1	0	0	Al Ghuwaif
+QA	13512674	الغينة	residential	1	0	0	Al Gheena
+QA	13512674	الفرع	residential	1	0	0	Al Fara
+QA	13512674	الفصل	residential	1	0	0	Al Fasl
+QA	13512674	القرينات	residential	1	0	0	Al Egrainat Street
+QA	13512674	القليعات	residential	1	0	0	Al Glaiat Street
+QA	13512674	القميرية	residential	1	0	0	Al Ejmairiya Street
+QA	13512674	المرونة	unclassified	1	0	0	Al Meroona Street
+QA	13512674	المسحاط	residential	1	0	0	
+QA	13512674	المملحه	residential	1	0	0	Al Mamlaha
+QA	13512674	المنيلات	residential	1	0	0	Al Menailat Street
+QA	13512674	النصي	residential	1	0	0	Al Nessayy
+QA	13512674	النعيم	tertiary	1	0	0	Al Nuaim Street
+QA	13512674	الهشم	unclassified	1	0	0	Al Hasham
+QA	13512674	الهشمية	residential	1	0	0	Al Hashamiya Street
+QA	13512674	الهلتة	residential	1	0	0	Al Halta Street
+QA	13512674	الوسق	residential	1	0	0	Al Wasag Street
+QA	13512674	ام اقريبه	residential	1	0	0	Umm Graiba Street
+QA	13512674	ام الزبد	residential	1	0	0	Saha 99
+QA	13512674	ام الضعا	unclassified	1	0	0	Umm Al Daa Street
+QA	13512674	ام الضعيات	residential	1	0	0	Umm Al Edayyat Street
+QA	13512674	ام الماء	residential	1	0	0	Umm Al Maa
+QA	13512674	ام المقارين	residential	1	0	0	Umm Al Magareen Street
+QA	13512674	ام عين	residential	1	0	0	Umm Ain Street
+QA	13512674	امرير	residential	1	0	0	Imrair Street
+QA	13512674	امهات التويم	residential	1	0	0	Ummahat Al Tuwaim Street
+QA	13512674	اوجاب الدخلة	residential	1	0	0	Awjab Al Dakhla Street
+QA	13512674	اوجاب الطير	residential	1	0	0	Awjab Al Tair Street
+QA	13512674	برقـة الساعي	residential	1	0	0	Barqat Al Saei Street

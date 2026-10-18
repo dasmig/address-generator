@@ -1,0 +1,519 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+TG	2363490	Route Lomé - Vogan	secondary	1	0	0	
+TG	2363534	Allée de Parthenay	residential	1	0	0	
+TG	2363534	Rue 046	residential	1	0	0	
+TG	2363534	Rue 2.073	tertiary	1	0	0	
+TG	2363534	Rue 4.042	residential	1	0	0	
+TG	2363534	Rue Agbeti	residential	1	0	0	
+TG	2363534	Rue Apevieku	residential	1	0	0	
+TG	2363534	Rue Ayito	residential	1	0	0	
+TG	2363534	Rue Sangera	residential	1	0	0	
+TG	2363534	Rue de la Gâtine	residential	1	0	0	
+TG	2363669	Route de Tohoun-Tado	secondary	1	0	0	
+TG	2363908	Rue du Marché	tertiary	1	0	0	
+TG	2363908	Tchamba - Prékété	primary	1	0	0	
+TG	2364041	Route Aneho - Tabligbo	secondary	1	0	0	
+TG	2364079	Rue De Lycee	unclassified	1	0	0	
+TG	2364079	Rue USP	residential	1	0	0	
+TG	2364079	Rue de l'Hôpital	tertiary	1	0	0	
+TG	2364104	Pont Sur la Riviere Kpandi	residential	1	0	0	
+TG	2364104	Rue de l'Hôpital	residential	1	0	0	
+TG	2364104	Rue de l'École Centrale	residential	1	0	0	
+TG	2364104	Rue de l'École Primaire	residential	1	0	0	
+TG	2364104	Rue de l'Église	residential	1	0	0	
+TG	2364104	Rue de la Cathédrale	tertiary	1	0	0	
+TG	2364104	Rue de la Grande Mosquée	residential	1	0	0	
+TG	2364104	Rue de la Mairie	residential	1	0	0	
+TG	2364104	Rue du Grand Marché	residential	1	0	0	
+TG	2364104	Rue du Petit Marché	residential	1	0	0	
+TG	2364104	Rue du Stade	residential	1	0	0	
+TG	2364104	Sokodé - Bassar	primary	1	0	0	
+TG	2364104	Sokodé - Bowounda	secondary	1	0	0	
+TG	2364752	Route Kpalimé - Notsé	secondary	1	0	0	
+TG	2364752	Route Notsé-Bénin	secondary	1	0	0	
+TG	2364752	Rue de la Mairie	residential	1	0	0	
+TG	2364752	Rue du Cimetière	residential	1	0	0	
+TG	2364752	Rue du Marché	residential	1	0	0	
+TG	2364812	Avenue du Marché	secondary	1	0	0	
+TG	2364812	Rue de l'Hôpital	residential	1	0	0	
+TG	2364812	Rue de la Mairie	secondary	1	0	0	
+TG	2365190	Route de l'Aérodrome	unclassified	1	0	0	
+TG	2365190	Rue CHP	tertiary	1	0	0	
+TG	2365190	Rue de l'Eglise Catholique	residential	1	0	0	
+TG	2365190	Rue de l'École Centrale	unclassified	1	0	0	
+TG	2365190	Rue de l'École Primaire	residential	1	0	0	
+TG	2365190	Rue de la Grande Mosquée	residential	1	0	0	
+TG	2365190	Rue de la Mairie	residential	1	0	0	
+TG	2365190	Rue de la Mosquée Centrale	residential	1	0	0	
+TG	2365190	Rue de la Poste	residential	1	0	0	
+TG	2365190	Rue du Marché	residential	1	0	0	
+TG	2365190	Rue du Stade	secondary	1	0	0	
+TG	2365267	Rue 20 BKP	residential	6	1	1	
+TG	2365267	Avenue Kleber Dadjo		4	23	23	
+TG	2365267	Avenue Pya	secondary	4	3281	3315	
+TG	2365267	Avenue de la Chance	primary	4	56	2564	
+TG	2365267	Boulevard Jean-Paul II	secondary	3	145	2576	
+TG	2365267	avenue des armées		3	230	630	
+TG	2365267	Boulevard de la Kara	secondary	2	1531	1738	
+TG	2365267	Boulevard du 13 Janvier		2	471	812	
+TG	2365267	Boulevard du Mono		2	12	1603	
+TG	2365267	Rue Hawola		2	75	75	
+TG	2365267	Rue Yakali	residential	2	323	323	
+TG	2365267	Rue des Girafes	residential	2	301	301	
+TG	2365267	Triomphe		2	59	59	
+TG	2365267	134	residential	1	0	0	
+TG	2365267	146	residential	1	0	0	
+TG	2365267	200 rue	residential	1	0	0	
+TG	2365267	225 AGP	residential	1	0	0	
+TG	2365267	67 Rue des Badassés HDN	residential	1	0	0	
+TG	2365267	Aflao-Gakli	residential	1	0	0	
+TG	2365267	Agbatitoe	residential	1	0	0	
+TG	2365267	Agbofoati	residential	1	0	0	
+TG	2365267	Ashie Boye Mensah Road	residential	1	0	0	
+TG	2365267	Atissu	residential	1	0	0	
+TG	2365267	Avenue Abdoulaye Fadiga	residential	1	0	0	
+TG	2365267	Avenue Akéi	secondary	1	0	0	
+TG	2365267	Avenue Augustino de Souza	secondary	1	0	0	
+TG	2365267	Avenue Georges Pompidou	secondary	1	0	0	
+TG	2365267	Avenue Maman N'Danida	tertiary	1	0	0	
+TG	2365267	Avenue Millenium	residential	1	0	0	
+TG	2365267	Avenue Nicolas Grunitsky	residential	1	0	0	
+TG	2365267	Avenue Sarakawa	tertiary	1	0	0	
+TG	2365267	Avenue de Calais	secondary	1	0	0	
+TG	2365267	Avenue de Lane	residential	1	0	0	
+TG	2365267	Avenue de Pya	secondary	1	0	0	
+TG	2365267	Avenue de Sarakawa	unclassified	1	0	0	
+TG	2365267	Avenue de l'OUA	residential	1	0	0	
+TG	2365267	Avenue de l'Oua	residential	1	0	0	
+TG	2365267	Avenue de la Coopération	residential	1	0	0	
+TG	2365267	Avenue de la Libération	secondary	1	0	0	
+TG	2365267	Avenue de la Libératon	secondary	1	0	0	
+TG	2365267	Avenue de la Nouvelle Marche	tertiary	1	0	0	
+TG	2365267	Avenue de la Paix	secondary	1	0	0	
+TG	2365267	Avenue de la Paix - 19 TKA	secondary	1	0	0	
+TG	2365267	Avenue de la Présidence	unclassified	1	0	0	
+TG	2365267	Avenue de la Solidarité	residential	1	0	0	
+TG	2365267	Avenue des Hydrocarbures	secondary	1	0	0	
+TG	2365267	Avenue des Kondona	tertiary	1	0	0	
+TG	2365267	Avenue des Nations Unies	residential	1	0	0	
+TG	2365267	Avenue des Nimes	residential	1	0	0	
+TG	2365267	Avenue des Évalas	tertiary	1	0	0	
+TG	2365267	Avenue du 2 Février	residential	1	0	0	
+TG	2365267	Avenue du Golfe	unclassified	1	0	0	
+TG	2365267	Avenue du Grand Séminaire	unclassified	1	0	0	
+TG	2365267	Avenue du Général de Gaulle	tertiary	1	0	0	
+TG	2365267	BE-KPOTA Rue 152	residential	1	0	0	
+TG	2365267	Boulevard Eyadema	secondary	1	0	0	
+TG	2365267	Boulevard Félix Houphouët-Boigny	tertiary	1	0	0	
+TG	2365267	Boulevard Général G. Eyadéma	residential	1	0	0	
+TG	2365267	Boulevard Haho	secondary	1	0	0	
+TG	2365267	Boulevard Houphouet Boigny	tertiary	1	0	0	
+TG	2365267	Boulevard Léopold Sédar Senghor	secondary	1	0	0	
+TG	2365267	Boulevard Malfakassa	secondary	1	0	0	
+TG	2365267	Boulevard Malkafassa	secondary	1	0	0	
+TG	2365267	Boulevard Mobutu Sese Seko	tertiary	1	0	0	
+TG	2365267	Boulevard Notre-Dame des Apôtres	tertiary	1	0	0	
+TG	2365267	Boulevard de Lomé II	unclassified	1	0	0	
+TG	2365267	Boulevard de l'Oti	secondary	1	0	0	
+TG	2365267	Boulevard de la Concorde	residential	1	0	0	
+TG	2365267	Boulevard de la Paix	secondary	1	0	0	
+TG	2365267	Boulevard de la Renaissance	residential	1	0	0	
+TG	2365267	Boulevard de la République	residential	1	0	0	
+TG	2365267	Boulevard du Zio	unclassified	1	0	0	
+TG	2365267	Damipi	residential	1	0	0	
+TG	2365267	Dégbo	residential	1	0	0	
+TG	2365267	Edzé	residential	1	0	0	
+TG	2365267	Gagban	residential	1	0	0	
+TG	2365267	Gakpavi	residential	1	0	0	
+TG	2365267	Gbalédzé	residential	1	0	0	
+TG	2365267	Impasse 137BNG	residential	1	0	0	
+TG	2365267	Kpehenou	residential	1	0	0	
+TG	2365267	Kpétséku	residential	1	0	0	
+TG	2365267	Livingstone	residential	1	0	0	
+TG	2365267	Logossou	residential	1	0	0	
+TG	2365267	Major G. Lumor Street	residential	1	0	0	
+TG	2365267	Mangotiers	residential	1	0	0	
+TG	2365267	Martin Luther King	residential	1	0	0	
+TG	2365267	Napoulok	residential	1	0	0	
+TG	2365267	Noepe	residential	1	0	0	
+TG	2365267	Okafou	residential	1	0	0	
+TG	2365267	Place 1ABG	residential	1	0	0	
+TG	2365267	Pr Paul Ayi	residential	1	0	0	
+TG	2365267	Ramsès 2	residential	1	0	0	
+TG	2365267	Rivièra	residential	1	0	0	
+TG	2365267	Ru 115	residential	1	0	0	
+TG	2365267	Rua Frangadoua	residential	1	0	0	
+TG	2365267	Rue	residential	1	0	0	
+TG	2365267	Rue 006	residential	1	0	0	
+TG	2365267	Rue 077 AFG	residential	1	0	0	
+TG	2365267	Rue 08	residential	1	0	0	
+TG	2365267	Rue 102 Bè Kpota	residential	1	0	0	
+TG	2365267	Rue 103.WTK	residential	1	0	0	
+TG	2365267	Rue 105	residential	1	0	0	
+TG	2365267	Rue 11	residential	1	0	0	
+TG	2365267	Rue 110	unclassified	1	0	0	
+TG	2365267	Rue 115	residential	1	0	0	
+TG	2365267	Rue 118	residential	1	0	0	
+TG	2365267	Rue 12	residential	1	0	0	
+TG	2365267	Rue 122.TOT	residential	1	0	0	
+TG	2365267	Rue 123	residential	1	0	0	
+TG	2365267	Rue 125.WTK	residential	1	0	0	
+TG	2365267	Rue 13	residential	1	0	0	
+TG	2365267	Rue 138.TKN	residential	1	0	0	
+TG	2365267	Rue 14	residential	1	0	0	
+TG	2365267	Rue 14 BKP	residential	1	0	0	
+TG	2365267	Rue 142.TKN	residential	1	0	0	
+TG	2365267	Rue 144	residential	1	0	0	
+TG	2365267	Rue 146 AGP	residential	1	0	0	
+TG	2365267	Rue 148	residential	1	0	0	
+TG	2365267	Rue 15	residential	1	0	0	
+TG	2365267	Rue 155 TOT	unclassified	1	0	0	
+TG	2365267	Rue 157 Aflao Gakli	residential	1	0	0	
+TG	2365267	Rue 16	residential	1	0	0	
+TG	2365267	Rue 16 BKP	residential	1	0	0	
+TG	2365267	Rue 16 HDN	residential	1	0	0	
+TG	2365267	Rue 16.AFG	residential	1	0	0	
+TG	2365267	Rue 160 Nyk	residential	1	0	0	
+TG	2365267	Rue 168 AGP	residential	1	0	0	
+TG	2365267	Rue 17	residential	1	0	0	
+TG	2365267	Rue 17. BKK	residential	1	0	0	
+TG	2365267	Rue 172. AFG	residential	1	0	0	
+TG	2365267	Rue 17BNG	residential	1	0	0	
+TG	2365267	Rue 18 HDN	residential	1	0	0	
+TG	2365267	Rue 19	residential	1	0	0	
+TG	2365267	Rue 191 AFG	residential	1	0	0	
+TG	2365267	Rue 1O3 Aflao Gakli	residential	1	0	0	
+TG	2365267	Rue 20	residential	1	0	0	
+TG	2365267	Rue 209	residential	1	0	0	
+TG	2365267	Rue 21BNG	residential	1	0	0	
+TG	2365267	Rue 22	unclassified	1	0	0	
+TG	2365267	Rue 221 Csb	residential	1	0	0	
+TG	2365267	Rue 222	residential	1	0	0	
+TG	2365267	Rue 225	residential	1	0	0	
+TG	2365267	Rue 24	residential	1	0	0	
+TG	2365267	Rue 24 BKP	residential	1	0	0	
+TG	2365267	Rue 25	residential	1	0	0	
+TG	2365267	Rue 253 AGP	residential	1	0	0	
+TG	2365267	Rue 259.AGP	residential	1	0	0	
+TG	2365267	Rue 262. BKK	residential	1	0	0	
+TG	2365267	Rue 28 BKP	residential	1	0	0	
+TG	2365267	Rue 29BNG	residential	1	0	0	
+TG	2365267	Rue 3	residential	1	0	0	
+TG	2365267	Rue 31 AFG	residential	1	0	0	
+TG	2365267	Rue 32 BKP	residential	1	0	0	
+TG	2365267	Rue 35 HDN	residential	1	0	0	
+TG	2365267	Rue 36.AFG	residential	1	0	0	
+TG	2365267	Rue 38 BKP	residential	1	0	0	
+TG	2365267	Rue 4	residential	1	0	0	
+TG	2365267	Rue 4 HDN	residential	1	0	0	
+TG	2365267	Rue 42	residential	1	0	0	
+TG	2365267	Rue 42 Bè	residential	1	0	0	
+TG	2365267	Rue 44	residential	1	0	0	
+TG	2365267	Rue 46	residential	1	0	0	
+TG	2365267	Rue 48	residential	1	0	0	
+TG	2365267	Rue 5	residential	1	0	0	
+TG	2365267	Rue 50	residential	1	0	0	
+TG	2365267	Rue 51	residential	1	0	0	
+TG	2365267	Rue 53.AFG	residential	1	0	0	
+TG	2365267	Rue 58	residential	1	0	0	
+TG	2365267	Rue 6	residential	1	0	0	
+TG	2365267	Rue 61	residential	1	0	0	
+TG	2365267	Rue 62	residential	1	0	0	
+TG	2365267	Rue 63	residential	1	0	0	
+TG	2365267	Rue 63.AFG	residential	1	0	0	
+TG	2365267	Rue 64	residential	1	0	0	
+TG	2365267	Rue 64 BKP	residential	1	0	0	
+TG	2365267	Rue 65	residential	1	0	0	
+TG	2365267	Rue 66	residential	1	0	0	
+TG	2365267	Rue 66 HDN	residential	1	0	0	
+TG	2365267	Rue 67 TKO	residential	1	0	0	
+TG	2365267	Rue 68	residential	1	0	0	
+TG	2365267	Rue 69	residential	1	0	0	
+TG	2365267	Rue 73	residential	1	0	0	
+TG	2365267	Rue 74 BKP	residential	1	0	0	
+TG	2365267	Rue 75	residential	1	0	0	
+TG	2365267	Rue 75 HDN	residential	1	0	0	
+TG	2365267	Rue 77	residential	1	0	0	
+TG	2365267	Rue 79 BKK	residential	1	0	0	
+TG	2365267	Rue 8 BKP	residential	1	0	0	
+TG	2365267	Rue 82	residential	1	0	0	
+TG	2365267	Rue 83	residential	1	0	0	
+TG	2365267	Rue 89	residential	1	0	0	
+TG	2365267	Rue 89 AFG	residential	1	0	0	
+TG	2365267	Rue 9	residential	1	0	0	
+TG	2365267	Rue 91.AFG	residential	1	0	0	
+TG	2365267	Rue 93	residential	1	0	0	
+TG	2365267	Rue 94	residential	1	0	0	
+TG	2365267	Rue 96 HDN	residential	1	0	0	
+TG	2365267	Rue 99.AFG	residential	1	0	0	
+TG	2365267	Rue ALOBALO 84 BKP	residential	1	0	0	
+TG	2365267	Rue ANIWA 12 BKP	residential	1	0	0	
+TG	2365267	Rue Abatchang (3KOD)	residential	1	0	0	
+TG	2365267	Rue Abloda	residential	1	0	0	
+TG	2365267	Rue Ablodé	residential	1	0	0	
+TG	2365267	Rue Ablomé	residential	1	0	0	
+TG	2365267	Rue Aboudou	residential	1	0	0	
+TG	2365267	Rue Abougou	residential	1	0	0	
+TG	2365267	Rue Abélonétimé	residential	1	0	0	
+TG	2365267	Rue Adabaweré	residential	1	0	0	
+TG	2365267	Rue Adalan	residential	1	0	0	
+TG	2365267	Rue Adama	residential	1	0	0	
+TG	2365267	Rue Adame	residential	1	0	0	
+TG	2365267	Rue Adekala	residential	1	0	0	
+TG	2365267	Rue Adido	residential	1	0	0	
+TG	2365267	Rue Adidome	residential	1	0	0	
+TG	2365267	Rue Adja	residential	1	0	0	
+TG	2365267	Rue Adjaba	residential	1	0	0	
+TG	2365267	Rue Adjantala	residential	1	0	0	
+TG	2365267	Rue Adjoyi	residential	1	0	0	
+TG	2365267	Rue Adjrego	residential	1	0	0	
+TG	2365267	Rue Adétan	residential	1	0	0	
+TG	2365267	Rue Afanyékossou	residential	1	0	0	
+TG	2365267	Rue Agbadomé	residential	1	0	0	
+TG	2365267	Rue Agbalé	residential	1	0	0	
+TG	2365267	Rue Agbanta	residential	1	0	0	
+TG	2365267	Rue Agbata	residential	1	0	0	
+TG	2365267	Rue Agbessia	residential	1	0	0	
+TG	2365267	Rue Agbowada	residential	1	0	0	
+TG	2365267	Rue Agbélénuku	residential	1	0	0	
+TG	2365267	Rue Agbélésséshie	residential	1	0	0	
+TG	2365267	Rue Agbémo	residential	1	0	0	
+TG	2365267	Rue Agnarim	residential	1	0	0	
+TG	2365267	Rue Agnogno	residential	1	0	0	
+TG	2365267	Rue Agodja	residential	1	0	0	
+TG	2365267	Rue Agodogblé	residential	1	0	0	
+TG	2365267	Rue Agopedo	residential	1	0	0	
+TG	2365267	Rue Agoti	residential	1	0	0	
+TG	2365267	Rue Agoucon	residential	1	0	0	
+TG	2365267	Rue Agouma	residential	1	0	0	
+TG	2365267	Rue Agouzou	residential	1	0	0	
+TG	2365267	Rue Agoviépé	residential	1	0	0	
+TG	2365267	Rue Aguiakome	residential	1	0	0	
+TG	2365267	Rue Ahadji	residential	1	0	0	
+TG	2365267	Rue Ahaye	residential	1	0	0	
+TG	2365267	Rue Ahepe	residential	1	0	0	
+TG	2365267	Rue Akadjamé	residential	1	0	0	
+TG	2365267	Rue Akara	residential	1	0	0	
+TG	2365267	Rue Akata	residential	1	0	0	
+TG	2365267	Rue Akonda	residential	1	0	0	
+TG	2365267	Rue Akoumahou	residential	1	0	0	
+TG	2365267	Rue Akoumpé	residential	1	0	0	
+TG	2365267	Rue Akpave	residential	1	0	0	
+TG	2365267	Rue Alaba	residential	1	0	0	
+TG	2365267	Rue Alize	residential	1	0	0	
+TG	2365267	Rue Aluna	residential	1	0	0	
+TG	2365267	Rue Alédjo	residential	1	0	0	
+TG	2365267	Rue Amayide	residential	1	0	0	
+TG	2365267	Rue Amedzope	residential	1	0	0	
+TG	2365267	Rue Amoussimé	residential	1	0	0	
+TG	2365267	Rue Amouti	residential	1	0	0	
+TG	2365267	Rue Améganhovoin	residential	1	0	0	
+TG	2365267	Rue Amémakalébla	residential	1	0	0	
+TG	2365267	Rue Amézian	residential	1	0	0	
+TG	2365267	Rue Anamagne	residential	1	0	0	
+TG	2365267	Rue Aneboussou	residential	1	0	0	
+TG	2365267	Rue Aoutchou	residential	1	0	0	
+TG	2365267	Rue Apati-Bassah	residential	1	0	0	
+TG	2365267	Rue Apounoukpa	residential	1	0	0	
+TG	2365267	Rue Arc-en-ciel	residential	1	0	0	
+TG	2365267	Rue Assahoun	residential	1	0	0	
+TG	2365267	Rue Assassa	residential	1	0	0	
+TG	2365267	Rue Assere	residential	1	0	0	
+TG	2365267	Rue Assigo	residential	1	0	0	
+TG	2365267	Rue Assiman	residential	1	0	0	
+TG	2365267	Rue Assimata	residential	1	0	0	
+TG	2365267	Rue Ataloté	residential	1	0	0	
+TG	2365267	Rue Atetemeny	residential	1	0	0	
+TG	2365267	Rue Atikem	residential	1	0	0	
+TG	2365267	Rue Atoeta	residential	1	0	0	
+TG	2365267	Rue Attikpa	residential	1	0	0	
+TG	2365267	Rue Attitogon	residential	1	0	0	
+TG	2365267	Rue Avatimé	residential	1	0	0	
+TG	2365267	Rue Aveninou	residential	1	0	0	
+TG	2365267	Rue Avladinu	residential	1	0	0	
+TG	2365267	Rue Avotor	residential	1	0	0	
+TG	2365267	Rue Avévénou	residential	1	0	0	
+TG	2365267	Rue Awiya	residential	1	0	0	
+TG	2365267	Rue Awouliga	residential	1	0	0	
+TG	2365267	Rue Ayaja	residential	1	0	0	
+TG	2365267	Rue Ayakape	residential	1	0	0	
+TG	2365267	Rue Aza	residential	1	0	0	
+TG	2365267	Rue Aziatalakpa	residential	1	0	0	
+TG	2365267	Rue Azigo	residential	1	0	0	
+TG	2365267	Rue Azolé	residential	1	0	0	
+TG	2365267	Rue B2	primary	1	0	0	
+TG	2365267	Rue Badjenope 258.BKK	residential	1	0	0	
+TG	2365267	Rue Badjénopé	residential	1	0	0	
+TG	2365267	Rue Bafilo	residential	1	0	0	
+TG	2365267	Rue Bagbé	residential	1	0	0	
+TG	2365267	Rue Bago	residential	1	0	0	
+TG	2365267	Rue Baka	residential	1	0	0	
+TG	2365267	Rue Bakpaya	residential	1	0	0	
+TG	2365267	Rue Balaine	residential	1	0	0	
+TG	2365267	Rue Bassar	residential	1	0	0	
+TG	2365267	Rue Batemoni	residential	1	0	0	
+TG	2365267	Rue Bebeme	residential	1	0	0	
+TG	2365267	Rue Bekpo	residential	1	0	0	
+TG	2365267	Rue Benali	residential	1	0	0	
+TG	2365267	Rue Bersissan	residential	1	0	0	
+TG	2365267	Rue Bethel	residential	1	0	0	
+TG	2365267	Rue Bidenga	residential	1	0	0	
+TG	2365267	Rue Bidjanga	residential	1	0	0	
+TG	2365267	Rue Bigadou	residential	1	0	0	
+TG	2365267	Rue Bikotiba	residential	1	0	0	
+TG	2365267	Rue Binako	residential	1	0	0	
+TG	2365267	Rue Bingla	residential	1	0	0	
+TG	2365267	Rue Bistrot	residential	1	0	0	
+TG	2365267	Rue Blitta	residential	1	0	0	
+TG	2365267	Rue Bléwussinyalé	residential	1	0	0	
+TG	2365267	Rue Boccovi	residential	1	0	0	
+TG	2365267	Rue Bombare	residential	1	0	0	
+TG	2365267	Rue Bombouaka	residential	1	0	0	
+TG	2365267	Rue Bontourga	residential	1	0	0	
+TG	2365267	Rue Boueme	residential	1	0	0	
+TG	2365267	Rue Boukarou	residential	1	0	0	
+TG	2365267	Rue Boulade	residential	1	0	0	
+TG	2365267	Rue Buamé	residential	1	0	0	
+TG	2365267	Rue Bè Kponou	residential	1	0	0	
+TG	2365267	Rue Bè Kpota 108 BKP	residential	1	0	0	
+TG	2365267	Rue Cacaveli	residential	1	0	0	
+TG	2365267	Rue Cactome	residential	1	0	0	
+TG	2365267	Rue Cadre	residential	1	0	0	
+TG	2365267	Rue Café Cacao	residential	1	0	0	
+TG	2365267	Rue Cantine de l'Aéroport	secondary	1	0	0	
+TG	2365267	Rue Charité	residential	1	0	0	
+TG	2365267	Rue Cinkassé	residential	1	0	0	
+TG	2365267	Rue Commandant Domis	unclassified	1	0	0	
+TG	2365267	Rue Dagbari	residential	1	0	0	
+TG	2365267	Rue Dalime	residential	1	0	0	
+TG	2365267	Rue Dalinga	residential	1	0	0	
+TG	2365267	Rue Dankuku	residential	1	0	0	
+TG	2365267	Rue Dantcho	residential	1	0	0	
+TG	2365267	Rue Dassiamime	residential	1	0	0	
+TG	2365267	Rue Davie	residential	1	0	0	
+TG	2365267	Rue Debaya	residential	1	0	0	
+TG	2365267	Rue Dedemeli	residential	1	0	0	
+TG	2365267	Rue Dedjiwa	residential	1	0	0	
+TG	2365267	Rue Dekpo	residential	1	0	0	
+TG	2365267	Rue Delta	residential	1	0	0	
+TG	2365267	Rue Des Tsiviepe	residential	1	0	0	
+TG	2365267	Rue Detigome	residential	1	0	0	
+TG	2365267	Rue Deuxième Passage des Boeufs	unclassified	1	0	0	
+TG	2365267	Rue Diakonga	residential	1	0	0	
+TG	2365267	Rue Dilabiri	residential	1	0	0	
+TG	2365267	Rue Dissi	residential	1	0	0	
+TG	2365267	Rue Djabataouve	residential	1	0	0	
+TG	2365267	Rue Djabir	residential	1	0	0	
+TG	2365267	Rue Djadoo	residential	1	0	0	
+TG	2365267	Rue Djama	residential	1	0	0	
+TG	2365267	Rue Djamoé	residential	1	0	0	
+TG	2365267	Rue Djankasso	residential	1	0	0	
+TG	2365267	Rue Djapotado. 19.BKK	residential	1	0	0	
+TG	2365267	Rue Djariwa	tertiary	1	0	0	
+TG	2365267	Rue Djaveme 21. BKK	residential	1	0	0	
+TG	2365267	Rue Djigbonde	residential	1	0	0	
+TG	2365267	Rue Djimbiri	residential	1	0	0	
+TG	2365267	Rue Djodji	residential	1	0	0	
+TG	2365267	Rue Djoma	residential	1	0	0	
+TG	2365267	Rue Djossi	residential	1	0	0	
+TG	2365267	Rue Djouka	residential	1	0	0	
+TG	2365267	Rue Doe Bruce	residential	1	0	0	
+TG	2365267	Rue Dogbeavou	residential	1	0	0	
+TG	2365267	Rue Doké	residential	1	0	0	
+TG	2365267	Rue Doufelgou	residential	1	0	0	
+TG	2365267	Rue Doufouli	residential	1	0	0	
+TG	2365267	Rue Doute	residential	1	0	0	
+TG	2365267	Rue Douyoyo	residential	1	0	0	
+TG	2365267	Rue Drafor	residential	1	0	0	
+TG	2365267	Rue Dyire	residential	1	0	0	
+TG	2365267	Rue Dzidodo	residential	1	0	0	
+TG	2365267	Rue Dzidzedze	residential	1	0	0	
+TG	2365267	Rue Dzidzo	residential	1	0	0	
+TG	2365267	Rue Dziédzom	residential	1	0	0	
+TG	2365267	Rue Dzodzoé	residential	1	0	0	
+TG	2365267	Rue Dzogbedzl	residential	1	0	0	
+TG	2365267	Rue Dzogbegan	residential	1	0	0	
+TG	2365267	Rue Défalé	unclassified	1	0	0	
+TG	2365267	Rue Dévi. 260. BKK	residential	1	0	0	
+TG	2365267	Rue Edzenunye	residential	1	0	0	
+TG	2365267	Rue Ekpon	residential	1	0	0	
+TG	2365267	Rue Elevagno	residential	1	0	0	
+TG	2365267	Rue Elimde	residential	1	0	0	
+TG	2365267	Rue Elou	residential	1	0	0	
+TG	2365267	Rue Fiagbo	residential	1	0	0	
+TG	2365267	Rue Filandi	residential	1	0	0	
+TG	2365267	Rue Fiomékou	residential	1	0	0	
+TG	2365267	Rue Flamants	residential	1	0	0	
+TG	2365267	Rue Flanmini	residential	1	0	0	
+TG	2365267	Rue Flelouvé	residential	1	0	0	
+TG	2365267	Rue Foukote	residential	1	0	0	
+TG	2365267	Rue Galangashis	residential	1	0	0	
+TG	2365560	Ho - Kpalimé	secondary	1	0	0	
+TG	2365560	Kpalimé - Atakpamé	residential	1	0	0	
+TG	2365560	N5	primary	1	0	0	
+TG	2365560	RN5	primary	1	0	0	
+TG	2365560	Route Lomé - Kpalimé	primary	1	0	0	
+TG	2365560	Route de Missahoe	secondary	1	0	0	
+TG	2365560	Rue Texaco-Bakula	unclassified	1	0	0	
+TG	2365560	Rue de 20m	tertiary	1	0	0	
+TG	2365560	Rue de l'École Primaire	residential	1	0	0	
+TG	2365560	Rue de la Cathédrale	residential	1	0	0	
+TG	2365560	Rue des Aulacodes	unclassified	1	0	0	
+TG	2365560	Rue des Cocotiers	residential	1	0	0	
+TG	2365560	Rue du 13 Janvier	unclassified	1	0	0	
+TG	2365560	Rue du 24 Janvier	unclassified	1	0	0	
+TG	2365560	Rue du Cimetière	residential	1	0	0	
+TG	2365560	Rue du Commerce	unclassified	1	0	0	
+TG	2365560	Rue du Grand Marché	unclassified	1	0	0	
+TG	2365560	Rue du Monument aux morts	residential	1	0	0	
+TG	2365560	Rue du Père Stanislas Caban L.	residential	1	0	0	
+TG	2365560	Rue du Stade	residential	1	0	0	
+TG	2366041	Route Lomé - Kpalimé	primary	1	0	0	
+TG	2366041	Rue	residential	1	0	0	
+TG	2366041	Rue Adjampédomé	residential	1	0	0	
+TG	2366041	Rue Zoland Daniel	residential	1	0	0	
+TG	2366152	Avenue du 13 Janvier	residential	1	0	0	
+TG	2366152	Avenue du 23 Septembre	secondary	1	0	0	
+TG	2366152	Avenue du Général Gnassingbé Eyadéma	secondary	1	0	0	
+TG	2366152	Avenue du Marché	unclassified	1	0	0	
+TG	2366152	Place de la Victoire	secondary	1	0	0	
+TG	2366152	Pont Catin	residential	1	0	0	
+TG	2366152	Pont Prince	residential	1	0	0	
+TG	2366152	Pont de Koayelelele	secondary	1	0	0	
+TG	2366152	Pont de la CEB	secondary	1	0	0	
+TG	2366152	Route d'Agbang	secondary	1	0	0	
+TG	2366152	Route de Kara - Kétao	primary	1	0	0	
+TG	2366152	Route de l'Université de Kara (Campus - Sud)	secondary	1	0	0	
+TG	2366152	Route de la CEB	secondary	1	0	0	
+TG	2366168	Rocade Sud-Est	tertiary	1	0	0	
+TG	2367164	Avenue Centrale	secondary	1	0	0	
+TG	2367164	Avenue du Lycée	secondary	1	0	0	
+TG	2367164	Boulevard de l'Indépendance	residential	1	0	0	
+TG	2367164	Route de Koni	tertiary	1	0	0	
+TG	2367164	Rue de l'Hôpital	residential	1	0	0	
+TG	2367164	Rue de l'École Primaire	residential	1	0	0	
+TG	2367164	Rue de l'Église	unclassified	1	0	0	
+TG	2367164	Rue de la Cathédrale	residential	1	0	0	
+TG	2367164	Rue de la Mairie	residential	1	0	0	
+TG	2367164	Rue de la Mosquée Centrale	residential	1	0	0	
+TG	2367164	Rue de la Paroisse	residential	1	0	0	
+TG	2367164	Rue de la Station	residential	1	0	0	
+TG	2367164	Rue du Marché	residential	1	0	0	
+TG	2367164	Rue du Musée	residential	1	0	0	
+TG	2367164	Rue du Stade	residential	1	0	0	
+TG	2367886	Avenue de la Libération	primary	1	0	0	
+TG	2367886	Kpalimé - Atakpamé	primary	1	0	0	
+TG	2367886	Route Atakpamé - Nangbéto	secondary	1	0	0	
+TG	2367886	Rue Nicolas Grunitzki	unclassified	1	0	0	
+TG	2367886	Rue Pietonne	residential	1	0	0	
+TG	2367886	Rue du Collège	residential	1	0	0	
+TG	2367886	Rue du Commerce	primary	1	0	0	
+TG	2367886	Rue du Grand Marché	unclassified	1	0	0	
+TG	2367886	Rue du Lomé	primary	1	0	0	
+TG	2367886	Voie ferrée Agbonou-Atakpamé	residential	1	0	0	
+TG	2367990	Route Aneho - Tabligbo	secondary	1	0	0	
+TG	2367990	Rue Nana Ohinko Quamdessou XIV	residential	1	0	0	
+TG	2368035	Kpalimé - Atakpamé	primary	1	0	0	
+TG	2368301	Route Kpalimé - Notsé	secondary	1	0	0	
+TG	2368301	Route d'Atigbe Dzogbefeme	unclassified	1	0	0	
+TG	2368574	Kpalimé - Atakpamé	primary	1	0	0	

@@ -1,0 +1,508 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+GF	3380169	Rue des Ananas	residential	39	3	83	
+GF	3380169	Rue Fortuné Courat	residential	21	4	24	
+GF	3380169	Rue des Brunes	residential	11	4	1025	
+GF	3380169	Rue des Acérolas	residential	10	1	19	
+GF	3380169	Rue Salazie	residential	5	985	1240	
+GF	3380169	Rue Élie Azor	residential	4	1	9	
+GF	3380169	Avenue Justin Catayée	residential	3	64	70	
+GF	3380169	Route Nationale 1	primary	3	3	15	
+GF	3380169	Avenue de la Césarée	unclassified	2	2660	2805	
+GF	3380169	Allée du Filao	residential	1	0	0	
+GF	3380169	Allée du Fromager	residential	1	0	0	
+GF	3380169	Allée du Jardin Tropical	residential	1	0	0	
+GF	3380290	Rue Danu Sastro	residential	23	8	33	
+GF	3380290	Route de la Pointe Combi	unclassified	2	0	0	
+GF	3380290	Rue de l'Aigle	residential	2	40	40	
+GF	3380290	Avenue Constantin Verderosa	residential	1	0	0	
+GF	3380290	Avenue Elie Castor	unclassified	1	0	0	
+GF	3380290	Boulevard Bonose Vernet	residential	1	0	0	
+GF	3380290	Boulevard François Horth	residential	1	0	0	
+GF	3380290	Impasse Anselme Garré	residential	1	0	0	
+GF	3380290	Impasse Orchidée	residential	1	0	0	
+GF	3380290	Piste de la Crique Toussaint	unclassified	1	0	0	
+GF	3380290	Pont de Mme de Maintenon	unclassified	1	0	0	
+GF	3380290	Ront-Point de Sinnamary	primary	1	0	0	
+GF	3380387	Allée des Hirondelles	residential	23	2	27	
+GF	3380387	Rue de la Martinique	residential	23	2	22	
+GF	3380387	Rue Daniel-gaston Darquitain		22	2	26	
+GF	3380387	Rue Katoury	residential	22	2	36	
+GF	3380387	Rue du Tapir	residential	22	2	21	
+GF	3380387	Allée du Courage	residential	21	2	31	
+GF	3380387	Allée Coswine	residential	20	1	20	
+GF	3380387	Rue Joseph Croisan	residential	20	1	27	
+GF	3380387	Allée du Défi	residential	17	1	20	
+GF	3380387	Impasse Pinta	residential	17	1	21	
+GF	3380387	Rue Palometa	residential	17	1	18	
+GF	3380387	Allée Eucalyptus	residential	16	1	16	
+GF	3380387	Allée Jean Paul Sartre	residential	16	1	16	
+GF	3380387	Allée Patawa	residential	16	1	16	
+GF	3380387	Boulevard Malouet	residential	16	2	26	
+GF	3380387	Rue Thazard	residential	16	1	16	
+GF	3380387	Allée George Sand	residential	15	1	19	
+GF	3380387	Allée des Glycerias	residential	15	1	21	
+GF	3380387	Allée des Ibis	residential	15	1	18	
+GF	3380387	Rue Docteur Horth	residential	15	1	16	
+GF	3380387	Rue des Tamarins	residential	15	1	19	
+GF	3380387	Allée Surette	residential	14	1	14	
+GF	3380387	Allée des Astéracées	residential	14	1	14	
+GF	3380387	Allée des Pipéracées	residential	14	1	14	
+GF	3380387	Rue Suzanne Amomba	residential	14	1	14	
+GF	3380387	Rue des Wassaïs	residential	14	1	16	
+GF	3380387	Allée Belimbi	residential	13	1	17	
+GF	3380387	Allée des Hortensias	residential	13	1	13	
+GF	3380387	Impasse Marie Alice	residential	13	1	18	
+GF	3380387	Rue des Sapotilles	residential	13	1	14	
+GF	3380387	Allée Paoline	residential	12	1	15	
+GF	3380387	Allée Verveine	residential	11	1	11	
+GF	3380387	Rue du Bac	tertiary	11	3	25	
+GF	3380387	Rue du Lieutenant-Colonel Chandon	residential	11	4	38	
+GF	3380387	Allée des Hoccos	residential	9	2	18	
+GF	3380387	Allée des Violacées	residential	9	1	16	
+GF	3380387	Impasse Saïmiri	residential	9	1	12	
+GF	3380387	Impasse Manicou	residential	8	23	30	
+GF	3380387	Impasse des Picolettes	residential	8	1	8	
+GF	3380387	Impasse du Jaguar	residential	8	31	38	
+GF	3380387	Rue des Sapotacées	residential	7	1	16	
+GF	3380387	Allée Alexandre Dumas	residential	6	1	7	
+GF	3380387	Avenue Félix Éboué	residential	5	2	18	
+GF	3380387	Allée du Lac Bleu	tertiary	4	51	51	
+GF	3380387	Allée du crépuscule	residential	4	1	7	
+GF	3380387	Route de Saint-Maurice	tertiary	4	17	87	
+GF	3380387	Allée des Frégates	residential	3	1	3	
+GF	3380387	Esplanade Laurent Baudin		3	1	1	
+GF	3380402	Rue Alphonse Gueye	residential	36	3	44	
+GF	3380402	Rue Jean Cédia	residential	34	3	48	
+GF	3380402	Rue Éleuthère Carême	residential	32	2	31	
+GF	3380402	Rue Millienne Mande	residential	28	2	30	
+GF	3380402	Rue Léonard Mandé	residential	22	14	50	
+GF	3380402	Rue Maurice Sparce	residential	14	2	26	
+GF	3380402	Rue Henry Sulny	residential	13	1	16	
+GF	3380402	Rue Élie Elfort	residential	13	2	25	
+GF	3380402	Rue Laurence Onozo	residential	9	12	39	
+GF	3380402	Rue Édouard Carafe	residential	4	1	11	
+GF	3380402	Poste de Contrôle Frontalier de Pointe Morne		2	3	3	
+GF	3380402	Avenida Barão do Rio Branco	residential	1	0	0	
+GF	3380450	Avenue Félix Éboué	tertiary	28	4	40	
+GF	3380450	Rue Principale	residential	24	230	2755	
+GF	3380450	Route de Kaw	tertiary	23	18	289	
+GF	3380450	Rue du Calvaire	tertiary	18	5	44	
+GF	3380450	Rue Martin Luther King	residential	16	6	32	
+GF	3380450	Impasse des Arouares	residential	14	2	25	
+GF	3380450	Rue Antoine et Gabriel Léveillé	residential	14	1	17	
+GF	3380450	Rue Janmen Gouté	residential	14	48	618	
+GF	3380450	Rue Kouman Kouman	residential	13	543	1674	
+GF	3380450	Avenue Edmée-Georges Labrador	residential	12	3	26	
+GF	3380450	Rue de la Comté		12	149	1356	
+GF	3380450	Rue Jeanne Pindard	residential	11	1	15	
+GF	3380520	Impasse des Alizés	residential	70	4	117	
+GF	3380520	Rue des Surettes	residential	39	2	29	
+GF	3380520	Rue des Ramiers	residential	29	2	30	
+GF	3380520	Rue Victor Ceide	residential	26	3	30	
+GF	3380520	Avenue Gaston Monnerville	secondary	24	32	613	
+GF	3380520	Rue Léonce Porré	residential	23	2	31	
+GF	3380520	Rue Robert Adami	residential	20	1	29	
+GF	3380520	Impasse des Zagrinettes	residential	19	2	22	
+GF	3380520	Impasse Élie Marie-Rose	residential	16	1	25	
+GF	3380520	Rue des Tourterelles	residential	16	1	20	
+GF	3380520	Rue Émile Lanou	residential	15	3	30	
+GF	3380520	Impasse Cincinat	residential	13	1	14	
+GF	3380523	Impasse Montouny	residential	1	0	0	
+GF	3380523	Impasse Parépou	residential	1	0	0	
+GF	3380523	Lotissement Corossony	residential	1	0	0	
+GF	3380523	Pont de Régina	primary	1	0	0	
+GF	3380523	Route de Régina	tertiary	1	0	0	
+GF	3380523	Route de l'Est	primary	1	0	0	
+GF	3380523	Rue Alcindor	residential	1	0	0	
+GF	3380523	Rue Aubin Laigner,	residential	1	0	0	
+GF	3380523	Rue Casimir Séraphin	residential	1	0	0	
+GF	3380523	Rue Chung Ming	residential	1	0	0	
+GF	3380523	Rue Clémencin Neron	residential	1	0	0	
+GF	3380523	Rue Edmard Sebaste	residential	1	0	0	
+GF	3380892	Route de Montjoly	secondary	68	300	2171	
+GF	3380892	Impasse des Alizés	residential	50	31	108	
+GF	3380892	Route de Rémire	secondary	42	469	2561	
+GF	3380892	Avenue Augustin Saint-Cyr	residential	40	2	40	
+GF	3380892	Rue des Épices	residential	39	1	37	
+GF	3380892	Avenue Saint-Ange Méthon	residential	33	120	665	
+GF	3380892	Avenue du Soleil	residential	33	2	31	
+GF	3380892	Rue Bois Boco	residential	33	47	113	
+GF	3380892	Rue René Maran	residential	32	2	31	
+GF	3380892	Rue des Olivettes	residential	32	2	27	
+GF	3380892	Rue des Aigrettes	residential	31	2	52	
+GF	3380892	Rue des Morphos	residential	30	2	30	
+GF	3380892	Avenue des Plages	residential	29	3	28	
+GF	3380892	Rue des Pluviers	residential	29	2	29	
+GF	3380892	Rue Raoul Homat	residential	28	4	34	
+GF	3380892	Rue des Amaryllis	residential	28	2	36	
+GF	3380892	Rue Bois Jaboti	residential	26	15	52	
+GF	3380892	Rue Henri Condesalazar	residential	26	2	29	
+GF	3380892	Rue Rizophora	residential	26	6	30	
+GF	3380892	Rue Bois de Rose	residential	25	2	156	
+GF	3380892	Rue des Ramboutans	residential	25	2	29	
+GF	3380892	Avenue Doctoré Moges	residential	24	12	37	
+GF	3380892	Route des Plages	tertiary	23	110	5900	
+GF	3380892	Rue Basilic	residential	23	2	26	
+GF	3380892	Rue du Vizou	residential	22	2	21	
+GF	3380892	Avenue Saint-Dominique	residential	21	4	77	
+GF	3380892	Rue Félix Éboué	residential	21	3	39	
+GF	3380892	Rue Georges Prévot	residential	21	10	29	
+GF	3380892	Rue Wacapou	residential	21	2	24	
+GF	3380892	Rue des Palétuviers Rouges	residential	21	2	27	
+GF	3380892	Avenue des Champs Élysées		20	15	45	
+GF	3380892	Rue Pinot	residential	20	5	34	
+GF	3380892	Rue de L'Oyak	residential	20	1	20	
+GF	3380892	Rue des Pommes Cannelles	residential	20	1	37	
+GF	3380892	Rue du Vieux Pont		20	1	22	
+GF	3380892	Allée Diocléa	residential	19	36	56	
+GF	3380892	Rue Gros Thym	residential	19	7	37	
+GF	3380892	Rue Régine Horth	residential	19	1	27	
+GF	3380892	Allée Espéranza	residential	18	2	38	
+GF	3380892	Impasse des Avicennias	residential	18	1	19	
+GF	3380892	Rue de la Rose des Vents	residential	18	1	21	
+GF	3380892	Chemin Constant Chlore	residential	17	21	636	
+GF	3380892	Rue Kaymit	residential	17	2	14	
+GF	3380892	Rue des Résédas	residential	17	3	29	
+GF	3380892	Rue du Vieux Chemin	residential	17	1	27	
+GF	3380892	Avenue Louis Caristan	residential	16	3	50	
+GF	3380892	Rue Ti Garden	residential	16	1	16	
+GF	3380892	Impasse la Source	residential	15	1	16	
+GF	3380965	Rue de la Canneraie	residential	65	29	836	
+GF	3380965	Rue Gabriel Chaumier	residential	63	4	69	
+GF	3380965	Rue Pakousi	residential	56	3	54	
+GF	3380965	Rue de la Fermentation	residential	41	3	39	
+GF	3380965	Chemin Bégonia	residential	36	40	855	
+GF	3380965	Rue Parépou	residential	35	2	83	
+GF	3380965	Rue Wacapou	residential	34	2	38	
+GF	3380965	Rue des Orchidées	residential	32	2	40	
+GF	3380965	Chemin de la Désirée	residential	29	287	1840	
+GF	3380965	Impasse des Aciotis	residential	29	3	49	
+GF	3380965	Route de la Distillerie	tertiary	29	300	841	
+GF	3380965	Rue des Nivrées	residential	29	10	39	
+GF	3380965	Chemin de la Levée	tertiary	28	115	2815	
+GF	3380965	Rue Elsa Tokoro	residential	28	85	535	
+GF	3380965	Chemin Mélisse	residential	27	143	499	
+GF	3380965	Rue Counannan	residential	27	3	36	
+GF	3380965	Rue Karambol	residential	26	2	36	
+GF	3380965	Rue des Cocotiers	residential	26	4	33	
+GF	3380965	Rue des Émérillons	residential	26	2	30	
+GF	3380965	Rue Ébène Verte	residential	26	3	34	
+GF	3380965	Rue Basilic	residential	25	135	955	
+GF	3380965	Rue des Trois Fleuves	residential	25	2	30	
+GF	3380965	Rue du Palmier Royal	residential	25	4	29	
+GF	3380965	Avenue des Bougainvilliers	residential	24	2	26	
+GF	3380965	Impasse Djek	residential	24	2	23	
+GF	3380965	Rue Case en Paille	residential	24	2	30	
+GF	3380965	Rue Saint-Johns	residential	24	3	25	
+GF	3380965	Allée Saint-Michel	residential	23	18	44	
+GF	3380965	Rue Gaston Monnerville	residential	23	2	22	
+GF	3380965	Rue Joseph Belony	residential	23	23	385	
+GF	3380965	Rue Zan'Ma	residential	23	6	36	
+GF	3380965	Rue Victor Schoelcher	residential	22	6	25	
+GF	3380965	Chemin Morthium	tertiary	21	24	1505	
+GF	3380965	Chemin Pavao	residential	21	2	15	
+GF	3380965	Rue Awara Dende	residential	21	3	32	
+GF	3380965	Rue Bernard Inglis		20	500	1505	
+GF	3380965	Rue des Pervenches	residential	20	2	27	
+GF	3380965	Rue des Yanomamis	residential	20	1	22	
+GF	3380965	Avenue Félix Éboué	residential	19	14	157	
+GF	3380965	Impasse Kunana	residential	19	1	21	
+GF	3380965	Impasse des Liqueurs	residential	19	5	26	
+GF	3380965	Rue de la Cabresse	residential	18	1	27	
+GF	3380965	Rue des Maracudja	residential	18	3	27	
+GF	3380965	Impasse Louis Lancet	residential	17	1	23	
+GF	3380965	Rue Alain Danglades	residential	17	1	18	
+GF	3380965	Rue Koupe Kann	residential	17	3	26	
+GF	3380965	Rue Léon Gontran Damas	residential	17	1	16	
+GF	3380965	Rue Victor Ceide	residential	17	1	34	
+GF	3380994	Avenue Léonard Domerger	tertiary	1	0	0	
+GF	3380994	Avenue de l'Adjudant Saboly	residential	1	0	0	
+GF	3380994	Avenue des Émerillons	residential	1	0	0	
+GF	3380994	Chemin du Bon Accueil	residential	1	0	0	
+GF	3380994	Impasse Adami	residential	1	0	0	
+GF	3380994	Impasse Agossou	residential	1	0	0	
+GF	3380994	Impasse Alexis Jonas	residential	1	0	0	
+GF	3380994	Impasse Anelli Adolphe	residential	1	0	0	
+GF	3380994	Impasse Daouda	residential	1	0	0	
+GF	3380994	Impasse Lamonaie	residential	1	0	0	
+GF	3380994	Impasse Mayaou Aloïke	residential	1	0	0	
+GF	3380994	Impasse Ouané	residential	1	0	0	
+GF	3380994	Impasse Paiké	residential	1	0	0	
+GF	3380994	Impasse Paripou	residential	1	0	0	
+GF	3380994	Impasse Picolette	residential	1	0	0	
+GF	3380994	Impasse de la Battée	residential	1	0	0	
+GF	3380994	Impasse des Polissoirs	residential	1	0	0	
+GF	3380994	Impasse des Tembés	residential	1	0	0	
+GF	3380994	Passage Vignon	residential	1	0	0	
+GF	3380994	Piste Sophie	residential	1	0	0	
+GF	3380994	Piste de Papaichton	unclassified	1	0	0	
+GF	3380994	Promenade du Lawa	residential	1	0	0	
+GF	3380994	Route Lucien Vauchel	tertiary	1	0	0	
+GF	3380994	Route Machine	residential	1	0	0	
+GF	3381041	Rue Berville Gazel	tertiary	4	21	34	
+GF	3381041	Rue Javouhey	residential	3	4	36	
+GF	3381041	Avenue Paule Berthelot	tertiary	2	495	565	
+GF	3381041	Rue des Frères	tertiary	2	55	57	
+GF	3381041	Ancienne Route du Bac	residential	1	0	0	
+GF	3381041	Avenue André Cayrou	residential	1	0	0	
+GF	3381041	Avenue Eugène Lespérant	tertiary	1	0	0	
+GF	3381041	Avenue Jean Casaux	tertiary	1	0	0	
+GF	3381041	Avenue René Jadfard	residential	1	0	0	
+GF	3381041	Boulevard Sicart	residential	1	0	0	
+GF	3381041	Rue Adrien Sabas	residential	1	0	0	
+GF	3381041	Rue Albert Lévy	residential	1	0	0	
+GF	3381041	Rue Amarante Colitin	residential	1	0	0	
+GF	3381041	Rue Antoine François	residential	1	0	0	
+GF	3381041	Rue Armand Alphonse	residential	1	0	0	
+GF	3381041	Rue Aurélien Attrée	residential	1	0	0	
+GF	3381041	Rue Bernard Pavant	residential	1	0	0	
+GF	3381041	Rue Bruno Aubert	residential	1	0	0	
+GF	3381041	Rue Camille Clovis	residential	1	0	0	
+GF	3381041	Rue Claude Jadfard	residential	1	0	0	
+GF	3381041	Rue Edgard Othily	residential	1	0	0	
+GF	3381041	Rue Eliot	residential	1	0	0	
+GF	3381041	Rue Ernest Achille	residential	1	0	0	
+GF	3381041	Rue Jean-Baptiste Lieutenant	residential	1	0	0	
+GF	3381117	Avenue Pripri Soula	tertiary	89	5	66	
+GF	3381117	Rue Chawari	residential	60	5	66	
+GF	3381117	Rue de la Mataroni	residential	50	3	51	
+GF	3381117	Rue Courbaril	residential	49	3	54	
+GF	3381117	Rue de la Comté	residential	48	1	41	
+GF	3381117	Rue des Awaras	residential	40	1	40	
+GF	3381117	Avenue du Domaine de Soula	tertiary	39	3	40	
+GF	3381117	Rue Cousou	residential	39	2	40	
+GF	3381117	Rue Jaune d'Œuf	residential	38	2	42	
+GF	3381117	Rue Mombin	residential	38	1	50	
+GF	3381117	Rue des Mille Fleurs	residential	37	2	61	
+GF	3381117	Allée des Allamandas	residential	35	2	31	
+GF	3381117	Allée des Tamarins	residential	31	2	31	
+GF	3381117	Rue Waki	residential	29	2	44	
+GF	3381117	Allée des Corossols	residential	28	2	34	
+GF	3381117	Rue Jean Serge Gerante	residential	28	2	27	
+GF	3381117	Rue Génipa	residential	27	2	27	
+GF	3381117	Impasse du Grand Inini	residential	26	2	29	
+GF	3381117	Rue Bernard Inglish	residential	26	4	28	
+GF	3381117	Rue Bois Mèlé	residential	26	2	29	
+GF	3381117	Rue Anangosi	residential	24	2	29	
+GF	3381117	Rue Cacao	residential	24	2	23	
+GF	3381117	Rue de l'Acarouani	residential	24	2	27	
+GF	3381117	Rue de l'Orapu	residential	24	2	24	
+GF	3381303	Rue Alexander Fleming	residential	38	2	38	
+GF	3381303	Rue Martin Luther King	residential	34	2	37	
+GF	3381303	Rue Alphonse Discolle	residential	31	2	36	
+GF	3381303	Avenue du Lac	residential	21	4	26	
+GF	3381303	Rue Abel Azor	residential	20	1	35	
+GF	3381303	Rue Marcel Magne	residential	18	15	89	
+GF	3381303	Rue Justin Catayée	residential	14	1	31	
+GF	3381303	Rue Serjus Canut	residential	14	1	18	
+GF	3381303	Allée des Étoiles	residential	12	53	100	
+GF	3381303	Rue Thomas Edison		12	18	55	
+GF	3381303	Rue du Docteur Gabriel Devèze	residential	11	1	13	
+GF	3381303	Chemin du Bois Diable	residential	10	2	16	
+GF	3381303	Avenue Bois Chaudat	residential	9	4	20	
+GF	3381303	Rue Thierry Delhaise	residential	9	9	16	
+GF	3381303	Rue du Surinam	residential	9	1	8	
+GF	3381303	Rue Constant Chlore	residential	8	1	40	
+GF	3381303	Rue Tatou	residential	8	6	14	
+GF	3381303	Rue du Levant	residential	8	4	53	
+GF	3381303	Avenue Alfred Nobel	residential	7	1	13	
+GF	3381303	Rue Amarante	residential	7	3	16	
+GF	3381303	Rue B. Franklin	residential	7	3	15	
+GF	3381303	Rue Thomas Guidiglo	secondary	7	1	25	
+GF	3381303	Rue du Maroni	residential	6	2	27	
+GF	3381303	Rue Juliana Rimane		5	12	16	
+GF	3381303	Rue Orapu	residential	5	1	9	
+GF	3381303	Chemin Leroy	residential	4	3	9	
+GF	3381303	Rue Jules Mercier	residential	4	1	4	
+GF	3381303	Avenue Léopold Sédar Senghor	residential	3	1	5	
+GF	3381303	Avenue Victor Hugo	secondary	3	2	6	
+GF	3381303	Avenue des Deux Lacs	tertiary	3	15	19	
+GF	3381303	Place des Amériques		3	4	8	
+GF	3381303	Route du Dégrad Saramaca		3	12	12	
+GF	3381303	Rue René Jadfard	residential	3	1	75	
+GF	3381303	Rue des Awaras	residential	3	17	21	
+GF	3381303	Rue du Docteur Bouilhic		3	1	4	
+GF	3381303	Avenue Auguste Boudinot	residential	2	27	28	
+GF	3381303	Avenue de Préfontaine	secondary	2	5	19	
+GF	3381303	Impasse Toutouri	residential	2	13	15	
+GF	3381303	Place Gaston Monnerville		2	6	17	
+GF	3381303	Place Sylvano Antoinette	residential	2	2	2	
+GF	3381303	Rue Athénodore Antoinette	residential	2	1	1	
+GF	3381303	Rue Corinne Desormeaux	tertiary	2	7	9	
+GF	3381303	Rue Edjide Duchesne	residential	2	10	51	
+GF	3381303	Rue Gustave Eiffel	unclassified	2	2	52	
+GF	3381303	Rue Zénobe Gramme	unclassified	2	5	7	
+GF	3381303	Rue des Frères Amet	residential	2	1	2	
+GF	3381303	Rue des Roches Gravées	unclassified	2	7	20	
+GF	3381303	Rue du Docteur Barrat	residential	2	40	50	
+GF	3381428	Rue Nicole Raphaël	residential	21	2	24	
+GF	3381428	Rue Julien Sulbert	residential	14	3	21	
+GF	3381428	Rue Félicien Léoté	residential	12	4	27	
+GF	3381428	Rue Léonard Saïbou	residential	12	1	24	
+GF	3381428	Rue des Acacias	residential	12	1	12	
+GF	3381428	Rue Amour Pamphile	residential	11	4	18	
+GF	3381428	Rue Edgard Golitin	residential	11	2	12	
+GF	3381428	Rue Michel Lohier	residential	8	2	11	
+GF	3381428	Rue Lucien Antoinette	residential	7	3	11	
+GF	3381428	Rue Modeste Joigny	residential	6	4	11	
+GF	3381428	Impasse Amour Pamphile	residential	1	0	0	
+GF	3381428	Impasse Edgard Golitin	residential	1	0	0	
+GF	3381538	Avenue Dada René	unclassified	1	0	0	
+GF	3381538	Avenue Martin Chapelle	unclassified	1	0	0	
+GF	3381538	Avenue République	residential	1	0	0	
+GF	3381538	Espace Daniel Georges	unclassified	1	0	0	
+GF	3381538	Impasse Andrée Rosemont	residential	1	0	0	
+GF	3381538	Impasse Apatawa	road	1	0	0	
+GF	3381538	Impasse Apisi	residential	1	0	0	
+GF	3381538	Impasse Atoki Sekoe	residential	1	0	0	
+GF	3381538	Impasse Aïmara	residential	1	0	0	
+GF	3381538	Impasse Bayamati Asangi	residential	1	0	0	
+GF	3381538	Impasse Da Papoe	residential	1	0	0	
+GF	3381538	Impasse Napoléon Beibe	residential	1	0	0	
+GF	3381538	Impasse René Café	residential	1	0	0	
+GF	3381538	Route Kiiki	unclassified	1	0	0	
+GF	3381538	Route Sooke	residential	1	0	0	
+GF	3381538	Rue Akami	residential	1	0	0	
+GF	3381538	Rue Aline	unclassified	1	0	0	
+GF	3381538	Rue Anelli Taama	road	1	0	0	
+GF	3381538	Rue Anelli Tamaa	residential	1	0	0	
+GF	3381538	Rue Baana	residential	1	0	0	
+GF	3381538	Rue Bachis Roger	residential	1	0	0	
+GF	3381538	Rue Bernard Dada	residential	1	0	0	
+GF	3381538	Rue Chuitti Kasaba	residential	1	0	0	
+GF	3381538	Rue Dosoe Pascal	residential	1	0	0	
+GF	3382160	Route de Montabo	secondary	185	508	4054	
+GF	3382160	Rue des Peuples Autochtones	residential	129	7	117	
+GF	3382160	Route de Baduel	secondary	126	250	3417	
+GF	3382160	Avenue du Général de Gaulle	tertiary	125	5	106	
+GF	3382160	Avenue Léopold Héder	tertiary	82	6	85	
+GF	3382160	Rue Lallouette	residential	82	12	92	
+GF	3382160	Rue du Lieutenant Léon Becker	residential	81	6	99	
+GF	3382160	Rue Madame Payé	residential	80	6	94	
+GF	3382160	Rue Victor Schœlcher	residential	80	5	84	
+GF	3382160	Rue du Lieutenant Goinet	residential	77	4	86	
+GF	3382160	Avenue Justin Catayée	primary	75	160	710	
+GF	3382160	Avenue François Voltaire	residential	74	6	74	
+GF	3382160	Rue Eudoxie Vérin	residential	74	3	79	
+GF	3382160	Avenue Louis Pasteur	tertiary	66	3	64	
+GF	3382160	Rue Jules Harmois	residential	65	82	145	
+GF	3382160	Route de Mango	tertiary	58	33	821	
+GF	3382160	Rue Vermont Polycarpe	residential	55	3	63	
+GF	3382160	Rue François Arago	tertiary	54	5	65	
+GF	3382160	Rue Gabriel Devèze	residential	52	5	58	
+GF	3382160	Rue René Jadfard	residential	52	6	82	
+GF	3382160	Boulevard Nelson Madiba Mandela	secondary	51	1	62	
+GF	3382160	Rue Justin Catayée	residential	50	3	78	
+GF	3382160	Rue des Noix de Coco	residential	50	3	45	
+GF	3382160	Rue Roland Barrat	residential	49	2	55	
+GF	3382160	Avenue Élie Castor	tertiary	48	9	105	
+GF	3382160	Rue Dodomissinga	residential	47	4	41	
+GF	3382160	Rue de l'Arbre à Pain	residential	47	4	53	
+GF	3382160	Rue Simon		45	2	52	
+GF	3382160	Rue Raoul Tanon de Pélissier	tertiary	43	2	40	
+GF	3382160	Avenue de la Liberté	tertiary	42	6	90	
+GF	3382160	Rue Georges Guéril	residential	40	2	39	
+GF	3382160	Rue Martin Luther King	residential	40	3	43	
+GF	3382160	Domaine du Montabo	residential	36	2	32	
+GF	3382160	Rue du Gouverneur Félix Éboué	residential	36	1	59	
+GF	3382160	Avenue des Hortensias	residential	35	2	43	
+GF	3382160	Route de la Madeleine	secondary	35	874	2313	
+GF	3382160	Rue de la Harpie	residential	35	191	248	
+GF	3382160	Rue du Chat Marguay	residential	35	2	39	
+GF	3382160	Avenue Alexis Blaise	residential	34	3	66	
+GF	3382160	Rue des Rubis	residential	34	19	113	
+GF	3382160	Avenue François Ronjon	residential	33	3	46	
+GF	3382160	Rue Magellan	residential	33	2	34	
+GF	3382160	Rue Rouget de l'Isle	residential	33	11	61	
+GF	3382160	Rue du Lieutenant Auguste Brassé	residential	33	3	42	
+GF	3382160	Avenue de l'Amiral Jean d'Estrées	secondary	32	7	39	
+GF	3382160	Chemin Saint-Antoine	residential	32	2	819	
+GF	3382160	Route de Raban	tertiary	32	176	2072	
+GF	3382160	Rue René Barthélémi	tertiary	32	2	124	
+GF	3382160	Rue des Coccinelles		32	1	20	
+GF	3382160	Rue Ernest Prévot	tertiary	31	2	56	
+GF	3382160	Rue Louis Blanc	residential	31	2	34	
+GF	3382160	Avenue du Président Monnerville	residential	30	2	39	
+GF	3382160	Rue des Moules	residential	30	2	29	
+GF	3382160	Rue du 14 et 22 Juin 1962	tertiary	30	3	37	
+GF	3382160	Rue Eugène Gobert	residential	29	2	163	
+GF	3382160	Rue Louis Molé	residential	29	6	32	
+GF	3382160	Rue Parcouri	residential	29	2	30	
+GF	3382160	Allée des Marguerites	residential	28	2	33	
+GF	3382160	Avenue Jean Galmot	primary	28	3	23	
+GF	3382160	Chemin Sadeki	residential	28	3	896	
+GF	3382160	Impasse Kwata		28	2	28	
+GF	3382160	Rue Kalandja	residential	27	2	41	
+GF	3382160	Rue Pinot	residential	27	2	35	
+GF	3382160	Rue des Bourdons		27	1	15	
+GF	3382160	Rue du 14 Juillet 1789	residential	27	3	46	
+GF	3382160	Sablance Route principale	unclassified	27	255	995	
+GF	3382160	Hameau de la Plage	residential	26	2	25	
+GF	3382160	Rue Sapotille	residential	26	3	29	
+GF	3382160	Rue des Oeillets d'Inde	residential	26	61	82	
+GF	3382160	Allée des Embruns	residential	25	2	26	
+GF	3382160	Rue Boulangère	residential	25	2	30	
+GF	3382160	Rue Martin-Luther King	residential	25	15	53	
+GF	3382160	Avenue Gustave Charlery	residential	24	1	35	
+GF	3382160	Rue Matamata	residential	24	2	23	
+GF	3382160	Rue des bois précieux	residential	24	2	26	
+GF	3382160	Rue des Émeraudes	residential	24	2	28	
+GF	3382160	Rue du Caurale Soleil	residential	24	2	23	
+GF	3382160	Rue Eugène Tècle	residential	23	3	34	
+GF	3382160	Rue Neil Armstrong	residential	23	2	22	
+GF	3382160	Rue Reseda	residential	23	2	34	
+GF	3382160	Rue des Machoirans	residential	23	2	23	
+GF	3382160	Rue des Morphos		23	1	31	
+GF	3382160	Rue du Docteur Étienne Gippet	residential	23	1	24	
+GF	3382160	Rue du Foulard	residential	23	2	33	
+GF	3382160	Rue Albert Darnal	residential	22	3	41	
+GF	3382160	Rue Bariri	residential	22	49	358	
+GF	3382160	Rue Convoué	residential	22	4	38	
+GF	3382160	Rue Gilles Behary Laul Sirder	tertiary	22	2	34	
+GF	3382160	Rue Henri Quintrie	residential	22	3	29	
+GF	3382160	Rue Vert Pré	residential	22	1	11	
+GF	3382160	Rue des Bougainvilliers	residential	22	2	18	
+GF	3382160	Rue des Mangues	tertiary	22	12	252	
+GF	3382160	Rue de l'Ébène	residential	21	1	18	
+GF	3382160	Rue des Fourmis Manioc		21	5	29	
+GF	3382160	Rue des Musendas	residential	21	3	28	
+GF	3382160	Rue des Parasols	residential	21	21	44	
+GF	3382160	Rue du Buisson Ardent	residential	21	2	28	
+GF	3382160	Boulevard de la République	tertiary	20	2	23	
+GF	3382160	Route de Bourda	residential	20	62	1252	
+GF	3382160	Rue Pierre Malouet	tertiary	20	2	29	
+GF	3382527	Allée Jacques Yenoumou	pedestrian	1	0	0	
+GF	3382527	Avenue du Général de Gaulle	tertiary	1	0	0	
+GF	3382527	Impasse Aléli	residential	1	0	0	
+GF	3382527	Impasse Frederick Dameni	residential	1	0	0	
+GF	3382527	Impasse Kodjo	residential	1	0	0	
+GF	3382527	Impasse Petrus Apalone	residential	1	0	0	
+GF	3382527	Rue Agathe Maïman	residential	1	0	0	
+GF	3382527	Rue Albert Saint-Eloi	residential	1	0	0	
+GF	3382527	Rue Arthur Naisso	residential	1	0	0	
+GF	3382527	Rue Capitaine Abana	residential	1	0	0	
+GF	3382527	Rue Christian Santini Dit Totoche	residential	1	0	0	
+GF	3382527	Rue Lydie Assoeboekoe	residential	1	0	0	
+GF	3382527	Rue Ma Kaatoe	residential	1	0	0	
+GF	3382527	Rue Ma Loekoeboen	residential	1	0	0	
+GF	3382527	Rue Marie-Thérèse Pimpin	residential	1	0	0	
+GF	3382527	Rue Pierre Sida	residential	1	0	0	
+GF	3382527	Rue Poleon	residential	1	0	0	
+GF	3382527	Rue Tace Agien	residential	1	0	0	
+GF	3382527	Rue Tia Womi	residential	1	0	0	
+GF	3382527	Rue Yotan Kwakoe	residential	1	0	0	
+GF	3382527	Rue du Gran Man Awensai	residential	1	0	0	
+GF	3382527	Rue du Gran Man Difou	residential	1	0	0	
+GF	3382527	Rue du Gran Man Tolinga	tertiary	1	0	0	
+GF	3382530	Rue Yanamale	residential	6	30	335	
+GF	3382530	Rue Atonpalami	residential	2	30	80	
+GF	3382530	Place Itakalemi	residential	1	0	0	
+GF	3382530	Place Kawana	residential	1	0	0	
+GF	3382530	Rue Aliluwai	residential	1	0	0	
+GF	3382530	Rue Charles Claude	residential	1	0	0	
+GF	3382530	Rue Frédéric Jules	residential	1	0	0	
+GF	3382530	Rue Itialaluwuami	residential	1	0	0	
+GF	3382530	Rue Kiyapanemi	residential	1	0	0	
+GF	3382530	Rue Kumaalemi	residential	1	0	0	
+GF	3382530	Rue Kunawayale	residential	1	0	0	
+GF	3382530	Rue Waimipio	residential	1	0	0	

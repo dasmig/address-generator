@@ -1,0 +1,652 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+SD	364103	الشارع الداخلي	residential	1	0	0	The Inner Street
+SD	364103	شارع الاوقاف	residential	1	0	0	Al-Awqaf street
+SD	364103	شارع البطري	secondary	1	0	0	Albatri Street
+SD	364103	شارع البوشي	residential	1	0	0	Al-Bushi street
+SD	364103	شارع الحرية	tertiary	1	0	0	Al-Huriyh street
+SD	364103	شارع الخرطوم- ودمدني	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	شارع الدرجة	tertiary	1	0	0	
+SD	364103	شارع الشرطة	tertiary	1	0	0	Al-Shurth street
+SD	364103	شارع المحطة	secondary	1	0	0	Al-Mahata street
+SD	364103	شارع المساح	residential	1	0	0	Al Massah Street
+SD	364103	شارع المسجد	residential	1	0	0	Al-Masjid Street
+SD	364103	شارع ام بارونة	tertiary	1	0	0	Umm Barouna Street
+SD	364103	شارع بركات	secondary	1	0	0	Barakat Street
+SD	364103	شارع جزيرة الفيل	tertiary	1	0	0	Jazirat Alfil Street
+SD	364103	شارع جنوب	unclassified	1	0	0	Janub street
+SD	364103	شارع ديباجة	tertiary	1	0	0	Dibaga Street
+SD	364103	شارع ديباغا	secondary	1	0	0	Dibaga Street
+SD	364103	شارع سنكات جبرونا	unclassified	1	0	0	Sinkat Street - Jabrona
+SD	364103	شارع نادي الشروق الرياضي	residential	1	0	0	Al-Shorouq Sports Club Street
+SD	364103	شارع ود مدني - سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	شارع ود مدني سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	شارع ود مدني-سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	شارع ودمدني - سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	شارع ودمدني -سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق الخرطوم - ود مدني	tertiary	1	0	0	Wad Madani- Sennar Road
+SD	364103	طريق سنار - ود مدني	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق سنار- ود مدني	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق ود مدني - سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق ود مدني -سنار	residential	1	0	0	Wad Madani- Sennar Road
+SD	364103	طريق ود مدني سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق ود مدني- سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق ود مدني-سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طريق ودمدنى سنار	residential	1	0	0	Wad Madani Sennar Road
+SD	364103	طريق ودمدني سنار	residential	1	0	0	Wad Madani-Sennar Road
+SD	364103	طلمبة بشاير	residential	1	0	0	Talmaba Bashayer Street
+SD	365137	شارع البحر	residential	2	6	6	Sea Street
+SD	365137	Masalma Street	residential	1	0	0	
+SD	365137	Nawari St	residential	1	0	0	
+SD	365137	Sheikh Dafulla St	tertiary	1	0	0	
+SD	365137	Unknown	residential	1	0	0	
+SD	365137	الشارع التانى	residential	1	0	0	2nd Street
+SD	365137	الشارع الجانبي	tertiary	1	0	0	Side Street
+SD	365137	الشارع العشرين	tertiary	1	0	0	Ishreen Road
+SD	365137	المهندسين الشمالي	secondary	1	0	0	Muhandiseen North
+SD	365137	جسر توتي	tertiary	1	0	0	Tuti Bridge
+SD	365137	جسر شمبات	primary	1	0	0	Shambat Bridge
+SD	365137	شارع 1	residential	1	0	0	One Street
+SD	365137	شارع 10	residential	1	0	0	Street 10
+SD	365137	شارع 10 شرق	residential	1	0	0	10E
+SD	365137	شارع 11	residential	1	0	0	Street 11
+SD	365137	شارع 12	residential	1	0	0	Street 12
+SD	365137	شارع 13	residential	1	0	0	Street 13
+SD	365137	شارع 2	residential	1	0	0	Street 2
+SD	365137	شارع 2 شمال	residential	1	0	0	2N
+SD	365137	شارع 3	residential	1	0	0	Street 3
+SD	365137	شارع 4 شمال	residential	1	0	0	4N
+SD	365137	شارع 5	residential	1	0	0	Street 5
+SD	365137	شارع 6 أبريل	tertiary	1	0	0	April 6 Street
+SD	365137	شارع 6 ابريل	tertiary	1	0	0	6th of April Street
+SD	365137	شارع 8	residential	1	0	0	Street 8
+SD	365137	شارع 9	residential	1	0	0	Street 9
+SD	365137	شارع آل البيت	residential	1	0	0	Al-Albait Street
+SD	365137	شارع أمبدة الواجهة	secondary	1	0	0	Umbadda Front Street
+SD	365137	شارع ابروف	primary	1	0	0	Abrouf Road
+SD	365137	شارع ابو روف	tertiary	1	0	0	Abu Rof Street
+SD	365137	شارع ابوسعد مربع 3	residential	1	0	0	Abusiid Block 3 street
+SD	365137	شارع الأبراج	tertiary	1	0	0	Al Abraj Street
+SD	365137	شارع الاذاعه	tertiary	1	0	0	AL Izaa Street
+SD	365137	شارع الاسطبلات	tertiary	1	0	0	AL- osbatlat
+SD	365137	شارع الاماتونج	residential	1	0	0	Al Amatong Street
+SD	365137	شارع الامام المهدي غرب	secondary	1	0	0	Imam Al-Mahdi West Street
+SD	365137	شارع الامام مالك	residential	1	0	0	Imam Malik Street
+SD	365137	شارع البوابة	primary	1	0	0	AL-Bawaba Street
+SD	365137	شارع الجامعة	secondary	1	0	0	Al-Jamaa Street
+SD	365137	شارع الجميعاب	tertiary	1	0	0	aljmieab Street
+SD	365137	شارع الحرية	residential	1	0	0	AL-Hurriya Street
+SD	365137	شارع الدكاترة	tertiary	1	0	0	Dakatra Road
+SD	365137	شارع الدكاتره	tertiary	1	0	0	Dakatra Road
+SD	365137	شارع الراشدين	tertiary	1	0	0	Al-Rashideenstraat
+SD	365137	شارع الزبير	unclassified	1	0	0	Al Zubair Street
+SD	365137	شارع الزعيم الازهري	primary	1	0	0	Alzaeem Alazhari Road
+SD	365137	شارع السبيل	tertiary	1	0	0	Alsabil Street
+SD	365137	شارع السلالم	residential	1	0	0	Al_Slalem Street
+SD	365137	شارع السلام	residential	1	0	0	Al-Salam street
+SD	365137	شارع السودان	residential	1	0	0	Sudan Street
+SD	365137	شارع السيد علي الميرغني	tertiary	1	0	0	AL- Sayyid ALI AL-Mirghani Street
+SD	365137	شارع الشقلة	secondary	1	0	0	Elshiqlah Road
+SD	365137	شارع الشنقيطي	tertiary	1	0	0	Al-Shingiti Road
+SD	365137	شارع الشهيد احمد كامل رمضان	residential	1	0	0	Martyr Ahmed Kamel Ramadan Street
+SD	365137	شارع الشهيد عبد العظيم	secondary	1	0	0	Al Shahid Abd Alazeem Street
+SD	365137	شارع الصالحة	secondary	1	0	0	Al-Saliha Street
+SD	365137	شارع الصهريج	secondary	1	0	0	alsahrij Street
+SD	365137	شارع الصياغ	residential	1	0	0	AL-Sayag street
+SD	365137	شارع العرضة	primary	1	0	0	Arda Road
+SD	365137	شارع الغابة	tertiary	1	0	0	Ghaba Street
+SD	365137	شارع الفتيحاب	secondary	1	0	0	Fitehab Road
+SD	365137	شارع الفيل	residential	1	0	0	AL- Feel Street
+SD	365137	شارع الكبجاب	secondary	1	0	0	Al Kabjab Street
+SD	365137	شارع الكنائس	residential	1	0	0	Churches Street
+SD	365137	شارع المدارس	residential	1	0	0	Al Madaris Street
+SD	365137	شارع المشتل	tertiary	1	0	0	Al Mashtal Street
+SD	365137	شارع الملازمين	tertiary	1	0	0	AL Mulazemin Street
+SD	365137	شارع المهندسين	secondary	1	0	0	Muhandiseen
+SD	365137	شارع الموردة	primary	1	0	0	Morada Road
+SD	365137	شارع الموسيقار إبراهيم عوض	tertiary	1	0	0	Musician Ibrahim Awad Street
+SD	365137	شارع النص	secondary	1	0	0	Al-Nos Road
+SD	365137	شارع النيل	primary	1	0	0	Nile Street
+SD	365137	شارع النيل أمدرمان	primary	1	0	0	Nile Street, Omdurman
+SD	365137	شارع الهاشماب	tertiary	1	0	0	AL-Hashimab Street
+SD	365137	شارع الوادي	secondary	1	0	0	Al Wadi Street
+SD	365137	شارع الوادي الواحه	secondary	1	0	0	Al Wadi Al Waha Street
+SD	365137	شارع ام بدة	primary	1	0	0	Umm Baddah Street
+SD	365137	شارع امبدة	primary	1	0	0	Umm Baddah Street
+SD	365137	شارع امبدة العاشرة	secondary	1	0	0	Ombada Ashra Street
+SD	365137	شارع امبدة العشرة	secondary	1	0	0	Ombada Ashra Street
+SD	365137	شارع امبدة الواجهة	secondary	1	0	0	Ombadah Alwajihh street
+SD	365137	شارع ايمن نمر	residential	1	0	0	Ayman nimir street
+SD	365137	شارع بانت	secondary	1	0	0	Banat Street
+SD	365137	شارع بيت الخليفة	tertiary	1	0	0	AL Khalifa Street
+SD	365137	شارع تهراقا	residential	1	0	0	Terhaga Street
+SD	365137	شارع جاكي	residential	1	0	0	Jackie Street
+SD	365137	شارع جمعة جابر	residential	1	0	0	Juma Jaber Street
+SD	365137	شارع حامد توفيق	residential	1	0	0	Hamed Tawfiq Street
+SD	365137	شارع حسن جزيرة	residential	1	0	0	Hasan Jazera Street
+SD	365137	شارع زكريا عزالدين	residential	1	0	0	Zakaria Ezzedine Street
+SD	365137	شارع سوق القش	residential	1	0	0	Suq Alqash street
+SD	365137	شارع سوق ليبيا	primary	1	0	0	Souq Libya Street
+SD	365137	شارع شرف محمود شرف	tertiary	1	0	0	Sharaf Mahmoud Sharaf Street
+SD	365137	شارع شيكان	tertiary	1	0	0	Shiekan Street
+SD	365137	شارع عبد المنعم السيسي	tertiary	1	0	0	Abdel Moneim AlSisi Street
+SD	365137	شارع عبد المنعم محمد	tertiary	1	0	0	Abdel moneim street
+SD	365137	شارع عبدالعزيز	residential	1	0	0	
+SD	365137	شارع عثمان الزبير	tertiary	1	0	0	Othman AL-Zubair Street
+SD	365137	شارع فرعي	unclassified	1	0	0	side
+SD	365137	شارع فلسطين	tertiary	1	0	0	plastine road
+SD	365137	شارع كبري توتي	tertiary	1	0	0	Tutti Bridge Street
+SD	365137	شارع كرري	secondary	1	0	0	Karary Street
+SD	365137	شارع كرور	secondary	1	0	0	
+SD	365137	شارع كرومة	residential	1	0	0	Karoma Street
+SD	365137	شارع ليبيا	secondary	1	0	0	Libya Street
+SD	365137	شارع مدني	tertiary	1	0	0	Madani Street
+SD	365137	شارع مستشفي النو	residential	1	0	0	Al-Naw Hospital Street
+SD	365137	شارع مقابر البكري	tertiary	1	0	0	Al Bakri Cemetery Street
+SD	365137	شارع ود البدوي	tertiary	1	0	0	Wad ELbadawi Street
+SD	365137	شارع ٢٠	residential	1	0	0	Street 20
+SD	365137	شارع٢ ق	residential	1	0	0	2 Q street
+SD	365137	صينية الازهري	primary	1	0	0	Al-Azhari Tray
+SD	365137	طريق أبروف	primary	1	0	0	Abrouv Road
+SD	365137	طريق الجموعية	secondary	1	0	0	Jammoe'yya road
+SD	365137	طريق النص	secondary	1	0	0	Al-Nos Road
+SD	365137	طريق فلسطين	tertiary	1	0	0	palestine road
+SD	365137	طريق هيلتون	tertiary	1	0	0	Hilton Road
+SD	365137	كبري النص	tertiary	1	0	0	Kobriy Alnasu
+SD	365137	كبري النيل الابيض	primary	1	0	0	Omdurman Bridge
+SD	365137	١ ج	residential	1	0	0	1S
+SD	365137	١ ش	residential	1	0	0	1N
+SD	365137	١ غ	residential	1	0	0	1w
+SD	365137	١ ق	residential	1	0	0	1E
+SD	365137	١٠ غ	residential	1	0	0	10w
+SD	365137	١١ غ	residential	1	0	0	11w
+SD	365137	١١ ق	residential	1	0	0	11E
+SD	365137	١٢ غ	residential	1	0	0	12w
+SD	365137	١٢ ق	residential	1	0	0	12E
+SD	365137	١٣ غ	residential	1	0	0	13w
+SD	365137	١٣ ق	residential	1	0	0	13E
+SD	365137	١٤ غ	residential	1	0	0	14w
+SD	365137	١٤ ق	residential	1	0	0	14E
+SD	365137	١٥ غ	residential	1	0	0	15w
+SD	365137	٢ ج	residential	1	0	0	2S
+SD	365137	٢ ش	residential	1	0	0	2N
+SD	365137	٢ غ	residential	1	0	0	2w
+SD	365137	٣ ج	residential	1	0	0	3S
+SD	365137	٣ ش	residential	1	0	0	3N
+SD	365137	٣ غ	residential	1	0	0	3w
+SD	365137	٣ ق	residential	1	0	0	3E
+SD	365137	٤ ج	residential	1	0	0	4S
+SD	365137	٤ ش	residential	1	0	0	4N
+SD	365137	٤ غ	residential	1	0	0	4w
+SD	365137	٤ ق	residential	1	0	0	4E
+SD	365137	٥ ج	residential	1	0	0	5S
+SD	365137	٥ ش	residential	1	0	0	5N
+SD	365137	٥ غ	residential	1	0	0	5w
+SD	365137	٥ ق	residential	1	0	0	5E
+SD	365137	٦ ج	residential	1	0	0	6S
+SD	365137	٦ ش	residential	1	0	0	6N
+SD	365137	٦ غ	residential	1	0	0	6w
+SD	365137	٦ ق	residential	1	0	0	6E
+SD	365137	٧ ج	residential	1	0	0	7S
+SD	365137	٧ ش	residential	1	0	0	7N
+SD	365137	٧ غ	residential	1	0	0	7w
+SD	365137	٧ ق	residential	1	0	0	7E
+SD	365137	٨ ج	residential	1	0	0	8s
+SD	365137	٨ ش	residential	1	0	0	8N
+SD	365137	٨ غ	residential	1	0	0	8w
+SD	365137	٨ ق	residential	1	0	0	8E
+SD	365137	٩ غ	residential	1	0	0	9w
+SD	365137	٩ ق	residential	1	0	0	9E
+SD	366846	سنكات	residential	1	0	0	Sinkāt
+SD	366847	طريق سنجة -الدبكرة	residential	1	0	0	Singa Road - Al dabkara
+SD	367308	شارع المقداد بن الاسود	residential	1	0	0	Al-Miqdad Bin Al-Aswad Street
+SD	367308	شارع مستشفى مورني	residential	1	0	0	Morni Hospital Street
+SD	367644	شارع سكني	residential	1	0	0	residential street
+SD	367972	الشارع الرئيسي في رفاعة	tertiary	1	0	0	Rufaa Main Road
+SD	367972	الطريق الرئيسي لرفاعة	tertiary	1	0	0	Rufaa Main Road
+SD	367972	شارع العيادات	residential	1	0	0	Al-Eyadaat Street
+SD	367972	شارع تاجوج	unclassified	1	0	0	Tagog Street
+SD	367972	طريق بانت	unclassified	1	0	0	Banat Road
+SD	367972	طريق رفاعه الرئيسي	tertiary	1	0	0	Rufaa Main Road
+SD	368277	الرنك - كوستي	primary	1	0	0	Renk - Kosti
+SD	368277	شارع السوق	residential	1	0	0	alsuwq Street
+SD	369004	شارع الجير	residential	1	0	0	Al Geer Street
+SD	369004	شارع طربوش	residential	1	0	0	Tarboush Street
+SD	370481	شارع ال قنيب	tertiary	1	0	0	
+SD	370481	شارع شريان الشمال	secondary	1	0	0	
+SD	370481	طريق مطار مروي	unclassified	1	0	0	Merowe Airport Road
+SD	371760	street	residential	1	0	0	
+SD	371760	السوق الشعبى-طريق محطة الحافلات الرئيسة	unclassified	1	0	0	Alsouq Alshaby -Main Bus Station Road
+SD	371760	شارع حامد علي الخير الفرعي	residential	1	0	0	Hamid Ali Elkhir Branch Street
+SD	371760	شارع حي النصر السكني	residential	1	0	0	Alnasr Neighborhood Residential Street
+SD	371760	شارع مربع 34 السكني	tertiary	1	0	0	34 Squire Residential Street
+SD	371760	شارع مربع34	residential	1	0	0	34 Squire Residential street
+SD	371760	طريق مربع 28	tertiary	1	0	0	28 Squire Road
+SD	371827	الكورمك	residential	1	0	0	AL Kurumuk
+SD	372753	إلى مسجد سعيد الحسن الأثري	residential	1	0	0	To Said Al-hassan Archaelogical Mosque
+SD	372753	الى مسجدالسيد الحسن الاثرى	residential	1	0	0	To Elsaid Elhassan Archaelogical Mosuque
+SD	372753	بئر توتيل المائي	residential	1	0	0	Toteil Well aqueous
+SD	372753	شارع الثورة	tertiary	1	0	0	Thoura Steet
+SD	372753	شارع الجامعة	unclassified	1	0	0	University Steet
+SD	372753	شارع الخاتميه	tertiary	1	0	0	Khatmiya Street
+SD	372753	شارع الدكاترة	secondary	1	0	0	Doctors Street
+SD	372753	شارع الريبة	primary	1	0	0	Raiba Street
+SD	372753	شارع السواقي الجنوبية	tertiary	1	0	0	Al-Sawaqi Ganoubia Street
+SD	372753	شارع السوق	secondary	1	0	0	Souq Street
+SD	372753	شارع الشعبية	unclassified	1	0	0	Sha'bia Road
+SD	372753	شارع الصادرات	unclassified	1	0	0	Al- Saderat Street
+SD	372753	شارع القاش شرق	secondary	1	0	0	Gharb Elgash Road
+SD	372753	شارع المدارس	residential	1	0	0	Al- Madares Street
+SD	372753	شارع المربعات	tertiary	1	0	0	Al-Muraba't Street
+SD	372753	شارع المستشفى السعودي	tertiary	1	0	0	Saudi Hospital Street
+SD	372753	شارع المسجد	residential	1	0	0	Mosque Street
+SD	372753	شارع الميرغنية	primary	1	0	0	Al-Merghaniya Street
+SD	372753	شارع الوالي	secondary	1	0	0	Al-Wali Street
+SD	372753	شارع حلنقة	tertiary	1	0	0	Halanga Street
+SD	372753	شارع حلنقة شمال	unclassified	1	0	0	North Halanga Street
+SD	372753	شارع حي العرب	secondary	1	0	0	Hai Al-Arab Street
+SD	372753	شارع حي العمال	unclassified	1	0	0	Hai Al-Omal Street
+SD	372753	شارع رايبة	secondary	1	0	0	Raiba Street
+SD	372753	شارع سكة حديد	tertiary	1	0	0	Sika Haded Road
+SD	372753	شارع سنما الوطنية	tertiary	1	0	0	Cinema Watanya Street
+SD	372753	شارع سوريبا	unclassified	1	0	0	Soriba Steet
+SD	372753	شارع سوريبة	unclassified	1	0	0	Soriba Steet
+SD	372753	شارع سينما الشرقية	tertiary	1	0	0	Cinema Sharqia Street
+SD	372753	شارع طره	primary	1	0	0	Turaa Street
+SD	372753	شارع غرب القاش	secondary	1	0	0	Ghareb Elghas Road
+SD	372753	شارع مستشفى كسلا	tertiary	1	0	0	Kassala Hospital Street
+SD	372753	شارع مستورة	residential	1	0	0	Mastora Street
+SD	372753	شارع مسجد سلمان الفارسى	residential	1	0	0	Salman Al Farsi Mosque Street
+SD	372753	شارع هاكوتا	unclassified	1	0	0	Haykota Street
+SD	372753	طريق كرموتا	secondary	1	0	0	Kurmuta Road
+SD	372753	طريق كورموتا	residential	1	0	0	Kurmuta Road
+SD	372753	طريق ود شريفي	primary	1	0	0	Wad Sharefay Road
+SD	372753	كبري القاش	primary	1	0	0	Gash Bridge
+SD	372753	كبري القاش القديم	secondary	1	0	0	Old Gash Bridge
+SD	373141	كادقلي - هجليج	tertiary	1	0	0	Kadugli-Higlig
+SD	373198	شارع الريان	residential	1	0	0	Al Rayan Street
+SD	374272	حلفا الجديدة	tertiary	1	0	0	New Halfa
+SD	374272	شارع البنوك	residential	1	0	0	Al- Bunook street
+SD	377039	شارع الكورنيش	residential	1	0	0	Cornish Street
+SD	377039	شارع عيد	residential	1	0	0	Eid Street
+SD	377039	شارع فؤاد التبريزي	residential	1	0	0	Fouad Tabrizi Street
+SD	377039	شارع مكة	secondary	1	0	0	Maka Street
+SD	377039	شارع مكه	secondary	1	0	0	Mecca Street
+SD	377039	شارع هدل	tertiary	1	0	0	Hadal Street
+SD	377724	بارا - الابيض	residential	1	0	0	Bara Street Al Ubaied
+SD	378231	شارع كسلا	residential	1	0	0	Kassala Street
+SD	378231	كبري خليوة	tertiary	1	0	0	Khelewa Bridge
+SD	378459	الروصيرص	residential	1	0	0	Er Roseires
+SD	379003	شارع الدكاترة	residential	1	0	0	Aldakatra Street
+SD	379003	شارع خورطقت	tertiary	1	0	0	Khortaqt Street
+SD	379003	شارع كوستي الابيض	secondary	1	0	0	Kosti-al-Ubayyid Road
+SD	379014	شارع الكهرباء	residential	1	0	0	Al-Kahraba street
+SD	379062	شارع البيطرئ	residential	1	0	0	Al-Baytri Street
+SD	379062	شارع الجبل	residential	1	0	0	Al Jabal Street
+SD	379062	شارع حمد حسن	residential	1	0	0	
+SD	379102	شارع شركة تشانغتونغ	tertiary	1	0	0	Changtong Company Road
+SD	379102	طريق شركة تشانغتونغ	primary	1	0	0	Changtong Company Road
+SD	379127	طريق المتمة	tertiary	1	0	0	Al Mutamma Road
+SD	379149	a415	unclassified	1	0	0	
+SD	379149	residential road	residential	1	0	0	
+SD	379149	شارع السوق	tertiary	1	0	0	Al-Suwq street
+SD	379149	شارع كدوك	tertiary	1	0	0	Kaduk Street
+SD	379149	طريق سكني	residential	1	0	0	residential road
+SD	379149	كبري الدسيس	primary	1	0	0	Al Dasis Bridge
+SD	379149	農道	unclassified	1	0	0	
+SD	379251	جسر النيل الأزرق	primary	1	0	0	Blue Nile road & Railway Bridge
+SD	379251	شارع أيمن بوص	residential	1	0	0	Ayman Boss Street
+SD	379251	شارع ابو سن	residential	1	0	0	Abu Sin Street
+SD	379251	شارع اسامة المقبول	tertiary	1	0	0	Osama Al-Magbool Street
+SD	379251	شارع الأمراء	residential	1	0	0	AL-Amara Street
+SD	379251	شارع الإمام المهدي	primary	1	0	0	Al-Imam Al-Mahdi Road
+SD	379251	شارع الامين الكارب	tertiary	1	0	0	AL-Ameen AL-Karib Street
+SD	379251	شارع البراحة	tertiary	1	0	0	Brahah Street
+SD	379251	شارع البرلمان	residential	1	0	0	Parliament Street
+SD	379251	شارع البلدية	residential	1	0	0	Albaldia Street
+SD	379251	شارع البوسته	tertiary	1	0	0	AL -Posta Street
+SD	379251	شارع الجامعة	secondary	1	0	0	University Street
+SD	379251	شارع الجلابة	residential	1	0	0	Al-Jalaba Street
+SD	379251	شارع الحصاية	residential	1	0	0	Al Hasaya Street
+SD	379251	شارع الخور	tertiary	1	0	0	AL-Khawr street
+SD	379251	شارع الدناقله	tertiary	1	0	0	AL- Danagla Street
+SD	379251	شارع الدومة	residential	1	0	0	AlDoma street
+SD	379251	شارع الردمية	residential	1	0	0	AL - Radimiyah Street
+SD	379251	شارع الزعيم الأزهري	primary	1	0	0	Al-zaeem Al-Azhari Street
+SD	379251	شارع السامراب	tertiary	1	0	0	Samrab Street
+SD	379251	شارع السيد علي	secondary	1	0	0	Sayed Ali Road
+SD	379251	شارع الشعبية	tertiary	1	0	0	Al-Shaebia street
+SD	379251	شارع الشعبيه	tertiary	1	0	0	Al Shaabiya Street
+SD	379251	شارع الشفاء	tertiary	1	0	0	Al Shifaa Street
+SD	379251	شارع الشمال	tertiary	1	0	0	North Street
+SD	379251	شارع الشهيد محمد هاشم مطر	primary	1	0	0	Martyr Mohammed Hashim Matar Road
+SD	379251	شارع الشيخ ادريس ابراهيم	tertiary	1	0	0	Al Sheikh Idris Ibrahim Street
+SD	379251	شارع الفكي عثمان	tertiary	1	0	0	Al Fakee Osman
+SD	379251	شارع المايقوما	tertiary	1	0	0	Maygoma Street
+SD	379251	شارع المدارس	tertiary	1	0	0	Al-Madaris street
+SD	379251	شارع المزاد	tertiary	1	0	0	Al-Mazad Road
+SD	379251	شارع المزدلفة	tertiary	1	0	0	Muzdalafa Road
+SD	379251	شارع المعرض	secondary	1	0	0	Al Ma'arad St
+SD	379251	شارع المنطقة الصناعية بحري".	tertiary	1	0	0	Khartoum North Industrial area Street
+SD	379251	شارع المويه	tertiary	1	0	0	Water Street
+SD	379251	شارع المية	residential	1	0	0	Al-Muyh street
+SD	379251	شارع النيل	primary	1	0	0	Nile Street
+SD	379251	شارع الهواء	tertiary	1	0	0	AL-Hawa street
+SD	379251	شارع الوادي	residential	1	0	0	Al Wadi Street
+SD	379251	شارع بحرى الصناعات	tertiary	1	0	0	Bahri Industril Street
+SD	379251	شارع بري	secondary	1	0	0	Burri Road
+SD	379251	شارع بلبل	residential	1	0	0	Bulbul Street
+SD	379251	شارع حجار	tertiary	1	0	0	Hajjar Road
+SD	379251	شارع خليفة	unclassified	1	0	0	Khalifa Street
+SD	379251	شارع سوق شمبات القديم	unclassified	1	0	0	Shambat Old Market Road
+SD	379251	شارع سيقا	unclassified	1	0	0	Siqa Street
+SD	379251	شارع شمبات جنوب	tertiary	1	0	0	Shambat South Street
+SD	379251	شارع عبد الله النور	residential	1	0	0	Abdallah Elnur St
+SD	379251	شارع عثمان دقنة	tertiary	1	0	0	Othman Digna Avenue
+SD	379251	شارع عون الشريف قاسم	residential	1	0	0	Awn AL - Sharif Qasim
+SD	379251	شارع قناوي	residential	1	0	0	Qanawi Street
+SD	379251	شارع كبري الحلفايا	primary	1	0	0	Al Halfaia Bridge Street
+SD	379251	شارع مروج	residential	1	0	0	Morouj Street
+SD	379251	شارع ناس الكامل	residential	1	0	0	Nas Alkamil street
+SD	379251	شارع نصر الدين	tertiary	1	0	0	Nasreldin Street
+SD	379251	شارع ود الحارة	unclassified	1	0	0	Wd Alhara Street
+SD	379251	طريق طه الروبي	unclassified	1	0	0	Taha al-Roubi Road
+SD	379251	طريق مدرسة الملك فهد	residential	1	0	0	King Fahad School Road
+SD	379251	طريق مور الزراعي	tertiary	1	0	0	Moor Road
+SD	379251	كبري الحلفايا	primary	1	0	0	Al-Halfaia Bridge
+SD	379251	كبري النيل الأزرق	primary	1	0	0	Blue Nile Bridge
+SD	379252	شارع الجمهورية	secondary	3	2	2	Al Jamhuriya Avenue
+SD	379252	Al Sawahli Street		2	286	286	
+SD	379252	Obeid al Khatim Street		2	177	339	
+SD	379252	شارع 51	residential	2	0	0	Street 51
+SD	379252	شارع البلدية	tertiary	2	1	21	Al Baladia Street
+SD	379252	شارع الصحافة زلط		2	182	182	
+SD	379252	شارع محمد نجيب	secondary	2	9	30	Mohammed Najeeb Street
+SD	379252	Al Sharif Amin Mohamed Hassan Street	residential	1	0	0	
+SD	379252	Street 13	residential	1	0	0	
+SD	379252	الشارع الثالث	residential	1	0	0	3th Avenue
+SD	379252	الشارع الثانى	residential	1	0	0	2nd Avenue
+SD	379252	الشارع الرابع	residential	1	0	0	4th Avenue
+SD	379252	امتداد شارع الحرية	primary	1	0	0	Imtidad Al-Hurriya Street
+SD	379252	امتداد شارع الحريه	primary	1	0	0	Extension of Al-Hurriya Street
+SD	379252	حلقة الحديقة	residential	1	0	0	Garden Ring
+SD	379252	حي المطار 1	residential	1	0	0	1 Hay Almatar
+SD	379252	دوار الأوزون	tertiary	1	0	0	Ozone Roundabout
+SD	379252	دوار المك نمر	tertiary	1	0	0	Al Mek Nimir Circle
+SD	379252	دوران حديقة القرشي	secondary	1	0	0	Gorashi Garden Roundabout
+SD	379252	شارع 10	residential	1	0	0	Street 10
+SD	379252	شارع 117	tertiary	1	0	0	Street 117
+SD	379252	شارع 12	residential	1	0	0	st 12
+SD	379252	شارع 13	residential	1	0	0	Street 13
+SD	379252	شارع 15	tertiary	1	0	0	5th Avenue
+SD	379252	شارع 19	residential	1	0	0	Street 19
+SD	379252	شارع 21	tertiary	1	0	0	Street 21
+SD	379252	شارع 21 أكتوبر	residential	1	0	0	21st October Street
+SD	379252	شارع 22	residential	1	0	0	st 22
+SD	379252	شارع 23	residential	1	0	0	Street 23
+SD	379252	شارع 25	tertiary	1	0	0	Street 25
+SD	379252	شارع 25 العشرة	tertiary	1	0	0	Al Ushara 25th Street
+SD	379252	شارع 27	residential	1	0	0	Street 27
+SD	379252	شارع 29	residential	1	0	0	Street 29
+SD	379252	شارع 3	residential	1	0	0	Street 3
+SD	379252	شارع 30	tertiary	1	0	0	Street 30
+SD	379252	شارع 31	residential	1	0	0	Street 31
+SD	379252	شارع 31 الشرقي	residential	1	0	0	31st Avenue East
+SD	379252	شارع 33	residential	1	0	0	Street 33
+SD	379252	شارع 33 الشرقي	residential	1	0	0	33th Avenue East
+SD	379252	شارع 35	unclassified	1	0	0	Street 35
+SD	379252	شارع 35 شرق	residential	1	0	0	35th Avenue E
+SD	379252	شارع 37	residential	1	0	0	Street 37
+SD	379252	شارع 39	tertiary	1	0	0	Avenue 39
+SD	379252	شارع 41	residential	1	0	0	Street 41
+SD	379252	شارع 45	residential	1	0	0	Street 45
+SD	379252	شارع 46	residential	1	0	0	Street 46
+SD	379252	شارع 49	residential	1	0	0	Street 49
+SD	379252	شارع 5	residential	1	0	0	Street 5
+SD	379252	شارع 5 أركويت	residential	1	0	0	5 Arkawit Street
+SD	379252	شارع 50	living_street	1	0	0	50th Street
+SD	379252	شارع 52	tertiary	1	0	0	52 street
+SD	379252	شارع 53	residential	1	0	0	Street 53
+SD	379252	شارع 55	tertiary	1	0	0	55 R
+SD	379252	شارع 57	residential	1	0	0	Street 57
+SD	379252	شارع 59	residential	1	0	0	Street 59
+SD	379252	شارع 6	residential	1	0	0	Street 6
+SD	379252	شارع 61	residential	1	0	0	Street 61
+SD	379252	شارع 63	residential	1	0	0	Street 63
+SD	379252	شارع 65	residential	1	0	0	Street 65
+SD	379252	شارع 69	residential	1	0	0	Street 69
+SD	379252	شارع 7	residential	1	0	0	Street 7
+SD	379252	شارع 9	residential	1	0	0	Street 9
+SD	379252	شارع أحمد خير	secondary	1	0	0	Ahmed Khair Street
+SD	379252	شارع أربعة وخمسين	residential	1	0	0	Fifty Four Street
+SD	379252	شارع أفريقيا	tertiary	1	0	0	Africa Road
+SD	379252	شارع ابو ادم	tertiary	1	0	0	Abu Adam Street
+SD	379252	شارع ابو القاسم هاشم	primary	1	0	0	Abulgasim Hashim Street
+SD	379252	شارع ابو القليم هاشم	residential	1	0	0	Abu Al Qalim Hashem Street
+SD	379252	شارع ابو سن	residential	1	0	0	Abu Sin Street
+SD	379252	شارع ابو قرجة	residential	1	0	0	Abu Qurjah Street
+SD	379252	شارع احمد خير	secondary	1	0	0	Ahmed Khair Street
+SD	379252	شارع اركويت	residential	1	0	0	Arkwit Street
+SD	379252	شارع اركويت 2	residential	1	0	0	2 Arkawit Street
+SD	379252	شارع اركويت 3	residential	1	0	0	3 Arkawit Street
+SD	379252	شارع اركويت 4	residential	1	0	0	4 Arkawit Street
+SD	379252	شارع اركويت 5	residential	1	0	0	5 Arkawit Street
+SD	379252	شارع اركويت 6	residential	1	0	0	6 Arkawit Street
+SD	379252	شارع ازهري	primary	1	0	0	Al-Azhari Road
+SD	379252	شارع افريقيا	tertiary	1	0	0	Africa Road
+SD	379252	شارع الإمام المهدي	primary	1	0	0	Al Imam Al Mahdi Road
+SD	379252	شارع الإمام المهدي شرق	primary	1	0	0	Al-Imam Al-Mahdi East Road
+SD	379252	شارع الازهري	primary	1	0	0	Al Azhari Road
+SD	379252	شارع الاسبتالية	residential	1	0	0	Isbitalia Street
+SD	379252	شارع البرلمان	residential	1	0	0	Parliament Street
+SD	379252	شارع البلابل	tertiary	1	0	0	Al Balabel Street
+SD	379252	شارع البوستة السجانة	tertiary	1	0	0	AL-Bosta AL-Sajana Street
+SD	379252	شارع التجاني الماحي	residential	1	0	0	17th Street
+SD	379252	شارع الجامع	residential	1	0	0	Al Jami Street
+SD	379252	شارع الجزار	tertiary	1	0	0	Al Jazar Street
+SD	379252	شارع الجمارك	residential	1	0	0	Customs Street
+SD	379252	شارع الحاج محمد احمد التوم	residential	1	0	0	Al-Haj Ahmad Mohmoud El-Tom
+SD	379252	شارع الحرية	primary	1	0	0	Huria Street
+SD	379252	شارع الحلة بالنص	tertiary	1	0	0	Hila Nos Street
+SD	379252	شارع الخمسين	residential	1	0	0	Fifty Street
+SD	379252	شارع الخور	unclassified	1	0	0	Khour Street
+SD	379252	شارع الخياري	residential	1	0	0	AL- Khayari Street
+SD	379252	شارع الدوحة	tertiary	1	0	0	Al-Doha Street
+SD	379252	شارع الراشدين	residential	1	0	0	Rashadein Street
+SD	379252	شارع الركشات	residential	1	0	0	AL-Raqshat
+SD	379252	شارع الركويت5	residential	1	0	0	5 Arkawit Street
+SD	379252	شارع الزبير باشا	residential	1	0	0	Al Zubeir Pasha Street
+SD	379252	شارع الزومة	tertiary	1	0	0	Zuma Street
+SD	379252	شارع السجانة	secondary	1	0	0	Sajana Street
+SD	379252	شارع السجانة بالنص	tertiary	1	0	0	Sajana balnos Street
+SD	379252	شارع السلام	tertiary	1	0	0	Al Salam Street
+SD	379252	شارع السلمة	tertiary	1	0	0	Al Salma Road
+SD	379252	شارع السواحلي	tertiary	1	0	0	Al Sawahli Street
+SD	379252	شارع السيد عبد الرحمن	tertiary	1	0	0	Sayed Abdel Rahman Avenue
+SD	379252	شارع الشرقي	tertiary	1	0	0	Shargi Street
+SD	379252	شارع الشريف امين محمد الحسن	residential	1	0	0	Al Sharif Amin Mohamed Hassan Street
+SD	379252	شارع الشهيد ابراهيم شمس الدين	unclassified	1	0	0	Al-Shaheed Ibrahim Shams El Din Street
+SD	379252	شارع الشهيد عبدالمنعم الطاهر	tertiary	1	0	0	Al-shahid Abd El-moneim El-Tahir Avenue
+SD	379252	شارع الشيخ ابراهيم ابنعوف	residential	1	0	0	Sheikh Ibrahim Ibenoaf Street
+SD	379252	شارع الشيخ مصطفي الامين	residential	1	0	0	Al sheekh Mustafa Alameen St.
+SD	379252	شارع الصحافة	secondary	1	0	0	Sahave Ave
+SD	379252	شارع الصفا	tertiary	1	0	0	Al Safa Street
+SD	379252	شارع الصناعات	tertiary	1	0	0	Industrial Road
+SD	379252	شارع الطيار جميل	residential	1	0	0	El Taiyar El Gameil Street
+SD	379252	شارع الطيار زلفو	residential	1	0	0	AL- Tayar Zilfo Street
+SD	379252	شارع الطيار زلفو الخرطوم	residential	1	0	0	El Tayer Zulfu Street
+SD	379252	شارع الطيار عز الدين	residential	1	0	0	Al Tayer Izzedin Street
+SD	379252	شارع الطيار مراد	residential	1	0	0	AL-Tayyar Murad Street
+SD	379252	شارع الغابة	secondary	1	0	0	Al-Ghaba Street
+SD	379252	شارع الفردوس	tertiary	1	0	0	Al-Firdous Street
+SD	379252	شارع الفقيد احمد ابراهيم مبشر	residential	1	0	0	Al Faqeed Ahmed Ibrahim Mubasher St.
+SD	379252	شارع القصر	secondary	1	0	0	Al Qasr Street
+SD	379252	شارع القوز	residential	1	0	0	Al Qawz
+SD	379252	شارع القيادة	secondary	1	0	0	Al- Qiyada street
+SD	379252	شارع الكلاكلة	primary	1	0	0	Kalakla Road
+SD	379252	شارع المشتل	secondary	1	0	0	Al-Mashtal Street
+SD	379252	شارع المطبك	tertiary	1	0	0	Al- Matbak Street
+SD	379252	شارع المعرض	secondary	1	0	0	Al Ma'arad St
+SD	379252	شارع المفتي	tertiary	1	0	0	Al Mufti Street
+SD	379252	شارع المك نمر	tertiary	1	0	0	Al Mek Nimir Avenue
+SD	379252	شارع الملك عبد العزيز	tertiary	1	0	0	King Abdelaziz Street
+SD	379252	شارع الملك عبدالعزيز	secondary	1	0	0	King Abdelaziz Street
+SD	379252	شارع النجومي	tertiary	1	0	0	Al Nugumi Street
+SD	379252	شارع النخيل	tertiary	1	0	0	Al Nakheel Street
+SD	379252	شارع النزهة	tertiary	1	0	0	Nuzha Street
+SD	379252	شارع النص	tertiary	1	0	0	Al-Nus Street
+SD	379252	شارع الهداب	tertiary	1	0	0	Al-Hadab Street
+SD	379252	شارع امتداد النخيل	tertiary	1	0	0	Al Nakheel Street (Extension)
+SD	379252	شارع اوماك	primary	1	0	0	Omaak street
+SD	379252	شارع بدر	tertiary	1	0	0	Badr Street
+SD	379252	شارع بري	secondary	1	0	0	Burri Road
+SD	379252	شارع بري بالنص	tertiary	1	0	0	bree banes
+SD	379252	شارع بشير النفيدي	residential	1	0	0	Bashir al-Nefeidi Street
+SD	379252	شارع تايوتا	tertiary	1	0	0	Toyota Street
+SD	379252	شارع تراب الوطن	residential	1	0	0	Turab Al Watan Advertising
+SD	379252	شارع تهراقا	residential	1	0	0	Terhage street
+SD	379252	شارع جبرة	tertiary	1	0	0	Jabra Street
+SD	379252	شارع جبرة العام	secondary	1	0	0	Jabra Main Street
+SD	379252	شارع جوبا	tertiary	1	0	0	Juba Street
+SD	379252	شارع حلايب	residential	1	0	0	Halayeb Street
+SD	379252	شارع رئسي	tertiary	1	0	0	Main Street
+SD	379252	شارع رقم 7	unclassified	1	0	0	Street 7
+SD	379252	شارع زبيد حاج الامين	residential	1	0	0	Zubeid Haj al Amin Avenue
+SD	379252	شارع ساريا	tertiary	1	0	0	Sarya Street
+SD	379252	شارع ستة واربعون	residential	1	0	0	Forty-sixth Street
+SD	379252	شارع سنكات	residential	1	0	0	Sinkat Street
+SD	379252	شارع سنكان	residential	1	0	0	Sinkat Street
+SD	379252	شارع سوداتل	tertiary	1	0	0	Sudatel Street
+SD	379252	شارع سينما النيلين	tertiary	1	0	0	Al Nilein Cinema Street
+SD	379252	شارع صالة المغادرة	unclassified	1	0	0	Airport Departure Street
+SD	379252	شارع صالح باشا المك	residential	1	0	0	Saleh Basha AL-Mak Street
+SD	379252	شارع عبد الله الطيب	secondary	1	0	0	Abdallah Al Tayeb Street
+SD	379252	شارع عبد المنعم محمد	tertiary	1	0	0	Abdul Moneim Mohammed Street
+SD	379252	شارع عبد ختم	primary	1	0	0	Obeid Khatim Street
+SD	379252	شارع عبيد ختم	primary	1	0	0	Obeid Khatim Street
+SD	379252	شارع عثمان دقنة	tertiary	1	0	0	Othman Digna Avenue
+SD	379252	شارع عطبرة	tertiary	1	0	0	Atbara Street
+SD	379252	شارع علي دينار	residential	1	0	0	Ali Dinar Street
+SD	379252	شارع علي عبد اللطيف	residential	1	0	0	Ali Abdel Latif Avenue
+SD	379252	شارع غزة	secondary	1	0	0	Gaza Street
+SD	379252	شارع كامل مرزوق	residential	1	0	0	Kamel Marzouk Street
+SD	379252	شارع كبري المنشية	primary	1	0	0	Al Mansheya Bridge Street
+SD	379252	شارع كترينا الخرطوم	residential	1	0	0	Katarena Street
+SD	379252	شارع لفة الجريف	secondary	1	0	0	Jeref Turn
+SD	379252	شارع مأمون بحيري	tertiary	1	0	0	Mamoun Behairy Street
+SD	379252	شارع مامون البرىر	tertiary	1	0	0	Mamoon Al Berar Street
+SD	379252	شارع مامون البرير	tertiary	1	0	0	Mamoon Al Berar Street
+SD	379252	شارع محطة 7	tertiary	1	0	0	Station 7 Road
+SD	379252	شارع محمد صلاح الدين	secondary	1	0	0	Mohamed Salah Eldin St
+SD	379252	شارع مدارس النيل الخاصه	tertiary	1	0	0	Nile Private Schools Street
+SD	379252	شارع مستشفي ابرهيم مالك	tertiary	1	0	0	Ibrahim Malek Hospital Street
+SD	379252	شارع مستشفي الشيخ	residential	1	0	0	Sheikh Hosptial street
+SD	379252	شارع مكة	tertiary	1	0	0	Mecca Street
+SD	379252	شارع مكتب جهاز الامن والمخابرات	residential	1	0	0	CIS Office Road
+SD	379252	شارع مهيرة بت عبود	residential	1	0	0	Mihira Bet Abboud Street
+SD	379252	شارع نادى الأسرة	tertiary	1	0	0	Usra Club Road
+SD	379252	شارع هاشم بيك	residential	1	0	0	Hashim Bey Street
+SD	379252	شارع ٤	residential	1	0	0	Street 4
+SD	379252	شارع15	residential	1	0	0	st 15
+SD	379252	شارع16	residential	1	0	0	st 16
+SD	379252	شارع17	residential	1	0	0	st 17
+SD	379252	شارع20	residential	1	0	0	st 20
+SD	379252	شارع21	residential	1	0	0	st 21
+SD	379252	شارع22	residential	1	0	0	st 22
+SD	379252	شارع23	residential	1	0	0	st 23
+SD	379252	شارع37	residential	1	0	0	37th Avenue
+SD	379252	كبري الحرية	primary	1	0	0	Huria Bridge
+SD	379252	كبري المنشية	primary	1	0	0	Al Manshiya Bridge
+SD	379252	لفة الجريف	secondary	1	0	0	Jeref Turn
+SD	379252	نهج المهدي	residential	1	0	0	Al Mahdi Avenue
+SD	379261	الاعوج- 24 القرشي	primary	1	0	0	Alaewj 24 Qurashi
+SD	379261	اللعوج... 24 القرشي	primary	1	0	0	Al-Laouj... 24 Al-Qurashi
+SD	379261	شارع الجامع الكبير	tertiary	1	0	0	
+SD	379261	شارع الردمية	tertiary	1	0	0	
+SD	379261	شارع الردميه	tertiary	1	0	0	
+SD	379261	شارع سوداتل	living_street	1	0	0	
+SD	379261	شارع نمره سبعه	tertiary	1	0	0	
+SD	379261	شارع ود الجاك	residential	1	0	0	Wad El Jak Street
+SD	379261	كبري	tertiary	1	0	0	
+SD	379261	كبري ود رجب	tertiary	1	0	0	
+SD	379302	طريق أبشي - الحدود السودانية - الجنينة	secondary	1	0	0	Abeche - Sudan border - El Geneina
+SD	379302	طريق عدار	unclassified	1	0	0	Adar Street
+SD	379303	"شارع الجنرال غاغا"	tertiary	1	0	0	General Gaga Street
+SD	379303	شارع احمد مدني	tertiary	1	0	0	Ahmad Madani Street
+SD	379303	شارع اردمتا	secondary	1	0	0	Ardamata Road
+SD	379303	شارع الاذاعة	unclassified	1	0	0	Radio Road
+SD	379303	شارع السلام	residential	1	0	0	AlSalam Street
+SD	379303	شارع جنرال خميس	secondary	1	0	0	General Khamis Street
+SD	379303	شارع جنرال يعقوب كنغور	residential	1	0	0	General Yauob Kongor Street
+SD	379303	شارع خميس كوكورتني	residential	1	0	0	Kamis Kukortani Street
+SD	379303	شارع سلطان اسماعيل	tertiary	1	0	0	Sultan Ismail Boulevard
+SD	379303	شارع سلطان بحرالدين	tertiary	1	0	0	Sultan Bahr Aldin Street
+SD	379303	شارع سلطان تاج الدين	tertiary	1	0	0	Sultan Taj- Adin Road
+SD	379303	شارع سلطان عبدالرحمن	residential	1	0	0	Sultan Abdurhaman Street
+SD	379303	شارع سلطان عبدالنبى	residential	1	0	0	Sultan Abulnabi Street
+SD	379303	شارع فكي كفيتيرى	unclassified	1	0	0	Faki Kifitiri Road
+SD	379303	شارع محمد الفيتوري	residential	1	0	0	Mohamed Fitouri Road
+SD	379303	شارع ملك تيتل	secondary	1	0	0	Malik Taitel Street
+SD	379406	شارع المعيلق-ابو عشر	unclassified	1	0	0	Mailik Street - AbuOshar
+SD	379427	شارع 21 اكتوبر	tertiary	1	0	0	21 October Street
+SD	379427	شارع اركويت	tertiary	1	0	0	Arquwitte Street
+SD	379427	شارع الاستديوهات	tertiary	1	0	0	aliastudyuhat Street
+SD	379427	شارع الانادي	tertiary	1	0	0	Al-Anadi Street
+SD	379427	شارع الجامع	tertiary	1	0	0	aljamie Street
+SD	379427	شارع الخرطوم - مدني	unclassified	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الخرطوم - ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الخرطوم -ود مدنى	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الخرطوم -ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الخرطوم ودمدنى	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الخرطوم- ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	شارع الفريجاب	secondary	1	0	0	Alfariajab Street
+SD	379427	شارع الكهرباء	tertiary	1	0	0	alkahraba Street
+SD	379427	شارع المستشفي	tertiary	1	0	0	Hospital Street
+SD	379427	طريق الخرطوم - ود مدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق الخرطوم -ود مدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق الخرطوم -ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق الخرطوم ود مدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق الخرطوم- ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق الخرطوم-ودمدني	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	طريق رفاعة الرئيسي	secondary	1	0	0	Rufaa Main Road
+SD	379427	طريق ود مدني الخرطوم	residential	1	0	0	Khartoum-Wad Madani Road
+SD	379427	فور مزاد	tertiary	1	0	0	faure mazad Street
+SD	379555	شارع المسجد	residential	1	0	0	Mosque Street
+SD	379555	طريق الفاشر - مثلث	tertiary	1	0	0	
+SD	380129	كبري الدويم	secondary	1	0	0	Ed Dueim Bridge
+SD	380148	طريق ضعين - ابو كارينكا	tertiary	1	0	0	
+SD	380173	الدامر	residential	1	0	0	Ad-Damir
+SD	380173	النبرو	unclassified	1	0	0	Nabro
+SD	380308	أبيي - دفرا Abyei - Diffra	tertiary	1	0	0	Abyei - Diffra
+SD	380757	طريق أبو جبيهة - أثيدوي	tertiary	1	0	0	Abu_Gebiha-Athidway road
+SD	6992529	امتداد شارع محطة 2	tertiary	1	0	0	AL Fayha Street
+SD	6992529	شارع الاشلاق	tertiary	1	0	0	Al Eshlaq Street
+SD	6992529	شارع الحاج يوسف	secondary	1	0	0	AL Haj Yousif Street
+SD	6992529	شارع الخور	residential	1	0	0	
+SD	6992529	شارع الرحمة	residential	1	0	0	Al-Rahma Street
+SD	6992529	شارع الردمية	tertiary	1	0	0	Elradmia Street
+SD	6992529	شارع العيلفون	primary	1	0	0	AL-Aylfon Street
+SD	6992529	شارع الفيحاء	tertiary	1	0	0	Al Wali Street
+SD	6992529	شارع الكلس	tertiary	1	0	0	Elkalas Street
+SD	6992529	شارع المايقوما	tertiary	1	0	0	Maigoma Street
+SD	6992529	شارع النص - دار السلام	tertiary	1	0	0	Middle Street
+SD	6992529	شارع النص حي الهدي	tertiary	1	0	0	AL-nas Street
+SD	6992533	شارع الجريف شرق	tertiary	1	0	0	AL - Girif East Street
+SD	6992533	شارع العليفون	primary	1	0	0	Al-Ailfoun Street
+SD	6992533	شارع العيلفون	primary	1	0	0	AL-Aylfoun Street
+SD	6992535	شارع الباقر عمر	residential	1	0	0	Baqer omer Street
+SD	6992535	شارع الجمهورية	residential	1	0	0	Al-Jumhuriya Street
+SD	6992535	شارع الهواء	primary	1	0	0	Air Street
+SD	6992535	شارع امدوم	unclassified	1	0	0	Umm Dawm Street
+SD	7026103	طريق السكة حديد نجرو	unclassified	1	0	0	Negro railway road
+SD	7026103	طريق النص 1	residential	1	0	0	
+SD	7026103	طريق داخلي للقرية	residential	1	0	0	An internal road to the village
+SD	7026103	طريق رئيسي للقرية	residential	1	0	0	Rayiysi lilqarya street
+SD	7026103	طريق فرعي للقرية	residential	1	0	0	Fareiun lilqarya street
+SD	7026103	طريق فرعي مدخل المقابر	residential	1	0	0	Fareiun Madkhal Almaqabir street
+SD	7026103	طريق فرعي من الناحية الجنوبية	unclassified	1	0	0	Negro Umm Oud Street
+SD	7026103	طريق نجرو طويل	unclassified	1	0	0	Najru Tawil street
+SD	12104575	طريق النص 2 او طريق المسجد	pedestrian	1	0	0	
+SD	12104575	طريق داخلي للقرية	residential	1	0	0	Internal road to the village
+SD	12104575	طريق نجرو ام دوينة	unclassified	1	0	0	Negro Um Douinh Street
+SD	12809070	شارع الدويم	residential	1	0	0	ALdawim street
+SD	13132452	شارع اردمتا	secondary	1	0	0	Ardamata Street

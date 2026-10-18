@@ -12,6 +12,8 @@ Writes, for the tiers `lite` and `full`:
   needs it. `hash` is the file's content hash as the library computes it
   (core::tsv_document::content_hash());
 - `<out>/<tier>/postcodes.tsv`, the countries' files joined.
+
+Street files built before the `name_latin` column existed get an empty one.
 """
 
 import argparse
@@ -33,20 +35,48 @@ def content_hash(path):
     return h
 
 
-def join(src, tier, dest):
+def plain_lines(path):
+    with open(path, encoding="utf-8", newline="") as f:
+        for line in f:
+            yield line.rstrip("\r\n")
+
+
+def street_lines(path):
+    """The header and rows of a country's street file, with the name_latin
+    column (a file built before it existed gets an empty one)."""
+    lines = plain_lines(path)
+    header = next(lines)
+    missing = "name_latin" not in header.split("\t")
+    yield header + ("\tname_latin" if missing else "")
+    for line in lines:
+        yield line + ("\t" if missing else "")
+
+
+def place_ids(path):
+    """The geonameids of a places.tsv."""
+    lines = plain_lines(path)
+    col = next(lines).split("\t").index("geonameid")
+    return {line.split("\t")[col] for line in lines}
+
+
+def join(src, tier, dest, reader=plain_lines, places=None):
+    """Join the countries' files; with `places`, keep only rows of those places
+    (the second column is the geonameid)."""
     files = sorted(Path(src).glob(f"*.{tier}.tsv"))
     if not files:
         return 0
     n = 0
     with open(dest, "w", encoding="utf-8", newline="\n") as out:
         for i, f in enumerate(files):
-            with open(f, encoding="utf-8", newline="") as inp:
-                header = inp.readline()
-                if i == 0:
-                    out.write(header)
-                for line in inp:
-                    out.write(line)
-                    n += 1
+            lines = reader(f)
+            header = next(lines)
+            if i == 0:
+                out.write(header + "\n")
+            for line in lines:
+                if places is not None and line.split("\t", 2)[1] not in places:
+                    continue
+                out.write(line + "\n")
+                n += 1
     return n
 
 
@@ -66,10 +96,11 @@ def split_full(src, dest):
         code = f.name.split(".")[0]
         target = out / f"{code}.tsv"
         n = 0
-        with open(f, encoding="utf-8", newline="") as inp, open(target, "w", encoding="utf-8", newline="\n") as o:
-            o.write(inp.readline().rstrip("\r\n") + "\n")
-            for line in inp:
-                o.write(line.rstrip("\r\n") + "\n")
+        with open(target, "w", encoding="utf-8", newline="\n") as o:
+            lines = street_lines(f)
+            o.write(next(lines) + "\n")
+            for line in lines:
+                o.write(line + "\n")
                 n += 1
         total += n
         manifest.append(f"{code}\t{n}\t{content_hash(target):016x}\n")
@@ -93,7 +124,7 @@ def main():
         if tier == "full":
             s = split_full(a.streets, d)
         else:
-            s = join(a.streets, tier, d / "streets.tsv")
+            s = join(a.streets, tier, d / "streets.tsv", street_lines, place_ids(d / "places.tsv"))
         p = join(a.postcodes, tier, d / "postcodes.tsv")
         print(f"{tier}: {s} street rows, {p} postcode rows")
 

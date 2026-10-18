@@ -1,0 +1,893 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+ET	325579	Koshe Road	primary	1	0	0	
+ET	325780	Road to Woncho	tertiary	1	0	0	
+ET	325780	Road to Yirga Alem	tertiary	1	0	0	
+ET	325780	Yirgalem-Negele Road	secondary	1	0	0	
+ET	326259	Muke Turi - Dessie	secondary	1	0	0	
+ET	326259	Were Ilu - Mekoy Road	secondary	1	0	0	
+ET	326308	Sodere Road	secondary	1	0	0	
+ET	326321	Wondo-Santeria South	tertiary	1	0	0	
+ET	326321	Wondo-Senterya	secondary	1	0	0	
+ET	326321	Yirgalem-Negele Road	secondary	1	0	0	
+ET	326321	Yirgalem/Negele Road	secondary	1	0	0	
+ET	326355	Welkite Gurage	primary	1	0	0	
+ET	326669	balle Ameya;waka Tocha	tertiary	1	0	0	
+ET	327162	Demeka to Turmi	secondary	1	0	0	
+ET	327162	Dimeka to Turmi	secondary	1	0	0	
+ET	327544	ግምጃቤት መስመር	tertiary	1	0	0	
+ET	327694	Tepi - Shishinda	secondary	1	0	0	
+ET	327694	Tepi - Shishinda 1130	secondary	1	0	0	
+ET	328689	Shashamane-Robe Road	primary	1	0	0	
+ET	328689	Wondo Genet - Shashamene road	secondary	1	0	0	
+ET	328689	church_road	residential	1	0	0	
+ET	328689	schoolroad	residential	1	0	0	
+ET	328716	Shakiso - Bule Hora Road	secondary	1	0	0	
+ET	328716	Shakiso - Kibre Mengist Road	secondary	1	0	0	
+ET	328962	Ebbenat - Amde Werq - Sekota Road	primary	1	0	0	
+ET	329114	Menegesha-Suba Forest Road	tertiary	1	0	0	
+ET	329114	Suba-Menagesha Forest Road	tertiary	1	0	0	
+ET	329607	Shashamane-Robe Road	primary	1	0	0	
+ET	330118	Aba Sena Street	tertiary	1	0	0	
+ET	330118	Baro Tumssa Street	tertiary	1	0	0	
+ET	330118	Ebissa Adugna Street	tertiary	1	0	0	
+ET	330118	Engineer Ayana Biru Street	primary	1	0	0	
+ET	330118	Gada Street	tertiary	1	0	0	
+ET	330118	General Tadesse Biru Street	tertiary	1	0	0	
+ET	330118	Hachalu Hundessa Street	residential	1	0	0	
+ET	330118	Haile Fida Street	tertiary	1	0	0	
+ET	330118	Kiramu Street	tertiary	1	0	0	
+ET	330118	Kumssa Moroda Street	primary	1	0	0	
+ET	330118	Onesmos Nesib Street	primary	1	0	0	
+ET	330118	Rev Gudina Tumssa Street	tertiary	1	0	0	
+ET	330118	Sayo Street	tertiary	1	0	0	
+ET	330120	Nedjo - Begi Road	primary	1	0	0	
+ET	330134	Yirgalem-Negele Road	secondary	1	0	0	
+ET	330158	Arb Gebeya Road	tertiary	1	0	0	
+ET	330186	Abebe Bikila Street	secondary	2	1226	1226	
+ET	330186	SHEKLA-2		2	113	113	
+ET	330186	Aba Gada Street	tertiary	1	0	0	
+ET	330186	Aba Gada street	tertiary	1	0	0	
+ET	330186	Aba Jifar Road	tertiary	1	0	0	
+ET	330186	Abebech Gobena Road	tertiary	1	0	0	
+ET	330186	Adama Butta Road	tertiary	1	0	0	
+ET	330186	Adama Hospital Road	tertiary	1	0	0	
+ET	330186	Adama Number Four Street	tertiary	1	0	0	
+ET	330186	Alamayo Atomsa Street	secondary	1	0	0	
+ET	330186	Atlet Wami Biratu Street	secondary	1	0	0	
+ET	330186	Aurora Street	secondary	1	0	0	
+ET	330186	Awash - Assab highway	primary	1	0	0	
+ET	330186	Awash Street	tertiary	1	0	0	
+ET	330186	Colonel Abdisa Aga Street	primary	1	0	0	
+ET	330186	Dr Ali Bira Street	primary	1	0	0	
+ET	330186	Ebisa Adugna Street	secondary	1	0	0	
+ET	330186	Elemo Kiltu Road	tertiary	1	0	0	
+ET	330186	Gada Street	secondary	1	0	0	
+ET	330186	Gadaa Street	secondary	1	0	0	
+ET	330186	Ganda Hara	secondary	1	0	0	
+ET	330186	General Tadese Biru Square	primary	1	0	0	
+ET	330186	General Wako Gutu Street	secondary	1	0	0	
+ET	330186	Geresu Dhuki Street	secondary	1	0	0	
+ET	330186	Gudina Tumsa Street	tertiary	1	0	0	
+ET	330186	Haile Fida Street	tertiary	1	0	0	
+ET	330186	Jara Aba Gada Street	primary	1	0	0	
+ET	330186	Jawar Mohammed Square	primary	1	0	0	
+ET	330186	Karayu Street	secondary	1	0	0	
+ET	330186	Kechema Road	tertiary	1	0	0	
+ET	330186	Kechema Street	tertiary	1	0	0	
+ET	330186	Kenenisa Bekele Street	secondary	1	0	0	
+ET	330186	Lama Guya Street	tertiary	1	0	0	
+ET	330186	Leman Street	tertiary	1	0	0	
+ET	330186	Mamo Mazamir Street	primary	1	0	0	
+ET	330186	Mamo Mazamir street	primary	1	0	0	
+ET	330186	Muger St	tertiary	1	0	0	
+ET	330186	Nadhi Gamada Street	tertiary	1	0	0	
+ET	330186	Nuho Gobana Street	primary	1	0	0	
+ET	330186	Onesmos Nesib Street	tertiary	1	0	0	
+ET	330186	Shagar Street	primary	1	0	0	
+ET	330186	Sinke Street	tertiary	1	0	0	
+ET	330186	Tirunesh Dibaba Street	secondary	1	0	0	
+ET	330186	Wanji Road	secondary	1	0	0	
+ET	330425	Mota Old Road	unclassified	1	0	0	
+ET	330425	Mota Road	primary	1	0	0	
+ET	330534	Mizan - Dima	primary	1	0	0	
+ET	330534	Mizan - Shishinda	primary	1	0	0	
+ET	330534	Mizan - Tepi	primary	1	0	0	
+ET	330691	Mullu Rd	primary	1	0	0	
+ET	330764	Gore - Metu	secondary	1	0	0	
+ET	330764	Metu - Ghimbi	secondary	1	0	0	
+ET	330811	Awash - Assab highway	tertiary	1	0	0	
+ET	330811	Old Road	unclassified	1	0	0	
+ET	331038	Mendi-Wanke Road	tertiary	1	0	0	
+ET	331038	طريق مندي - وانكي	tertiary	1	0	0	Mendi-Wanke Road
+ET	331180	Ageazi Street	tertiary	1	0	0	
+ET	331180	Alula Street	tertiary	1	0	0	
+ET	331180	Avenue Tegadaly Asmelash	residential	1	0	0	
+ET	331180	Godena Eyassu Street	primary	1	0	0	
+ET	331180	Godena Guna	secondary	1	0	0	
+ET	331180	Godena Mussaie	tertiary	1	0	0	
+ET	331180	Hahefen Street	tertiary	1	0	0	
+ET	331180	Old Italian Road	unclassified	1	0	0	
+ET	331180	Romanat Square	tertiary	1	0	0	
+ET	331180	Selam Street	tertiary	1	0	0	
+ET	331180	Witten Germany Street	tertiary	1	0	0	
+ET	331180	known	residential	1	0	0	
+ET	331226	Mehal Meda - Mekoy Road	secondary	1	0	0	
+ET	331630	Gubba Enjibera Road	primary	1	0	0	
+ET	331630	طريق جوبا إنجبيرا	primary	1	0	0	Gubba Enjibera Road
+ET	331872	طريق أديس أبابا - بحر دار القديم	tertiary	1	0	0	Old Addis Ababa - Bahir Dar Road
+ET	331872	طريق أديس أبابا القديم - بحر دار	tertiary	1	0	0	Old Addis Ababa - Bahir Dar Road
+ET	331958	Engineer Menx street	residential	1	0	0	
+ET	331958	Family pension street	residential	1	0	0	
+ET	331958	Galafi pension street	residential	1	0	0	
+ET	331958	Menx Street	residential	1	0	0	
+ET	331958	kokob Stre	residential	1	0	0	
+ET	331968	Omorate to Turmi	tertiary	1	0	0	
+ET	332129	Hawassa - Wolayta Sodo	primary	1	0	0	
+ET	332288	Lalibela - Airport	secondary	1	0	0	
+ET	332288	Lalibela - Geshena Road	secondary	1	0	0	
+ET	332288	ማር መንገድ	residential	1	0	0	Honey Street
+ET	332880	Darul Mashaykh Street	residential	1	0	0	
+ET	332880	Hosana-Alaba	secondary	1	0	0	
+ET	332880	Wuibareg to Alaba Quilto	secondary	1	0	0	
+ET	332938	Shashamane-Robe Road	primary	1	0	0	
+ET	333103	Shakiso - Kibre Mengist Road	secondary	1	0	0	
+ET	333103	Yirgalem-Negele Road	secondary	1	0	0	
+ET	333356	Dray weaher road	residential	1	0	0	
+ET	333356	Jaranio - Mekoy Road	secondary	1	0	0	
+ET	333356	all weather road	residential	1	0	0	
+ET	333356	aspalt road	residential	1	0	0	
+ET	333356	dray ewather road	residential	1	0	0	
+ET	333356	dray weather road	residential	1	0	0	
+ET	333356	graval road	residential	1	0	0	
+ET	333356	residential road	residential	1	0	0	
+ET	333356	residntial	residential	1	0	0	
+ET	333373	Awash - Asseb highway	residential	1	0	0	
+ET	333373	InterLane	secondary	1	0	0	
+ET	333795	Ahmed Guray Street	residential	1	0	0	
+ET	333795	Dhamal Street	secondary	1	0	0	
+ET	333795	Havana Street	residential	1	0	0	
+ET	333795	Qomada Street	residential	1	0	0	
+ET	334124	Inticho - Hawzen Road	secondary	1	0	0	
+ET	334152	Guba Enjibera Road	primary	1	0	0	
+ET	334252	Inda Aba Guna - Debrè Kerbe Road	secondary	1	0	0	
+ET	334495	Ebbenat - Amde Werq - Sekota Road	primary	1	0	0	
+ET	334495	طريق إبينات - أمدا ورك - سيكوتا	primary	1	0	0	Ebbenat - Amde Werq - Sekota Road
+ET	334529	Itiya - Robe - Gasera Road	secondary	1	0	0	
+ET	334609	Mobil Gass Station Street	residential	1	0	0	
+ET	334609	Welkite Gurage	primary	1	0	0	
+ET	334700	Hirna (4) - Mesela Road	primary	1	0	0	
+ET	334700	Meiso - Hirna Road	tertiary	1	0	0	
+ET	335035	Abdulhafiz Khalifa Street	secondary	1	0	0	
+ET	335035	Aboker Street	secondary	1	0	0	
+ET	335035	Addabaabayii Calanqoo / የጨለንቆ አደባባይ	tertiary	1	0	0	Chellenqo Square
+ET	335035	Amir Mahfuz Street	secondary	1	0	0	
+ET	335035	Amir Uga	tertiary	1	0	0	
+ET	335035	Aw Berkhadle Road	secondary	1	0	0	
+ET	335035	Aw Mesh'had Street	tertiary	1	0	0	
+ET	335035	Aw-Hakim Road	tertiary	1	0	0	
+ET	335035	Aye-Kokohey Street	tertiary	1	0	0	
+ET	335035	Bedri Gate Road	tertiary	1	0	0	
+ET	335035	Fila Road	tertiary	1	0	0	
+ET	335035	Jeberti Street	tertiary	1	0	0	
+ET	335035	Mekina Girgir Uga	residential	1	0	0	
+ET	335035	Sayakach Street	residential	1	0	0	
+ET	335035	Selat Road	residential	1	0	0	
+ET	335035	Shash Road	tertiary	1	0	0	
+ET	335035	Shenkor Road	secondary	1	0	0	
+ET	335035	Shk Abubeker Street	tertiary	1	0	0	
+ET	335035	Shk Ahmed Wazir Road	tertiary	1	0	0	
+ET	335035	Shk Ahmed Wazir Squre	tertiary	1	0	0	
+ET	335035	Suktat Gate Street	tertiary	1	0	0	
+ET	335286	Yirgalem-Negele Road	secondary	1	0	0	
+ET	335324	Ajora Road	tertiary	1	0	0	
+ET	335324	Bombe Road	tertiary	1	0	0	
+ET	335324	Hembecho - Ajora - Bombe Road	tertiary	1	0	0	
+ET	335324	Hembecho - Hadaro	tertiary	1	0	0	
+ET	335808	Mizan - Dima	primary	1	0	0	
+ET	335943	Gore - Metu	primary	1	0	0	
+ET	336014	Azezo-Airport-Gorgora Road	primary	1	0	0	
+ET	336014	Bilko-Piazza	primary	1	0	0	
+ET	336014	Lshape Piazza road	tertiary	1	0	0	
+ET	336014	Piazza Bilko	primary	1	0	0	
+ET	336014	مدرسة دبرسلام	unclassified	1	0	0	Debreselam School
+ET	336014	አስመራ መንገድ	tertiary	1	0	0	Asmara Road
+ET	336259	Gode - Walakhere Highway	secondary	1	0	0	
+ET	336317	Robe - Kela - Gobesa Road	tertiary	1	0	0	
+ET	336372	Ambo-Wenchi-Waliso Road	secondary	1	0	0	
+ET	336760	Gasuba - Esho	primary	1	0	0	
+ET	336760	Gasuba - Wolayta Sodo	primary	1	0	0	
+ET	336760	Gasuba Lasho	tertiary	1	0	0	
+ET	336760	Gasuba Road	tertiary	1	0	0	
+ET	337405	Gambela - Gore	primary	1	0	0	
+ET	337405	Nekemte - Gambella	primary	1	0	0	
+ET	337614	Gursum road	tertiary	1	0	0	
+ET	337614	Lafto Road	unclassified	1	0	0	
+ET	337614	gursum road	tertiary	1	0	0	
+ET	337614	laftoo road	unclassified	1	0	0	
+ET	337614	onaya Road	residential	1	0	0	
+ET	337853	Koysha Dam - Laska - Sawla	secondary	1	0	0	
+ET	338554	Road to Dubti	secondary	1	0	0	
+ET	338726	Bale Trekking Road	unclassified	1	0	0	
+ET	338726	MIddle School Street North	residential	1	0	0	
+ET	338726	MIddle School Street West	residential	1	0	0	
+ET	338726	Old Market Avn	residential	1	0	0	
+ET	338726	Shashamane-Robe Road	primary	1	0	0	
+ET	338726	Shashamane/Robe Road	primary	1	0	0	
+ET	338726	Stadium Street East	residential	1	0	0	
+ET	338726	Stadium Street West	residential	1	0	0	
+ET	338832	African Village Road	unclassified	1	0	0	
+ET	338832	African Village road	unclassified	1	0	0	
+ET	338832	Airport Road	residential	1	0	0	
+ET	338832	Ashewa Crossing	tertiary	1	0	0	
+ET	338832	Before Station Road	unclassified	1	0	0	
+ET	338832	Beyond Goro EW Road	unclassified	1	0	0	
+ET	338832	Beyond Sabiyan NS Link East	residential	1	0	0	
+ET	338832	Beyond Sabiyan NS link West	unclassified	1	0	0	
+ET	338832	Cemetery Road	tertiary	1	0	0	
+ET	338832	Dipo Road	secondary	1	0	0	
+ET	338832	Djibouti Road	primary	1	0	0	
+ET	338832	East Kefira Road	secondary	1	0	0	
+ET	338832	East West Goro Road	unclassified	1	0	0	
+ET	338832	East West University Road	primary	1	0	0	
+ET	338832	Fruit Basket Roundabout	secondary	1	0	0	
+ET	338832	Gende Kore Road	unclassified	1	0	0	
+ET	338832	Gende Tesfa Road	unclassified	1	0	0	
+ET	338832	Goro-Gende Kore Road	unclassified	1	0	0	
+ET	338832	Horse Carriage road	residential	1	0	0	
+ET	338832	Inner Bypass	primary	1	0	0	
+ET	338832	Kefira by Deshatu Road	residential	1	0	0	
+ET	338832	Kefira-Shell Road	secondary	1	0	0	
+ET	338832	Konel Road	secondary	1	0	0	
+ET	338832	Legehare Road	secondary	1	0	0	
+ET	338832	Legehare road	secondary	1	0	0	
+ET	338832	Main East West Road	primary	1	0	0	
+ET	338832	Megala Bridge	primary	1	0	0	
+ET	338832	Megala Crossing	residential	1	0	0	
+ET	338832	Meskelegna Roundabout	primary	1	0	0	
+ET	338832	Michael Church Road	secondary	1	0	0	
+ET	338832	North Legehare Road	unclassified	1	0	0	
+ET	338832	North South Goro Link East	unclassified	1	0	0	
+ET	338832	North South Goro Link West	unclassified	1	0	0	
+ET	338832	North South Legehare link	tertiary	1	0	0	
+ET	338832	North South Sabiyan Link East	secondary	1	0	0	
+ET	338832	North South Sabiyan Link Seido	secondary	1	0	0	
+ET	338832	North South Sabiyan Link West	primary	1	0	0	
+ET	338832	Outer Bypass	primary	1	0	0	
+ET	338832	Road to Second Industrial Zone	tertiary	1	0	0	
+ET	338832	Shinile Road	tertiary	1	0	0	
+ET	338832	Station Road	primary	1	0	0	
+ET	338832	Station Road North	primary	1	0	0	
+ET	338832	Station Road South	primary	1	0	0	
+ET	338832	Station road	primary	1	0	0	
+ET	338832	Taiwan Road	residential	1	0	0	
+ET	338832	University Road North	unclassified	1	0	0	
+ET	338832	West Kefira Road	secondary	1	0	0	
+ET	338832	laga hare	residential	1	0	0	
+ET	338832	local road	residential	1	0	0	
+ET	338832	secondary road	unclassified	1	0	0	
+ET	338832	አዋሽ - አሳብ አውራጐዳና	primary	1	0	0	Awash - Assab highway
+ET	339191	Route Ali Sabieh-Frontière Éthiopienne طريق الحدود علي صبيح - إثيوبيا	primary	1	0	0	Ali Sabieh - Ethiopian Border Highway
+ET	339219	Muke Turi - Dessie	secondary	1	0	0	
+ET	339448	Nekemte - Gambella	primary	1	0	0	
+ET	339473	Dembecha-Feres Bet Road	tertiary	1	0	0	
+ET	339473	طريق ديمبيشا - فرس بيت	tertiary	1	0	0	Dembecha-Feres Bet Road
+ET	339629	Hare Wachs - Kobo Road	primary	1	0	0	
+ET	339666	Bishoftu	residential	1	0	0	
+ET	339666	Bishoftu-Adulala-Koka	primary	1	0	0	
+ET	339666	C+N+TWO WAY	residential	1	0	0	
+ET	339666	DIRT ROAD	residential	1	0	0	
+ET	339666	Hora street	secondary	1	0	0	
+ET	339666	bishoftu	residential	1	0	0	
+ET	339666	dirt road	residential	1	0	0	
+ET	339666	dirty road	residential	1	0	0	
+ET	339666	interance	residential	1	0	0	
+ET	339671	Mota Road	primary	1	0	0	
+ET	339671	طريق موتا	primary	1	0	0	Mota Road
+ET	339734	Debre Birhan - Ankober Road	secondary	1	0	0	
+ET	339734	Old Road	unclassified	1	0	0	
+ET	340008	Afessa - Dangla road	tertiary	1	0	0	
+ET	340787	Wolayta Sodo - Bilate - Dilla	secondary	1	0	0	
+ET	341742	Bonga - Feleke Selam	secondary	1	0	0	
+ET	341742	Bonga - Kaka Road	secondary	1	0	0	
+ET	341742	Bonga - Shishinda	primary	1	0	0	
+ET	341742	Jimma - Bonga	secondary	1	0	0	
+ET	341877	Boditi - Shanto	tertiary	1	0	0	
+ET	341877	Kercheche Boditi	tertiary	1	0	0	
+ET	342190	Mota Road	primary	1	0	0	
+ET	342190	طريق موتا	primary	1	0	0	Mota Road
+ET	342445	Bale Umaa	primary	1	0	0	
+ET	342558	Bedeessa - Anka Oruwa	tertiary	1	0	0	
+ET	342558	Bilate Ankka Oruwa	tertiary	1	0	0	
+ET	342558	Dimtu - Anka Oruwa	tertiary	1	0	0	
+ET	342558	Dimtu to Bilate	secondary	1	0	0	
+ET	342567	Bedele - Nekemte Road	primary	1	0	0	
+ET	342641	Jami'i Mesjid Road	residential	1	0	0	
+ET	342788	طريق نكمتي - أسوسا المغذي	tertiary	1	0	0	Nekemte - Asosa Feeder Road
+ET	342856	Airport Road	tertiary	1	0	0	
+ET	342856	Jinka - Mursi Road	tertiary	1	0	0	
+ET	342856	University Road	tertiary	1	0	0	
+ET	342884	Giorgis Road	primary	3	150	150	
+ET	342884	Beg Tera	residential	1	0	0	
+ET	342884	Belay Zeleke	tertiary	1	0	0	
+ET	342884	Belay Zeleke Rd	tertiary	1	0	0	
+ET	342884	Bete Mengistu Rd	residential	1	0	0	
+ET	342884	Bezawit Road	unclassified	1	0	0	
+ET	342884	Eplusapp Road	secondary	1	0	0	
+ET	342884	Haile Silase Rd	secondary	1	0	0	
+ET	342884	Mota Road	primary	1	0	0	
+ET	342884	Old Route 3	primary	1	0	0	
+ET	342884	St.Michael	unclassified	1	0	0	
+ET	342884	University Rd	tertiary	1	0	0	
+ET	342884	eplusapp road	unclassified	1	0	0	
+ET	342884	eplusapproad	secondary	1	0	0	
+ET	342884	بيلاي زليكي	tertiary	1	0	0	Belay Zeleke
+ET	342884	طريق إي بلس آب	primary	1	0	0	eplusapp road
+ET	342884	طريق بحر دار - جوندير	primary	1	0	0	Bahir Dar - Gonder Road
+ET	342884	طريق موتا	primary	1	0	0	Mota Road
+ET	342884	ኢጵላሣጵ መንገድ	primary	1	0	0	
+ET	343137	Abdu		2	934	934	
+ET	343137	Chefe massejida rabbi	residential	1	0	0	
+ET	343137	Massjid Rabbi	residential	1	0	0	
+ET	343137	Sidama	residential	1	0	0	
+ET	343137	Welde Amanuel Dubale Avenue	secondary	1	0	0	
+ET	343137	Yibew Street	residential	1	0	0	
+ET	343292	Assosa_2	tertiary	1	0	0	
+ET	343370	Assela College of Teacher Education Road	residential	1	0	0	
+ET	343370	Gazegn-road	unclassified	1	0	0	
+ET	343370	Jürgen-Klopp-Allee	residential	1	0	0	
+ET	343370	Rue de la Fatma	residential	1	0	0	
+ET	343370	University road	tertiary	1	0	0	
+ET	343593	20 Meter	residential	1	0	0	
+ET	343593	Areka Gara Godo	tertiary	1	0	0	
+ET	343663	Sodo to Arba Minch	secondary	1	0	0	
+ET	343663	To St. Mary Monestry	residential	1	0	0	
+ET	343663	To St. Mary Monstry	residential	1	0	0	
+ET	343663	To water tank	residential	1	0	0	
+ET	344272	Alem Ketema - Mehal Meda Road	secondary	1	0	0	
+ET	344272	Muke Turi - Dessie	secondary	1	0	0	
+ET	344272	Muke Turi - Dessie Road	secondary	1	0	0	
+ET	344420	Center Market	pedestrian	1	0	0	
+ET	344420	Denver Street	tertiary	1	0	0	
+ET	344420	ቦሌ መንገድ	secondary	1	0	0	Airport Street
+ET	344620	Bule Hora - Soyama	secondary	1	0	0	
+ET	344979	African Ave		24	0	0	
+ET	344979	Mozambique Street	primary	9	182	182	
+ET	344979	Zewditu		9	5	217	
+ET	344979	Zewditu Street	primary	8	2	689	
+ET	344979	Cameroon Street	primary	6	221	1221	
+ET	344979	Africa Avenue / Bole Road	primary	5	202	1146	
+ET	344979	Jacros	primary	4	2	24	
+ET	344979	Kebele 24 to Megenagna	secondary	3	1	999	
+ET	344979	New Asco Road		3	197	251	
+ET	344979	Queen Elizabeth Street	primary	3	7	710	
+ET	344979	ጂቡቲ መንገድ	primary	3	4	402	Djibouti Street
+ET	344979	BL_02_380 Street	residential	2	0	0	
+ET	344979	Cameron		2	410	2006	
+ET	344979	Debre Zeit Road	primary	2	2	102	
+ET	344979	Dejazemach Jote Street	secondary	2	366	366	
+ET	344979	Equatorial Guinea Street	primary	2	2	7	
+ET	344979	Hailesilase Street	primary	2	185	185	
+ET	344979	Madagascar Street	tertiary	2	1550	1550	
+ET	344979	Mickililand Condominium		2	102	107	
+ET	344979	Near to AAU College of Commercial		2	0	0	
+ET	344979	Roosevelt Street	primary	2	0	0	
+ET	344979	To Egzabheraab	secondary	2	500	500	
+ET	344979	3_546	residential	1	0	0	
+ET	344979	8_2223	residential	1	0	0	
+ET	344979	8_2225	residential	1	0	0	
+ET	344979	8_2333	residential	1	0	0	
+ET	344979	AR_04_0601 Av	residential	1	0	0	
+ET	344979	AR_04_0602 St.	residential	1	0	0	
+ET	344979	AR_04_0602 Street	residential	1	0	0	
+ET	344979	AR_04_0603 St.	residential	1	0	0	
+ET	344979	AR_04_0605 Street	residential	1	0	0	
+ET	344979	AR_04_0607 Street	residential	1	0	0	
+ET	344979	AR_04_0608 St.	residential	1	0	0	
+ET	344979	AR_04_0608 Street	residential	1	0	0	
+ET	344979	AR_04_0609 Street	residential	1	0	0	
+ET	344979	AR_04_0610 St.	residential	1	0	0	
+ET	344979	AR_04_0611 Street	residential	1	0	0	
+ET	344979	AR_04_0612 Street	residential	1	0	0	
+ET	344979	AR_04_0613 St.	residential	1	0	0	
+ET	344979	AR_04_0613 Street	residential	1	0	0	
+ET	344979	AR_04_0615 Street	residential	1	0	0	
+ET	344979	AR_04_0625 St.	residential	1	0	0	
+ET	344979	AR_04_0628 Street	residential	1	0	0	
+ET	344979	AR_04_0630 Street	residential	1	0	0	
+ET	344979	AR_04_0632 Street	residential	1	0	0	
+ET	344979	AR_04_0634 Street	residential	1	0	0	
+ET	344979	AR_04_0636 Street	residential	1	0	0	
+ET	344979	AR_04_0637 Street	residential	1	0	0	
+ET	344979	AR_04_0638 Street	residential	1	0	0	
+ET	344979	AR_04_0639 Street	residential	1	0	0	
+ET	344979	AR_04_0640 Street	residential	1	0	0	
+ET	344979	AR_04_0641 Street	residential	1	0	0	
+ET	344979	AR_04_0642 Street	residential	1	0	0	
+ET	344979	AR_04_0643 Street	residential	1	0	0	
+ET	344979	AR_04_0645 Street	residential	1	0	0	
+ET	344979	AR_04_0651 Street	residential	1	0	0	
+ET	344979	AR_04_0653 Street	residential	1	0	0	
+ET	344979	AR_04_0654 St.	residential	1	0	0	
+ET	344979	AR_04_0655 Street	residential	1	0	0	
+ET	344979	AR_04_0656 St.	residential	1	0	0	
+ET	344979	AR_04_0657 St	residential	1	0	0	
+ET	344979	AR_04_0657 Street	residential	1	0	0	
+ET	344979	AR_04_0658 St.	residential	1	0	0	
+ET	344979	AR_04_0659 St	residential	1	0	0	
+ET	344979	AR_04_0659 Street	residential	1	0	0	
+ET	344979	AR_04_0660 St.	residential	1	0	0	
+ET	344979	AR_04_0661 St.	residential	1	0	0	
+ET	344979	AR_04_0662 St.	residential	1	0	0	
+ET	344979	AR_04_0664 St.	residential	1	0	0	
+ET	344979	AR_04_0666 St.	residential	1	0	0	
+ET	344979	AR_04_0668 St.	residential	1	0	0	
+ET	344979	AR_04_0670 St.	residential	1	0	0	
+ET	344979	AR_04_0674 St.	residential	1	0	0	
+ET	344979	AR_04_0675 St.	residential	1	0	0	
+ET	344979	AR_04_0676 St.	residential	1	0	0	
+ET	344979	AR_04_0677 St.	residential	1	0	0	
+ET	344979	AR_04_0678 St.	residential	1	0	0	
+ET	344979	AR_04_0679 St.	residential	1	0	0	
+ET	344979	AR_04_0680 St.	residential	1	0	0	
+ET	344979	AR_04_0681 St	residential	1	0	0	
+ET	344979	AR_04_0681 St.	residential	1	0	0	
+ET	344979	AR_04_0685 St.	residential	1	0	0	
+ET	344979	AR_04_0687 St.	residential	1	0	0	
+ET	344979	AR_04_0689 St.	residential	1	0	0	
+ET	344979	AR_04_0691 St.	residential	1	0	0	
+ET	344979	AR_04_0692 St.	residential	1	0	0	
+ET	344979	AR_04_0694 St.	residential	1	0	0	
+ET	344979	AR_04_0695 St.	residential	1	0	0	
+ET	344979	AR_04_0696 St.	residential	1	0	0	
+ET	344979	AR_04_0698 St	residential	1	0	0	
+ET	344979	AR_04_0702 St	residential	1	0	0	
+ET	344979	AR_04_0702 St.	residential	1	0	0	
+ET	344979	AR_04_0704 St.	residential	1	0	0	
+ET	344979	AR_04_0707 St.	tertiary	1	0	0	
+ET	344979	AR_04_0708 St.	residential	1	0	0	
+ET	344979	AR_04_0709 St	residential	1	0	0	
+ET	344979	AR_04_0709 St.	residential	1	0	0	
+ET	344979	AR_04_0711 St	residential	1	0	0	
+ET	344979	AR_04_0711 St.	residential	1	0	0	
+ET	344979	AR_04_0712 St	residential	1	0	0	
+ET	344979	AR_04_0714 St	residential	1	0	0	
+ET	344979	AR_04_0715 St	residential	1	0	0	
+ET	344979	AR_04_0716 St	residential	1	0	0	
+ET	344979	AR_04_0717 St	residential	1	0	0	
+ET	344979	AR_04_0718 St.	residential	1	0	0	
+ET	344979	AR_04_0719 St	residential	1	0	0	
+ET	344979	AR_04_0720 St	residential	1	0	0	
+ET	344979	AR_04_0720 St.	residential	1	0	0	
+ET	344979	AR_04_0721 St.	residential	1	0	0	
+ET	344979	AR_04_0723 St.	residential	1	0	0	
+ET	344979	AR_04_0725 St	residential	1	0	0	
+ET	344979	AR_04_0725 St.	residential	1	0	0	
+ET	344979	AR_04_0727 St.	residential	1	0	0	
+ET	344979	AR_04_0729 St.	residential	1	0	0	
+ET	344979	AR_04_0731 St.	residential	1	0	0	
+ET	344979	AR_04_0733 St	residential	1	0	0	
+ET	344979	AR_04_2413 Av	residential	1	0	0	
+ET	344979	AR_06_1001 St. / Haile Maryam Mamo St.	secondary	1	0	0	
+ET	344979	AR_06_1003 St.	residential	1	0	0	
+ET	344979	AR_06_1010 St.	residential	1	0	0	
+ET	344979	AR_06_1011 St.	residential	1	0	0	
+ET	344979	AR_06_1012 St.	residential	1	0	0	
+ET	344979	AR_06_1013 St.	residential	1	0	0	
+ET	344979	AR_06_1015 St.	residential	1	0	0	
+ET	344979	AR_06_1017 Av.	residential	1	0	0	
+ET	344979	AR_06_1031 St.	residential	1	0	0	
+ET	344979	AR_06_1036 St.	residential	1	0	0	
+ET	344979	AR_06_1074 St. / Welete Yohanis Street	secondary	1	0	0	
+ET	344979	AR_06_1084 St. / Tewodros Av	tertiary	1	0	0	
+ET	344979	AR_06_1104 Street. / Tenagnework Street	secondary	1	0	0	
+ET	344979	Abera Gizwa Street / Gulele_02_368 St.	secondary	1	0	0	
+ET	344979	Adey Abeba Street	tertiary	1	0	0	
+ET	344979	Adwa Square	primary	1	0	0	
+ET	344979	Africa-China Cooperation Square	primary	1	0	0	
+ET	344979	Alexander Pushkin Avenue	primary	1	0	0	
+ET	344979	Algeria Av	primary	1	0	0	
+ET	344979	Algeria Avenue	primary	1	0	0	
+ET	344979	Anbesa Garage - Jackros	primary	1	0	0	
+ET	344979	Anbessa Grarage to Jackros	primary	1	0	0	
+ET	344979	Angola Street	secondary	1	0	0	
+ET	344979	Arada Street	residential	1	0	0	
+ET	344979	Ararat to Kara	primary	1	0	0	
+ET	344979	Arbegnoch Square	primary	1	0	0	
+ET	344979	Ayele Haile Av.	secondary	1	0	0	
+ET	344979	Ayele Haile Avenue	secondary	1	0	0	
+ET	344979	BL_02_303 Street	residential	1	0	0	
+ET	344979	BL_02_318 Street	residential	1	0	0	
+ET	344979	BL_02_320 Street	residential	1	0	0	
+ET	344979	BL_02_322 Street	residential	1	0	0	
+ET	344979	BL_02_349 Street	residential	1	0	0	
+ET	344979	BL_02_351 St	residential	1	0	0	
+ET	344979	BL_02_355 St	residential	1	0	0	
+ET	344979	BL_02_359 St	residential	1	0	0	
+ET	344979	BL_02_376 Street	residential	1	0	0	
+ET	344979	BL_02_379 Street	residential	1	0	0	
+ET	344979	BL_02_381 Street	residential	1	0	0	
+ET	344979	BL_02_383 Street	residential	1	0	0	
+ET	344979	BL_02_386 Street	residential	1	0	0	
+ET	344979	BL_02_389 Street	residential	1	0	0	
+ET	344979	BL_02_391 St.	residential	1	0	0	
+ET	344979	BL_02_393 St	residential	1	0	0	
+ET	344979	BL_02_393 St.	residential	1	0	0	
+ET	344979	BL_02_394 Street	residential	1	0	0	
+ET	344979	BL_02_396 Street	residential	1	0	0	
+ET	344979	BL_02_413 Street	residential	1	0	0	
+ET	344979	BL_02_415 Street	residential	1	0	0	
+ET	344979	BL_02_501 Street	residential	1	0	0	
+ET	344979	BL_03_503 Street	residential	1	0	0	
+ET	344979	BL_03_505 Street	residential	1	0	0	
+ET	344979	BL_03_506 Street	residential	1	0	0	
+ET	344979	BL_03_509 Street	residential	1	0	0	
+ET	344979	BL_03_510 Street	residential	1	0	0	
+ET	344979	BL_03_511 Street	residential	1	0	0	
+ET	344979	BL_03_512 Street	residential	1	0	0	
+ET	344979	BL_03_513 Street	residential	1	0	0	
+ET	344979	BL_03_514 Street	residential	1	0	0	
+ET	344979	BL_03_516 Street	residential	1	0	0	
+ET	344979	BL_03_517 Street	residential	1	0	0	
+ET	344979	BL_03_518 Street	residential	1	0	0	
+ET	344979	BL_03_519 Street	unclassified	1	0	0	
+ET	344979	BL_03_520 Street	residential	1	0	0	
+ET	344979	BL_03_521 Street	unclassified	1	0	0	
+ET	344979	BL_03_521 Street.	unclassified	1	0	0	
+ET	344979	BL_03_523 Street	residential	1	0	0	
+ET	344979	BL_03_525 Street	residential	1	0	0	
+ET	344979	BL_03_526 Street	residential	1	0	0	
+ET	344979	BL_03_527 Street	residential	1	0	0	
+ET	344979	BL_03_528	residential	1	0	0	
+ET	344979	BL_03_529 Street	residential	1	0	0	
+ET	344979	BL_03_530	residential	1	0	0	
+ET	344979	BL_03_531 Street	residential	1	0	0	
+ET	344979	BL_03_532 Street	residential	1	0	0	
+ET	344979	BL_03_533 Street.	residential	1	0	0	
+ET	344979	BL_03_534 Street	primary	1	0	0	
+ET	344979	BL_03_535 Street.	residential	1	0	0	
+ET	344979	BL_03_536 Street	residential	1	0	0	
+ET	344979	BL_03_537 Street.	residential	1	0	0	
+ET	344979	BL_03_538 Street	residential	1	0	0	
+ET	344979	BL_03_539 Street	residential	1	0	0	
+ET	344979	BL_03_540 Street	residential	1	0	0	
+ET	344979	BL_03_541 Street	residential	1	0	0	
+ET	344979	BL_03_542 Street	residential	1	0	0	
+ET	344979	BL_03_544 Street	residential	1	0	0	
+ET	344979	BL_03_546 Street	residential	1	0	0	
+ET	344979	BL_03_547 Street.	residential	1	0	0	
+ET	344979	BL_03_548 Street	residential	1	0	0	
+ET	344979	BL_03_549 Street	residential	1	0	0	
+ET	344979	BL_03_550 Street	residential	1	0	0	
+ET	344979	BL_03_551 Street	residential	1	0	0	
+ET	344979	BL_03_552 Street	residential	1	0	0	
+ET	344979	BL_03_554 Street	residential	1	0	0	
+ET	344979	BL_03_555 Street	residential	1	0	0	
+ET	344979	BL_03_556 Street.	residential	1	0	0	
+ET	344979	BL_03_557 Street	residential	1	0	0	
+ET	344979	BL_03_558 Street	residential	1	0	0	
+ET	344979	BL_03_559 Street	residential	1	0	0	
+ET	344979	BL_03_560 Street.	residential	1	0	0	
+ET	344979	BL_03_561 Street	residential	1	0	0	
+ET	344979	BL_03_562 Street	residential	1	0	0	
+ET	344979	BL_03_563 Street	residential	1	0	0	
+ET	344979	BL_03_564	residential	1	0	0	
+ET	344979	BL_03_565 Street	residential	1	0	0	
+ET	344979	BL_03_567 Street	residential	1	0	0	
+ET	344979	BL_03_569 Street	residential	1	0	0	
+ET	344979	BL_03_571 Street	residential	1	0	0	
+ET	344979	BL_03_573 Street	residential	1	0	0	
+ET	344979	BL_03_573 Street.	primary	1	0	0	
+ET	344979	BL_03_577 Street	residential	1	0	0	
+ET	344979	BL_03_579	residential	1	0	0	
+ET	344979	BL_03_579 Street	residential	1	0	0	
+ET	344979	BL_03_581 Street	residential	1	0	0	
+ET	344979	BL_03_583 Street	residential	1	0	0	
+ET	344979	BL_03_588 Street	residential	1	0	0	
+ET	344979	BL_03_590 Street	residential	1	0	0	
+ET	344979	BL_03_592 Street.	residential	1	0	0	
+ET	344979	BL_03_594 Street	residential	1	0	0	
+ET	344979	BL_03_596 Street	residential	1	0	0	
+ET	344979	BL_03_598 Street.	residential	1	0	0	
+ET	344979	BL_03_600 Street	residential	1	0	0	
+ET	344979	BL_03_602 Street.	residential	1	0	0	
+ET	344979	BL_03_604 Street	residential	1	0	0	
+ET	344979	BL_03_607 Street	residential	1	0	0	
+ET	344979	BL_03_608 Street	residential	1	0	0	
+ET	344979	BL_03_610 Street	residential	1	0	0	
+ET	344979	BL_03_612 Street	residential	1	0	0	
+ET	344979	BL_03_613 Street	residential	1	0	0	
+ET	344979	BL_03_614 Street	residential	1	0	0	
+ET	344979	BL_03_615 Street	residential	1	0	0	
+ET	344979	BL_03_617 Street	residential	1	0	0	
+ET	344979	BL_03_618 Street	residential	1	0	0	
+ET	344979	BL_03_619 Street	residential	1	0	0	
+ET	344979	BL_03_620 Street.	residential	1	0	0	
+ET	344979	BL_03_621 Street	residential	1	0	0	
+ET	344979	BL_03_622 Street	unclassified	1	0	0	
+ET	344979	BL_03_622 Street.	unclassified	1	0	0	
+ET	344979	BL_03_623 Street	residential	1	0	0	
+ET	344979	BL_03_624 Street	unclassified	1	0	0	
+ET	344979	BL_03_625 Street	residential	1	0	0	
+ET	344979	BL_03_626 Street	residential	1	0	0	
+ET	344979	BL_03_627 Street	residential	1	0	0	
+ET	344979	BL_03_628 Street	tertiary	1	0	0	
+ET	344979	BL_03_629 Street	residential	1	0	0	
+ET	344979	BL_03_629 Street.	residential	1	0	0	
+ET	344979	BL_03_630 Street	residential	1	0	0	
+ET	344979	BL_03_631 Street	residential	1	0	0	
+ET	344979	BL_03_632 Street	tertiary	1	0	0	
+ET	344979	BL_03_633 Street	residential	1	0	0	
+ET	344979	BL_03_634 Street	residential	1	0	0	
+ET	344979	BL_03_635 Street	residential	1	0	0	
+ET	344979	BL_03_636 Street	residential	1	0	0	
+ET	344979	BL_03_637 Street	residential	1	0	0	
+ET	344979	BL_03_638 Street	residential	1	0	0	
+ET	344979	BL_03_639 Street	residential	1	0	0	
+ET	344979	BL_03_640 Street	residential	1	0	0	
+ET	344979	BL_03_641 Street	residential	1	0	0	
+ET	344979	BL_03_643 Street.	residential	1	0	0	
+ET	344979	BL_03_644 Street	residential	1	0	0	
+ET	344979	BL_03_645 Street.	residential	1	0	0	
+ET	344979	BL_03_646 Street	residential	1	0	0	
+ET	344979	BL_03_647 Street	residential	1	0	0	
+ET	344979	BL_03_649 Street.	residential	1	0	0	
+ET	344979	BL_03_653 Street.	residential	1	0	0	
+ET	344979	BL_03_655 Street	residential	1	0	0	
+ET	344979	BL_03_659 Street.	residential	1	0	0	
+ET	344979	BL_03_661 Street.	residential	1	0	0	
+ET	344979	BL_03_663 Street.	residential	1	0	0	
+ET	344979	BL_03_665 Street.	residential	1	0	0	
+ET	344979	BL_03_667 Street	residential	1	0	0	
+ET	344979	BL_03_669 Street	residential	1	0	0	
+ET	344979	BL_03_670 Street	residential	1	0	0	
+ET	344979	BL_03_671 Street	residential	1	0	0	
+ET	344979	BL_03_672 Street	residential	1	0	0	
+ET	344979	BL_03_675 Street	residential	1	0	0	
+ET	344979	BL_03_676 Street	residential	1	0	0	
+ET	344979	BL_03_678 Street	residential	1	0	0	
+ET	344979	BL_03_679 Street	residential	1	0	0	
+ET	344979	BL_03_680 Street	residential	1	0	0	
+ET	344979	BL_03_682 Street	unclassified	1	0	0	
+ET	344979	BL_03_683 Street	residential	1	0	0	
+ET	344979	BL_03_684 Street	residential	1	0	0	
+ET	344979	BL_03_685 Street	residential	1	0	0	
+ET	344979	BL_03_686 Street	residential	1	0	0	
+ET	344979	BL_03_688 Street	residential	1	0	0	
+ET	344979	BL_03_690 Street	residential	1	0	0	
+ET	344979	BL_03_692 Street	residential	1	0	0	
+ET	344979	BL_03_694 Street	residential	1	0	0	
+ET	344979	BL_03_696 Street	residential	1	0	0	
+ET	344979	BL_03_700	residential	1	0	0	
+ET	344979	BL_03_704 Street	residential	1	0	0	
+ET	344979	BL_03_706 Street	residential	1	0	0	
+ET	344979	BL_03_706 Street.	residential	1	0	0	
+ET	344979	BL_03_708 Street	unclassified	1	0	0	
+ET	344979	BL_03_709 Street	residential	1	0	0	
+ET	344979	BL_03_711 Street	residential	1	0	0	
+ET	344979	BL_03_713 Street	residential	1	0	0	
+ET	344979	BL_03_717 Street	residential	1	0	0	
+ET	344979	BL_03_719 Street	residential	1	0	0	
+ET	344979	BL_03_721	residential	1	0	0	
+ET	344979	BL_03_727 Street	residential	1	0	0	
+ET	344979	BL_03_738 Street.	residential	1	0	0	
+ET	344979	BL_03_739 Street	residential	1	0	0	
+ET	344979	BL_03_740 Street.	residential	1	0	0	
+ET	344979	BL_03_741 Street	residential	1	0	0	
+ET	344979	BL_03_743 Street	residential	1	0	0	
+ET	344979	BL_03_744 Street	residential	1	0	0	
+ET	344979	BL_03_746 Street	residential	1	0	0	
+ET	344979	BL_03_748 Street	residential	1	0	0	
+ET	344979	BL_03_750 Street	residential	1	0	0	
+ET	344979	BL_03_762 Street	residential	1	0	0	
+ET	344979	BL_03_764 Street	residential	1	0	0	
+ET	344979	BL_03_771 street	residential	1	0	0	
+ET	344979	BL_03_772 Street	residential	1	0	0	
+ET	344979	BL_03_773 Street.	residential	1	0	0	
+ET	344979	BL_03_779 Street.	residential	1	0	0	
+ET	344979	BL_03_783 Street.	residential	1	0	0	
+ET	344979	BL_03_785 Av	primary	1	0	0	
+ET	344979	BL_03_785 Avenue	primary	1	0	0	
+ET	344979	BL_03_786 Street	residential	1	0	0	
+ET	344979	BL_03_787 Street	residential	1	0	0	
+ET	344979	BL_03_788 Street	residential	1	0	0	
+ET	344979	BL_03_789 Street	residential	1	0	0	
+ET	344979	BL_03_792 Street	residential	1	0	0	
+ET	344979	BL_03_795 Street	residential	1	0	0	
+ET	344979	BL_03_797 Street	residential	1	0	0	
+ET	344979	BL_03_798 Street	residential	1	0	0	
+ET	344979	BL_03_803 Street	residential	1	0	0	
+ET	344979	BL_03_809 Street	residential	1	0	0	
+ET	344979	BL_03_811 Street	residential	1	0	0	
+ET	344979	BL_03_817 Street	residential	1	0	0	
+ET	344979	BL_03_819 Street	residential	1	0	0	
+ET	344979	BL_03_821 Street	residential	1	0	0	
+ET	344979	BL_06_1397 Street	residential	1	0	0	
+ET	344979	Balcha Street	residential	1	0	0	
+ET	344979	Bekele Weya Street	primary	1	0	0	
+ET	344979	Benin Street	primary	1	0	0	
+ET	344979	Bergoyane Street	secondary	1	0	0	
+ET	344979	Beyene Aba Sebsib Avenue	primary	1	0	0	
+ET	344979	Beyene Merid Street	primary	1	0	0	
+ET	344979	Bl_03_702 Street	residential	1	0	0	
+ET	344979	Bl_03_729 Street	residential	1	0	0	
+ET	344979	Bl_03_734 Street.	residential	1	0	0	
+ET	344979	Bl_03_735 Street	residential	1	0	0	
+ET	344979	Bl_03_765 Street	tertiary	1	0	0	
+ET	344979	Bl_03_765 Street.	tertiary	1	0	0	
+ET	344979	Bl_03_775 Street.	residential	1	0	0	
+ET	344979	Bl_03_781 Street.	residential	1	0	0	
+ET	344979	Bole 1_336 Street	residential	1	0	0	
+ET	344979	Bole 2_234 Street	residential	1	0	0	
+ET	344979	Bole 2_312 Street	residential	1	0	0	
+ET	344979	Bole 2_312 Street.	residential	1	0	0	
+ET	344979	Bole 2_314 Street.	residential	1	0	0	
+ET	344979	Bole 2_316 Street.	residential	1	0	0	
+ET	344979	Bole 2_333 Street	residential	1	0	0	
+ET	344979	Bole 2_335 Street	residential	1	0	0	
+ET	344979	Bole 2_343 Street	residential	1	0	0	
+ET	344979	Bole 2_352 Street	residential	1	0	0	
+ET	344979	Bole2_204	residential	1	0	0	
+ET	344979	Boston Day Spa Parking Lot Road	residential	1	0	0	
+ET	344979	Botswana Street	secondary	1	0	0	
+ET	344979	Burkina Faso Street	secondary	1	0	0	
+ET	344979	Burundi Street	primary	1	0	0	
+ET	344979	Central Africa Republic Street	primary	1	0	0	
+ET	344979	Chad Street	primary	1	0	0	
+ET	344979	Colsen Steet	secondary	1	0	0	
+ET	344979	Colsen Street	secondary	1	0	0	
+ET	344979	Cote d'Ivoire Street	secondary	1	0	0	
+ET	344979	Cunningham Street	primary	1	0	0	
+ET	344979	D.A.R. Sahara Street	primary	1	0	0	
+ET	344979	Dej Wolde Michael Street	primary	1	0	0	
+ET	344979	Dej Zewdu Aba Koran Street	primary	1	0	0	
+ET	344979	Dej. Hailesilassie Av	secondary	1	0	0	
+ET	344979	Dej. Hailesilassie Av. / Tunisia Av.	primary	1	0	0	
+ET	344979	Dej. Mekonin Demisaw	primary	1	0	0	
+ET	344979	Dejazemach Belay Zeleke Street	tertiary	1	0	0	
+ET	344979	Dejazmach Afewerk Street	tertiary	1	0	0	
+ET	344979	Dejazmach Balcha Aba Nefso Street	primary	1	0	0	
+ET	344979	Dejezamach Wolde Gebriel Street	secondary	1	0	0	
+ET	344979	Democratic Republic of Congo Street	secondary	1	0	0	
+ET	344979	Diaspora Square	primary	1	0	0	
+ET	344979	Eden Street	secondary	1	0	0	
+ET	345353	Gish Abay/Adet Road	secondary	1	0	0	
+ET	345353	Mota Road	primary	1	0	0	
+ET	345353	طريق جيش أباي / أدت	secondary	1	0	0	Gish Abay/Adet Road
+ET	345353	طريق موتا	primary	1	0	0	Mota Road
+ET	6913519	Cafe-Class	residential	1	0	0	
+ET	6913519	Palace Street	secondary	1	0	0	
+ET	6913519	Palace street	secondary	1	0	0	
+ET	6913519	residential	residential	1	0	0	
+ET	7910079	21 Mazoria Avenue	unclassified	1	0	0	
+ET	7910079	Ajip Agricultural College Avenue	primary	1	0	0	
+ET	7910079	Arada Avenue	unclassified	1	0	0	
+ET	7910079	Beklo Segno - Wolayta Sodo	tertiary	1	0	0	
+ET	7910079	Christian Hospital Avenue	secondary	1	0	0	
+ET	7910079	Dej W/Semeyet Avenue	primary	1	0	0	
+ET	7910079	Gishe Menafesha Hawassa Avenue	primary	1	0	0	
+ET	7910079	Gutara Staduim Avenue	primary	1	0	0	
+ET	7910079	Gutera Avenue, bus station	primary	1	0	0	
+ET	7910079	Hawassa - Wolayta Sodo	primary	1	0	0	
+ET	7910079	Koka Street	primary	1	0	0	
+ET	7910079	Markato - Otona	primary	1	0	0	
+ET	7910079	Mazegaja Fegegita Avenue	residential	1	0	0	
+ET	7910079	Merkato - Otona	primary	1	0	0	
+ET	7910079	Mulu wengel Condominium Avenue	unclassified	1	0	0	
+ET	7910079	Shiro Meda Avenue	unclassified	1	0	0	
+ET	7910079	University Avenue	primary	1	0	0	
+ET	7910079	Wetet Madeya Avenue	unclassified	1	0	0	
+ET	7910079	Wolayta Sodo - Bilate - Dilla	secondary	1	0	0	
+ET	8643798	Arsi Negele to Weyo Bota	unclassified	1	0	0	
+ET	11048860	Guba - Enjibera Road	primary	1	0	0	
+ET	11048860	Gubba Enjibera Road	primary	1	0	0	
+ET	11048860	طريق جوبا - إنجبيرا	primary	1	0	0	Guba - Enjibera Road
+ET	11048860	طريق جوبا إنجيبيرا	primary	1	0	0	Guba Enjibera Road
+ET	11048860	የአርዲ ወንዝ ድልድይ	residential	1	0	0	Ardi River Bridge
+ET	12640444	Jemma Street	residential	1	0	0	
+ET	12640444	KK_07_2355 Av	residential	1	0	0	
+ET	12640444	KK_07_2355 St.	residential	1	0	0	
+ET	12640444	KK_07_2509 St.	residential	1	0	0	
+ET	12640444	KK_07_2523 St.	residential	1	0	0	
+ET	12640444	KK_07_2525 St.	residential	1	0	0	
+ET	12640444	KK_07_2527 St.	residential	1	0	0	
+ET	12640444	KK_07_2529 St.	residential	1	0	0	
+ET	12640444	KK_07_2533 St.	residential	1	0	0	
+ET	12640444	KK_07_2535 St.	residential	1	0	0	
+ET	12640444	KK_07_2537 St.	residential	1	0	0	
+ET	12640444	KK_07_2541 St.	residential	1	0	0	
+ET	12640444	KK_07_2543 St.	residential	1	0	0	
+ET	12640444	KK_07_2545 St.	residential	1	0	0	
+ET	12640444	KK_07_2549 St.	residential	1	0	0	
+ET	12640444	KK_07_2553 St.	residential	1	0	0	
+ET	12640444	KK_07_2559 St.	residential	1	0	0	
+ET	12640444	KK_07_2567 St.	residential	1	0	0	
+ET	12640444	KK_07_2569 St.	residential	1	0	0	
+ET	12640444	KK_07_2573 St.	residential	1	0	0	
+ET	12640444	KK_07_2575 St.	residential	1	0	0	
+ET	12640444	KK_07_2579 St.	residential	1	0	0	
+ET	12640444	KK_07_2581 St.	residential	1	0	0	
+ET	12640444	KK_07_2583 St.	residential	1	0	0	
+ET	12640444	KK_07_2588 St.	residential	1	0	0	
+ET	12640444	KK_07_2591 St.	residential	1	0	0	
+ET	12640444	KK_07_2599 St.	residential	1	0	0	
+ET	12640444	KK_07_2601 St.	residential	1	0	0	
+ET	12640444	KK_07_2609 St.	residential	1	0	0	
+ET	12640444	KK_07_2621 St.	residential	1	0	0	
+ET	12640444	KK_07_2625 St.	residential	1	0	0	
+ET	12640444	KK_07_2630 St.	residential	1	0	0	
+ET	12640444	KK_07_2633 St.	residential	1	0	0	
+ET	12640444	KK_07_2636 St.	residential	1	0	0	
+ET	12640444	KK_07_2637 St.	residential	1	0	0	
+ET	12640444	KK_07_2640 St.	residential	1	0	0	
+ET	12640444	KK_07_2641 St.	residential	1	0	0	
+ET	12640444	KK_07_2642 St.	residential	1	0	0	
+ET	12640444	KK_07_2643 St.	residential	1	0	0	
+ET	12640444	KK_07_2644 St.	residential	1	0	0	
+ET	12640444	KK_07_2646 St.	residential	1	0	0	
+ET	12640444	KK_07_2647 St.	residential	1	0	0	
+ET	12640444	KK_07_2648 St.	residential	1	0	0	
+ET	12640444	KK_07_2649 St.	residential	1	0	0	
+ET	12640444	KK_07_2650 St.	residential	1	0	0	
+ET	12640444	KK_07_2652 St.	residential	1	0	0	
+ET	12640444	KK_07_2654 St.	residential	1	0	0	
+ET	12640444	KK_07_2656 St.	residential	1	0	0	
+ET	12640444	KK_07_2658 St.	tertiary	1	0	0	
+ET	12640444	KK_07_2660 St.	residential	1	0	0	
+ET	12640444	KK_07_2662 St.	residential	1	0	0	
+ET	12640444	KK_07_2664 St.	residential	1	0	0	
+ET	12640444	KK_07_2666 St.	residential	1	0	0	
+ET	12640444	KK_07_2670 St.	residential	1	0	0	
+ET	12640444	KK_07_2672 St.	residential	1	0	0	
+ET	12640444	KK_07_2674 St.	residential	1	0	0	
+ET	12640444	KK_07_2676 St.	residential	1	0	0	
+ET	12640444	KK_07_2678 St.	residential	1	0	0	
+ET	12640444	KK_07_2680 St.	residential	1	0	0	
+ET	12640444	KK_07_2682 St.	residential	1	0	0	
+ET	12640444	KK_07_2684 St.	residential	1	0	0	
+ET	12640444	KK_07_2686 St.	residential	1	0	0	
+ET	12640444	KK_07_2688 St.	residential	1	0	0	
+ET	12640444	KK_07_2690 St.	residential	1	0	0	
+ET	12640444	KK_07_2692 St.	residential	1	0	0	
+ET	12640444	New Ambo Road	unclassified	1	0	0	
+ET	12640454	Hosana-Alaba	secondary	1	0	0	
+ET	12640458	Gerba - Qericha Road	secondary	1	0	0	
+ET	12640459	Mizan - Shishinda	primary	1	0	0	
+ET	13308373	Dimtu - Anka Oruwa	tertiary	1	0	0	
+ET	13308373	Dimtu - Worqicha - Dendo	tertiary	1	0	0	
+ET	13308373	Dimtu Bilate	secondary	1	0	0	
+ET	13308374	Badessa Galcha	tertiary	1	0	0	
+ET	13308374	Bambala Bridge	tertiary	1	0	0	
+ET	13308374	Bedeessa - Anka Oruwa	tertiary	1	0	0	
+ET	13308374	CHiro Bridge	tertiary	1	0	0	
+ET	13308374	Galcha - Lenda	tertiary	1	0	0	
+ET	13308374	Hawassa - Wolayta Sodo	primary	1	0	0	
+ET	13308374	Kercheche to Ankka Oruwa	unclassified	1	0	0	
+ET	13308375	Bombe Road	tertiary	1	0	0	
+ET	13308375	Hembecho - Ajora - Bombe Road	tertiary	1	0	0	
+ET	13308378	Lasho Wamura	tertiary	1	0	0	
+ET	13308378	Wamura Halaale	tertiary	1	0	0	
+ET	13308378	Zaro Halale	tertiary	1	0	0	
+ET	13308380	Beklo Segno - Wolayta Sodo	tertiary	1	0	0	
+ET	13308380	Lasho Beklo Segno	tertiary	1	0	0	
+ET	13308381	Gasuba Lasho	tertiary	1	0	0	
+ET	13308381	Lasho Bekulo Segno	tertiary	1	0	0	
+ET	13308381	Wamura Lasho	tertiary	1	0	0	
+ET	13308383	Tebela Road	primary	1	0	0	
+ET	13308384	Wolayta Sodo - Bilate - Dilla	secondary	1	0	0	
+ET	13308386	Bilate Hobicha	secondary	1	0	0	
+ET	13308386	Wolayta Sodo - Bilate - Dilla	secondary	1	0	0	
+ET	13308387	Gacheno - Shanto	tertiary	1	0	0	
+ET	13308387	Shanto Gara Godo	tertiary	1	0	0	
+ET	13308387	Shanto Gara Godo Leera	tertiary	1	0	0	
+ET	13308387	Shanto Leera	tertiary	1	0	0	
+ET	13308387	Shanto Road	tertiary	1	0	0	
+ET	13308391	Bitana - Anka Oruwa	tertiary	1	0	0	
+ET	13308391	Bitana - Holota	tertiary	1	0	0	
+ET	13308391	Edo - Dendo	tertiary	1	0	0	
+ET	13308391	Edo - Gacheno	tertiary	1	0	0	
+ET	13308391	Edo - Holota	tertiary	1	0	0	
+ET	13308391	Hawassa - Wolayta Sodo	primary	1	0	0	
+ET	13308391	Kerchche Edo	tertiary	1	0	0	
+ET	13308391	Kercheche Ankka	unclassified	1	0	0	
+ET	13308391	Kercheche Boditi	tertiary	1	0	0	
+ET	13308391	Kercheche to Ankka Oruwa	unclassified	1	0	0	

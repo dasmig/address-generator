@@ -1,0 +1,298 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+KP	1866923	공항거리	tertiary	1	0	0	Airport Street
+KP	1866923	송천교	tertiary	1	0	0	Songcheon Bridge
+KP	1866923	출발및도착	tertiary	1	0	0	Departures and Arrivals
+KP	1867429	National Road 8	primary	1	0	0	
+KP	1868144	무릉교	primary	1	0	0	Mureung Bridge
+KP	1869021	순안거리	primary	1	0	0	Sunan Street
+KP	1869446	송님 로터리	secondary	1	0	0	Songnim Roundabout
+KP	1869446	송림광장	pedestrian	1	0	0	Songnim Square
+KP	1869577	National Road 8	primary	1	0	0	
+KP	1870586	兴港大街	secondary	1	0	0	
+KP	1870586	创业路	unclassified	1	0	0	
+KP	1870648	Revenge-Pledging Place	pedestrian	1	0	0	
+KP	1870742	신안주로터리	primary	1	0	0	Sinanju Roundabout
+KP	1870883	민속거리	tertiary	1	0	0	Folk Street
+KP	1870883	정방다리	primary	1	0	0	
+KP	1871859	개선거리	primary	1	0	0	Kaeson Street
+KP	1871859	경흥거리	primary	1	0	0	Kyonghung Street
+KP	1871859	금릉동굴	secondary	1	0	0	Kumnung Tunnel
+KP	1871859	대동다리	primary	1	0	0	Taedong Bridge
+KP	1871859	대동문강안거리	tertiary	1	0	0	Taedongmun Kangan Street
+KP	1871859	대학거리	primary	1	0	0	Taehak Street
+KP	1871859	대학습당거리	secondary	1	0	0	Taehaksubdang Street
+KP	1871859	동대원거리	primary	1	0	0	Tongdaewon Street
+KP	1871859	락랑거리	primary	1	0	0	Rangrang Street
+KP	1871859	락랑다리	primary	1	0	0	Rakrang Bridge
+KP	1871859	락원거리	primary	1	0	0	Rakwon Street
+KP	1871859	락원다리	primary	1	0	0	Rakwon Bridge
+KP	1871859	러시아거리	residential	1	0	0	Russia Street
+KP	1871859	려명거리	primary	1	0	0	Ryomyong Street
+KP	1871859	룽나로터리	tertiary	1	0	0	Rungna Roundabout
+KP	1871859	륙교거리	tertiary	1	0	0	Ryukkyo Street
+KP	1871859	릉라거리	secondary	1	0	0	Rungna Street
+KP	1871859	릉라교	secondary	1	0	0	Rungna Bridge
+KP	1871859	림흥거리	primary	1	0	0	Rimhung Street
+KP	1871859	만수교	secondary	1	0	0	Mansu Bridge
+KP	1871859	만수대거리	primary	1	0	0	Mansudae Street
+KP	1871859	모란봉거리	secondary	1	0	0	Moranbong Street
+KP	1871859	무진다리	tertiary	1	0	0	
+KP	1871859	문덕거리	secondary	1	0	0	Mundok Street
+KP	1871859	문수거리	primary	1	0	0	Munsu Street
+KP	1871859	미래과학자거리	primary	1	0	0	Future Scientists Street
+KP	1871859	방직거리	tertiary	1	0	0	Pangjik Street
+KP	1871859	버드나무거리	primary	1	0	0	Podunamu Street
+KP	1871859	버드나무대로	primary	1	0	0	Podunamu Street
+KP	1871859	보통문로터리	primary	1	0	0	Potongmun Roundabout
+KP	1871859	봉화거리	secondary	1	0	0	Ponghwa Street
+KP	1871859	봉화교	primary	1	0	0	Ponghwa Bridge
+KP	1871859	북성거리	secondary	1	0	0	Bukseong Street
+KP	1871859	붉은거리	primary	1	0	0	Pulgun Street
+KP	1871859	비파거리	primary	1	0	0	Pipa Street
+KP	1871859	비파교	primary	1	0	0	Pipa Bridge
+KP	1871859	사곡거리	tertiary	1	0	0	Sagok Street
+KP	1871859	산원거리	secondary	1	0	0	Sanwon Street
+KP	1871859	상신거리	secondary	1	0	0	Sangsin Street
+KP	1871859	새마을거리	secondary	1	0	0	Saemaul Street
+KP	1871859	새살림거리	primary	1	0	0	Saesallim Street
+KP	1871859	서문거리	tertiary	1	0	0	Somun Street
+KP	1871859	서성거리	primary	1	0	0	Sosong Street
+KP	1871859	서성교	tertiary	1	0	0	Sosong Bridge
+KP	1871859	서천거리	primary	1	0	0	Sochon Street
+KP	1871859	선교강안거리	secondary	1	0	0	Songyo Quay
+KP	1871859	소삼종거리	tertiary	1	0	0	Sosamjong Street
+KP	1871859	송화거리	primary	1	0	0	Songhwa Street
+KP	1871859	승리거리	primary	1	0	0	Sungri Street
+KP	1871859	신서다리	primary	1	0	0	Sinso Bridge
+KP	1871859	신원거리	secondary	1	0	0	Shinwon Street
+KP	1871859	아티스트스트리트	residential	1	0	0	Artist's Street
+KP	1871859	안산거리	primary	1	0	0	Ansan Street
+KP	1871859	안상택거리	secondary	1	0	0	An Sang-Taek Street
+KP	1871859	양각거리	primary	1	0	0	Yanggak Street
+KP	1871859	양각대교	primary	1	0	0	Yanggak Bridge
+KP	1871859	역전거리	primary	1	0	0	Yokjon Street
+KP	1871859	영웅거리	primary	1	0	0	Yongung Street
+KP	1871859	오탄강안거리	secondary	1	0	0	Otan Kangan Street
+KP	1871859	옥류거리	tertiary	1	0	0	Okryu Street
+KP	1871859	옥류교	primary	1	0	0	Okryu Bridge
+KP	1871859	외교거리	residential	1	0	0	Diplomatic Street
+KP	1871859	운하거리	tertiary	1	0	0	Unha Street
+KP	1871859	인흥거리	secondary	1	0	0	Inhung Street
+KP	1871859	인흥교	secondary	1	0	0	Inhung Bridge
+KP	1871859	전위거리	primary	1	0	0	Jonwi Street
+KP	1871859	조차장다리	secondary	1	0	0	Chochajang Bridge
+KP	1871859	주체탑거리	secondary	1	0	0	Juchetap Street
+KP	1871859	창광원거리	secondary	1	0	0	
+KP	1871859	창전거리	primary	1	0	0	Changjon Street
+KP	1871859	천리마거리	primary	1	0	0	Chollima Street
+KP	1871859	청년거리	primary	1	0	0	Chongnyon Street
+KP	1871859	청류거리	primary	1	0	0	Chongnyu Street
+KP	1871859	청류교	primary	1	0	0	Chongnyu Bridge
+KP	1871859	청류동굴	primary	1	0	0	Chongnyu Tunnel
+KP	1871859	청송거리	tertiary	1	0	0	Chungsong Street
+KP	1871859	청춘거리	primary	1	0	0	Chongchun Street
+KP	1871859	총고거리	secondary	1	0	0	Chongo Street
+KP	1871859	칠성문거리	primary	1	0	0	Chilsongmun Street
+KP	1871859	칠성문대로 (Chilsongmun-daero)	primary	1	0	0	Chilsongmun Street
+KP	1871859	탑제거리	secondary	1	0	0	Tapje Street
+KP	1871859	평천다리	tertiary	1	0	0	Pyongchon Bridge
+KP	1871859	평촌거리	tertiary	1	0	0	Pyongchon Street
+KP	1871859	하신거리	primary	1	0	0	Hasin Street
+KP	1871859	해방산거리	secondary	1	0	0	Haebangsan Street
+KP	1871859	혁신거리	primary	1	0	0	Hyoksin Street
+KP	1871859	화성거리	primary	1	0	0	Hwasong Street
+KP	1871871	광명거리	secondary	1	0	0	Gwangmyeong Street
+KP	1871871	역전거리	secondary	1	0	0	Yeokjeon Street
+KP	1871871	위송스트리트	tertiary	1	0	0	Wisong Street
+KP	1871871	정덕거리	tertiary	1	0	0	Jungdeok Street
+KP	1874533	안산거리	primary	1	0	0	Ansan Street
+KP	1876153	Old Road	unclassified	1	0	0	
+KP	1876373	남대문로터리	primary	1	0	0	Namdaemun Roundabout
+KP	1876373	승전거리	primary	1	0	0	Sungjon Street
+KP	1876373	운학거리	secondary	1	0	0	Unhak Street
+KP	1876373	청년의거리	secondary	1	0	0	Youth Street
+KP	1876373	통일거리	residential	1	0	0	Tongil Street
+KP	1876373	통일다리	primary	1	0	0	Thongil Bridge
+KP	1877030	군자교	secondary	1	0	0	
+KP	1877030	흥덕트롤리버스루프	unclassified	1	0	0	Heungdeok Trolleybus Loop
+KP	1877449	영대교	primary	1	0	0	Yeongdaegyo Bridge
+KP	1877449	함흥역로터리	tertiary	1	0	0	Hamhung Station Roundabout
+KP	1877449	후이양트롤리버스루프	unclassified	1	0	0	Huiyang Trolleybus Loop
+KP	1879029	National Road 8	primary	1	0	0	
+KP	1879613	안주로터리	primary	1	0	0	Anju Roundabout
+KP	2039623	套河线	tertiary	1	0	0	
+KP	2039623	郭马线	tertiary	1	0	0	
+KP	2040893	滨江中路		2	100	106	
+KP	2040893	一纬路	residential	1	0	0	
+KP	2040893	一经街	residential	1	0	0	
+KP	2040893	七纬路	residential	1	0	0	
+KP	2040893	七经街	residential	1	0	0	
+KP	2040893	三纬路	tertiary	1	0	0	
+KP	2040893	三经街	residential	1	0	0	
+KP	2040893	东升路	tertiary	1	0	0	Dongsheng Street
+KP	2040893	东昌路	tertiary	1	0	0	Dongchang Road
+KP	2040893	东泰路	tertiary	1	0	0	Dongtai Road
+KP	2040893	东齐路	tertiary	1	0	0	Dongqi Road
+KP	2040893	中富街	unclassified	1	0	0	Zhongfu Street
+KP	2040893	中朝友谊桥	primary	1	0	0	Sino-Korean Friendship Bridge
+KP	2040893	九江街	tertiary	1	0	0	Jiujiang Street
+KP	2040893	九纬路	residential	1	0	0	9th Wei Road
+KP	2040893	二纬路	residential	1	0	0	2nd Wei Road
+KP	2040893	二经街	primary	1	0	0	
+KP	2040893	五纬路	residential	1	0	0	
+KP	2040893	五经街	residential	1	0	0	
+KP	2040893	体育馆路	tertiary	1	0	0	Tiyuguan Road
+KP	2040893	八纬路	residential	1	0	0	
+KP	2040893	八经街	residential	1	0	0	
+KP	2040893	六纬路	tertiary	1	0	0	
+KP	2040893	六经街	residential	1	0	0	
+KP	2040893	兴一路	secondary	1	0	0	Xing 1st Road
+KP	2040893	兴七路	secondary	1	0	0	Xing 7th Road
+KP	2040893	兴三路	tertiary	1	0	0	
+KP	2040893	兴二路	residential	1	0	0	
+KP	2040893	兴五路	tertiary	1	0	0	Xing 5th Road
+KP	2040893	兴四路	residential	1	0	0	
+KP	2040893	兴隆街	unclassified	1	0	0	
+KP	2040893	前聚宝街	residential	1	0	0	Qianjubao Street
+KP	2040893	前进街	unclassified	1	0	0	
+KP	2040893	后聚宝街	residential	1	0	0	Houjubao Street
+KP	2040893	四纬路	residential	1	0	0	
+KP	2040893	坝岗路	residential	1	0	0	Ba'gang Road
+KP	2040893	大众南路	tertiary	1	0	0	Dazhong South Road
+KP	2040893	大众路	tertiary	1	0	0	Dazhong Road
+KP	2040893	官电街	residential	1	0	0	
+KP	2040893	山上街	secondary	1	0	0	Shanshang Street
+KP	2040893	崇健中街	residential	1	0	0	Chongjian Middle Street
+KP	2040893	新安步行街	pedestrian	1	0	0	
+KP	2040893	新安街	residential	1	0	0	
+KP	2040893	新柳街	residential	1	0	0	Xinliu Street
+KP	2040893	春一路	residential	1	0	0	
+KP	2040893	春三路	secondary	1	0	0	Chun 3rd Road
+KP	2040893	春二路	residential	1	0	0	
+KP	2040893	春五路	residential	1	0	0	
+KP	2040893	春四路	residential	1	0	0	
+KP	2040893	曙光路	tertiary	1	0	0	
+KP	2040893	月亮岛广场	pedestrian	1	0	0	
+KP	2040893	朝凤街	primary	1	0	0	Chaofeng Street
+KP	2040893	江城大街	secondary	1	0	0	Jiangcheng Main Street
+KP	2040893	沙河镇街	residential	1	0	0	Shahezhen Street
+KP	2040893	福春街	secondary	1	0	0	Fuchun Street
+KP	2040893	菜市街	unclassified	1	0	0	
+KP	2040893	财神庙街	tertiary	1	0	0	Chaishenmiao Street
+KP	2040893	迎江街	living_street	1	0	0	
+KP	2040893	迎江街东	living_street	1	0	0	
+KP	2040893	通江街	tertiary	1	0	0	Tongjiang Street
+KP	2040893	金汤街	residential	1	0	0	
+KP	2040893	鸭绿江断桥	pedestrian	1	0	0	Amnok(Yalu) River Broken Bridge
+KP	2040893	黄海大街	secondary	1	0	0	Huanghai Main Street
+KP	2040893	김일성광장	pedestrian	1	0	0	Kim Il Sung Square
+KP	2040893	류초1다리	unclassified	1	0	0	Ryucho 1 Bridge
+KP	2040893	조중친선다리	primary	1	0	0	Sino-Korean Friendship Bridge
+KP	2041442	리명수거리	tertiary	1	0	0	Rimyongsu Street
+KP	2041442	못가거리	primary	1	0	0	
+KP	2041442	밀영거리	secondary	1	0	0	Milyong Street
+KP	2041442	베개봉거리	tertiary	1	0	0	Pegaebong Street
+KP	2041442	봇나무거리	secondary	1	0	0	Ponnamu Street
+KP	2041442	청봉거리	tertiary	1	0	0	Chongbong Street
+KP	2042267	河西线	tertiary	1	0	0	
+KP	2042267	龙虎路	tertiary	1	0	0	
+KP	2042500	国境路	residential	3	8	489	
+KP	2042500	同心路	residential	2	442	444	
+KP	2042500	建设街	residential	2	1315	1317	
+KP	2042500	新华路	residential	2	118	158	
+KP	2042500	新星街	residential	2	98	139	Xinxing Street
+KP	2042500	光明街	unclassified	1	0	0	
+KP	2042500	南宇胡同 남우골목	unclassified	1	0	0	
+KP	2042500	南山路	secondary	1	0	0	
+KP	2042500	友谊街	tertiary	1	0	0	Youyi Street
+KP	2042500	同心步行街	pedestrian	1	0	0	
+KP	2042500	图们大路	secondary	1	0	0	
+KP	2042500	文兴胡同 문흥골목	unclassified	1	0	0	
+KP	2042500	文化街	residential	1	0	0	
+KP	2042500	日光线	tertiary	1	0	0	
+KP	2042500	明星路	residential	1	0	0	Minxing Road
+KP	2042500	灰幕路 회막로	secondary	1	0	0	
+KP	2042500	解放路	tertiary	1	0	0	
+KP	2042500	迎春路	tertiary	1	0	0	
+KP	2042500	锦水街	tertiary	1	0	0	
+KP	2042500	도문대교/图们大桥	primary	1	0	0	Old Tumen Border Bridge
+KP	2042645	라진역로터리	secondary	1	0	0	Rajin Station Roundabout
+KP	2042704	희천-강계	primary	1	0	0	
+KP	2042738	和崇线	primary	1	0	0	
+KP	2042738	甲四街	tertiary	1	0	0	
+KP	2043572	희천-강계	primary	1	0	0	
+KP	2043837	东安路	tertiary	1	0	0	Dong'an Road
+KP	2043837	中兴路	secondary	1	0	0	Zhongxing Road
+KP	2043837	城西路	tertiary	1	0	0	Chengxi Road
+KP	2043837	安民路	tertiary	1	0	0	Anmin Road
+KP	2043837	新市街	residential	1	0	0	Xinshi Street
+KP	2043837	林兴胡同	residential	1	0	0	Linxing Hutong
+KP	2043837	民主街	tertiary	1	0	0	Minzhu Street
+KP	2043837	永兴胡同	residential	1	0	0	Yongxing Hutong
+KP	2043837	永安胡同	residential	1	0	0	Yong'an Hutong
+KP	2043837	白山大街	tertiary	1	0	0	Baishan Street
+KP	2043837	绿江街	residential	1	0	0	Lujiang Street
+KP	2043837	通江路	tertiary	1	0	0	Tongjiang Road
+KP	2043837	长十线	secondary	1	0	0	
+KP	2043837	长惠国际大桥	secondary	1	0	0	Changbai–Hyesan International Bridge
+KP	2043837	长松路	tertiary	1	0	0	Changsong Road
+KP	2043837	장혜국제다리	secondary	1	0	0	Changbai–Hyesan International Bridge
+KP	2044091	三合路 삼합로	secondary	1	0	0	
+KP	2044091	丰收路 풍수로	residential	1	0	0	
+KP	2044091	公园胡同 공원골목	residential	1	0	0	
+KP	2044091	文化路 문화로	tertiary	1	0	0	
+KP	2044091	甑峰胡同 증봉골목	residential	1	0	0	
+KP	2044091	粮朝线	tertiary	1	0	0	
+KP	2044091	금생다리	primary	1	0	0	
+KP	2044489	临江大街	primary	2	391	516	
+KP	2044489	正阳路	secondary	2	57	57	
+KP	2044489	世纪小巷	residential	1	0	0	
+KP	2044489	东市路	residential	1	0	0	
+KP	2044489	东顺街	residential	1	0	0	
+KP	2044489	交通路	tertiary	1	0	0	
+KP	2044489	光华路	residential	1	0	0	
+KP	2044489	光明路	residential	1	0	0	
+KP	2044489	兴临桥	tertiary	1	0	0	
+KP	2044489	兴盛巷	residential	1	0	0	
+KP	2044489	十临线	secondary	1	0	0	
+KP	2044489	华清街	residential	1	0	0	
+KP	2044489	南围子街	tertiary	1	0	0	
+KP	2044489	和兴路	residential	1	0	0	
+KP	2044489	学子路	residential	1	0	0	
+KP	2044489	富兴路	residential	1	0	0	
+KP	2044489	市府路	residential	1	0	0	
+KP	2044489	建国巷	residential	1	0	0	
+KP	2044489	惠民路	residential	1	0	0	
+KP	2044489	文富街	residential	1	0	0	
+KP	2044489	新华街	residential	1	0	0	
+KP	2044489	新发路	residential	1	0	0	
+KP	2044489	新城路	tertiary	1	0	0	
+KP	2044489	新开路	residential	1	0	0	
+KP	2044489	新星路	residential	1	0	0	
+KP	2044489	新村路	tertiary	1	0	0	
+KP	2044489	新民路	residential	1	0	0	
+KP	2044489	栗兴广场	tertiary	1	0	0	
+KP	2044489	栗富路	tertiary	1	0	0	
+KP	2044489	栗文路	residential	1	0	0	
+KP	2044489	民主北路	residential	1	0	0	
+KP	2044489	民主街	residential	1	0	0	
+KP	2044489	民康路	residential	1	0	0	
+KP	2044489	民江街	tertiary	1	0	0	
+KP	2044489	永兴街	residential	1	0	0	
+KP	2044489	江心岛大广场	pedestrian	1	0	0	
+KP	2044489	益江街	residential	1	0	0	
+KP	2044489	站前路	secondary	1	0	0	
+KP	2044489	西顺街	residential	1	0	0	
+KP	2044489	迎宾路	primary	1	0	0	
+KP	2044489	通兴路	residential	1	0	0	
+KP	2044489	通江一胡同	residential	1	0	0	
+KP	2044489	通江二胡同	residential	1	0	0	
+KP	2044489	通江路	residential	1	0	0	
+KP	2044489	通盛路	residential	1	0	0	
+KP	2044489	铁西街	residential	1	0	0	
+KP	2044489	锦江街	residential	1	0	0	
+KP	2044489	顺江街	residential	1	0	0	
+KP	2044757	포항광장	pedestrian	1	0	0	Pohang Plaza
+KP	12083759	图们江大桥/두만강대교	primary	1	0	0	New Tumen River Bridge
+KP	12083895	文化路	tertiary	1	0	0	
+KP	12083895	长青路	tertiary	1	0	0	

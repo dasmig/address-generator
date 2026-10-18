@@ -1,0 +1,675 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+BF	2353257	Nationale 3	primary	1	0	0	
+BF	2353332	Nationale 6	primary	1	0	0	
+BF	2353688	Avenue du Yatenga	primary	1	0	0	
+BF	2353688	Séguénéga Kalsaka - Yako	secondary	1	0	0	
+BF	2355221	Couloir à bétail	unclassified	1	0	0	
+BF	2355404	D31	secondary	1	0	0	
+BF	2355404	D35	secondary	1	0	0	
+BF	2355649	Couloir à bétail	unclassified	1	0	0	
+BF	2355872	D 39	secondary	1	0	0	
+BF	2355872	Départementale 39	secondary	1	0	0	
+BF	2355872	Nationale 6	primary	1	0	0	
+BF	2355886	Avenue Norbert Zongo	primary	1	0	0	
+BF	2355886	Boulevard France-Afrique	primary	1	0	0	
+BF	2355886	Nationale 6	primary	1	0	0	
+BF	2355886	petite route	pedestrian	1	0	0	
+BF	2356136	Route de Sabou	primary	1	0	0	
+BF	2356157	Rue 28.275	residential	1	0	0	
+BF	2356157	rue 28.150	residential	1	0	0	
+BF	2356436	D 55	tertiary	1	0	0	
+BF	2356459	Couloir à bétail	unclassified	1	0	0	
+BF	2356467	n2	unclassified	1	0	0	
+BF	2357043	N 2 Avenue de Mopti		5	48	85	
+BF	2357043	Ouahigouya to Séguénéga	primary	3	45	85	
+BF	2357043	Avenue de Banfora	residential	1	0	0	
+BF	2357043	Avenue de Chambéry	tertiary	1	0	0	
+BF	2357043	Avenue de Lahnstein	tertiary	1	0	0	
+BF	2357043	Avenue de Mopti	primary	1	0	0	
+BF	2357043	Cité des Forces Vives	residential	1	0	0	
+BF	2357043	Cités des Forces Vives	residential	1	0	0	
+BF	2357043	Gondologo	unclassified	1	0	0	
+BF	2357043	Grand Marché	residential	1	0	0	
+BF	2357043	Lycée Municipal	residential	1	0	0	
+BF	2357043	Marché de Bétail	residential	1	0	0	
+BF	2357043	Ministère de L'agriculture	residential	1	0	0	
+BF	2357043	Nab raaga	residential	1	0	0	
+BF	2357043	Oufré	residential	1	0	0	
+BF	2357043	Roite de oufré	tertiary	1	0	0	
+BF	2357043	Rond Point	residential	1	0	0	
+BF	2357043	Rond point Naba Kango	tertiary	1	0	0	
+BF	2357043	Route Alimentation	residential	1	0	0	
+BF	2357043	Route Gondologo	residential	1	0	0	
+BF	2357043	Route Tougan	residential	1	0	0	
+BF	2357043	Route Tougouzague	residential	1	0	0	
+BF	2357043	Route bandana	residential	1	0	0	
+BF	2357043	Route de Gondologo	residential	1	0	0	
+BF	2357043	Route de Oufré	residential	1	0	0	
+BF	2357043	Route de Sigivousse	residential	1	0	0	
+BF	2357043	Route de Tougouzagie	residential	1	0	0	
+BF	2357043	Route de Tougouzague	residential	1	0	0	
+BF	2357043	Route de bouri	residential	1	0	0	
+BF	2357043	Route de fourma	unclassified	1	0	0	
+BF	2357043	Route de la Gare STAF	residential	1	0	0	
+BF	2357043	Route de oudré	residential	1	0	0	
+BF	2357043	Route de oufré	residential	1	0	0	
+BF	2357043	Route de saye	residential	1	0	0	
+BF	2357043	Route du Lycée Jean Peajet	residential	1	0	0	
+BF	2357043	Rue 7.8	residential	1	0	0	
+BF	2357043	Rue Bingo	residential	1	0	0	
+BF	2357043	Rue de l'Hôtel Toyoko	residential	1	0	0	
+BF	2357043	Rue de la Gare Routière	residential	1	0	0	
+BF	2357043	Rue de la Gendarmerie	residential	1	0	0	
+BF	2357043	Rue de la Suisse	residential	1	0	0	
+BF	2357043	Rue du Barrage Kanazoe	residential	1	0	0	
+BF	2357043	Rue du Marché des Bétails	residential	1	0	0	
+BF	2357043	Secteur 13	residential	1	0	0	
+BF	2357048	Rue 9.78		11	18	158	
+BF	2357048	9.78		9	13	177	
+BF	2357048	Avenue Kwamé N'Krumah	primary	8	417	1207	
+BF	2357048	Rue 9.44	residential	4	81	152	
+BF	2357048	13.49		2	0	0	
+BF	2357048	Avenue Gilungu	residential	2	21	33	
+BF	2357048	Avenue Kennedy	residential	2	295	516	
+BF	2357048	Avenue Pascal Zagré	secondary	2	0	0	
+BF	2357048	Avenue Professeur Joseph KI-ZERBO	residential	2	316	316	
+BF	2357048	Avenue du Président Aboubacar Sangoulé Lamizana	primary	2	0	0	
+BF	2357048	Rue 10.05		2	631	631	
+BF	2357048	Rue 15.108		2	78	78	
+BF	2357048	Rue 17.267	residential	2	511	511	
+BF	2357048	Rue 9.66	residential	2	44	52	
+BF	2357048	rue 28.361		2	249	249	
+BF	2357048	13.01	tertiary	1	0	0	
+BF	2357048	15.80	residential	1	0	0	
+BF	2357048	17.38	residential	1	0	0	
+BF	2357048	2.22	residential	1	0	0	
+BF	2357048	2.24	residential	1	0	0	
+BF	2357048	30.21	residential	1	0	0	
+BF	2357048	8.28	residential	1	0	0	
+BF	2357048	8.58	residential	1	0	0	
+BF	2357048	Avenue Babanguida	tertiary	1	0	0	
+BF	2357048	Avenue Basaaka	residential	1	0	0	
+BF	2357048	Avenue Capitaine Kouanda	tertiary	1	0	0	
+BF	2357048	Avenue Conseil de l'Entente	residential	1	0	0	
+BF	2357048	Avenue Dimdolobsom	unclassified	1	0	0	
+BF	2357048	Avenue Gborotigui	residential	1	0	0	
+BF	2357048	Avenue Guillaume Ouedraogo	residential	1	0	0	
+BF	2357048	Avenue Houari Boumedienne	secondary	1	0	0	
+BF	2357048	Avenue Houari Boumédienne	secondary	1	0	0	
+BF	2357048	Avenue Ilboudo Waogyandé	residential	1	0	0	
+BF	2357048	Avenue Kanazoe	tertiary	1	0	0	
+BF	2357048	Avenue Kanzandé Leopold	unclassified	1	0	0	
+BF	2357048	Avenue Kiendrebeogho Moryamba	residential	1	0	0	
+BF	2357048	Avenue Lamine Gueye	residential	1	0	0	
+BF	2357048	Avenue Lamine Gueye (14.72)	residential	1	0	0	
+BF	2357048	Avenue Maane Kaka	residential	1	0	0	
+BF	2357048	Avenue Maurice Yameogo	residential	1	0	0	
+BF	2357048	Avenue Me. Pacere Frederic	unclassified	1	0	0	
+BF	2357048	Avenue Mogho Naba Koom I	residential	1	0	0	
+BF	2357048	Avenue Monseigneur Thévenoud	tertiary	1	0	0	
+BF	2357048	Avenue Norbert Zongo	primary	1	0	0	
+BF	2357048	Avenue Ouadraogo Tibo Bernard	residential	1	0	0	
+BF	2357048	Avenue Ousmane Sembène	secondary	1	0	0	
+BF	2357048	Avenue Pr. Pigri	residential	1	0	0	
+BF	2357048	Avenue President Saye Zerbo	residential	1	0	0	
+BF	2357048	Avenue Père Joseph Wresinski	tertiary	1	0	0	
+BF	2357048	Avenue Raoul Follereau	residential	1	0	0	
+BF	2357048	Avenue Simon Compaoré	tertiary	1	0	0	
+BF	2357048	Avenue Tiemtore Pierre	residential	1	0	0	
+BF	2357048	Avenue Uemoa	residential	1	0	0	
+BF	2357048	Avenue Yateng-Naba Tigré (14.54)	secondary	1	0	0	
+BF	2357048	Avenue Yennenga	residential	1	0	0	
+BF	2357048	Avenue de Loudun	residential	1	0	0	
+BF	2357048	Avenue de Lyon	residential	1	0	0	
+BF	2357048	Avenue de Wogodogo	residential	1	0	0	
+BF	2357048	Avenue de l'Assemblee Nationale	residential	1	0	0	
+BF	2357048	Avenue de l'Aéroport	primary	1	0	0	
+BF	2357048	Avenue de l'Honnêteté	residential	1	0	0	
+BF	2357048	Avenue de l'Hospitalité	residential	1	0	0	
+BF	2357048	Avenue de l'UEMOA	residential	1	0	0	
+BF	2357048	Avenue de l'Universite	residential	1	0	0	
+BF	2357048	Avenue de la B.C.F.A.O.	unclassified	1	0	0	
+BF	2357048	Avenue de la Bendrologie	residential	1	0	0	
+BF	2357048	Avenue de la Cathédrale	secondary	1	0	0	
+BF	2357048	Avenue de la Croix Rouge	tertiary	1	0	0	
+BF	2357048	Avenue de la Dignité	tertiary	1	0	0	
+BF	2357048	Avenue de la Fraternité	unclassified	1	0	0	
+BF	2357048	Avenue de la Grande Mosquée	residential	1	0	0	
+BF	2357048	Avenue de la Liberté	secondary	1	0	0	
+BF	2357048	Avenue de la Nation	residential	1	0	0	
+BF	2357048	Avenue de la Somalie	unclassified	1	0	0	
+BF	2357048	Avenue de la Zambie	residential	1	0	0	
+BF	2357048	Avenue de l´Unité	residential	1	0	0	
+BF	2357048	Avenue des Arts	tertiary	1	0	0	
+BF	2357048	Avenue des Arts (30.03)	tertiary	1	0	0	
+BF	2357048	Avenue des Comores	residential	1	0	0	
+BF	2357048	Avenue du Barrage	unclassified	1	0	0	
+BF	2357048	Avenue du Burkina	secondary	1	0	0	
+BF	2357048	Avenue du Conseil de l'Entente	tertiary	1	0	0	
+BF	2357048	Avenue du Golfe de Syrie	secondary	1	0	0	
+BF	2357048	Avenue du Larlé Naba	primary	1	0	0	
+BF	2357048	Avenue du Mogho (7.02)	secondary	1	0	0	
+BF	2357048	Avenue du Musée National	tertiary	1	0	0	
+BF	2357048	Avenue du Médiateur du Faso	residential	1	0	0	
+BF	2357048	Avenue du Temple	residential	1	0	0	
+BF	2357048	Avenue du Yatenga	primary	1	0	0	
+BF	2357048	Boulevard Capitaine Isidore Noël Thomas Sankara	primary	1	0	0	
+BF	2357048	Boulevard Charles de Gaulle	primary	1	0	0	
+BF	2357048	Boulevard Ernesto Che Guevara	secondary	1	0	0	
+BF	2357048	Boulevard Joseph Ouedraogo	tertiary	1	0	0	
+BF	2357048	Boulevard Muammar Kaddafi	primary	1	0	0	
+BF	2357048	Boulevard Naba Zombre	secondary	1	0	0	
+BF	2357048	Boulevard Ratag Pima	tertiary	1	0	0	
+BF	2357048	Boulevard Ratag Pima (16.02)	tertiary	1	0	0	
+BF	2357048	Boulevard T. Kand-Lalse	residential	1	0	0	
+BF	2357048	Boulevard T. Reongo	primary	1	0	0	
+BF	2357048	Boulevard T. Waore	tertiary	1	0	0	
+BF	2357048	Boulevard Tansoba Wam-Godi	primary	1	0	0	
+BF	2357048	Boulevard Tensoba Woota	primary	1	0	0	
+BF	2357048	Boulevard de l'Insurrection	primary	1	0	0	
+BF	2357048	Boulevard de la Jeunesse	residential	1	0	0	
+BF	2357048	Boulevard des Tensoba	primary	1	0	0	
+BF	2357048	Echangeur de l´Est	primary	1	0	0	
+BF	2357048	Ka-Wéére	residential	1	0	0	
+BF	2357048	Kong Koom	residential	1	0	0	
+BF	2357048	Piis Zuure	residential	1	0	0	
+BF	2357048	Place Naba Koom	residential	1	0	0	
+BF	2357048	Place de l'Architecte	secondary	1	0	0	
+BF	2357048	Place de la Nation	pedestrian	1	0	0	
+BF	2357048	Place des Artistes	tertiary	1	0	0	
+BF	2357048	R	residential	1	0	0	
+BF	2357048	Rond Point 6.30	residential	1	0	0	
+BF	2357048	Rond-Point de Nonsin	tertiary	1	0	0	
+BF	2357048	Rond-Point de Tampouy	tertiary	1	0	0	
+BF	2357048	Rond-Point de la Jeunesse	primary	1	0	0	
+BF	2357048	Rond-Point du Monument des Héros Nationaux	primary	1	0	0	
+BF	2357048	Route vers l'Étrier	residential	1	0	0	
+BF	2357048	Rue 1.04	residential	1	0	0	
+BF	2357048	Rue 1.05	residential	1	0	0	
+BF	2357048	Rue 1.21	residential	1	0	0	
+BF	2357048	Rue 1.37	residential	1	0	0	
+BF	2357048	Rue 10.03	residential	1	0	0	
+BF	2357048	Rue 10.31	residential	1	0	0	
+BF	2357048	Rue 10.34	residential	1	0	0	
+BF	2357048	Rue 10.39	residential	1	0	0	
+BF	2357048	Rue 10.61	residential	1	0	0	
+BF	2357048	Rue 10.74	secondary	1	0	0	
+BF	2357048	Rue 10.82	residential	1	0	0	
+BF	2357048	Rue 10.xx	residential	1	0	0	
+BF	2357048	Rue 11.12	residential	1	0	0	
+BF	2357048	Rue 11.14	residential	1	0	0	
+BF	2357048	Rue 11.27	residential	1	0	0	
+BF	2357048	Rue 11.38	residential	1	0	0	
+BF	2357048	Rue 11.41	residential	1	0	0	
+BF	2357048	Rue 11.42	residential	1	0	0	
+BF	2357048	Rue 11.47	residential	1	0	0	
+BF	2357048	Rue 11.52	residential	1	0	0	
+BF	2357048	Rue 11.77	residential	1	0	0	
+BF	2357048	Rue 12.11	residential	1	0	0	
+BF	2357048	Rue 12.14	residential	1	0	0	
+BF	2357048	Rue 12.16	residential	1	0	0	
+BF	2357048	Rue 12.18	residential	1	0	0	
+BF	2357048	Rue 12.20	residential	1	0	0	
+BF	2357048	Rue 12.22	residential	1	0	0	
+BF	2357048	Rue 12.29	residential	1	0	0	
+BF	2357048	Rue 12.41	residential	1	0	0	
+BF	2357048	Rue 13.18	residential	1	0	0	
+BF	2357048	Rue 13.27	residential	1	0	0	
+BF	2357048	Rue 13.41	residential	1	0	0	
+BF	2357048	Rue 13.53	residential	1	0	0	
+BF	2357048	Rue 13.58	residential	1	0	0	
+BF	2357048	Rue 13.72	residential	1	0	0	
+BF	2357048	Rue 14 21	residential	1	0	0	
+BF	2357048	Rue 14.03	residential	1	0	0	
+BF	2357048	Rue 14.05	residential	1	0	0	
+BF	2357048	Rue 14.06	residential	1	0	0	
+BF	2357048	Rue 14.07	residential	1	0	0	
+BF	2357048	Rue 14.08	residential	1	0	0	
+BF	2357048	Rue 14.09	tertiary	1	0	0	
+BF	2357048	Rue 14.10	residential	1	0	0	
+BF	2357048	Rue 14.100	residential	1	0	0	
+BF	2357048	Rue 14.14	residential	1	0	0	
+BF	2357048	Rue 14.15	residential	1	0	0	
+BF	2357048	Rue 14.16	residential	1	0	0	
+BF	2357048	Rue 14.18	residential	1	0	0	
+BF	2357048	Rue 14.20	residential	1	0	0	
+BF	2357048	Rue 14.22	residential	1	0	0	
+BF	2357048	Rue 14.25	residential	1	0	0	
+BF	2357048	Rue 14.26	residential	1	0	0	
+BF	2357048	Rue 14.27	residential	1	0	0	
+BF	2357048	Rue 14.28	residential	1	0	0	
+BF	2357048	Rue 14.29	residential	1	0	0	
+BF	2357048	Rue 14.30	residential	1	0	0	
+BF	2357048	Rue 14.34	residential	1	0	0	
+BF	2357048	Rue 14.36	residential	1	0	0	
+BF	2357048	Rue 14.40	residential	1	0	0	
+BF	2357048	Rue 14.42	residential	1	0	0	
+BF	2357048	Rue 14.44	residential	1	0	0	
+BF	2357048	Rue 14.48	residential	1	0	0	
+BF	2357048	Rue 14.50	residential	1	0	0	
+BF	2357048	Rue 14.52	residential	1	0	0	
+BF	2357048	Rue 14.54	secondary	1	0	0	
+BF	2357048	Rue 14.58	residential	1	0	0	
+BF	2357048	Rue 14.60	residential	1	0	0	
+BF	2357048	Rue 14.64	residential	1	0	0	
+BF	2357048	Rue 14.66	residential	1	0	0	
+BF	2357048	Rue 14.68	residential	1	0	0	
+BF	2357048	Rue 14.70	residential	1	0	0	
+BF	2357048	Rue 14.74	residential	1	0	0	
+BF	2357048	Rue 14.76	residential	1	0	0	
+BF	2357048	Rue 14.78	residential	1	0	0	
+BF	2357048	Rue 14.80	residential	1	0	0	
+BF	2357048	Rue 14.86	residential	1	0	0	
+BF	2357048	Rue 14.88	residential	1	0	0	
+BF	2357048	Rue 14.90	residential	1	0	0	
+BF	2357048	Rue 15.01	residential	1	0	0	
+BF	2357048	Rue 15.02	residential	1	0	0	
+BF	2357048	Rue 15.03	residential	1	0	0	
+BF	2357048	Rue 15.04	residential	1	0	0	
+BF	2357048	Rue 15.09	residential	1	0	0	
+BF	2357048	Rue 15.11	residential	1	0	0	
+BF	2357048	Rue 15.13	secondary	1	0	0	
+BF	2357048	Rue 15.15	residential	1	0	0	
+BF	2357048	Rue 15.156	residential	1	0	0	
+BF	2357048	Rue 15.166	residential	1	0	0	
+BF	2357048	Rue 15.19	residential	1	0	0	
+BF	2357048	Rue 15.20	residential	1	0	0	
+BF	2357048	Rue 15.200	residential	1	0	0	
+BF	2357048	Rue 15.201	residential	1	0	0	
+BF	2357048	Rue 15.207	residential	1	0	0	
+BF	2357048	Rue 15.217	residential	1	0	0	
+BF	2357048	Rue 15.24	residential	1	0	0	
+BF	2357048	Rue 15.244	residential	1	0	0	
+BF	2357048	Rue 15.25	secondary	1	0	0	
+BF	2357048	Rue 15.251	residential	1	0	0	
+BF	2357048	Rue 15.259	residential	1	0	0	
+BF	2357048	Rue 15.26	residential	1	0	0	
+BF	2357048	Rue 15.261	residential	1	0	0	
+BF	2357048	Rue 15.263	residential	1	0	0	
+BF	2357048	Rue 15.277	residential	1	0	0	
+BF	2357048	Rue 15.28	residential	1	0	0	
+BF	2357048	Rue 15.282	residential	1	0	0	
+BF	2357048	Rue 15.287	residential	1	0	0	
+BF	2357048	Rue 15.292	residential	1	0	0	
+BF	2357048	Rue 15.30	residential	1	0	0	
+BF	2357048	Rue 15.32	residential	1	0	0	
+BF	2357048	Rue 15.34	residential	1	0	0	
+BF	2357048	Rue 15.36	residential	1	0	0	
+BF	2357048	Rue 15.38	residential	1	0	0	
+BF	2357048	Rue 15.40	residential	1	0	0	
+BF	2357048	Rue 15.42	residential	1	0	0	
+BF	2357048	Rue 15.424	residential	1	0	0	
+BF	2357048	Rue 15.44	residential	1	0	0	
+BF	2357048	Rue 15.48	residential	1	0	0	
+BF	2357048	Rue 15.52	residential	1	0	0	
+BF	2357048	Rue 15.54	residential	1	0	0	
+BF	2357048	Rue 15.726	residential	1	0	0	
+BF	2357048	Rue 15.730	residential	1	0	0	
+BF	2357048	Rue 15.734	residential	1	0	0	
+BF	2357048	Rue 15.736	residential	1	0	0	
+BF	2357048	Rue 15.738	residential	1	0	0	
+BF	2357048	Rue 15.740	residential	1	0	0	
+BF	2357048	Rue 15.748	residential	1	0	0	
+BF	2357048	Rue 15.75	residential	1	0	0	
+BF	2357048	Rue 15.750	residential	1	0	0	
+BF	2357048	Rue 15.755	residential	1	0	0	
+BF	2357048	Rue 15.757	residential	1	0	0	
+BF	2357048	Rue 15.759	residential	1	0	0	
+BF	2357048	Rue 15.763	residential	1	0	0	
+BF	2357048	Rue 15.765	residential	1	0	0	
+BF	2357048	Rue 15.767	residential	1	0	0	
+BF	2357048	Rue 15.769	residential	1	0	0	
+BF	2357048	Rue 15.775	residential	1	0	0	
+BF	2357048	Rue 15.788	residential	1	0	0	
+BF	2357048	Rue 15.789	residential	1	0	0	
+BF	2357048	Rue 15.792	residential	1	0	0	
+BF	2357048	Rue 15.799	residential	1	0	0	
+BF	2357048	Rue 15.807	residential	1	0	0	
+BF	2357048	Rue 15.93	residential	1	0	0	
+BF	2357048	Rue 16.03	residential	1	0	0	
+BF	2357048	Rue 16.07	residential	1	0	0	
+BF	2357048	Rue 16.10	residential	1	0	0	
+BF	2357048	Rue 16.16	residential	1	0	0	
+BF	2357048	Rue 16.163	residential	1	0	0	
+BF	2357048	Rue 16.165	residential	1	0	0	
+BF	2357048	Rue 16.169	residential	1	0	0	
+BF	2357048	Rue 16.177	residential	1	0	0	
+BF	2357048	Rue 16.19	residential	1	0	0	
+BF	2357048	Rue 16.193	residential	1	0	0	
+BF	2357048	Rue 16.201	residential	1	0	0	
+BF	2357048	Rue 16.22	residential	1	0	0	
+BF	2357048	Rue 16.273	residential	1	0	0	
+BF	2357048	Rue 16.276	residential	1	0	0	
+BF	2357048	Rue 16.28	residential	1	0	0	
+BF	2357048	Rue 16.282	residential	1	0	0	
+BF	2357048	Rue 16.286	residential	1	0	0	
+BF	2357048	Rue 16.30	residential	1	0	0	
+BF	2357048	Rue 16.35	residential	1	0	0	
+BF	2357048	Rue 16.41	residential	1	0	0	
+BF	2357048	Rue 16.43	residential	1	0	0	
+BF	2357048	Rue 16.44	residential	1	0	0	
+BF	2357048	Rue 16.444	residential	1	0	0	
+BF	2357048	Rue 16.478	residential	1	0	0	
+BF	2357048	Rue 16.48	residential	1	0	0	
+BF	2357048	Rue 16.480	residential	1	0	0	
+BF	2357048	Rue 16.482	residential	1	0	0	
+BF	2357048	Rue 16.484	residential	1	0	0	
+BF	2357048	Rue 16.486	residential	1	0	0	
+BF	2357048	Rue 16.498	residential	1	0	0	
+BF	2357048	Rue 16.50	residential	1	0	0	
+BF	2357048	Rue 16.504	residential	1	0	0	
+BF	2357048	Rue 16.508	residential	1	0	0	
+BF	2357048	Rue 16.51	residential	1	0	0	
+BF	2357048	Rue 16.510	residential	1	0	0	
+BF	2357048	Rue 16.514	residential	1	0	0	
+BF	2357048	Rue 16.65	residential	1	0	0	
+BF	2357048	Rue 16.67	residential	1	0	0	
+BF	2357048	Rue 16.81	residential	1	0	0	
+BF	2357048	Rue 16.82	residential	1	0	0	
+BF	2357048	Rue 16.95	residential	1	0	0	
+BF	2357048	Rue 16.98	residential	1	0	0	
+BF	2357048	Rue 17.019	residential	1	0	0	
+BF	2357048	Rue 17.101	residential	1	0	0	
+BF	2357048	Rue 17.105	residential	1	0	0	
+BF	2357048	Rue 17.110	residential	1	0	0	
+BF	2357048	Rue 17.118	residential	1	0	0	
+BF	2357048	Rue 17.126	residential	1	0	0	
+BF	2357048	Rue 17.127	tertiary	1	0	0	
+BF	2357048	Rue 17.128	residential	1	0	0	
+BF	2357048	Rue 17.13	residential	1	0	0	
+BF	2357048	Rue 17.135	residential	1	0	0	
+BF	2357048	Rue 17.137	residential	1	0	0	
+BF	2357048	Rue 17.168	residential	1	0	0	
+BF	2357048	Rue 17.18	residential	1	0	0	
+BF	2357048	Rue 17.186	secondary	1	0	0	
+BF	2357048	Rue 17.20	residential	1	0	0	
+BF	2357048	Rue 17.201	tertiary	1	0	0	
+BF	2357048	Rue 17.206	residential	1	0	0	
+BF	2357048	Rue 17.209	residential	1	0	0	
+BF	2357048	Rue 17.22	residential	1	0	0	
+BF	2357048	Rue 17.225	residential	1	0	0	
+BF	2357048	Rue 17.236	residential	1	0	0	
+BF	2357048	Rue 17.24	residential	1	0	0	
+BF	2357048	Rue 17.250	tertiary	1	0	0	
+BF	2357048	Rue 17.26	residential	1	0	0	
+BF	2357048	Rue 17.266	secondary	1	0	0	
+BF	2357048	Rue 17.276	secondary	1	0	0	
+BF	2357048	Rue 17.278	residential	1	0	0	
+BF	2357048	Rue 17.280	residential	1	0	0	
+BF	2357048	Rue 17.282	residential	1	0	0	
+BF	2357048	Rue 17.284	residential	1	0	0	
+BF	2357048	Rue 17.286	residential	1	0	0	
+BF	2357048	Rue 17.317	residential	1	0	0	
+BF	2357048	Rue 17.319	residential	1	0	0	
+BF	2357048	Rue 17.320	tertiary	1	0	0	
+BF	2357048	Rue 17.327	residential	1	0	0	
+BF	2357048	Rue 17.329	residential	1	0	0	
+BF	2357048	Rue 17.331	residential	1	0	0	
+BF	2357048	Rue 17.360	residential	1	0	0	
+BF	2357048	Rue 17.385	residential	1	0	0	
+BF	2357048	Rue 17.387	residential	1	0	0	
+BF	2357048	Rue 17.389	residential	1	0	0	
+BF	2357048	Rue 17.390	secondary	1	0	0	
+BF	2357048	Rue 17.392	residential	1	0	0	
+BF	2357048	Rue 17.408	tertiary	1	0	0	
+BF	2357048	Rue 17.418	residential	1	0	0	
+BF	2357048	Rue 17.423	residential	1	0	0	
+BF	2357048	Rue 17.474	residential	1	0	0	
+BF	2357048	Rue 17.486	residential	1	0	0	
+BF	2357048	Rue 17.505	residential	1	0	0	
+BF	2357048	Rue 17.525	residential	1	0	0	
+BF	2357048	Rue 17.526	residential	1	0	0	
+BF	2357048	Rue 17.533	residential	1	0	0	
+BF	2357048	Rue 17.538	residential	1	0	0	
+BF	2357048	Rue 17.546	residential	1	0	0	
+BF	2357048	Rue 17.552	residential	1	0	0	
+BF	2357048	Rue 17.553	residential	1	0	0	
+BF	2357048	Rue 17.554	residential	1	0	0	
+BF	2357048	Rue 17.571	residential	1	0	0	
+BF	2357048	Rue 17.572	residential	1	0	0	
+BF	2357048	Rue 17.577	residential	1	0	0	
+BF	2357048	Rue 17.582	residential	1	0	0	
+BF	2357048	Rue 17.594	residential	1	0	0	
+BF	2357048	Rue 17.619	residential	1	0	0	
+BF	2357048	Rue 17.648	residential	1	0	0	
+BF	2357048	Rue 17.79	residential	1	0	0	
+BF	2357048	Rue 17.90	residential	1	0	0	
+BF	2357048	Rue 18.06	residential	1	0	0	
+BF	2357048	Rue 18.20	residential	1	0	0	
+BF	2357048	Rue 18.42	residential	1	0	0	
+BF	2357048	Rue 18.67	residential	1	0	0	
+BF	2357048	Rue 18.68	residential	1	0	0	
+BF	2357048	Rue 18.70	residential	1	0	0	
+BF	2357048	Rue 18.84	residential	1	0	0	
+BF	2357048	Rue 19.08	residential	1	0	0	
+BF	2357048	Rue 19.100	tertiary	1	0	0	
+BF	2357048	Rue 19.24	tertiary	1	0	0	
+BF	2357048	Rue 19.30	tertiary	1	0	0	
+BF	2357048	Rue 19.33	residential	1	0	0	
+BF	2357048	Rue 19.37	residential	1	0	0	
+BF	2357048	Rue 19.41	secondary	1	0	0	
+BF	2357048	Rue 19.43	unclassified	1	0	0	
+BF	2357048	Rue 19.44	residential	1	0	0	
+BF	2357048	Rue 19.59	residential	1	0	0	
+BF	2357048	Rue 19.61	residential	1	0	0	
+BF	2357048	Rue 19.63	residential	1	0	0	
+BF	2357048	Rue 19.65	residential	1	0	0	
+BF	2357048	Rue 19.68	residential	1	0	0	
+BF	2357048	Rue 19.71	residential	1	0	0	
+BF	2357048	Rue 2.34	residential	1	0	0	
+BF	2357048	Rue 20.29	residential	1	0	0	
+BF	2357048	Rue 20.35	secondary	1	0	0	
+BF	2357048	Rue 20.44	residential	1	0	0	
+BF	2357048	Rue 20.48	residential	1	0	0	
+BF	2357048	Rue 20.59	residential	1	0	0	
+BF	2357048	Rue 20.66	residential	1	0	0	
+BF	2357048	Rue 20.78	residential	1	0	0	
+BF	2357062	R26	tertiary	1	0	0	
+BF	2357062	Route de Dou (Moussodougou-Orodara)	tertiary	1	0	0	
+BF	2357109	Nationale 3	primary	1	0	0	
+BF	2357109	RUE OBERA SIMANDERI	residential	1	0	0	
+BF	2357109	Rond-Point de Kossodo	primary	1	0	0	
+BF	2357109	Rond-Point de Tabtenga	secondary	1	0	0	
+BF	2357109	Rue 25.02	primary	1	0	0	
+BF	2357109	Rue 25.199	unclassified	1	0	0	
+BF	2357109	Rue 25.254	unclassified	1	0	0	
+BF	2357109	Rue 25.256	unclassified	1	0	0	
+BF	2357109	Rue 26.04	residential	1	0	0	
+BF	2357109	Rue 26.09	residential	1	0	0	
+BF	2357109	Rue 26.23	residential	1	0	0	
+BF	2357109	Rue 27.163	unclassified	1	0	0	
+BF	2357109	Rue 27.84	residential	1	0	0	
+BF	2357109	Rue 28.119	residential	1	0	0	
+BF	2357109	Rue 28.16	residential	1	0	0	
+BF	2357109	Rue 28.181	residential	1	0	0	
+BF	2357109	Rue 28.257	tertiary	1	0	0	
+BF	2357109	Rue 28.259	residential	1	0	0	
+BF	2357109	Rue 28.261	residential	1	0	0	
+BF	2357109	Rue 28.263	residential	1	0	0	
+BF	2357109	Rue 28.265	residential	1	0	0	
+BF	2357109	Rue 28.267	residential	1	0	0	
+BF	2357109	Rue 28.269	residential	1	0	0	
+BF	2357109	Rue 28.284	residential	1	0	0	
+BF	2357109	Rue 28.295	residential	1	0	0	
+BF	2357109	Rue 28.297	residential	1	0	0	
+BF	2357109	Rue 28.310	residential	1	0	0	
+BF	2357109	Rue 28.336	residential	1	0	0	
+BF	2357109	Rue 28.338	residential	1	0	0	
+BF	2357109	Rue 28.48	residential	1	0	0	
+BF	2357109	Rue 28.71	residential	1	0	0	
+BF	2357109	Rue Munumuk	residential	1	0	0	
+BF	2357109	Rue Yaab La Tiim	residential	1	0	0	
+BF	2357109	Rue kond Noom	tertiary	1	0	0	
+BF	2357109	Rue kond Noom/voomle	tertiary	1	0	0	
+BF	2357109	route LPO	residential	1	0	0	
+BF	2357109	rue 26.20	residential	1	0	0	
+BF	2357109	rue 26.21	residential	1	0	0	
+BF	2357109	rue 26.31	residential	1	0	0	
+BF	2357109	rue 27.100	residential	1	0	0	
+BF	2357109	rue 27.103	residential	1	0	0	
+BF	2357109	rue 27.129	residential	1	0	0	
+BF	2357109	rue 27.154	residential	1	0	0	
+BF	2357109	rue 27.158	residential	1	0	0	
+BF	2357109	rue 27.94	residential	1	0	0	
+BF	2357109	rue 27.96	residential	1	0	0	
+BF	2357109	rue 28.301	residential	1	0	0	
+BF	2357109	rue 28.93	residential	1	0	0	
+BF	2357109	rue voomle	residential	1	0	0	
+BF	2358100	Nicolás	unclassified	1	0	0	
+BF	2358100	Rue de l'amiral	residential	1	0	0	
+BF	2358100	Rue de la Gloire	residential	1	0	0	
+BF	2358100	Rue de la Paix	residential	1	0	0	
+BF	2358201	Couloir à bétail	unclassified	1	0	0	
+BF	2358201	Nationale 3	primary	1	0	0	
+BF	2358201	R33	tertiary	1	0	0	
+BF	2358382	Route Ouessa - Léo	primary	1	0	0	
+BF	2358434	Couloir à bétail	unclassified	1	0	0	
+BF	2358738	Couloir à bétail	unclassified	1	0	0	
+BF	2358946	Avenue Philippe Zinda Kaboré	primary	1	0	0	
+BF	2358946	Route de Degoudou	primary	1	0	0	
+BF	2358946	Route de Ouagadougou	residential	1	0	0	
+BF	2358946	Route de Sabou	primary	1	0	0	
+BF	2358946	Route de Tresor	tertiary	1	0	0	
+BF	2358946	Rue 4.03	residential	1	0	0	
+BF	2358946	Rue 4.05	residential	1	0	0	
+BF	2358946	Rue 4.11	residential	1	0	0	
+BF	2358946	Rue 4.15	residential	1	0	0	
+BF	2358946	Rue 4.44	residential	1	0	0	
+BF	2358946	Rue 4.64	residential	1	0	0	
+BF	2358946	Rue de Zurich	residential	1	0	0	
+BF	2358946	rue 3.32	residential	1	0	0	
+BF	2359142	Kongoussi - Kossouka - Séguénéga	primary	1	0	0	
+BF	2359214	D 39	secondary	1	0	0	
+BF	2359227	D 48	tertiary	1	0	0	
+BF	2359227	D-39	secondary	1	0	0	
+BF	2359227	D45	tertiary	1	0	0	
+BF	2359227	Départementale 39	secondary	1	0	0	
+BF	2359495	D 42	secondary	1	0	0	
+BF	2359606	D 39	secondary	1	0	0	
+BF	2360620	Gaoua way	residential	8	82	89	
+BF	2360621	Couloir à bétail	unclassified	1	0	0	
+BF	2360621	D 48	tertiary	1	0	0	
+BF	2361177	N 22	primary	1	0	0	
+BF	2361342	Boulevard	residential	1	0	0	
+BF	2361342	Rue Kanazoe	residential	1	0	0	
+BF	2361373	Couloir à bétail	unclassified	1	0	0	
+BF	2361477	Avenue du Gouverneur Binger	secondary	1	0	0	
+BF	2361477	Route de Bobo	primary	1	0	0	
+BF	2361477	Route de Nouna	primary	1	0	0	
+BF	2361567	Couloir à bétail	unclassified	1	0	0	
+BF	2362344	Rue 10.73		2	9	9	
+BF	2362344	Rue 15.195	residential	2	616	616	
+BF	2362344	belle ville		2	0	0	
+BF	2362344	Avenue Alwata Diawara	residential	1	0	0	
+BF	2362344	Avenue François Vilain	residential	1	0	0	
+BF	2362344	Avenue Guimbi Ouattara	residential	1	0	0	
+BF	2362344	Avenue Louveau	secondary	1	0	0	
+BF	2362344	Avenue Mamadou Konaté	residential	1	0	0	
+BF	2362344	Avenue Philippe Zinda Kaboré	residential	1	0	0	
+BF	2362344	Avenue de l'Unité	secondary	1	0	0	
+BF	2362344	Avenue de la Concorde	tertiary	1	0	0	
+BF	2362344	Avenue de la Gironde	unclassified	1	0	0	
+BF	2362344	Avenue de la Nation	secondary	1	0	0	
+BF	2362344	Avenue de la République	tertiary	1	0	0	
+BF	2362344	Avenue de la Révolution	residential	1	0	0	
+BF	2362344	Avenue du Chemin de Fer	residential	1	0	0	
+BF	2362344	Avenue du Colonel Jamot	secondary	1	0	0	
+BF	2362344	Avenue du Gouverneur Binger	tertiary	1	0	0	
+BF	2362344	Avenue du Gouverneur Faidherbe	residential	1	0	0	
+BF	2362344	Avenue du Gouverneur Reste	unclassified	1	0	0	
+BF	2362344	Avenue du Gouverneur William Ponty	residential	1	0	0	
+BF	2362344	Avenue du Governeur Clozel	residential	1	0	0	
+BF	2362344	Avenue du Reverend Nadal	residential	1	0	0	
+BF	2362344	Avénue Maurice Yameogo	unclassified	1	0	0	
+BF	2362344	Boulevard Nelson Mandela	unclassified	1	0	0	
+BF	2362344	Boulevard de la Révolution	secondary	1	0	0	
+BF	2362344	Place de la Révolution	residential	1	0	0	
+BF	2362344	Rond-Point du Palais de la Culture	secondary	1	0	0	
+BF	2362344	Rond-point du Cinquantenaire	secondary	1	0	0	
+BF	2362344	Rue 15.120	residential	1	0	0	
+BF	2362344	Rue 15.122	residential	1	0	0	
+BF	2362344	Rue 15.124	residential	1	0	0	
+BF	2362344	Rue 15.126	residential	1	0	0	
+BF	2362344	Rue 15.128	residential	1	0	0	
+BF	2362344	Rue 15.130	residential	1	0	0	
+BF	2362344	Rue 20.12	pedestrian	1	0	0	
+BF	2362344	Rue 24	residential	1	0	0	
+BF	2362344	Rue 4.03	residential	1	0	0	
+BF	2362344	Rue 5.08	residential	1	0	0	
+BF	2362344	Rue 5.30	residential	1	0	0	
+BF	2362344	Rue 5.31	residential	1	0	0	
+BF	2362344	Rue 5.32	residential	1	0	0	
+BF	2362344	Rue 5.33	residential	1	0	0	
+BF	2362344	Rue 5.34	residential	1	0	0	
+BF	2362344	Rue 5.35	residential	1	0	0	
+BF	2362344	Rue 5.37	residential	1	0	0	
+BF	2362344	Rue 5.44	residential	1	0	0	
+BF	2362344	Rue 5.55	residential	1	0	0	
+BF	2362344	Rue 5.70	residential	1	0	0	
+BF	2362344	Rue Aguibou Traoré	residential	1	0	0	
+BF	2362344	Rue Ali Mossi Traoré	residential	1	0	0	
+BF	2362344	Rue Alphamoi Dienepo	unclassified	1	0	0	
+BF	2362344	Rue Amadou Sânon	residential	1	0	0	
+BF	2362344	Rue Baba Dangadou	residential	1	0	0	
+BF	2362344	Rue Bakary Kassamba	residential	1	0	0	
+BF	2362344	Rue Bakay Dembelé	residential	1	0	0	
+BF	2362344	Rue Bakoli Barro	residential	1	0	0	
+BF	2362344	Rue Bernard Sib Sié	unclassified	1	0	0	
+BF	2362344	Rue Bouloulou Sanogo	residential	1	0	0	
+BF	2362344	Rue Boureima Koumé	residential	1	0	0	
+BF	2362344	Rue Coulibaly	residential	1	0	0	
+BF	2362344	Rue Crozat	residential	1	0	0	
+BF	2362344	Rue Delafosse	residential	1	0	0	
+BF	2362344	Rue Demognongon Koné	residential	1	0	0	
+BF	2362344	Rue Dionaga Ouattara	unclassified	1	0	0	
+BF	2362344	Rue Djibril J. Vinama	tertiary	1	0	0	
+BF	2362344	Rue Docteur Malle N'Diaye	residential	1	0	0	
+BF	2362344	Rue Dominique Kaboré	residential	1	0	0	
+BF	2362344	Rue Fakourou Keita	residential	1	0	0	
+BF	2362344	Rue Frère Rosario Chiquette	residential	1	0	0	
+BF	2362344	Rue Gabrielle Esther C. Choulet	residential	1	0	0	
+BF	2362344	Rue Général Baba Sy	unclassified	1	0	0	
+BF	2362344	Rue Ibrahim Cire Ba	unclassified	1	0	0	
+BF	2362344	Rue Joffre	residential	1	0	0	
+BF	2362344	Rue Kalifa Barro	residential	1	0	0	
+BF	2362344	Rue Karamoko	residential	1	0	0	
+BF	2362344	Rue Lamine Sanou	residential	1	0	0	
+BF	2362344	Rue Lassina Diakité	residential	1	0	0	
+BF	2362344	Rue Mama Sanou	residential	1	0	0	
+BF	2362344	Rue Mory Diakité	unclassified	1	0	0	
+BF	2362344	Rue Naba Koom	residential	1	0	0	
+BF	2362344	Rue Nazi Boni	residential	1	0	0	
+BF	2362344	Rue Ouedreago Noaga	tertiary	1	0	0	
+BF	2362344	Rue Ousmane Sibiri Ouedraogo	residential	1	0	0	
+BF	2362344	Rue Pepin Malherbe	tertiary	1	0	0	
+BF	2362344	Rue Pindera Ouattara	residential	1	0	0	
+BF	2362344	Rue Sadaire	residential	1	0	0	
+BF	2362344	Rue Sadiki Sanou	residential	1	0	0	
+BF	2362344	Rue Salgots	residential	1	0	0	
+BF	2362344	Rue Sanou	residential	1	0	0	
+BF	2362344	Rue Sanou Salia	residential	1	0	0	
+BF	2362344	Rue Seguede Sanou	residential	1	0	0	
+BF	2362344	Rue Setou Fofana	residential	1	0	0	
+BF	2362344	Rue Soulleymane Konaté	residential	1	0	0	
+BF	2362344	Rue Souro Gninmin Sanou	residential	1	0	0	
+BF	2362344	Rue Souro Sanou	residential	1	0	0	
+BF	2362344	Rue Vicens	tertiary	1	0	0	
+BF	2362344	Rue Yamba Traoré Zouré	residential	1	0	0	
+BF	2362344	Rue Zelelou Sanou	unclassified	1	0	0	
+BF	2362344	Rue Zonmelé	residential	1	0	0	
+BF	2362344	Rue de Famechon	residential	1	0	0	
+BF	2362344	Rue de l'Habitat	residential	1	0	0	
+BF	2362344	Rue de l'Industrie	residential	1	0	0	
+BF	2362344	Rue de la Namibie	tertiary	1	0	0	
+BF	2362344	Rue des Arts et des Lettres	unclassified	1	0	0	
+BF	2362344	Rue du Baobab	residential	1	0	0	
+BF	2362344	Rue du Commerce	residential	1	0	0	
+BF	2362344	Rue du Maréchal Foch	residential	1	0	0	
+BF	2362344	Rue du Père Martin	residential	1	0	0	
+BF	2362344	Rue5.05	residential	1	0	0	
+BF	2362344	xcxc	residential	1	0	0	
+BF	2362458	Couloir à bétail	unclassified	1	0	0	
+BF	2362740	D 55	tertiary	1	0	0	
+BF	2362909	Route Banfora - Sindou	secondary	1	0	0	
+BF	2363246	D 55	tertiary	1	0	0	
+BF	12217144	Couloir à bétail	unclassified	1	0	0	

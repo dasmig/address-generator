@@ -1,0 +1,13 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+FK	3426691	Ross Road East	tertiary	42	4	47	
+FK	3426691	Ross Road West	tertiary	42	3	39	
+FK	3426691	Ross Road	tertiary	15	1	41	
+FK	3426691	Beaver Road	residential	11	1	13	
+FK	3426691	Ian Campbell Drive	residential	10	1	19	
+FK	3426691	Pale Maiden Cresent	residential	9	4	47	
+FK	3426691	Capricorn Road	residential	4	3	6	
+FK	3426691	Davis Street	residential	2	31	35	
+FK	3426691	Jeremy Moore Avenue	residential	2	22	23	
+FK	3426691	John Street	residential	2	40	45	
+FK	3426691	Philomel Street	tertiary	2	3	3	
+FK	3426691	Airport Road	primary	1	0	0	

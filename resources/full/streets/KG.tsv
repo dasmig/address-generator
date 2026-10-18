@@ -1,0 +1,2583 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+KG	1222554	Борбордук улица	residential	35	2	118	
+KG	1222554	Жаны-Конуш улица	residential	12	30	38	
+KG	1222554	Чарбак улица	residential	6	8	25	
+KG	1222554	Кош-Добо улица	living_street	5	1	15	
+KG	1222554	Паскы улица	residential	5	2	7	
+KG	1222554	Базар улица	residential	3	1	3	
+KG	1222554	Кунгой-Там-2 улица	residential	3	3	6	
+KG	1222554	Amir Temur ko'chasi	primary	2	5	98	
+KG	1222554	Озгоруш улица	residential	2	2	4	
+KG	1222554	Amirali Saidbekov	living_street	1	0	0	
+KG	1222554	Bobur ko'chasi	residential	1	0	0	
+KG	1222554	Buzurgon ko'chasi	tertiary	1	0	0	
+KG	1222562	Ак-Тилек улица	residential	4	6	12	
+KG	1222562	Ак-Босого улица	residential	1	0	0	
+KG	1222562	Жаштык улица	residential	1	0	0	
+KG	1222562	Ынтымак улица	residential	1	0	0	
+KG	1222606	Үч-Коргон - Дароот-Коргон жоли	tertiary	1	0	0	
+KG	1222635	Гагарина улица	residential	1	0	0	
+KG	1222635	Геологический переулок	residential	1	0	0	
+KG	1222635	Горняков улица	residential	1	0	0	
+KG	1222635	Дружбы улица	residential	1	0	0	
+KG	1222635	Интернациональная улица	residential	1	0	0	
+KG	1222635	Коммунистическая улица	residential	1	0	0	
+KG	1222635	Комсомольская улица	residential	1	0	0	
+KG	1222635	Кривая улица	residential	1	0	0	
+KG	1222635	Матросова улица	residential	1	0	0	
+KG	1222635	Маяковского улица	residential	1	0	0	
+KG	1222635	Металлургов переулок	residential	1	0	0	
+KG	1222635	Металлургов улица	residential	1	0	0	
+KG	1222635	Мира улица	residential	1	0	0	
+KG	1222635	Некрасова улица	residential	1	0	0	
+KG	1222635	Новая улица	residential	1	0	0	
+KG	1222635	Первомайская улица	residential	1	0	0	
+KG	1222635	Пионерская улица	residential	1	0	0	
+KG	1222635	Пушкина улица	residential	1	0	0	Pushkin Street
+KG	1222635	Синицына улица	residential	1	0	0	
+KG	1222635	Советская улица	residential	1	0	0	
+KG	1222635	Степная улица	residential	1	0	0	
+KG	1222635	Таджикская улица	residential	1	0	0	
+KG	1222635	Таджикский переулок	residential	1	0	0	
+KG	1222635	Токтогула улица	residential	1	0	0	
+KG	1222662	Ул.Арка	residential	1	0	0	
+KG	1222662	ул. И.Раззакова	residential	1	0	0	
+KG	1222662	ул.Чынар	residential	1	0	0	
+KG	1222662	ул.имени.Ч Айтматова	residential	1	0	0	
+KG	1222683	Sulaimanov	residential	1	0	0	
+KG	1222708	Азап улица	residential	1	0	0	
+KG	1222708	Азат улица	residential	1	0	0	
+KG	1222708	Достук улица	tertiary	1	0	0	
+KG	1222708	Жаны-Абад улица	residential	1	0	0	
+KG	1222708	Карабаш-тобу улица	tertiary	1	0	0	
+KG	1222708	Кескен Таш Улица	residential	1	0	0	
+KG	1222708	Котурак улица	tertiary	1	0	0	
+KG	1222708	Култук улица	residential	1	0	0	
+KG	1222708	Махалла улица	residential	1	0	0	
+KG	1222708	Сары-Жар улица	residential	1	0	0	
+KG	1222708	Эшмат тобу улица	residential	1	0	0	
+KG	1527004	улица Аманбаева		36	149	224	
+KG	1527004	Мамбетова Б. улица		29	6	23	
+KG	1527004	Сон-кол микрорайон		23	4	25	
+KG	1527004	улица Саякбая Каралаева		17	3	336	
+KG	1527004	улица Толомуш Океева		12	35	274	
+KG	1527004	Тоголок Молдо улица		10	97	103	
+KG	1527004	Жусупа Абдрахманова улица		7	12	352	
+KG	1527004	Тыныстанова		7	160	180	
+KG	1527004	улица Жусупа Абдрахманова		7	13	342	
+KG	1527004	улица Кулакунова		7	49	212	
+KG	1527004	Сон-Кол микрорайон	residential	5	15	31	
+KG	1527004	Жусуп Абдрахманов көчөсү		4	258	434	
+KG	1527004	улица Орозбаева		4	37	43	
+KG	1527004	улица Султанова		4	54	62	
+KG	1527004	Кыдык Калдыбаев		3	154	162	
+KG	1527004	улица Акимканова		3	193	203	
+KG	1527004	улица Манаса		3	22	32	
+KG	1527004	Саякбая Каралаева улица		2	92	96	
+KG	1527004	улица Абдрахманова		2	21	217	
+KG	1527004	улица Алиева		2	66	145	
+KG	1527004	улица Мира	residential	2	10	12	
+KG	1527004	улица Осмонова		2	101	103	
+KG	1527004	1-чи Соода туюгу	residential	1	0	0	
+KG	1527004	2-чи Соода туюгу	residential	1	0	0	
+KG	1527004	Абдраев көчөсү	residential	1	0	0	
+KG	1527004	Абдылдаев көчөсү	residential	1	0	0	
+KG	1527004	Айылчиева	unclassified	1	0	0	
+KG	1527004	Ак-Өлөң көчөсү	residential	1	0	0	
+KG	1527004	Акиев көчөсү	residential	1	0	0	
+KG	1527004	Акимканов көчөсү	residential	1	0	0	
+KG	1527004	Акмат Ибраимов көчөсү	residential	1	0	0	
+KG	1527004	Ала-Арча көчөсү	residential	1	0	0	
+KG	1527004	Ала-Тоо көчөсү	residential	1	0	0	
+KG	1527004	Алиев кирүү көчөсү	residential	1	0	0	
+KG	1527004	Алиев көчөсү	residential	1	0	0	
+KG	1527004	Ананьев көчөсү	residential	1	0	0	
+KG	1527004	Арчалы көчөсү	residential	1	0	0	
+KG	1527004	Ат-Башы көчөсү	residential	1	0	0	
+KG	1527004	Ахунбаев көчөсү	residential	1	0	0	
+KG	1527004	Ашырбеков көчөсү	residential	1	0	0	
+KG	1527004	Батыш 1-көчөсү	residential	1	0	0	
+KG	1527004	Батыш 3-көчөсү	residential	1	0	0	
+KG	1527004	Бейшембиев көчөсү	residential	1	0	0	
+KG	1527004	Бектуров көчөсү	residential	1	0	0	
+KG	1527004	Бердикожо Токбаев көчөсү	residential	1	0	0	
+KG	1527004	Бозов көчөсү	residential	1	0	0	
+KG	1527004	Болот Мамбетов көчөсү	residential	1	0	0	
+KG	1527004	Бөкөнбаев кирүү көчөсү	residential	1	0	0	
+KG	1527103	улица Достук	residential	5	1	4	
+KG	1527103	Ma'rifat ko'chasi	living_street	1	0	0	
+KG	1527103	Абуллаев Куттугали	residential	1	0	0	
+KG	1527103	Ахмедов Маккамбай	residential	1	0	0	
+KG	1527103	Боркошев Маматкул	residential	1	0	0	
+KG	1527103	Үч-Коргон - Дароот-Коргон жоли	secondary	1	0	0	
+KG	1527121	ул. Элебаева	residential	2	84	100	
+KG	1527121	Абдырахманова улица	residential	1	0	0	
+KG	1527121	Абышак улица	residential	1	0	0	
+KG	1527121	Айбалиев улица	living_street	1	0	0	
+KG	1527121	Алиев Ш. улица	residential	1	0	0	
+KG	1527121	Алышбаев К. улица	residential	1	0	0	
+KG	1527121	Бакая улица	residential	1	0	0	
+KG	1527121	Балбая улица	residential	1	0	0	
+KG	1527121	Батырбаев Э. улица	residential	1	0	0	
+KG	1527121	Башкоева улица	residential	1	0	0	
+KG	1527121	Белек улица	residential	1	0	0	
+KG	1527121	Боронбая улица	residential	1	0	0	
+KG	1527121	Высоцкого улица	residential	1	0	0	
+KG	1527121	Гагарина улица	residential	1	0	0	
+KG	1527121	Герцена улица	residential	1	0	0	
+KG	1527121	Дюшева улица	residential	1	0	0	
+KG	1527121	Жакыпбаева улица	residential	1	0	0	
+KG	1527121	Жакыпова улица	residential	1	0	0	
+KG	1527121	Желденов улица	residential	1	0	0	
+KG	1527121	Жуман-Ата улица	residential	1	0	0	
+KG	1527121	Жунуш уулу Акылбек улица	residential	1	0	0	
+KG	1527121	Западная улица	residential	1	0	0	
+KG	1527121	Западный переулок	residential	1	0	0	
+KG	1527121	Иссык-Кульская улица	residential	1	0	0	
+KG	1527170	Абдыш улица	residential	1	0	0	
+KG	1527170	Жанек баатыр улица	residential	1	0	0	
+KG	1527170	Жаны-жер 1 улица	residential	1	0	0	
+KG	1527170	Жаны-жер 4 улица	residential	1	0	0	
+KG	1527170	Жаны-жер 5 улица	residential	1	0	0	
+KG	1527170	Жаны-жер 6 улица	residential	1	0	0	
+KG	1527170	Жаштык 1 улица	residential	1	0	0	
+KG	1527170	Жаштык 2 улица	residential	1	0	0	
+KG	1527170	Жаштык 3 улица	residential	1	0	0	
+KG	1527170	Исмаилова улица	residential	1	0	0	
+KG	1527170	Муратжан улица	residential	1	0	0	
+KG	1527170	Муста-ата улица	residential	1	0	0	
+KG	1527199	Ленина улица	secondary	215	17	387	
+KG	1527199	Нижне-Луговая улица	residential	155	9	225	
+KG	1527199	Верхне-Луговая улица	living_street	151	7	291	
+KG	1527199	Слободская улица	tertiary	140	8	313	
+KG	1527199	Комсомольская улица	residential	109	6	154	
+KG	1527199	Линейная улица	residential	102	6	116	
+KG	1527199	Буранинская улица	living_street	94	2	121	
+KG	1527199	Садовая улица	residential	91	3	91	
+KG	1527199	Ключевая улица	residential	88	5	94	
+KG	1527199	Покровская улица	residential	73	3	104	
+KG	1527199	Шамсинская улица	secondary	70	3	132	
+KG	1527199	Крупской улица	residential	67	5	68	
+KG	1527199	Болеболаева улица	residential	59	8	133	
+KG	1527199	Дубовицкого улица	residential	53	4	236	
+KG	1527199	Заречная улица	living_street	52	10	66	
+KG	1527199	Казахстанская улица	residential	52	8	242	
+KG	1527199	Зелёная улица	residential	51	17	214	
+KG	1527199	Дунларова улица	secondary	49	31	331	
+KG	1527199	Молодёжная улица	residential	46	7	61	
+KG	1527199	Султана Ибраимова улица	secondary	45	2	180	
+KG	1527199	Победы улица	secondary	44	6	255	
+KG	1527199	Охотничья улица	residential	43	4	152	
+KG	1527199	Бугрянка улица	residential	42	4	42	
+KG	1527199	Жантаева улица	primary	42	2	60	Jantaeva Street
+KG	1527199	Интернациональная улица	residential	42	1	123	
+KG	1527199	Карла Маркса улица	residential	42	2	198	
+KG	1527199	Маяковского улица	residential	42	3	56	
+KG	1527199	проезд Учительский	residential	41	7	46	
+KG	1527199	Колхозная улица	residential	40	3	27	
+KG	1527199	8 марта улица	residential	38	3	91	
+KG	1527199	Дзержинского улица	residential	38	4	78	
+KG	1527199	Набережная улица	residential	37	5	271	
+KG	1527199	Пушкина улица	residential	36	21	208	
+KG	1527199	Сарбагышева улица	tertiary	36	4	184	
+KG	1527199	Халила Рахматулина улица	residential	36	3	61	
+KG	1527199	Шолохова улица	residential	36	6	60	
+KG	1527199	Гагарина улица	residential	35	15	168	
+KG	1527199	Лермонтова улица	residential	34	6	38	
+KG	1527199	Сельская улица	residential	34	2	46	
+KG	1527199	Громова улица	residential	30	2	70	
+KG	1527199	Зои Космодемьянской улица	residential	29	1	53	
+KG	1527199	Мамбетжана Сансызбыева улица	secondary	29	4	232	
+KG	1527199	Саадаева улица	residential	29	12	265	
+KG	1527199	Ломоносова улица	residential	28	26	106	
+KG	1527199	Западная улица	residential	27	2	30	
+KG	1527199	Курчатова улица	residential	26	13	267	
+KG	1527199	Татарская улица	residential	25	24	113	
+KG	1527199	Трясина улица	tertiary	24	38	234	
+KG	1527199	Шопокова улица	residential	24	3	43	
+KG	1527199	70 Лет Октября улица	tertiary	23	24	54	
+KG	1527199	Родниковая улица	residential	22	34	105	
+KG	1527199	Токтогула улица 2 проезд	living_street	22	4	42	
+KG	1527199	Космонавтов улица	residential	21	2	30	
+KG	1527199	Борончиева улица	residential	20	3	52	
+KG	1527199	Олега Кошевого улица	residential	20	1	38	
+KG	1527199	Карасуйская улица	residential	19	1	21	
+KG	1527199	Рахмеджана Ибраимова улица	tertiary	19	11	124	
+KG	1527199	Фабричная улица	residential	19	4	76	
+KG	1527199	Стадионная улица	residential	18	6	55	
+KG	1527199	Межевая улица	living_street	17	80	110	
+KG	1527199	Тюленина улица	residential	17	1	33	
+KG	1527199	Бокомбаева улица	residential	16	12	60	
+KG	1527199	Крупской улица 1 проезд	residential	16	1	31	
+KG	1527199	Октябрьская улица	tertiary	16	1	176	
+KG	1527199	Узбекская улица	tertiary	16	18	135	
+KG	1527199	Данила Бабаева улица	residential	15	29	134	
+KG	1527199	Коммунальная улица	residential	15	1	29	
+KG	1527199	Надежда Терешкова улица	residential	15	3	23	
+KG	1527199	Токтогула улица	residential	15	23	172	
+KG	1527199	8 марта 2-й проезд	residential	14	5	37	
+KG	1527199	Гвардейская улица	residential	14	1	33	
+KG	1527199	Логвиненко улица	residential	14	11	94	
+KG	1527199	Моторная улица	residential	14	1	18	
+KG	1527199	Масанчина улица	residential	13	1	109	
+KG	1527199	Речная улица	residential	13	10	63	
+KG	1527199	Северная улица	residential	13	1	46	
+KG	1527199	Вальцовая улица	residential	12	22	93	
+KG	1527199	Вишневая улица	living_street	12	1	13	
+KG	1527199	Гоголя улица	residential	12	4	76	
+KG	1527199	Красная улица	residential	12	3	42	
+KG	1527199	Пудовкина улица	residential	12	1	19	
+KG	1527199	Токмакская улица	residential	12	90	147	
+KG	1527199	Бригадная улица	residential	11	40	67	
+KG	1527199	Ибраимова улица	tertiary	11	5	65	
+KG	1527199	Крупской улица 2 проезд	residential	11	2	22	
+KG	1527199	Советская улица	secondary	11	3	196	
+KG	1527199	Фурманова улица	residential	11	16	46	
+KG	1527199	Куйбышева улица	residential	10	1	60	
+KG	1527199	Строительная улица	residential	10	14	41	
+KG	1527199	Школьная улица	residential	10	1	46	
+KG	1527199	Береговая улица	residential	9	1	125	
+KG	1527199	Киргизская улица	residential	9	3	77	
+KG	1527199	Куренкеева улица	residential	9	20	102	
+KG	1527199	Лесная улица	residential	9	9	14	
+KG	1527199	Тулебердиева улица	residential	9	1	194	
+KG	1527199	8 марта улица 1 проезд	residential	8	4	18	
+KG	1527199	Панфилова улица	residential	8	1	24	
+KG	1527199	Восточная улица	residential	7	2	18	
+KG	1527199	Кирова улица	residential	7	1	19	
+KG	1527199	Овчарова улица	residential	7	24	61	
+KG	1527232	улица Мадий	residential	3	19	21	
+KG	1527232	Дзержинского улица	residential	2	1	1	
+KG	1527232	Чкалова		2	36	36	
+KG	1527232	50 лет Киргизии улица	residential	1	0	0	
+KG	1527232	Street Sovetskaya	residential	1	0	0	
+KG	1527232	Абдраимова улица	residential	1	0	0	
+KG	1527232	Абыл-ата улица	residential	1	0	0	
+KG	1527232	Абылов көчөсү	unclassified	1	0	0	Abylov street
+KG	1527232	Ак-Тилек улица	residential	1	0	0	
+KG	1527232	Алагуш-ата улица	residential	1	0	0	
+KG	1527232	Архитектурная улица	residential	1	0	0	
+KG	1527232	Асаналиева улица	residential	1	0	0	
+KG	1527232	Асанбай көчөсү	unclassified	1	0	0	Asanbai street
+KG	1527232	Батырканова улица	residential	1	0	0	
+KG	1527232	Бейшеналиевой улица	residential	1	0	0	
+KG	1527232	Восточная улица	residential	1	0	0	
+KG	1527232	Гагарина улица	residential	1	0	0	Street Gagarina
+KG	1527232	Горького улица	residential	1	0	0	
+KG	1527232	Достук улица	residential	1	0	0	
+KG	1527232	Жаздабаев көчөсү	residential	1	0	0	Dzhazdabaev street
+KG	1527232	Жаныбекова улица	residential	1	0	0	Street Janybekova
+KG	1527232	Жапаров көчөсү	residential	1	0	0	Dzhaparov street
+KG	1527232	Жаштык улица	residential	1	0	0	
+KG	1527232	Жорупова улица	residential	1	0	0	
+KG	1527244	Абдыбека улица	residential	1	0	0	
+KG	1527244	Ала-Арчинская улица	residential	1	0	0	
+KG	1527244	Байжиева Ташыма улица	residential	1	0	0	
+KG	1527244	Жантемирова Асанбека улица	residential	1	0	0	
+KG	1527244	Жанторошева Касымалы улица	tertiary	1	0	0	
+KG	1527244	Карымшакова улица	residential	1	0	0	
+KG	1527244	Модунчи улица	residential	1	0	0	
+KG	1527244	Мустапы улица	residential	1	0	0	
+KG	1527244	Назаралиева улица	residential	1	0	0	
+KG	1527244	Октябрьская улица	tertiary	1	0	0	
+KG	1527244	Ракымжана улица	residential	1	0	0	
+KG	1527244	Тензебай улица	secondary	1	0	0	
+KG	1527260	Чынгыз Айтматов		50	4	8	
+KG	1527260	ул. Медерова	residential	37	1	19	
+KG	1527260	ул. Ленина	residential	34	3	26	
+KG	1527260	Некрасова	residential	32	1	5	
+KG	1527260	Масалиева Абсамата улица	primary	31	9	60	
+KG	1527260	ул. Чынгыз Айтматов		15	8	30	
+KG	1527260	ул. Некрасова		10	3	3	
+KG	1527260	Токтогул Сатылганов		9	3	40	
+KG	1527260	Ленина		6	18	28	
+KG	1527260	ул. Токтогула Сатылганова	primary	4	22	24	
+KG	1527260	M-076	primary	1	0	0	
+KG	1527260	Спортивная көчөсү	residential	1	0	0	
+KG	1527260	Чыныбаева Улица	residential	1	0	0	
+KG	1527260	ул. Чынгыза Айтматова	living_street	1	0	0	
+KG	1527299	Шеркулова Шекербека улица		95	12	227	
+KG	1527299	Айтматова Чынгыза улица		32	260	505	
+KG	1527299	Бердике баатыра улица		26	124	292	
+KG	1527299	Чапаева улица	residential	12	26	43	
+KG	1527299	Нуржанова улица	residential	11	26	43	
+KG	1527299	Ленина улица	secondary	6	138	321	
+KG	1527299	Манаса улица		2	107	120	
+KG	1527299	Турдалиева улица		2	119	183	
+KG	1527299	Ryskulov G. street	residential	1	0	0	
+KG	1527299	Ак-Тилек улица	residential	1	0	0	
+KG	1527299	Аланкозов көчөсү	residential	1	0	0	
+KG	1527299	Алдашукуров көчөсү	residential	1	0	0	
+KG	1527299	Алтыбай улица	residential	1	0	0	
+KG	1527299	Алтын-Шакек улица	residential	1	0	0	
+KG	1527299	Алымбеков көчөсү	tertiary	1	0	0	
+KG	1527299	Алымкулов көчөсү	tertiary	1	0	0	
+KG	1527299	Арашан переулок	residential	1	0	0	
+KG	1527299	Асанбек Оторбаев көчөсү	tertiary	1	0	0	
+KG	1527299	Атай Огомбаев көчөсү	residential	1	0	0	Atay Ogombayev street
+KG	1527299	Ашыралиев улица	residential	1	0	0	
+KG	1527299	Байгабылов көчөсү	residential	1	0	0	
+KG	1527299	Байгабылов улица	residential	1	0	0	
+KG	1527299	Байгабылова улица	residential	1	0	0	
+KG	1527299	Батыш улица	residential	1	0	0	
+KG	1527299	Бейшенов көчөсү	residential	1	0	0	
+KG	1527299	Бердике баатыр көчөсү	tertiary	1	0	0	Berdike baatr street
+KG	1527299	Беш-Таш көчөсү	residential	1	0	0	
+KG	1527299	Биримкул Осмонкулов көчөсү	residential	1	0	0	Birimkul Osmonkulov street
+KG	1527299	Больничная улица	residential	1	0	0	
+KG	1527299	Бөкөнбаев көчөсү	residential	1	0	0	
+KG	1527299	Демски тар көчөсү	residential	1	0	0	
+KG	1527299	Доолбеков көчөсү	residential	1	0	0	
+KG	1527299	Доолот уулу улица	residential	1	0	0	
+KG	1527299	Доолотбаков улица	residential	1	0	0	
+KG	1527299	Дуйшо уулу улица	residential	1	0	0	
+KG	1527299	Есенбек улица	residential	1	0	0	
+KG	1527299	Жайлообай Бейшенов тар көчөсү	residential	1	0	0	
+KG	1527299	Жакшылык Тагайбаев көчөсү	residential	1	0	0	
+KG	1527299	Жаманкулов көчөсү	residential	1	0	0	
+KG	1527299	Жаманкулов тар көчөсү	residential	1	0	0	
+KG	1527299	Жаны-Конуш улица	residential	1	0	0	
+KG	1527299	Жаштык тар көчөсү	residential	1	0	0	
+KG	1527299	Жаштык улица	residential	1	0	0	
+KG	1527299	Жолдошев көчөсү	residential	1	0	0	
+KG	1527299	Жуманалы уулу улица	residential	1	0	0	
+KG	1527299	Жунус уулу улица	tertiary	1	0	0	
+KG	1527299	Жусупбек уулу улица	residential	1	0	0	
+KG	1527299	Заводдук көчөсү	residential	1	0	0	
+KG	1527317	Дакан - Палван көчөсү	secondary	7	1	37	
+KG	1527317	Сатывалды Палван көчөсү	residential	6	5	103	
+KG	1527317	Тиллабай ажы көчөсү	secondary	6	12	71	
+KG	1527317	Мадумар - Ата көчөсү	residential	5	1	33	
+KG	1527317	РТС көчөсү	residential	2	13	13	
+KG	1527317	Ташназаров көчөсү	residential	2	20	20	
+KG	1527317	70 лет Октября	residential	1	0	0	
+KG	1527317	8-Март көчөсү	residential	1	0	0	
+KG	1527317	Qoradaryo ko'chasi	residential	1	0	0	
+KG	1527317	Абдурашид Тажибаев көчөсү	tertiary	1	0	0	
+KG	1527317	Айтматова Чынгыза улица	residential	1	0	0	
+KG	1527317	Алыкулов Узак көчөсү	residential	1	0	0	
+KG	1527317	Аманов Бегимкул көчөсү	residential	1	0	0	
+KG	1527317	Аскар-Ата көчөсү	residential	1	0	0	
+KG	1527317	Ахмедова Лариса көчөсү	residential	1	0	0	
+KG	1527317	Ахунбабаева улица	residential	1	0	0	
+KG	1527317	Ахунов Хурбаи-Ата көчөсү	secondary	1	0	0	
+KG	1527317	Бабкина көчөсү	residential	1	0	0	
+KG	1527317	Бадалова көчөсү	tertiary	1	0	0	
+KG	1527317	Безимянная №6 көчөсү	residential	1	0	0	
+KG	1527317	Безимянная №7 көчөсү	residential	1	0	0	
+KG	1527317	Боташев Мамажон көчөсү	tertiary	1	0	0	
+KG	1527317	Ботобаев Махаматкул көчөсү	residential	1	0	0	
+KG	1527317	Гафур Гуляма улица	unclassified	1	0	0	
+KG	1527317	Джержинский көчөсү	residential	1	0	0	
+KG	1527317	Дом - Ата көчөсү	secondary	1	0	0	
+KG	1527317	Исакулов Мухтар көчөсү	residential	1	0	0	
+KG	1527317	Казиходжаев Зайнабидин көчөсү	residential	1	0	0	
+KG	1527317	Киргизбаев Журабой көчөсү	residential	1	0	0	
+KG	1527317	Колхозная көчөсү	residential	1	0	0	
+KG	1527317	Курбанов Ахматкул көчөсү	residential	1	0	0	
+KG	1527317	Кыргыз мээнет көчөсү	residential	1	0	0	
+KG	1527317	Күмүш Азиз көчөсү	residential	1	0	0	
+KG	1527317	Ленин көчөсү	residential	1	0	0	
+KG	1527317	Ленина көчөсү	residential	1	0	0	
+KG	1527317	Мамарасулов Собиткул көчөсү	residential	1	0	0	
+KG	1527317	Мирахмедов Тургунбай көчөсү	residential	1	0	0	
+KG	1527317	Мукумий көчөсү	residential	1	0	0	
+KG	1527317	Мураталиева Замира улица	residential	1	0	0	
+KG	1527317	Навои көчөсү	residential	1	0	0	
+KG	1527317	Нематов Изатулла көчөсү	residential	1	0	0	
+KG	1527317	Октябрь көчөсү	residential	1	0	0	
+KG	1527317	Октябрьская көчөсү	residential	1	0	0	
+KG	1527317	Проектируемая №4	residential	1	0	0	
+KG	1527317	Проектируемая №5	residential	1	0	0	
+KG	1527317	Проектируемая №7	residential	1	0	0	
+KG	1527317	Проектируемая №8	residential	1	0	0	
+KG	1527317	Проектируемая №9	residential	1	0	0	
+KG	1527338	Октябрьская улица	living_street	3	79	83	
+KG	1527338	Тихая	living_street	1	0	0	
+KG	1527338	Школьная улица	residential	1	0	0	
+KG	1527338	Шоссейная улица	residential	1	0	0	
+KG	1527347	улица имени Мамыт Абдулаева	residential	1	0	0	
+KG	1527351	улица Первомайская		3	2	16	
+KG	1527351	Айтбаева улица	residential	1	0	0	
+KG	1527351	Арчалуу улица	residential	1	0	0	
+KG	1527351	Багышан улица	residential	1	0	0	
+KG	1527351	Бирик уулу улица	residential	1	0	0	
+KG	1527351	Болокбаева улица	residential	1	0	0	
+KG	1527351	Больничный переулок	residential	1	0	0	
+KG	1527351	Гагарина улица	residential	1	0	0	
+KG	1527351	Дэунский переулок	residential	1	0	0	
+KG	1527351	Жетиген улица	residential	1	0	0	
+KG	1527351	Западная улица	residential	1	0	0	
+KG	1527351	Иманалиева улица	residential	1	0	0	
+KG	1527351	Келечек улица	residential	1	0	0	
+KG	1527351	Киевская улица	residential	1	0	0	
+KG	1527351	Кожомбердиева улица	residential	1	0	0	
+KG	1527351	Крупской улица	residential	1	0	0	
+KG	1527351	Курманова улица	residential	1	0	0	
+KG	1527351	Кызылдыйканская трасса	secondary	1	0	0	
+KG	1527351	Ленина улица	residential	1	0	0	
+KG	1527351	Мамбеталиева улица	residential	1	0	0	
+KG	1527351	Мамырбаева улица	residential	1	0	0	
+KG	1527351	Маслозаводский переулок	residential	1	0	0	
+KG	1527351	Маслозаводский переулок;а/д Сосновка - Сары-Булак	tertiary	1	0	0	
+KG	1527351	Мельничный переулок	residential	1	0	0	
+KG	1527360	Новостройка		23	2	27	
+KG	1527360	улица Топографическая	residential	14	1	28	
+KG	1527360	Калинина улица	residential	12	1	124	
+KG	1527360	Карагачева улица		11	5	28	
+KG	1527360	Белинского улица		7	73	213	
+KG	1527360	Фрунзе улица		7	41	155	
+KG	1527360	улица Мира	residential	6	1	7	
+KG	1527360	переулок Железнодорожный	residential	4	16	19	
+KG	1527360	Дзержинского	residential	3	3	6	
+KG	1527360	Новая улица	residential	3	170	174	
+KG	1527360	Советская улица	residential	3	10	200	
+KG	1527360	улица Советская	residential	3	10	25	
+KG	1527496	2 улица	residential	1	0	0	
+KG	1527496	4 улица	residential	1	0	0	
+KG	1527496	50-лет Октября улица	residential	1	0	0	
+KG	1527496	Абдукаимова улица	residential	1	0	0	
+KG	1527496	Абдылдаева улица	residential	1	0	0	
+KG	1527496	Ажыбек-Датка улица	residential	1	0	0	
+KG	1527496	Айдаралиева улица	residential	1	0	0	
+KG	1527496	Айдарбек-дуку улица	residential	1	0	0	
+KG	1527496	Ак-Жар улица	residential	1	0	0	
+KG	1527496	Ак-Терек улица	residential	1	0	0	
+KG	1527496	Акбай улица	residential	1	0	0	
+KG	1527496	Алимова улица	residential	1	0	0	
+KG	1527496	Алишера переулок	residential	1	0	0	
+KG	1527496	Алишера улица	residential	1	0	0	
+KG	1527496	Алымбек-Ата улица	unclassified	1	0	0	
+KG	1527496	Ахунбаева улица	residential	1	0	0	
+KG	1527496	Аширбай-Ата улица	residential	1	0	0	
+KG	1527496	Ашыркулова улица	residential	1	0	0	
+KG	1527496	Барчаке улица	residential	1	0	0	
+KG	1527496	Бекебай-Ата улица	residential	1	0	0	
+KG	1527496	Боконбаева улица	residential	1	0	0	
+KG	1527496	Ботобай-Ата улица	residential	1	0	0	
+KG	1527496	Доулбекова улица	residential	1	0	0	
+KG	1527496	Жаманкулова улица	residential	1	0	0	
+KG	1527497	Манаса улица	residential	9	23	254	
+KG	1527497	Ачакеева Ырбая улица	residential	5	8	55	
+KG	1527497	Кайдуева Догдурбая улица	residential	5	20	46	
+KG	1527497	Токтогула улица	residential	4	9	21	
+KG	1527497	Мамытканов	residential	2	3	5	
+KG	1527497	40 лет комсомола улица	residential	1	0	0	
+KG	1527497	8 марта улица	residential	1	0	0	
+KG	1527497	Абдраев Кадр улица	residential	1	0	0	
+KG	1527497	Абдраев Сраку улица	residential	1	0	0	
+KG	1527497	Абдразаков Кыдыр улица	living_street	1	0	0	
+KG	1527497	Абдыкеримова Кубанычбека улица	residential	1	0	0	
+KG	1527497	Ак-Жалга улица	residential	1	0	0	
+KG	1527497	Ак-Терек улица	residential	1	0	0	
+KG	1527497	Ак-Толкун улица	residential	1	0	0	
+KG	1527497	Акматова Эсенкана улица	residential	1	0	0	
+KG	1527497	Акунова Касыя улица	residential	1	0	0	
+KG	1527497	Алдашева Байгазы улица	residential	1	0	0	
+KG	1527497	Алиева Турдугула улица	residential	1	0	0	
+KG	1527497	Алма-атинская улица	residential	1	0	0	
+KG	1527497	Аманкулова Керимкула улица	residential	1	0	0	
+KG	1527497	Атамкулова Жакшылыка улица	residential	1	0	0	
+KG	1527497	Аттокурова Ишака улица	residential	1	0	0	
+KG	1527497	Байбагылова Зинакул улица	residential	1	0	0	
+KG	1527497	Байсымов Акматалы улица	residential	1	0	0	
+KG	1527497	Бакыт улица	residential	1	0	0	
+KG	1527497	Бараканова Нурдина улица	residential	1	0	0	
+KG	1527497	Бейгожоева Мукаша улица	residential	1	0	0	
+KG	1527497	Бексултанова Мамбетиса улица	residential	1	0	0	
+KG	1527497	Бербаева улица	residential	1	0	0	
+KG	1527497	Весенняя улица	residential	1	0	0	
+KG	1527497	Гагарина улица	residential	1	0	0	
+KG	1527497	Горная улица	residential	1	0	0	
+KG	1527497	Давлетова Акима улица	unclassified	1	0	0	
+KG	1527497	Дукенбаева улица	residential	1	0	0	
+KG	1527497	Жаштык 2я улица	residential	1	0	0	
+KG	1527497	Жаштык 4я улица	residential	1	0	0	
+KG	1527497	Жети-Огуз	residential	1	0	0	
+KG	1527497	Жумагулова Баранбаш улица	residential	1	0	0	
+KG	1527497	Жумадылова Акия улица	residential	1	0	0	
+KG	1527497	Заводская улица	residential	1	0	0	
+KG	1527497	Западная улица	residential	1	0	0	
+KG	1527497	Зеленая улица	residential	1	0	0	
+KG	1527497	Ибраева Бообека улица	residential	1	0	0	
+KG	1527497	Искакова Арстанбека улица	residential	1	0	0	
+KG	1527497	Искакова Мадыша улица	residential	1	0	0	
+KG	1527497	Иссыккульская улица	residential	1	0	0	
+KG	1527497	Кадил уулу Кутман улица	residential	1	0	0	
+KG	1527497	Кайынды улица	residential	1	0	0	
+KG	1527513	1-я улица	residential	1	0	0	
+KG	1527513	12 улица	residential	1	0	0	
+KG	1527513	13 улица	residential	1	0	0	
+KG	1527513	2 улица	residential	1	0	0	
+KG	1527513	2-я улица	residential	1	0	0	
+KG	1527513	21 улица	residential	1	0	0	
+KG	1527513	23 улица	residential	1	0	0	
+KG	1527513	28 улица	residential	1	0	0	
+KG	1527513	3 улица	residential	1	0	0	
+KG	1527513	3-я улица	residential	1	0	0	
+KG	1527513	4 улица	residential	1	0	0	
+KG	1527513	5 улица	residential	1	0	0	
+KG	1527513	60 лет Киргизии	residential	1	0	0	
+KG	1527513	7 улица	residential	1	0	0	
+KG	1527513	70 лет октября	residential	1	0	0	
+KG	1527513	Абдрахманова улица	residential	1	0	0	
+KG	1527513	Абдувахидова улица	residential	1	0	0	
+KG	1527513	Абдукаримова улица	residential	1	0	0	
+KG	1527513	Абдулаева улица	residential	1	0	0	
+KG	1527513	Абдулатипова улица	residential	1	0	0	
+KG	1527513	Абдурасулова улица	residential	1	0	0	
+KG	1527513	Абдыбаев Абдыразак улица	residential	1	0	0	
+KG	1527513	Абдыкадырова улица	residential	1	0	0	
+KG	1527513	Абдыкалыров Токтомуш улица	residential	1	0	0	
+KG	1527513	Авазов Доскул улица	residential	1	0	0	
+KG	1527513	Ажигуловой улица	residential	1	0	0	
+KG	1527513	Азизов Каламбек улица	unclassified	1	0	0	
+KG	1527513	Азимова Токтосуна улица	residential	1	0	0	
+KG	1527513	Азнабакиева улица	residential	1	0	0	
+KG	1527513	Айбек улица	residential	1	0	0	
+KG	1527513	Айдарали уулу Абдрахман улица	residential	1	0	0	
+KG	1527513	Айтикулов улица	residential	1	0	0	
+KG	1527513	Айтматова Ч. улица	residential	1	0	0	
+KG	1527513	Ак-Терек улица	residential	1	0	0	
+KG	1527513	Ак-Тилек 1 улица	residential	1	0	0	
+KG	1527513	Ак-Тилек 2 улица	residential	1	0	0	
+KG	1527513	Ак-Тилек 3 улица	residential	1	0	0	
+KG	1527513	Ак-Тилек 4 улица	residential	1	0	0	
+KG	1527513	Акбаров Адыл улица	residential	1	0	0	
+KG	1527513	Акжолов Мамыт улица	unclassified	1	0	0	
+KG	1527513	Аккозова улица	residential	1	0	0	
+KG	1527513	Акматов Мамадали улица	residential	1	0	0	
+KG	1527513	Акматова Султанали улица	residential	1	0	0	
+KG	1527513	Акматова улица	residential	1	0	0	
+KG	1527513	Актаталиева улица	residential	1	0	0	
+KG	1527513	Ала-Тоо улица	residential	1	0	0	
+KG	1527513	Алибаев Базарбай улица	residential	1	0	0	
+KG	1527513	Алиев Мамат улица	residential	1	0	0	
+KG	1527534	Курманжан Датка көчөсү	primary	84	126	370	Kurmanzhan Datka Street
+KG	1527534	Уркуя Салиева көчөсү	residential	76	3	64	
+KG	1527534	Эргеш Алиев көчөсү	primary	68	18	247	Aliev Street
+KG	1527534	Молдо Нияза көчөсү	residential	61	178	339	
+KG	1527534	Розияхон Моминовой көчөсү	residential	61	9	103	
+KG	1527534	Абсамат Масалиева проспект	primary	57	47	116	Masaliev avenue
+KG	1527534	Алымбек Датка көчөсү	primary	53	172	351	Alymbek Datka Street
+KG	1527534	Э. Муминова көчөсү	residential	47	8	58	
+KG	1527534	Рысбай Абдыкадыров көчөсү	secondary	44	2	55	Abdykadyrov Street
+KG	1527534	Насирдина Исанова улица	secondary	42	17	79	Isanov street
+KG	1527534	Сатиева улица	residential	34	27	61	
+KG	1527534	Ленина улица	unclassified	33	231	339	Lenin street
+KG	1527534	Гапар Айтиев көчөсү	primary	32	3	153	Gapar Aitiev street
+KG	1527534	Курманджан Датка		27	1	236	
+KG	1527534	Масалиева проспект	primary	25	5	77	Masaliev avenue
+KG	1527534	Микрорайон Т. Кулатова		24	3	25	
+KG	1527534	Абсамата Масалиева проспект	primary	23	3	38	Absamat Masaliev avenue
+KG	1527534	Аскар Шакиров	secondary	22	4	275	
+KG	1527534	Жолдошбек Раимбеков	secondary	21	3	22	
+KG	1527534	Микрорайон Тулейкен		21	2	29	
+KG	1527534	Микрорайон Анар		20	1	18	
+KG	1527534	Шота Руставели		18	1	27	
+KG	1527534	улица Абакир уулу Торобека	living_street	17	31	53	
+KG	1527534	Джим улица	residential	16	1	33	
+KG	1527534	Исхака Разакова улица	primary	14	1	32	Razzakov street
+KG	1527534	Латибджанова көчөсү	residential	14	1	17	
+KG	1527534	Кулатова		13	2	28	
+KG	1527534	Розияхон Моминова көчөсү	residential	10	3	148	
+KG	1527534	Сагынбека Супаналиева көчөсү	living_street	10	2	11	
+KG	1527534	Алайская улица	residential	9	35	35	
+KG	1527534	Баялинова улица	residential	9	1	20	
+KG	1527534	Ташкентская улица	residential	9	1	60	
+KG	1527534	Курманжан Датка		8	132	507	
+KG	1527534	Алымбек Датка улица		7	22	126	
+KG	1527534	Карасуйская улица	secondary	7	8	34	
+KG	1527534	Шакирова А. улица		7	89	275	
+KG	1527534	Мадумарова М. улица	unclassified	6	1	6	
+KG	1527534	Мамырова улица		6	2	12	
+KG	1527534	Насиридин Исанов	residential	6	85	127	
+KG	1527534	Э. Алиев көчөсү		6	100	159	
+KG	1527534	Краснодонцев переулок	residential	5	21	31	
+KG	1527534	Курманджан - Датка улица		5	78	281	
+KG	1527534	Мирсаатова улица	unclassified	5	4	84	
+KG	1527534	Насирдин Исанов		5	27	79	
+KG	1527534	Шакиров көчөсү	secondary	5	36	51	
+KG	1527534	52 көчөсү	residential	4	21	49	52 street
+KG	1527534	53 көчөсү	residential	4	25	46	53 street
+KG	1527534	Алиева Э. улица		4	105	145	
+KG	1527534	Кокум-Бий көчөсү	primary	4	15	15	Kokum-Biy Street
+KG	1527534	Монуева улица	primary	4	19	83	Monueva street
+KG	1527534	Муминова көчөсү		4	1	50	
+KG	1527534	Ошская		4	8	14	
+KG	1527534	Пайзилды Айтмаматова көчөсү	residential	4	101	104	
+KG	1527534	Суйумбаева улица	unclassified	4	12	47	
+KG	1527534	Увамская улица	residential	4	45	53	
+KG	1527534	Узгенская улица		4	130	136	
+KG	1527534	51 көчөсү	residential	3	10	25	51 street
+KG	1527534	Алишер Навои көчөсү	primary	3	34	36	Alisher Navoi street
+KG	1527534	Гастелла улица	residential	3	1	1	
+KG	1527534	Исанова улица		3	37	127	
+KG	1527534	Каримова	residential	3	1	20	
+KG	1527534	Касымбекова улица		3	2	8	
+KG	1527534	Курманжан Датка улица		3	119	213	
+KG	1527534	Мира улица	residential	3	14	24	
+KG	1527534	Навои Алишера улица		3	36	40	
+KG	1527534	Пушкина улица	residential	3	2	16	Pushkin Street
+KG	1527534	Тилеке Баатыр көчөсү		3	1	58	
+KG	1527534	Тимирязева улица	residential	3	2	20	
+KG	1527534	Хабибулла Салиева көчөсү	residential	3	36	43	
+KG	1527534	101 улица	residential	2	14	101	
+KG	1527534	Osh - Isfana		2	3	5	
+KG	1527534	Абдуманап Мамыров улица		2	108	108	
+KG	1527534	Абсамат Масалиев		2	2	19	
+KG	1527534	Авиценна улица	unclassified	2	10	10	Avicenna street
+KG	1527534	Алайчы уулу Сыдыка улица	tertiary	2	85	102	
+KG	1527534	Артыкова улица	secondary	2	15	53	Artykov street
+KG	1527534	Асанбека улица	tertiary	2	9	44	
+KG	1527534	Джиннах М.А. улица		2	1	2	
+KG	1527534	Женишбек Бабараимов	secondary	2	10	12	
+KG	1527534	Западная улица		2	1	2	
+KG	1527534	Кулатов		2	7	11	
+KG	1527534	Мырзалы Аматов көчөсү	residential	2	19	25	
+KG	1527534	Осконалиева көчөсү	residential	2	4	4	Oskonalieva Street
+KG	1527534	Пахта Куча	residential	2	30	46	Pakhta Kutsha street
+KG	1527534	Пичугина улица	residential	2	9	12	
+KG	1527534	Санкт-Петербургская улица	tertiary	2	29	48	
+KG	1527534	Токтобай Атабаев көчөсү	tertiary	2	148	148	
+KG	1527534	Урицкого улица		2	4	6	
+KG	1527534	Уста Абдухалил улица	residential	2	1	40	
+KG	1527534	микрорайон Тюлейкен		2	21	21	
+KG	1527534	1 көчөсү	residential	1	0	0	
+KG	1527534	1 улица	residential	1	0	0	
+KG	1527534	1-Мая көчөсү	residential	1	0	0	
+KG	1527534	10 улица	residential	1	0	0	
+KG	1527534	101-көчө	tertiary	1	0	0	
+KG	1527534	102 улица	residential	1	0	0	
+KG	1527534	105 улица	unclassified	1	0	0	
+KG	1527534	106 улица	unclassified	1	0	0	
+KG	1527534	108 улица	residential	1	0	0	
+KG	1527534	109 улица	residential	1	0	0	
+KG	1527534	11 улица	residential	1	0	0	
+KG	1527534	110 улица	unclassified	1	0	0	
+KG	1527534	111 улица	unclassified	1	0	0	
+KG	1527534	112 улица	unclassified	1	0	0	
+KG	1527534	113 улица	residential	1	0	0	
+KG	1527534	114 улица	residential	1	0	0	
+KG	1527534	116 улица	residential	1	0	0	
+KG	1527534	118 улица	unclassified	1	0	0	
+KG	1527534	12 улица	residential	1	0	0	
+KG	1527534	121 улица	unclassified	1	0	0	
+KG	1527534	122 улица	unclassified	1	0	0	
+KG	1527534	123 улица	unclassified	1	0	0	
+KG	1527534	124 улица	unclassified	1	0	0	
+KG	1527534	125 улица	residential	1	0	0	
+KG	1527534	129 улица	residential	1	0	0	
+KG	1527534	13 улица	residential	1	0	0	
+KG	1527534	130 улица	residential	1	0	0	
+KG	1527534	131 улица	residential	1	0	0	
+KG	1527534	132 улица	unclassified	1	0	0	
+KG	1527534	134 улица	residential	1	0	0	
+KG	1527534	135 улица	residential	1	0	0	
+KG	1527534	136 улица	residential	1	0	0	
+KG	1527534	137-я улица	residential	1	0	0	
+KG	1527534	14 улица	residential	1	0	0	
+KG	1527534	146 улица	unclassified	1	0	0	
+KG	1527534	147 улица	unclassified	1	0	0	
+KG	1527534	148 улица	unclassified	1	0	0	
+KG	1527534	149 улица	unclassified	1	0	0	
+KG	1527534	15 улица	residential	1	0	0	
+KG	1527534	150 улица	unclassified	1	0	0	
+KG	1527534	151 улица	residential	1	0	0	
+KG	1527534	152 улица	residential	1	0	0	
+KG	1527534	153 улица	residential	1	0	0	
+KG	1527534	154 улица	residential	1	0	0	
+KG	1527534	155 улица	residential	1	0	0	
+KG	1527534	156 улица	residential	1	0	0	
+KG	1527534	157 улица	residential	1	0	0	
+KG	1527534	158 улица	residential	1	0	0	
+KG	1527534	159 улица	residential	1	0	0	
+KG	1527534	16 улица	residential	1	0	0	
+KG	1527534	165 улица	residential	1	0	0	
+KG	1527534	166 улица	residential	1	0	0	
+KG	1527534	17 улица	residential	1	0	0	
+KG	1527534	170 улица	unclassified	1	0	0	
+KG	1527534	177 улица	tertiary	1	0	0	
+KG	1527534	178 көчөсү	residential	1	0	0	
+KG	1527534	179 көчөсү	residential	1	0	0	
+KG	1527534	18 улица	residential	1	0	0	
+KG	1527534	180 көчөсү	residential	1	0	0	
+KG	1527534	181 көчөсү	residential	1	0	0	
+KG	1527534	182 көчөсү	residential	1	0	0	
+KG	1527534	184 көчөсү	residential	1	0	0	
+KG	1527534	186 көчөсү	residential	1	0	0	
+KG	1527534	187 көчөсү	residential	1	0	0	
+KG	1527534	188 көчөсү	residential	1	0	0	
+KG	1527534	189 көчөсү	residential	1	0	0	
+KG	1527534	19 улица	residential	1	0	0	
+KG	1527534	191 көчөсү	residential	1	0	0	
+KG	1527534	192 көчөсү	residential	1	0	0	
+KG	1527534	193 көчөсү	residential	1	0	0	
+KG	1527534	194 көчөсү	residential	1	0	0	
+KG	1527534	195 көчөсү	residential	1	0	0	
+KG	1527534	196 көчөсү	residential	1	0	0	
+KG	1527534	198 улица	residential	1	0	0	
+KG	1527534	2 көчөсү	residential	1	0	0	
+KG	1527534	2 улица	residential	1	0	0	
+KG	1527534	2-я Гулистанская улица	unclassified	1	0	0	
+KG	1527534	2-я Правды улица	residential	1	0	0	
+KG	1527534	20 улица	residential	1	0	0	
+KG	1527534	200 улица	residential	1	0	0	
+KG	1527534	201 улица	residential	1	0	0	
+KG	1527534	205 көчөсү	residential	1	0	0	
+KG	1527534	208 көчөсү	residential	1	0	0	
+KG	1527534	21 улица	residential	1	0	0	
+KG	1527534	210 көчөсү	residential	1	0	0	
+KG	1527534	211 көчөсү	residential	1	0	0	
+KG	1527534	212 көчөсү	residential	1	0	0	
+KG	1527534	213 көчөсү	residential	1	0	0	
+KG	1527534	214 көчөсү	residential	1	0	0	
+KG	1527534	215 көчөсү	residential	1	0	0	
+KG	1527534	216 көчөсү	residential	1	0	0	
+KG	1527534	217 көчөсү	residential	1	0	0	
+KG	1527534	218 көчөсү	residential	1	0	0	
+KG	1527534	219 көчөсү	residential	1	0	0	
+KG	1527534	22 улица	residential	1	0	0	
+KG	1527534	220 көчөсү	residential	1	0	0	
+KG	1527534	222 көчөсү	residential	1	0	0	
+KG	1527534	223 көчөсү	residential	1	0	0	
+KG	1527534	23 улица	residential	1	0	0	
+KG	1527534	25-я улица	residential	1	0	0	25th street
+KG	1527534	26-я улица	residential	1	0	0	26th street
+KG	1527534	27-я улица	tertiary	1	0	0	27th street
+KG	1527534	28-я улица	residential	1	0	0	
+KG	1527534	29-я улица	residential	1	0	0	
+KG	1527534	3 көчөсү	residential	1	0	0	
+KG	1527534	3 улица	unclassified	1	0	0	
+KG	1527534	30-я улица	residential	1	0	0	
+KG	1527534	31-я улица	residential	1	0	0	
+KG	1527534	33 улица	residential	1	0	0	
+KG	1527534	34-я улица	residential	1	0	0	
+KG	1527566	Геологдор	residential	7	14	17	
+KG	1527566	Жошолу улица	residential	1	0	0	
+KG	1527566	К. Мурзаканов	residential	1	0	0	
+KG	1527566	улица Больничная	residential	1	0	0	
+KG	1527566	улица Кунгой	residential	1	0	0	
+KG	1527566	улица Металлург	residential	1	0	0	
+KG	1527566	улица Молдо Нияза	primary	1	0	0	
+KG	1527566	улица С.Тешеева	residential	1	0	0	
+KG	1527566	улица им. Боконбаев	residential	1	0	0	
+KG	1527566	улица им. Боконбаева	residential	1	0	0	
+KG	1527566	улица им.С.Тешеева	residential	1	0	0	
+KG	1527592	Ленин көчөсү	primary	83	8	240	Lenin street
+KG	1527592	Сагынбая Орозбакова улица	tertiary	74	23	214	Sagynbai Orozbakov street
+KG	1527592	Шералиева улица		39	10	123	
+KG	1527592	Достук улица	residential	20	8	48	Dostuk street
+KG	1527592	Молдоева Абдыкадыра улица		17	25	57	
+KG	1527592	Раззакова улица		12	1	62	
+KG	1527592	Андабекова С. улица	tertiary	11	1	12	Andabekova S. street
+KG	1527592	Качкынова улица	residential	6	5	5	
+KG	1527592	Тулебердиева Ч. улица		3	45	88	
+KG	1527592	Турдубаева Ж. улица	residential	3	31	67	
+KG	1527592	Ulitsa Shopokova		2	19	19	
+KG	1527592	Калыкова улица		2	25	60	
+KG	1527592	Мурзакматова К. улица	residential	2	8	11	
+KG	1527592	60-лет Киргизии	residential	1	0	0	
+KG	1527592	60-лет Октября улица	residential	1	0	0	
+KG	1527592	Абдыш-Ата улица	residential	1	0	0	
+KG	1527592	Ажиев А. улица	residential	1	0	0	
+KG	1527592	Ажыбек-Баатыр улица	secondary	1	0	0	
+KG	1527592	Айтматов Т. улица	residential	1	0	0	
+KG	1527592	Ак Орго улица	unclassified	1	0	0	
+KG	1527592	Ак-Жол улица	residential	1	0	0	
+KG	1527592	Ак-Жолтой улица	residential	1	0	0	
+KG	1527592	Ак-Сай көчөсү	residential	1	0	0	
+KG	1527592	Ак-Тилек улица	residential	1	0	0	
+KG	1527592	Ак-Шоола улица	residential	1	0	0	
+KG	1527592	Акиева улица	residential	1	0	0	
+KG	1527592	Акунов Т. улица	residential	1	0	0	
+KG	1527592	Акыйкат улица	residential	1	0	0	
+KG	1527592	Алтын Балалык улица	residential	1	0	0	
+KG	1527592	Алтын-Казык улица	residential	1	0	0	
+KG	1527592	Алтын-Нур улица	residential	1	0	0	
+KG	1527592	Апаева улица	residential	1	0	0	
+KG	1527592	Ардагерлер улица	residential	1	0	0	
+KG	1527592	Арпа улица	residential	1	0	0	Arpa street
+KG	1527592	Аска-Тоо улица	residential	1	0	0	
+KG	1527592	Аскарова Алсеита улица	residential	1	0	0	Askarov Alseit Street
+KG	1527592	Баетова улица	residential	1	0	0	
+KG	1527592	Байбосунова улица	residential	1	0	0	
+KG	1527592	Бакай улица	residential	1	0	0	
+KG	1527592	Бактыгулова улица	residential	1	0	0	
+KG	1527592	Бакыт улица	residential	1	0	0	
+KG	1527592	Батыш улица	residential	1	0	0	
+KG	1527592	Бейшеналиевой улица	residential	1	0	0	
+KG	1527592	Бекет улица	residential	1	0	0	
+KG	1527592	Белеков Т. улица	residential	1	0	0	
+KG	1527592	Береке улица	residential	1	0	0	
+KG	1527592	Биримдик улица	residential	1	0	0	
+KG	1527592	Боконбаева улица	residential	1	0	0	
+KG	1527688	Абдрасил улица	residential	1	0	0	
+KG	1527688	Айтыкул улица	residential	1	0	0	
+KG	1527688	Айтымбет улица	residential	1	0	0	
+KG	1527688	Акмат улица	residential	1	0	0	
+KG	1527688	Акматбек улица	residential	1	0	0	
+KG	1527688	Акылбек улица	residential	1	0	0	
+KG	1527688	Алымбай уулу улица	residential	1	0	0	
+KG	1527688	Арзымат улица	residential	1	0	0	
+KG	1527688	Арык уулу улица	residential	1	0	0	
+KG	1527688	Аттокур-Ата переулок	residential	1	0	0	
+KG	1527688	Бакай-Ата улица	tertiary	1	0	0	
+KG	1527688	Доботкул улица	residential	1	0	0	
+KG	1527689	Айдаралиев Калбий	residential	1	0	0	
+KG	1527689	Арзыкулова	residential	1	0	0	
+KG	1527689	Болушов Абдрахман	residential	1	0	0	
+KG	1527689	Зиябаев Тургунбай	residential	1	0	0	
+KG	1527689	Койлубаев	tertiary	1	0	0	
+KG	1527689	Колубаев	residential	1	0	0	
+KG	1527689	Мадосмонова	residential	1	0	0	
+KG	1527689	Осмоналиева Тажикан улица	residential	1	0	0	
+KG	1527689	Рустам Шерматов көчөсу	residential	1	0	0	
+KG	1527689	Самиев	residential	1	0	0	
+KG	1527689	Сейдакматов	tertiary	1	0	0	
+KG	1527689	Смадияров	residential	1	0	0	
+KG	1527689	Сулайманов	tertiary	1	0	0	
+KG	1527689	Сыдыков А.	residential	1	0	0	
+KG	1527689	Токтоболотов	residential	1	0	0	
+KG	1527689	Торокулов Хамракул	residential	1	0	0	
+KG	1527689	Турдиев Акматжан	residential	1	0	0	
+KG	1527689	Хайдаров Камалидин Kочосу	residential	1	0	0	
+KG	1527689	Шералиев	residential	1	0	0	
+KG	1527690	Победы улица		278	12	282	
+KG	1527690	Мичурина Ивана улица		268	20	235	
+KG	1527690	Ленина проспект	primary	224	23	663	Lenin street
+KG	1527690	Северная улица		158	8	189	
+KG	1527690	Комсомольская улица		134	9	152	
+KG	1527690	Курманжан Датка улица		101	434	713	
+KG	1527690	Аламедин-1 микрорайон		83	3	83	
+KG	1527690	Луганская улица		78	8	76	
+KG	1527690	Эмгекчил 5 улица		76	3	421	
+KG	1527690	Чапаева улица		74	4	72	
+KG	1527690	Калинина улица		69	4	89	
+KG	1527690	Каджи-Сайский переулок		65	8	89	
+KG	1527690	Восточная улица		55	12	79	
+KG	1527690	Советская улица	residential	50	3	137	
+KG	1527690	Дордой 17 улица		38	254	310	
+KG	1527690	Белинского улица	residential	36	13	56	
+KG	1527690	Ауэзова Мухтара улица		35	1	98	
+KG	1527690	Ленина улица	residential	35	39	275	
+KG	1527690	Чкалова улица		34	3	44	
+KG	1527690	Тельмана улица		32	2	32	
+KG	1527690	Токмакская улица		31	25	99	
+KG	1527690	Фрунзе улица		31	183	274	
+KG	1527690	Дордой 14 улица		29	353	510	
+KG	1527690	Эмгекчил 5-я		29	5	37	
+KG	1527690	Жанбо уулу Кадыке улица		28	24	41	
+KG	1527690	Карла Маркса улица		28	3	37	
+KG	1527690	Ошская улица		28	2	33	
+KG	1527690	Эмгекчил 3 улица		25	173	839	
+KG	1527690	Садовая улица	residential	24	2	90	
+KG	1527690	Щорса улица		24	15	38	
+KG	1527690	Эмгекчил улица	living_street	24	297	868	
+KG	1527690	Линейная улица	residential	23	16	55	Lineyanaya street
+KG	1527690	Энесай улица		23	263	293	
+KG	1527690	Загорская улица		22	4	64	
+KG	1527690	Крупской улица		22	2	66	
+KG	1527690	Эмгекчил 4 улица		22	516	623	
+KG	1527690	Тунгуч микрорайон		21	16	72	
+KG	1527690	Эмгекчил 4-я		21	510	611	
+KG	1527690	БЧК переулок		20	2	22	
+KG	1527690	Уч-Тулга улица		20	9	51	
+KG	1527690	Городок Строителей		19	1	16	
+KG	1527690	Көлбаев көчөсү	secondary	18	6	68	
+KG	1527690	Маяковского улица		18	1	34	
+KG	1527690	Логвиненко улица		16	33	96	
+KG	1527690	Узгенская улица		16	1	19	
+KG	1527690	Энгельса улица		16	3	23	
+KG	1527690	Алма-Атинская улица		15	1	765	
+KG	1527690	Луговая улица	residential	15	7	29	
+KG	1527700	Айтбаева улица	secondary	1	0	0	
+KG	1527700	Ак-Терек	residential	1	0	0	
+KG	1527700	Акылбека улица	residential	1	0	0	
+KG	1527700	Асаналиева К. улица	residential	1	0	0	
+KG	1527700	Боталаева улица	residential	1	0	0	
+KG	1527700	Боталиева улица	residential	1	0	0	
+KG	1527700	Мамакеева А. улица	residential	1	0	0	
+KG	1527700	Мамбетемин улица	residential	1	0	0	
+KG	1527700	Мамбетжунуша улица	residential	1	0	0	
+KG	1527700	Омуралиева К. улица	residential	1	0	0	
+KG	1527700	Сабитжана улица	residential	1	0	0	
+KG	1527700	Саткунбай улица	residential	1	0	0	
+KG	1527719	1-й микрорайон	living_street	6	11	21	
+KG	1527719	Молодёжная улица	residential	5	4	27	Molodezhnaya Street
+KG	1527719	Юбилейная улица	secondary	4	11	11	Yubileinaya street
+KG	1527719	Ленина улица	secondary	3	5	9	Lenin street
+KG	1527719	1 Микрорайон		2	1	6	
+KG	1527719	Аллея Достук	pedestrian	1	0	0	Dostuk Avenue
+KG	1527719	Горького улица	secondary	1	0	0	Gorky Street
+KG	1527719	Жданова улица	living_street	1	0	0	Zhdanov street
+KG	1527719	Кольцевая улица	living_street	1	0	0	Koltsevaya Street
+KG	1527719	Масалиева улица	secondary	1	0	0	Masaliev Street
+KG	1527719	Первомайская улица	secondary	1	0	0	Pervomaiskaya Street
+KG	1527719	Пионерская улица	living_street	1	0	0	Pionerskaya Street
+KG	1527719	Садовая Улица	living_street	1	0	0	
+KG	1527719	Техникумская улица	living_street	1	0	0	Technikumskaya Street
+KG	1527719	Хрипченко улица	living_street	1	0	0	Khripchenko street
+KG	1527719	Чехова улица	living_street	1	0	0	Chekhov Street
+KG	1527719	Школьная улица	residential	1	0	0	Shkolnaya Street
+KG	1527719	улица 60 лет Киргизии	unclassified	1	0	0	60 years of Kyrgyzstan street
+KG	1527719	улица Асаналиева	secondary	1	0	0	Asanaliev Street
+KG	1527719	улица Горького	secondary	1	0	0	Gorky Street
+KG	1527719	улица Касымалы Баялинова	living_street	1	0	0	
+KG	1527719	улица Комсомольская	living_street	1	0	0	
+KG	1527719	улица Ленина	secondary	1	0	0	Lenin street
+KG	1527719	улица Масалиева	secondary	1	0	0	Masaliev Street
+KG	1527719	улица Маяковского	secondary	1	0	0	Mayakovsky Street
+KG	1527719	улица Мира	secondary	1	0	0	Mira street
+KG	1527719	улица Советская	living_street	1	0	0	Sovetskaya Street
+KG	1527719	улица Токтогула	tertiary	1	0	0	
+KG	1527719	улица Хрипченко	residential	1	0	0	15/5000 Khripchenko ulitsa Khripchenko street
+KG	1527719	улица Энгельса	unclassified	1	0	0	Friedrich Engels street
+KG	1527719	улица ломоносова	living_street	1	0	0	
+KG	1527902	Сагымбай Орозбаков көчөсү	primary	10	102	260	Sagymbai Orozbakov street
+KG	1527902	Исакеев Баялы көчөсү	tertiary	4	33	44	Isakeev Baialy street
+KG	1527902	Аубакир көчөсү	residential	3	10	42	Aubakir street
+KG	1527902	Омуралиева улица		3	32	35	
+KG	1527902	Солтонкулов Тынарбек көчөсү	residential	3	19	36	Soltonkulov Tynarbek street
+KG	1527902	Б. Жусупбек көчөсү	residential	2	2	10	B. Jusupbek street
+KG	1527902	Орто-Сай улица	residential	2	54	54	Orto Sai Str.
+KG	1527902	Сапар уулу Аалы көчөсү	residential	2	20	27	Sapar uulu Aaly street
+KG	1527902	улица Калинина	residential	2	3	3	Kalinin Str.
+KG	1527902	40 жыл Жеңиш көчөсү	residential	1	0	0	40 let Pobedy street
+KG	1527902	Ак-Мечит көчөсү	residential	1	0	0	Ak-Mechit street
+KG	1527902	Ак-Тилек көчөсү	residential	1	0	0	Ak-Tilek street
+KG	1527903	Пионерская улица	residential	7	35	41	
+KG	1527903	Тургенева	residential	7	46	52	
+KG	1527903	Луговая	residential	3	30	30	
+KG	1527903	8 март	residential	1	0	0	
+KG	1527903	Абдукеримов Сапарбай көчөсү	residential	1	0	0	
+KG	1527903	Абдумиталипов М.	residential	1	0	0	
+KG	1527903	Абдураимов Матай	residential	1	0	0	
+KG	1527903	Абдыкадыров	residential	1	0	0	
+KG	1527903	Адыкадыров	residential	1	0	0	
+KG	1527903	Акбар ата	residential	1	0	0	
+KG	1527903	Анаржант эне	residential	1	0	0	
+KG	1527903	Арзыкулов М.	residential	1	0	0	
+KG	1527903	Бекташ ата	residential	1	0	0	
+KG	1527903	Гагарина	residential	1	0	0	
+KG	1527903	Геофизическая	residential	1	0	0	
+KG	1527903	Горького	residential	1	0	0	
+KG	1527903	Депутатская	residential	1	0	0	
+KG	1527903	Дзержинский	residential	1	0	0	
+KG	1527903	Жаны чек	living_street	1	0	0	
+KG	1527903	Жапаровой Чынар улица	residential	1	0	0	
+KG	1527903	Жаштык Kөчөсү	residential	1	0	0	
+KG	1527903	Заводская	residential	1	0	0	
+KG	1527903	Инживатин	residential	1	0	0	
+KG	1527903	Интернационал	residential	1	0	0	
+KG	1527903	Калинина	residential	1	0	0	
+KG	1527903	Карабаев	residential	1	0	0	
+KG	1527903	Каримбердив Т.	residential	1	0	0	
+KG	1527903	Крупская	residential	1	0	0	
+KG	1527903	Ломоносова	residential	1	0	0	
+KG	1527903	Маатмусаев М.	residential	1	0	0	
+KG	1527903	Маданбеков С.	tertiary	1	0	0	
+KG	1527903	Маматкадыр т.	residential	1	0	0	
+KG	1527903	Мамашов	residential	1	0	0	
+KG	1527903	Мамаюсупов К.	residential	1	0	0	
+KG	1527903	Матросова	residential	1	0	0	
+KG	1527903	Матсваков Ж.	residential	1	0	0	
+KG	1527903	Мира	residential	1	0	0	
+KG	1527903	Моложанов Ш.	tertiary	1	0	0	
+KG	1527903	Монтажная	residential	1	0	0	
+KG	1527903	Мурадиана	residential	1	0	0	
+KG	1527903	Муратов А.	residential	1	0	0	
+KG	1527903	Мусаев С.	residential	1	0	0	
+KG	1527903	Нагорная	residential	1	0	0	
+KG	1527903	Некрасова	residential	1	0	0	
+KG	1527903	Новая	residential	1	0	0	
+KG	1527903	Новои	residential	1	0	0	
+KG	1527903	Октябрьская	residential	1	0	0	
+KG	1527903	Октябрьский	residential	1	0	0	
+KG	1527919	Манас улица	residential	8	19	33	
+KG	1527919	Айтматов Ч. улица	tertiary	3	7	10	
+KG	1527919	Осмоналиев Кушайын улица	tertiary	2	15	49	
+KG	1527919	1 улица	residential	1	0	0	
+KG	1527919	30-лет Победы переулок	residential	1	0	0	
+KG	1527919	30-лет Победы улица	tertiary	1	0	0	
+KG	1527919	50-лет Комсомола улица	residential	1	0	0	
+KG	1527919	7 Квартал улица	residential	1	0	0	
+KG	1527919	8 марта	residential	1	0	0	
+KG	1527919	Айдаралы улица	residential	1	0	0	
+KG	1527919	Айтбаева улица	tertiary	1	0	0	
+KG	1527919	Айтматов. Ч.	tertiary	1	0	0	
+KG	1527919	Айтматова Марата улица	tertiary	1	0	0	
+KG	1527919	Ала-Арга переулок	residential	1	0	0	
+KG	1527919	Ала-Арга улица	residential	1	0	0	
+KG	1527919	Асыранкулов улица	residential	1	0	0	
+KG	1527919	Базарная улица	residential	1	0	0	
+KG	1527919	Байсылда улица	residential	1	0	0	
+KG	1527919	Бакыракай улица	residential	1	0	0	
+KG	1527919	Боконбаева улица	residential	1	0	0	
+KG	1527919	Гагарина улица	residential	1	0	0	
+KG	1527919	Гулистан улица	residential	1	0	0	
+KG	1527919	Дзержинского переулок	residential	1	0	0	
+KG	1527919	Достук улица	residential	1	0	0	
+KG	1527951	Шады	secondary	29	27	47	Shady
+KG	1527951	Arab ko'chasi	living_street	1	0	0	
+KG	1527951	Davon ko'chasi	unclassified	1	0	0	
+KG	1527951	Elobod ko'chasi	residential	1	0	0	
+KG	1527951	G'afur G'ulom ko'chasi	residential	1	0	0	
+KG	1527951	Mindon ko'chasi	secondary	1	0	0	
+KG	1527951	Qizilqo'rgon ko'chasi	residential	1	0	0	
+KG	1527951	Ulug'bek ko'chasi	residential	1	0	0	
+KG	1527951	Xo'roba ko'chasi	unclassified	1	0	0	
+KG	1527951	Абдинаби Саматов улица	tertiary	1	0	0	
+KG	1527951	Аксакал-Ата 1 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 2 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 3 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 4 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 5 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 6 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 7 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата 8 улица	residential	1	0	0	
+KG	1527951	Аксакал-Ата улица	tertiary	1	0	0	
+KG	1527951	Ала-Тоо улица	residential	1	0	0	
+KG	1527951	Арча	residential	1	0	0	
+KG	1527951	Катар-Тал улица	residential	1	0	0	
+KG	1527951	Кичи кочолор	residential	1	0	0	
+KG	1527951	Курулуш 1 улица	residential	1	0	0	
+KG	1528005	Кадыркулова улица	residential	4	9	48	
+KG	1528005	Кожалиева улица	primary	3	54	126	
+KG	1528005	Абдыжапарова улица	residential	1	0	0	
+KG	1528005	Азаматов К. улица	residential	1	0	0	
+KG	1528005	Акимбаева улица	residential	1	0	0	
+KG	1528005	Алымбаева улица	residential	1	0	0	
+KG	1528005	Бектен улица	residential	1	0	0	
+KG	1528005	Бердалиева улица	residential	1	0	0	
+KG	1528005	Горная улица	living_street	1	0	0	
+KG	1528005	Дооткулова улица	residential	1	0	0	
+KG	1528005	Жусупбекова улица	residential	1	0	0	
+KG	1528005	Исаков М. улица	residential	1	0	0	
+KG	1528005	Кадырбаева А. улица	residential	1	0	0	
+KG	1528005	Кашкариева улица	residential	1	0	0	
+KG	1528005	Кирова улица	residential	1	0	0	
+KG	1528005	Мурзалиева улица	residential	1	0	0	
+KG	1528005	Ороков улица	residential	1	0	0	
+KG	1528005	Сагынбаева улица	residential	1	0	0	
+KG	1528005	Сейдалиева улица	residential	1	0	0	
+KG	1528005	Тайлак улица	residential	1	0	0	
+KG	1528005	Тобок улица	residential	1	0	0	
+KG	1528005	Тоголок Молдо улица	tertiary	1	0	0	
+KG	1528005	Чокморова улица	tertiary	1	0	0	
+KG	1528005	Шайнаев Т. улица	residential	1	0	0	
+KG	1528052	Do‘stlik ko'chasi	unclassified	1	0	0	
+KG	1528052	Kerben - Ala-buka	primary	1	0	0	
+KG	1528052	Kerben - Ala-buka , M-076	primary	1	0	0	
+KG	1528052	M-076	primary	1	0	0	
+KG	1528052	Алыбаев көчөсү	residential	1	0	0	
+KG	1528052	Алымкан көчөсү	residential	1	0	0	
+KG	1528052	Баевтов көчөсү	residential	1	0	0	
+KG	1528052	Бешкоргон көчөсү	tertiary	1	0	0	
+KG	1528052	Жени жок көчөсү	residential	1	0	0	
+KG	1528052	Жени-Жок ул.	residential	1	0	0	
+KG	1528052	Жибек жолу көчөсү	residential	1	0	0	
+KG	1528052	Касымалы Жантошев Улица	residential	1	0	0	
+KG	1528052	Куренкеев көчөсү	residential	1	0	0	
+KG	1528052	Нарбаев көчөсү	living_street	1	0	0	
+KG	1528052	Ниязалы көчөсү	primary	1	0	0	
+KG	1528052	Турусбеков көчөсү	residential	1	0	0	
+KG	1528052	Эркиндик көчөсү	residential	1	0	0	
+KG	1528053	улица им. Т. Айдарбека	residential	1	0	0	
+KG	1528091	1-мая улица	residential	1	0	0	1 May Street
+KG	1528091	60-лет Киргизии улица	residential	1	0	0	
+KG	1528091	Do‘stlik ko‘chasi	primary	1	0	0	
+KG	1528091	Mustaqillik ko'chasi	residential	1	0	0	
+KG	1528091	Абдиева улица	residential	1	0	0	
+KG	1528091	Абдырахманов А	residential	1	0	0	
+KG	1528091	Абжапарата улица	residential	1	0	0	
+KG	1528091	Абитов Н. улица	residential	1	0	0	
+KG	1528091	Аданбаев Рыскул улица	residential	1	0	0	
+KG	1528091	Адышева улица	residential	1	0	0	
+KG	1528091	Азимова улица	residential	1	0	0	
+KG	1528091	Айдарова улица	residential	1	0	0	
+KG	1528091	Айтиева улица	residential	1	0	0	
+KG	1528091	Айткулов А. улица	residential	1	0	0	
+KG	1528091	Айтматова Ч. улица	residential	1	0	0	
+KG	1528091	Ак-Орго 1 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 10 улица	unclassified	1	0	0	
+KG	1528091	Ак-Орго 11 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 12 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 13 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 14 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 15 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 2 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 3 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 4 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 5 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 6 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 7 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 8 улица	residential	1	0	0	
+KG	1528091	Ак-Орго 9 улица	residential	1	0	0	
+KG	1528091	Аканбаев К. улица	residential	1	0	0	
+KG	1528091	Акимова улица	residential	1	0	0	
+KG	1528091	Акшоола улица	residential	1	0	0	
+KG	1528091	Ала-Тоо улица	residential	1	0	0	
+KG	1528091	Алайская улица	residential	1	0	0	
+KG	1528091	Алахунов Абдыкадыр улица	residential	1	0	0	
+KG	1528091	Алимова улица	residential	1	0	0	
+KG	1528091	Амаджанова улица	residential	1	0	0	
+KG	1528091	Аманкулова улица	tertiary	1	0	0	
+KG	1528091	Аматова (Восточная) улица	unclassified	1	0	0	
+KG	1528091	Амиров Жунус ажы улица	residential	1	0	0	
+KG	1528091	Аркебаева улица	tertiary	1	0	0	
+KG	1528091	Арыкбаев Шадин улица	residential	1	0	0	
+KG	1528091	Асанова улица	residential	1	0	0	
+KG	1528091	Атыкулов О. улица	residential	1	0	0	
+KG	1528091	Ашиев Коенбай улица	residential	1	0	0	
+KG	1528091	Бабаев С. улица	residential	1	0	0	
+KG	1528091	Баетова улица	residential	1	0	0	
+KG	1528121	Токтогула улица	residential	62	79	297	
+KG	1528121	Абдрахманова Ю. улица	secondary	58	75	146	Abdrakhmanova Street
+KG	1528121	Пржевальского улица	secondary	39	2	145	Przhevalsk street
+KG	1528121	Торгоева улица	residential	31	3	85	Torgoeva street
+KG	1528121	Гебзе улица	secondary	21	54	171	Gebze Street
+KG	1528121	Кыдыр Аке улица		12	1	23	
+KG	1528121	Тыныстанова улица	residential	9	9	60	Tynystanova Street
+KG	1528121	Московская улица	residential	8	38	236	Moskovskaya Street
+KG	1528121	улица Карасаева	primary	8	150	207	Karasaeva street
+KG	1528121	Алыбакова улица	residential	7	59	165	Alybakova Street
+KG	1528121	Гагарина улица	residential	7	7	28	Gagarin Street
+KG	1528121	Ленина улица	residential	7	8	178	Lenin Street
+KG	1528121	Жамансариева улица	residential	6	161	338	
+KG	1528121	Кутманалиева (Ленкома) улица		6	136	160	
+KG	1528121	Асаналиева улица	residential	5	44	147	
+KG	1528121	Жамансариева (Дзержинского) улица		4	135	230	
+KG	1528121	Орозбекова улица	residential	4	51	92	Orozbekova Street
+KG	1528121	Рахманова (Туркестанская) улица		4	135	231	
+KG	1528121	Убукеева Айткул улица	residential	4	110	140	
+KG	1528121	Жакыпова улица		3	55	57	
+KG	1528121	Жусаева (Горького) улица		3	3	150	
+KG	1528121	Абсамат Масалиев улица	tertiary	2	207	211	Absamat Masaliyev street
+KG	1528121	Боронбай Бий	unclassified	2	39	52	
+KG	1528121	Карасаева улица	residential	2	150	150	
+KG	1528121	Коенкозова улица	tertiary	2	25	40	Koyenkozova Street
+KG	1528121	Кутманалиева улица	residential	2	135	135	Kutmanaliyeva Street
+KG	1528121	Орозова улица	residential	2	2	6	Orozova Street
+KG	1528121	Токтогула		2	273	273	
+KG	1528121	Туманова улица	residential	2	97	114	
+KG	1528121	Чичерина улица	residential	2	47	49	
+KG	1528121	Элебаева улица	secondary	2	82	253	Elebayeva street
+KG	1528121	1-Мая улица	tertiary	1	0	0	
+KG	1528121	Абая улица	residential	1	0	0	
+KG	1528121	Абдраев көчөсү	residential	1	0	0	
+KG	1528121	Абдраимова улица	residential	1	0	0	
+KG	1528121	Абдраманова улица	residential	1	0	0	
+KG	1528121	Абдыкадыра улица	residential	1	0	0	
+KG	1528121	Абдыкеримова улица	residential	1	0	0	
+KG	1528121	Адрешова улица	residential	1	0	0	
+KG	1528121	Айтбаева Айым улица	residential	1	0	0	
+KG	1528121	Айтбаева улица	residential	1	0	0	
+KG	1528121	Айткулиева улица	residential	1	0	0	
+KG	1528121	Айтматова көчөсү	secondary	1	0	0	Aitmatovoi Street
+KG	1528121	Ак-Тилек көчөсү	residential	1	0	0	
+KG	1528121	Акжолова улица	residential	1	0	0	
+KG	1528121	Акирова улица	residential	1	0	0	
+KG	1528121	Аккозиева улица	residential	1	0	0	
+KG	1528121	Акчубакова Аваза улица	residential	1	0	0	
+KG	1528121	Акыйкат улица	residential	1	0	0	
+KG	1528121	Алга көчөсү	residential	1	0	0	
+KG	1528121	Алиева улица	residential	1	0	0	
+KG	1528121	Арычная улица	residential	1	0	0	Arychnaya Street
+KG	1528121	Асанова Тургена улица	residential	1	0	0	
+KG	1528121	Асанова улица	residential	1	0	0	
+KG	1528121	Ахунбаева улица	residential	1	0	0	
+KG	1528121	Ашубаева улица	residential	1	0	0	
+KG	1528121	Баетова улица	residential	1	0	0	
+KG	1528121	Бакалова улица	residential	1	0	0	
+KG	1528121	Бакеева улица	residential	1	0	0	
+KG	1528121	Бакыт көчөсү	residential	1	0	0	
+KG	1528121	Барманов көчөсү	residential	1	0	0	
+KG	1528121	Барманова улица	unclassified	1	0	0	
+KG	1528121	Баялинова улица	residential	1	0	0	
+KG	1528121	Бейкут улица	residential	1	0	0	
+KG	1528121	Бейшебеков көчөсү	residential	1	0	0	
+KG	1528121	Бейшеналиевой улица	residential	1	0	0	
+KG	1528121	Бейшенбаева улица	residential	1	0	0	
+KG	1528121	Бекбоева улица	residential	1	0	0	
+KG	1528121	Бектемирова улица	residential	1	0	0	
+KG	1528121	Бектенова улица	residential	1	0	0	Bektenova street
+KG	1528121	Белек көчөсү	residential	1	0	0	
+KG	1528121	Белинского улица	residential	1	0	0	
+KG	1528121	Билим көчөсү	residential	1	0	0	
+KG	1528121	Биримдик улица	residential	1	0	0	
+KG	1528121	Боинский переулок	residential	1	0	0	
+KG	1528121	Брянская улица	residential	1	0	0	
+KG	1528121	Булатова Асана улица	tertiary	1	0	0	
+KG	1528121	Валиханова улица	residential	1	0	0	
+KG	1528121	Верещагина Василия улица	residential	1	0	0	
+KG	1528121	Волжская улица	residential	1	0	0	
+KG	1528121	Воронежская улица	residential	1	0	0	
+KG	1528121	Ворошилова улица	residential	1	0	0	
+KG	1528121	Гоголя проезд	residential	1	0	0	
+KG	1528121	Гоголя улица	residential	1	0	0	Gogol street
+KG	1528121	Горького проезд	residential	1	0	0	
+KG	1528121	Гречко улица	residential	1	0	0	
+KG	1528121	Дабаева улица	residential	1	0	0	
+KG	1528121	Даниярова улица	residential	1	0	0	
+KG	1528121	Дасифу улица	residential	1	0	0	
+KG	1528121	Даутова улица	residential	1	0	0	
+KG	1528121	Дербишева улица	residential	1	0	0	Deribesheva Street
+KG	1528121	Деркенбаевой улица	residential	1	0	0	
+KG	1528121	Джамбульская улица	residential	1	0	0	
+KG	1528121	Джантошева Улица	residential	1	0	0	
+KG	1528121	Догдурбая улица	residential	1	0	0	
+KG	1528121	Долосбая улица	residential	1	0	0	
+KG	1528121	Дружбы улица	residential	1	0	0	
+KG	1528121	Дубинина улица	residential	1	0	0	
+KG	1528121	Дуйшеева улица	residential	1	0	0	
+KG	1528121	Есенина улица	residential	1	0	0	
+KG	1528124	Сабирова улица	residential	48	24	115	
+KG	1528124	Мамытканова	residential	42	3	40	
+KG	1528124	Торокулова улица	residential	28	4	58	
+KG	1528124	Шаматова	residential	24	3	29	
+KG	1528124	Бекташ улица	tertiary	15	3	82	
+KG	1528124	улица Серого	residential	15	7	29	
+KG	1528124	Хуриева улица	residential	10	1	10	
+KG	1528124	Серова улица	residential	9	3	23	
+KG	1528124	Масирова улица	residential	8	11	23	
+KG	1528124	Ленина улица	living_street	6	2	6	
+KG	1528124	Ак-Шар улица	residential	4	4	188	
+KG	1528124	Бакешова улица	residential	4	4	7	
+KG	1528124	Далбаева	residential	4	16	27	
+KG	1528124	Заводская улица	residential	4	1	4	
+KG	1528124	Мамытова улица	living_street	4	41	105	
+KG	1528124	Мамытова	living_street	3	44	46	
+KG	1528124	Серого улица		3	19	79	
+KG	1528124	Торокулова	living_street	2	60	62	
+KG	1528124	улица Ленина	secondary	2	1	15	
+KG	1528124	улица Сабирова	living_street	2	8	123	
+KG	1528124	Ажиматова улица	residential	1	0	0	
+KG	1528124	Ак-Кыя 1 улица	residential	1	0	0	
+KG	1528124	Акынай улица	secondary	1	0	0	
+KG	1528124	Дачная улица	tertiary	1	0	0	
+KG	1528124	Исанова улица	residential	1	0	0	
+KG	1528124	Каипова улица	secondary	1	0	0	
+KG	1528124	Карасуйская улица	living_street	1	0	0	
+KG	1528124	Клубная улица	living_street	1	0	0	
+KG	1528124	Кыргызкая улица	tertiary	1	0	0	
+KG	1528124	Кыргызская улица	tertiary	1	0	0	
+KG	1528124	Мусуралиева	residential	1	0	0	
+KG	1528124	Панфилова улица	residential	1	0	0	
+KG	1528124	Рахимова улица	residential	1	0	0	
+KG	1528124	Таштанова	residential	1	0	0	
+KG	1528124	Токтогула улица	residential	1	0	0	
+KG	1528124	Турусбекова	residential	1	0	0	
+KG	1528124	Умралина улица	residential	1	0	0	
+KG	1528124	улица АТК	residential	1	0	0	
+KG	1528124	улица Ак-Кыя 1	unclassified	1	0	0	
+KG	1528124	улица Ак-Кыя 2	residential	1	0	0	
+KG	1528124	улица Ак-Шар	residential	1	0	0	
+KG	1528124	улица Боконбаева	living_street	1	0	0	
+KG	1528124	улица Исанова	pedestrian	1	0	0	
+KG	1528124	улица Канат	residential	1	0	0	
+KG	1528124	улица Масирова	living_street	1	0	0	
+KG	1528124	улица Токтогула	living_street	1	0	0	
+KG	1528161	Үч-Коргон - Дароот-Коргон жоли	secondary	1	0	0	
+KG	1528182	Гоголя улица	residential	23	3	43	
+KG	1528182	40 лет Киргизии	residential	17	1	17	
+KG	1528182	Пушкина улица	residential	17	3	135	
+KG	1528182	Кожомбердиева улица	tertiary	14	1	123	
+KG	1528182	Джамбула улица	residential	13	1	25	
+KG	1528182	Гвардейская улица	tertiary	9	1	54	
+KG	1528182	Пионерская улица	residential	9	2	18	
+KG	1528182	Жданова улица	residential	8	1	15	
+KG	1528182	улица Рабочая	residential	8	1	9	
+KG	1528182	Жайыл Баатыра улица		7	5	255	
+KG	1528182	Оторбаева улица	residential	7	25	95	
+KG	1528182	Карла Маркса улица	tertiary	5	4	21	
+KG	1528182	Фрунзенский переулок	residential	5	1	14	
+KG	1528182	Садовый переулок	residential	4	1	6	
+KG	1528182	Ленина улица	residential	3	10	11	
+KG	1528182	Мира улица	residential	3	2	24	
+KG	1528182	Целинная улица	residential	3	29	33	
+KG	1528182	Зеленая улица	residential	2	33	85	
+KG	1528182	Космонавтов улица	residential	2	5	6	
+KG	1528182	Фрунзенская улица	residential	2	4	6	
+KG	1528182	40-лет Киргизии улица	residential	1	0	0	
+KG	1528182	50-лет Киргизии улица	residential	1	0	0	
+KG	1528182	60-лет Киргизии улица	residential	1	0	0	
+KG	1528182	8 Марта переулок	residential	1	0	0	
+KG	1528182	8 Марта улица	residential	1	0	0	
+KG	1528182	8 марта улица	residential	1	0	0	
+KG	1528182	Абая улица	unclassified	1	0	0	
+KG	1528182	Агрономическая улица	residential	1	0	0	
+KG	1528182	Алыбаева улица	residential	1	0	0	
+KG	1528182	Ананьева улица	residential	1	0	0	
+KG	1528182	БЧК улица	residential	1	0	0	
+KG	1528182	Бакыт улица	residential	1	0	0	
+KG	1528182	Бедного улица	residential	1	0	0	
+KG	1528182	Бейшеналиева улица	tertiary	1	0	0	
+KG	1528182	Белинского улица	residential	1	0	0	
+KG	1528182	Береговая улица	residential	1	0	0	
+KG	1528182	Боконбаева улица	residential	1	0	0	
+KG	1528182	Бородачева улица	residential	1	0	0	
+KG	1528182	Буденого улица	residential	1	0	0	
+KG	1528182	Ватутина улица	residential	1	0	0	
+KG	1528182	Вишневая улица	residential	1	0	0	
+KG	1528182	Вокзальная улица	residential	1	0	0	
+KG	1528182	Ворошилова улица	residential	1	0	0	
+KG	1528182	Восточная улица	residential	1	0	0	
+KG	1528182	Въездная улица	residential	1	0	0	
+KG	1528182	Гагарина улица	tertiary	1	0	0	
+KG	1528182	Гидропартия улица	residential	1	0	0	
+KG	1528182	Горная улица	residential	1	0	0	
+KG	1528193	2 микрорайон		50	3	34	
+KG	1528193	1 микрорайон		37	2	26	
+KG	1528193	Ленина улица	primary	34	9	97	Lenin street
+KG	1528193	Ленинградская улица	residential	20	9	34	
+KG	1528193	Абдраимова улица	residential	13	1	78	
+KG	1528193	Куренкеева улица	residential	13	13	39	
+KG	1528193	Эмилбек Иманкулов улица		11	12	32	
+KG	1528193	Тулебердиева улица		10	1	10	
+KG	1528193	Строительная улица	residential	8	1	8	
+KG	1528193	Молодёжная улица	residential	7	1	44	
+KG	1528193	Островского улица		6	2	12	
+KG	1528193	Парковая улица	residential	6	9	14	
+KG	1528193	Пушкина улица	residential	6	16	172	
+KG	1528193	Ворошилова улица		5	8	14	
+KG	1528193	Кирова улица		5	3	39	
+KG	1528193	Логвиненко		4	42	50	
+KG	1528193	Логвиненко улица		4	25	30	
+KG	1528193	Максима Горького улица	residential	4	1	2	
+KG	1528193	Мирный переулок		4	1	4	
+KG	1528193	Садовая улица	residential	4	5	15	
+KG	1528193	Фрунзе улица		4	47	94	
+KG	1528193	3 микрорайон		3	6	8	
+KG	1528193	Гастелло улица		3	4	9	
+KG	1528193	Куттубек Тагаев улица		3	9	27	
+KG	1528193	Нальчик улица		3	1	11	
+KG	1528193	Бакинская улица		2	7	15	
+KG	1528193	Гагарина улица		2	12	28	
+KG	1528193	Меркулова улица		2	4	6	
+KG	1528193	Мичурина улица		2	46	48	
+KG	1528193	Сакебаева улица		2	5	6	
+KG	1528193	Советская улица		2	2	2	
+KG	1528193	Центральная улица	residential	2	18	42	
+KG	1528193	мпс улица		2	4	4	
+KG	1528193	улица Ленина		2	164	536	
+KG	1528193	1-Май көчөсү	residential	1	0	0	
+KG	1528193	50 жыл Октябрь көчөсү	residential	1	0	0	
+KG	1528193	M-026	primary	1	0	0	
+KG	1528193	Абдраимов көчөсү	residential	1	0	0	
+KG	1528193	Абдраимова	residential	1	0	0	
+KG	1528193	Авизов көчөсү	residential	1	0	0	
+KG	1528193	Айтматов көчөсү	residential	1	0	0	
+KG	1528193	Алматы көчөсү	residential	1	0	0	
+KG	1528193	Аманкулов көчөсү	residential	1	0	0	
+KG	1528193	Асан Жошкунов көчөсү	residential	1	0	0	
+KG	1528193	Асылбека Ишимбаева	residential	1	0	0	
+KG	1528193	Бакы көчөсү	residential	1	0	0	
+KG	1528193	Бакытбек Эгенбердиев көчөсү	residential	1	0	0	
+KG	1528193	Батыш көчөсү	residential	1	0	0	
+KG	1528234	улица Тихонова		37	63	142	
+KG	1528234	Тилебалиева улица	residential	17	29	108	
+KG	1528234	Коммунистическая улица	residential	16	8	32	
+KG	1528234	Мира улица	residential	9	3	12	
+KG	1528234	улица Юбилейная		8	3	12	
+KG	1528234	Коммунистическая	living_street	7	1	25	
+KG	1528234	улица Лениградская		7	1	7	
+KG	1528234	Кислых Н. улица	residential	6	2	9	
+KG	1528234	Строительная улица	unclassified	6	1	9	
+KG	1528234	Тихонова улица	residential	5	55	136	
+KG	1528234	Юбилейная улица	residential	4	7	15	
+KG	1528234	улица Жанузакова		4	1	6	
+KG	1528234	Горького улица	residential	3	2	6	
+KG	1528234	Ломоносова	residential	3	25	27	
+KG	1528234	Западная улица	residential	2	33	35	
+KG	1528234	Комсомольская улица	residential	2	10	10	
+KG	1528234	Куйбышева улица	residential	2	16	18	
+KG	1528234	Центральная улица		2	481	517	
+KG	1528234	60 лет Октября улица	tertiary	1	0	0	
+KG	1528234	Айбек Абдисаматов	residential	1	0	0	
+KG	1528234	Арал улица	residential	1	0	0	
+KG	1528234	Базарная улица	residential	1	0	0	
+KG	1528234	Бейзерц улица	residential	1	0	0	
+KG	1528234	Белоброва улица	residential	1	0	0	
+KG	1528241	Иссыкульская улица	tertiary	3	1	9	Issyk-kulskaya street
+KG	1528241	Спортивная	residential	2	6	7	
+KG	1528241	8 марта улица	residential	1	0	0	
+KG	1528241	Акматова улица	residential	1	0	0	
+KG	1528241	Акунова Сооданбека переулок	residential	1	0	0	
+KG	1528241	Атакан улица	residential	1	0	0	
+KG	1528241	Ачикеева Шергазы улица	tertiary	1	0	0	
+KG	1528241	Баетова улица	residential	1	0	0	
+KG	1528241	Восточная улица	tertiary	1	0	0	
+KG	1528241	Гагарина улица	residential	1	0	0	
+KG	1528241	Горный переулок	residential	1	0	0	
+KG	1528241	Горный проспект	residential	1	0	0	
+KG	1528249	Кыргыз Республикасы көчөсү	secondary	57	23	147	
+KG	1528249	Жеңи жок көчөсү	secondary	45	2	89	
+KG	1528249	Барпы Сейил улица	primary	43	19	414	
+KG	1528249	Манас проспект	secondary	41	5	64	
+KG	1528249	Сузакский көчөсү		39	3	75	
+KG	1528249	Гагарин көчөсү	residential	35	3	42	
+KG	1528249	Островский көчөсү	residential	29	124	172	
+KG	1528249	пер. Студенческий	residential	29	3	34	
+KG	1528249	Ивасишина көчөсү	tertiary	28	4	50	
+KG	1528249	Тынчтык туюк	residential	28	3	37	
+KG	1528249	Роза Азимова көчөсү	residential	24	4	72	
+KG	1528249	Ленина улица		22	40	220	
+KG	1528249	Некрасов көчөсү	residential	16	28	127	
+KG	1528249	Юльчибаев көчөсү	residential	13	22	46	
+KG	1528249	Бакиева Сали улица	residential	12	1	79	
+KG	1528249	Пушкина улица		12	3	152	
+KG	1528249	Абдукаимов көчөсү	secondary	11	3	16	
+KG	1528249	Джуматаева К. улица	residential	11	1	82	
+KG	1528249	Жени Жок улица		11	21	58	
+KG	1528249	Осмонов Бекмат көчөсү	secondary	10	29	107	
+KG	1528249	Тоголок Молдо көчөсү	residential	10	69	77	
+KG	1528249	Жамбул көчөсү	residential	9	1	31	
+KG	1528249	Жолдошмат Качикеев көчөсү	residential	9	2	18	
+KG	1528249	Калинина улица		8	3	49	
+KG	1528249	Циолковский көчөсү	residential	8	4	18	
+KG	1528249	Жусуп Абдрахманов көчөсү	tertiary	7	6	31	
+KG	1528249	Эркиндик көчөсү	residential	7	32	58	
+KG	1528249	Жусупбек Бакиев көчөсү	unclassified	6	18	54	
+KG	1528249	Ленина көчөсү		6	40	182	
+KG	1528249	Тажибаев Жоомарт көчөсү	residential	6	6	20	
+KG	1528249	Эркиндик улица		6	13	156	
+KG	1528249	улица Сатыбалдиева		6	4	70	
+KG	1528249	Арапбаев көчөсү	residential	5	9	16	
+KG	1528249	ВЛКСМ көчөсү	tertiary	5	15	19	
+KG	1528249	Жаштык көчөсү	residential	5	18	76	
+KG	1528249	Ибраимов Султан көчөсү	secondary	5	5	61	
+KG	1528249	Кугартская улица	residential	5	4	26	
+KG	1528249	Кыргыз Республикасы (Красина)		5	5	49	
+KG	1528249	Максима Горького улица		5	21	66	
+KG	1528249	Махмудовой Дани улица	tertiary	5	4	38	
+KG	1528249	Абдрахманов Шабданбай көчөсү	residential	4	31	76	
+KG	1528249	Айтиев Жакып улица		4	3	18	
+KG	1528249	Байзаков Түмөнбай көчөсү	secondary	4	24	33	
+KG	1528249	Достоевский көчөсү	residential	4	3	6	
+KG	1528249	Жеңиш көчөсү	residential	4	69	86	
+KG	1528249	Крупская көчөсү	residential	4	3	26	
+KG	1528249	Пугачев көчөсү	residential	4	4	23	
+KG	1528249	Пугачёва Емельяна улица		4	72	99	
+KG	1528249	Тынчтык көчөсү	residential	4	46	69	
+KG	1528249	Умаркулов Саке көчөсү	residential	4	14	20	
+KG	1528249	Достоевского улица		3	32	45	
+KG	1528249	Дружба көчөсү	residential	3	16	20	
+KG	1528249	Кашкина улица	residential	3	1	5	
+KG	1528249	Курманбек көчөсү	primary	3	7	17	
+KG	1528249	Мадаминова Азиз-Ата көчөсү	residential	3	25	34	
+KG	1528249	Токтогул бульвары	tertiary	3	33	34	Toktogul street
+KG	1528249	Тукубай Тайгараев көчөсү	residential	3	51	55	
+KG	1528249	Чехов көчөсү	tertiary	3	18	20	
+KG	1528249	Шерматов көчөсү	primary	3	5	9	
+KG	1528249	Шопоков көчөсү	residential	3	3	16	
+KG	1528249	Шопокова Дуйшенкула улица		3	42	46	
+KG	1528249	улица Манас	residential	3	36	40	
+KG	1528249	5ая (ул. Жумабаева)	residential	2	6	8	5th street (Jumabaev str.)
+KG	1528249	Авиационная улица		2	2	4	
+KG	1528249	Алыкулов Барпы көчөсү	residential	2	82	91	
+KG	1528249	Аманов көчөсү	residential	2	4	6	
+KG	1528249	Балтагулова Т. улица		2	107	109	
+KG	1528249	Ивасишина	tertiary	2	70	72	
+KG	1528249	Курманбека улица		2	14	14	
+KG	1528249	Ленин көчөсү		2	37	43	
+KG	1528249	Манас проспекти	residential	2	14	71	
+KG	1528249	Манаса проспект	secondary	2	8	57	
+KG	1528249	Могол көчөсү	residential	2	2	4	
+KG	1528249	Пушкин көчөсү		2	152	200	
+KG	1528249	Сайдулла Акбаров көчөсү	residential	2	8	10	
+KG	1528249	Тоголок Молдо улица	residential	2	44	46	
+KG	1528249	улица Жусупбек Бакиев		2	1	36	
+KG	1528249	1-кочо	residential	1	0	0	
+KG	1528249	10 улица	residential	1	0	0	
+KG	1528249	12.улица	residential	1	0	0	
+KG	1528249	13.улица	residential	1	0	0	
+KG	1528249	18-я ул.	residential	1	0	0	
+KG	1528249	24-Март көчөсү	residential	1	0	0	
+KG	1528249	2ая улица	residential	1	0	0	2nd street
+KG	1528249	3ая улица	residential	1	0	0	3rd street
+KG	1528249	4ая улица	residential	1	0	0	4th street
+KG	1528249	6ая улица	residential	1	0	0	6th street
+KG	1528249	7ая улица	residential	1	0	0	7th street
+KG	1528249	8 улица	residential	1	0	0	
+KG	1528249	8-Чынгыз Айтматов көчөсү	residential	1	0	0	
+KG	1528249	9 улица	residential	1	0	0	
+KG	1528249	Абдувалиев Абдулазиз каары көчөсү	residential	1	0	0	
+KG	1528249	Абдуллаев көчөсү	residential	1	0	0	
+KG	1528249	Абдырасулова Канатбека улица	residential	1	0	0	
+KG	1528249	Абжапаров Султан	residential	1	0	0	
+KG	1528249	Авиационная көчөсү	residential	1	0	0	
+KG	1528249	Адыш Кочкоров көчөсү	residential	1	0	0	
+KG	1528249	Ак-Тилек көчөсү	residential	1	0	0	
+KG	1528249	Акимбек Касымбеков көчөсү	residential	1	0	0	
+KG	1528249	Акунов Кадырбек көчөсү	residential	1	0	0	
+KG	1528252	Олега Кошевого улица	residential	3	1	3	
+KG	1528252	Гагарина улица	residential	2	28	267	
+KG	1528252	Лесная улица	residential	2	45	47	
+KG	1528252	Абая ул.	tertiary	1	0	0	
+KG	1528252	Айыл көчөсү	residential	1	0	0	
+KG	1528252	Алтай көчөсү	residential	1	0	0	
+KG	1528252	Ашимов көчөсү	residential	1	0	0	
+KG	1528252	Батыш көчөсү	residential	1	0	0	
+KG	1528252	Бексултанов көчөсү	residential	1	0	0	
+KG	1528252	Береговая көчөсү	residential	1	0	0	
+KG	1528252	Береговая улица	residential	1	0	0	
+KG	1528252	Биринчи Май көчөсү	residential	1	0	0	
+KG	1528252	Биянху ул.	residential	1	0	0	
+KG	1528252	Биянху улица	residential	1	0	0	
+KG	1528252	Больничная улица	residential	1	0	0	
+KG	1528252	Братьев Джумагуловых улица	residential	1	0	0	
+KG	1528252	Веселая улица	residential	1	0	0	
+KG	1528252	Весёлая улица	residential	1	0	0	
+KG	1528252	Восточная улица	residential	1	0	0	
+KG	1528252	Гагарин көчөсү	residential	1	0	0	
+KG	1528252	Гоголь көчөсү	residential	1	0	0	
+KG	1528252	Григорий Ильин көчөсү	primary	1	0	0	
+KG	1528252	Дорога на объездную магистраль	unclassified	1	0	0	
+KG	1528252	Дорожная улица	residential	1	0	0	
+KG	1528252	Достук көчөсү	residential	1	0	0	
+KG	1528252	Жашыл көчөсү	residential	1	0	0	
+KG	1528252	Жуков көчөсү	residential	1	0	0	
+KG	1528252	Жумагулов бир туугандар көчөсү	residential	1	0	0	
+KG	1528252	Заводская улица	living_street	1	0	0	
+KG	1528252	Западная улица	residential	1	0	0	
+KG	1528252	Зеленая улица	residential	1	0	0	
+KG	1528252	Ибрагимов көчөсү	residential	1	0	0	
+KG	1528252	Исмаилова улица	residential	1	0	0	
+KG	1528252	Исманова улица	residential	1	0	0	
+KG	1528252	Калинин көчөсү	residential	1	0	0	
+KG	1528252	Керимбаев көчөсү	residential	1	0	0	
+KG	1528252	Киров көчөсү	residential	1	0	0	
+KG	1528252	Комсомол көчөсү	residential	1	0	0	
+KG	1528252	Комсомольская улица	residential	1	0	0	
+KG	1528252	Лейлиева улица	residential	1	0	0	
+KG	1528252	Ленин көчөсү	residential	1	0	0	
+KG	1528252	Ленина	secondary	1	0	0	
+KG	1528252	Ленина улица	residential	1	0	0	
+KG	1528252	Лермонтов көчөсү	residential	1	0	0	
+KG	1528252	Ломоносов көчөсү	residential	1	0	0	
+KG	1528252	Луговая көчөсү	residential	1	0	0	
+KG	1528252	Луговая улица	residential	1	0	0	
+KG	1528252	Мадинцеев көчөсү	residential	1	0	0	
+KG	1528253	Досбай улица	residential	1	0	0	
+KG	1528253	Достук улица	residential	1	0	0	
+KG	1528253	КР 10 жыл улица	residential	1	0	0	
+KG	1528253	Лицей улица	residential	1	0	0	
+KG	1528253	Манас улица	residential	1	0	0	
+KG	1528253	Сейдибалиева улица	residential	1	0	0	
+KG	1528253	Субанов улица	residential	1	0	0	
+KG	1528253	Турар М. улица	tertiary	1	0	0	
+KG	1528253	Чомой улица	residential	1	0	0	
+KG	1528253	Эсенжан уулу улица	residential	1	0	0	
+KG	1528253	Эсиркеп улица	residential	1	0	0	
+KG	1528283	Kichik bog‘ ko'chasi	tertiary	1	0	0	
+KG	1528283	Quvasoy	primary	1	0	0	
+KG	1528283	Рахманали Мамазияев Kөчөсү	tertiary	1	0	0	
+KG	1528283	Спортивная улица	residential	1	0	0	Sportivnaya street
+KG	1528320	Ленина улица		2	117	134	
+KG	1528320	Бакытбек Эсенкулов көчөсү	residential	1	0	0	
+KG	1528320	Бокеев улица	residential	1	0	0	
+KG	1528320	Дубанаева улица	residential	1	0	0	
+KG	1528320	Ермекбаев Аматбек	residential	1	0	0	
+KG	1528320	Ермекбаев Аматбек көчөсү	residential	1	0	0	
+KG	1528320	Жалилбек Жусупов Улица	residential	1	0	0	
+KG	1528320	Жумабай Абдиев	residential	1	0	0	
+KG	1528320	Жээнбеков Темир көчөсү	residential	1	0	0	
+KG	1528320	Исанова улица	residential	1	0	0	
+KG	1528320	Исламов Мала көчөсү	residential	1	0	0	
+KG	1528320	Кадыров Макас көчөсү	residential	1	0	0	
+KG	1528320	Камчыбек уулу Кадырбек улица	residential	1	0	0	
+KG	1528320	Каримбеков Зиямидин	residential	1	0	0	
+KG	1528320	Молдокулов Сары көчөсү	residential	1	0	0	
+KG	1528320	Нарматов көчөсү	tertiary	1	0	0	Narmatov Street
+KG	1528320	Рысмамат Мамбетов	residential	1	0	0	
+KG	1528320	Сарыбашова улица	residential	1	0	0	
+KG	1528320	Сатаров Анарбек	residential	1	0	0	
+KG	1528320	Токтогула улица	residential	1	0	0	
+KG	1528320	Урман Абдрай	residential	1	0	0	
+KG	1528320	Ылай-Талаа – Гүлчө	primary	1	0	0	
+KG	1528320	Үмөталиев Айтмамат	residential	1	0	0	
+KG	1528339	Шакар Кыштак	tertiary	191	14	232	
+KG	1528339	М Тилавалди	residential	128	4	63	
+KG	1528339	М Исомов	unclassified	126	7	120	
+KG	1528339	Маматисмонов	unclassified	102	12	196	
+KG	1528339	Аланазаров		92	5	75	
+KG	1528339	М Сотимбоева	residential	92	5	88	
+KG	1528339	Х Турсункулов	residential	92	3	55	
+KG	1528339	Б Жалилов	residential	87	5	83	
+KG	1528339	Салтобаева улица		85	6	109	
+KG	1528339	Мамарахимова улица	unclassified	77	4	82	
+KG	1528339	Шораев	residential	77	4	76	
+KG	1528339	Б Шаназаров	unclassified	69	4	66	
+KG	1528339	Темир-Корук 4	unclassified	68	2	39	
+KG	1528339	Молдо-Полат	unclassified	59	3	54	
+KG	1528339	А Арапбаев	residential	57	3	55	
+KG	1528339	А Ганиев	residential	56	3	54	
+KG	1528339	Т Абитов	unclassified	56	3	37	
+KG	1528339	Жамал Ата	residential	55	3	53	
+KG	1528339	Садрахим	tertiary	54	3	53	
+KG	1528339	Г Гулом	unclassified	53	4	62	
+KG	1528339	Гажир Палван	residential	52	3	50	
+KG	1528339	М Базарбаев	unclassified	52	3	47	
+KG	1528339	С Убайдуллаев	residential	51	3	50	
+KG	1528339	Хужам кари	unclassified	50	2	53	
+KG	1528339	Ориф полвон	residential	48	3	46	
+KG	1528339	Х Охунжонов	residential	46	3	44	
+KG	1528339	Мирзалиева	unclassified	44	1	40	
+KG	1528339	Киргизбаев көчөсү	unclassified	43	3	41	
+KG	1528339	М Кодиров	unclassified	43	3	43	
+KG	1528339	М Моминова	unclassified	42	3	40	
+KG	1528339	Хамза	unclassified	42	2	39	
+KG	1528339	Партсьезд	unclassified	39	1	47	
+KG	1528339	Хокимжон каары	unclassified	38	2	47	
+KG	1528339	Ахматжон ата	unclassified	37	2	36	
+KG	1528339	Т абдукаримов	unclassified	37	2	36	
+KG	1528339	Камолов	unclassified	36	2	37	
+KG	1528339	Кучканов	unclassified	36	3	37	
+KG	1528339	А Эргешбаева	unclassified	35	2	35	
+KG	1528339	Бахор	unclassified	34	2	38	
+KG	1528339	Дукур	residential	34	2	50	
+KG	1528339	И Обиджонов	unclassified	34	2	33	
+KG	1528339	А Базарбаев	unclassified	33	2	33	
+KG	1528339	М Охунжонов	unclassified	31	2	32	
+KG	1528339	Вахоп ажы	residential	30	2	30	
+KG	1528339	Абдумаликов Х.көчөсү	residential	29	3	32	
+KG	1528339	Машрапова	unclassified	27	2	30	
+KG	1528339	Топволдиев	unclassified	27	2	26	
+KG	1528339	Алимбаев С. көчөсү		23	113	153	
+KG	1528512	Айтматова улица	tertiary	253	1	5	
+KG	1528512	Советская улица		189	2	216	
+KG	1528512	Совет көчөсү		97	4	78	
+KG	1528512	Улица Акматбай-Ата		69	1	17	
+KG	1528512	Улица Жуман Акималиева		67	1	2	
+KG	1528512	Сокин Чекирова		64	3	50	
+KG	1528512	Ленина улица	residential	63	3	65	
+KG	1528512	Баетова улица		62	7	92	
+KG	1528512	Мухтар Ауэзов көчөсү	residential	51	4	28	
+KG	1528512	Мамытова улица		44	2	43	
+KG	1528512	Абдылда Короголдоева		42	4	54	
+KG	1528512	Тоголок Молдо		36	2	42	
+KG	1528512	Кадырал Кубатова		34	1	28	
+KG	1528512	Мукаш Иманбаева		33	3	38	
+KG	1528512	3-й Микрорайон		32	16	131	
+KG	1528512	Жаштык улица		30	2	43	
+KG	1528512	Иманбай Молдо		30	1	40	
+KG	1528512	Курортная улица		30	2	23	
+KG	1528512	Ак булун		29	3	30	
+KG	1528512	Советская Улица		29	1	131	
+KG	1528512	Комарова улица		28	2	32	
+KG	1528512	Иса Ахунбаева		27	1	28	
+KG	1528512	Арал улица		25	4	52	
+KG	1528512	Ала-Тоо		24	2	39	
+KG	1528566	М. Рыскулов Көчөсү	residential	1	0	0	M. Ryskulov Street
+KG	1528566	Р. Абдиев көчөсү	residential	1	0	0	R. Abdiev Street
+KG	1528566	Э.Сапарбеков	tertiary	1	0	0	
+KG	1528606	Космонавтов улица	residential	2	26	26	
+KG	1528606	40-лет Октября улица	residential	1	0	0	
+KG	1528606	Аалы уулу улица	residential	1	0	0	
+KG	1528606	Абдырахманова улица	residential	1	0	0	
+KG	1528606	Абдысатара улица	residential	1	0	0	
+KG	1528606	Ак-Орго улица	residential	1	0	0	
+KG	1528606	Алыбекова улица	residential	1	0	0	
+KG	1528606	Амбулаторная улица	residential	1	0	0	
+KG	1528606	Асранбека улица	residential	1	0	0	
+KG	1528606	Аширбаева улица	residential	1	0	0	
+KG	1528606	Бакеева улица	residential	1	0	0	
+KG	1528606	Бактабаса улица	residential	1	0	0	
+KG	1528606	Бозоева улица	residential	1	0	0	
+KG	1528606	Больничная улица	residential	1	0	0	
+KG	1528606	Восточная улица	residential	1	0	0	
+KG	1528606	Гагарина улица	residential	1	0	0	
+KG	1528606	Горького улица	residential	1	0	0	
+KG	1528606	Дружба улица	residential	1	0	0	
+KG	1528606	Дружбы улица	residential	1	0	0	
+KG	1528606	Жаштык улица	residential	1	0	0	
+KG	1528606	Жусуп-Молдо улица	residential	1	0	0	
+KG	1528606	Зеленая улица	residential	1	0	0	
+KG	1528606	Калинина улица	residential	1	0	0	
+KG	1528606	Калый уулу улица	residential	1	0	0	
+KG	1528616	Пржевальского улица	tertiary	8	20	29	
+KG	1528616	Приозерная улица	residential	2	19	20	
+KG	1528616	Гапарова улица	residential	1	0	0	
+KG	1528616	Заводская улица	residential	1	0	0	
+KG	1528616	Западная улица	residential	1	0	0	
+KG	1528616	Заречная улица	residential	1	0	0	
+KG	1528616	Иссык-Кульская улица	residential	1	0	0	
+KG	1528616	Каракольская улица	residential	1	0	0	
+KG	1528616	Кирпичная улица	residential	1	0	0	
+KG	1528616	Кожомбердиева улиц	residential	1	0	0	
+KG	1528616	Луговая улица	residential	1	0	0	
+KG	1528616	Небережная улица	residential	1	0	0	
+KG	1528642	Казыбекова Муканбета улица	residential	1	0	0	
+KG	1528642	Керимова улица	residential	1	0	0	
+KG	1528642	Кирпичная улица	residential	1	0	0	
+KG	1528642	Манаева А. улица	residential	1	0	0	
+KG	1528642	Озерная улица	residential	1	0	0	
+KG	1528642	Омурова улица	residential	1	0	0	
+KG	1528666	Мамбетова улица		8	16	58	
+KG	1528666	Тойгонова Мукантбета улица	residential	4	30	83	
+KG	1528666	Тойчубекова улица	residential	4	72	72	
+KG	1528666	Сабира калканова улица		3	34	56	
+KG	1528666	Карымшакова		2	69	69	
+KG	1528666	Молдогазы көчөсү		2	21	21	
+KG	1528666	Сабыр Калканова улица	residential	2	1	60	
+KG	1528666	Baialu uulu Abdrazak St.	residential	1	0	0	
+KG	1528666	Абакирова улица	residential	1	0	0	
+KG	1528666	Абдрашит-ата улица	residential	1	0	0	
+KG	1528666	Азамат-алтай переулок	residential	1	0	0	
+KG	1528666	Азарбека улица	residential	1	0	0	
+KG	1528666	Айтмамбетова улица	residential	1	0	0	
+KG	1528666	Акматова Д.улица	residential	1	0	0	
+KG	1528666	Аламанова М. улица	residential	1	0	0	
+KG	1528666	Алматай улица	secondary	1	0	0	
+KG	1528666	Амаманова улица	residential	1	0	0	
+KG	1528666	Аралбаева улица	residential	1	0	0	
+KG	1528666	Арапаева Касымбека улица	residential	1	0	0	
+KG	1528666	Арашанова Рыскула улица	residential	1	0	0	
+KG	1528666	Асаналиева К. улица	residential	1	0	0	
+KG	1528666	Атакан улица	residential	1	0	0	
+KG	1528666	Ашырахман молдо улица	residential	1	0	0	
+KG	1528666	Б. Мамбетова улица	tertiary	1	0	0	
+KG	1528675	Панфилова улица	living_street	610	10	259	
+KG	1528675	Курманжан Датка улица	primary	541	15	459	Kurmanjan Datka Street
+KG	1528675	улица Максим Горький		475	7	180	
+KG	1528675	проспект Жибек Жолу		463	70	555	
+KG	1528675	Дэн Сяопина проспект		452	67	475	
+KG	1528675	Киргизская улица	secondary	392	13	382	
+KG	1528675	улица Тоголок Молдо		357	5	314	
+KG	1528675	Абдыкадырова улица		354	7	180	
+KG	1528675	Новая улица		345	11	269	
+KG	1528675	улица Михаил Фрунзе		332	80	547	
+KG	1528675	улица Орозбеков Абдыкадыр		316	26	338	
+KG	1528675	улица Осмонкул		310	83	342	
+KG	1528675	улица Махатма Ганди		308	14	349	
+KG	1528675	улица Панфилов	residential	300	7	341	Panfilov street
+KG	1528675	улица Маяковского		288	10	176	
+KG	1528675	улица Иманалиев		287	8	268	
+KG	1528675	улица Ахунбаева Исы	primary	283	12	221	Akhunbaev Isy street
+KG	1528675	улица Тыныстанов		272	15	405	
+KG	1528675	Орозова К. улица		266	37	314	
+KG	1528675	улица Исанов		259	7	344	
+KG	1528675	Энесай улица		249	13	246	
+KG	1528675	улица Васильева	residential	246	15	255	Vasileva street
+KG	1528675	улица Куренкеева Мураталы	residential	246	115	350	Kurenkeeva Murataly street
+KG	1528675	Гагарина Юрия улица	secondary	242	61	275	Gagarin Street
+KG	1528675	9 Января улица		239	12	222	
+KG	1528675	проспект Чуй		236	30	245	
+KG	1528675	Арстанбап улица		232	12	225	
+KG	1528675	Волковой улица		231	7	224	
+KG	1528675	Садырбаева Дооронбека улица	secondary	230	2	497	Sadyrbaev Dooronbek Street
+KG	1528675	улица Мусы Джалиля		230	11	293	
+KG	1528675	улица Дзержинского Феликса		227	88	283	
+KG	1528675	Чынгыз Айтматов проспекти	primary	224	8	303	Chyngyz Aytmatov Avenue
+KG	1528675	Джамгерчинова улица		223	55	275	
+KG	1528675	Арзамасская улица		218	12	217	
+KG	1528675	улица Тулебердиева	residential	217	12	230	Tuleberdieva street
+KG	1528675	Мукаша Абдраева улица		214	11	217	
+KG	1528675	улица Абдумомунова		214	12	338	
+KG	1528675	Репина улица		212	23	259	
+KG	1528675	улица Мичурина Ивана	residential	200	24	333	Michurina Ivana street
+KG	1528675	Логвиненко Якова улица	tertiary	195	11	187	Yakov Logvinenko Street
+KG	1528675	улица Медерова	secondary	195	7	181	Mederova street
+KG	1528675	улица Юсуп Абдрахманов		194	121	335	
+KG	1528675	Кок-Жайык улица		193	2	217	
+KG	1528675	Украинская улица		193	10	227	
+KG	1528675	улица Якова Логвиненко		189	3	141	
+KG	1528675	улица Манаса	residential	188	110	268	Manasa street
+KG	1528675	улица Можайского		186	83	411	
+KG	1528675	улица Ибраимова	residential	185	30	254	Ibraimova street
+KG	1528675	Набережная улица	residential	184	9	117	
+KG	1528675	улица Байтик Баатыра	residential	183	3	90	Baytik Baatyra street
+KG	1528675	улица Малдыбаев		180	2	275	
+KG	1528675	Красная улица		176	9	162	
+KG	1528675	улица Огонбаева Атая		176	21	222	
+KG	1528675	Алтымышева улица	tertiary	175	4	151	
+KG	1528675	улица Садырбаева Дооронбека		174	81	251	
+KG	1528675	улица Токтогула		173	10	247	
+KG	1528675	Коллекторная улица		172	6	168	
+KG	1528675	улица Баялинова Касымалы		172	16	177	
+KG	1528675	Николая Гоголя улица	tertiary	171	10	180	
+KG	1528675	улица Бектенова Зияша	residential	170	10	226	Bektenova Ziyasha street
+KG	1528675	улица Елебесова		169	9	157	
+KG	1528675	улица Фирсова		169	10	170	
+KG	1528675	Древесная улица	tertiary	167	25	185	
+KG	1528675	улица Саратовская		165	76	233	
+KG	1528675	улица Жумабек		164	13	285	
+KG	1528675	Гагарина улица	tertiary	163	5	152	
+KG	1528675	Елебесова улица		161	113	300	
+KG	1528675	Кирпичная улица		161	21	166	
+KG	1528675	улица Боталиева		161	20	317	
+KG	1528675	улица Будённого Семёна	secondary	160	13	209	Budyonnogo Semyona street
+KG	1528675	Суворова улица	residential	159	4	119	
+KG	1528675	Кара-Кужур улица		157	25	253	
+KG	1528675	улица Московская		155	6	248	
+KG	1528675	улица Щербакова		155	21	199	
+KG	1528675	Тойгонбаева улица		154	13	127	
+KG	1528675	Шербет улица		154	15	226	
+KG	1528675	Гатчинский переулок		153	7	127	
+KG	1528675	улица Шукурова Жапара	residential	153	7	164	Shukurova Zhapara street
+KG	1528675	улица Салиевой		150	91	284	
+KG	1528675	Лущихина улица		148	8	140	
+KG	1528675	улица Киев		148	71	220	
+KG	1528675	Тимура Фрунзе улица		147	5	97	
+KG	1528675	Матыева Эркинбека улица		145	17	264	
+KG	1528675	Патриса Лумумбы улица		144	6	127	
+KG	1528675	улица Белорусская		144	8	130	
+KG	1528675	улица Лев Толстой		144	2	138	
+KG	1528675	Курманалиева улица		143	6	140	
+KG	1528675	Сухомлинов көчөсү	residential	143	9	140	Sukhomlinova street
+KG	1528675	Власова улица		142	8	143	
+KG	1528675	улица Кулмурзаева		142	103	292	
+KG	1528675	улица Матросова		142	8	156	
+KG	1528675	Островского улица		141	6	112	
+KG	1528675	улица Кудрука	residential	141	6	172	Kudruka street
+KG	1528675	улица Кызыл-Кийская		140	7	176	
+KG	1528675	Болот Юнусалиев көчөсү	primary	138	9	125	Yunusaliev Bolot street
+KG	1528675	Северная улица		138	6	221	
+KG	1528675	Очаковская улица		134	6	128	
+KG	1528675	улица Саякбай Каралаев		134	2	59	
+KG	1528675	улица Суюмбаева Ахматбека	residential	134	5	230	Suyumbaeva Akhmatbeka street
+KG	1528675	Ахунбаева Исы улица		133	4	243	
+KG	1528675	улица Курманжан Датка	residential	132	15	268	Kurmanzhan Datka street
+KG	1528675	Адырская улица		131	7	129	
+KG	1528675	Тон улица		131	8	185	
+KG	1528675	улица Кокчетавская		131	73	333	
+KG	1528675	улица Ленская		131	17	138	
+KG	1528675	Абаданова улица		130	5	120	
+KG	1528675	Троицкая улица		130	7	158	
+KG	1528675	улица Боконбаева		129	6	238	
+KG	1528675	Султана Боромбая улица		128	8	136	
+KG	1528675	улица Ялтинская		128	9	166	
+KG	1528675	2-я Товарная улица		127	476	672	
+KG	1528675	Садыбакасова улица		127	63	169	
+KG	1528675	Аалы Токомбаева улица		126	4	53	
+KG	1528675	Ильменская улица		126	4	106	
+KG	1528675	Маликова Кубанычбека улица		125	8	94	
+KG	1528675	Тираспольская улица		124	5	117	
+KG	1528675	улица Кара-Балтинская		124	7	127	
+KG	1528675	Джунусалиева улица		123	10	173	
+KG	1528675	Наманганская улица		123	3	109	
+KG	1528675	Кустанайская улица	tertiary	122	6	155	
+KG	1528675	Актан улица		120	4	270	
+KG	1528675	улица Арстанбап		120	234	379	
+KG	1528675	улица Жукеева-Пудовкина		120	12	128	
+KG	1528675	улица Бакаева		118	41	123	
+KG	1528675	Таллинский переулок		117	7	119	
+KG	1528675	улица Магаданская		117	9	134	
+KG	1528675	Ак-Туз улица		115	90	184	
+KG	1528675	Ормокоева улица		113	3	88	
+KG	1528675	улица Конорчок		113	74	645	
+KG	1528675	улица Табалдиева		113	5	148	
+KG	1528675	улица Тюменская	residential	113	10	98	Tyumenskaya street
+KG	1528675	Кожобергенова С. улица		112	124	297	
+KG	1528675	Короткая улица	living_street	112	5	92	
+KG	1528675	Куренкеева Мураталы улица		112	6	247	
+KG	1528675	улица Токтоналиева А.		112	4	103	
+KG	1528675	улица Турусбекова	residential	112	6	181	Turusbekova street
+KG	1528675	Байтик Баатыра улица		111	1	122	
+KG	1528675	Кочкорская улица		111	5	105	
+KG	1528675	Кузбасская улица		111	7	105	
+KG	1528675	Месароша Ласло улица	tertiary	111	5	99	
+KG	1528675	улица Ереванская	residential	111	6	141	Erevanskaya street
+KG	1528675	улица Худайбергенова	residential	111	6	108	Khudaybergenova street
+KG	1528675	Новгородская улица		110	4	106	
+KG	1528675	улица Абая		110	4	117	
+KG	1528675	улица Темирова		110	5	115	
+KG	1528675	Шарапов Эсенбек улица		109	2	75	
+KG	1528675	Шералиева улица		109	229	421	
+KG	1528675	Балык Кумара улица		108	3	69	
+KG	1528675	улица Серова		108	7	101	
+KG	1528675	улица Сеченова		108	6	93	
+KG	1528675	улица Коммунаров	residential	107	7	123	Kommunarov street
+KG	1528675	Талды-Суйский переулок		106	6	131	
+KG	1528675	улица Джантошева		106	5	124	
+KG	1528675	Анар улица		105	6	186	
+KG	1528675	Кен-Суу улица		105	20	127	
+KG	1528675	Суюмбаева Ахматбека улица		105	197	324	
+KG	1528675	Чатыркульский переулок		105	9	89	
+KG	1528675	улица Фучик Юлиус		105	7	124	
+KG	1528675	Камчатская улица		104	5	106	
+KG	1528675	Обская улица		104	6	94	
+KG	1528675	Эр-Тайлак улица		104	12	112	
+KG	1528675	улица Осипенко		104	8	105	
+KG	1528675	Корейская улица		103	4	117	
+KG	1528675	Кулмурзаева улица		102	10	188	
+KG	1528675	Нарвская улица		102	7	78	
+KG	1528675	Садыгалиева улица	pedestrian	102	3	101	
+KG	1528675	улица Карасаева		102	5	112	
+KG	1528675	улица Суванбердиева Тургунбека		102	7	102	
+KG	1528675	Ижевский переулок	residential	101	9	136	Izhevskiy lane
+KG	1528675	Кайназаровой улица		101	4	97	
+KG	1528675	Тихая улица		100	5	104	
+KG	1528675	улица Карадарьинская		100	12	117	
+KG	1528675	улица Кок-Жайык		100	184	314	
+KG	1528675	Бакаева улица		99	9	152	
+KG	1528675	Профсоюзная улица	tertiary	99	7	168	Profsojuznaja Street
+KG	1528675	Босого улица		98	8	131	
+KG	1528675	улица Тельмана		97	5	95	
+KG	1528675	улица Куликовская	residential	96	5	123	Kulikovskaya street
+KG	1528675	улица Октябрьская	residential	96	157	270	Oktyabrskaya street
+KG	1528675	Комсомольская улица		95	4	198	
+KG	1528675	Сумской переулок		95	1	97	
+KG	1528675	Чугуевский переулок	residential	95	5	92	Chuguevskiy lane
+KG	1528675	Белгородская улица		94	7	104	
+KG	1528675	Бердибаева улица		94	20	296	
+KG	1528675	Первомайская улица		94	1	66	
+KG	1528675	Пионерская улица		93	3	44	
+KG	1528675	Шота Руставели улица		93	2	105	
+KG	1528675	улица Керемет		93	37	180	
+KG	1528675	улица Уметалиева Темиркула	residential	93	4	194	Umetalieva Temirkula street
+KG	1528675	Керамическая улица		92	2	102	
+KG	1528675	Кривоносова улица		92	11	200	
+KG	1528675	Кулатов көчөсү	residential	92	3	94	Kulatova street
+KG	1528675	Хоперская улица		92	3	103	
+KG	1528675	улица Курганская		92	4	83	
+KG	1528675	Боровской переулок	residential	91	4	93	Borovskoy lane
+KG	1528675	Брестская улица		90	5	84	
+KG	1528675	Кубанский переулок		89	6	75	
+KG	1528675	улица Федорова	residential	89	8	88	Fedorova street
+KG	1528675	Адышева Мусы улица		88	7	91	
+KG	1528675	Елецкий переулок		88	6	93	
+KG	1528702	Ленина улица	residential	36	25	126	Lenina road
+KG	1528702	50 лет Киргизии улица	residential	17	66	170	
+KG	1528702	Советская улица	residential	9	27	335	
+KG	1528702	Фрунзе улица	residential	9	10	325	
+KG	1528702	Добровольского улица	residential	7	1	30	
+KG	1528702	Горная улица	residential	6	2	10	
+KG	1528702	Центральная улица	residential	6	5	378	
+KG	1528702	Калинина улица	residential	5	1	66	
+KG	1528702	Красноармейская улица	residential	5	1	233	
+KG	1528702	Ломоносова улица	tertiary	5	2	148	Lomonosov street
+KG	1528702	АДСК улица	residential	4	1	4	
+KG	1528702	Заводская улица	residential	4	41	127	
+KG	1528702	Луговая улица	residential	4	14	189	
+KG	1528702	Мира улица	residential	3	1	3	
+KG	1528702	Пионерская улица	residential	3	14	61	
+KG	1528702	Улица Урожайная	residential	3	17	25	
+KG	1528702	улица 50 лет Октября	residential	3	1	8	
+KG	1528702	улица Степаненко	residential	3	10	19	
+KG	1528702	Ак-Суу улица	residential	2	39	50	
+KG	1528702	Вокзальная улица	residential	2	47	56	Voksalnaja street
+KG	1528702	Гагарина улица	residential	2	1	2	
+KG	1528702	Гвардейская улица	residential	2	14	21	
+KG	1528702	Железнодорожная улица	residential	2	7	197	
+KG	1528702	Красина улица	residential	2	57	69	
+KG	1528702	Ленинградская улица	residential	2	3	13	
+KG	1528702	Логвиненко улица	residential	2	32	65	
+KG	1528702	Максима Горького улица	residential	2	1	36	
+KG	1528702	Пишпекская улица	residential	2	5	32	
+KG	1528702	Полевая улица	residential	2	46	57	
+KG	1528702	Советский переулок	residential	2	2	37	
+KG	1528702	Сыйданова улица	residential	2	1	2	
+KG	1528702	Тулебердиева улица	residential	2	10	12	
+KG	1528702	Украинская улица	residential	2	46	71	
+KG	1528702	Чкалова улица	residential	2	12	13	
+KG	1528702	переулок Комсомольский	residential	2	15	18	
+KG	1528702	1-Мая улица	residential	1	0	0	
+KG	1528702	27 Партсъезда улица	residential	1	0	0	
+KG	1528702	8 Марта улица	residential	1	0	0	
+KG	1528702	Баетова улица	residential	1	0	0	
+KG	1528702	Базаркула улица	residential	1	0	0	
+KG	1528702	Бедного улица	residential	1	0	0	
+KG	1528702	Беляева улица	residential	1	0	0	
+KG	1528702	Беш-Терек улица	residential	1	0	0	
+KG	1528702	Боконбаева улица	residential	1	0	0	
+KG	1528702	Больничная улица	residential	1	0	0	
+KG	1528702	Буденого улица	residential	1	0	0	
+KG	1528702	Водоемная улица	residential	1	0	0	
+KG	1528702	Восточная улица	residential	1	0	0	Vostochnaya street
+KG	1528717	1-мая улица	unclassified	1	0	0	
+KG	1528717	40 лет Октября улица	residential	1	0	0	
+KG	1528717	40 лет Победы улица	residential	1	0	0	
+KG	1528717	І-Киргизия улица	residential	1	0	0	
+KG	1528717	Абдупа-Кахар улица	unclassified	1	0	0	
+KG	1528717	Абдурахманова улица	unclassified	1	0	0	
+KG	1528717	Вокэапьная улица	unclassified	1	0	0	
+KG	1528717	Дамбылажанова улица	tertiary	1	0	0	
+KG	1528717	Дзержинского улица	tertiary	1	0	0	
+KG	1528717	Жалал-Абадская улица	secondary	1	0	0	
+KG	1528717	Жантаева Сулаймана улица	tertiary	1	0	0	
+KG	1528717	Жетн-Кошкон улица	tertiary	1	0	0	
+KG	1528717	К. Маркса улица	tertiary	1	0	0	
+KG	1528717	Камалходжаева улица	residential	1	0	0	
+KG	1528717	Комсомольская улица	tertiary	1	0	0	
+KG	1528717	Комсомольский улица	residential	1	0	0	
+KG	1528717	Комсомольский-1 улица	residential	1	0	0	
+KG	1528717	Комсомольский-2 улица	residential	1	0	0	
+KG	1528717	Кыргызстана улица	residential	1	0	0	
+KG	1528717	Ленина переулок	residential	1	0	0	
+KG	1528717	Ломоносова улица	residential	1	0	0	
+KG	1528717	Навои улица	residential	1	0	0	
+KG	1528717	Навои-2 улица	residential	1	0	0	
+KG	1528717	Навои-3 улица	residential	1	0	0	
+KG	1528717	Нурходжаева улица	unclassified	1	0	0	
+KG	1528717	Осмонова улица	unclassified	1	0	0	
+KG	1528717	Пионерекая улица	residential	1	0	0	
+KG	1528717	Пушкина улица	residential	1	0	0	Pushkin Street
+KG	1528717	Сайдуллаева Т. улица	tertiary	1	0	0	
+KG	1528717	Советская улица	unclassified	1	0	0	
+KG	1528717	Сулайманова М. улица	secondary	1	0	0	
+KG	1528717	Ташиева Б. улица	residential	1	0	0	
+KG	1528717	Токтогула переулок	residential	1	0	0	
+KG	1528717	Токтогула улица	residential	1	0	0	
+KG	1528717	Токтогула-2 переулок	residential	1	0	0	
+KG	1528717	Ул.Жаштар	residential	1	0	0	
+KG	1528717	Улица К. Маркса	tertiary	1	0	0	
+KG	1528717	Улица Тап-Катар	unclassified	1	0	0	
+KG	1528717	Улица Усманова	unclassified	1	0	0	
+KG	1528717	Улица Усманова-1	unclassified	1	0	0	
+KG	1528717	Улица Усманова-2	unclassified	1	0	0	
+KG	1528717	Улукбека улица	residential	1	0	0	
+KG	1528717	Усманова улица	unclassified	1	0	0	
+KG	1528717	Усманова-2 улица	unclassified	1	0	0	
+KG	1528717	Шкопьная улица	unclassified	1	0	0	
+KG	1528717	Эн-Сай улица	tertiary	1	0	0	
+KG	1528735	Мадина улица	residential	36	2	34	
+KG	1528735	Айгул гулу	residential	3	56	58	
+KG	1528735	Абдраимов Самат	residential	2	7	7	
+KG	1528735	Тургунбай Садыков		2	49	49	
+KG	1528735	1 Май	residential	1	0	0	
+KG	1528735	1 май	residential	1	0	0	
+KG	1528735	1-Май	residential	1	0	0	
+KG	1528735	40-лет Пабеды	residential	1	0	0	
+KG	1528735	40-лет киргизии	residential	1	0	0	
+KG	1528735	50-лет Киргизии	residential	1	0	0	
+KG	1528735	60-лет Киргизия	residential	1	0	0	
+KG	1528735	60-лет кигризии	residential	1	0	0	
+KG	1528735	70-лет Октябр	residential	1	0	0	
+KG	1528735	70-лет Пабеды	residential	1	0	0	
+KG	1528735	70-лет Победы	residential	1	0	0	
+KG	1528735	8-Март	residential	1	0	0	
+KG	1528735	А Алпаизов	residential	1	0	0	
+KG	1528735	А Масалиев	residential	1	0	0	
+KG	1528735	А.Имаров	residential	1	0	0	
+KG	1528735	А.Мадалиев	residential	1	0	0	
+KG	1528735	А.Тилеков	residential	1	0	0	
+KG	1528735	Абдрахманов.О	residential	1	0	0	
+KG	1528735	Абдувалиева Г	tertiary	1	0	0	
+KG	1528735	Абдыкеримова А	residential	1	0	0	
+KG	1528735	Аипов Б	residential	1	0	0	
+KG	1528735	Айтматов С	residential	1	0	0	
+KG	1528735	Ак жол	residential	1	0	0	
+KG	1528735	Ак орук	residential	1	0	0	
+KG	1528735	Ак орук 4	residential	1	0	0	
+KG	1528735	Ак тилек	residential	1	0	0	
+KG	1528735	Акимов У	residential	1	0	0	
+KG	1528735	Акматов м	residential	1	0	0	
+KG	1528735	Актилек	residential	1	0	0	
+KG	1528735	Актилек Көчөсү	residential	1	0	0	
+KG	1528735	Ала тоо	residential	1	0	0	
+KG	1528735	Алибаев К	residential	1	0	0	
+KG	1528735	Алмаалы	residential	1	0	0	
+KG	1528735	Алмабак-1	residential	1	0	0	
+KG	1528735	Алмабак-2	residential	1	0	0	
+KG	1528735	Алмабак-3	residential	1	0	0	
+KG	1528735	Алтике	residential	1	0	0	
+KG	1528735	Алтымышов У	residential	1	0	0	
+KG	1528735	Алтын бешик	residential	1	0	0	
+KG	1528735	Алтын-Бешик	residential	1	0	0	
+KG	1528735	Алтын-Бешик-1	residential	1	0	0	
+KG	1528735	Алымбек Датка	residential	1	0	0	
+KG	1528735	Амира минбашы	residential	1	0	0	
+KG	1528735	Анарбай минбашы	residential	1	0	0	
+KG	1528796	Мухтар Омуракунов	tertiary	2	130	133	Muhtar Omurakunov
+KG	1528796	Байбагышов Ыбырай көчөсү	residential	1	0	0	
+KG	1528796	Сопакунов Кадыр көчөсү	residential	1	0	0	
+KG	1528796	Таш-Рабат көчөсү	tertiary	1	0	0	Tash Rabat street
+KG	1528796	Чеч Добо көчөсү	residential	1	0	0	
+KG	1528796	Шахнабиева Жусупа улица	residential	1	0	0	
+KG	1528796	улица Айылчиев	residential	1	0	0	
+KG	1528796	улица Аксай	residential	1	0	0	
+KG	1528796	улица Ат-Башы	residential	1	0	0	
+KG	1528796	улица Мааткабыл Салымбеков	residential	1	0	0	
+KG	1528831	Ипак Йули	primary	1	0	0	
+KG	1528831	Улица Ленина	primary	1	0	0	
+KG	1528831	Улугбек Улица	residential	1	0	0	
+KG	1528831	улица Жаннат	residential	1	0	0	
+KG	1528856	Mevazor ko'chasi	tertiary	1	0	0	
+KG	1528856	Shifokor ko'chasi	unclassified	1	0	0	
+KG	1528856	Tinchlik ko'chasi	residential	1	0	0	
+KG	1528856	Yangi yo'l ko'chasi	tertiary	1	0	0	
+KG	1528875	Асанова	residential	116	4	104	
+KG	1528875	Ак-Тилек	living_street	105	6	104	
+KG	1528875	Кароол-Тобо	residential	90	4	163	
+KG	1528875	Сартмамбетова	residential	88	8	140	
+KG	1528875	Балтагулова	residential	73	3	60	
+KG	1528875	Рыскулова	residential	61	2	80	
+KG	1528875	Базарбая Калыбекова	primary	59	3	64	
+KG	1528875	Бегимкулова	residential	56	1	30	
+KG	1528875	Жоробаева	residential	51	50	97	
+KG	1528875	Мендиева Рамазана	residential	49	1	46	
+KG	1528875	Ибраимова	unclassified	48	69	148	
+KG	1528875	Таш-Тобо	living_street	46	3	35	
+KG	1528875	Мамырбекова	secondary	44	22	98	
+KG	1528875	Мамасалиева	residential	42	3	49	
+KG	1528875	Мыйзамбека Сарыбаева	living_street	41	3	35	
+KG	1528875	Субанова	residential	41	2	49	
+KG	1528875	Фарманкулова	residential	39	2	53	
+KG	1528875	Борубека Бостонбаева	residential	37	2	29	
+KG	1528875	Дуйшомбиева	residential	37	2	42	
+KG	1528875	Абыдкалыка Кадыркулова	residential	36	3	29	
+KG	1528875	Кадырова	residential	36	2	34	
+KG	1528875	Курманбаева	residential	35	1	33	
+KG	1528875	Жуманазарова	residential	34	2	34	
+KG	1528875	Якубова	residential	31	1	33	
+KG	1528875	Абдырахманова	residential	30	3	29	
+KG	1528875	Самары Мамажановой	tertiary	30	2	29	
+KG	1528875	Токтогула	residential	27	2	27	
+KG	1528875	4-я Бак	living_street	24	1	28	
+KG	1528875	Абдиллаева	residential	23	2	21	
+KG	1528875	Курманбека Каипова	residential	23	3	20	
+KG	1528875	Баймырза Мавлянова	living_street	21	1	22	
+KG	1528875	Айкол 1-я	unclassified	20	1	19	
+KG	1528875	3-я Бак	living_street	19	1	22	
+KG	1528875	Ак-Ордо 1-я	living_street	19	2	28	
+KG	1528875	Амракулова	unclassified	19	1	20	
+KG	1528875	Баратова	residential	18	2	22	
+KG	1528875	Жапиева	residential	18	2	64	
+KG	1528875	5-я Бак	living_street	17	1	25	
+KG	1528875	6-я Бак	living_street	16	2	25	
+KG	1528875	Турдуматова		16	4	36	
+KG	1528875	Калмурата уулу Балтака	residential	15	1	16	
+KG	1528875	7-я Бак	living_street	14	1	23	
+KG	1528875	2-я Бак	living_street	13	1	22	
+KG	1528875	Тургуна Эшкожоева	residential	13	1	16	
+KG	1528875	Ынтымак	living_street	13	1	17	
+KG	1528875	Эргешова	primary	12	1	12	
+KG	1528875	Ленинградская	residential	11	1	12	
+KG	1528875	Ак-Ордо 2-я	residential	7	4	13	
+KG	1528944	Монолдор көчөсү	residential	1	0	0	Monoldor street
+KG	1528944	Таш-Рабат көчөсү	tertiary	1	0	0	Tash Rabat street
+KG	1528953	Ажына улица	secondary	1	0	0	
+KG	1528953	Айтматова улица	residential	1	0	0	
+KG	1528953	Ак-Булун улица	residential	1	0	0	
+KG	1528953	Бакашова улица	secondary	1	0	0	
+KG	1528953	Бегалиева улица	residential	1	0	0	
+KG	1528953	Буларкы улица	residential	1	0	0	
+KG	1528953	Достук улица	residential	1	0	0	
+KG	1528953	Дуйшок улица	residential	1	0	0	
+KG	1528953	Жениш улица	primary	1	0	0	
+KG	1528953	Исмаилова улица	residential	1	0	0	
+KG	1528953	Касенова улица	residential	1	0	0	
+KG	1528953	Качаганова улица	residential	1	0	0	
+KG	1528958	Абдували уулу Анварбек улица	residential	1	0	0	
+KG	1528958	Алымбаев Рысалы улица	residential	1	0	0	
+KG	1528958	Апышев Шаймерген улица	residential	1	0	0	
+KG	1528958	Асан-Усан улица	residential	1	0	0	
+KG	1528958	Бостериев Касымалы улица	residential	1	0	0	
+KG	1528958	Галиева улица	residential	1	0	0	
+KG	1528958	Джазыбеков Курманакун улица	residential	1	0	0	
+KG	1528958	Дылдаев Акай улица	residential	1	0	0	
+KG	1528958	Жанузаков Турсун улица	residential	1	0	0	
+KG	1528958	Жол-Жылга улица	residential	1	0	0	
+KG	1528958	Заводская улица	residential	1	0	0	
+KG	1528958	Итике улица	residential	1	0	0	
+KG	1538648	Абди Суеркулова улица	tertiary	44	5	66	
+KG	1538648	Атакиши (Сусамыр)	residential	29	2	28	
+KG	1538648	Акишова Самара улица	residential	6	2	12	
+KG	1538648	Омуркулова Мухтарбека улица	residential	3	3	11	
+KG	1538648	Осмонова Бекмамата улица		3	1	3	
+KG	1538648	Абди Суеркулов		2	40	42	
+KG	1538648	Азаке Эгизбаева улица	residential	2	1	7	
+KG	1538648	Бекташова Апыша улица	tertiary	2	50	61	
+KG	1538648	Кудаш Момункулова улица	tertiary	2	22	28	
+KG	1538648	Нургазиева улица	residential	2	18	18	
+KG	1538648	40 чоро улица	residential	1	0	0	
+KG	1538648	Абаскан уулу Эсен	residential	1	0	0	
+KG	1538648	Азимкана улица	residential	1	0	0	
+KG	1538648	Айдин кол улица	residential	1	0	0	
+KG	1538648	Айымжамал	residential	1	0	0	
+KG	1538648	Ак-жон улица	residential	1	0	0	
+KG	1538648	Акун Агай	residential	1	0	0	
+KG	1538648	Акун агай	residential	1	0	0	
+KG	1538648	Акылбек улица	residential	1	0	0	
+KG	1538648	Аман Дос улица	tertiary	1	0	0	
+KG	1538648	Аманбек улица	unclassified	1	0	0	
+KG	1538648	Аралбаева улица	residential	1	0	0	
+KG	1538648	Асаебек Азимов	residential	1	0	0	
+KG	1538648	Асан улица	residential	1	0	0	
+KG	1538648	Асанбай улица	unclassified	1	0	0	
+KG	1538648	Атамкулов Онол	residential	1	0	0	
+KG	1538648	Ашырова улица	tertiary	1	0	0	
+KG	1538648	Бабан уулу Кадырбека улица	residential	1	0	0	
+KG	1538648	Бай казак улица	residential	1	0	0	
+KG	1538648	Балачычкан улица	residential	1	0	0	
+KG	1538648	Балпык уулу Талканбай улица	residential	1	0	0	
+KG	1538648	Беделбеков Усонгазы	residential	1	0	0	
+KG	1538648	Бекмырза ата 1 улица	residential	1	0	0	
+KG	1538648	Бекмырза ата 2 улица	residential	1	0	0	
+KG	1538648	Бекмырза ата 3 улица	residential	1	0	0	
+KG	1538648	Бекташов	residential	1	0	0	
+KG	1538648	Бекташова улица	residential	1	0	0	
+KG	1538648	Бердалиева улица	residential	1	0	0	
+KG	1538648	Беришов Абдубалы	unclassified	1	0	0	
+KG	1538648	Боконбаева улица	tertiary	1	0	0	
+KG	1538648	Болгонбеков Турду	residential	1	0	0	
+KG	1538648	Болсунбека улица	residential	1	0	0	
+KG	1538648	Бордугулов Намазбек улица	residential	1	0	0	
+KG	1538648	Бримкулова улица	residential	1	0	0	
+KG	1538648	Букарбек уулу улица	residential	1	0	0	
+KG	1538648	Булана Насырова улица	residential	1	0	0	
+KG	1538648	Дадиева улица	residential	1	0	0	
+KG	1538648	Данканай улица	residential	1	0	0	
+KG	1540656	Ала-Арчинская улица		128	112	238	
+KG	1540656	Набережная улица	residential	90	57	250	
+KG	1540656	Махатма Ганди көчөсү		77	148	247	
+KG	1540656	Садовая улица	residential	70	5	71	
+KG	1540656	Келечек-13 улица		64	4	62	
+KG	1540656	Келечек-9 улица		64	2	58	
+KG	1540656	Келечек-12 улица		63	4	56	
+KG	1540656	Келечек-10 улица		61	3	55	
+KG	1540656	Келечек-8 улица		61	1	48	
+KG	1540656	Рабочая улица		58	2	50	
+KG	1540656	Келечек-11 улица		56	2	55	
+KG	1540656	Келечек-4 улица		56	2	52	
+KG	1540656	Келечек-7 улица		56	1	45	
+KG	1540656	8 Марта улица	residential	54	3	57	
+KG	1540656	Новая улица	residential	54	69	141	
+KG	1540656	Келечек-5 улица		53	2	50	
+KG	1540656	Келечек-6 улица		43	1	44	
+KG	1540656	Гончарная улица		42	1	39	
+KG	1540656	Кулмамат Абдураимов көчөсү	residential	42	6	177	Dostuk street
+KG	1540656	Арычная улица		30	2	36	
+KG	1540656	Садовый переулок	residential	28	2	30	
+KG	1540656	Чон-Курганская улица	tertiary	27	4	37	
+KG	1540656	Бельская улица	tertiary	23	1	17	
+KG	1540656	Бомский переулок	residential	23	9	52	Bomskiy lane
+KG	1540657	Жапарова Усонбека улица		27	16	41	
+KG	1540657	Ала-Арчинская улица		24	40	61	
+KG	1540657	Веселый переулок	residential	18	23	44	Veselyy lane
+KG	1540657	Карасуйский переулок	residential	15	6	28	Karasuyskiy lane
+KG	1540657	Набережная улица		13	2	70	
+KG	1540657	Южная улица		13	29	50	
+KG	1540657	Новая улица		10	19	44	
+KG	1540657	Гагарина улица		7	192	237	
+KG	1540657	Громовой улица		7	1	6	
+KG	1540657	Кирова улица		6	64	93	
+KG	1540657	Лавровых улица	residential	5	33	88	
+KG	1540657	Фрунзе улица		5	74	215	
+KG	1540657	Родниковый переулок	residential	3	23	26	Rodnikovyy lane
+KG	1540657	Школьная улица	residential	3	29	33	
+KG	1540657	Тынчтык улица		2	68	68	
+KG	1540657	Абшир Ата улица	residential	1	0	0	
+KG	1540657	Адилет көчөсү	residential	1	0	0	
+KG	1540657	Ак-Нур көчөсү	residential	1	0	0	
+KG	1540657	Ак-Шоола көчөсү	residential	1	0	0	
+KG	1540657	Акиш Уулу Темирбек улица	residential	1	0	0	
+KG	1540657	Ала-Арча көчөсү	residential	1	0	0	Ala-Archa street
+KG	1540657	Ала-Тоо көчөсү	residential	1	0	0	
+KG	1540657	Аян көчөсү	residential	1	0	0	
+KG	1540657	Байэл көчөсү	residential	1	0	0	
+KG	7648391	Арал улица	residential	17	7	40	
+KG	7648391	Северная улица	secondary	11	23	25	
+KG	7648391	Звёздная улица	residential	10	2	77	
+KG	7648391	Дустлик кучаси	secondary	3	35	37	
+KG	7648391	Звездная улица		3	7	10	
+KG	7648391	8 mart ko'chasi	residential	1	0	0	
+KG	7648391	Bo'ston ko'chasi	residential	1	0	0	
+KG	7648391	Boʻston koʻchasi	residential	1	0	0	
+KG	7648391	Charag'on ko'chasi	residential	1	0	0	
+KG	7648391	Mustaqillik	primary	1	0	0	
+KG	7648391	Peshvozov ko'chasi	residential	1	0	0	
+KG	7648391	А. Пузулуев улица	residential	1	0	0	
+KG	8139689	Abay ko'chasi		2	1	3	
+KG	8139689	Akbarali Azizov ko'chasi	residential	1	0	0	
+KG	8139689	Alisher Navoiy ko'chasi	tertiary	1	0	0	
+KG	8139689	Mustaqillik ko'chasi	tertiary	1	0	0	
+KG	8145969	ΜΑΜΑΤΚΑΠΑΡ АБДЫКАДЫРОВ УЛИЦА	residential	1	0	0	
+KG	8145969	Абдыкадыров Алтынбек улица	residential	1	0	0	
+KG	8145969	Абдыкадыров Маматкапар улица	unclassified	1	0	0	
+KG	8145969	Абдылдаева С. улица	residential	1	0	0	
+KG	8145969	Абдымомунов Сапар улица	residential	1	0	0	
+KG	8145969	Адашкан улица	residential	1	0	0	
+KG	8145969	Ажимаматов Саткынбай улица	residential	1	0	0	
+KG	8145969	Ажиманов Окен улица	residential	1	0	0	
+KG	8145969	Айдоо улица	residential	1	0	0	
+KG	8145969	Айткулова улица	residential	1	0	0	
+KG	8145969	Ак-Кыя улица	residential	1	0	0	
+KG	8145969	Ак-Таш улица	tertiary	1	0	0	
+KG	8145969	Акимбаев Кулмамат улица	residential	1	0	0	
+KG	8145969	Акматалиева Жалал улица	residential	1	0	0	
+KG	8145969	Акмжан улица	residential	1	0	0	
+KG	8145969	Алиев Маматкан улица	tertiary	1	0	0	
+KG	8145969	Алиева Эркенбай улица	residential	1	0	0	
+KG	8145969	Баимбетов Козубай улица	residential	1	0	0	
+KG	8145969	Барпыкулов Абдысатар улица	residential	1	0	0	
+KG	8145969	Батырбаев Эсенбай улица	residential	1	0	0	
+KG	8145969	Беделов Рахматилда улица	residential	1	0	0	
+KG	8145969	Бекен уулу Рысбай улица	residential	1	0	0	
+KG	8145969	Бердибай уулу Карим улица	residential	1	0	0	
+KG	8145969	Биримдик улица	residential	1	0	0	
+KG	8145969	Бокоев Кожо улица	residential	1	0	0	
+KG	8145969	Бостаев Ажибай улица	residential	1	0	0	
+KG	8145969	Гараж переулок	residential	1	0	0	
+KG	8145969	Жалтырок Атарбек улица	tertiary	1	0	0	
+KG	8145969	Жангиш 2 улица	residential	1	0	0	
+KG	8145969	Жангиш улица	residential	1	0	0	
+KG	8145969	Жаны-Чек 3 улица	residential	1	0	0	
+KG	8145969	Жаны-Чек улица	residential	1	0	0	
+KG	8145969	Жанылык улица	residential	1	0	0	
+KG	8145969	Жаркынбаев Алиш улица	tertiary	1	0	0	
+KG	8145969	Жолдубай-Ажы улица	residential	1	0	0	
+KG	8145969	Жорокулова Зулпукар улица	residential	1	0	0	
+KG	8145969	Жунусов Жээнбек улица	residential	1	0	0	
+KG	8145969	Жээнбеков Искендер улица	residential	1	0	0	
+KG	8145969	Исаев Беделбай улица	residential	1	0	0	
+KG	8145969	Исаев Бердибай улица	residential	1	0	0	
+KG	8145969	Исманов Абдурасул улица	residential	1	0	0	
+KG	8145969	Кадыров Шеркул улица	residential	1	0	0	
+KG	8145969	Калматаев Жамшит улица	primary	1	0	0	
+KG	8145969	Камчыбеков Карим улица	primary	1	0	0	
+KG	8145969	Камчыбеков Садырбай улица	residential	1	0	0	
+KG	8145969	Каны улица	residential	1	0	0	
+KG	8145969	Кара-Кулжа улица	tertiary	1	0	0	
+KG	8145969	Кара-Кульжа улица	residential	1	0	0	
+KG	8181891	Кочкорова Жанышбека улица	primary	6	2	20	
+KG	8181891	M-076	primary	1	0	0	
+KG	8181891	Асаналиева Белека улица	residential	1	0	0	
+KG	8181891	Итибаева Муратбека улица	primary	1	0	0	
+KG	8181891	Мырзатаева Султанмурата улица	tertiary	1	0	0	
+KG	8181891	Нурманбетова Ороскула улица	primary	1	0	0	
+KG	8181891	Сатыкей Баатыр улица	residential	1	0	0	
+KG	8232318	Даржыбек Ата		11	1	10	
+KG	8232318	Азербайджанкая улица	residential	1	0	0	
+KG	8232318	Айдыраалы улица	residential	1	0	0	
+KG	8232318	Аскар уулу улица	residential	1	0	0	
+KG	8232318	Аскарбек уулу улица	residential	1	0	0	
+KG	8232318	Ахунбаева улица	residential	1	0	0	
+KG	8232318	Бакир улица	residential	1	0	0	
+KG	8232318	Бекбоева улица	residential	1	0	0	
+KG	8232318	Береговая улица	residential	1	0	0	
+KG	8232318	Борончева улица	residential	1	0	0	
+KG	8232318	Бурулкан улица	residential	1	0	0	
+KG	8232318	Верхняя улица	residential	1	0	0	
+KG	8233041	Подгорная улица	living_street	17	23	99	
+KG	8233041	улица Дружбы	secondary	13	42	99	
+KG	8233041	Улица Подгорная	residential	12	42	105	
+KG	8233041	улица Подгорная		8	2	68	
+KG	8233041	Советская улица	residential	2	74	150	
+KG	8233041	Аалы улица	living_street	1	0	0	
+KG	8233041	Акылбекова улица	residential	1	0	0	
+KG	8233041	Ала-Тоо улица	secondary	1	0	0	
+KG	8233041	Амбарный переулок	residential	1	0	0	
+KG	8233041	Арашан улица	residential	1	0	0	
+KG	8233041	Аширалиева улица	residential	1	0	0	
+KG	8233041	Береговая улица	living_street	1	0	0	
+KG	8334046	Бейшенбая улица	residential	1	0	0	
+KG	8334046	Борончу	residential	1	0	0	
+KG	8334046	Борончу улица	residential	1	0	0	
+KG	8334046	Восточная улица	residential	1	0	0	
+KG	8334046	Гагарина переулок	residential	1	0	0	
+KG	8334046	Джержинского улица	residential	1	0	0	
+KG	8334046	Доконбаева С. улица	residential	1	0	0	
+KG	8334046	Жаштык улица	residential	1	0	0	
+KG	8334046	Жыргалана улица	residential	1	0	0	
+KG	8334046	Западная улица	residential	1	0	0	
+KG	8334046	Имаша улица	tertiary	1	0	0	
+KG	8334046	Иссык-Кульская улица	residential	1	0	0	
+KG	8334055	Абылов улица	residential	1	0	0	
+KG	8334055	Адамова улица	residential	1	0	0	
+KG	8334055	Ажыгожоева улица	residential	1	0	0	
+KG	8334055	Алике улица	residential	1	0	0	
+KG	8334055	Арык-Мырза улица	primary	1	0	0	
+KG	8334055	Бакай-Ата улица	secondary	1	0	0	
+KG	8334055	Джергаланская улица	residential	1	0	0	
+KG	8334055	Жамангулова улица	residential	1	0	0	
+KG	8334055	Жаштык улица	residential	1	0	0	
+KG	8334055	Жусупова улица	residential	1	0	0	
+KG	8334055	Жыргалан улица	residential	1	0	0	
+KG	8334055	Жээк улица	residential	1	0	0	
+KG	8334056	Досмамбетовой улица	residential	1	0	0	
+KG	8334056	Жаналиева улица	secondary	1	0	0	
+KG	8334056	Жумадыла улица	residential	1	0	0	
+KG	8334056	Сартбай улица	primary	1	0	0	
+KG	8334056	Урмат улица	residential	1	0	0	
+KG	8334056	Усубалиева улица	residential	1	0	0	
+KG	8375110	А Акбаев	residential	1	0	0	
+KG	8375110	А Алпаизов	tertiary	1	0	0	
+KG	8375110	А Эргешов	residential	1	0	0	
+KG	8375110	А.Анарбаев	residential	1	0	0	
+KG	8375110	А.Камалов	residential	1	0	0	
+KG	8375110	Адилет	residential	1	0	0	
+KG	8375110	Айдарен	residential	1	0	0	
+KG	8375110	Ак бата	residential	1	0	0	
+KG	8375110	Ак сер	residential	1	0	0	
+KG	8375110	Ак чечек	residential	1	0	0	
+KG	8375110	Ак- Бата	residential	1	0	0	
+KG	8375110	Ак-жолтой	residential	1	0	0	
+KG	8375150	Жибек жолу	tertiary	1	0	0	
+KG	8375150	Чет кызыл-1	tertiary	1	0	0	
+KG	8375151	5-жыл Бат.обл	residential	1	0	0	
+KG	8375151	70-лет Пабеды	residential	1	0	0	
+KG	8375151	Абдулдаев С	residential	1	0	0	
+KG	8375151	Айдын кол	residential	1	0	0	
+KG	8375151	Акжол	residential	1	0	0	
+KG	8375151	Асанов М	residential	1	0	0	
+KG	8375151	Ат-жолу	residential	1	0	0	
+KG	8375151	Дуйшеев Ж	residential	1	0	0	
+KG	8375151	Жаштык	residential	1	0	0	
+KG	8375151	Жибек Жолу	primary	1	0	0	
+KG	8375151	Имаров М	residential	1	0	0	
+KG	8375151	Исанов Н	residential	1	0	0	
+KG	8375151	Исанов-3	residential	1	0	0	
+KG	8375151	Караган	residential	1	0	0	
+KG	8375151	Курук сай	residential	1	0	0	
+KG	8375151	Кыпчак	residential	1	0	0	
+KG	8375151	Кырман жай	residential	1	0	0	
+KG	8375151	Маканбаев А	residential	1	0	0	
+KG	8375151	Мийзам Ажи	residential	1	0	0	
+KG	8375151	Пиримкулов С	residential	1	0	0	
+KG	8375151	Пирматов М	residential	1	0	0	
+KG	8375151	Садыков А	residential	1	0	0	
+KG	8375151	Сыдыкбеков Т	residential	1	0	0	
+KG	8375151	Ташкожоев И	residential	1	0	0	
+KG	8375152	Чек-Добо улица	residential	9	4	22	
+KG	8375152	Жолдошбай Момунов улица	residential	8	1	15	
+KG	8375152	Бостонбаев Момун улица	residential	6	4	16	
+KG	8375152	Каработоев Алтынбек улица	unclassified	5	7	11	
+KG	8375152	Шадыев Гапар улица	residential	5	12	29	
+KG	8375152	Козубаев Ташболот улица	residential	3	10	18	
+KG	8375152	Ынтымак улица	residential	3	1	5	
+KG	8375152	Анаров Нурмат улица	residential	2	9	13	
+KG	8375152	Ибн Сино		2	324	363	
+KG	8375152	Мурзакулов Байзак улица	living_street	2	7	9	
+KG	8375152	Абдижусуп Масыдыков улица	residential	1	0	0	
+KG	8375152	Абдуллаев Махмут улица	residential	1	0	0	
+KG	8375152	Абдуллаев Сапарбай улица	residential	1	0	0	
+KG	8375152	Абдуллаев Ысмайыл улица	residential	1	0	0	
+KG	8375152	Абсамат Масалиев улица	residential	1	0	0	
+KG	8375152	Ак-Ордо улица	residential	1	0	0	
+KG	8375152	Аширов Тажибай улица	residential	1	0	0	
+KG	8375152	Бердиев Кумар улица	residential	1	0	0	
+KG	8375152	Боронбаев Байзак улица	residential	1	0	0	
+KG	8375152	Боронбаев Ороз улица	residential	1	0	0	
+KG	8375152	Бурхан Газыбеков улица	residential	1	0	0	
+KG	8375152	Бусурман Ходжаев улица	residential	1	0	0	
+KG	8375152	Дусти	residential	1	0	0	
+KG	8375152	Жалилов Элчи улица	residential	1	0	0	
+KG	8375168	Isfara bypass	primary	1	0	0	
+KG	8375168	А.Айдаров	residential	1	0	0	
+KG	8375168	А.Ашимов	residential	1	0	0	
+KG	8375168	А.Сапаров	residential	1	0	0	
+KG	8375168	Актилек	residential	1	0	0	
+KG	8375168	Б.Рустамов	residential	1	0	0	
+KG	8375168	Б.Ходжаев	residential	1	0	0	
+KG	8375168	Балтабаев	residential	1	0	0	
+KG	8375168	Балтабев	residential	1	0	0	
+KG	8375168	Ганжак	residential	1	0	0	
+KG	8375168	Достук	residential	1	0	0	
+KG	8375168	Ж.Бөкөнбаев	residential	1	0	0	
+KG	8375168	Ж.Момунов	residential	1	0	0	
+KG	8375168	Жаштык	residential	1	0	0	
+KG	8375168	Искак Раззаков	residential	1	0	0	
+KG	8375168	К.Тагаев	residential	1	0	0	
+KG	8375168	Комсомол	residential	1	0	0	
+KG	8375168	Курманжан Датка	residential	1	0	0	
+KG	8375168	Кучаи лаби чуй	residential	1	0	0	
+KG	8375168	М.Гафуров	residential	1	0	0	
+KG	8375168	М.Маккамбаев	residential	1	0	0	
+KG	8375168	М.Шерматов	residential	1	0	0	
+KG	8375168	Момунов	secondary	1	0	0	
+KG	8375168	Орукзар	residential	1	0	0	
+KG	8376051	Ынтымак улица	residential	20	1	15	
+KG	8376051	Достук улица	residential	9	1	15	
+KG	8376051	Чон-Арык улица	residential	9	1	5	
+KG	8376051	Soxibkor ko'chasi	tertiary	1	0	0	
+KG	8376051	Ак-Оток улица	residential	1	0	0	
+KG	8376051	Бак улица	residential	1	0	0	
+KG	8376051	Беш-Орук улица	residential	1	0	0	
+KG	8376051	Дон улица	residential	1	0	0	
+KG	8376051	Дон-1 улица	residential	1	0	0	
+KG	8376051	Жаштык улица	residential	1	0	0	
+KG	8376051	Жеке-Орук улица	residential	1	0	0	
+KG	8376051	Келечек 1 улица	residential	1	0	0	
+KG	8376052	X. Urinboyev koʻchasi	residential	2	2	4	
+KG	8376052	Улица Давитов Барат	residential	1	0	0	
+KG	8376052	Янгиобод	residential	1	0	0	
+KG	8376054	Shohimardon ko'chasi	primary	1	0	0	
+KG	8376054	Гайрат-1 улица	residential	1	0	0	
+KG	8376054	Гайрат-2 улица	residential	1	0	0	
+KG	8376054	Кайрагач 2 улица	residential	1	0	0	
+KG	8376054	Кайрагач улица	residential	1	0	0	
+KG	8376054	Кескен-Таш улица	residential	1	0	0	
+KG	8376054	Молдо Нияз улица	residential	1	0	0	Moldo Niiaz Street
+KG	8376054	Молдо Нурмамата Мадумарова улица	residential	1	0	0	
+KG	8376054	Саттаров Кочкон ажы улица	residential	1	0	0	
+KG	8376054	Улица Нияз	residential	1	0	0	
+KG	8376054	улица Молдо Нияза	primary	1	0	0	Moldo Niiaz Street
+KG	8376076	Ширеш-1 улица	residential	14	8	26	
+KG	8376076	Орукзар улица	residential	11	2	15	
+KG	8376076	Жаштык улица	residential	6	3	16	
+KG	8376076	Жаны-Бак улица	residential	3	8	18	
+KG	8376076	Файзуллаева Т. улица	tertiary	3	1	7	
+KG	8376076	Dasht ko'chasi	residential	1	0	0	
+KG	8376076	Gulxan ko'chasi	residential	1	0	0	
+KG	8376076	To'maris ko'chasi	residential	1	0	0	
+KG	8376076	road	unclassified	1	0	0	
+KG	8376076	Уч-Коргон улица	residential	1	0	0	
+KG	8376076	Ширеш улица	residential	1	0	0	
+KG	8376125	улица Мусабай Исажанов	residential	3	10	12	
+KG	8376125	Istiqbol ko'chasi	residential	1	0	0	
+KG	8376125	O'zbek mahalla ko'chasi	residential	1	0	0	
+KG	8376125	Oriyat Ko'chasi	residential	1	0	0	
+KG	8376125	Zarbdor ko'chasi	tertiary	1	0	0	
+KG	8376125	А. Маматова улица	residential	1	0	0	
+KG	8376125	А. Масалиева улица	residential	1	0	0	
+KG	8376125	Бегалиева улица	residential	1	0	0	
+KG	8376125	Биримдик улица	residential	1	0	0	
+KG	8376125	Д. Боронова улица	residential	1	0	0	
+KG	8376125	Довлат улица	residential	1	0	0	
+KG	8376125	И. Олжобаева улица	residential	1	0	0	
+KG	8377866	Ак-Босого улица	residential	1	0	0	
+KG	8377866	Ак-Жол улица	residential	1	0	0	
+KG	8377866	Ак-Таш улица	residential	1	0	0	
+KG	8377866	Ак-Тилек улица	residential	1	0	0	
+KG	8377866	Байчечекей улица	residential	1	0	0	
+KG	8377866	Бакча улица	residential	1	0	0	
+KG	8377866	Береке улица	residential	1	0	0	
+KG	8377866	Биримдик улица	residential	1	0	0	
+KG	8377866	Бирлик улица	residential	1	0	0	
+KG	8377866	Булак улица	residential	1	0	0	
+KG	8377866	Гулабад улица	tertiary	1	0	0	
+KG	8377866	Достук улица	residential	1	0	0	
+KG	8377922	Кара-Булак	residential	1	0	0	
+KG	8377922	улица Жумабек	residential	1	0	0	
+KG	8377922	улица Кара Бий	residential	1	0	0	
+KG	8377922	улица Манасчы	residential	1	0	0	
+KG	8377922	улица Сулукту	residential	1	0	0	
+KG	8382860	Жениш Раззаков улица		3	12	18	
+KG	8382860	Мамат Айбалаев улица	residential	2	17	19	
+KG	8382860	А. Жайнаков улица	residential	1	0	0	
+KG	8382860	А. Каразаков улица	residential	1	0	0	
+KG	8382860	Абдырахманов Адылбек улица	residential	1	0	0	
+KG	8382860	Азимов Зайит улица	residential	1	0	0	
+KG	8382860	Акылбеков Маматкул улица	residential	1	0	0	
+KG	8382860	Алимов Мийзам улица	residential	1	0	0	
+KG	8382860	Алмабак улица	residential	1	0	0	
+KG	8382860	Бектемиров Бахап улица	residential	1	0	0	
+KG	8382860	Боронов Назырбек улица	residential	1	0	0	
+KG	8382860	Достук улица	residential	1	0	0	
+KG	8388007	26 улица	residential	12	1	14	
+KG	8388007	Борбордук улица	residential	11	96	150	
+KG	8388007	Жаштык улица	residential	10	6	29	
+KG	8388007	3 улица	residential	9	1	13	
+KG	8388007	25 улица	residential	4	2	6	
+KG	8388007	1 улица	primary	3	19	24	
+KG	8388007	22 улица	residential	3	7	13	
+KG	8388007	24 улица	residential	3	2	4	
+KG	8388007	10 улица	unclassified	1	0	0	
+KG	8388007	11 улица	residential	1	0	0	
+KG	8388007	12 улица	residential	1	0	0	
+KG	8388007	13 улица	residential	1	0	0	
+KG	10370337	Бердиев Амира улица	residential	12	2	40	
+KG	10370337	Бостонов Самат улица	unclassified	12	2	22	
+KG	10370337	Капиров Курбан улица	residential	8	2	11	
+KG	10370337	Шерматов Ысман улица	residential	4	1	9	
+KG	10370337	Абдырахман улица	residential	1	0	0	
+KG	10370337	Ак-Сай-Рават	secondary	1	0	0	
+KG	10370337	Бакай-2 улица	residential	1	0	0	
+KG	10370337	Бердиев Абдилла улица	residential	1	0	0	
+KG	10370337	Гайыпов Темирбай улица	residential	1	0	0	
+KG	10370337	Доранов Жунус улица	residential	1	0	0	
+KG	10370337	Дубана Бердиев улица	residential	1	0	0	
+KG	10370337	Дубанаев Каныбек улица	residential	1	0	0	

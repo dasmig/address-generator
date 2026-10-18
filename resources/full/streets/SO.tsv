@@ -1,0 +1,475 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+SO	49593	Xudur - Yeed Road	tertiary	1	0	0	
+SO	49593	Yeed - Ceel Barde Road	tertiary	1	0	0	
+SO	49747	Xudur - Tayeeglow Road	secondary	1	0	0	
+SO	49747	Xudur - Yeed Road	tertiary	1	0	0	
+SO	50064	Jowlo Road	tertiary	1	0	0	
+SO	50672	Jowhar - Wanla Weyn Road	tertiary	1	0	0	
+SO	50672	Krow Ay Dhuubay - Wanla Weyn Road	secondary	1	0	0	
+SO	50672	Wadada Byadhabo	primary	1	0	0	
+SO	50814	Waajid - Buur Dhuxunle Road	tertiary	1	0	0	
+SO	50814	Waajid - Garow Road	tertiary	1	0	0	
+SO	50814	Waajid - Xasna Yusuf Road	secondary	1	0	0	
+SO	51299	Belet Weyne - Tayeeglow Road	secondary	1	0	0	
+SO	51299	Tayeeglow - Bioyooley Road	tertiary	1	0	0	
+SO	51299	Xudur - Tayeeglow Road	secondary	1	0	0	
+SO	52381	Bu'aale - Saakow Road	secondary	1	0	0	
+SO	52381	Saakow - Batuuto Road	tertiary	1	0	0	
+SO	52867	Qoryooley - Malootow Road	tertiary	1	0	0	
+SO	52867	Qoryooley Highway	tertiary	1	0	0	
+SO	52867	Qoryooley قوريولي - Jameecada Aabow Road	tertiary	1	0	0	
+SO	53372	Xaawiye Road	unclassified	1	0	0	
+SO	53654	Makka Al-mukarama مكة المكرمة		3	1	786	
+SO	53654	Via Taleh		2	123	123	
+SO	53654	W. 28 Juun - شارع ٢٦ يونيو / شارع العمل		2	1	1	
+SO	53654	Armed Forces Road طريق القوات المسلحة	tertiary	1	0	0	Armed Forces Road
+SO	53654	LIDO Circle دوار الشاطئ	secondary	1	0	0	LIDO circle
+SO	53654	Papers Road شارع الورق	residential	1	0	0	Papers Road
+SO	53654	Papers road شارع الورق	residential	1	0	0	Papers Road
+SO	53654	Piazza Sayd Osman Bin Haffan ميدان سعيد عثمان بن عفان	tertiary	1	0	0	Said Osman Bin Affan Square
+SO	53654	Piazza Sayed Omar Al Farouk ميدان سيد عمر الفاروق	tertiary	1	0	0	Sayed Omar Al Farouk Square
+SO	53654	Piazza Sheikh Sufi ساحة الشيخ الصوفي	secondary	1	0	0	Sheikh Sufi Square
+SO	53654	Piazza Solidarieta Africana ساحة التضامن الأفريقي	secondary	1	0	0	African Solidarity Square
+SO	53654	Uanie Uen واني ون	tertiary	1	0	0	
+SO	53654	Via 1 luglio / شارع الأول من يوليو	secondary	1	0	0	1st July Street
+SO	53654	Via Ab Doctor Jeylani شارع أب دكتور جيلاني	residential	1	0	0	Ab Doctor Gilani Street
+SO	53654	Via Abigabo شارع أبيجابو	residential	1	0	0	Abigabo Street
+SO	53654	Via Adam Lord شارع آدم لورد	residential	1	0	0	Adam Lord Street
+SO	53654	Via Af Mado شارع أف مادو	residential	1	0	0	Af Mado Street
+SO	53654	Via Afar Erdoud شارع عفار إردود	tertiary	1	0	0	Afar Erdoud Street
+SO	53654	Via Afgooye شارع أفجوي	secondary	1	0	0	Afgooye Street
+SO	53654	Via Afgoy شارع أفجوي	residential	1	0	0	
+SO	53654	Via Ahmed Bin Idris شارع أحمد بن إدريس	residential	1	0	0	Ahmed Bin Idris Street
+SO	53654	Via Ahmed Issa Ghori شارع أحمد عيسى غوري	residential	1	0	0	Ahmed Issa Ghori Street
+SO	53654	Via Alma Mata شارع ألما ماتر	residential	1	0	0	Alma Mater Street
+SO	53654	Via Alto Juba شارع جوبا العليا	tertiary	1	0	0	Alto Juba Street
+SO	53654	Via Baldoa شارع بالدوا	residential	1	0	0	Baldoa Street
+SO	53654	Via Bandar Qasim شارع بندر قاسم	tertiary	1	0	0	Bandar Qasim Street
+SO	53654	Via Benadir	residential	1	0	0	
+SO	53654	Via Benadir شارع بنادر	tertiary	1	0	0	Benadir Street
+SO	53654	Via Burao شارع بوراو	residential	1	0	0	Burao Street
+SO	53654	Via Burgad شارع بورغاد	residential	1	0	0	Burgad Street
+SO	53654	Via Cairo شارع القاهرة	tertiary	1	0	0	Cairo Street
+SO	53654	Via Colombia شارع كولومبيا	residential	1	0	0	Colombia Street
+SO	53654	Via Congo شارع الكونغو	secondary	1	0	0	Congo Street
+SO	53654	Via Damasco شارع دمشق	residential	1	0	0	Damascus Street
+SO	53654	Via Djibouti شارع جيبوتي	residential	1	0	0	Djibouti Street
+SO	53654	Via Dolo شارع دولو	residential	1	0	0	Dolo Street
+SO	53654	Via Egitto شارع مصر	residential	1	0	0	Egypt Street
+SO	53654	Via Egitto عبر مصر	residential	1	0	0	
+SO	53654	Via Filippine شارع الفلبين	secondary	1	0	0	Philippines Street
+SO	53654	Via Galcaio	tertiary	1	0	0	
+SO	53654	Via Galcaio شارع جالكايو	tertiary	1	0	0	Galcaio Street
+SO	53654	Via Garibaldi شارع غاريبالدي	secondary	1	0	0	Garibaldi Street
+SO	53654	Via General Daoud شارع الجنرال داود	secondary	1	0	0	General Daoud Street
+SO	53654	Via Gesire طريق جيسير	residential	1	0	0	Gesire Road
+SO	53654	Via Giak Aroa شارع جياك أروة	residential	1	0	0	Giak Aroa Street
+SO	53654	Via Giuba شارع جوبا	tertiary	1	0	0	Juba Street
+SO	53654	Via Guinea شارع غينيا	residential	1	0	0	Guinea Street
+SO	53654	Via Johwar شارع جوهر	tertiary	1	0	0	Johwar Street
+SO	53654	Via Kamal El Din شارع كمال الدين	tertiary	1	0	0	Kamal El Din Street
+SO	53654	Via Liberia شارع ليبيريا	residential	1	0	0	Liberia Street
+SO	53654	Via Lido شارع ليدو	secondary	1	0	0	Lido Street
+SO	53654	Via M. Gondi شارع إم. غوندي	residential	1	0	0	M. Gondi Street
+SO	53654	Via Mahmoud Harbi شارع محمود حربي	tertiary	1	0	0	Mahmoud Harbi Street
+SO	53654	Via Mali شارع مالي	residential	1	0	0	Mali Street
+SO	53654	Via Marconi Guglielmo شارع ماركوني غولييلمو	residential	1	0	0	Marconi Guglielmo Street
+SO	53654	Via Marocco شارع المغرب	residential	1	0	0	Morocco Street
+SO	53654	Via Mauretania شارع موريتانيا	residential	1	0	0	Mauretania Street
+SO	53654	Via Migiuritinia شارع ميجورتينيا	residential	1	0	0	Migiurtinia Street
+SO	53654	Via Mosca شارع موسكو	secondary	1	0	0	Moscow Street
+SO	53654	Via Mudug شارع مودوغ	tertiary	1	0	0	Mudug Street
+SO	53654	Via Muhammad Kamal al-Din Satah شارع محمد كمال الدين سطح	secondary	1	0	0	Muhammad Kamaal al-Diin Satah Street
+SO	53654	Via Nasib Punto شارع نقطة نسيب	residential	1	0	0	Nasib Point Street
+SO	53654	Via Nasibi Bundi شارع نصيب بوندي	tertiary	1	0	0	Nasib Bundi Street
+SO	53654	Via Nigeria شارع نيجيريا	residential	1	0	0	Nigeria Street
+SO	53654	Via Nogal شارع نوغال	residential	1	0	0	Nogal Street
+SO	53654	Via Obbio شارع هبيا	residential	1	0	0	Hebeya Street
+SO	53654	Via Pechino شارع بكين	residential	1	0	0	Beijing Street
+SO	53654	Via Roma شارع روما	tertiary	1	0	0	Rome Street
+SO	53654	Via Seneo شارع سينيو	residential	1	0	0	Seneo Street
+SO	53654	Via Shabele شارع شابيلي	residential	1	0	0	Shabele Street
+SO	53654	Via Sheikh Abdul Aziz شارع الشيخ عبد العزيز	tertiary	1	0	0	Sheikh Abdul Aziz Street
+SO	53654	Via Sheikh Abdul Qadir Al-Jilani شارع الشيخ عبد القادر الجيلاني	residential	1	0	0	Sheikh Abdul Qadir Al-Jilani Street
+SO	53654	Via Sheikh Abdul Rahman شارع الشيخ عبد الرحمن	residential	1	0	0	Sheikh Abdul Rahman Street
+SO	53654	Via Sheikh Abikar M. شارع الشيخ أبيكار م	residential	1	0	0	Sheikh Abikar M. Street
+SO	53654	Via Sheikh Alawi شارع الشيخ علوي	unclassified	1	0	0	Sheikh Alawi Street
+SO	53654	Via Sheikh Barcadle شارع الشيخ باركادلي	residential	1	0	0	Sheikh Barcadle Street
+SO	53654	Via Sheikh Osman Gueruene شارع الشيخ عثمان غيروين	residential	1	0	0	Sheikh Osman Gueruene Street
+SO	53654	Via Sheikh Salah al-Din شارع الشيخ صلاح الدين	tertiary	1	0	0	Sheikh Salah al-Din Street
+SO	53654	Via Somalia شارع الصومال	secondary	1	0	0	Somalia Street
+SO	53654	Via Taleh شارع طليح	residential	1	0	0	Taleh Street
+SO	53654	Via Tanzania شارع تنزانيا	tertiary	1	0	0	Tanzania Street
+SO	53654	Via Togo شارع توغو	residential	1	0	0	Togo Street
+SO	53654	Via Uanie Uen شارع أواني أون	tertiary	1	0	0	Uanie Uen Street
+SO	53654	Via Uebi Scebeli شارع أوبي سكيبيلي	residential	1	0	0	Uebi Scebeli Street
+SO	53654	Via Uganda شارع أوغندا	residential	1	0	0	Via Uganda
+SO	53654	Via Washington شارع واشنطن	tertiary	1	0	0	Washington Street
+SO	53654	Via del Porto طريق الميناء	secondary	1	0	0	Port Road
+SO	53654	Via della Rivoluzione شارع الثورة	tertiary	1	0	0	Revolution Street
+SO	53654	Via delle Nazioni Unite شارع الأمم المتحدة	tertiary	1	0	0	United Nations Street
+SO	53654	Vía Londra شارع لندن	secondary	1	0	0	London Street
+SO	53654	Wadada 21-ka Noofambar شارع 21 نوفمبر	tertiary	1	0	0	21st November Street
+SO	53654	Wadada 26-ka Juun شارع 26 يونيو	tertiary	1	0	0	26th June Street
+SO	53654	Wadada Afrah طريق أفراح	residential	1	0	0	Afrah Road
+SO	53654	Wadada Akara طريق أكارا	residential	1	0	0	Akara Road
+SO	53654	Wadada Bakaaraha شارع بكاراها	tertiary	1	0	0	Bakaaraha Street
+SO	53654	Wadada Bootale طريق بوتال	residential	1	0	0	Bootale Road
+SO	53654	Wadada Buurta Siinay شارع جبل سيناء	residential	1	0	0	Mount Sinai Street
+SO	53654	Wadada Ciidamada Qalabka Sida طريق القوات المسلحة	tertiary	1	0	0	Armed Forces Road
+SO	53654	Wadada Danwadaag طريق دانواداج	tertiary	1	0	0	Danwadaag Street
+SO	53654	Wadada Dayaha طريق داياها	residential	1	0	0	Dayaha Road
+SO	53654	Wadada Dharkenleey وادادا داركينلي	secondary	1	0	0	Dharkenley Road
+SO	53654	Wadada Digfer طريق ديجفر	tertiary	1	0	0	Digfer Road
+SO	53654	Wadada Doctor Elmi Ahmed Duale شارع الدكتور علمي أحمد دوالي	residential	1	0	0	Doctor Elmi Ahmed Duale Drive
+SO	53654	Wadada Farsamada الطريق التقني	residential	1	0	0	Technical Road
+SO	53654	Wadada Garoonka Diyaaradaha طريق المطار	secondary	1	0	0	Airport Road
+SO	53654	Wadada Hodan ريتش رود	secondary	1	0	0	Hodan Road
+SO	53654	Wadada Howlwadaag طريق العمل	tertiary	1	0	0	Hawl Wadaag Street
+SO	53654	Wadada Jaale Siyaad الطريق الأصفر سياد	secondary	1	0	0	Yellow Siyad Road
+SO	53654	Wadada Kabdhoodka شارع الأحذية	residential	1	0	0	Shoe Street
+SO	53654	Wadada Karan طريق كاران	tertiary	1	0	0	Karan Road
+SO	53654	Wadada Lenin شارع لينين	secondary	1	0	0	Lenin Street
+SO	53654	Wadada Madaxweyne Aadan Cadde طريق الرئيس عدن آدي	unclassified	1	0	0	President Aden Adde Street
+SO	53654	Wadada Mareexaan طريق ماريهان	residential	1	0	0	Marehan Road
+SO	53654	Wadada Puntland طريق بونتلاند	residential	1	0	0	Puntland Road
+SO	53654	Wadada SODMA شارع سودما	residential	1	0	0	SODMA Avenue
+SO	53654	Wadada SOS طريق إس أو إس	tertiary	1	0	0	SOS Road
+SO	53654	Wadada Sanca طريق صنعاء	residential	1	0	0	Sanaa Road
+SO	53654	Wadada Sarifyaraha شارع ساريياراها	residential	1	0	0	Sarifyaraha Street
+SO	53654	Wadada Uganda شارع أوغندا	tertiary	1	0	0	Uganda Street
+SO	53654	Wadada Waabari طريق واباري	secondary	1	0	0	Waabari Road
+SO	53654	Wadada Wadnaha طريق وادناها	secondary	1	0	0	Wadnaha Road
+SO	53654	Wadada Wahar Ade طريق واهار أدي	residential	1	0	0	Wahar Ade Road
+SO	53654	Wadada Walaalaha طريق ولا الله	residential	1	0	0	Walaalaha Road
+SO	53654	Wadada Warqadaha شارع الورق	residential	1	0	0	Papers Road
+SO	53654	Wadnaha Road طريق وددنا	secondary	1	0	0	Sinay Road
+SO	53654	Warshahada 21ka Oktoobar طريق 21 أكتوبر	primary	1	0	0	21st October Road
+SO	54225	Buufow Bacaad - Aw Dheegle Road	secondary	1	0	0	
+SO	54225	Ceel-Jaale - Marka Highway	tertiary	1	0	0	
+SO	54225	Wadada Marka	primary	1	0	0	
+SO	54460	Ceel-Baraf - Mahadaay Highway	secondary	1	0	0	
+SO	54460	Jowhar-Bulo Burto Highway	primary	1	0	0	
+SO	54460	Mahadaay - Calaag Road	tertiary	1	0	0	
+SO	54460	Mahadaay - Ceynte Highway	secondary	1	0	0	
+SO	54715	Garbahaarey - Luuq Road	tertiary	1	0	0	
+SO	54715	Luuq - Berdale Highway	primary	1	0	0	
+SO	54715	Luuq - Dolow Highway	primary	1	0	0	
+SO	55223	Boosaaso - Badhan Highway	secondary	1	0	0	
+SO	55671	Airport Road	tertiary	1	0	0	
+SO	55671	Kismayo - Afmadow Highway	primary	1	0	0	
+SO	55671	wadada Dakadda	unclassified	1	0	0	
+SO	56166	Buulo Mareer - Jilib Highway	primary	1	0	0	
+SO	56166	Jibib - Muuna Road	tertiary	1	0	0	
+SO	56166	Jilib - Bu'aale Road	secondary	1	0	0	
+SO	56166	Jilib - Jamaame road	primary	1	0	0	
+SO	56166	Jilib - Mashaaga Road	secondary	1	0	0	
+SO	56335	Balcad - Jowhar Highway	primary	1	0	0	
+SO	56335	Jowhar - Mareerey Road	tertiary	1	0	0	
+SO	56335	Jowhar - Sheikh Ooyaaye Road	tertiary	1	0	0	
+SO	56335	Jowhar-Bulo Burto Highway	primary	1	0	0	
+SO	56335	residentiaal road	residential	1	0	0	
+SO	56399	Jamaame - Mraara Road	tertiary	1	0	0	
+SO	56399	Kismaayo - Jilib Highway	primary	1	0	0	
+SO	56414	Jalalaqsi - Ceel-Baraf Highway	secondary	1	0	0	
+SO	56414	Jalalaqsi - Gumarrey Highway	secondary	1	0	0	
+SO	56414	Jalalaqsi - Jaaboole Highway	tertiary	1	0	0	
+SO	56505	Biike - Iskushuban Road	tertiary	1	0	0	
+SO	57000	Airport road	unclassified	1	0	0	
+SO	57000	Hobyo	tertiary	1	0	0	
+SO	57289	Hashi Kabadoon Street	unclassified	6	1	4	
+SO	57289	Road Number 1 / طريق رقم 1		5	1	402	
+SO	57289	Birjeex Street	residential	2	1	7	
+SO	57289	Faarax Nuur Street	secondary	2	80	81	
+SO	57289	Xero Awr Road		2	150	490	
+SO	57289	faarax nuur street		2	30	30	
+SO	57289	طريق المطار	secondary	2	15	55	Airport Road
+SO	57289	2nd Street / شارع 2	residential	1	0	0	2nd Street
+SO	57289	A.Laydh Street	residential	1	0	0	
+SO	57289	Abdi Shaah Street	residential	1	0	0	
+SO	57289	Abdi nasir Street	residential	1	0	0	
+SO	57289	Abdilahi Jawaan Street	residential	1	0	0	
+SO	57289	Abdirahman Tuur Street	tertiary	1	0	0	
+SO	57289	Aden Garow Street	residential	1	0	0	
+SO	57289	Ahmed Guray Street	residential	1	0	0	
+SO	57289	Ahmed Hariir Street	residential	1	0	0	
+SO	57289	Ali Adan Street	residential	1	0	0	
+SO	57289	Ali Raage Street	residential	1	0	0	
+SO	57289	Ambassador Street	residential	1	0	0	
+SO	57289	Aw-Aden Road	residential	1	0	0	
+SO	57289	Aw-aden RD	residential	1	0	0	
+SO	57289	Aw-aden Road	residential	1	0	0	
+SO	57289	Badhka Street	residential	1	0	0	
+SO	57289	Badhka west st	residential	1	0	0	
+SO	57289	Biibsiga Street	residential	1	0	0	
+SO	57289	Biyo Gale Road - Waddada Biyo Gale	residential	1	0	0	
+SO	57289	Bulbul street	residential	1	0	0	
+SO	57289	C	residential	1	0	0	
+SO	57289	Cabaaye Road	tertiary	1	0	0	
+SO	57289	Cabdilahi Dagaal Street	residential	1	0	0	
+SO	57289	Cadami Street	residential	1	0	0	
+SO	57289	Cakaara street	residential	1	0	0	
+SO	57289	Casaan Street	residential	1	0	0	
+SO	57289	Cigaal Drive	unclassified	1	0	0	
+SO	57289	Ciro Road	secondary	1	0	0	
+SO	57289	Colonel A.Rush Road	residential	1	0	0	
+SO	57289	Corfield Avenue	residential	1	0	0	
+SO	57289	Cumar Indhoole Street	residential	1	0	0	
+SO	57289	Dayib gurey Street	residential	1	0	0	
+SO	57289	Dhago Dheere Street	residential	1	0	0	
+SO	57289	Dixood Street	residential	1	0	0	
+SO	57289	East Hraf Road	tertiary	1	0	0	
+SO	57289	Faysal Street	residential	1	0	0	
+SO	57289	Fisher Road	residential	1	0	0	
+SO	57289	Gabayhadi Road	tertiary	1	0	0	
+SO	57289	Goljano Road	tertiary	1	0	0	
+SO	57289	Gollis Road	residential	1	0	0	
+SO	57289	Gollis University Road	residential	1	0	0	
+SO	57289	Guled	residential	1	0	0	
+SO	57289	Half London Road	tertiary	1	0	0	
+SO	57289	Hargeisa - Baligubadle Highway	secondary	1	0	0	
+SO	57289	Hugur Street	residential	1	0	0	
+SO	57289	If Iyo Aakhiro Road	tertiary	1	0	0	
+SO	57289	Ina Naxar street	residential	1	0	0	
+SO	57289	Isha Boorama Street	residential	1	0	0	
+SO	57289	Isha boorma street	residential	1	0	0	
+SO	57289	Ismaaciil Cubuli Road	primary	1	0	0	
+SO	57289	Ismay Crescent	residential	1	0	0	
+SO	57289	Jacfaan Street	residential	1	0	0	
+SO	57289	Jameewo_Wayn St	unclassified	1	0	0	
+SO	57289	Jidka 150ka	unclassified	1	0	0	
+SO	57289	Judiciary Road	residential	1	0	0	
+SO	57289	Kaariye Road	residential	1	0	0	
+SO	57289	Khadar Str	residential	1	0	0	
+SO	57289	Kudar Road	tertiary	1	0	0	
+SO	57289	Lake Assale Road	tertiary	1	0	0	
+SO	57289	Masalaha Road	secondary	1	0	0	
+SO	57289	Mascuud Street	residential	1	0	0	
+SO	57289	Masjid Abudar al Q Street	residential	1	0	0	
+SO	57289	Muj. Mohamed Ibrahim Samatar Road	residential	1	0	0	
+SO	57289	Muse Shiraaqle Road	residential	1	0	0	
+SO	57289	Nacnac Street	residential	1	0	0	
+SO	57289	Nimco Sagal Street	residential	1	0	0	
+SO	57289	Nimco Street	residential	1	0	0	
+SO	57289	Planned Route for Hargeysa Bypass Road	unclassified	1	0	0	
+SO	57289	Qabyo Tire Road	residential	1	0	0	
+SO	57289	Qamar Road	residential	1	0	0	
+SO	57289	Rabile Street	residential	1	0	0	
+SO	57289	Road No 2	primary	1	0	0	
+SO	57289	Saadadiin Road - Waddada Sacaadadiin	residential	1	0	0	
+SO	57289	Saylada Xoolaha (Livestock Market Rd)	tertiary	1	0	0	
+SO	57289	Sh.Muuse street	residential	1	0	0	
+SO	57289	Siinay Street	tertiary	1	0	0	
+SO	57289	State House Road	residential	1	0	0	
+SO	57289	Suldaan Cumar Road	residential	1	0	0	
+SO	57289	Suldaan Mahad Road	residential	1	0	0	
+SO	57289	Tanat sixteen street	unclassified	1	0	0	
+SO	57289	Timo Cadde Road	residential	1	0	0	
+SO	57289	Togdheer Road طريق توجدير	tertiary	1	0	0	Togdheer Road
+SO	57289	Ugaaso Street	residential	1	0	0	
+SO	57289	Waddada Baxrasaaf - Bahrasaf Road	residential	1	0	0	
+SO	57289	Waddada Beeyo - Beyo Road	residential	1	0	0	
+SO	57289	Waddada Bilcille - Bilille Road	residential	1	0	0	
+SO	57289	Waddada Biyo_Shiinaha	unclassified	1	0	0	
+SO	57289	Waddada Dhamasta - Dhamasta Road	residential	1	0	0	
+SO	57289	Waddada Dheenta- Dheenta Road	residential	1	0	0	
+SO	57289	Waddada Dhirsan - Dhirsan Road	residential	1	0	0	
+SO	57289	Waddada Galoolka - Galolka Road	residential	1	0	0	
+SO	57289	Waddada Gobka - Gobka Road	residential	1	0	0	
+SO	57289	Waddada Hadhsame - Hadhsame Road	residential	1	0	0	
+SO	57289	Waddada Hangool - Hangol Road	residential	1	0	0	
+SO	57289	Waddada Idaacadda	tertiary	1	0	0	
+SO	57289	Waddada Laagyar - Lagyar Road	residential	1	0	0	
+SO	57289	Waddada Lebiga - Lebiga Road	residential	1	0	0	
+SO	57289	Waddada Qudhacdheer - Qudaader Road	residential	1	0	0	
+SO	57289	Waddada Xaraf - Haraf Road	residential	1	0	0	
+SO	57289	Warancadde Street	residential	1	0	0	
+SO	57289	Wd Cadaadle - Adadle Road	residential	1	0	0	
+SO	57289	Wd Tallowga Xaraf- Tallowga Hraf Rd	residential	1	0	0	
+SO	57289	X.boodbood Str	residential	1	0	0	
+SO	57289	X:.boodbood Str	residential	1	0	0	
+SO	57289	Xariir H. Street	living_street	1	0	0	
+SO	57289	Xasan Xirsi Street	residential	1	0	0	
+SO	57289	Xero Awr Street	residential	1	0	0	
+SO	57289	Yogol Street	residential	1	0	0	
+SO	57289	cakaaara street	residential	1	0	0	
+SO	57289	cakaara street	residential	1	0	0	
+SO	57289	col u joog street	residential	1	0	0	
+SO	57289	digdigley siinay	tertiary	1	0	0	
+SO	57289	if & Aahiro Road	tertiary	1	0	0	
+SO	57289	waran Street	residential	1	0	0	
+SO	57289	xariri H. Street	living_street	1	0	0	
+SO	57289	xussein Jamac street	residential	1	0	0	
+SO	57289	طريق المدرسة ١٨ مايو	residential	1	0	0	18 May School Road
+SO	58143	Goroyo-Cawl - Border Road	secondary	1	0	0	
+SO	58831	Dirt Road	living_street	1	0	0	
+SO	58831	strada	living_street	1	0	0	
+SO	58933	Akram Road	residential	1	0	0	
+SO	58933	Alnasar Road	residential	1	0	0	
+SO	58933	Axmed Karaash Road	residential	1	0	0	
+SO	58933	Bulsho Road	tertiary	1	0	0	
+SO	58933	Gambool Road	residential	1	0	0	
+SO	58933	Garoowe - Burtinle Highway	primary	1	0	0	
+SO	58933	Garoowe - Dangoroyo Highway	primary	1	0	0	
+SO	58933	Global Road	residential	1	0	0	
+SO	58933	Gureeye Street	residential	1	0	0	
+SO	58933	Guureeye Road	tertiary	1	0	0	
+SO	58933	Haji Abdi Road	unclassified	1	0	0	
+SO	58933	Mo Abdirahman Road	residential	1	0	0	
+SO	58933	Sagal Road	unclassified	1	0	0	
+SO	58933	Spaghetti Road	unclassified	1	0	0	
+SO	58933	Wadada Tigey	unclassified	1	0	0	
+SO	58933	Wadadda Madaxtooyada	unclassified	1	0	0	
+SO	58933	Wadajir Road	tertiary	1	0	0	
+SO	58933	Waddada Shacabka	residential	1	0	0	
+SO	58933	Xaaji Ali Road	residential	1	0	0	
+SO	58994	Ceel Waaq - Garbaharey Highway	secondary	1	0	0	
+SO	58994	Garbahaarey - Bulahawa Road	secondary	1	0	0	
+SO	58994	Garbahaarey - Luuq Road	tertiary	1	0	0	
+SO	58994	Talada Road	secondary	1	0	0	
+SO	59611	Gaalkacyo - Faarax Geedi Road	secondary	1	0	0	
+SO	59611	Gaalkacyo - Wargalo Road	unclassified	1	0	0	
+SO	59611	Gaalkacyo - Wargalo Road / طريق جالكعيو - وارغالو	unclassified	1	0	0	Galkayo - Wargalo Road
+SO	59611	Jidka Shiinaha طريق الصين	primary	1	0	0	
+SO	59611	طريق الثلاثين	secondary	1	0	0	Thirty Road
+SO	60019	Eyl Road	tertiary	1	0	0	
+SO	60457	Bu'aale - Buur Fuul Road	tertiary	1	0	0	
+SO	60457	Bu'aale - Saakow Road	secondary	1	0	0	
+SO	60809	Diinsoor - Haawaay Road	secondary	1	0	0	
+SO	60809	Uffurow - Diinsoor Road	secondary	1	0	0	
+SO	60928	Dhuusamareeb - Ceel-Qooxle Highway	secondary	1	0	0	
+SO	60928	Dhuusamareeb - Guriceel Highway	primary	1	0	0	
+SO	60998	Kala Baydh - Dhammay Highway	secondary	1	0	0	
+SO	60998	Xidh Xidh - Dhammay Highway	secondary	1	0	0	
+SO	62691	Ceerigaabo - Ceel-Buh Road	tertiary	1	0	0	
+SO	62788	Ceel Dheer - Xarardheere Road	tertiary	1	0	0	
+SO	62788	Mesegawayn - Ceel Dheer Road	tertiary	1	0	0	
+SO	62821	Ceel Buur - Ceel-Qooxle Highway	secondary	1	0	0	
+SO	62821	Ceel Buur - Wadada Ceelbuur	secondary	1	0	0	
+SO	62821	Ceel-Qooxle Highway	secondary	1	0	0	
+SO	62821	Wabxo - Ceel Buur Highway	secondary	1	0	0	
+SO	63344	Cadale عضلة - Xaaji-Cali Road	unclassified	1	0	0	
+SO	63361	Galinsoor - Cadaado Highway	primary	1	0	0	
+SO	63571	Buur Hakaba - Bur-Heybe Road	tertiary	1	0	0	
+SO	63571	W. Byadhabo	primary	1	0	0	
+SO	63571	Wadada Byadhabo	primary	1	0	0	
+SO	63571	Wadada Dubai	tertiary	1	0	0	
+SO	63571	Wadada Waaberi	tertiary	1	0	0	
+SO	63571	Wadada Wadajir	tertiary	1	0	0	
+SO	63689	Bulo Burto - Beledweyne Highway	primary	1	0	0	
+SO	63689	Jalalaqsi - Jaaboole Highway	tertiary	1	0	0	
+SO	63689	Jowhar-Bulo Burto Highway	primary	1	0	0	
+SO	63707	Sool Joogto - Buuhoodle Road	tertiary	1	0	0	
+SO	63795	Baarsiigo Road	tertiary	1	0	0	
+SO	63795	Carab Ileeye Road	residential	1	0	0	
+SO	63795	Dawlada Hoose ee Burao / Burao Local Government	residential	1	0	0	
+SO	63795	Deero Bridge	residential	1	0	0	
+SO	63795	Deero Bridge Road	tertiary	1	0	0	
+SO	63795	Farah Harbi Road	residential	1	0	0	
+SO	63795	Gacan Qoorgaab Road	residential	1	0	0	
+SO	63795	Hadraawi Road	residential	1	0	0	
+SO	63795	Hodan Qaylo Road	tertiary	1	0	0	
+SO	63795	Insida Road	residential	1	0	0	
+SO	63795	MJ Aden Garas Road	residential	1	0	0	
+SO	63795	MJ Shaami	residential	1	0	0	
+SO	63795	MJ Shaami Road	residential	1	0	0	
+SO	63795	Oktoobar Road	unclassified	1	0	0	
+SO	63795	Oktoobar-Plaza Foot Bridge	residential	1	0	0	
+SO	63795	Tawali Road	unclassified	1	0	0	
+SO	63795	Wadada Alamzay	residential	1	0	0	
+SO	63795	Wadada Baaxeer	residential	1	0	0	
+SO	63795	Wadada Biriishka Deero	tertiary	1	0	0	
+SO	63795	Wadada Caafi	residential	1	0	0	
+SO	63795	Wadada Ducaale Xaaji Ibraahim	residential	1	0	0	
+SO	63795	Wadada Garbada	residential	1	0	0	
+SO	63795	Wadada Hurre Walanwal	residential	1	0	0	
+SO	63795	Wadada Ina Nuur Fadal	residential	1	0	0	
+SO	63795	Wadada Kala-Miir	residential	1	0	0	
+SO	63795	Wadada Kastamka	residential	1	0	0	
+SO	63795	Wadada Khadar Gadhle	residential	1	0	0	
+SO	63795	Wadada Macalin Haaruun	residential	1	0	0	
+SO	63795	Wadada Madiina	residential	1	0	0	
+SO	63795	Wadada Muj. Maxamed Kaahin	residential	1	0	0	
+SO	63795	Wadada Muj. Siilaanyo	residential	1	0	0	
+SO	63795	Wadada Reer Ibrahim Coosh	residential	1	0	0	
+SO	63795	Wadada Riiga Bukhleeye	residential	1	0	0	
+SO	63795	Wadada Sheekh Ibraahim	residential	1	0	0	
+SO	63795	Wadada Suuqa	secondary	1	0	0	
+SO	63795	Wadada Tabliiqiinta	residential	1	0	0	
+SO	63795	Wadada Xaajiga	residential	1	0	0	
+SO	63795	Xaarwada Bridge	secondary	1	0	0	
+SO	63795	Yawle Road	residential	1	0	0	
+SO	63949	Jilib - Bu'aale Road	secondary	1	0	0	
+SO	64013	Boosaaso - Carmo Highway	primary	1	0	0	
+SO	64013	Ibrahim Rage Road	residential	1	0	0	
+SO	64013	MAREERO ROAD	residential	1	0	0	
+SO	64013	Qorrax Road	residential	1	0	0	
+SO	64013	Qorrax Street	residential	1	0	0	
+SO	64013	Street 30	residential	1	0	0	
+SO	64013	Ugaas Yaasiin Street	tertiary	1	0	0	
+SO	64013	Wadaad Masaajidka	residential	1	0	0	
+SO	64013	Wadada Garoonka Diyaaradaha طريق المطار	unclassified	1	0	0	Airport Road
+SO	64013	Waddo Giire	residential	1	0	0	
+SO	64021	Amoud University Rd	tertiary	1	0	0	
+SO	64021	Bille Rd	unclassified	1	0	0	
+SO	64021	Hassan Sheikh Mumin Rd	residential	1	0	0	
+SO	64021	Jidka Jimcaale	residential	1	0	0	
+SO	64435	Beach Road	tertiary	1	0	0	
+SO	64435	Berbera - Ceel Afweyn Road	tertiary	1	0	0	
+SO	64435	Berbera Airport Road	tertiary	1	0	0	
+SO	64435	Berbera Port Road	residential	1	0	0	
+SO	64435	Cigaal Dental Street	residential	1	0	0	
+SO	64435	Port Road	unclassified	1	0	0	
+SO	64435	Professor Hassan Abdilahi Road	residential	1	0	0	
+SO	64435	Suufi Hassan Road	tertiary	1	0	0	
+SO	64460	Beledweyne - Bacad Highway	tertiary	1	0	0	
+SO	64460	Belet Weyne - Tayeeglow Road	secondary	1	0	0	
+SO	64460	Bulo Burto - Beledweyne Highway	primary	1	0	0	
+SO	64460	Bundo Weyne Bridge (East)	tertiary	1	0	0	
+SO	64460	Ferfer - Beledweyne Highway	primary	1	0	0	
+SO	64460	Liiqliiqato Bridge (West)	secondary	1	0	0	
+SO	64536	Baidoa Airport Street	tertiary	1	0	0	
+SO	64536	Byadhabo - Berdale Highway	primary	1	0	0	
+SO	64536	Tugaar-Hoosle - Baidoa Road	secondary	1	0	0	
+SO	64536	W. Baydhabo	primary	1	0	0	
+SO	64536	W. Byadhabo	primary	1	0	0	
+SO	64536	Wadada Cadada/ Cadada Road A1 (W)	primary	1	0	0	
+SO	65170	Baardheere - Buurdhuubo Road	secondary	1	0	0	
+SO	65170	Baardheere - Faafax Dhuun Road	secondary	1	0	0	
+SO	65170	Baardheere - Saakow Highway	secondary	1	0	0	
+SO	65170	Gansahdere - Baardheere Road	secondary	1	0	0	
+SO	65785	Afgooye - Aw Dheegle Road	secondary	1	0	0	
+SO	65785	Afgooye - Balcad Road	tertiary	1	0	0	
+SO	65785	Afgooye - Garsaale Road	secondary	1	0	0	
+SO	65785	Wadada Byadhabo	primary	1	0	0	
+SO	65785	Wadada Marka	primary	1	0	0	
+SO	342803	Canjiidle Street	residential	1	0	0	
+SO	400769	Abdisalam Madar Road	residential	1	0	0	
+SO	400769	Abwaan Jaamac Kediye Road	residential	1	0	0	
+SO	400769	Amiir Digaale Road	unclassified	1	0	0	
+SO	400769	Col. Abdi Madoobe Road	residential	1	0	0	
+SO	400769	Col. Tukeh Road	secondary	1	0	0	
+SO	400769	DR ALI KHALIF GALAYDH RD.	unclassified	1	0	0	
+SO	400769	Garaad Abshir Saalax Road	residential	1	0	0	
+SO	400769	Garaad Cali Garaad Jaamac Road	residential	1	0	0	
+SO	400769	Garaad Ismaaciil Ducaale Road	residential	1	0	0	
+SO	400769	Garaad Saleebaan Garaad Maxamed Road	residential	1	0	0	
+SO	400769	General Dafle Road	residential	1	0	0	
+SO	400769	Gosha Berkadaha	residential	1	0	0	
+SO	400769	Haybe Shire Road	residential	1	0	0	
+SO	400769	Hodan Nalayeh Road	residential	1	0	0	
+SO	400769	Ismaaciil Mire Road	residential	1	0	0	
+SO	400769	Kala Baydh - Laas Caanood Highway	secondary	1	0	0	
+SO	400769	Karaash Road	residential	1	0	0	
+SO	400769	Masjid Jaamac Road	secondary	1	0	0	
+SO	400769	Muj. Muse Bihi road	residential	1	0	0	
+SO	400769	Nurse Abdisalan Road	residential	1	0	0	
+SO	400769	Saado Ali Road	residential	1	0	0	
+SO	400769	Sheikh Cabdinaasir Road	residential	1	0	0	
+SO	400769	Siyaad Barre Road	residential	1	0	0	
+SO	400769	Taliye Afgaab Road	residential	1	0	0	
+SO	400769	Wadada Dr. Ali Khalif Galaydh	unclassified	1	0	0	
+SO	10228788	Dhobley - Dibi Road	tertiary	1	0	0	
+SO	12212406	Barwaqo Bypass	residential	1	0	0	
+SO	12212406	Ceel Waaq - Dhamaso Road	secondary	1	0	0	
+SO	12212406	Garbahaarey - Bulahawa Road	secondary	1	0	0	

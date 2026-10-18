@@ -1,0 +1,476 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+NE	2437798	N11	primary	1	0	0	
+NE	2437798	Route de l'Aéroport	tertiary	1	0	0	
+NE	2437798	Route de l'Université	residential	1	0	0	
+NE	2437934	Avenue de l'Afrique	secondary	1	0	0	
+NE	2438409	N6	primary	1	0	0	
+NE	2438775	N3	primary	1	0	0	
+NE	2438823	Rond point Tribune	primary	1	0	0	
+NE	2438823	Route Mayahi	primary	1	0	0	
+NE	2438855	N4	primary	1	0	0	
+NE	2438855	N5	primary	1	0	0	
+NE	2439155	N11	primary	1	0	0	
+NE	2439376	Avenue Mamadou Tandja	tertiary	1	0	0	
+NE	2439376	Loungou	residential	1	0	0	
+NE	2439376	ROUTE BAMBAYE	tertiary	1	0	0	
+NE	2439376	RUE ABBATOIR	unclassified	1	0	0	
+NE	2439376	Rond Point Gouvernorat	tertiary	1	0	0	
+NE	2439376	Routes mineures	unclassified	1	0	0	
+NE	2440485	Avenue du Souvenir	primary	8	518	518	
+NE	2440485	Avenue Kaocen	tertiary	6	860	935	
+NE	2440485	Avenue du Dendi	tertiary	3	9	9	
+NE	2440485	Rue du Maroc	tertiary	3	98	834	
+NE	2440485	Avenue de l'Afrique	secondary	2	1100	3133	
+NE	2440485	Avenue du Fleuve Niger	tertiary	2	145	428	
+NE	2440485	Anassara kwara	residential	1	0	0	
+NE	2440485	Ave LM - 16	unclassified	1	0	0	
+NE	2440485	Avenue Abdoulaye Fadigua	tertiary	1	0	0	
+NE	2440485	Avenue Ahmadou Dan Bassa	residential	1	0	0	
+NE	2440485	Avenue Alfa Ali Gata	tertiary	1	0	0	
+NE	2440485	Avenue Alfa Saibou	tertiary	1	0	0	
+NE	2440485	Avenue Anderamboukane	tertiary	1	0	0	
+NE	2440485	Avenue Babatou	residential	1	0	0	
+NE	2440485	Avenue Boubou Hama	primary	1	0	0	
+NE	2440485	Avenue Dan Baskoré	residential	1	0	0	
+NE	2440485	Avenue Dan Kassawa	tertiary	1	0	0	
+NE	2440485	Avenue Dan Koulodo (PL 17 intersection cabinet PM-Av.Gle De Gaulle)	residential	1	0	0	
+NE	2440485	Avenue Daouda Bougaram	residential	1	0	0	
+NE	2440485	Avenue Djibo Bakary	tertiary	1	0	0	
+NE	2440485	Avenue Djibo bakary	tertiary	1	0	0	
+NE	2440485	Avenue Firhoun Ag Al Insar	residential	1	0	0	
+NE	2440485	Avenue François Mitterrand	primary	1	0	0	
+NE	2440485	Avenue François Mitterrand PL-4	primary	1	0	0	
+NE	2440485	Avenue Général Ali Saibou	tertiary	1	0	0	
+NE	2440485	Avenue Iborahmane	residential	1	0	0	
+NE	2440485	Avenue Idrissa Alaoma	residential	1	0	0	
+NE	2440485	Avenue KR - 18	unclassified	1	0	0	
+NE	2440485	Avenue Kabrin Kabran	tertiary	1	0	0	
+NE	2440485	Avenue Lamido Bayero	tertiary	1	0	0	
+NE	2440485	Avenue Madina	tertiary	1	0	0	
+NE	2440485	Avenue Mahamadou Kanta (Kabi)	residential	1	0	0	
+NE	2440485	Avenue Mahamadou Sarkin Konni	tertiary	1	0	0	
+NE	2440485	Avenue Mamani Abdoulaye	residential	1	0	0	
+NE	2440485	Avenue Maourey	secondary	1	0	0	
+NE	2440485	Avenue Maourikoye Néni	unclassified	1	0	0	
+NE	2440485	Avenue Martin Luther King	tertiary	1	0	0	
+NE	2440485	Avenue Morou Karma	tertiary	1	0	0	
+NE	2440485	Avenue Moussa Damergou	residential	1	0	0	
+NE	2440485	Avenue Professeur Hamidou Sekou	tertiary	1	0	0	
+NE	2440485	Avenue Riz du Niger	unclassified	1	0	0	
+NE	2440485	Avenue Soni Ali Ber	primary	1	0	0	
+NE	2440485	Avenue Tabi Sawi	tertiary	1	0	0	
+NE	2440485	Avenue Tagama	residential	1	0	0	
+NE	2440485	Avenue Tanimoune	residential	1	0	0	
+NE	2440485	Avenue Tillabéri	residential	1	0	0	
+NE	2440485	Avenue YN- 221	residential	1	0	0	
+NE	2440485	Avenue d'Agadez	unclassified	1	0	0	
+NE	2440485	Avenue d'Akokan	residential	1	0	0	
+NE	2440485	Avenue d'Arlit	residential	1	0	0	
+NE	2440485	Avenue de Diffa	unclassified	1	0	0	
+NE	2440485	Avenue de Dosso	unclassified	1	0	0	
+NE	2440485	Avenue de Gamkallé	unclassified	1	0	0	
+NE	2440485	Avenue de Kalley Plateau	unclassified	1	0	0	
+NE	2440485	Avenue de Koutous	residential	1	0	0	
+NE	2440485	Avenue de L'Islam	secondary	1	0	0	
+NE	2440485	Avenue de Lougou	residential	1	0	0	
+NE	2440485	Avenue de Lélé Goungou	tertiary	1	0	0	
+NE	2440485	Avenue de Malbaza	residential	1	0	0	
+NE	2440485	Avenue de Maradi	unclassified	1	0	0	
+NE	2440485	Avenue de Niamey	unclassified	1	0	0	
+NE	2440485	Avenue de Tahoua	unclassified	1	0	0	
+NE	2440485	Avenue de Tiguiditt	residential	1	0	0	
+NE	2440485	Avenue de Yantala	unclassified	1	0	0	
+NE	2440485	Avenue de Zinder	unclassified	1	0	0	
+NE	2440485	Avenue de l'Ader	secondary	1	0	0	
+NE	2440485	Avenue de l'Arewa	tertiary	1	0	0	
+NE	2440485	Avenue de l'Azawak	secondary	1	0	0	
+NE	2440485	Avenue de l'Etente	primary	1	0	0	
+NE	2440485	Avenue de l'Irazer	unclassified	1	0	0	
+NE	2440485	Avenue de l'Islam	secondary	1	0	0	
+NE	2440485	Avenue de la Chambre de Commerce	tertiary	1	0	0	
+NE	2440485	Avenue de la Cooprération	residential	1	0	0	
+NE	2440485	Avenue de la Garde Présidentielle	tertiary	1	0	0	
+NE	2440485	Avenue de la Grande République	tertiary	1	0	0	
+NE	2440485	Avenue de la Mairie	tertiary	1	0	0	
+NE	2440485	Avenue de la Présidence	primary	1	0	0	
+NE	2440485	Avenue de la Radio	tertiary	1	0	0	
+NE	2440485	Avenue des Aménokal	secondary	1	0	0	
+NE	2440485	Avenue des Artistes	tertiary	1	0	0	
+NE	2440485	Avenue des Grande Chancellerie	residential	1	0	0	
+NE	2440485	Avenue des Lamibé	unclassified	1	0	0	
+NE	2440485	Avenue des Maï	residential	1	0	0	
+NE	2440485	Avenue des Ministères	tertiary	1	0	0	
+NE	2440485	Avenue des Officiers	residential	1	0	0	
+NE	2440485	Avenue des Sapeurs Pompiers	tertiary	1	0	0	
+NE	2440485	Avenue des Sultans	tertiary	1	0	0	
+NE	2440485	Avenue des Zarmakoy	tertiary	1	0	0	
+NE	2440485	Avenue du Canada	tertiary	1	0	0	
+NE	2440485	Avenue du Chateau d'Eau	primary	1	0	0	
+NE	2440485	Avenue du Combattant	unclassified	1	0	0	
+NE	2440485	Avenue du Damagaram	tertiary	1	0	0	
+NE	2440485	Avenue du Damergou	unclassified	1	0	0	
+NE	2440485	Avenue du Ghana	tertiary	1	0	0	
+NE	2440485	Avenue du Gober	unclassified	1	0	0	
+NE	2440485	Avenue du Gounti Yéna	tertiary	1	0	0	
+NE	2440485	Avenue du Hottoungo	unclassified	1	0	0	
+NE	2440485	Avenue du Kanem Bornou	unclassified	1	0	0	
+NE	2440485	Avenue du Katsina	unclassified	1	0	0	
+NE	2440485	Avenue du Kawar	tertiary	1	0	0	
+NE	2440485	Avenue du Kourfeye	primary	1	0	0	
+NE	2440485	Avenue du Lazaret	unclassified	1	0	0	
+NE	2440485	Avenue du Manga	tertiary	1	0	0	
+NE	2440485	Avenue du Mounio	tertiary	1	0	0	
+NE	2440485	Avenue du Niger	secondary	1	0	0	
+NE	2440485	Avenue du Progrès	tertiary	1	0	0	
+NE	2440485	Avenue du Travail	unclassified	1	0	0	
+NE	2440485	Avenue du Ténéré	unclassified	1	0	0	
+NE	2440485	Boulevard 3 (CS 124)	unclassified	1	0	0	
+NE	2440485	Boulevard Agabba	secondary	1	0	0	
+NE	2440485	Boulevard Akazama	residential	1	0	0	
+NE	2440485	Boulevard Alfa Maman Djobo (KI-3)	secondary	1	0	0	
+NE	2440485	Boulevard Askia Mohamed	primary	1	0	0	
+NE	2440485	Boulevard Askia Nouhou	residential	1	0	0	
+NE	2440485	Boulevard Bawa Jan Gorzo	secondary	1	0	0	
+NE	2440485	Boulevard Ibraim Baré Maïnassara	secondary	1	0	0	
+NE	2440485	Boulevard Idriss Alaoma	residential	1	0	0	
+NE	2440485	Boulevard Issa Korombé	tertiary	1	0	0	
+NE	2440485	Boulevard Malam Younouss	primary	1	0	0	
+NE	2440485	Boulevard Mali Bero	primary	1	0	0	
+NE	2440485	Boulevard Mohamed Al Kanemi	residential	1	0	0	
+NE	2440485	Boulevard Za Kossey	unclassified	1	0	0	
+NE	2440485	Boulevard Zabarkan	tertiary	1	0	0	
+NE	2440485	Boulevard de Gourma	primary	1	0	0	
+NE	2440485	Boulevard de la Jeunesse	tertiary	1	0	0	
+NE	2440485	Boulevard de la Nation	unclassified	1	0	0	
+NE	2440485	Boulevard de la République	secondary	1	0	0	
+NE	2440485	Boulevard des Ambassades	secondary	1	0	0	
+NE	2440485	Boulevard des Saraounya	secondary	1	0	0	
+NE	2440485	Boulevard du Zarmaganda	primary	1	0	0	
+NE	2440485	Corniche de Gamkale	residential	1	0	0	
+NE	2440485	Corniche de Yantala	unclassified	1	0	0	
+NE	2440485	Dr Boubé Gado	unclassified	1	0	0	
+NE	2440485	Echangeur Diori Hamani	primary	1	0	0	
+NE	2440485	Echangeur Tanja Mamadou	primary	1	0	0	
+NE	2440485	Echangeur des Martyrs	primary	1	0	0	
+NE	2440485	GM - 7	residential	1	0	0	
+NE	2440485	Impasse NB - 91	residential	1	0	0	
+NE	2440485	Impasse NB - 99	residential	1	0	0	
+NE	2440485	Impasse YN - 213.365	residential	1	0	0	
+NE	2440485	N4	primary	1	0	0	
+NE	2440485	Place Adamou Moumouni Zermakoye	tertiary	1	0	0	
+NE	2440485	Place Mammanet	tertiary	1	0	0	
+NE	2440485	Place Nelson Mandela	primary	1	0	0	
+NE	2440485	Place Rue RF - 50	residential	1	0	0	
+NE	2440485	Place de la République	tertiary	1	0	0	
+NE	2440485	Place des Artisans	primary	1	0	0	
+NE	2440485	Place des Nations Unies	primary	1	0	0	
+NE	2440485	Pont Général Seini Kountché	primary	1	0	0	
+NE	2440485	Pont Kennedy	primary	1	0	0	
+NE	2440485	Pr Hamidou Arouna Sidikou	unclassified	1	0	0	
+NE	2440485	RUE - CI 30	residential	1	0	0	
+NE	2440485	RUE CI - 38	residential	1	0	0	
+NE	2440485	Rond-Point Askia	primary	1	0	0	
+NE	2440485	Rond-Point Baré	secondary	1	0	0	
+NE	2440485	Rond-Point Ecobank	secondary	1	0	0	
+NE	2440485	Rond-Point Faro Faro	tertiary	1	0	0	
+NE	2440485	Rond-Point Kennedy	primary	1	0	0	
+NE	2440485	Rond-Point Koborba Do	secondary	1	0	0	
+NE	2440485	Rond-Point Niamey N'yala	primary	1	0	0	
+NE	2440485	Rond-Point Pain Doré	secondary	1	0	0	
+NE	2440485	Rond-Point Salou Djibo	secondary	1	0	0	
+NE	2440485	Rond-Point d'Oriba	primary	1	0	0	
+NE	2440485	Rond-Point de Maourey	tertiary	1	0	0	
+NE	2440485	Rond-Point du Grand Hôtel	tertiary	1	0	0	
+NE	2440485	Rond-point Dokin Iska Dan Filingué	primary	1	0	0	
+NE	2440485	Ront Point Police Secours	primary	1	0	0	
+NE	2440485	Route Niamey-Filingué	primary	1	0	0	
+NE	2440485	Route Torodi	primary	1	0	0	
+NE	2440485	Route de Say	secondary	1	0	0	
+NE	2440485	Rue - - 89	residential	1	0	0	
+NE	2440485	Rue - CI 21	residential	1	0	0	
+NE	2440485	Rue - CI 44	residential	1	0	0	
+NE	2440485	Rue AM - 10	residential	1	0	0	
+NE	2440485	Rue AM - 11	residential	1	0	0	
+NE	2440485	Rue AM - 12	residential	1	0	0	
+NE	2440485	Rue AM - 13	residential	1	0	0	
+NE	2440485	Rue AM - 132	residential	1	0	0	
+NE	2440485	Rue AM - 14	residential	1	0	0	
+NE	2440485	Rue AM - 15	residential	1	0	0	
+NE	2440485	Rue AM - 16	residential	1	0	0	
+NE	2440485	Rue AM - 17	residential	1	0	0	
+NE	2440485	Rue AM - 18	residential	1	0	0	
+NE	2440485	Rue AM - 19	residential	1	0	0	
+NE	2440485	Rue AM - 21	residential	1	0	0	
+NE	2440485	Rue AM - 6	residential	1	0	0	
+NE	2440485	Rue AM - 8	residential	1	0	0	
+NE	2440485	Rue AM - 9	residential	1	0	0	
+NE	2440485	Rue Abdou Neino dit Dan Anko	residential	1	0	0	
+NE	2440485	Rue Aichatou Tahirou dite Dalwayzé	residential	1	0	0	
+NE	2440485	Rue Alassane Sidik Danté	residential	1	0	0	
+NE	2440485	Rue Alfa Darbani	unclassified	1	0	0	
+NE	2440485	Rue Alfa Hanafi Sekou Balibali	residential	1	0	0	
+NE	2440485	Rue Alfa Soumaila Mahamadou	residential	1	0	0	
+NE	2440485	Rue Ali Soumana dit Samari Goudel	unclassified	1	0	0	
+NE	2440485	Rue Alou Himadou Badara	tertiary	1	0	0	
+NE	2440485	Rue Alpha Seybou	unclassified	1	0	0	
+NE	2440485	Rue BB 13	residential	1	0	0	
+NE	2440485	Rue BB 54	residential	1	0	0	
+NE	2440485	Rue BB 6	residential	1	0	0	
+NE	2440485	Rue BB 73	residential	1	0	0	
+NE	2440485	Rue BB 75	residential	1	0	0	
+NE	2440485	Rue BB- 10	residential	1	0	0	
+NE	2440485	Rue BB- 20	residential	1	0	0	
+NE	2440485	Rue BB- 28	residential	1	0	0	
+NE	2440485	Rue BB- 36	unclassified	1	0	0	
+NE	2440485	Rue BB- 7	residential	1	0	0	
+NE	2440485	Rue BF - 10	residential	1	0	0	
+NE	2440485	Rue BF - 100	residential	1	0	0	
+NE	2440485	Rue BF - 103	residential	1	0	0	
+NE	2440485	Rue BF - 105	residential	1	0	0	
+NE	2440485	Rue BF - 107	residential	1	0	0	
+NE	2440485	Rue BF - 109	residential	1	0	0	
+NE	2440485	Rue BF - 111	residential	1	0	0	
+NE	2440485	Rue BF - 113	residential	1	0	0	
+NE	2440485	Rue BF - 115	residential	1	0	0	
+NE	2440485	Rue BF - 117	residential	1	0	0	
+NE	2440485	Rue BF - 119	residential	1	0	0	
+NE	2440485	Rue BF - 12	residential	1	0	0	
+NE	2440485	Rue BF - 121	residential	1	0	0	
+NE	2440485	Rue BF - 123	residential	1	0	0	
+NE	2440485	Rue BF - 124	residential	1	0	0	
+NE	2440485	Rue BF - 125	residential	1	0	0	
+NE	2440485	Rue BF - 126	residential	1	0	0	
+NE	2440485	Rue BF - 127	residential	1	0	0	
+NE	2440485	Rue BF - 128	residential	1	0	0	
+NE	2440485	Rue BF - 129	residential	1	0	0	
+NE	2440485	Rue BF - 13	residential	1	0	0	
+NE	2440485	Rue BF - 130	residential	1	0	0	
+NE	2440485	Rue BF - 131	residential	1	0	0	
+NE	2440485	Rue BF - 132	residential	1	0	0	
+NE	2440485	Rue BF - 133	residential	1	0	0	
+NE	2440485	Rue BF - 134	residential	1	0	0	
+NE	2440485	Rue BF - 135	residential	1	0	0	
+NE	2440485	Rue BF - 136	residential	1	0	0	
+NE	2440485	Rue BF - 137	residential	1	0	0	
+NE	2440485	Rue BF - 138	residential	1	0	0	
+NE	2440485	Rue BF - 139	residential	1	0	0	
+NE	2440485	Rue BF - 14	residential	1	0	0	
+NE	2440485	Rue BF - 140	residential	1	0	0	
+NE	2440485	Rue BF - 141	residential	1	0	0	
+NE	2440485	Rue BF - 142	residential	1	0	0	
+NE	2440485	Rue BF - 143	residential	1	0	0	
+NE	2440485	Rue BF - 144	residential	1	0	0	
+NE	2440485	Rue BF - 146	residential	1	0	0	
+NE	2440485	Rue BF - 147	residential	1	0	0	
+NE	2440485	Rue BF - 148	residential	1	0	0	
+NE	2440485	Rue BF - 149	residential	1	0	0	
+NE	2440485	Rue BF - 15	residential	1	0	0	
+NE	2440485	Rue BF - 150	residential	1	0	0	
+NE	2440485	Rue BF - 151	residential	1	0	0	
+NE	2440485	Rue BF - 152	residential	1	0	0	
+NE	2440485	Rue BF - 153	residential	1	0	0	
+NE	2440485	Rue BF - 154	residential	1	0	0	
+NE	2440485	Rue BF - 155	residential	1	0	0	
+NE	2440485	Rue BF - 156	residential	1	0	0	
+NE	2440485	Rue BF - 157	residential	1	0	0	
+NE	2440485	Rue BF - 158	residential	1	0	0	
+NE	2440485	Rue BF - 159	residential	1	0	0	
+NE	2440485	Rue BF - 162	residential	1	0	0	
+NE	2440485	Rue BF - 163	residential	1	0	0	
+NE	2440485	Rue BF - 164	residential	1	0	0	
+NE	2440485	Rue BF - 166	residential	1	0	0	
+NE	2440485	Rue BF - 167	unclassified	1	0	0	
+NE	2440485	Rue BF - 168	residential	1	0	0	
+NE	2440485	Rue BF - 169	residential	1	0	0	
+NE	2440485	Rue BF - 17	residential	1	0	0	
+NE	2440485	Rue BF - 170	secondary	1	0	0	
+NE	2440485	Rue BF - 171	residential	1	0	0	
+NE	2440485	Rue BF - 173	residential	1	0	0	
+NE	2440485	Rue BF - 175	residential	1	0	0	
+NE	2440485	Rue BF - 177	unclassified	1	0	0	
+NE	2440485	Rue BF - 179	residential	1	0	0	
+NE	2440485	Rue BF - 18	residential	1	0	0	
+NE	2440485	Rue BF - 181	residential	1	0	0	
+NE	2440485	Rue BF - 185	residential	1	0	0	
+NE	2440485	Rue BF - 193	residential	1	0	0	
+NE	2440485	Rue BF - 195	residential	1	0	0	
+NE	2440485	Rue BF - 197	residential	1	0	0	
+NE	2440485	Rue BF - 20	residential	1	0	0	
+NE	2440485	Rue BF - 203	residential	1	0	0	
+NE	2440485	Rue BF - 205	residential	1	0	0	
+NE	2440485	Rue BF - 207	residential	1	0	0	
+NE	2440485	Rue BF - 209	residential	1	0	0	
+NE	2440485	Rue BF - 219	residential	1	0	0	
+NE	2440485	Rue BF - 22	residential	1	0	0	
+NE	2440485	Rue BF - 221	residential	1	0	0	
+NE	2440485	Rue BF - 225	residential	1	0	0	
+NE	2440485	Rue BF - 227	residential	1	0	0	
+NE	2440485	Rue BF - 229	residential	1	0	0	
+NE	2440485	Rue BF - 231	residential	1	0	0	
+NE	2440485	Rue BF - 24	residential	1	0	0	
+NE	2440485	Rue BF - 241	unclassified	1	0	0	
+NE	2440485	Rue BF - 243	residential	1	0	0	
+NE	2440485	Rue BF - 245	residential	1	0	0	
+NE	2440485	Rue BF - 247	residential	1	0	0	
+NE	2440485	Rue BF - 249	residential	1	0	0	
+NE	2440485	Rue BF - 25	residential	1	0	0	
+NE	2440485	Rue BF - 26	residential	1	0	0	
+NE	2440485	Rue BF - 27	residential	1	0	0	
+NE	2440485	Rue BF - 28	residential	1	0	0	
+NE	2440485	Rue BF - 3	residential	1	0	0	
+NE	2440485	Rue BF - 30	residential	1	0	0	
+NE	2440485	Rue BF - 32	residential	1	0	0	
+NE	2440485	Rue BF - 34	residential	1	0	0	
+NE	2440485	Rue BF - 35	residential	1	0	0	
+NE	2440485	Rue BF - 36	residential	1	0	0	
+NE	2440485	Rue BF - 38	residential	1	0	0	
+NE	2440485	Rue BF - 39	residential	1	0	0	
+NE	2440485	Rue BF - 4	residential	1	0	0	
+NE	2440485	Rue BF - 40	residential	1	0	0	
+NE	2440485	Rue BF - 42	residential	1	0	0	
+NE	2440485	Rue BF - 44	unclassified	1	0	0	
+NE	2440485	Rue BF - 45	residential	1	0	0	
+NE	2440485	Rue BF - 46	residential	1	0	0	
+NE	2440485	Rue BF - 47	residential	1	0	0	
+NE	2440485	Rue BF - 48	residential	1	0	0	
+NE	2440485	Rue BF - 49	residential	1	0	0	
+NE	2440485	Rue BF - 5	residential	1	0	0	
+NE	2440485	Rue BF - 50	residential	1	0	0	
+NE	2440485	Rue BF - 51	residential	1	0	0	
+NE	2440485	Rue BF - 52	residential	1	0	0	
+NE	2440485	Rue BF - 54	residential	1	0	0	
+NE	2440485	Rue BF - 55	residential	1	0	0	
+NE	2440485	Rue BF - 56	residential	1	0	0	
+NE	2440485	Rue BF - 57	residential	1	0	0	
+NE	2440485	Rue BF - 58	residential	1	0	0	
+NE	2440485	Rue BF - 59	residential	1	0	0	
+NE	2440485	Rue BF - 6	residential	1	0	0	
+NE	2440485	Rue BF - 60	residential	1	0	0	
+NE	2440485	Rue BF - 62	residential	1	0	0	
+NE	2440485	Rue BF - 64	residential	1	0	0	
+NE	2440485	Rue BF - 65	residential	1	0	0	
+NE	2440485	Rue BF - 66	residential	1	0	0	
+NE	2440485	Rue BF - 67	residential	1	0	0	
+NE	2440485	Rue BF - 68	residential	1	0	0	
+NE	2440485	Rue BF - 69	residential	1	0	0	
+NE	2440485	Rue BF - 71	residential	1	0	0	
+NE	2440485	Rue BF - 72	residential	1	0	0	
+NE	2440485	Rue BF - 73	residential	1	0	0	
+NE	2440485	Rue BF - 74	residential	1	0	0	
+NE	2440485	Rue BF - 75	residential	1	0	0	
+NE	2440485	Rue BF - 76	residential	1	0	0	
+NE	2440485	Rue BF - 77	secondary	1	0	0	
+NE	2440485	Rue BF - 78	residential	1	0	0	
+NE	2440485	Rue BF - 79	residential	1	0	0	
+NE	2440485	Rue BF - 8	residential	1	0	0	
+NE	2440485	Rue BF - 80	residential	1	0	0	
+NE	2440485	Rue BF - 81	residential	1	0	0	
+NE	2440485	Rue BF - 82	residential	1	0	0	
+NE	2440485	Rue BF - 83	residential	1	0	0	
+NE	2440485	Rue BF - 84	residential	1	0	0	
+NE	2440485	Rue BF - 85	residential	1	0	0	
+NE	2440485	Rue BF - 87	residential	1	0	0	
+NE	2440485	Rue BF - 88	residential	1	0	0	
+NE	2440485	Rue BF - 89	residential	1	0	0	
+NE	2440485	Rue BF - 9	residential	1	0	0	
+NE	2440485	Rue BF - 90	residential	1	0	0	
+NE	2440485	Rue BF - 91	residential	1	0	0	
+NE	2440485	Rue BF - 92	residential	1	0	0	
+NE	2440485	Rue BF - 93	residential	1	0	0	
+NE	2440485	Rue BF - 94	residential	1	0	0	
+NE	2440485	Rue BF - 95	residential	1	0	0	
+NE	2440485	Rue BF - 97	residential	1	0	0	
+NE	2440485	Rue BF - 98	residential	1	0	0	
+NE	2440485	Rue BF - 99	residential	1	0	0	
+NE	2440485	Rue BK - 1	residential	1	0	0	
+NE	2440485	Rue BK - 10	residential	1	0	0	
+NE	2440485	Rue BK - 101	residential	1	0	0	
+NE	2440485	Rue BK - 105	residential	1	0	0	
+NE	2440485	Rue BK - 11	residential	1	0	0	
+NE	2440485	Rue BK - 15	residential	1	0	0	
+NE	2440485	Rue BK - 16	residential	1	0	0	
+NE	2440485	Rue BK - 18	residential	1	0	0	
+NE	2440485	Rue BK - 19	residential	1	0	0	
+NE	2440485	Rue BK - 2	tertiary	1	0	0	
+NE	2440485	Rue BK - 20	residential	1	0	0	
+NE	2440485	Rue BK - 22	residential	1	0	0	
+NE	2440485	Rue BK - 23	residential	1	0	0	
+NE	2440485	Rue BK - 24	residential	1	0	0	
+NE	2440485	Rue BK - 25	residential	1	0	0	
+NE	2440485	Rue BK - 29	residential	1	0	0	
+NE	2440485	Rue BK - 3	residential	1	0	0	
+NE	2440485	Rue BK - 30	residential	1	0	0	
+NE	2440485	Rue BK - 31	residential	1	0	0	
+NE	2440485	Rue BK - 32	residential	1	0	0	
+NE	2440485	Rue BK - 35	residential	1	0	0	
+NE	2440485	Rue BK - 36	residential	1	0	0	
+NE	2440485	Rue BK - 37	residential	1	0	0	
+NE	2440485	Rue BK - 38	residential	1	0	0	
+NE	2440485	Rue BK - 4	residential	1	0	0	
+NE	2440485	Rue BK - 40	residential	1	0	0	
+NE	2440485	Rue BK - 41	residential	1	0	0	
+NE	2440485	Rue BK - 42	residential	1	0	0	
+NE	2440485	Rue BK - 44	residential	1	0	0	
+NE	2440485	Rue BK - 48	unclassified	1	0	0	
+NE	2440485	Rue BK - 5	residential	1	0	0	
+NE	2440485	Rue BK - 50	residential	1	0	0	
+NE	2440485	Rue BK - 51	residential	1	0	0	
+NE	2440485	Rue BK - 52	residential	1	0	0	
+NE	2441217	N10	primary	1	0	0	
+NE	2441291	Avenue Dan Koulodo	tertiary	1	0	0	
+NE	2441291	Avenue Diori Hamani	secondary	1	0	0	
+NE	2441291	Avenue Mahamadou Tandja	secondary	1	0	0	
+NE	2441291	Avenue Mohamed VI	tertiary	1	0	0	
+NE	2441291	N18	secondary	1	0	0	
+NE	2441291	Rond point Andoumé	tertiary	1	0	0	
+NE	2441291	Rond-Point de la Mairie Centrale	secondary	1	0	0	
+NE	2441291	Rond-Point du Palais Royal	tertiary	1	0	0	
+NE	2441291	Rue 008	residential	1	0	0	
+NE	2441291	Rue 009	residential	1	0	0	
+NE	2441291	Rue ADS R074	residential	1	0	0	
+NE	2441291	Rue Albert Lobit	residential	1	0	0	
+NE	2441291	Rue Balley	residential	1	0	0	
+NE	2441291	Rue Batoure Toure	unclassified	1	0	0	
+NE	2441291	Rue Batouré Bako	secondary	1	0	0	
+NE	2441291	Rue Rhony Issoufou	residential	1	0	0	
+NE	2441291	Rue Salaou Barmou	residential	1	0	0	
+NE	2441291	Rue de la France	residential	1	0	0	
+NE	2441291	Rue Étienne Gnassingbé Eyadéma	residential	1	0	0	
+NE	2441482	Magaria	residential	1	0	0	
+NE	2441482	N11	primary	1	0	0	
+NE	2441530	Babbar Santar Zagayen Gari	tertiary	1	0	0	
+NE	2441530	El Kokkorda	residential	1	0	0	
+NE	2441530	El Kokkorda Gangaré	residential	1	0	0	
+NE	2441530	El Kokkorda Jamoul	residential	1	0	0	
+NE	2441530	El Kokkorda Roumji	residential	1	0	0	
+NE	2441530	N16	tertiary	1	0	0	
+NE	2441530	Santar Massaraoutar Gobir (Rue de la Chefferie)	residential	1	0	0	
+NE	2441530	Santar Matassa (Rue des Jeunes)	residential	1	0	0	
+NE	2441632	N14	primary	1	0	0	
+NE	2442248	Voie vers Cité de l'inovation	unclassified	1	0	0	
+NE	2442705	N10	primary	1	0	0	
+NE	2443192	ingall-Aggogh	secondary	1	0	0	
+NE	2443304	N15	primary	1	0	0	
+NE	2444329	N4	primary	1	0	0	
+NE	2444489	Ancien Pont Gaya-Malanville	unclassified	1	0	0	
+NE	2444489	N7	primary	1	0	0	
+NE	2444489	RNIE	primary	1	0	0	
+NE	2445645	N2	primary	1	0	0	
+NE	2445704	Pont Kogui	tertiary	1	0	0	
+NE	2445704	Route Nationale 41	tertiary	1	0	0	
+NE	2445704	Rue du Grand Marché	tertiary	1	0	0	
+NE	2446466	N16	tertiary	1	0	0	
+NE	2446796	Route Nationale 56	primary	1	0	0	
+NE	2447078	N5	primary	1	0	0	
+NE	2447291	N15	primary	1	0	0	
+NE	2447513	N11	primary	1	0	0	
+NE	2448085	Je ne Sais pas	residential	1	0	0	
+NE	2448085	N11	primary	1	0	0	
+NE	2448085	Pont Telwa	primary	1	0	0	
+NE	2448085	Route de l'Aéroport	tertiary	1	0	0	
+NE	2448085	Route de l'Aéroport طريق المطار	secondary	1	0	0	
+NE	2448085	Trans-Sahara	primary	1	0	0	
+NE	2448085	X2M9+W3P	unclassified	1	0	0	
+NE	2448085	X2P7+XM5	unclassified	1	0	0	
+NE	2448150	N11	primary	1	0	0	
+NE	8624379	N11	primary	1	0	0	

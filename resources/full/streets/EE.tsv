@@ -1,0 +1,3092 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+EE	587440	Vana	tertiary	244	4	93	
+EE	587440	Carl Robert Jakobsoni	residential	150	3	53	
+EE	587440	Pikk	residential	88	2	44	
+EE	587440	Pärnu-Paide mnt	secondary	78	3	44	
+EE	587440	Lohu	residential	77	3	38	
+EE	587440	Uus	residential	74	1	28	
+EE	587440	Turu	residential	65	2	24	
+EE	587440	Jaama	residential	59	2	20	
+EE	587440	Johann Voldemar Jannseni	residential	59	1	13	
+EE	587440	Vihtra tee	tertiary	59	1	22	
+EE	587440	Jõesuu tee	tertiary	55	1	22	
+EE	587440	Pargi	residential	55	3	29	
+EE	587450	Friedrich Reinhold Kreutzwaldi	secondary	284	9	116	
+EE	587450	Jüri	tertiary	199	2	80	
+EE	587450	Võrumõisa tee	tertiary	155	4	114	
+EE	587450	Pikk	tertiary	138	4	36	
+EE	587450	Räpina mnt	secondary	135	1	39	
+EE	587450	Vilja	tertiary	128	3	57	
+EE	587450	Jaama	tertiary	123	4	69	
+EE	587450	Tallinna mnt	secondary	121	2	46	
+EE	587450	Karja	residential	118	3	38	
+EE	587450	Männiku	unclassified	111	7	49	
+EE	587450	Tartu	secondary	104	2	55	
+EE	587450	Kose tee	secondary	101	1	65	
+EE	587450	Raudtee	residential	94	19	67	
+EE	587450	Meegomäe tee	residential	92	1	49	
+EE	587450	Roosi	residential	88	2	49	
+EE	587450	Laululava tee	unclassified	81	2	45	
+EE	587450	Järve	residential	80	2	31	
+EE	587450	Piiri	residential	74	5	50	
+EE	587450	Põllu	residential	72	1	14	
+EE	587450	Liiva	pedestrian	70	1	26	
+EE	587450	Kubja tee	secondary	67	3	54	
+EE	587450	Lydia Koidula	residential	65	1	32	
+EE	587450	Luha	residential	62	4	58	
+EE	587450	Koreli	residential	60	3	85	
+EE	587474	Tartu	tertiary	119	2	40	
+EE	587474	Kooli tee	unclassified	65	1	20	
+EE	587474	Ringi tee	unclassified	50	1	12	
+EE	587474	Kastre tee	tertiary	48	3	19	
+EE	587474	Karja tee	residential	42	1	22	
+EE	587474	Poka tee	tertiary	25	20	42	
+EE	587474	Tööstuse tee	tertiary	21	1	11	
+EE	587474	Pargi tee	residential	19	1	6	
+EE	587474	Tiigi tee	unclassified	12	1	6	
+EE	587474	Lepa tee	unclassified	5	1	6	
+EE	587474	Oraviku põik		2	11	15	
+EE	587474	Ahja — Võnnu	tertiary	1	0	0	
+EE	587491	Kalda	residential	30	2	21	
+EE	587491	Tiigi	residential	27	2	17	
+EE	587491	Konjumõisa tee	residential	25	8	36	
+EE	587491	Metsa	residential	24	4	22	
+EE	587491	Tööstuspargi	residential	24	2	23	
+EE	587491	Narva mnt	tertiary	19	1	15	
+EE	587491	Pargi	tertiary	18	12	24	
+EE	587491	Ranniku	residential	8	8	14	
+EE	587491	Aia	residential	7	1	6	
+EE	587491	Välja	tertiary	7	2	4	
+EE	587491	Ühistu tee		6	1	3	
+EE	587491	Männiku	residential	4	1	3	
+EE	587497	Uus	residential	24	2	18	
+EE	587497	Kaldeni	residential	22	1	10	
+EE	587497	Oja	residential	19	1	16	
+EE	587497	Pärivere tee	tertiary	19	1	17	
+EE	587497	Pärnu mnt		19	2	9	
+EE	587497	Põllu	residential	13	1	10	
+EE	587497	Lepplaane	residential	12	2	9	
+EE	587497	Ritsika	residential	12	1	20	
+EE	587497	Vana	residential	12	1	5	
+EE	587497	Tori tee	tertiary	11	1	6	
+EE	587497	Kuuse	residential	8	1	6	
+EE	587497	Metsa	residential	7	1	3	
+EE	587499	Võisiku tee	unclassified	34	5	18	
+EE	587499	Esku — Pilistvere — Arussaare	tertiary	1	0	0	
+EE	587499	Esku — Võisiku	tertiary	1	0	0	
+EE	587499	Põltsamaa — Võhma	secondary	1	0	0	
+EE	587499	Rõstla — Paenasti	tertiary	1	0	0	
+EE	587499	Rõstla — Vitsjärve	tertiary	1	0	0	
+EE	587499	Viljandi — Põltsamaa	secondary	1	0	0	
+EE	587499	Võisiku-Kundrussaare tee	unclassified	1	0	0	
+EE	587517	Tallinna	tertiary	107	5	47	
+EE	587517	Pärna	residential	50	1	48	
+EE	587517	Aia	residential	47	4	21	
+EE	587517	Silla	residential	47	1	10	
+EE	587517	Tartu	tertiary	47	1	8	
+EE	587517	Koidu	residential	43	4	23	
+EE	587517	Tooma	residential	43	1	21	
+EE	587517	Väike	tertiary	43	4	22	
+EE	587517	Sireli	tertiary	38	1	19	
+EE	587517	Rukkilille	residential	34	5	25	
+EE	587517	Lille	residential	30	1	9	
+EE	587517	Viljandi	tertiary	26	1	11	
+EE	587550	Tartu mnt	secondary	123	1	33	
+EE	587550	Allika	unclassified	90	2	36	
+EE	587550	Mäekalda	residential	57	2	21	
+EE	587550	Valeliku tee	unclassified	36	1	19	
+EE	587550	Allee tee	residential	29	1	18	
+EE	587550	Aru	tertiary	29	2	12	
+EE	587550	Sinilille	tertiary	28	1	16	
+EE	587550	Veski	tertiary	27	1	14	
+EE	587550	Roosi	residential	25	1	8	
+EE	587550	Aravuse tee	tertiary	23	1	10	
+EE	587550	Alekvere tee	residential	18	1	11	
+EE	587550	Aida	residential	17	1	17	
+EE	587559	Tallinna mnt	primary	138	3	43	
+EE	587559	Mere pst	residential	88	2	24	
+EE	587559	Majaka	residential	65	1	34	
+EE	587559	Puhtu tee	tertiary	42	2	14	
+EE	587559	Põhja pst	tertiary	38	1	15	
+EE	587559	Rahu	residential	34	1	14	
+EE	587559	Linnamäe	residential	32	1	13	
+EE	587559	Uus	residential	32	1	9	
+EE	587559	Raudtee	residential	31	3	26	
+EE	587559	Metsa	residential	30	2	29	
+EE	587559	Pargi	residential	28	2	10	
+EE	587559	Tööstuse	residential	27	1	11	
+EE	587571	Sõpruse	tertiary	29	1	22	
+EE	587571	Metsa	residential	26	1	23	
+EE	587571	Tööstuspargi		19	1	22	
+EE	587571	Metsakaare	residential	13	1	5	
+EE	587571	Looduse	residential	12	2	6	
+EE	587571	Põllu	residential	12	1	12	
+EE	587571	Tamme	residential	12	1	15	
+EE	587571	Täkusamba tee	residential	12	1	6	
+EE	587571	Vana-Vallamaja	unclassified	12	4	12	
+EE	587571	Mõdriku tee	tertiary	11	1	12	
+EE	587571	Farmi		10	1	10	
+EE	587571	Muru	residential	10	1	7	
+EE	587577	Suur-Kaare	residential	392	7	112	
+EE	587577	Tartu	tertiary	293	1	117	
+EE	587577	Tallinna	secondary	235	3	105	
+EE	587577	Carl Robert Jakobsoni	primary	200	2	72	
+EE	587577	Riia mnt	secondary	180	3	93	
+EE	587577	Leola	tertiary	157	4	69	
+EE	587577	Uus	primary	141	10	56	
+EE	587577	Paala tee	tertiary	132	6	63	
+EE	587577	Reinu tee	tertiary	130	3	44	
+EE	587577	Kalevi	residential	107	3	44	
+EE	587577	Posti	residential	106	3	42	
+EE	587577	Ilmarise	residential	105	1	33	
+EE	587577	Vaksali	primary	103	3	44	
+EE	587577	Pärnu mnt	primary	100	3	37	
+EE	587577	Toome	residential	97	2	31	
+EE	587577	Lina	residential	94	2	45	
+EE	587577	Endla	residential	92	4	45	
+EE	587577	Lossi	residential	86	5	42	
+EE	587577	Kullamäe	residential	83	2	45	
+EE	587577	Põhja pst	residential	81	2	47	
+EE	587577	Valuoja pst	tertiary	81	4	51	
+EE	587577	Kevade	residential	76	2	43	
+EE	587577	Köstri	residential	75	2	30	
+EE	587577	Oja tee	residential	73	2	37	
+EE	587577	Kesk-Kaare	residential	72	3	50	
+EE	587577	Mureli	living_street	71	3	36	
+EE	587577	Kalda pst	residential	69	3	48	
+EE	587577	Uueveski tee	residential	68	1	25	
+EE	587577	Lembitu pst	tertiary	66	2	30	
+EE	587577	Külvi	residential	64	3	36	
+EE	587577	Raua	tertiary	64	1	16	
+EE	587577	Rehe	residential	64	6	60	
+EE	587577	Kirsi	living_street	60	2	44	
+EE	587577	Pikk	residential	59	2	39	
+EE	587577	Väike-Kaare	residential	58	4	36	
+EE	587577	Kauge	tertiary	57	4	32	
+EE	587577	Ugala pst	residential	57	3	45	
+EE	587577	Kase tee	residential	56	1	24	
+EE	587577	Vilja	residential	56	2	21	
+EE	587577	August Maramaa pst	residential	55	1	42	
+EE	587577	Musta tee	secondary	54	3	30	
+EE	587577	Meeme	residential	52	3	25	
+EE	587577	Papli	residential	52	1	17	
+EE	587577	Kondi tee	residential	50	1	31	
+EE	587577	Ploomi	living_street	50	5	36	
+EE	587577	Puidu	residential	49	2	17	
+EE	587577	Kase	residential	45	2	37	
+EE	587577	Künni	residential	45	1	28	
+EE	587620	Sakala	living_street	88	4	56	
+EE	587620	Väluste tee	tertiary	56	2	38	
+EE	587620	Heina	living_street	46	3	40	
+EE	587620	Sõpruse	living_street	43	3	33	
+EE	587620	Ristiku	living_street	40	2	33	
+EE	587620	Uusna tee	tertiary	36	2	29	
+EE	587620	Nooruse	residential	33	2	24	
+EE	587620	Iva tee	unclassified	25	15	24	
+EE	587620	Lastekodu		18	2	6	
+EE	587620	Pärna tee	residential	18	1	16	
+EE	587620	Niidu	living_street	17	1	17	
+EE	587620	Aasa	living_street	16	1	8	
+EE	587629	Kannikese tee	residential	141	2	10	
+EE	587629	Aiandi tee	unclassified	58	2	28	
+EE	587629	Suur-Kaare tee	residential	55	8	56	
+EE	587629	Kesk-Kaare tee	residential	54	3	45	
+EE	587629	Hallikivi tee	residential	44	2	38	
+EE	587629	Mereääre tee	residential	41	7	50	
+EE	587629	Väike-Kaare tee	residential	37	5	39	
+EE	587629	Paenurme tee	residential	36	14	43	
+EE	587629	Tammeõue tee	residential	29	2	35	
+EE	587629	Pargi tee	residential	28	3	10	
+EE	587629	Paevälja tee	residential	27	1	26	
+EE	587629	Vikerkaare tee	residential	27	1	22	
+EE	587667	Jaama	tertiary	76	2	47	
+EE	587667	Räpina mnt	secondary	69	1	32	
+EE	587667	Vana tee	residential	55	2	21	
+EE	587667	Mõisavahe tee	residential	52	2	25	
+EE	587667	Metsa	residential	40	1	20	
+EE	587667	Mustaoja	residential	37	3	23	
+EE	587667	Oja	residential	25	1	12	
+EE	587667	Uus	residential	15	1	7	
+EE	587667	Järve	residential	8	1	4	
+EE	587667	Aia	residential	5	1	1	
+EE	587667	Keskuse	residential	3	1	1	
+EE	587667	Talu tee		3	2	2	
+EE	587699	Haapsalu mnt	secondary	183	1	26	
+EE	587699	Jaani	residential	112	7	44	
+EE	587699	Pärna	residential	98	4	37	
+EE	587699	Jaama	tertiary	81	1	48	
+EE	587699	Roosi	residential	79	4	33	
+EE	587699	Suvila	residential	61	1	17	
+EE	587699	Lootuse	residential	54	1	23	
+EE	587699	Nõmme	residential	49	2	24	
+EE	587699	Hingu tee		48	7	54	
+EE	587699	Kesk	residential	48	1	21	
+EE	587699	Kooli	residential	41	1	11	
+EE	587699	Aia	residential	39	2	18	
+EE	587711	Võidu	tertiary	159	2	64	
+EE	587711	Võru	tertiary	42	1	17	
+EE	587711	Tööstuse	residential	38	1	18	
+EE	587711	Pikk	residential	33	1	22	
+EE	587711	Tootmise		30	1	12	
+EE	587711	Rahu	residential	28	1	9	
+EE	587711	Metsa	residential	19	1	7	
+EE	587711	Niidu	residential	15	1	10	
+EE	587711	Pätisilla tee	unclassified	15	3	15	
+EE	587711	Ülase	residential	13	1	9	
+EE	587711	Turu	residential	12	1	4	
+EE	587711	Kooli	residential	11	2	4	
+EE	587713	Lootvina tee	tertiary	47	4	23	
+EE	587713	Kaare	residential	44	3	19	
+EE	587713	Jaama	unclassified	32	1	19	
+EE	587713	Kesktänav	tertiary	31	2	20	
+EE	587713	Vanatamme tee	unclassified	29	1	13	
+EE	587713	Pargi	residential	28	2	24	
+EE	587713	Tööstuse	unclassified	22	4	26	
+EE	587713	Ahja tee	tertiary	19	1	11	
+EE	587713	Koidu tee	unclassified	19	1	12	
+EE	587713	Karikakra	residential	12	2	10	
+EE	587713	Tiigi		11	2	9	
+EE	587713	Lasteaia		3	2	3	
+EE	587739	Pikk	tertiary	120	1	56	
+EE	587739	Mäe	secondary	88	9	35	
+EE	587739	Soelaane	residential	72	3	34	
+EE	587739	Kalda	residential	51	2	19	
+EE	587739	Tonja tee	unclassified	45	1	33	
+EE	587739	Papiristi	residential	44	4	24	
+EE	587739	Allika	residential	34	1	15	
+EE	587739	Kooli	unclassified	34	4	14	
+EE	587739	Paul Haavaoksa	residential	30	2	24	
+EE	587739	Tobrokamäe	residential	30	1	19	
+EE	587739	Külavahe tee	residential	22	3	17	
+EE	587739	Pedaja	residential	21	2	12	
+EE	587775	Keskuse tee	residential	35	1	30	
+EE	587775	Kase tee	residential	31	1	15	
+EE	587775	Kivistiku	living_street	24	1	12	
+EE	587775	Nurmenuku tee		23	1	34	
+EE	587775	Looduse tee	living_street	20	1	22	
+EE	587775	Metsa tee	residential	20	1	13	
+EE	587775	Vaarika tee	residential	18	1	19	
+EE	587775	Vesiroosi tee	residential	13	30	52	
+EE	587775	Koolmeistri tee	living_street	12	1	10	
+EE	587775	Vana-Võidu pst	living_street	11	1	17	
+EE	587775	Aiandi tee		9	1	7	
+EE	587775	Vaarika põik	residential	9	1	8	
+EE	587777	Jaama	residential	56	4	30	
+EE	587777	Hirvepargi tee	tertiary	48	6	33	
+EE	587777	Raba tee	residential	40	1	20	
+EE	587777	Poti-Silla mnt	tertiary	33	9	19	
+EE	587777	Uus	residential	24	1	13	
+EE	587777	Pikk	tertiary	21	2	9	
+EE	587777	Kase	residential	11	1	9	
+EE	587777	Raua	residential	10	2	6	
+EE	587777	Raudtee	residential	7	10	14	
+EE	587777	Veetorni tee	residential	6	2	5	
+EE	587777	Hariduse	residential	5	2	4	
+EE	587777	Lasteaia põik		5	2	3	
+EE	587826	Valga mnt	tertiary	51	1	18	
+EE	587826	Kesk	tertiary	50	2	20	
+EE	587826	Järve	residential	30	1	8	
+EE	587826	Aia	residential	27	1	14	
+EE	587826	Antsla mnt	tertiary	22	2	12	
+EE	587826	Töökoja tee		20	1	14	
+EE	587826	Kalda	residential	14	1	5	
+EE	587826	Lusti tee	unclassified	14	1	16	
+EE	587826	Tare	residential	14	1	5	
+EE	587826	Tammiku	residential	13	2	19	
+EE	587826	Nurme	residential	8	1	7	
+EE	587826	Uue-Antsla tee	tertiary	6	1	2	
+EE	587827	Posti	tertiary	118	4	45	
+EE	587827	Varju	residential	30	2	15	
+EE	587827	Kiriku tee	tertiary	29	2	12	
+EE	587827	Köstri	residential	29	1	9	
+EE	587827	Teemeistri	residential	25	1	10	
+EE	587827	Pihlaka	residential	21	2	16	
+EE	587827	Tooma	residential	14	2	6	
+EE	587827	Tehase	residential	13	1	1	
+EE	587827	Kaare	residential	9	1	5	
+EE	587827	Kadaka	residential	9	1	6	
+EE	587827	Roosi	residential	8	2	6	
+EE	587827	Kalmistu tee	unclassified	6	1	4	
+EE	587839	Kordoni tee	residential	111	4	55	
+EE	587839	Tõusu tee	residential	67	1	35	
+EE	587839	Kaberneeme tee	residential	50	1	24	
+EE	587839	Rahvamaja tee	residential	45	1	30	
+EE	587839	Lauri tee	residential	39	4	25	
+EE	587839	Kullamäe tee	residential	32	1	23	
+EE	587839	Valklaranna tee	tertiary	30	9	42	
+EE	587839	Nõmme tee	residential	29	1	18	
+EE	587839	Kiviaia tee	residential	26	2	26	
+EE	587839	Pargi	residential	25	1	15	
+EE	587839	Lutteri tee	residential	20	1	17	
+EE	587839	Liiva tee		19	1	12	
+EE	587876	Võru	secondary	327	7	116	
+EE	587876	Tartu	primary	269	6	101	
+EE	587876	Julius Kuperjanovi	tertiary	238	8	103	
+EE	587876	Viljandi	primary	202	5	78	
+EE	587876	Kungla	residential	162	3	61	
+EE	587876	Pikk	tertiary	147	3	56	
+EE	587876	Lai	residential	136	4	57	
+EE	587876	Lille	residential	112	2	46	
+EE	587876	Valli	residential	106	3	39	
+EE	587876	Oru	residential	105	3	38	
+EE	587876	Piiri	residential	104	4	33	
+EE	587876	Kase	residential	88	1	25	
+EE	587876	Metsa	unclassified	88	3	29	
+EE	587876	Mäe	residential	88	2	30	
+EE	587876	Petseri	residential	80	2	40	
+EE	587876	Võnnu	residential	79	2	34	
+EE	587876	Kesk	residential	78	2	36	
+EE	587876	Pärna pst	residential	72	2	29	
+EE	587876	Vabaduse	secondary	71	4	39	
+EE	587876	Sõle	living_street	70	2	33	
+EE	587876	Ploomi	residential	69	2	36	
+EE	587876	Tiigi	residential	69	1	26	
+EE	587876	Ernst Enno	residential	68	1	38	
+EE	587876	Räni	residential	68	1	33	
+EE	587901	Lapi tee	tertiary	78	2	18	
+EE	587901	Pärna tee	tertiary	40	2	20	
+EE	587901	Pargi tee	residential	26	1	11	
+EE	587901	Järve tee	residential	24	1	14	
+EE	587901	Matussaare tee	residential	19	1	11	
+EE	587901	Staadioni		12	4	10	
+EE	587901	Kalda	residential	9	1	5	
+EE	587901	Põllu tee	residential	9	1	6	
+EE	587901	Põlva tee	secondary	9	1	9	
+EE	587901	Sireli	residential	9	1	5	
+EE	587901	Allika	residential	8	1	5	
+EE	587901	Väiso tee	residential	8	1	5	
+EE	587923	Jaama	tertiary	98	3	21	
+EE	587923	Pikk	secondary	95	1	34	
+EE	587923	Uus	residential	73	1	24	
+EE	587923	Aia	residential	69	3	30	
+EE	587923	Liiduri	tertiary	69	1	28	
+EE	587923	Energia	residential	50	3	34	
+EE	587923	Kolde	residential	44	3	23	
+EE	587923	Kalda	residential	31	2	12	
+EE	587923	Oru	residential	31	1	13	
+EE	587923	Metsa	residential	30	1	10	
+EE	587923	Simuna mnt	tertiary	29	4	18	
+EE	587923	Tööstuse	residential	28	1	20	
+EE	587938	Vana-Vaida tee	tertiary	61	4	40	
+EE	587938	Kukeseene tee	residential	48	2	32	
+EE	587938	Sirmiku tee	residential	45	1	43	
+EE	587938	Tuuliku tee	residential	38	1	10	
+EE	587938	Saarepargi tee	residential	37	3	24	
+EE	587938	Riisika tee	residential	36	3	35	
+EE	587938	Kivipuraviku tee	residential	33	4	30	
+EE	587938	Taevasmaa tee	living_street	32	1	21	
+EE	587938	Saare tee	tertiary	30	2	35	
+EE	587938	Golfi tee	unclassified	28	15	74	
+EE	587938	Pilviku tee	residential	27	1	37	
+EE	587938	Puraviku tee	residential	25	6	35	
+EE	587970	Pikk	tertiary	69	1	36	
+EE	587970	Ülejõe	residential	41	1	18	
+EE	587970	Järve	residential	33	1	22	
+EE	587970	Türi tee	tertiary	19	1	5	
+EE	587970	Põllu	residential	17	1	10	
+EE	587970	Mäe	residential	12	2	14	
+EE	587970	Uus	residential	11	1	12	
+EE	587970	Aia	residential	9	1	5	
+EE	587970	Kooli	residential	9	4	12	
+EE	587970	Paide tee	tertiary	7	1	7	
+EE	587970	Valli tee	residential	4	2	4	
+EE	587970	Järve põik	residential	2	2	2	
+EE	588002	Soometsa tee	tertiary	150	2	54	
+EE	588002	Laadi tee	tertiary	93	4	41	
+EE	588002	Miku tee	residential	49	1	39	
+EE	588002	Ringi tee	residential	44	2	34	
+EE	588002	Siimu tee	unclassified	43	2	35	
+EE	588002	Männiku tee	residential	41	2	30	
+EE	588002	Killi tee	unclassified	35	2	27	
+EE	588002	Rooli tee	residential	34	1	32	
+EE	588002	Uraveere tee	residential	33	1	19	
+EE	588002	Briisi tee	residential	32	1	25	
+EE	588002	Viira tee	unclassified	32	35	95	
+EE	588002	Karu tee	unclassified	29	1	28	
+EE	588015	Kajaka	residential	64	2	47	
+EE	588015	Ploomi	residential	59	3	46	
+EE	588015	Tallinna mnt	primary	34	74	93	
+EE	588015	Tennise	residential	33	1	29	
+EE	588015	Tehnika	residential	26	2	34	
+EE	588015	Ehitajate tee	residential	22	2	29	
+EE	588015	Kaare	residential	21	3	17	
+EE	588015	Kirsi	residential	19	1	15	
+EE	588015	Aia		15	1	15	
+EE	588015	Pähkli	residential	14	1	7	
+EE	588015	Masti	residential	8	2	8	
+EE	588015	Pirni	residential	8	5	11	
+EE	588092	Paruni	residential	123	7	108	
+EE	588092	Mõisniku	living_street	104	6	92	
+EE	588092	Unipiha tee	tertiary	80	6	42	
+EE	588092	Valgekõrtsi tee	residential	58	1	32	
+EE	588092	Võru mnt	unclassified	53	4	36	
+EE	588092	Nõlva tee	residential	40	2	21	
+EE	588092	Vahtra	residential	38	2	19	
+EE	588092	Tartu mnt	tertiary	33	2	32	
+EE	588092	Roosi	residential	28	3	12	
+EE	588092	Männi	living_street	26	2	21	
+EE	588092	Põdra tee	residential	25	1	41	
+EE	588092	Vilja tee	residential	24	2	14	
+EE	588152	Silla tee	tertiary	10	9	17	
+EE	588152	Taikse – Tori – Türi-Alliku tee	tertiary	1	0	0	
+EE	588153	Kaare	residential	144	6	49	
+EE	588153	Viljandi	primary	144	4	70	
+EE	588153	Paide	primary	127	5	58	
+EE	588153	Tallinna	secondary	121	3	56	
+EE	588153	Koidula	residential	119	3	51	
+EE	588153	Kungla	residential	118	4	64	
+EE	588153	Tolli	residential	85	2	62	
+EE	588153	Pikk	residential	83	2	35	
+EE	588153	Friedrich Reinhold Kreutzwaldi	residential	82	3	51	
+EE	588153	Lembitu	residential	77	2	34	
+EE	588153	Pihlaka	tertiary	73	2	42	
+EE	588153	Tehnika	residential	73	1	19	
+EE	588153	Jaama	residential	70	4	35	
+EE	588153	Kalevi	residential	68	2	60	
+EE	588153	Mäe	residential	68	1	29	
+EE	588153	Liiva	residential	64	1	30	
+EE	588153	Marjamaa	residential	60	2	30	
+EE	588153	Männiku	residential	60	3	43	
+EE	588153	Allika	residential	58	2	37	
+EE	588153	Pärna	residential	58	3	26	
+EE	588153	Väike-Pärnu	residential	58	2	24	
+EE	588153	Lutsu	residential	55	2	49	
+EE	588153	Põllu	residential	53	2	21	
+EE	588153	Vainu	residential	52	1	23	
+EE	588157	Tööstuse	residential	64	2	25	
+EE	588157	Jaama tee	tertiary	62	2	35	
+EE	588157	Lille	residential	35	1	14	
+EE	588157	Lehetu tee	tertiary	33	3	27	
+EE	588157	Antsuküla tee	residential	30	2	34	
+EE	588157	Puukooli tee	residential	28	1	14	
+EE	588157	Terjatu tee	tertiary	28	2	22	
+EE	588157	Lasteaia	residential	20	1	8	
+EE	588157	Metsa	residential	20	3	5	
+EE	588157	Aia	residential	19	1	9	
+EE	588157	Saare	residential	17	1	18	
+EE	588157	Raba	residential	15	1	6	
+EE	588200	Varbla mnt	tertiary	90	4	56	
+EE	588200	Metsa	residential	63	2	24	
+EE	588200	Ringi	residential	51	1	19	
+EE	588200	Kalli mnt	tertiary	45	1	15	
+EE	588200	Ehitajate tee	tertiary	41	1	18	
+EE	588200	Pärnu mnt	tertiary	39	1	21	
+EE	588200	Nurmiste	residential	38	1	11	
+EE	588200	Sadama tee	tertiary	33	1	16	
+EE	588200	Raba	tertiary	28	3	24	
+EE	588200	Kalda	residential	19	1	12	
+EE	588200	Jõe	residential	18	1	5	
+EE	588200	Lootuse	residential	16	1	5	
+EE	588204	Kooli	residential	126	2	33	
+EE	588204	Valga	primary	108	2	72	
+EE	588204	Tartu	secondary	100	3	40	
+EE	588204	Kaarlimäe	tertiary	93	2	36	
+EE	588204	Viljandi	primary	89	2	41	
+EE	588204	Uus	residential	87	2	36	
+EE	588204	Oa	residential	84	1	39	
+EE	588204	Välja	residential	67	1	28	
+EE	588204	Kalda	residential	61	2	22	
+EE	588204	Puiestee	residential	61	1	21	
+EE	588204	Pikk	residential	58	1	29	
+EE	588204	Karja	residential	57	2	25	
+EE	588209	Lullikatku tee	tertiary	80	1	33	
+EE	588209	Kooli tee	tertiary	71	1	23	
+EE	588209	Tartu mnt	tertiary	47	2	18	
+EE	588209	Jõgeva mnt	secondary	31	1	12	
+EE	588209	Hariduse	tertiary	28	1	12	
+EE	588209	Pargi	residential	22	2	17	
+EE	588209	Söödi	tertiary	16	2	10	
+EE	588209	Kesk	residential	13	1	14	
+EE	588209	Lasteaia	residential	13	1	4	
+EE	588209	Nurme	residential	9	1	11	
+EE	588209	Kaare	residential	6	1	6	
+EE	588209	Katlamaja		2	1	1	
+EE	588215	Orava tee	residential	76	2	34	
+EE	588215	Muraka tee	tertiary	69	3	21	
+EE	588215	Pärnu mnt	secondary	58	2	21	
+EE	588215	Oore tee	residential	57	3	40	
+EE	588215	Selja koolitee	residential	40	2	50	
+EE	588215	Rakvere mnt	primary	38	9	20	
+EE	588215	Metsa	residential	33	1	15	
+EE	588215	Võlli tee	tertiary	30	4	23	
+EE	588215	Katsejaama tee	residential	27	1	25	
+EE	588215	Töngi tee	residential	25	1	9	
+EE	588215	Selja mnt	secondary	19	1	20	
+EE	588215	Virula	residential	16	1	12	
+EE	588215	Sanksu tee	residential	15	2	18	
+EE	588215	Kase tee	residential	14	1	9	
+EE	588215	Riisa tee	tertiary	14	7	23	
+EE	588215	Lootuse tee	residential	13	1	10	
+EE	588215	Mõisa tee	residential	13	3	13	
+EE	588215	Jõe	residential	11	1	6	
+EE	588215	Saare tee	residential	10	1	4	
+EE	588215	Teedevalitsuse tee		9	2	4	
+EE	588215	Kääriku tee	residential	8	1	8	
+EE	588215	Keskuse tee	residential	7	1	7	
+EE	588215	Nepi tee	residential	7	1	4	
+EE	588215	Rehe		5	2	3	
+EE	588223	Metsa		46	1	22	
+EE	588223	Ehitajate	residential	38	1	41	
+EE	588223	Tootsi tee	tertiary	36	1	19	
+EE	588223	Kooli	residential	27	1	18	
+EE	588223	Põrgupõhja		20	1	7	
+EE	588223	Kesk	unclassified	19	1	16	
+EE	588223	Saare		16	1	2	
+EE	588223	Pootsmani tee	residential	14	2	10	
+EE	588223	Sõmera	residential	14	1	16	
+EE	588223	Tööstuse	unclassified	14	1	11	
+EE	588223	Tabria tee	tertiary	10	2	6	
+EE	588223	Aasa		9	1	2	
+EE	588264	Pikk	tertiary	209	3	85	
+EE	588264	Liiva	residential	85	4	38	
+EE	588264	Uus	residential	76	1	26	
+EE	588264	Ranna	residential	73	1	17	
+EE	588264	Nõlva	residential	49	1	34	
+EE	588264	Lepa	residential	47	1	31	
+EE	588264	Mere pst	tertiary	37	1	16	
+EE	588264	Jõe		29	2	14	
+EE	588264	Oru	residential	27	1	15	
+EE	588264	Nurme	residential	26	1	10	
+EE	588264	Kivi	residential	22	3	17	
+EE	588264	Peoleo	residential	22	1	19	
+EE	588300	Valga mnt	primary	78	1	25	
+EE	588300	Alevi tee	residential	69	4	38	
+EE	588300	Punapargi tee	tertiary	53	5	41	
+EE	588300	Voltveti tee	residential	34	2	14	
+EE	588300	Metsa tee	residential	30	2	20	
+EE	588300	Asuvere tee	residential	29	4	24	
+EE	588300	Autodroomi tee	residential	22	1	11	
+EE	588300	Lasketiiru tee		21	2	6	
+EE	588300	Hooldekodu tee	residential	16	1	17	
+EE	588300	Metsaääre tee	unclassified	13	4	12	
+EE	588300	Tiigi põik	residential	10	1	13	
+EE	588300	Karu põik	residential	9	1	9	
+EE	588311	Männikääru tee	residential	58	1	29	
+EE	588311	Metsa tee	residential	27	2	17	
+EE	588311	Kivisilla tee	residential	25	1	13	
+EE	588311	Malle tee		20	1	18	
+EE	588311	Kuunari tee		19	2	19	
+EE	588311	Tervise tee	residential	17	1	15	
+EE	588311	Tervise põik	residential	15	1	7	
+EE	588311	Järveääre tee		14	28	36	
+EE	588311	Metsa põik	residential	12	1	9	
+EE	588311	Juhani tee	residential	10	1	12	
+EE	588311	Männi tee	residential	8	1	6	
+EE	588311	Linnu tee	residential	7	1	5	
+EE	588335	Võru	secondary	513	23	222	
+EE	588335	Riia		438	1	149	
+EE	588335	Anne	living_street	416	12	83	
+EE	588335	Tähe	residential	405	15	131	
+EE	588335	Aardla	tertiary	325	6	136	
+EE	588335	Puiestee	secondary	323	3	120	
+EE	588335	Kastani	residential	313	7	179	
+EE	588335	Jaama	secondary	309	16	183	
+EE	588335	Tamme pst	residential	279	6	126	
+EE	588335	Kalevi	tertiary	267	8	122	
+EE	588335	Ringtee	secondary	190	2	50	
+EE	588335	Ravila	tertiary	182	6	75	
+EE	588335	Väike kaar	residential	170	2	74	
+EE	588335	Jalaka	residential	168	2	83	
+EE	588335	Elva	residential	167	5	51	
+EE	588335	Vaksali	tertiary	163	6	46	
+EE	588335	Raudtee	residential	162	5	106	
+EE	588335	Herne	residential	159	3	60	
+EE	588335	Narva mnt	secondary	157	18	177	
+EE	588335	Ilmatsalu	tertiary	155	3	36	
+EE	588335	Salme	residential	148	2	52	
+EE	588335	Kungla	residential	144	2	62	
+EE	588335	Suur kaar	residential	144	3	70	
+EE	588335	Turu	secondary	141	2	56	
+EE	588335	Sõbra	tertiary	140	2	56	
+EE	588335	Teguri	tertiary	139	3	55	
+EE	588335	Linnu	residential	130	1	41	
+EE	588335	Tihase	residential	130	4	38	
+EE	588335	Peetri	residential	128	7	84	
+EE	588335	Tähtvere	residential	128	1	65	
+EE	588335	Vaba	residential	128	2	53	
+EE	588335	Kesk	living_street	127	1	58	
+EE	588335	Soinaste	tertiary	127	4	48	
+EE	588335	Kopli	residential	126	3	52	
+EE	588335	Männimetsa tee	residential	125	5	84	
+EE	588335	Vasara	residential	125	2	54	
+EE	588335	Kesakanni	residential	122	5	66	
+EE	588335	Roosi	residential	122	6	79	
+EE	588335	Koidutähe	residential	121	2	71	
+EE	588335	Tartu mnt	tertiary	121	13	86	
+EE	588335	Pärna	residential	120	1	39	
+EE	588335	Ehitaja	residential	119	3	58	
+EE	588335	Viljandi mnt	primary	117	4	82	
+EE	588335	Nisu	residential	116	3	56	
+EE	588335	Mäe	residential	115	4	52	
+EE	588335	Pallase pst	residential	114	9	129	
+EE	588335	Aasa	residential	113	2	40	
+EE	588335	Aleksandri	pedestrian	112	1	49	
+EE	588335	Kruusamäe	residential	112	4	61	
+EE	588335	Variku	residential	112	3	59	
+EE	588335	Kaunase pst	tertiary	111	4	79	
+EE	588335	Uus	residential	108	5	63	
+EE	588335	Õnne	residential	106	2	43	
+EE	588335	Vikerkaare	residential	104	5	55	
+EE	588335	Vasula tee	tertiary	102	3	41	
+EE	588335	Raatuse	secondary	101	20	110	
+EE	588335	Kesk kaar	residential	100	2	37	
+EE	588335	Nurme	residential	100	3	52	
+EE	588335	Kesa	residential	99	3	60	
+EE	588335	Metshaldja	residential	98	7	68	
+EE	588335	Rukki	residential	97	2	35	
+EE	588335	Saekoja	residential	94	1	42	
+EE	588335	Sepa	residential	94	3	24	
+EE	588335	Ujula	residential	94	1	90	
+EE	588335	Oa	residential	92	5	46	
+EE	588335	Kellukese tee	residential	91	15	98	
+EE	588335	Orava	residential	91	3	30	
+EE	588335	Kaare tee	residential	90	3	57	
+EE	588335	Kooli	residential	90	2	40	
+EE	588335	Pihlaka	residential	90	3	35	
+EE	588335	Taara pst	residential	89	1	42	
+EE	588335	Vahi	tertiary	89	1	75	
+EE	588335	Koidu	living_street	87	3	44	
+EE	588335	Lemmatsi	residential	87	2	20	
+EE	588335	Staadioni	residential	87	4	73	
+EE	588335	Timuti	residential	87	2	48	
+EE	588335	Maisi	residential	86	3	47	
+EE	588335	Viirpuu	residential	86	1	31	
+EE	588335	Carl Robert Jakobsoni	residential	85	2	34	
+EE	588335	Friedrich Reinhold Kreutzwaldi	secondary	85	2	62	
+EE	588335	Vanemuise	residential	85	12	63	
+EE	588335	Ludvig Puusepa	residential	84	1	41	
+EE	588335	Meloni	residential	84	3	29	
+EE	588335	Ranna pst	residential	83	3	31	
+EE	588335	Veeriku	residential	83	3	37	
+EE	588335	Eha	residential	82	2	39	
+EE	588335	Kodukolde	residential	82	4	46	
+EE	588335	Kraavikalda	residential	82	3	48	
+EE	588335	Kroonuaia	secondary	82	11	76	
+EE	588335	Linnavere tee	tertiary	81	2	44	
+EE	588335	Sangla	residential	80	6	65	
+EE	588335	Aia	residential	79	2	56	
+EE	588335	Kuu	residential	79	2	43	
+EE	588335	Tiigi	residential	79	3	84	
+EE	588335	Männi tee	tertiary	78	5	61	
+EE	588335	Mõisavahe	tertiary	78	5	71	
+EE	588335	Nelgi	residential	78	4	39	
+EE	588335	Linda	residential	77	1	33	
+EE	588335	Veski	residential	76	2	61	
+EE	588335	Ööbiku	residential	76	2	25	
+EE	588348	Pikk	secondary	301	3	88	
+EE	588348	Loode	residential	131	3	35	
+EE	588348	Õhtu pst	residential	120	5	51	
+EE	588348	Pargi	residential	95	2	50	
+EE	588348	Ambla mnt	secondary	91	2	58	
+EE	588348	Paide mnt	primary	90	8	96	
+EE	588348	Hommiku pst	residential	89	3	36	
+EE	588348	Roheline	residential	87	1	47	
+EE	588348	Lehtse tee	tertiary	80	1	15	
+EE	588348	1. Mai pst		77	5	42	
+EE	588348	Jaani	residential	75	4	34	
+EE	588348	Kalevi	residential	75	3	48	
+EE	588348	Taara pst	residential	74	1	36	
+EE	588348	Väike	residential	71	3	39	
+EE	588348	Koidu	residential	70	7	35	
+EE	588348	Rägavere tee	tertiary	67	1	43	
+EE	588348	Valgejõe pst	secondary	59	2	29	
+EE	588348	Jakobi	residential	54	2	25	
+EE	588348	Kooli	residential	51	2	34	
+EE	588348	Päikese	residential	51	5	31	
+EE	588348	Võidu pst	residential	50	6	29	
+EE	588348	Tähe	residential	49	1	28	
+EE	588348	Kirsipuu	residential	47	2	36	
+EE	588348	Üleviste	residential	46	4	34	
+EE	588365	Tehnika	residential	111	2	46	
+EE	588365	Kandle	residential	106	2	34	
+EE	588365	Tööstuse	tertiary	99	11	54	
+EE	588365	Rahu	residential	88	3	36	
+EE	588365	Koidu	tertiary	52	1	27	
+EE	588365	Paide mnt	unclassified	52	4	34	
+EE	588365	Sõpruse	residential	51	2	24	
+EE	588365	Vasara	residential	50	1	23	
+EE	588365	Sireli	residential	44	2	21	
+EE	588365	Nurme	residential	41	3	19	
+EE	588365	Piiri	residential	39	2	22	
+EE	588365	Mäe	residential	34	1	10	
+EE	588409	Pärnu mnt	primary	1610	12	441	
+EE	588409	Paldiski mnt	primary	687	42	219	
+EE	588409	Vabaduse pst		475	53	165	
+EE	588409	Peterburi tee	tertiary	456	2	101	
+EE	588409	Kopli	tertiary	419	2	99	
+EE	588409	Suur-Sõjamäe	secondary	364	4	48	
+EE	588409	Kadaka tee	secondary	363	2	183	
+EE	588409	A. H. Tammsaare tee	primary	360	53	147	
+EE	588409	Õismäe tee	secondary	329	1	153	
+EE	588409	Raudtee		302	4	123	
+EE	588409	Männiku tee	tertiary	288	9	111	
+EE	588409	Sõpruse pst	secondary	285	12	255	
+EE	588409	Kadaka pst	secondary	284	8	161	
+EE	588409	Tartu mnt	primary	284	16	141	
+EE	588409	Põllu		282	8	146	
+EE	588409	Narva mnt	secondary	281	1	201	
+EE	588409	Sihi	residential	269	6	159	
+EE	588409	Mustamäe tee	secondary	256	5	181	
+EE	588409	Ehitajate tee	primary	243	13	150	
+EE	588409	Mooni	residential	237	10	116	
+EE	588409	Valdeku	tertiary	222	8	134	
+EE	588409	Telliskivi	tertiary	217	9	62	
+EE	588409	Vabaõhumuuseumi tee	tertiary	217	3	97	
+EE	588409	Betooni	tertiary	214	2	63	
+EE	588409	Nõmme tee	tertiary	211	5	106	
+EE	588409	Eduard Vilde tee	tertiary	205	52	138	
+EE	588409	Endla	primary	202	10	80	
+EE	588409	Jasmiini tee	residential	198	7	125	
+EE	588409	Trummi		196	2	38	
+EE	588409	Lootuse pst		193	7	117	
+EE	588409	Kakumäe tee		191	4	247	
+EE	588409	Päikese pst		190	5	89	
+EE	588409	Punane	secondary	183	6	71	
+EE	588409	Arnika tee		177	6	118	
+EE	588409	Tanuma	residential	177	4	126	
+EE	588409	Metsa		176	5	81	
+EE	588409	Toome pst		175	4	84	
+EE	588409	Sõle	secondary	167	6	78	
+EE	588409	Tööstuse	tertiary	166	4	95	
+EE	588409	Randvere tee	secondary	165	16	156	
+EE	588409	Akadeemia tee	secondary	164	3	78	
+EE	588409	Harku		162	5	65	
+EE	588409	Lauliku		162	2	79	
+EE	588409	Aianduse tee		159	4	103	
+EE	588409	Kummeli tee		159	4	99	
+EE	588409	Luite	residential	152	2	43	
+EE	588409	Kressi tee		151	8	105	
+EE	588409	Priimula tee		150	9	98	
+EE	588409	Nurme		148	5	73	
+EE	588409	Käo	residential	147	5	78	
+EE	588409	Tüve	residential	147	5	58	
+EE	588409	Veerenni	tertiary	146	20	58	
+EE	588409	Linnu tee	tertiary	145	8	96	
+EE	588409	Pärnamäe tee		144	21	120	
+EE	588409	Ristiku	tertiary	144	4	85	
+EE	588409	Pojengi tee		143	7	92	
+EE	588409	Tondi	tertiary	140	3	84	
+EE	588409	Paljassaare tee	tertiary	138	7	85	
+EE	588409	Koidu	residential	137	8	108	
+EE	588409	Tehnika	secondary	137	7	170	
+EE	588409	Estonia pst	secondary	135	1	15	
+EE	588409	Pikk	living_street	135	4	69	
+EE	588409	Oblika tee		132	8	88	
+EE	588409	Suurekivi põik	residential	132	5	29	
+EE	588409	Tähetorni		132	5	102	
+EE	588409	Lemmiku		129	2	71	
+EE	588409	Lodjapuu tee		128	6	171	
+EE	588409	Kose tee	secondary	127	12	92	
+EE	588409	Vabarna tee		124	6	83	
+EE	588409	Liivalaia	primary	121	5	43	
+EE	588409	Mustakivi tee	secondary	121	3	17	
+EE	588409	Soo	tertiary	120	1	54	
+EE	588409	Taludevahe		120	7	100	
+EE	588409	Vuti	residential	120	5	108	
+EE	588409	Pae	tertiary	119	5	80	
+EE	588409	Heina	residential	118	3	49	
+EE	588409	Kase	living_street	118	4	99	
+EE	588409	Vana-Mustamäe		118	6	65	
+EE	588409	Võidu		118	4	82	
+EE	588409	Lai	living_street	117	2	49	
+EE	588409	Künnapuu	living_street	116	4	116	
+EE	588409	Juhan Sütiste tee	tertiary	115	4	54	
+EE	588409	Laevastiku	residential	115	1	15	
+EE	588409	Linnamäe tee	tertiary	115	2	85	
+EE	588409	Sisaski		115	6	72	
+EE	588409	Õitse		115	4	54	
+EE	588409	Kolde pst	residential	114	5	94	
+EE	588409	Nurmenuku tee		114	9	75	
+EE	588409	Rannamõisa tee	secondary	114	4	46	
+EE	588409	Taara		114	1	48	
+EE	588409	Räägu	residential	113	2	59	
+EE	588409	Viljandi mnt	secondary	113	2	47	
+EE	588409	Värsi		112	4	65	
+EE	588409	Pärja		109	3	49	
+EE	588409	Hiiu-Maleva		107	4	52	
+EE	588409	Viru väljak	secondary	107	4	6	
+EE	588409	Tedre	residential	105	9	73	
+EE	588409	Männimetsa tee	residential	104	2	41	
+EE	588409	Sõbra		103	13	56	
+EE	588409	Paul Kerese		102	4	52	
+EE	588409	Västriku	residential	102	2	38	
+EE	588409	Vabaõhukooli tee	tertiary	101	5	106	
+EE	588409	Nõmme-Kase		98	4	46	
+EE	588409	Õle	residential	98	3	43	
+EE	588409	Tatari	residential	97	3	64	
+EE	588409	Olevi		96	5	57	
+EE	588409	Roo	residential	96	5	48	
+EE	588409	Särje		96	2	49	
+EE	588409	Laki	tertiary	95	1	30	
+EE	588409	Lõuna		94	3	52	
+EE	588409	Ranniku tee	residential	94	2	49	
+EE	588409	Rohula		94	4	57	
+EE	588409	Kungla	residential	93	4	57	
+EE	588409	Kajaka	residential	92	5	55	
+EE	588409	Kraavi		92	4	81	
+EE	588409	Kesktee	living_street	91	3	81	
+EE	588409	Neeme	residential	91	3	50	
+EE	588409	Tähe		91	2	42	
+EE	588409	Järve	residential	90	1	48	
+EE	588409	Vene	living_street	90	3	37	
+EE	588409	Järveotsa tee	secondary	89	3	58	
+EE	588409	Magasini	residential	89	2	32	
+EE	588409	Mõtuse	residential	89	4	34	
+EE	588409	Rõika	residential	89	4	50	
+EE	588409	Hiiu		88	3	50	
+EE	588409	Kloostrimetsa tee	secondary	88	6	69	
+EE	588409	Kännu	residential	88	6	74	
+EE	588409	Viru	pedestrian	88	1	26	
+EE	588409	Lääne tee	residential	87	2	52	
+EE	588409	Vanemuise		87	9	75	
+EE	588409	Lastekodu	residential	86	5	43	
+EE	588409	Lehe	residential	85	3	64	
+EE	588409	Aate		84	3	37	
+EE	588409	Hõbekuuse tee		84	4	54	
+EE	588409	Lepiku tee		84	1	59	
+EE	588409	Puhkekodu tee		84	6	88	
+EE	588409	Soolahe tee		84	4	60	
+EE	588409	Astangu	tertiary	83	3	68	
+EE	588409	Läänekaare		83	5	44	
+EE	588409	Meistri		83	10	22	
+EE	588409	Müürivahe	living_street	83	4	54	
+EE	588409	Vana-Kalamaja	residential	83	3	46	
+EE	588409	Vääna		83	4	41	
+EE	588409	Juhtme	residential	82	4	23	
+EE	588409	Toompuiestee	secondary	82	4	37	
+EE	588409	Vana-Rannamõisa tee	tertiary	82	1	35	
+EE	588409	Leete	residential	81	2	17	
+EE	588409	Merirahu	living_street	81	10	82	
+EE	588409	Tiiva	residential	81	2	43	
+EE	588409	Wismari	residential	81	6	43	
+EE	588409	Kurni	residential	80	4	46	
+EE	588409	Rännaku pst		80	2	63	
+EE	588409	Vabriku	residential	80	4	49	
+EE	588409	Hommiku		79	2	41	
+EE	588409	Jaan Poska	tertiary	79	6	51	
+EE	588409	Mahtra	tertiary	79	1	66	
+EE	588409	Roosikrantsi	unclassified	79	2	19	
+EE	588409	Salu tee	residential	79	3	63	
+EE	588409	Johann Voldemar Jannseni		78	8	38	
+EE	588409	Pargi		78	5	41	
+EE	588409	Andrekse tee	living_street	77	5	110	
+EE	588409	Ida tee	residential	77	3	42	
+EE	588409	Läänemere tee	residential	77	2	72	
+EE	588409	Rahumäe tee	tertiary	77	2	15	
+EE	588409	Suitsu	residential	77	1	50	
+EE	588409	Voolu		77	4	31	
+EE	588409	Juhan Kunderi	tertiary	76	8	42	
+EE	588409	Jääraku tee	living_street	76	6	71	
+EE	588409	Aia tee	living_street	75	3	40	
+EE	588409	Preesi	residential	75	5	46	
+EE	588409	Tihase	residential	75	3	40	
+EE	588409	Vana-Tartu mnt	tertiary	75	3	77	
+EE	588409	Juhkentali	tertiary	74	6	58	
+EE	588409	Katusepapi	residential	74	1	42	
+EE	588409	Nelgi		74	3	62	
+EE	588409	Pallasti	tertiary	74	3	50	
+EE	588409	Suvila		74	5	40	
+EE	588409	Tulika	tertiary	74	3	64	
+EE	588409	Õie		74	3	46	
+EE	588409	Karjavälja	unclassified	73	4	6	
+EE	588409	Keemia	residential	73	3	42	
+EE	588409	Mahla	residential	73	24	88	
+EE	588409	Mesila		73	4	30	
+EE	588409	Rebase		73	1	43	
+EE	588409	Jüri Vilmsi	tertiary	72	5	59	
+EE	588409	Liiva		72	5	41	
+EE	588409	Nikolai von Glehni		72	4	36	
+EE	588409	Helmiku tee		71	6	96	
+EE	588409	Härjapea	residential	71	3	52	
+EE	588409	Niidu tee	living_street	71	4	40	
+EE	588409	Pirita tee	secondary	71	16	102	
+EE	588409	Rävala pst	tertiary	71	3	14	
+EE	588409	Kristjan Kärberi	tertiary	70	4	58	
+EE	588409	Liblika	residential	70	3	37	
+EE	588409	Serva		70	4	40	
+EE	588409	Välja	residential	70	2	39	
+EE	588409	Hirve		69	4	38	
+EE	588409	Kaarna	residential	69	2	49	
+EE	588409	Luise	primary	69	3	38	
+EE	588409	Lydia Koidula	residential	69	3	36	
+EE	588449	Uus	residential	65	4	28	
+EE	588449	Metsa	residential	42	1	18	
+EE	588449	Nigula tee	residential	37	1	14	
+EE	588449	Hansuküla tee	residential	27	2	10	
+EE	588449	Kase	residential	25	2	10	
+EE	588449	Tallinna mnt	tertiary	24	3	14	
+EE	588449	Jõe	unclassified	20	2	12	
+EE	588449	Nurme	residential	18	1	41	
+EE	588449	Piiri	residential	15	1	20	
+EE	588449	Soo	residential	15	1	9	
+EE	588449	Tööstuse		14	1	13	
+EE	588449	Jõekääru tee	residential	13	1	15	
+EE	588454	Sarapuu	residential	119	8	86	
+EE	588454	Tilgu tee	tertiary	99	1	53	
+EE	588454	Klooga mnt	tertiary	91	2	47	
+EE	588454	Kadaka tee	residential	87	4	35	
+EE	588454	Nõmme tee	residential	82	4	64	
+EE	588454	Tammi tee	unclassified	71	30	66	
+EE	588454	Krati tee	residential	66	3	60	
+EE	588454	Harku tee	tertiary	64	9	65	
+EE	588454	Sõrve tee	tertiary	64	4	91	
+EE	588454	Alasniidu tee	residential	63	5	47	
+EE	588454	Soo		60	5	75	
+EE	588454	Kõrgemäe tee	residential	57	4	65	
+EE	588532	Johann Köleri	tertiary	140	2	53	
+EE	588532	Lembitu pst	residential	116	3	48	
+EE	588532	Jaama	tertiary	93	3	30	
+EE	588532	Tallinna	tertiary	88	2	42	
+EE	588532	Ringpuiestee	residential	82	3	30	
+EE	588532	Pärnu	tertiary	60	1	35	
+EE	588532	Taevere tee	unclassified	48	1	18	
+EE	588532	Supeluse	residential	46	2	18	
+EE	588532	Olustvere tee	tertiary	44	1	17	
+EE	588532	Lai	residential	41	1	25	
+EE	588532	Ruusi tee	residential	41	2	19	
+EE	588532	Oja	residential	37	2	12	
+EE	588627	Lembitu	tertiary	142	6	50	
+EE	588627	Sepa	residential	70	1	36	
+EE	588627	Posti	residential	50	1	14	
+EE	588627	Uljaste tee	tertiary	50	1	24	
+EE	588627	Karja	residential	43	3	18	
+EE	588627	Laane	unclassified	42	1	10	
+EE	588627	Metsa	residential	39	1	18	
+EE	588627	Rahvamaja	residential	37	1	13	
+EE	588627	Jaama	residential	28	1	9	
+EE	588627	Aseri tee	residential	21	1	12	
+EE	588627	Depoo	residential	21	1	8	
+EE	588627	Vahe	residential	20	1	9	
+EE	588673	Pärnu mnt	residential	267	5	117	
+EE	588673	Pikk	residential	140	1	56	
+EE	588673	Ringi	residential	103	2	39	
+EE	588673	Kesktänav	residential	80	2	61	
+EE	588673	Tammiku tee	residential	67	2	57	
+EE	588673	Põllu	residential	65	2	39	
+EE	588673	Roheline	residential	61	2	48	
+EE	588673	Kirsi	residential	59	2	39	
+EE	588673	Haaviku tee	residential	55	2	42	
+EE	588673	Pirni	residential	55	2	39	
+EE	588673	Raudtee	residential	54	2	20	
+EE	588673	Karja	residential	51	1	24	
+EE	588686	Kesk	tertiary	213	2	43	
+EE	588686	Aedniku	residential	128	5	882	
+EE	588686	Ranna	residential	86	1	47	
+EE	588686	Roheline	residential	86	1	35	
+EE	588686	Tallinna mnt		79	1	23	
+EE	588686	Rahu	residential	69	2	10	
+EE	588686	Viru pst	residential	67	2	37	
+EE	588686	Hariduse	residential	52	1	31	
+EE	588686	Kaevurite	residential	52	4	31	
+EE	588686	Sillamäe tee	tertiary	44	1	23	
+EE	588686	Tööstuse	unclassified	38	3	20	
+EE	588686	Ehitajate	unclassified	37	1	9	
+EE	588686	Juri Gagarini	tertiary	35	3	35	
+EE	588686	Raudtee		33	2	18	
+EE	588686	Nurme	living_street	32	1	14	
+EE	588686	Lev Tolstoi	unclassified	30	2	16	
+EE	588686	Rohu	living_street	30	1	14	
+EE	588686	Kajaka	residential	29	8	26	
+EE	588686	Rahu põik		29	1	16	
+EE	588686	Kooli	residential	27	6	101	
+EE	588686	Poe	tertiary	27	1	17	
+EE	588686	Ristiku	living_street	27	2	12	
+EE	588686	Mäealuse	residential	24	1	8	
+EE	588686	Veski	residential	24	3	7	
+EE	588694	Keraamika	residential	60	1	20	
+EE	588694	Kaave tee	tertiary	55	1	28	
+EE	588694	Mõisavahe tee	tertiary	47	3	34	
+EE	588694	Laisaare tee	residential	26	1	10	
+EE	588694	Vägari tee	residential	26	3	18	
+EE	588694	Karjamõisa tee	residential	25	1	23	
+EE	588694	Noole	residential	23	1	9	
+EE	588694	Rassi tee	unclassified	22	1	11	
+EE	588694	Põllu	residential	21	1	14	
+EE	588694	Põdra tee	tertiary	17	1	8	
+EE	588694	Kooli tee	living_street	15	1	10	
+EE	588694	Tamme	residential	13	1	13	
+EE	588774	Jänesselja	unclassified	33	1	22	
+EE	588774	Tallinna mnt	residential	26	148	168	
+EE	588774	Selja tee	tertiary	19	1	7	
+EE	588774	Hirvela	residential	18	3	26	
+EE	588774	Keskuse	residential	17	1	11	
+EE	588774	Vana-Tallinna mnt		17	31	38	
+EE	588774	Lepalinnu	residential	11	2	10	
+EE	588774	Lauka tee	unclassified	10	2	6	
+EE	588774	Metsvindi	living_street	9	1	9	
+EE	588774	Vaheri tee		8	29	33	
+EE	588774	Vahtra	unclassified	7	3	10	
+EE	588774	Peoleo	living_street	6	1	6	
+EE	588780	Vana-Keila mnt	tertiary	120	3	116	
+EE	588780	Tõkke	tertiary	96	3	64	
+EE	588780	Tammetõru	residential	90	6	97	
+EE	588780	Puidu	living_street	83	2	47	
+EE	588780	Suurevälja tee	tertiary	80	2	63	
+EE	588780	Paju tee	residential	77	5	78	
+EE	588780	Pärnasalu	residential	74	2	38	
+EE	588780	Tule	tertiary	73	6	50	
+EE	588780	Kivipõllu	residential	70	3	47	
+EE	588780	Kuusemetsa	living_street	67	4	36	
+EE	588780	Kurvi tee	tertiary	59	4	409	
+EE	588780	Kiviloo	residential	57	4	72	
+EE	588780	Pikamäe tee	unclassified	51	4	37	
+EE	588780	Kanama tee	tertiary	50	3	30	
+EE	588780	Kuuseheki	tertiary	48	4	68	
+EE	588780	Ladva	residential	47	2	29	
+EE	588780	Allika tee	tertiary	45	1	20	
+EE	588780	Tammesalu	living_street	44	3	22	
+EE	588780	Nõmmiku	living_street	43	3	31	
+EE	588780	Rauna	residential	39	1	48	
+EE	588780	Töö pst	residential	39	2	43	
+EE	588780	Koore	living_street	38	1	20	
+EE	588780	Kadakamarja	living_street	37	5	38	
+EE	588780	Nurmesalu	residential	37	1	26	
+EE	588792	Põllu	residential	37	2	26	
+EE	588792	Jõe	residential	23	1	17	
+EE	588792	Jõekalda	residential	22	1	9	
+EE	588792	Aia	residential	21	2	9	
+EE	588792	Sillaotsa	residential	20	1	8	
+EE	588792	Õpetajate	residential	16	1	6	
+EE	588792	Mäe	residential	14	2	12	
+EE	588792	Kopli	unclassified	11	1	1	
+EE	588792	Kooli	residential	10	1	10	
+EE	588792	Tehnikumi	residential	9	1	10	
+EE	588792	Pargi	residential	7	1	4	
+EE	588792	Viljandi	primary	5	2	33	
+EE	588818	Liiva	residential	82	1	35	
+EE	588818	Sõrve mnt	secondary	73	3	44	
+EE	588818	Kastani	residential	54	2	18	
+EE	588818	Kasekese	residential	45	1	15	
+EE	588818	Aia	residential	44	2	22	
+EE	588818	Kuressaare mnt	secondary	28	1	20	
+EE	588818	Mere	residential	19	1	9	
+EE	588818	Liivamäe tee	residential	13	2	8	
+EE	588818	Staadioni tee	residential	12	2	6	
+EE	588818	Tiigi tee	residential	11	2	6	
+EE	588818	Kadaka tee		9	1	4	
+EE	588818	Viiase tee	residential	9	6	28	
+EE	588831	Kasemetsa tee	tertiary	155	38	215	
+EE	588831	Kuresoo tee	residential	127	7	113	
+EE	588831	Talve tee	residential	91	5	69	
+EE	588831	Aasa	residential	87	3	40	
+EE	588831	Nurme	residential	86	3	90	
+EE	588831	Annekese tee	residential	82	4	52	
+EE	588831	Murumäe tee	residential	74	9	76	
+EE	588831	Ilmarise tee	residential	68	3	52	
+EE	588831	Krookuse tee	residential	60	2	47	
+EE	588831	Kuuseheki tee	residential	60	4	46	
+EE	588831	Asula	residential	57	3	39	
+EE	588831	Männi tee	residential	54	2	23	
+EE	588922	Rohuneeme tee	tertiary	153	48	140	
+EE	588922	Tammneeme tee	residential	108	7	58	
+EE	588922	Rannavälja tee	residential	91	4	77	
+EE	588922	Eha tee	residential	53	5	49	
+EE	588922	Lännemäe tee	residential	53	3	34	
+EE	588922	Kasteheina tee	residential	49	4	62	
+EE	588922	Suur-Ringtee	residential	49	2	42	
+EE	588922	Koidu tee	residential	48	4	42	
+EE	588922	Meresihi tee	residential	46	6	39	
+EE	588922	Karusambla tee	residential	42	2	37	
+EE	588922	Leppneeme tee	tertiary	42	75	110	
+EE	588922	Sääre tee	residential	41	3	39	
+EE	588936	Leigatu tee	residential	1	0	0	
+EE	588936	Ruhnu sadama tee	tertiary	1	0	0	
+EE	588944	Haanja mnt	tertiary	63	4	27	
+EE	588944	Võru mnt	tertiary	52	2	27	
+EE	588944	Hariduse	tertiary	46	2	19	
+EE	588944	Vana-Nursi tee	residential	28	1	9	
+EE	588944	Pargi	residential	24	2	17	
+EE	588944	Tindi		22	1	8	
+EE	588944	Kiige	residential	21	1	7	
+EE	588944	Nursi mnt	tertiary	21	5	16	
+EE	588944	Tehnika	residential	21	3	16	
+EE	588944	Aia	residential	17	3	10	
+EE	588944	Ööbikuoru põik	unclassified	17	1	5	
+EE	588944	Viitina mnt	tertiary	16	2	10	
+EE	588976	Tartu mnt		76	1	32	
+EE	588976	Valga mnt		52	1	18	
+EE	588976	Piiri	residential	47	1	20	
+EE	588976	Puiestee	residential	46	2	19	
+EE	588976	Küla	residential	39	1	14	
+EE	588976	Tehase	residential	32	1	10	
+EE	588976	Uus	residential	30	1	12	
+EE	588976	Kesk	residential	28	1	10	
+EE	588976	Võru mnt	secondary	28	1	12	
+EE	588976	Vahe	residential	25	1	11	
+EE	588976	Valguta tee	secondary	24	2	13	
+EE	588976	Pargi	residential	23	1	15	
+EE	589012	Vatla tee	tertiary	9	1	6	
+EE	589012	Audru — Tõstamaa — Nurmsi	tertiary	1	0	0	
+EE	589012	Elamu tee	residential	1	0	0	
+EE	589012	Juhani tee	unclassified	1	0	0	
+EE	589012	Kaljusoo - Soovälja tee	unclassified	1	0	0	
+EE	589012	Karuse — Kalli	tertiary	1	0	0	
+EE	589012	Mihkli — Oidrema	tertiary	1	0	0	
+EE	589012	Nurmsi — Risti	tertiary	1	0	0	
+EE	589012	Oidrema külatee	residential	1	0	0	
+EE	589012	Paimvere - Oidermaa tee	unclassified	1	0	0	
+EE	589012	Pärnu — Lihula	secondary	1	0	0	
+EE	589012	Risti — Hallivanni	tertiary	1	0	0	
+EE	589024	Nissi tee	tertiary	243	4	74	
+EE	589024	Metsa	tertiary	40	1	28	
+EE	589024	Männiku tee	residential	28	1	13	
+EE	589024	Liiva tee	residential	24	1	11	
+EE	589024	Aiandi tee	tertiary	22	1	11	
+EE	589024	Ürjaste tee	unclassified	22	4	16	
+EE	589024	Haiba tee	tertiary	20	1	15	
+EE	589024	Jaama tee	residential	20	1	8	
+EE	589024	Vana-Haapsalu mnt	residential	15	1	13	
+EE	589024	Kadaka tee	unclassified	14	1	11	
+EE	589024	Spordi	residential	11	1	7	
+EE	589024	Veetorni	residential	11	3	7	
+EE	589116	Viljandi mnt	secondary	354	4	124	
+EE	589116	Tallinna mnt	secondary	201	3	52	
+EE	589116	Jõe	residential	155	3	58	
+EE	589116	Ehitaja	residential	127	2	18	
+EE	589116	Lepiku	residential	126	4	18	
+EE	589116	Mahlamäe	residential	81	6	37	
+EE	589116	Võsa	residential	78	10	43	
+EE	589116	Pargi	residential	69	1	19	
+EE	589116	Metsa	residential	68	3	24	
+EE	589116	Välja	residential	68	6	38	
+EE	589116	Ööbiku	living_street	64	1	7	
+EE	589116	Koidu	residential	58	3	29	
+EE	589116	Väljataguse	tertiary	58	4	30	
+EE	589116	Alu tee	residential	56	1	28	
+EE	589116	Kooli	residential	54	3	14	
+EE	589116	Tammemäe	residential	54	3	25	
+EE	589116	Sulupere	residential	53	3	32	
+EE	589116	Hallikivi tee	residential	46	3	23	
+EE	589116	Jaama	residential	44	1	10	
+EE	589116	Salu	residential	44	7	27	
+EE	589116	Kastani	residential	43	1	10	
+EE	589116	Põllu	residential	43	1	24	
+EE	589116	Roheline	residential	43	2	31	
+EE	589116	Telliskivi	residential	42	1	21	
+EE	589117	Tartu mnt	secondary	149	2	52	
+EE	589117	Vabaduse	residential	129	2	52	
+EE	589117	Võõpsu mnt	secondary	113	3	51	
+EE	589117	Võhandu	residential	103	2	48	
+EE	589117	Aia	residential	100	2	30	
+EE	589117	Meeksi mnt	tertiary	98	2	32	
+EE	589117	Võru mnt	secondary	96	1	17	
+EE	589117	Pärna	residential	94	1	34	
+EE	589117	Silla	secondary	81	2	35	
+EE	589117	Räpina mnt	secondary	77	2	26	
+EE	589117	Veski	residential	73	3	26	
+EE	589117	Rahu	residential	71	4	42	
+EE	589147	Silva tee	residential	73	2	60	
+EE	589147	Kibuvitsa tee	residential	53	2	27	
+EE	589147	Taru tee	residential	49	2	37	
+EE	589147	Krati tee	residential	48	2	32	
+EE	589147	Vaablase tee	residential	44	3	30	
+EE	589147	Kikerpuu tee	residential	40	2	45	
+EE	589147	Keiu tee	residential	33	2	35	
+EE	589147	Tülli tee	residential	32	2	22	
+EE	589147	Kraavihalli tee	residential	31	1	24	
+EE	589147	Suurekivi tee	residential	31	1	35	
+EE	589147	Silva põik	residential	28	1	16	
+EE	589147	Kirikaia tee	residential	27	4	24	
+EE	589165	Vahtra pst	residential	171	5	91	
+EE	589165	Võidu	residential	165	6	103	
+EE	589165	Pikk	residential	159	7	70	
+EE	589165	Tartu	secondary	154	7	61	
+EE	589165	Rägavere tee	secondary	147	5	77	
+EE	589165	Vabaduse	residential	125	4	66	
+EE	589165	Juhan Kunderi	residential	115	3	43	
+EE	589165	Narva	residential	112	6	53	
+EE	589165	Aia	residential	104	4	52	
+EE	589165	Tallinna	tertiary	103	3	69	
+EE	589165	Karja	tertiary	101	9	62	
+EE	589165	Näituse	residential	98	3	53	
+EE	589165	Friedrich Reinhold Kreutzwaldi	tertiary	90	2	30	
+EE	589165	Arkna tee	tertiary	83	2	54	
+EE	589165	Näpi tee	tertiary	75	1	36	
+EE	589165	Õie	secondary	71	4	74	
+EE	589165	Järve	residential	68	2	27	
+EE	589165	Piiri	residential	67	2	37	
+EE	589165	Kesk	residential	64	5	34	
+EE	589165	Põhja	residential	64	2	38	
+EE	589165	Vee	residential	64	2	24	
+EE	589165	Viru	residential	64	3	32	
+EE	589165	Koidu	residential	63	3	36	
+EE	589165	Seminari	residential	62	4	30	
+EE	589166	Friedrich Robert Faehlmanni tee	tertiary	107	6	46	
+EE	589166	Aia	residential	59	1	23	
+EE	589166	Mäe	residential	40	1	14	
+EE	589166	Kase	residential	39	1	16	
+EE	589166	Lille	residential	36	2	16	
+EE	589166	Lammasküla tee	tertiary	34	2	22	
+EE	589166	Simuna tee	tertiary	31	1	16	
+EE	589166	Sõpruse	residential	30	1	15	
+EE	589166	Staadioni	residential	27	1	11	
+EE	589166	Lõuna	residential	23	1	11	
+EE	589166	Rahu	residential	22	1	15	
+EE	589166	Vahtra	residential	22	1	8	
+EE	589223	Tallinna mnt	tertiary	114	2	46	
+EE	589223	Jägala mnt	tertiary	89	2	67	
+EE	589223	Meierei	unclassified	88	2	34	
+EE	589223	Tehase tee	tertiary	56	1	39	
+EE	589223	Roosi	residential	47	4	38	
+EE	589223	Turu	unclassified	40	1	24	
+EE	589223	Tulbi	residential	39	2	31	
+EE	589223	Pae	residential	37	1	9	
+EE	589223	Raudtee	residential	36	2	41	
+EE	589223	Raasiku tee	tertiary	33	1	13	
+EE	589223	Teemeistri tee	residential	31	1	10	
+EE	589223	Pargi	residential	29	1	8	
+EE	589223	Saare	residential	28	1	11	
+EE	589223	Võidu	residential	27	1	15	
+EE	589223	Paju	unclassified	26	2	21	
+EE	589223	Sõrmuse tee	residential	26	2	30	
+EE	589223	Aru tee	unclassified	25	3	18	
+EE	589223	Kuuse tee	residential	24	4	38	
+EE	589223	Mõisa tee	residential	24	1	22	
+EE	589223	Toominga tee	residential	22	2	16	
+EE	589223	Vahtra	unclassified	22	3	14	
+EE	589223	Kaemla tee	residential	21	7	28	
+EE	589223	Tehase põik	residential	21	2	22	
+EE	589223	Kannikese	residential	18	1	7	
+EE	589243	Tallinna mnt	residential	95	2	31	
+EE	589243	Vanakooli tee	unclassified	53	2	25	
+EE	589243	Ülejõe	tertiary	48	2	23	
+EE	589243	Jõgeva mnt	tertiary	33	2	17	
+EE	589243	Tartu mnt	tertiary	26	1	12	
+EE	589243	Hirveaia	residential	20	2	15	
+EE	589243	Pedja	residential	18	1	6	
+EE	589243	Pargi	residential	17	1	25	
+EE	589243	Tõrve	residential	15	1	8	
+EE	589243	Vahtra tee	residential	15	2	16	
+EE	589243	Tiigi	residential	14	2	10	
+EE	589243	Põllu	residential	12	1	7	
+EE	589244	Rohuneeme tee	tertiary	63	78	112	
+EE	589244	Pääsukese tee	residential	50	3	41	
+EE	589244	Püünsi tee	residential	45	2	28	
+EE	589244	Järve tee	residential	40	1	29	
+EE	589244	Meremärgi tee	residential	33	2	23	
+EE	589244	Karikakra tee	residential	32	1	31	
+EE	589244	Merikotka tee	residential	31	1	24	
+EE	589244	Aasa tee	residential	30	2	20	
+EE	589244	Kooli tee	residential	30	5	33	
+EE	589244	Kajaka tee	residential	26	1	15	
+EE	589244	Tormilinnu tee	residential	26	12	27	
+EE	589244	Lagle tee	residential	22	1	14	
+EE	589253	Kiviõli tee	secondary	120	1	47	
+EE	589253	Pargi	residential	110	4	72	
+EE	589253	Hõbepaju	residential	107	5	61	
+EE	589253	Papli	tertiary	62	5	28	
+EE	589253	Raudtee	residential	57	3	63	
+EE	589253	Metsa	residential	55	5	58	
+EE	589253	Maidla tee	unclassified	51	5	8	
+EE	589253	Kooli	residential	44	1	20	
+EE	589253	Kivitee	tertiary	43	2	19	
+EE	589253	Männiku	unclassified	42	1	19	
+EE	589253	August Kitzbergi	residential	30	1	14	
+EE	589253	Jõe	residential	27	1	12	
+EE	589292	Kesk	tertiary	87	2	43	
+EE	589292	Otepää mnt	tertiary	72	2	25	
+EE	589292	Metsa	residential	41	1	12	
+EE	589292	Tööstuse	residential	34	1	11	
+EE	589292	Jaama	tertiary	32	1	12	
+EE	589292	Mõisa tee	residential	31	3	14	
+EE	589292	Valga mnt	tertiary	31	1	13	
+EE	589292	Oona tee	tertiary	30	2	18	
+EE	589292	Koidu	residential	26	1	13	
+EE	589292	Oja	residential	26	1	13	
+EE	589292	Säde	residential	24	1	9	
+EE	589292	Kooli	residential	23	1	6	
+EE	589307	Viljandi tee	primary	87	3	32	
+EE	589307	Kesk	residential	62	1	27	
+EE	589307	Keskuse tee	residential	40	1	11	
+EE	589307	Reku tee	tertiary	40	1	16	
+EE	589307	Saare tee	tertiary	39	2	13	
+EE	589307	Hommiku	tertiary	33	1	17	
+EE	589307	Õhtu	unclassified	31	1	11	
+EE	589307	Tiidriku tee	residential	29	2	20	
+EE	589307	Pargi	residential	28	1	8	
+EE	589307	Rämsi tee	tertiary	28	1	15	
+EE	589307	Elva tee	tertiary	26	2	12	
+EE	589307	Kaevu tee	unclassified	22	1	14	
+EE	589336	Rannamäe tee		2	1	3	
+EE	589336	Tammesalu tee		2	6	7	
+EE	589375	Jaama	secondary	251	8	81	
+EE	589375	Võru	secondary	95	3	33	
+EE	589375	Taevaskoja tee	unclassified	94	1	32	
+EE	589375	Kesk	secondary	88	1	42	
+EE	589375	Värska mnt	secondary	78	1	22	
+EE	589375	Metsanurga tee	unclassified	75	1	34	
+EE	589375	Ringtee	secondary	73	4	27	
+EE	589375	Kesktee	residential	72	2	44	
+EE	589375	Tehnika	residential	72	2	30	
+EE	589375	Vabriku	residential	70	2	44	
+EE	589375	Lina	residential	67	3	58	
+EE	589375	Päkamäe tee	tertiary	62	2	32	
+EE	589375	Johannes Käisi	secondary	60	1	28	
+EE	589375	Keskuse tee	living_street	60	2	23	
+EE	589375	Mõisa tee	tertiary	58	2	26	
+EE	589375	Põllu	residential	54	2	26	
+EE	589375	Pärna	residential	51	1	27	
+EE	589375	Taevakaare tee	residential	50	2	29	
+EE	589375	Roosi	residential	49	1	20	
+EE	589375	Kastani	residential	47	1	27	
+EE	589375	Tartu mnt	secondary	47	1	23	
+EE	589375	Lao	tertiary	45	1	24	
+EE	589375	Mäe tee	residential	43	2	22	
+EE	589375	Metsavahe tee	unclassified	42	2	29	
+EE	589379	Lossi	tertiary	138	3	69	
+EE	589379	Pikk	residential	115	7	93	
+EE	589379	Tartu mnt	tertiary	104	4	56	
+EE	589379	Tamme	residential	87	1	36	
+EE	589379	Jõgeva mnt	secondary	85	1	30	
+EE	589379	Kase tee	residential	80	4	11	
+EE	589379	Nurme	residential	76	2	38	
+EE	589379	Kooli	residential	70	3	27	
+EE	589379	Pajusi mnt	tertiary	66	7	39	
+EE	589379	Jaama	residential	65	2	30	
+EE	589379	Tuleviku	residential	65	2	39	
+EE	589379	Mäe	residential	63	3	27	
+EE	589531	Peetri tee	residential	60	8	27	
+EE	589531	Järve põik	tertiary	30	1	10	
+EE	589531	Heki tee	residential	17	2	12	
+EE	589531	Järve tee	tertiary	16	8	16	
+EE	589531	Tulbi tee		12	7	28	
+EE	589531	Väike-Vägeva tee		12	1	14	
+EE	589531	Roosipõõsa tee	residential	11	17	28	
+EE	589531	Mõigu tee	unclassified	10	2	9	
+EE	589531	Graniidi tee	unclassified	9	1	23	
+EE	589531	Kangru tee	residential	8	1	6	
+EE	589531	Klaukse tee		7	8	14	
+EE	589531	Lepiku tee	residential	7	1	11	
+EE	589578	Kergu mnt	tertiary	148	11	100	
+EE	589578	Pärnu mnt	tertiary	131	2	59	
+EE	589578	Uus	residential	115	2	61	
+EE	589578	Männi tee	residential	56	1	24	
+EE	589578	Pikk	residential	56	1	30	
+EE	589578	Kalli mnt	tertiary	49	1	34	
+EE	589578	Kooli	residential	31	1	15	
+EE	589578	Ülase	residential	30	1	21	
+EE	589578	Libatse tee	tertiary	23	2	20	
+EE	589578	Metsa	residential	22	1	12	
+EE	589578	Soo	residential	21	4	12	
+EE	589578	Pargi tee	residential	19	1	9	
+EE	589580	Riia mnt	secondary	452	18	257	
+EE	589580	Tallinna mnt	secondary	303	12	132	
+EE	589580	Rohu	residential	289	9	126	
+EE	589580	Merimetsa	tertiary	284	5	121	
+EE	589580	Oja	tertiary	241	5	114	
+EE	589580	Karja	tertiary	222	5	85	
+EE	589580	Karusselli	residential	196	4	101	
+EE	589580	Aisa	residential	188	4	86	
+EE	589580	Haapsalu mnt	secondary	177	8	90	
+EE	589580	Rääma	secondary	176	13	92	
+EE	589580	Kooli	residential	175	2	59	
+EE	589580	Suur-Kuke	residential	170	3	62	
+EE	589580	Roheline	residential	162	2	67	
+EE	589580	Suur-Jõe	residential	156	8	65	
+EE	589580	Luha	residential	149	3	63	
+EE	589580	Lubja	residential	146	2	50	
+EE	589580	Kalevi pst	residential	145	5	118	
+EE	589580	A. H. Tammsaare pst	tertiary	142	5	70	
+EE	589580	Uus-Sauga	tertiary	135	3	46	
+EE	589580	Soo	residential	134	1	43	
+EE	589580	Kaevu	residential	133	2	88	
+EE	589580	Lille	residential	133	2	55	
+EE	589580	Haraka	residential	132	3	63	
+EE	589580	Lennuki	residential	129	2	58	
+EE	589580	Väike-Posti	residential	127	2	31	
+EE	589580	Tammiste tee	primary	125	1	57	
+EE	589580	Vana-Sauga	residential	125	1	52	
+EE	589580	Mäe	residential	118	1	44	
+EE	589580	Savi	tertiary	116	3	42	
+EE	589580	Jaani	residential	115	1	34	
+EE	589580	Kesk	residential	111	1	32	
+EE	589580	Harju	residential	108	2	34	
+EE	589580	Tamme	residential	108	3	50	
+EE	589580	Uku pst	residential	106	3	51	
+EE	589580	Lembitu	residential	105	3	51	
+EE	589580	Pardi	residential	105	2	40	
+EE	589580	Raba	tertiary	103	3	39	
+EE	589580	J. V. Jannseni	secondary	101	3	53	
+EE	589580	Ringi	residential	100	3	54	
+EE	589580	Ilvese	residential	96	1	30	
+EE	589580	Kirsi	residential	90	3	46	
+EE	589580	Piiri	residential	90	2	26	
+EE	589580	Aia	residential	88	3	32	
+EE	589580	Jõekalda tee	tertiary	88	2	55	
+EE	589580	Metsa	residential	87	2	70	
+EE	589580	Ristiku tee	residential	85	2	50	
+EE	589580	Mai	tertiary	84	3	73	
+EE	589580	Voorimehe	residential	84	2	38	
+EE	589657	Haapsalu mnt	residential	68	1	25	
+EE	589657	Lähtru tee	tertiary	59	1	25	
+EE	589657	Jaama	residential	30	1	12	
+EE	589657	Allikmaa tee	residential	22	3	10	
+EE	589657	Mõisa tee	residential	19	1	6	
+EE	589657	Keedika tee	tertiary	15	1	5	
+EE	589657	Liiva	residential	15	1	6	
+EE	589657	Raba	residential	15	2	13	
+EE	589657	Raudtee	residential	14	2	8	
+EE	589657	Männi	residential	13	1	4	
+EE	589657	Põllu	residential	13	1	10	
+EE	589657	Tooma	residential	12	1	9	
+EE	589663	Sadama	tertiary	115	1	39	
+EE	589663	Lille	residential	82	10	54	
+EE	589663	Mereääre	residential	73	12	59	
+EE	589663	Põllu	residential	64	2	16	
+EE	589663	Rae	tertiary	63	1	48	
+EE	589663	Saialille	residential	60	7	53	
+EE	589663	Tikri		55	3	41	
+EE	589663	Põhja	residential	53	2	34	
+EE	589663	Kummeli		52	4	50	
+EE	589663	Peetri	residential	50	1	45	
+EE	589663	Värvu tee		50	2	27	
+EE	589663	Lepiku	residential	40	1	32	
+EE	589671	Suur	tertiary	70	3	27	
+EE	589671	Staadioni	residential	55	2	21	
+EE	589671	Viru	tertiary	53	2	18	
+EE	589671	Kalmistu	tertiary	49	2	18	
+EE	589671	Oskar Lutsu	tertiary	27	2	14	
+EE	589671	Mäe	residential	21	2	8	
+EE	589671	Räägu	residential	18	1	3	
+EE	589671	Uus	residential	18	1	14	
+EE	589671	Pikkjärve asulatee	residential	13	1	13	
+EE	589671	Kooli	tertiary	12	1	7	
+EE	589671	Köstri allee		10	1	4	
+EE	589671	Pärna	residential	8	1	3	
+EE	589688	Vanaküla	residential	111	3	46	
+EE	589688	Kesk	tertiary	94	4	49	
+EE	589688	Tartu mnt	secondary	86	6	46	
+EE	589688	Pärna	residential	69	1	23	
+EE	589688	Lepasaare	tertiary	34	1	19	
+EE	589688	Ringi	residential	27	1	16	
+EE	589688	Tööstuse	residential	25	2	19	
+EE	589688	Kupna	residential	23	1	13	
+EE	589688	Kooli tee	tertiary	22	1	7	
+EE	589688	Naaritsa	residential	19	3	33	
+EE	589688	Jõe	residential	18	1	15	
+EE	589688	Kase	residential	18	1	7	
+EE	589703	Jõekalda tee	tertiary	130	18	103	
+EE	589703	Sinioja	residential	91	3	36	
+EE	589703	Paide mnt	secondary	81	14	43	
+EE	589703	Seljametsa tee	tertiary	50	2	30	
+EE	589703	Reiu tee	residential	49	2	32	
+EE	589703	Haigru	residential	48	2	29	
+EE	589703	Põllu	residential	48	2	18	
+EE	589703	Koskla	residential	46	1	32	
+EE	589703	Kurvitsa	residential	45	3	31	
+EE	589703	Ojakalda	residential	42	1	15	
+EE	589703	Pärnade pst	residential	42	2	22	
+EE	589703	Kalda tee	residential	40	22	67	
+EE	589709	Pärnu	tertiary	228	6	131	
+EE	589709	Lai	residential	207	7	91	
+EE	589709	Uus	residential	111	4	47	
+EE	589709	Pikk	residential	96	1	59	
+EE	589709	Parkali	residential	91	6	42	
+EE	589709	Tallinna	tertiary	89	2	57	
+EE	589709	Mündi	residential	73	3	51	
+EE	589709	Mõisa tee	tertiary	62	1	27	
+EE	589709	Rahu	residential	62	2	39	
+EE	589709	Tiigi	residential	62	5	24	
+EE	589709	Prääma tee	tertiary	59	1	24	
+EE	589709	Rüütli	residential	59	2	60	
+EE	589709	Raja	residential	52	1	20	
+EE	589709	Tööstuse	residential	49	5	34	
+EE	589709	Raudtee	residential	46	6	31	
+EE	589709	Jaama	residential	45	4	37	
+EE	589709	Vainu	residential	45	2	37	
+EE	589709	Kure	living_street	44	3	30	
+EE	589709	Suur-Aia	residential	44	5	59	
+EE	589709	Joodi	living_street	43	2	68	
+EE	589709	Saare tee	residential	42	3	30	
+EE	589709	Vanaküla tee	tertiary	40	1	17	
+EE	589709	Allika	living_street	39	1	24	
+EE	589709	Luha	living_street	39	1	16	
+EE	589782	Pikk	residential	93	1	39	
+EE	589782	Kolga tee	tertiary	79	2	35	
+EE	589782	Kalda	residential	77	1	36	
+EE	589782	Koolitare	residential	70	2	31	
+EE	589782	Pühajärve tee	tertiary	68	3	38	
+EE	589782	Valga mnt	secondary	67	2	31	
+EE	589782	Palupera tee	secondary	63	4	41	
+EE	589782	Jakob Hurda	residential	59	1	50	
+EE	589782	Piiri	residential	54	1	24	
+EE	589782	Tamme pst	residential	47	1	21	
+EE	589782	Munamäe	residential	45	1	24	
+EE	589782	Lipuväljak	residential	43	1	28	
+EE	589796	Võidu	residential	127	3	55	
+EE	589796	Kuivastu mnt	secondary	95	1	48	
+EE	589796	Pargi	residential	57	1	26	
+EE	589796	Ranna pst	residential	49	2	23	
+EE	589796	Laulu	residential	46	2	21	
+EE	589796	Pärna	residential	44	1	22	
+EE	589796	Aia	residential	34	1	15	
+EE	589796	Sadama	residential	32	1	17	
+EE	589796	Rahu	residential	31	1	16	
+EE	589796	Koidu	residential	29	1	14	
+EE	589796	Kitsas	residential	28	1	13	
+EE	589796	Mäe	residential	25	1	17	
+EE	589803	Kõrvetaguse - Konnaveski tee	unclassified	1	0	0	
+EE	589803	Nõmme tee	unclassified	1	0	0	
+EE	589803	Orgita - Päädeva tee	unclassified	1	0	0	
+EE	589803	Orgita-Rangu tee	unclassified	1	0	0	
+EE	589803	Riidaku - Kõrvetaguse tee	unclassified	1	0	0	
+EE	589803	Sipa - Kütke tee	unclassified	1	0	0	
+EE	589803	Sipa — Varbola	tertiary	1	0	0	
+EE	589803	Sipa-Pärna tee	unclassified	1	0	0	
+EE	589803	Tankla tee	unclassified	1	0	0	
+EE	589803	Vaimõisa - Kükita tee	unclassified	1	0	0	
+EE	589803	Vaimõisa - Ohukotsu tee	unclassified	1	0	0	
+EE	589803	Vaimõisa farmitee	unclassified	1	0	0	
+EE	589834	Keskuse	residential	83	2	19	
+EE	589834	Jaamaküla tee	tertiary	76	5	51	
+EE	589834	Tiigi	residential	43	1	22	
+EE	589834	Järve	residential	37	1	17	
+EE	589834	Mõisa allee	tertiary	21	3	26	
+EE	589834	Staadioni	residential	20	1	14	
+EE	589834	Jaamaküla põik	residential	16	1	7	
+EE	589834	Kungla	residential	15	1	7	
+EE	589834	Liiva	tertiary	15	1	5	
+EE	589834	Papioru	residential	15	1	12	
+EE	589834	Talli	residential	14	2	11	
+EE	589834	Õpetajate	residential	14	1	8	
+EE	589922	Tartu mnt	primary	116	5	57	
+EE	589922	Piiri	residential	69	2	63	
+EE	589922	Kiviaia		58	3	70	
+EE	589922	Kivi	residential	52	11	125	
+EE	589922	Loode	residential	48	1	31	
+EE	589922	Lõuna	residential	46	2	33	
+EE	589922	Rahumäe	residential	46	2	21	
+EE	589922	Jüri Kivistiku	residential	45	2	30	
+EE	589922	Lepiku	residential	43	1	22	
+EE	589922	Suvila tee		42	2	34	
+EE	589922	Pärnu mnt	primary	41	1	21	
+EE	589922	Arumäe	residential	38	2	15	
+EE	589933	Tartu	tertiary	93	2	25	
+EE	589933	Vana-Nõo	tertiary	81	2	22	
+EE	589933	Liiva	residential	80	2	56	
+EE	589933	Meeri	residential	57	2	22	
+EE	589933	Raudtee	residential	57	1	32	
+EE	589933	Voika	tertiary	55	2	27	
+EE	589933	Nõo	tertiary	52	2	32	
+EE	589933	Aleksander Lätte	residential	46	2	26	
+EE	589933	Järve	residential	42	1	25	
+EE	589933	Luke	tertiary	41	1	17	
+EE	589933	Veski	residential	39	3	32	
+EE	589933	Oja	residential	37	1	12	
+EE	589947	Aia	residential	67	5	7	
+EE	589947	Tamme	residential	49	1	20	
+EE	589947	Vambola	residential	49	3	32	
+EE	589947	Tooma tee	residential	48	2	37	
+EE	589947	Veski tee	tertiary	45	25	92	
+EE	589947	Männiku tee	tertiary	43	104	149	
+EE	589947	Soku tee	residential	43	3	46	
+EE	589947	Poku tee	residential	42	3	47	
+EE	589947	Tulbi	residential	36	1	32	
+EE	589947	Turu plats	secondary	35	5	8	
+EE	589947	Järvekalda tee	tertiary	34	3	37	
+EE	589947	Tammiaugu tee	residential	34	4	24	
+EE	589947	Vabaduse pst		34	13	174	
+EE	589947	Pärnu mnt	secondary	31	288	434	
+EE	589947	Viljandi mnt	secondary	31	95	122	
+EE	589947	Kangru tee	tertiary	29	19	30	
+EE	589947	Kullerkupu	residential	29	2	22	
+EE	589947	Lehola	residential	29	1	26	
+EE	589947	Heina	residential	28	1	14	
+EE	589947	Kopra tee	residential	28	2	23	
+EE	589947	Sookolli	residential	28	2	26	
+EE	589947	Tänassilma tee	unclassified	28	20	67	
+EE	589947	Käämo tee	residential	27	3	33	
+EE	589947	Tammelehe tee	residential	27	16	49	
+EE	589947	Tammi tee	unclassified	27	15	18	
+EE	589947	Tiirisule tee	residential	27	6	40	
+EE	589947	Hobuseraua tee	residential	26	3	43	
+EE	589947	Kiriku tee	unclassified	26	4	16	
+EE	589947	Kiviaia tee	residential	26	1	11	
+EE	589947	Metssea tee	residential	26	2	27	
+EE	589947	Susi tee	residential	26	2	26	
+EE	589947	Hauka tee		25	9	40	
+EE	589947	Nurme põik	residential	25	1	20	
+EE	589947	Rooli	residential	25	1	14	
+EE	589947	Toome põik	residential	25	2	26	
+EE	589947	Uus-Klaokse põik	residential	25	3	17	
+EE	589947	Kaselaane	residential	24	5	23	
+EE	589947	Käokeele tee	residential	24	1	29	
+EE	589947	Paemurru tee	unclassified	23	5	8	
+EE	589947	Tasuja	residential	23	1	14	
+EE	589947	Arunõmme tee	residential	22	4	24	
+EE	589947	Kasteheina	residential	22	5	38	
+EE	589947	Saarma tee	residential	22	2	26	
+EE	589947	Karjääri tee	unclassified	21	4	14	
+EE	589947	Metsavaimu tee	residential	21	1	25	
+EE	589947	Lilleaia tee	residential	20	1	11	
+EE	589947	Oja tee	residential	20	1	26	
+EE	589947	Jälgimäe tee	tertiary	19	24	59	
+EE	590030	Lydia Koidula	secondary	294	10	100	
+EE	590030	Nurme	residential	159	9	64	
+EE	590030	Raja	residential	116	6	79	
+EE	590030	Vabaduse	secondary	105	20	81	
+EE	590030	Eduard Vilde	residential	97	8	61	
+EE	590030	Mäe	residential	82	8	45	
+EE	590030	Metsa	residential	74	5	22	
+EE	590030	Sulevi	residential	70	3	31	
+EE	590030	Jaan Poska	secondary	66	10	79	
+EE	590030	Olevi	residential	65	3	27	
+EE	590030	Jõe	residential	64	3	25	
+EE	590030	Aia	residential	62	3	49	
+EE	590031	Elektrijaama tee	tertiary	238	45	94	
+EE	590031	Lahe	residential	190	12	130	
+EE	590031	Lõuna		184	5	106	
+EE	590031	Rahu	secondary	171	2	61	
+EE	590031	Põhja		162	7	116	
+EE	590031	Vaigu		142	4	87	
+EE	590031	Tule		141	7	95	
+EE	590031	Jõesuu	secondary	135	10	78	
+EE	590031	Rakvere	tertiary	131	2	85	
+EE	590031	Oru	residential	125	2	53	
+EE	590031	Joala	residential	123	4	42	
+EE	590031	Okka		116	4	81	
+EE	590031	Tõusu		112	5	69	
+EE	590031	Tormi		110	4	65	
+EE	590031	Paul Kerese	residential	104	5	66	
+EE	590031	Palavuse		102	5	68	
+EE	590031	Vesiroosi	residential	102	7	109	
+EE	590031	Tallinna mnt		99	4	91	
+EE	590031	Nõo		96	7	62	
+EE	590031	Muru		93	3	53	
+EE	590031	Aleksander Puškini	secondary	90	4	59	
+EE	590031	Mulla		87	3	56	
+EE	590031	Kadastiku	unclassified	86	3	57	
+EE	590031	Kuu		86	3	73	
+EE	590031	Kreenholmi	secondary	84	5	52	
+EE	590031	Lehe		82	3	58	
+EE	590031	Parve	residential	81	3	45	
+EE	590031	Kannikese		75	3	62	
+EE	590031	Pikk		75	3	46	
+EE	590031	1. Jõe	residential	74	5	46	
+EE	590031	Elektri		74	6	82	
+EE	590031	Lume		74	3	57	
+EE	590031	Sinika		73	3	49	
+EE	590031	Sõnajala		73	4	51	
+EE	590031	Vee		73	6	64	
+EE	590031	Õhtu		73	2	39	
+EE	590031	Viktoria		72	3	56	
+EE	590031	Kirsi		71	3	39	
+EE	590031	3. Paemurru	residential	70	3	22	
+EE	590031	4. Paemurru	residential	70	1	24	
+EE	590031	Laastu	residential	70	3	44	
+EE	590031	Saare	residential	70	2	40	
+EE	590031	Saialille		70	2	53	
+EE	590031	Tamme	residential	70	2	40	
+EE	590031	Vitamiini	residential	70	2	49	
+EE	590031	Ilma		69	6	49	
+EE	590031	Kangelaste prospekt	secondary	69	4	49	
+EE	590031	Pinge		68	4	76	
+EE	590031	Puidu	residential	67	2	43	
+EE	590031	5. Paemurru	residential	66	1	23	
+EE	590031	Kulgusadama tee	residential	66	3	35	
+EE	590031	Võsa		66	3	36	
+EE	590031	Kalamarja		65	4	62	
+EE	590031	Krookuse		65	6	55	
+EE	590031	Pärna	residential	65	2	38	
+EE	590031	Sibula		65	3	52	
+EE	590031	Lõokese	residential	64	2	32	
+EE	590031	Pihlaka	residential	64	2	37	
+EE	590031	Varsakabja	residential	64	3	39	
+EE	590031	Männi	residential	63	2	25	
+EE	590031	Allika		62	3	43	
+EE	590031	Mustika		62	2	35	
+EE	590031	Päevalille		62	7	56	
+EE	590031	Kõrkja	residential	61	5	75	
+EE	590031	Puuvilla	residential	61	2	26	
+EE	590031	Väikesaare	residential	61	4	43	
+EE	590031	2. Paemurru	residential	60	3	24	
+EE	590031	Jalaka		60	6	53	
+EE	590031	Kanali	residential	60	2	63	
+EE	590031	Soldina	tertiary	60	1	19	
+EE	590031	Tüve		60	5	73	
+EE	590031	Päeva		59	4	42	
+EE	590031	Unistuse		59	3	53	
+EE	590031	Kaalika		58	5	48	
+EE	590031	Kadaka	residential	58	2	30	
+EE	590031	Kastani	residential	58	2	40	
+EE	590031	Kulgu	residential	58	4	26	
+EE	590031	Leesika	residential	58	3	37	
+EE	590031	Valguse		58	4	78	
+EE	590031	Leevikese	residential	57	2	33	
+EE	590031	Rööpa		57	3	33	
+EE	590031	Varblase	residential	57	2	34	
+EE	590031	Aasa	residential	56	5	34	
+EE	590031	Lehise		56	3	40	
+EE	590031	Tiigi	residential	56	2	9	
+EE	590031	Voolu		56	5	75	
+EE	590031	Jasmiini		55	3	48	
+EE	590031	Kummeli	residential	55	2	33	
+EE	590031	Papli		55	2	49	
+EE	590031	Sädeme		55	5	63	
+EE	590031	Tedre	residential	55	2	35	
+EE	590031	Hane	residential	54	2	35	
+EE	590031	6. Paemurru	residential	53	3	17	
+EE	590031	Lai		51	3	37	
+EE	590031	Pinna	residential	51	6	39	
+EE	590031	Sõpruse	residential	51	2	41	
+EE	590031	Tihase	residential	51	2	35	
+EE	590031	Välgu		51	5	75	
+EE	590031	Aiandi		50	3	34	
+EE	590031	Haava	residential	50	1	27	
+EE	590067	Kalda	tertiary	729	9	264	
+EE	590067	Sõpruse	tertiary	499	7	169	
+EE	590067	Tartu	secondary	255	4	97	
+EE	590067	Aia	tertiary	219	2	74	
+EE	590067	Pihkva	tertiary	200	3	107	
+EE	590067	Narva	tertiary	193	7	104	
+EE	590067	Jõe	residential	190	2	52	
+EE	590067	Liiva	residential	133	2	39	
+EE	590067	Tartu mnt	tertiary	127	4	74	
+EE	590067	Kastani	residential	97	1	36	
+EE	590067	Kooli	residential	90	1	24	
+EE	590067	Pargi	residential	76	2	42	
+EE	590074	Kamali tee	tertiary	47	3	26	
+EE	590074	Abja-Paluoja — Sarja — Tõlla	tertiary	1	0	0	
+EE	590074	Aruoja — Väike-Tõlla tee	unclassified	1	0	0	
+EE	590074	Aruoja-Väike-Tõlla tee	unclassified	1	0	0	
+EE	590074	Kamara — Peraküla	tertiary	1	0	0	
+EE	590074	Mustla — Riitsaare	unclassified	1	0	0	
+EE	590074	Mäekse	unclassified	1	0	0	
+EE	590074	Mõisaküla — Jäärja	tertiary	1	0	0	
+EE	590074	Saviaru	unclassified	1	0	0	
+EE	590074	Suitsumatsi-Räägu	unclassified	1	0	0	
+EE	590074	Tõlla — Kamali	tertiary	1	0	0	
+EE	590074	Valga — Uulu	primary	1	0	0	
+EE	590078	Posti	secondary	195	2	74	
+EE	590078	Kuressaare	tertiary	78	3	48	
+EE	590078	Pikk	residential	73	2	23	
+EE	590078	Lembitu	residential	68	1	25	
+EE	590078	Lille	residential	49	2	19	
+EE	590078	Liiva	residential	39	1	13	
+EE	590078	Karja	residential	38	1	21	
+EE	590078	Kevade	residential	37	2	13	
+EE	590078	Põllu	residential	33	1	15	
+EE	590078	Aia	tertiary	30	2	13	
+EE	590078	Harju	living_street	29	1	21	
+EE	590078	Tähe	residential	28	2	4	
+EE	590186	Pärnu	secondary	109	5	64	
+EE	590186	Kiikre	tertiary	105	1	45	
+EE	590186	Ringpuiestee	residential	94	5	45	
+EE	590186	Kooli	residential	77	1	33	
+EE	590186	Viljandi	residential	65	2	32	
+EE	590186	Uus	residential	63	2	24	
+EE	590186	Õhtu	residential	60	2	25	
+EE	590186	Karjamaa	tertiary	50	3	28	
+EE	590186	Kivi	residential	50	2	25	
+EE	590186	Vabriku	residential	45	4	19	
+EE	590186	Kase	residential	40	1	15	
+EE	590186	Koidu	residential	36	1	15	
+EE	590322	Pärnu mnt	tertiary	286	6	115	
+EE	590322	Kasti tee	tertiary	125	5	43	
+EE	590322	Lauluväljaku	residential	99	3	53	
+EE	590322	Haimre pst	tertiary	89	2	31	
+EE	590322	Sihi	residential	86	2	44	
+EE	590322	Ristiku	residential	64	2	31	
+EE	590322	Nõmme	residential	59	4	36	
+EE	590322	Liiva	residential	51	5	36	
+EE	590322	Metsa	residential	51	1	25	
+EE	590322	Oru	residential	45	1	24	
+EE	590322	Mulla	residential	42	2	25	
+EE	590322	Saare	residential	41	2	28	
+EE	590354	Vana-Tartu tee	unclassified	39	1	16	
+EE	590354	Kiuma tee	unclassified	22	1	11	
+EE	590354	Tartu mnt	secondary	19	3	13	
+EE	590354	Kase tee	unclassified	15	1	6	
+EE	590354	Tehnika tee		12	1	11	
+EE	590354	Kuuri tee		9	2	3	
+EE	590354	Kuuse tee	residential	7	2	6	
+EE	590354	Roosi tee	unclassified	7	4	6	
+EE	590354	Metalli tee		6	1	4	
+EE	590354	Nurga tee		6	1	4	
+EE	590354	Ootsimäe tee	residential	6	1	3	
+EE	590354	Oru tee		4	2	4	
+EE	590397	Vana tee	unclassified	42	2	30	
+EE	590397	Tamme	residential	33	2	18	
+EE	590397	Vikerkaare tee	unclassified	31	2	16	
+EE	590397	Kooli	residential	20	1	25	
+EE	590397	Lehise	residential	16	1	22	
+EE	590397	Pihlaka tee	residential	15	1	11	
+EE	590397	Pärna	residential	13	6	16	
+EE	590397	Pargi tee	residential	11	1	9	
+EE	590397	Pargi	residential	8	1	5	
+EE	590397	Karja	residential	7	2	22	
+EE	590397	Pargitaguse	residential	3	6	12	
+EE	590397	Apandiku — Võrnu — Kiikla	tertiary	1	0	0	
+EE	590447	Vana-Narva mnt	secondary	207	3	30	
+EE	590447	Õunapuu pst	residential	203	9	191	
+EE	590447	Kure tee	residential	173	5	92	
+EE	590447	Pirnipuu pst	residential	152	7	186	
+EE	590447	Ploomipuu pst	residential	133	4	121	
+EE	590447	Viljapuu pst	residential	131	6	120	
+EE	590447	Orasheina tee	residential	126	4	94	
+EE	590447	Hellerheina tee	residential	106	4	95	
+EE	590447	Raudürdi tee	residential	104	9	83	
+EE	590447	Tammekännu tee	residential	101	5	58	
+EE	590447	Ülgase tee	tertiary	90	2	32	
+EE	590447	Kasekännu tee	residential	85	3	64	
+EE	590447	Uus-Muuga pst	residential	83	3	58	
+EE	590447	Maardu tee	tertiary	82	3	100	
+EE	590447	Veriheina tee	residential	82	5	60	
+EE	590447	Kassitatra tee	residential	79	5	84	
+EE	590447	Ämma tee	residential	78	4	80	
+EE	590447	Kreegipuu pst	residential	76	4	55	
+EE	590447	Nuudi tee	unclassified	76	8	83	
+EE	590447	Kogre	residential	74	2	37	
+EE	590447	Veehoidla	residential	74	4	55	
+EE	590447	Huulheina tee	residential	72	5	62	
+EE	590447	Kallasmaa tee	residential	72	2	48	
+EE	590447	Muuga tee	tertiary	72	8	204	
+EE	590447	Paluülase tee	residential	69	3	59	
+EE	590447	Randoja tee	residential	69	2	30	
+EE	590447	Ringi	tertiary	69	5	64	
+EE	590447	Keerispea tee	residential	67	3	53	
+EE	590447	Keemikute	secondary	66	2	42	
+EE	590447	Fosforiidi	secondary	65	2	18	
+EE	590447	Lao	residential	62	3	29	
+EE	590447	Paelrohu tee	residential	62	2	55	
+EE	590447	Pääsusilma tee	residential	62	3	38	
+EE	590447	Rõikheina tee	residential	61	4	47	
+EE	590447	Kirsipuu pst	residential	60	4	47	
+EE	590447	Lasti tee	unclassified	60	6	20	
+EE	590447	Vägiheina tee	residential	60	4	50	
+EE	590447	Päevalille tee	residential	59	2	56	
+EE	590447	Karikakra tee	residential	58	3	56	
+EE	590447	Karitsa	residential	57	3	34	
+EE	590447	Oravasaba tee	residential	57	4	52	
+EE	590447	Raiheina tee	residential	57	2	47	
+EE	590447	Uusküla tee	residential	57	4	44	
+EE	590447	Koralli tee	residential	55	4	36	
+EE	590447	Metsa tee	residential	55	2	36	
+EE	590447	Aasnurmiku tee	residential	53	2	46	
+EE	590447	Hiie tee	residential	53	2	37	
+EE	590447	Mere tee	residential	53	2	37	
+EE	590468	Järve tee	residential	50	1	18	
+EE	590468	Uus	living_street	48	3	21	
+EE	590468	Mäe tee	unclassified	47	2	32	
+EE	590468	Pargi	residential	39	1	14	
+EE	590468	Pilka tee	unclassified	37	1	18	
+EE	590468	Poka tee	tertiary	34	1	27	
+EE	590468	Puiestee	living_street	33	1	28	
+EE	590468	Võidu tee	residential	21	5	23	
+EE	590468	Pargi tee	unclassified	19	3	8	
+EE	590468	Saaga tee	residential	18	2	33	
+EE	590468	Talli		18	2	10	
+EE	590468	Ruudu tee	residential	16	1	10	
+EE	590493	Kuu	residential	97	4	72	
+EE	590493	Tammetalu	residential	84	4	59	
+EE	590493	Põllu	residential	73	8	31	
+EE	590493	Sangari	residential	72	2	58	
+EE	590493	Mooni	residential	69	2	40	
+EE	590493	Kaasiku	residential	60	2	42	
+EE	590493	Haldja	residential	51	3	49	
+EE	590493	Side	residential	51	2	38	
+EE	590493	Külluse	residential	43	4	31	
+EE	590493	Meremehe	residential	42	3	31	
+EE	590493	Olevi	residential	41	1	36	
+EE	590493	Purje	residential	41	3	28	
+EE	590537	Saha tee	unclassified	105	5	26	
+EE	590537	Liivakandi tee	residential	50	3	45	
+EE	590537	Vanasauna tee	residential	50	2	54	
+EE	590537	Jõeääre tee	residential	43	6	36	
+EE	590537	Kaare tee	residential	40	1	18	
+EE	590537	Uuesauna tee	residential	38	3	52	
+EE	590537	Koplimetsa tee		35	3	37	
+EE	590537	Ojaääre tee		31	2	31	
+EE	590537	Allikate tee		29	2	25	
+EE	590537	Kostivere tee	tertiary	28	2	15	
+EE	590537	Lagedi tee	tertiary	27	6	30	
+EE	590537	Kase	unclassified	24	2	17	
+EE	590552	Tallinna	secondary	219	2	77	
+EE	590552	Rahu	tertiary	109	1	39	
+EE	590552	Männi	residential	95	2	36	
+EE	590552	Posti	residential	75	1	42	
+EE	590552	Lille	residential	58	2	17	
+EE	590552	Ranna	residential	57	1	22	
+EE	590552	Mere	residential	43	2	19	
+EE	590552	Tiigi	unclassified	43	3	6	
+EE	590552	Lõuna	residential	41	1	12	
+EE	590552	Metsa	residential	41	2	17	
+EE	590552	Uus	residential	40	1	26	
+EE	590552	Kalurite	tertiary	32	1	9	
+EE	590570	Kabina tee	tertiary	19	10	22	
+EE	590570	Valguse tee	residential	14	1	7	
+EE	590570	Pilka tee		8	18	25	
+EE	590570	Sidruni tee		8	1	4	
+EE	590570	Soojuse tee		8	13	23	
+EE	590570	Kollu tee		6	2	2	
+EE	590570	Soojuse põik	residential	6	6	8	
+EE	590570	Metsasarve tee		3	2	2	
+EE	590570	Ratasvälja tee		3	2	2	
+EE	590570	Pillikoori tee	residential	2	3	3	
+EE	590570	Aovere — Luunja	secondary	1	0	0	
+EE	590570	Lohkva tee	tertiary	1	0	0	
+EE	590616	Lemsi — Sääre	tertiary	1	0	0	
+EE	590616	Lennujaam — Suigu	tertiary	1	0	0	
+EE	590616	Sadam — Haigla	tertiary	1	0	0	
+EE	590616	Sadam — Kaasiku	tertiary	1	0	0	
+EE	590637	Abi-Ambulantsi tee	residential	1	0	0	
+EE	590637	Ansuvälja tee	unclassified	1	0	0	
+EE	590637	Aspli tee	residential	1	0	0	
+EE	590637	Haukaküüdse tee	unclassified	1	0	0	
+EE	590637	Hellamaa põldetagune tee	unclassified	1	0	0	
+EE	590637	Hellamaa — Nõmmküla	tertiary	1	0	0	
+EE	590637	Hellamaa — Võlla	tertiary	1	0	0	
+EE	590637	Jaani tee	unclassified	1	0	0	
+EE	590637	Juhani tee	unclassified	1	0	0	
+EE	590637	Kalapoe tee	residential	1	0	0	
+EE	590637	Kallaste sadamatee	unclassified	1	0	0	
+EE	590637	Kiiskari tee	residential	1	0	0	
+EE	590657	Tallinna mnt	tertiary	217	3	75	
+EE	590657	Jaama	residential	87	4	51	
+EE	590657	Vee	residential	64	1	24	
+EE	590657	Alaküla tee	residential	62	3	15	
+EE	590657	Pärnu mnt	residential	60	2	38	
+EE	590657	Soo	residential	53	1	26	
+EE	590657	Metsa	residential	49	2	17	
+EE	590657	Raudtee	residential	49	1	15	
+EE	590657	Uus	residential	31	2	16	
+EE	590657	Allika	residential	29	3	17	
+EE	590657	Karja	residential	26	1	17	
+EE	590657	Põllu	residential	26	2	10	
+EE	590723	Kellamäe tee	living_street	30	4	31	
+EE	590723	Orisküla tee	residential	25	8	27	
+EE	590723	Lehola tee	residential	12	1	17	
+EE	590723	Mõisa tee	residential	11	1	8	
+EE	590723	Rehe tee	unclassified	11	1	6	
+EE	590723	Niitvälja — Kulna	secondary	1	0	0	
+EE	590747	Mäe	residential	52	1	47	
+EE	590747	Võidu	residential	23	1	19	
+EE	590747	Pärnu mnt	tertiary	21	7	30	
+EE	590747	Mehaanika		16	1	11	
+EE	590747	Karja		13	2	9	
+EE	590747	Aiandi	living_street	12	4	13	
+EE	590747	Raba		12	1	6	
+EE	590747	Pärna	tertiary	7	1	12	
+EE	590747	Ülejõe	tertiary	5	1	6	
+EE	590747	Aisa tee	residential	4	5	12	
+EE	590747	Rahu		2	8	8	
+EE	590747	Audru — Lavassaare — Vahenurme	tertiary	1	0	0	
+EE	590839	Kooli	tertiary	101	6	65	
+EE	590839	Jüri tee	tertiary	81	2	39	
+EE	590839	Raadiojaama tee	residential	76	2	44	
+EE	590839	Jõe	residential	59	3	38	
+EE	590839	Jaama	unclassified	37	1	20	
+EE	590839	Kaare	residential	35	7	37	
+EE	590839	Põllu	residential	32	1	23	
+EE	590839	Betooni	residential	26	2	23	
+EE	590839	Raadiojaama põik	residential	24	2	22	
+EE	590839	Ilumetsa ling	residential	22	2	20	
+EE	590839	Ilumetsa tee	residential	22	1	21	
+EE	590839	Kuuse	residential	21	1	7	
+EE	590888	Pedassaare tee	residential	137	10	129	
+EE	590888	Kuusalu tee	tertiary	104	4	50	
+EE	590888	Vana-Narva mnt	tertiary	60	16	67	
+EE	590888	Metsa	residential	48	1	19	
+EE	590888	Tarva tee	residential	48	1	13	
+EE	590888	Kalda	residential	46	1	20	
+EE	590888	Kaidaste tee	residential	41	2	14	
+EE	590888	Laane	residential	41	2	29	
+EE	590888	Rannaküla tee	residential	37	9	50	
+EE	590888	Soodla tee	residential	34	1	22	
+EE	590888	Sadama tee	residential	33	2	24	
+EE	590888	Keskväljak	residential	24	4	18	
+EE	590888	Klaukse tee	unclassified	24	2	13	
+EE	590888	Männi	residential	24	1	10	
+EE	590888	Teemeistri	residential	23	1	9	
+EE	590888	Kupu tee	residential	22	1	15	
+EE	590888	Metsaserva tee	residential	21	3	31	
+EE	590888	Rannakaare tee	residential	20	8	39	
+EE	590888	Kuuse	residential	19	1	16	
+EE	590888	Nõmme	residential	19	1	11	
+EE	590888	Käooja tee	residential	17	1	26	
+EE	590888	Sireli	residential	17	1	9	
+EE	590888	Metsakuru tee	residential	16	3	21	
+EE	590888	Väljajüri tee	residential	15	2	18	
+EE	590939	Talve	residential	217	5	106	
+EE	590939	Sõrve mnt	secondary	205	3	59	
+EE	590939	Pikk	tertiary	202	5	81	
+EE	590939	Pärna	residential	172	3	90	
+EE	590939	Transvaali	residential	170	4	58	
+EE	590939	Tallinna	primary	166	5	84	
+EE	590939	Kevade	residential	158	3	55	
+EE	590939	Aia	residential	152	5	64	
+EE	590939	Koidu	residential	131	3	48	
+EE	590939	Ida	residential	130	3	68	
+EE	590939	Pihtla tee	tertiary	112	8	67	
+EE	590939	Uus	tertiary	109	3	43	
+EE	590939	Kungla	residential	108	2	35	
+EE	590939	Nooruse	residential	102	5	54	
+EE	590939	Uus-Roomassaare	tertiary	101	1	48	
+EE	590939	Põhja	residential	100	1	39	
+EE	590939	Suur-Sadama	residential	98	3	53	
+EE	590939	Kohtu	residential	96	1	46	
+EE	590939	Piiri	residential	95	3	35	
+EE	590939	Vana-Roomassaare	residential	86	4	29	
+EE	590939	Mere	residential	85	1	19	
+EE	590939	Ülejõe	residential	83	3	30	
+EE	590939	Ristiku	residential	79	2	35	
+EE	590939	Hariduse	residential	70	2	29	
+EE	590945	Kesktänav	tertiary	50	2	16	
+EE	590945	Pikamäe tee	residential	33	1	11	
+EE	590945	Tuigo tee	residential	30	2	22	
+EE	590945	Mõra tee	residential	27	3	23	
+EE	590945	Männi	tertiary	22	1	14	
+EE	590945	Järve tee	residential	20	3	22	
+EE	590945	Oja	tertiary	20	2	14	
+EE	590945	Haage tee	unclassified	17	2	17	
+EE	590945	Kaldapealse tee	residential	15	1	12	
+EE	590945	Parve tee	unclassified	15	1	18	
+EE	590945	Võsu tee	unclassified	13	1	13	
+EE	590945	Tankla tee	unclassified	12	2	8	
+EE	590949	Keskasula	residential	75	4	27	
+EE	590949	Kaalumaja	residential	24	2	12	
+EE	590949	Laiuse tee	tertiary	18	1	11	
+EE	590949	Tammemetsa	residential	14	1	5	
+EE	590949	Palamuse tee	tertiary	10	1	9	
+EE	590949	Lossi	residential	9	1	7	
+EE	590949	Järve		8	1	4	
+EE	590949	Soomevere tee	tertiary	5	1	8	
+EE	590949	Tööstuse	unclassified	4	4	10	
+EE	590949	Ranna		2	1	2	
+EE	590949	Farmi	residential	1	0	0	
+EE	590949	Innasoo tee	unclassified	1	0	0	
+EE	590975	Koidu	residential	113	6	79	
+EE	590975	Jaama	secondary	101	1	21	
+EE	590975	Sadama tee	unclassified	44	3	25	
+EE	590975	Jõe	residential	40	3	20	
+EE	590975	Kasemäe	residential	36	2	24	
+EE	590975	Lontova tee	unclassified	34	2	16	
+EE	590975	Rakvere mnt	residential	33	1	35	
+EE	590975	Toolse tee	residential	32	2	27	
+EE	590975	Mäe	residential	31	2	33	
+EE	590975	Tööstuse	unclassified	27	4	10	
+EE	590975	Laane	residential	25	1	12	
+EE	590975	Lepiku tee	residential	25	1	20	
+EE	590977	Mammaküla tee	residential	21	1	9	
+EE	590977	Toome tee	residential	12	1	10	
+EE	590977	Alleevahe tee	residential	11	2	10	
+EE	590977	Uuemaja tee	residential	10	4	8	
+EE	590977	Haljala — Karepa	tertiary	1	0	0	
+EE	590977	Kunda mõis–Sämi	tertiary	1	0	0	
+EE	590977	Kunda — Malla — Ojaküla	tertiary	1	0	0	
+EE	590977	Kunda — Selja	tertiary	1	0	0	
+EE	590977	Põdruse — Kunda — Pada	secondary	1	0	0	
+EE	591070	Jõesuu tee	residential	69	3	55	
+EE	591070	Ristikangru tee	residential	63	3	65	
+EE	591070	Parasmäe tee	unclassified	47	3	28	
+EE	591070	Jägala-Joa tee	unclassified	44	6	37	
+EE	591070	Aali tee	residential	35	2	30	
+EE	591070	Kivikirve tee	residential	32	2	33	
+EE	591070	Koogi tee	tertiary	28	2	27	
+EE	591070	Manniva tee	residential	27	79	100	
+EE	591070	Jõelähtme tee	tertiary	26	2	27	
+EE	591070	Urke	residential	26	1	13	
+EE	591070	Jõeääre tee	residential	24	2	18	
+EE	591070	Kiriku tee	tertiary	23	3	16	
+EE	591074	Pargi	residential	44	1	17	
+EE	591074	Hiievälja tee	residential	38	3	33	
+EE	591074	Metsa	residential	36	2	32	
+EE	591074	Vanatoa	residential	24	2	19	
+EE	591074	Jõe	residential	23	1	15	
+EE	591074	Kesk	residential	23	2	25	
+EE	591074	Oti tee	residential	22	4	23	
+EE	591074	Härma tee	residential	20	1	24	
+EE	591074	Küüni	residential	20	1	20	
+EE	591074	Heinamäe tee	unclassified	19	3	13	
+EE	591074	Kosejõe	residential	19	2	9	
+EE	591074	Toominga	unclassified	19	1	12	
+EE	591076	Iru põik	residential	9	2	4	
+EE	591076	Linnuse tee	living_street	5	1	3	
+EE	591076	Kloostrimetsa tee	secondary	4	52	52	
+EE	591076	Pärnamäe tee	secondary	4	4	12	
+EE	591076	Laiamäe tee	residential	3	1	7	
+EE	591076	Iru tee		2	1	1	
+EE	591076	Esku	living_street	1	0	0	
+EE	591076	Helmiku tee	living_street	1	0	0	
+EE	591076	Hooldekodu tee	residential	1	0	0	
+EE	591076	Hunditubaka tee	residential	1	0	0	
+EE	591076	Irusilla	residential	1	0	0	
+EE	591076	Jaanilille põik	residential	1	0	0	
+EE	591078	Pikk	secondary	192	4	107	
+EE	591078	Kehra mnt	secondary	85	3	36	
+EE	591078	Pargi	residential	76	4	35	
+EE	591078	Kodu	residential	75	3	74	
+EE	591078	Ravila mnt	tertiary	59	1	29	
+EE	591078	Jõe	residential	42	1	23	
+EE	591078	Ravila tee	tertiary	40	1	25	
+EE	591078	Sipasoo tee	residential	38	4	20	
+EE	591078	Kopli	residential	34	1	22	
+EE	591078	Alu	residential	33	1	19	
+EE	591078	Spordiväljaku	residential	30	2	22	
+EE	591078	Uustalu	residential	28	3	43	
+EE	591086	Tamme	residential	32	1	19	
+EE	591086	Pargi	residential	22	2	10	
+EE	591086	Tiigi	unclassified	20	3	11	
+EE	591086	Mesilinnu	residential	16	1	11	
+EE	591086	Rebase tee	residential	16	1	7	
+EE	591086	Pärna	residential	13	20	51	
+EE	591086	Roosilla tee	residential	13	1	17	
+EE	591086	Lähte tee	tertiary	11	3	9	
+EE	591086	Aida		10	1	10	
+EE	591086	Mõisaringi	residential	9	1	12	
+EE	591086	Pilka tee		8	29	33	
+EE	591086	Metsa		7	1	16	
+EE	591143	1. Koosa ühendustee	unclassified	1	0	0	
+EE	591143	2. Koosa ühendustee	unclassified	1	0	0	
+EE	591143	Aovere — Kallaste — Omedu	secondary	1	0	0	
+EE	591143	Kaarli — Truhha — Sookalduse	tertiary	1	0	0	
+EE	591143	Kirepi-Välgi	tertiary	1	0	0	
+EE	591143	Koosa — Kirepi — Metsakivi	tertiary	1	0	0	
+EE	591143	Koosa — Varnja	tertiary	1	0	0	
+EE	591143	Külakeskuse tee	unclassified	1	0	0	
+EE	591143	Lasteaia tee	residential	1	0	0	
+EE	591143	Luunja — Kavastu — Koosa	tertiary	1	0	0	
+EE	591143	Meoma — Kirepi	tertiary	1	0	0	
+EE	591143	Meoma-Järvepera	unclassified	1	0	0	
+EE	591260	Ahtme mnt		211	20	126	
+EE	591260	Järveküla tee	secondary	195	1	71	
+EE	591260	Ehitajate	tertiary	187	7	130	
+EE	591260	Betooni	residential	168	6	74	
+EE	591260	Sõpruse		132	8	79	
+EE	591260	Õnne	residential	119	2	55	
+EE	591260	Olevi	residential	117	2	118	
+EE	591260	Savi	residential	110	1	32	
+EE	591260	Kanarbiku	residential	102	2	38	
+EE	591260	Jaaniku		100	6	69	
+EE	591260	Aruserva	residential	94	3	53	
+EE	591260	Pärna	residential	94	1	47	
+EE	591260	Kase	residential	92	1	33	
+EE	591260	Ülase	tertiary	84	2	84	
+EE	591260	Mõisa tee	residential	82	1	63	
+EE	591260	Lehe	residential	81	4	32	
+EE	591260	Põhja	residential	79	5	59	
+EE	591260	Briketi		77	11	22	
+EE	591260	Altserva		72	2	46	
+EE	591260	Keskallee	residential	69	4	34	
+EE	591260	Endla	residential	63	1	119	
+EE	591260	Kiige		61	3	28	
+EE	591260	Estonia pst		60	2	45	
+EE	591260	Lille	residential	60	2	30	
+EE	591260	Tammiku		56	5	54	
+EE	591260	Tähe		56	41	66	
+EE	591260	Õuna	residential	53	7	53	
+EE	591260	Jõhvi mnt	residential	52	1	17	
+EE	591260	Võsa	residential	52	14	57	
+EE	591260	Torujõe	residential	49	3	32	
+EE	591260	Kalevi	secondary	48	4	41	
+EE	591260	Oblika	residential	48	1	27	
+EE	591260	Ritsika		48	5	42	
+EE	591260	Raudtee	residential	46	5	49	
+EE	591260	Valli	residential	45	1	12	
+EE	591260	Uus-Tehase	secondary	44	3	12	
+EE	591260	Alevi		43	4	31	
+EE	591260	Tuule	residential	43	4	25	
+EE	591260	Aia	residential	42	13	52	
+EE	591260	Kannikese	residential	41	3	16	
+EE	591260	Päikese	residential	41	1	25	
+EE	591260	Timuti	residential	40	1	13	
+EE	591260	Jaama	tertiary	39	2	48	
+EE	591260	Hobuseraua		37	2	20	
+EE	591260	Lehola		37	1	26	
+EE	591260	Romoti		37	24	59	
+EE	591260	Juurdeveo	tertiary	36	3	21	
+EE	591260	Järve	residential	35	15	41	
+EE	591264	Jaama	tertiary	51	1	104	
+EE	591264	Väljaku	residential	45	2	17	
+EE	591264	Tähe	residential	44	16	38	
+EE	591264	Kreegi	residential	27	2	10	
+EE	591264	Männiku	residential	24	2	12	
+EE	591264	Tuhamäe tee	residential	23	1	10	
+EE	591264	Kooli	tertiary	20	2	14	
+EE	591264	Kevade	residential	17	1	12	
+EE	591264	Kaevurite pst	residential	16	3	25	
+EE	591264	Kaare	residential	15	3	13	
+EE	591264	Kure	living_street	15	16	25	
+EE	591264	Sauna	residential	14	1	6	
+EE	591265	Välja	residential	143	9	63	
+EE	591265	Viljandi mnt	tertiary	133	2	46	
+EE	591265	Vabaduse	tertiary	131	2	34	
+EE	591265	Lõuna	residential	113	4	34	
+EE	591265	Nurme	residential	108	1	42	
+EE	591265	Optimisti	residential	100	3	58	
+EE	591265	Kaljumäe tee	residential	81	5	47	
+EE	591265	Lepatriinu	residential	80	3	55	
+EE	591265	Tammelehe	residential	78	4	60	
+EE	591265	Tööstuse	residential	73	3	27	
+EE	591265	Vana-Tagadi tee	tertiary	63	4	36	
+EE	591265	Kure	residential	62	3	51	
+EE	591276	Väinjärve tee	tertiary	104	1	28	
+EE	591276	Paide tee	secondary	77	1	30	
+EE	591276	Jaani tee	tertiary	59	2	31	
+EE	591276	Põllu	residential	54	1	24	
+EE	591276	Küti	residential	53	3	25	
+EE	591276	Eha	residential	27	2	13	
+EE	591276	Tamme tee	residential	25	1	9	
+EE	591276	Pargi tee	residential	24	1	13	
+EE	591276	Pärna pst	residential	22	1	14	
+EE	591276	Mõisapargi tee	tertiary	21	1	9	
+EE	591276	Pihla	residential	19	1	9	
+EE	591276	Rehe tee	unclassified	17	1	10	
+EE	591306	Aida tee	residential	133	7	83	
+EE	591306	Kurekella tee	residential	88	3	66	
+EE	591306	Metsa	residential	85	4	38	
+EE	591306	Mere tee	tertiary	65	5	37	
+EE	591306	Eva ringtee		63	5	55	
+EE	591306	Saare	residential	53	1	37	
+EE	591306	Männiokka	residential	51	2	44	
+EE	591306	Lohusalu tee	tertiary	50	8	104	
+EE	591306	Liiva tee	residential	48	1	13	
+EE	591306	Lohusaare tee		48	3	28	
+EE	591306	Kase	residential	47	3	31	
+EE	591306	Tammetõru	residential	45	2	38	
+EE	591313	Lepa tee	residential	213	2	86	
+EE	591313	Maidla tee	tertiary	170	4	68	
+EE	591313	Lüganuse tee	tertiary	147	5	51	
+EE	591313	Graniidi	tertiary	132	2	51	
+EE	591313	Küttejõu	residential	117	2	47	
+EE	591313	Liiva	residential	106	2	20	
+EE	591313	Turu	residential	106	3	8	
+EE	591313	Kiviõli tee	secondary	96	2	57	
+EE	591313	Nurme	tertiary	90	1	31	
+EE	591313	Kaare	tertiary	84	1	31	
+EE	591313	Niine	residential	82	2	33	
+EE	591313	Võsa	residential	80	6	28	
+EE	591381	Pärnu	tertiary	319	5	130	
+EE	591381	Sambla	residential	85	3	42	
+EE	591381	Eha	residential	71	1	23	
+EE	591381	Kiriku	residential	71	1	33	
+EE	591381	Kantsi	tertiary	60	1	22	
+EE	591381	Veski	residential	60	1	24	
+EE	591381	Järve	residential	56	2	23	
+EE	591381	Meose tee	residential	55	2	29	
+EE	591381	Vana	residential	53	2	36	
+EE	591381	Kalda tee	tertiary	49	1	22	
+EE	591381	Aia	residential	47	1	20	
+EE	591381	Õhtu	residential	45	2	23	
+EE	591392	Mõisa tee	tertiary	42	3	23	
+EE	591392	Veski	residential	35	2	20	
+EE	591392	Vana-Narva mnt	tertiary	23	1	11	
+EE	591392	Torni	residential	14	1	11	
+EE	591392	Oja	residential	8	1	6	
+EE	591392	Töökoja	living_street	8	1	5	
+EE	591392	Lehe		7	2	4	
+EE	591392	Töökoja põik		7	1	5	
+EE	591392	Linnuse	living_street	4	2	8	
+EE	591392	Aia	residential	3	2	3	
+EE	591392	Tuuliku	living_street	3	1	5	
+EE	591392	Jõelähtme — Kemba	tertiary	1	0	0	
+EE	591397	Ikaruse tee	residential	102	4	69	
+EE	591397	Hiie	residential	101	4	65	
+EE	591397	Puraviku ringtee	residential	99	6	70	
+EE	591397	Astra tee	residential	96	3	80	
+EE	591397	Nõgese	residential	96	3	47	
+EE	591397	Kasemetsa tee	residential	95	2	123	
+EE	591397	Käo	residential	91	3	40	
+EE	591397	Metsavaikuse ringtee	residential	89	3	61	
+EE	591397	Marmori	residential	75	4	70	
+EE	591397	Saare	residential	75	1	29	
+EE	591397	Eha	residential	70	3	48	
+EE	591397	Viljandi mnt	tertiary	68	2	36	
+EE	591403	Kääri tee	residential	73	4	50	
+EE	591403	Sausti tee	tertiary	63	1	59	
+EE	591403	Rätsepa tee	residential	59	3	58	
+EE	591403	Kurna tee	residential	53	1	38	
+EE	591403	Mõisaküla	residential	50	2	39	
+EE	591403	Vaela tee	tertiary	50	8	57	
+EE	591403	Sireli	residential	47	3	24	
+EE	591403	Allika	residential	44	4	29	
+EE	591403	Nabala tee	tertiary	41	2	33	
+EE	591403	Väljamäe põik	residential	41	2	29	
+EE	591403	Kadaka tee	residential	38	2	33	
+EE	591403	Kangrumäe tee	tertiary	35	1	14	
+EE	591472	Koidu	residential	276	4	124	
+EE	591472	Jõe	residential	270	2	74	
+EE	591472	Haapsalu mnt	secondary	183	7	77	
+EE	591472	Tähe	residential	119	3	35	
+EE	591472	Hõberebase tee		111	1	9	
+EE	591472	Vaikne	residential	105	2	42	
+EE	591472	Eha	residential	103	7	83	
+EE	591472	Paldiski mnt	tertiary	79	2	47	
+EE	591472	Pargi	residential	78	2	29	
+EE	591472	Ülesõidu	tertiary	71	4	37	
+EE	591472	Kumna tee	tertiary	69	8	71	
+EE	591472	Uus	residential	61	1	28	
+EE	591472	Aia	residential	59	2	35	
+EE	591472	Alajaama tee	residential	58	1	24	
+EE	591472	Tervise	residential	56	3	39	
+EE	591472	Ohtu tee	residential	55	2	32	
+EE	591472	Kanarbiku	living_street	54	2	42	
+EE	591472	Raba	living_street	54	6	86	
+EE	591472	Tamme tee	residential	54	1	10	
+EE	591472	Teaduse	residential	54	1	24	
+EE	591472	Tallinna mnt	residential	53	2	23	
+EE	591472	Barsbütteli	residential	50	1	58	
+EE	591472	Männiku	residential	49	1	30	
+EE	591472	Metsa	residential	46	1	12	
+EE	591475	Põrsaku tee	tertiary	65	1	32	
+EE	591475	Keava tee	tertiary	52	1	18	
+EE	591475	Nooruse	residential	51	2	13	
+EE	591475	Koogimäe tee	tertiary	42	1	18	
+EE	591475	Metsa	residential	38	1	18	
+EE	591475	Põllu	residential	38	2	14	
+EE	591475	Staadioni	residential	35	2	19	
+EE	591475	Pargi	residential	30	1	13	
+EE	591475	Paemurru	residential	27	1	17	
+EE	591475	Roheline	residential	27	1	14	
+EE	591475	Aiandi	living_street	26	2	12	
+EE	591475	Kooli	residential	25	1	15	
+EE	591476	Põhja	residential	111	4	50	
+EE	591476	Kooli	residential	80	3	34	
+EE	591476	Tuleviku	residential	68	3	53	
+EE	591476	Anija mnt	residential	67	3	16	
+EE	591476	Nurme	residential	55	3	29	
+EE	591476	Lydia Koidula	residential	54	2	30	
+EE	591476	Janis Rainise	residential	50	2	24	
+EE	591476	Kose mnt	residential	46	2	34	
+EE	591476	Tisleri	residential	42	1	9	
+EE	591476	Pargi	residential	41	1	25	
+EE	591476	Ülejõe tee	residential	33	1	13	
+EE	591476	Kehra tee	tertiary	28	1	15	
+EE	591585	Jõe	residential	77	2	33	
+EE	591585	Metsa	residential	74	2	31	
+EE	591585	Kooli	residential	40	2	22	
+EE	591585	Karujärve tee	tertiary	30	1	15	
+EE	591585	Pargi	tertiary	28	2	15	
+EE	591585	Ülejõe	residential	28	1	14	
+EE	591585	Ohaka	residential	20	1	30	
+EE	591585	Männiku	residential	19	1	13	
+EE	591585	Kaasu tee	residential	15	3	13	
+EE	591585	Lasteaia	residential	15	1	11	
+EE	591585	Tiigi		15	1	6	
+EE	591585	Ohaka põik	residential	14	1	9	
+EE	591589	Kivi	residential	76	2	25	
+EE	591589	Pargi	tertiary	41	1	30	
+EE	591589	Kaare	residential	19	2	12	
+EE	591589	Nuumabaasi tee	residential	19	3	17	
+EE	591589	Allika	residential	16	1	9	
+EE	591589	Tare	residential	15	1	9	
+EE	591589	Ahimäe — Pahuvere	tertiary	1	0	0	
+EE	591589	Imavere — Viljandi — Karksi-Nuia	secondary	1	0	0	
+EE	591589	Kadrina tee	unclassified	1	0	0	
+EE	591589	Karksi - Kivisilla	unclassified	1	0	0	
+EE	591589	Karksi - Turva - Liivaku tee	unclassified	1	0	0	
+EE	591589	Keskuse tee	residential	1	0	0	
+EE	591632	Vabaduse	residential	227	6	88	
+EE	591632	Pikk	residential	138	2	55	
+EE	591632	Hiiu	residential	137	1	46	
+EE	591632	Aia	residential	122	2	40	
+EE	591632	Metsa	residential	118	2	60	
+EE	591632	Tiigi	residential	112	5	46	
+EE	591632	Käina mnt	secondary	108	4	48	
+EE	591632	Kõrgessaare mnt	secondary	105	2	45	
+EE	591632	Kabeli	residential	102	2	43	
+EE	591632	Uus	residential	89	3	32	
+EE	591632	Allika	residential	77	3	34	
+EE	591632	Nõmme	residential	71	2	40	
+EE	591672	August Weizenbergi	secondary	146	3	63	
+EE	591672	Tehnika	tertiary	71	2	28	
+EE	591672	Roosi tee	tertiary	64	2	30	
+EE	591672	Niidu	residential	63	2	39	
+EE	591672	Saia tee	residential	59	2	26	
+EE	591672	Kooli	tertiary	57	1	21	
+EE	591672	Lille	residential	45	1	13	
+EE	591672	Hurmi	residential	23	2	12	
+EE	591672	Kera tee	tertiary	21	1	17	
+EE	591672	Nurme	residential	21	1	10	
+EE	591672	Jõe	residential	20	1	10	
+EE	591672	Apteegi	residential	18	1	9	
+EE	591682	Võru mnt		59	1	20	
+EE	591682	Kase	residential	33	1	14	
+EE	591682	Puiestee	tertiary	30	2	18	
+EE	591682	Vaarika	unclassified	24	1	9	
+EE	591682	Kesk	tertiary	23	1	10	
+EE	591682	Männi	residential	21	2	17	
+EE	591682	Aia	residential	20	1	7	
+EE	591682	Põllu	residential	19	2	11	
+EE	591682	Ülase	tertiary	19	1	6	
+EE	591682	Järve	residential	18	1	6	
+EE	591682	Pihlaka	residential	17	1	12	
+EE	591682	Oru	residential	13	1	7	
+EE	591703	Võidu	residential	281	6	124	
+EE	591703	Kiriku	residential	95	2	39	
+EE	591703	Oja	residential	85	3	30	
+EE	591703	Turu	residential	57	2	24	
+EE	591703	Tööstuse	residential	49	1	10	
+EE	591703	Oktoobri	unclassified	47	2	26	
+EE	591703	Staadioni	residential	46	1	20	
+EE	591703	Jaani	residential	35	2	23	
+EE	591703	Aia	residential	28	3	15	
+EE	591703	Õnne	residential	23	1	12	
+EE	591703	Rahu	residential	20	1	15	
+EE	591703	1. Mai	residential	19	2	11	
+EE	591746	Hiiu mnt	secondary	150	1	40	
+EE	591746	Tobiase	residential	46	2	16	
+EE	591746	Mere	residential	43	1	34	
+EE	591746	Luige	residential	36	1	19	
+EE	591746	Lõokese	residential	36	1	15	
+EE	591746	Lahe	residential	32	1	15	
+EE	591746	Mäe plats		27	1	25	
+EE	591746	Mäe	tertiary	23	1	15	
+EE	591746	Papli	residential	22	2	14	
+EE	591746	Ranna	residential	15	1	4	
+EE	591746	Sõpruse	residential	15	1	28	
+EE	591746	Uus	residential	14	1	8	
+EE	591778	Metsaääre	residential	31	2	15	
+EE	591778	Saare	residential	25	1	11	
+EE	591778	Kumma tee	tertiary	22	1	10	
+EE	591778	Männiku põik	residential	20	1	12	
+EE	591778	Staadioni	residential	19	1	12	
+EE	591778	Lepiku tee	residential	18	2	8	
+EE	591778	Toominga	residential	17	1	11	
+EE	591778	Õunaaia tee	residential	17	1	8	
+EE	591778	Männiku	residential	14	1	12	
+EE	591778	Remmelga	residential	13	1	6	
+EE	591778	Sinilille	residential	13	1	7	
+EE	591778	Lepiku põik	residential	11	1	8	
+EE	591783	Pikk	residential	108	4	53	
+EE	591783	Koidu	residential	107	2	58	
+EE	591783	Kalda	residential	90	4	46	
+EE	591783	Põllu	residential	86	3	46	
+EE	591783	Uus	residential	65	3	49	
+EE	591783	Aasa	residential	47	6	34	
+EE	591783	Tapa tee	tertiary	42	2	29	
+EE	591783	Kauba	residential	37	3	35	
+EE	591783	Viru	unclassified	36	1	16	
+EE	591783	Aia	residential	28	5	38	
+EE	591783	Tööstuse	unclassified	28	2	35	
+EE	591783	Pargi	residential	24	1	24	
+EE	591871	Tallinna mnt	tertiary	164	2	46	
+EE	591871	Kalmistu tee	tertiary	37	1	21	
+EE	591871	Side	residential	36	1	20	
+EE	591871	Kasvandu tee	tertiary	32	1	6	
+EE	591871	Veski	residential	22	1	12	
+EE	591871	Tamme tee		18	1	12	
+EE	591871	Kuuse	residential	17	1	8	
+EE	591871	Staadioni	residential	17	3	16	
+EE	591871	Pendi tee		16	2	5	
+EE	591871	Lehtmetsa tee	unclassified	15	3	23	
+EE	591871	Koka	residential	13	2	9	
+EE	591871	Nurmenuku	residential	10	4	15	
+EE	591876	Aruküla tee	tertiary	134	8	87	
+EE	591876	Atleedi tee	residential	107	3	52	
+EE	591876	Ehituse	residential	80	6	24	
+EE	591876	Rae tee	tertiary	67	4	56	
+EE	591876	Aaviku tee	tertiary	65	4	37	
+EE	591876	Jõetiiru tee	residential	64	7	52	
+EE	591876	Patika tee		57	18	62	
+EE	591876	Ühistu tee	residential	55	6	58	
+EE	591876	Vesiroosi põik	residential	51	3	41	
+EE	591876	Jüri tee	tertiary	49	40	61	
+EE	591876	Kesk tee	unclassified	49	7	38	
+EE	591876	Kesa tee	residential	44	4	35	
+EE	591893	Narva mnt	secondary	237	5	186	
+EE	591893	Virumarja	residential	166	4	115	
+EE	591893	Soo	residential	156	1	67	
+EE	591893	A. H. Tammsaare	residential	142	9	63	
+EE	591893	Kirbulinna tee	unclassified	113	13	69	
+EE	591893	Aia	residential	103	4	108	
+EE	591893	Põllu	residential	100	1	41	
+EE	591893	Pargi	secondary	95	15	55	
+EE	591893	Sompa	residential	95	2	46	
+EE	591893	Rakvere		92	6	41	
+EE	591893	Kuldreneti		91	3	62	
+EE	591893	Pärna		84	5	51	
+EE	591893	Veski	residential	82	3	28	
+EE	591893	Jaama	tertiary	80	4	53	
+EE	591893	Rahu	residential	80	6	52	
+EE	591893	Tamme	residential	79	3	28	
+EE	591893	Juubeli	residential	78	4	62	
+EE	591893	Kaasiku	tertiary	77	5	48	
+EE	591893	Rohuaia	residential	77	2	67	
+EE	591893	Malmi	residential	75	2	19	
+EE	591893	Linna		69	4	53	
+EE	591893	Marja	residential	67	6	46	
+EE	591893	Aasa	residential	65	6	51	
+EE	591893	Edise tee	unclassified	65	14	53	
+EE	591902	Suur	residential	199	5	90	
+EE	591902	Kuremaa tee	tertiary	126	4	59	
+EE	591902	Aia	residential	89	3	50	
+EE	591902	Julius Aamisepa	residential	87	2	23	
+EE	591902	Roosi	residential	82	1	42	
+EE	591902	Kalda	residential	67	2	19	
+EE	591902	Mustvee mnt	tertiary	67	1	20	
+EE	591902	Puiestee	residential	67	2	38	
+EE	591902	Jaama	tertiary	64	1	19	
+EE	591902	Suvila	residential	58	1	19	
+EE	591902	Tallinna mnt	secondary	56	2	21	
+EE	591902	Vainu	residential	56	1	19	
+EE	591902	Kirsi	residential	55	3	31	
+EE	591902	Kesk	residential	52	4	20	
+EE	591902	Allika	residential	46	2	41	
+EE	591902	Pargi	residential	45	2	25	
+EE	591902	Põllu	residential	40	1	26	
+EE	591902	Jõe	residential	37	1	14	
+EE	591902	Piiri	residential	37	1	23	
+EE	591902	Pärna	living_street	37	1	9	
+EE	591902	Lepiku	residential	35	1	26	
+EE	591902	Tamme	residential	35	1	14	
+EE	591902	Energia	tertiary	34	1	7	
+EE	591902	Betti Alveri	residential	32	1	15	
+EE	591955	Järve mõisaallee		4	3	5	
+EE	591955	Kohtla-Järve — Kukruse — Tammiku	secondary	1	0	0	
+EE	591965	Tallinna mnt	secondary	252	2	59	
+EE	591965	Uus	residential	126	4	43	
+EE	591965	Rahu	residential	114	1	30	
+EE	591965	Nõlva	residential	102	3	39	
+EE	591965	Tehaste		32	2	22	
+EE	591965	Vabaduse	residential	32	1	11	
+EE	591965	Papli	residential	30	1	12	
+EE	591965	Pargi	residential	27	1	7	
+EE	591965	Männi	residential	26	2	11	
+EE	591965	Aleti tee	tertiary	25	1	11	
+EE	591965	Põllu	residential	22	29	39	
+EE	591965	Jaama	tertiary	20	1	8	
+EE	591968	Pikk	secondary	198	7	96	
+EE	591968	Kalda	residential	149	2	57	
+EE	591968	Lai	residential	149	2	56	
+EE	591968	Pärna	residential	52	2	28	
+EE	591968	Koeru tee	secondary	40	2	23	
+EE	591968	Pikevere tee	tertiary	38	1	10	
+EE	591968	Metsla tee	tertiary	34	1	35	
+EE	591968	Jaani	tertiary	29	1	15	
+EE	591968	Külaringi tee	residential	26	1	14	
+EE	591968	Tamsalu tee	tertiary	22	1	16	
+EE	591968	Soo	tertiary	21	3	14	
+EE	591968	Põllu	residential	18	1	17	
+EE	592049	Raba tee	residential	100	3	27	
+EE	592049	Järve tee	residential	53	4	27	
+EE	592049	Ändi tee	tertiary	47	1	18	
+EE	592049	Ojaääre	tertiary	46	3	26	
+EE	592049	Kurvitsa tee	residential	35	2	27	
+EE	592049	Tüki-Üleoja	residential	32	1	26	
+EE	592049	Aiakaare tee	tertiary	30	1	25	
+EE	592049	Tartu mnt		28	2	18	
+EE	592049	Kirissaare tee	residential	24	2	12	
+EE	592049	Mesila tee	unclassified	23	2	18	
+EE	592049	Asusilla tee	tertiary	22	1	5	
+EE	592049	Ojari tee	residential	22	1	17	
+EE	592062	Tartu mnt	tertiary	175	2	70	
+EE	592062	Sõpruse	residential	56	2	34	
+EE	592062	Metsa	residential	49	2	16	
+EE	592062	Robert Theodor Hanseni	residential	34	1	16	
+EE	592062	Kaare	residential	25	1	6	
+EE	592062	Tamme	secondary	23	2	10	
+EE	592062	Tervise	tertiary	22	1	7	
+EE	592062	Kalda	residential	21	1	10	
+EE	592062	Tiigi	residential	19	1	8	
+EE	592062	Pargi	residential	18	1	9	
+EE	592062	Nurga	residential	17	1	6	
+EE	592062	Aia	residential	15	1	12	
+EE	592091	Hullo tee	tertiary	1	0	0	
+EE	592091	Kerslinina tee	unclassified	1	0	0	
+EE	592091	Rälby sadama tee	unclassified	1	0	0	
+EE	592091	Sviby sadama tee	tertiary	1	0	0	
+EE	592091	Sviby-Rälby tee	unclassified	1	0	0	
+EE	592091	Vormsi ringtee	tertiary	1	0	0	
+EE	592093	Vandu tee	residential	46	2	19	
+EE	592093	Rakvere tee	unclassified	36	1	32	
+EE	592093	Kooli	residential	31	1	14	
+EE	592093	Tõnismäe tee	residential	26	4	22	
+EE	592093	Rebasemäe tee	residential	19	2	14	
+EE	592093	Keskuse	residential	15	1	15	
+EE	592093	Järni tee	residential	1	0	0	
+EE	592093	Oja	residential	1	0	0	
+EE	592093	Pärnu — Rakvere — Sõmeru	primary	1	0	0	
+EE	592127	Jakob Hurda tee	residential	45	7	19	
+EE	592127	Keskuse tee	residential	28	24	35	
+EE	592127	Orajõe tee	residential	16	5	15	
+EE	592127	Tõõtsimäe tee	residential	14	1	3	
+EE	592127	Terminali tee		11	1	4	
+EE	592127	Karjääri tee	residential	7	1	5	
+EE	592127	Oru tee		3	6	8	
+EE	592127	Pärna tee	residential	3	1	2	
+EE	592127	Himmaste — Rasina	tertiary	1	0	0	
+EE	592127	Kärsa — Eoste	tertiary	1	0	0	
+EE	592168	Riisipere tee	tertiary	76	3	29	
+EE	592168	Lossi tee	tertiary	25	2	14	
+EE	592168	Kustja tee	unclassified	19	2	10	
+EE	592168	Suve tee	unclassified	16	1	6	
+EE	592168	Sireli tee	residential	10	1	12	
+EE	592168	Kuuse tee	unclassified	7	3	9	
+EE	592168	Lossipargi tee	unclassified	7	1	8	
+EE	592168	Karjatse tee	unclassified	6	1	3	
+EE	592168	Pargi tee	unclassified	6	1	3	
+EE	592168	Kastani tee	residential	5	3	8	
+EE	592168	Pihlaka tee	residential	3	3	5	
+EE	592168	Tiigi tee	unclassified	3	2	3	
+EE	592200	Võsu mnt	tertiary	135	4	51	
+EE	592200	Rakvere mnt	residential	99	3	31	
+EE	592200	Uus	residential	82	2	26	
+EE	592200	Tallinna mnt	tertiary	59	2	40	
+EE	592200	Tammispea tee	tertiary	55	1	16	
+EE	592200	Veskijärve	residential	36	1	20	
+EE	592200	Pargi	residential	33	2	29	
+EE	592200	Tervete	residential	28	1	11	
+EE	592200	Kooli	residential	19	1	9	
+EE	592200	Uus põik	residential	14	1	27	
+EE	592200	Ehituse		13	3	8	
+EE	592200	Tamme tee	tertiary	13	1	6	
+EE	592225	Tallinna mnt	primary	200	5	73	
+EE	592225	Jalaka	residential	171	2	102	
+EE	592225	Kuuse	residential	128	2	65	
+EE	592225	Õpetaja	residential	116	5	49	
+EE	592225	Tamme	residential	111	1	48	
+EE	592225	Kalda	residential	103	4	57	
+EE	592225	Raudtee	residential	99	2	45	
+EE	592225	Võnnu	residential	99	3	48	
+EE	592225	Kase	residential	95	2	40	
+EE	592225	Metsa	residential	93	14	75	
+EE	592225	Posti	tertiary	87	4	40	
+EE	592225	Lihula mnt	secondary	86	3	29	
+EE	592225	Niine	residential	84	2	51	
+EE	592225	Haava	residential	78	2	32	
+EE	592225	Kaluri	residential	76	2	37	
+EE	592225	Männiku tee	residential	76	6	40	
+EE	592225	Endla	residential	70	1	29	
+EE	592225	Sadama	residential	69	2	39	
+EE	592225	Lepa	residential	66	1	29	
+EE	592225	Uus	residential	65	4	31	
+EE	592225	Karja	residential	59	1	27	
+EE	592225	Kopli	residential	56	3	41	
+EE	592225	Lydia Koidula	residential	56	5	40	
+EE	592225	Lahe	residential	53	1	38	
+EE	592232	Pärnu mnt	tertiary	145	2	58	
+EE	592232	Kooli	tertiary	106	3	32	
+EE	592232	Suurküla	residential	76	3	26	
+EE	592232	Side	residential	50	1	27	
+EE	592232	Metsa	residential	49	2	33	
+EE	592232	Tööstuse	residential	28	1	11	
+EE	592232	Lille	living_street	27	1	11	
+EE	592232	Männi	residential	26	1	9	
+EE	592232	Staadioni	residential	25	1	7	
+EE	592232	Õunaaia tee	residential	25	1	10	
+EE	592232	Tuule	living_street	23	1	12	
+EE	592232	Linnu tee	residential	22	1	13	
+EE	592233	Rohuneeme tee	tertiary	95	1	45	
+EE	592233	Lumemarja tee	residential	69	3	53	
+EE	592233	Hundi tee	residential	45	3	42	
+EE	592233	Pihlaka tee	residential	45	2	29	
+EE	592233	Käärti tee	residential	44	3	31	
+EE	592233	Männi tee	residential	39	1	23	
+EE	592233	Hõbepaju tee	residential	38	2	30	
+EE	592233	Kaluri tee	residential	38	2	24	
+EE	592233	Mereranna tee	residential	38	2	30	
+EE	592233	Nurme põik	residential	36	4	38	
+EE	592233	Salu tee	residential	36	2	24	
+EE	592233	Heldri tee	residential	35	3	55	
+EE	592279	Tartu mnt	tertiary	172	4	40	
+EE	592279	Käo tee	tertiary	171	5	80	
+EE	592279	Valga mnt	tertiary	157	3	50	
+EE	592279	Pikk	tertiary	142	4	66	
+EE	592279	Jaan Kärneri	tertiary	135	2	39	
+EE	592279	Vaikne	residential	92	1	43	
+EE	592279	Kesk	residential	82	2	36	
+EE	592279	Pargi	residential	82	1	44	
+EE	592279	Kruusa	residential	77	2	35	
+EE	592279	Laane	residential	74	4	34	
+EE	592279	Vapramäe	residential	74	2	31	
+EE	592279	Peedu tee	tertiary	69	4	77	
+EE	592279	Puiestee	tertiary	69	1	35	
+EE	592279	Mahlamäe	residential	63	1	19	
+EE	592279	Nõmme	residential	57	1	28	
+EE	592279	Tähe	residential	57	1	14	
+EE	592279	Uuta tee	tertiary	57	2	19	
+EE	592279	Vana-Koidu	residential	56	2	24	
+EE	592279	Kase	residential	54	3	34	
+EE	592279	Lõuna	residential	53	1	21	
+EE	592279	Palu tee	residential	53	1	28	
+EE	592279	Suvila	residential	52	2	39	
+EE	592279	Tuletõrje	residential	52	1	22	
+EE	592279	Tiigi	residential	50	1	8	
+EE	592334	Rakvere	secondary	134	4	63	
+EE	592334	Võidu	secondary	102	2	48	
+EE	592334	Ööbiku	tertiary	46	1	16	
+EE	592334	Jaama	residential	45	1	26	
+EE	592334	Tööstuse	tertiary	45	2	13	
+EE	592334	Põllu	residential	40	2	28	
+EE	592334	Ülejõe	residential	36	1	16	
+EE	592334	Metsa	residential	32	1	12	
+EE	592334	Kase	residential	23	2	12	
+EE	592334	Aasa	residential	22	1	11	
+EE	592334	Lepa	residential	21	2	13	
+EE	592334	Nurme	residential	18	1	8	
+EE	592351	Pihlaka	residential	114	3	60	
+EE	592351	Aroonia	residential	103	2	64	
+EE	592351	Tiigi	residential	101	5	63	
+EE	592351	Lihula mnt	tertiary	83	1	23	
+EE	592351	Lõvi tee	residential	66	2	52	
+EE	592351	Sireli	residential	53	4	53	
+EE	592351	Looga tee	residential	47	2	23	
+EE	592351	Muti ringtee	residential	40	1	22	
+EE	592351	Põldeotsa tee	tertiary	40	1	22	
+EE	592351	Käreda tee	residential	38	1	18	
+EE	592351	Tõstamaa mnt	tertiary	36	1	11	
+EE	592351	Ringi	residential	33	1	11	
+EE	592374	Metsa	residential	35	1	9	
+EE	592374	Dolomiidi	residential	32	1	10	
+EE	592374	Eha	unclassified	15	2	8	
+EE	592374	Kase	residential	15	1	6	
+EE	592374	Saare	residential	15	1	8	
+EE	592374	Tamme	residential	12	5	9	
+EE	592374	Rahu	residential	11	1	10	
+EE	592374	Sarapiku	residential	10	1	4	
+EE	592374	Võhma mnt	secondary	9	2	6	
+EE	592374	Soo	residential	6	1	6	
+EE	592374	Vana-Sarapiku		4	2	4	
+EE	592374	Dolomiidi põik	residential	3	2	2	
+EE	592379	Rahu	residential	62	7	35	
+EE	592379	Tulbi	residential	56	1	35	
+EE	592379	Roosi	residential	54	4	34	
+EE	592379	Õie	residential	49	2	34	
+EE	592379	Nelgi	residential	47	1	30	
+EE	592379	Muru	residential	42	1	17	
+EE	592379	Tehase	residential	32	1	23	
+EE	592379	Pihlaka	residential	30	1	22	
+EE	592379	Paekalda	residential	29	2	22	
+EE	592379	Aasa	residential	28	4	24	
+EE	592379	Allika	residential	28	2	15	
+EE	592379	Tellise	residential	28	4	19	
+EE	592396	Männiku tee	residential	107	2	37	
+EE	592396	Tallinna mnt	tertiary	102	4	39	
+EE	592396	Harju tee	residential	82	2	35	
+EE	592396	Suvila	residential	71	2	30	
+EE	592396	Nurme	residential	66	2	33	
+EE	592396	Põhja	residential	64	1	38	
+EE	592396	Talve tee	residential	49	1	20	
+EE	592396	Sarapiku tee	tertiary	47	2	18	
+EE	592396	Põllu	residential	44	3	30	
+EE	592396	Sügise	residential	42	2	27	
+EE	592396	Tamme	residential	36	1	17	
+EE	592396	Linnu tee	residential	35	1	25	
+EE	592437	Jõe tee	residential	53	1	24	
+EE	592437	Lasteaia tee	residential	45	2	30	
+EE	592437	Kesk tee	residential	34	1	11	
+EE	592437	Pala tee	residential	19	1	18	
+EE	592437	Tallinna mnt	tertiary	19	1	10	
+EE	592437	Lasteaia põik	residential	14	2	10	
+EE	592437	Veehoidla tee	residential	13	1	10	
+EE	592437	Ardu — Pala — Paunaste	unclassified	1	0	0	
+EE	592437	Ardu — Saarnakõrve	unclassified	1	0	0	
+EE	592437	Ardu-Mardimäe tee	unclassified	1	0	0	
+EE	592437	Ardu-Pusu-Nõmmeri tee	unclassified	1	0	0	
+EE	592437	Kose — Ardu	tertiary	1	0	0	
+EE	592441	Pikk	residential	113	2	47	
+EE	592441	Piibe mnt	tertiary	76	1	28	
+EE	592441	Tapa mnt	tertiary	69	2	36	
+EE	592441	Oja tee	tertiary	57	4	32	
+EE	592441	Ambla tee	tertiary	55	2	30	
+EE	592441	Maarjamõisa tee	unclassified	55	1	41	
+EE	592441	Pargi	residential	50	1	23	
+EE	592441	Mäe	residential	46	2	18	
+EE	592441	Lai	tertiary	37	1	24	
+EE	592441	Ojaküla tee	residential	35	3	22	
+EE	592441	Aasa	residential	32	4	23	
+EE	592441	Jõe	tertiary	31	2	21	
+EE	592459	Pärna	tertiary	155	6	56	
+EE	592459	Lõuna	residential	129	3	51	
+EE	592459	Jaani	tertiary	115	6	66	
+EE	592459	Põllu	residential	100	4	47	
+EE	592459	Veski	tertiary	96	6	53	
+EE	592459	Tsooru mnt	tertiary	86	2	31	
+EE	592459	Friedrich Reinhold Kreutzwaldi	secondary	72	3	36	
+EE	592459	Tamme	residential	70	2	26	
+EE	592459	Kooli tee	residential	69	3	39	
+EE	592459	Soo	residential	49	1	19	
+EE	592459	Metsa	tertiary	48	1	27	
+EE	592459	Raudtee	residential	48	6	54	
+EE	592512	Tallinna mnt	residential	79	3	24	
+EE	592512	Tiigi	living_street	51	2	11	
+EE	592512	Härgla tee	unclassified	22	2	10	
+EE	592512	Männi	residential	19	1	10	
+EE	592512	Lao	residential	17	2	12	
+EE	592512	Palamulla tee	unclassified	17	9	24	
+EE	592512	Kuuse	residential	16	1	10	
+EE	592512	Kure	residential	15	2	10	
+EE	592512	Panga		15	3	10	
+EE	592512	Rapla tee	residential	14	1	9	
+EE	592512	Mäe	living_street	12	1	8	
+EE	592512	Uus	residential	12	1	11	
+EE	592557	Ranna	tertiary	136	9	63	
+EE	592557	Suur tee	tertiary	119	2	43	
+EE	592557	Ranna tee	residential	114	3	57	
+EE	592557	Pikk	residential	89	6	60	
+EE	592557	Roheline	residential	58	1	27	
+EE	592557	Sadama	residential	58	5	20	
+EE	592557	Kooli	tertiary	56	1	23	
+EE	592557	Uus	residential	37	2	16	
+EE	592557	Kalmistu	residential	28	1	9	
+EE	592557	Aia	residential	27	5	31	
+EE	592557	Lossi	residential	26	1	10	
+EE	592557	Metsakivi	tertiary	26	1	10	
+EE	592593	Tartu mnt	secondary	162	3	54	
+EE	592593	Illimari	tertiary	58	1	19	
+EE	592593	Rahu	residential	36	1	15	
+EE	592593	Tehase	residential	34	2	11	
+EE	592593	Allika	residential	29	3	19	
+EE	592593	Ülejärve tee		20	3	13	
+EE	592593	Silla	residential	15	1	9	
+EE	592593	Järveotsa tee	residential	14	8	21	
+EE	592593	Ella tee		10	1	7	
+EE	592593	Nooruse	residential	9	1	6	
+EE	592593	Pärna		9	3	12	
+EE	592593	Arusoo tee		8	1	3	
+EE	592611	Piibe mnt	secondary	151	3	57	
+EE	592611	Pärna	residential	62	1	25	
+EE	592611	Jaama	secondary	49	1	31	
+EE	592611	Metsa	residential	48	2	26	
+EE	592611	Poolemõisa	residential	42	2	18	
+EE	592611	Kastani	residential	39	3	21	
+EE	592611	Papli	residential	37	1	13	
+EE	592611	Kalda	residential	36	5	20	
+EE	592611	Vahtra	residential	35	1	21	
+EE	592611	Nelijärve	residential	34	1	6	
+EE	592611	Tamme	residential	31	1	29	
+EE	592611	Kase	residential	30	1	14	
+EE	592619	Kase	residential	29	1	19	
+EE	592619	Kaare tee	residential	28	6	21	
+EE	592619	Puiatu tee	tertiary	26	2	11	
+EE	592619	Kiigevere tee	tertiary	21	7	16	
+EE	592619	Kuuse	residential	19	1	14	
+EE	592619	Saarekuusiku tee	residential	19	2	12	
+EE	592619	Puduküla	unclassified	17	2	5	
+EE	592619	Tööstuse	residential	17	1	9	
+EE	592619	Tallinna mnt		15	1	8	
+EE	592619	Pargi	living_street	14	1	11	
+EE	592619	Sapi tee	residential	13	1	4	
+EE	592619	Paju	residential	11	1	6	
+EE	592626	Pärnu mnt	primary	142	5	71	
+EE	592626	Aia	residential	96	2	44	
+EE	592626	Kangru	residential	81	2	30	
+EE	592626	Viljandi tee	tertiary	79	2	43	
+EE	592626	Viljandi mnt	tertiary	61	2	26	
+EE	592626	Nuia tee	primary	55	1	13	
+EE	592626	Jaama	residential	54	1	18	
+EE	592626	Lille	residential	47	1	24	
+EE	592626	Tiigi	residential	47	1	12	
+EE	592626	Veski	residential	46	1	19	
+EE	592626	Põhja	living_street	41	2	24	
+EE	592626	Abja tee	tertiary	40	1	15	
+EE	592635	Salu	residential	40	2	23	
+EE	592635	Kasesalu	tertiary	31	1	22	
+EE	592635	Hageri tee	tertiary	27	2	26	
+EE	592635	Kasemäe tee	residential	23	3	21	
+EE	592635	Haraka tee	unclassified	22	1	10	
+EE	592635	Karja tee	residential	22	1	15	
+EE	592635	Kuuskmetsa tee	residential	22	5	22	
+EE	592635	Tamme	residential	19	1	16	
+EE	592635	Mõisa tee	tertiary	18	8	25	
+EE	592635	Kaseoksa tee	unclassified	10	1	11	
+EE	592635	Lepasalu	residential	10	1	4	
+EE	592635	Kase tee	residential	7	1	15	
+EE	793237	Kose mnt	tertiary	70	27	80	
+EE	793237	Vainu tee	residential	25	3	14	
+EE	793237	Suurekivi tee	residential	17	3	9	
+EE	793237	Metsaveere tee	residential	15	1	6	
+EE	793237	Uus-Asula tee	residential	9	1	4	
+EE	793237	Änki tee		7	1	4	
+EE	793237	Pikaveski tee	residential	6	1	13	
+EE	793237	Teppani tee		6	1	10	
+EE	793237	Aasamäe tee		2	1	5	
+EE	793237	Alavere ring	tertiary	1	0	0	
+EE	793237	Alavere — Rooküla	residential	1	0	0	
+EE	793237	Alavere — Voose	tertiary	1	0	0	
+EE	793250	Männi tee	residential	9	8	12	
+EE	793250	Ringi tee	residential	4	4	7	
+EE	793250	Mäepealse tee		2	3	3	
+EE	793250	Hõbeda — Võipere	tertiary	1	0	0	
+EE	793250	Mõndavere tee	unclassified	1	0	0	
+EE	793250	Tapa — Loobu	secondary	1	0	0	
+EE	793250	Vohnja — Kadrina	tertiary	1	0	0	
+EE	793306	Pikk	tertiary	72	3	25	
+EE	793306	Kesktee	tertiary	69	3	30	
+EE	793306	Kalda	residential	14	1	8	
+EE	793306	Roheline	residential	13	1	3	
+EE	793306	Välja	residential	13	1	12	
+EE	793306	Laane	residential	11	1	3	
+EE	793306	Jaani	tertiary	10	1	8	
+EE	793306	Laada	residential	8	1	2	
+EE	793306	Luha	residential	8	2	6	
+EE	793306	Muhu tee	residential	8	2	12	
+EE	793306	Kooli		7	1	6	
+EE	793306	Jaama	residential	6	1	2	
+EE	793457	Jaaniku tee	residential	36	2	19	
+EE	793457	Luha	residential	29	1	22	
+EE	793457	Vaeküla tee	tertiary	29	1	17	
+EE	793457	Jaama tee	residential	27	2	20	
+EE	793457	Puiestee	residential	25	1	20	
+EE	793457	Jõe	residential	24	3	11	
+EE	793457	Roosi tee	residential	22	1	12	
+EE	793457	Aia	residential	21	1	18	
+EE	793457	Kohala mnt	tertiary	20	1	10	
+EE	793457	Mõisavahe tee	residential	20	2	13	
+EE	793457	Pae tee	residential	20	1	11	
+EE	793457	Põllu	residential	20	2	15	
+EE	793505	Tiigi	residential	72	4	38	
+EE	793505	Metsa	residential	28	1	7	
+EE	793505	Narva mnt		12	5	17	
+EE	793505	Alliksaare põik		7	1	8	
+EE	793505	Laagna tee	residential	4	1	3	
+EE	793505	Mõisa tee		3	2	6	
+EE	793505	Hõbepaju tee	residential	1	0	0	
+EE	793505	Narva — Arumäe	tertiary	1	0	0	
+EE	793505	Narva — Auvere	tertiary	1	0	0	
+EE	793505	Tuleviku tee	unclassified	1	0	0	
+EE	793505	Valve tee	unclassified	1	0	0	
+EE	793865	Rahetsema tee	living_street	73	1	68	
+EE	793865	Paistu tee	tertiary	49	4	36	
+EE	793865	Metsaküla tee	living_street	37	3	33	
+EE	793865	Aia tee	residential	36	3	19	
+EE	793865	Turba tee	residential	35	2	14	
+EE	793865	Loodi tee	tertiary	33	15	34	
+EE	793865	Järve tee	living_street	31	4	25	
+EE	793865	Kiriku tee	residential	25	2	18	
+EE	793865	Tooma tee	residential	18	2	5	
+EE	793865	Emamänni tee	living_street	17	4	24	
+EE	793865	Piibu põik	residential	14	2	12	
+EE	793865	Orava tee		13	3	10	
+EE	794019	Mesika	residential	30	10	32	
+EE	794019	Männituka	residential	9	1	9	
+EE	794019	Mesilinnu	residential	6	1	6	
+EE	794019	Odra	residential	4	2	7	
+EE	794019	Elva — Kintsli	tertiary	1	0	0	
+EE	794019	Hellenurme — Mäelooga	tertiary	1	0	0	
+EE	794019	Hellenurme — Päidla	tertiary	1	0	0	
+EE	794019	Mesika põik	residential	1	0	0	
+EE	794019	Mäe - Kriisa	unclassified	1	0	0	
+EE	794040	Haage tee	tertiary	79	1	48	
+EE	794040	Haaviku tee	residential	49	2	23	
+EE	794040	Kullerkupu	residential	35	1	28	
+EE	794040	Lennuvälja tee	tertiary	33	4	27	
+EE	794040	Arroli	residential	31	2	26	
+EE	794040	Eha	residential	31	1	16	
+EE	794040	Järve tee	tertiary	31	1	16	
+EE	794040	Kase tee	residential	30	1	16	
+EE	794040	Lennu	tertiary	30	11	66	
+EE	794040	Nurmenuku	residential	29	3	61	
+EE	794040	Ojasoo tee	residential	29	1	27	
+EE	794040	Veere tee	residential	28	2	17	
+EE	794057	Külaplatsi tee	tertiary	15	7	21	
+EE	794057	Kooli tee	residential	6	2	12	
+EE	794057	Posti tee	residential	3	1	2	
+EE	794057	Haaslava — Vana-Kuuste	tertiary	1	0	0	
+EE	794057	Kambja — Kodijärve	tertiary	1	0	0	
+EE	794057	Kambja — Rebase	tertiary	1	0	0	
+EE	794057	Kambja — Sirvaku	tertiary	1	0	0	
+EE	794057	Kammeri - Lutike	unclassified	1	0	0	
+EE	794057	Kiisa - Tootsi tee	residential	1	0	0	
+EE	794057	Kopa-Peeda	unclassified	1	0	0	
+EE	794057	Kopa-Peedu	unclassified	1	0	0	
+EE	794057	Külavahe tee	unclassified	1	0	0	
+EE	794296	Karikakra	residential	34	1	17	
+EE	794296	Kose tee	secondary	32	14	49	
+EE	794296	Valgjärve	residential	32	3	16	
+EE	794296	Tulbi	residential	30	2	32	
+EE	794296	Tervise	residential	27	1	20	
+EE	794296	Pappjärve	residential	26	2	20	
+EE	794296	Karjääri	residential	22	2	16	
+EE	794296	Vanaraua tee		22	2	13	
+EE	794296	Kreegi	residential	21	2	22	
+EE	794296	Ööbiku	residential	21	2	25	
+EE	794296	Kosevälja	residential	20	1	11	
+EE	794296	Ülase	residential	17	1	19	
+EE	794471	Männi	residential	41	1	25	
+EE	794471	Tehnika	residential	33	1	10	
+EE	794471	Võru tee	tertiary	33	1	12	
+EE	794471	Kanariku	residential	22	2	16	
+EE	794471	Kesk	residential	21	1	14	
+EE	794471	Karja	residential	20	1	11	
+EE	794471	Metsa tee	unclassified	8	4	8	
+EE	794471	Alaküla tee	unclassified	1	0	0	
+EE	794471	Asi-Lepa tee	unclassified	1	0	0	
+EE	794471	Erastvere — Ridali	tertiary	1	0	0	
+EE	794471	Hine tee	unclassified	1	0	0	
+EE	794471	Joosu-Metsamäe	unclassified	1	0	0	
+EE	794886	Jõõdre tee	residential	47	3	24	
+EE	794886	Kooli		31	1	13	
+EE	794886	Panga tee		29	1	11	
+EE	794886	Kadaka tee	residential	27	22	41	
+EE	794886	Mäemõisa tee	unclassified	24	1	12	
+EE	794886	Merekaru tee		22	2	16	
+EE	794886	Sirmiku tee	unclassified	22	1	13	
+EE	794886	Toome	residential	22	4	15	
+EE	794886	Topu tee	unclassified	15	1	13	
+EE	794886	Puraviku tee	residential	13	1	11	
+EE	794886	Kaasiku tee	residential	12	1	10	
+EE	794886	Niinemäe tee	unclassified	10	1	4	
+EE	794963	Instituudi tee	tertiary	74	4	18	
+EE	794963	Uus	unclassified	26	1	13	
+EE	794963	Rukkilille	residential	18	3	23	
+EE	794963	Pikk	residential	17	1	9	
+EE	794963	Altmäe tee	residential	15	1	11	
+EE	794963	Klubi	residential	14	1	7	
+EE	794963	Metsa tee	residential	13	7	13	
+EE	794963	Põllu	residential	12	2	10	
+EE	794963	Rukkilille põik	residential	9	1	8	
+EE	794963	Õle	residential	9	1	5	
+EE	794963	Alajaama tee	unclassified	8	1	8	
+EE	794963	Angerja tee	unclassified	8	44	59	
+EE	794964	Vanasilla	residential	123	3	57	
+EE	794964	Kuuse	residential	84	3	43	
+EE	794964	Metsa	residential	80	4	33	
+EE	794964	Pärnu mnt		69	487	560	
+EE	794964	Kuuse põik	residential	64	2	42	
+EE	794964	Jõe tee	residential	57	1	33	
+EE	794964	Koidu tee	residential	56	1	70	
+EE	794964	Pilliroo	residential	56	28	83	
+EE	794964	Kalda tee	residential	41	1	15	
+EE	794964	Veski tee	tertiary	41	2	44	
+EE	794964	Tootsi tee	residential	40	3	39	
+EE	794964	Sae	residential	34	1	13	
+EE	794964	Karuvildiku	residential	33	4	30	
+EE	794964	Selleri	residential	33	4	22	
+EE	794964	Tänassilma tee	unclassified	33	4	41	
+EE	794964	Uuetalu põik	residential	32	5	31	
+EE	794964	Veskitammi	tertiary	32	3	32	
+EE	794964	Tuulemurru	residential	29	2	17	
+EE	794964	Harusambla	residential	28	2	20	
+EE	794964	Pajude pst	residential	28	3	11	
+EE	794964	Veski	residential	28	2	20	
+EE	794964	Samblajuure	residential	27	1	18	
+EE	794964	Avamaa	residential	25	1	20	
+EE	794964	Jõeveere tee	tertiary	25	4	34	
+EE	8181718	Kirsi tee	living_street	59	2	29	
+EE	8181718	Pirni tee	living_street	57	2	40	
+EE	8181718	Kesk-Kaare tee	residential	55	48	105	
+EE	8181718	Pärnamäe tee	unclassified	34	146	188	
+EE	8181718	Sooheina tee	residential	27	2	23	
+EE	8181718	Metsakasti tee	living_street	26	2	21	
+EE	8181718	Ploomi tee	living_street	26	3	16	
+EE	8181718	Linnase tee	residential	25	4	26	
+EE	8181718	Lootuse tee	living_street	23	2	14	
+EE	8181718	Mäepealse tee	living_street	23	1	14	
+EE	8181718	Mureli põik	living_street	22	1	12	
+EE	8181718	Soosepa tee	residential	22	19	57	
+EE	9180440	Veski tee	residential	58	15	38	
+EE	9180440	Männiku tee	tertiary	41	96	123	
+EE	9180440	Väike-Männiku	unclassified	30	3	13	
+EE	9180440	Hirve tee	residential	21	7	52	
+EE	9180440	Karja tee	residential	21	2	23	
+EE	9180440	Tiigi tee	residential	18	1	6	
+EE	9180440	Kangrumäe tee	residential	16	16	29	
+EE	9180440	Ilvese tee	residential	15	10	31	
+EE	9180440	Pirni	residential	12	1	15	
+EE	9180440	Silvia		11	1	10	
+EE	9180440	Järve põik		10	12	20	
+EE	9180440	Valdeku	tertiary	8	99	132	
+EE	9180440	Turu tee	unclassified	7	1	7	
+EE	9180440	Elupuu tee	residential	6	1	4	
+EE	9180440	Jänese tee		6	2	9	
+EE	9180440	Paju tee	residential	6	22	25	
+EE	9180440	Suur-Männiku	residential	6	2	10	
+EE	9180440	Mahla	residential	5	42	64	
+EE	9180440	Turuveski tee	residential	5	1	4	
+EE	9180440	Kangru tee	unclassified	4	6	17	
+EE	9180440	Kähriku tee		4	3	7	
+EE	9180440	Mikuhansu tee		4	5	15	
+EE	9180440	Pihlaka	residential	3	1	12	
+EE	9180440	Kauge	residential	2	4	4	

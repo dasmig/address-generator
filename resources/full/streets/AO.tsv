@@ -1,0 +1,1722 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+AO	145531	Calle Urbana	residential	1	0	0	
+AO	145531	Curva C	residential	1	0	0	
+AO	145531	Rua Principal de Saurimo	tertiary	1	0	0	
+AO	145531	Rua da Liberdade	unclassified	1	0	0	
+AO	145531	intercepcion de carretera	residential	1	0	0	
+AO	145757	Rua 28 de Agosto	residential	1	0	0	
+AO	876482	EN190	tertiary	1	0	0	
+AO	2236568	Rua c	residential	1	0	0	
+AO	2236568	Rua do Comerçio	unclassified	1	0	0	
+AO	2236716	Tomboco/M'banza Congo	primary	1	0	0	
+AO	2236967	Avenida-1	unclassified	1	0	0	
+AO	2236967	Cuimba	living_street	1	0	0	
+AO	2236967	Estrada Cadal	tertiary	1	0	0	
+AO	2236967	Kindeje	living_street	1	0	0	
+AO	2236967	Luvo	living_street	1	0	0	
+AO	2236967	M'Banza Congo	living_street	1	0	0	
+AO	2236967	N'Zeto	living_street	1	0	0	
+AO	2236967	Noqui	living_street	1	0	0	
+AO	2236967	Ponte Cadal	tertiary	1	0	0	
+AO	2236967	Quelo	living_street	1	0	0	
+AO	2236967	Rua Do Zaire	living_street	1	0	0	
+AO	2236967	Rua Gonçalo Teresa Gonçalo	residential	1	0	0	
+AO	2236967	Rua Gonçalo teresa Gonçalo	residential	1	0	0	
+AO	2236967	Rua ao aeroporto	tertiary	1	0	0	
+AO	2236967	Rua do Novo Horizonte	tertiary	1	0	0	
+AO	2236967	Rua do complexo escolar confiança	residential	1	0	0	
+AO	2236967	Tomboco	living_street	1	0	0	
+AO	2239001	Ponte Mbridge	primary	1	0	0	
+AO	2239001	Rua 1º de Maio	tertiary	1	0	0	
+AO	2239069	Estrada do aeroporto	unclassified	1	0	0	
+AO	2239069	Rua Agostinho Neto	tertiary	1	0	0	
+AO	2239520	Rua Tomboco	primary	1	0	0	
+AO	2239862	Acesso Vila Matilde	residential	1	0	0	
+AO	2239862	Rua Do Hotel	residential	1	0	0	
+AO	2239862	Rua Miguel Bombarda	residential	1	0	0	
+AO	2239862	Rua do Comercio	residential	1	0	0	
+AO	2239888	Avenida M. Alves de Pinho	primary	1	0	0	
+AO	2239888	Avenida Revolução de Outubro	primary	1	0	0	
+AO	2239888	Estrada Kimbango-Calemba 2	secondary	1	0	0	
+AO	2239888	Rua Universal	residential	1	0	0	
+AO	2239888	Rua do Calemba 2	secondary	1	0	0	
+AO	2239888	Trav_HP	residential	1	0	0	
+AO	2239888	Trav_Lumege	residential	1	0	0	
+AO	2239888	trav_MZ	residential	1	0	0	
+AO	2240449	Kuanza		134	28	28	
+AO	2240449	Longa		78	0	0	
+AO	2240449	Dande		68	0	0	
+AO	2240449	Cubango		50	0	0	
+AO	2240449	Rua Dalia		49	6	94	
+AO	2240449	Rua 53		43	120	1580	
+AO	2240449	Rua 28		42	378	730	
+AO	2240449	Rua Praia Cacongo		41	3	49	
+AO	2240449	Rua 21	residential	39	676	1359	
+AO	2240449	Rua 35	tertiary	39	340	8010	
+AO	2240449	Rua 16	residential	37	11	9038	
+AO	2240449	Rua 64		36	101	136	
+AO	2240449	Rua 01	residential	35	0	0	
+AO	2240449	Rua 51	residential	35	20	20	
+AO	2240449	Rua 125		33	611	1347	
+AO	2240449	Rua 50	residential	32	0	0	
+AO	2240449	Rua 127		29	1300	3027	
+AO	2240449	Rua 32	residential	28	461	507	
+AO	2240449	Rua 63		28	137	173	
+AO	2240449	Rua 123	residential	27	8127	8152	
+AO	2240449	Rua 33	residential	27	436	459	
+AO	2240449	Cristovão Falcão	residential	26	20	91	
+AO	2240449	Rua 31	residential	26	511	533	
+AO	2240449	Rua 24	residential	25	44	7370	
+AO	2240449	Rua 30	residential	25	537	559	
+AO	2240449	Cuilo		24	0	0	
+AO	2240449	Rua 34	residential	24	411	432	
+AO	2240449	Rua 49	residential	24	0	0	
+AO	2240449	Rua 58	residential	24	477	586	
+AO	2240449	Rua 60		24	1583	1623	
+AO	2240449	Rua Antero de Quental	residential	24	31	59	
+AO	2240449	Cuito		23	0	0	
+AO	2240449	Rua 26	residential	23	130	685	
+AO	2240449	Rua 36	residential	22	318	337	
+AO	2240449	Rua 40	residential	22	306	372	
+AO	2240449	Rua Praia Mussulo		22	2	21	
+AO	2240449	Rua 20	residential	21	741	760	
+AO	2240449	Rua 22	residential	21	654	673	
+AO	2240449	Rua 23	residential	21	633	651	
+AO	2240449	Rua 3	residential	21	1	17	
+AO	2240449	Rua 63A	tertiary	21	8055	8192	
+AO	2240449	Rua 41	residential	20	290	395	
+AO	2240449	Francisco Sá de Miranda	residential	19	7	50	
+AO	2240449	Rua 150		19	9031	9083	
+AO	2240449	Rua 48	residential	19	0	0	
+AO	2240449	Rua 54		19	688	802	
+AO	2240449	Rua 03	residential	18	0	0	
+AO	2240449	Rua 04	residential	17	0	0	
+AO	2240449	Rua 124	residential	17	1183	8189	
+AO	2240449	Rua 65		17	150	172	
+AO	2240449	Via C4		17	9	67	
+AO	2240449	Rua 137		16	1327	5043	
+AO	2240449	Rua 6	residential	16	6	216	
+AO	2240449	Loge		15	0	0	
+AO	2240449	Rua 47	residential	15	0	0	
+AO	2240449	Rua 70		15	18	18	
+AO	2240449	Rua Doutor José Maria Antunes	residential	15	9	39	
+AO	2240449	Bengo		14	0	0	
+AO	2240449	Rua 13	residential	14	10	1288	
+AO	2240449	Gango		13	0	0	
+AO	2240449	Rua 19	residential	13	766	7367	
+AO	2240449	Rua Comandante Stona	unclassified	13	24	247	
+AO	2240449	Rua Júlio Lacerda (ex Baltazar de Aragão)		13	11	169	
+AO	2240449	Rua Praia Azul		13	1	29	
+AO	2240449	Rua 126	residential	12	620	1349	
+AO	2240449	Rua Praia do Cabo Ledo		12	1	13	
+AO	2240449	Rua de João de Deus	unclassified	12	13	117	
+AO	2240449	Alameda do Principe Real		11	2	82	
+AO	2240449	Cunene		11	0	0	
+AO	2240449	Rua 17	residential	11	2	108	
+AO	2240449	Comandante Eurico	tertiary	10	5	27	
+AO	2240449	Lomba		10	0	0	
+AO	2240449	Luando		10	0	0	
+AO	2240449	Rua 152	residential	10	7186	9109	
+AO	2240449	Rua Rainha Ginga		10	12	262	
+AO	2240449	Avenida 21 de Janeiro	primary	9	7	661	
+AO	2240449	Avenida Pedro de C. Vandunem-Loy	secondary	9	1	676	
+AO	2240449	Avenida Revolução de Outubro	primary	9	15	298	
+AO	2240449	Estrada da Samba	primary	9	5	181	
+AO	2240449	Houari Boumedienne	tertiary	9	26	164	
+AO	2240449	Rua 120	tertiary	9	1223	8196	
+AO	2240449	Rua 151	residential	9	9040	9123	
+AO	2240449	Via Luanda Sul		9	141	183	
+AO	2240449	Rua 02	residential	8	0	0	
+AO	2240449	Rua 10	residential	8	22	42	
+AO	2240449	Rua 11	residential	8	109	116	
+AO	2240449	Rua 149		8	9010	9017	
+AO	2240449	Rua 165		8	7012	7026	
+AO	2240449	Rua de Doutor Egas MonzaServiço de Migração e Estrangeiro		8	9	31	
+AO	2240449	Avenida Hoji Ya Henda (ex Avenida Brasil)		7	84	196	
+AO	2240449	Avenida Murtala Mohamed (Ex Avenida Marchal Gomes da Costa)		7	5	144	
+AO	2240449	Rua 29	residential	7	408	561	
+AO	2240449	Rua da Liberdade	unclassified	7	15	120	
+AO	2240449	Rua do Gamek a Direita	secondary	7	2	132	
+AO	2240449	Avenida 4 de Fevereiro	primary	6	25	151	
+AO	2240449	Guerra Junqueiro	residential	6	24	34	
+AO	2240449	Rua 12	residential	6	82	87	
+AO	2240449	Rua 14	residential	6	45	50	
+AO	2240449	Rua 163B		6	7043	7069	
+AO	2240449	Rua Anibal de Melo (ex Fernão de Souza)		6	8	52	
+AO	2240449	Rua Cesário Verde	tertiary	6	98	108	
+AO	2240449	Rua da Missão	secondary	6	16	103	
+AO	2240449	Rua de São Tomé	residential	6	8	54	
+AO	2240449	Avenida Commandante Che Guevara (ex General Carmona)		5	100	126	
+AO	2240449	Avenida do 1º Congresso do MPLA		5	24	59	
+AO	2240449	Marechal Tito "Presidente"	tertiary	5	36	81	
+AO	2240449	Rua 148	residential	5	24	9037	
+AO	2240449	Rua de José de Oliveira Barbosa	residential	5	18	30	
+AO	2240449	Travessa Alexandre Peres		5	2	10	
+AO	2240449	Avenida Comandante Kwenha		4	13	42	
+AO	2240449	Avenida Rei Katyavala (ex Coronel Artur de Paiva)		4	97	144	
+AO	2240449	Rua 18	residential	4	33	118	
+AO	2240449	Rua 25	residential	4	765	7369	
+AO	2240449	Rua 4	residential	4	19	247	
+AO	2240449	Rua 46	residential	4	0	0	
+AO	2240449	Rua 8	residential	4	25	91	
+AO	2240449	Rua Conselheiro Júlio de Vilhena		4	8	36	
+AO	2240449	Rua Cónego Manuel das Neves	secondary	4	53	144	
+AO	2240449	Rua Frederick Welwitcha		4	17	84	
+AO	2240449	Rua Kruame Nkrumah		4	13	168	
+AO	2240449	Rua Praia Caconga		4	13	19	
+AO	2240449	Rua Rosas		4	1	7	
+AO	2240449	Rua de Doutor Egas Monza	residential	4	23	29	
+AO	2240449	Rua dos Heróis	primary	4	12	146	
+AO	2240449	Anibal de Melo	tertiary	3	60	72	
+AO	2240449	Avenida Comandante Gika	tertiary	3	124	225	
+AO	2240449	Avenida P Marien Ngouabi (ex António Barroso)		3	16	118	
+AO	2240449	Avenida de Portugal	secondary	3	29	76	
+AO	2240449	Custódio Bento de Azevedo	residential	3	80	108	
+AO	2240449	Largo do Poeta Bocage	residential	3	22	35	
+AO	2240449	Rua 119	residential	3	0	0	
+AO	2240449	Rua 174		3	0	0	
+AO	2240449	Rua 179	residential	3	8109	8119	
+AO	2240449	Rua Amilcar Cabral		3	32	48	
+AO	2240449	Rua Comandante Kwenha	unclassified	3	248	291	
+AO	2240449	Rua Doutor José Parreira do Nascimento		3	8	12	
+AO	2240449	Rua Garcia Neto	unclassified	3	9	67	
+AO	2240449	Rua Liberdade	unclassified	3	19	85	
+AO	2240449	Rua Mwana a Mwlaza		3	0	0	
+AO	2240449	Rua Ndunduma	secondary	3	6	54	
+AO	2240449	Rua Praia Morena		3	1	6	
+AO	2240449	Rua da Liga Africana (ex Conde de Ficalho)		3	19	121	
+AO	2240449	Rua da Samba	secondary	3	26	64	
+AO	2240449	Rua das Construções		3	24	44	
+AO	2240449	Rua de Timor	unclassified	3	38	45	
+AO	2240449	Arsénio Pompílio Pompeu de Carpo	residential	2	60	62	
+AO	2240449	Avenida Comandante Valódia (ex Combatentes)		2	106	176	
+AO	2240449	Avenida Hoji Ya Henda	secondary	2	18	84	
+AO	2240449	Avenida Lenine	tertiary	2	36	114	
+AO	2240449	Avenida P Marien Ngouabi		2	37	88	
+AO	2240449	Avenida Rainha Ginga		2	29	79	
+AO	2240449	Avenida Rei Katyavala	secondary	2	106	113	
+AO	2240449	Major Kanhangulo	tertiary	2	3	41	
+AO	2240449	Rua 108		2	7252	7307	
+AO	2240449	Rua 130A		2	8011	8013	
+AO	2240449	Rua 21 de Janeiro	primary	2	85	124	
+AO	2240449	Rua 52		2	0	0	
+AO	2240449	Rua Eduardo Chivambo Mondlane	residential	2	145	204	
+AO	2240449	Rua Engenheiro Armindo de Andrade	residential	2	149	183	
+AO	2240449	Rua Major Marcelino Dias (ex Barbosa do Bocage)		2	23	27	
+AO	2240449	Rua Samuel Bernardo Mingo		2	54	73	
+AO	2240449	Rua da Anghotel		2	3	3	
+AO	2240449	Rua da Pavel		2	179	179	
+AO	2240449	Rua das Tendas		2	50	50	
+AO	2240449	Rua do Conde de Ficalho	unclassified	2	93	95	
+AO	2240449	Rua do Laboratório de Engenharia	tertiary	2	12	25	
+AO	2240449	Rua do Matadouro		2	21	123	
+AO	2240449	Travessa da Sé		2	11	12	
+AO	2240449	12 de Julho	tertiary	1	0	0	
+AO	2240449	5ª Avenida	tertiary	1	0	0	
+AO	2240449	Agostinho das Neves	residential	1	0	0	
+AO	2240449	Alameda Ho Chi Minh	secondary	1	0	0	
+AO	2240449	Alameda Manuel Van-Dunem	secondary	1	0	0	
+AO	2240449	Alameda do Príncipe Real	unclassified	1	0	0	
+AO	2240449	Antero de Quental	residential	1	0	0	
+AO	2240449	António Pedro Benge	residential	1	0	0	
+AO	2240449	António Saldanha da Gama	residential	1	0	0	
+AO	2240449	Av 21 de Janeiro	primary	1	0	0	
+AO	2240449	Avenida 10 de Agosto	tertiary	1	0	0	
+AO	2240449	Avenida Agostinho Neto	primary	1	0	0	
+AO	2240449	Avenida Comandante Che Guevara	tertiary	1	0	0	
+AO	2240449	Avenida Ho Chi Minh	primary	1	0	0	
+AO	2240449	Avenida Kandende	unclassified	1	0	0	
+AO	2240449	Avenida Luther Rescova	secondary	1	0	0	
+AO	2240449	Avenida Ngola Kiluanje	secondary	1	0	0	
+AO	2240449	Avenida da Cidade de Coimbra	secondary	1	0	0	
+AO	2240449	Avenida da Filda	unclassified	1	0	0	
+AO	2240449	Avenida da Praia do Bispo	tertiary	1	0	0	
+AO	2240449	Beco XIV	residential	1	0	0	
+AO	2240449	Camilo Passanha	residential	1	0	0	
+AO	2240449	Conselheiro Aires de Omelas	unclassified	1	0	0	
+AO	2240449	Estrada Kimbango-Calemba 2	secondary	1	0	0	
+AO	2240449	Estrada da Corimba	primary	1	0	0	
+AO	2240449	Estrada do Futungo	primary	1	0	0	
+AO	2240449	Estrada do Kimbango	tertiary	1	0	0	
+AO	2240449	Farinha de Leitão	residential	1	0	0	
+AO	2240449	Ferreira do Amaral	residential	1	0	0	
+AO	2240449	Gamal Abdel Nasser	secondary	1	0	0	
+AO	2240449	Garcia da Horta	unclassified	1	0	0	
+AO	2240449	Gil Vicente	residential	1	0	0	
+AO	2240449	Jawaharlal Nehru	secondary	1	0	0	
+AO	2240449	Karipande (28 de Maio)	residential	1	0	0	
+AO	2240449	Largo A. Feliciano de Castilho	residential	1	0	0	
+AO	2240449	Largo Cesário Verde	residential	1	0	0	
+AO	2240449	Largo Che Guevara	residential	1	0	0	
+AO	2240449	Largo Eduardo F. Viana	residential	1	0	0	
+AO	2240449	Largo Fransisco Leite Duarte	residential	1	0	0	
+AO	2240449	Largo José Régio	residential	1	0	0	
+AO	2240449	Largo Santa Ana	residential	1	0	0	
+AO	2240449	Largo Sidonio Pais	residential	1	0	0	
+AO	2240449	Largo da Calemba	primary	1	0	0	
+AO	2240449	Largo da Revolução de Outubro	primary	1	0	0	
+AO	2240449	Largo de Cambambe	residential	1	0	0	
+AO	2240449	Largo do Cruzeiro	residential	1	0	0	
+AO	2240449	Lixeira	residential	1	0	0	
+AO	2240449	Lueji Ankonda	secondary	1	0	0	
+AO	2240449	Machado Saldanha	tertiary	1	0	0	
+AO	2240449	Ndunduma	secondary	1	0	0	
+AO	2240449	Nossa Senhora da Muxima	unclassified	1	0	0	
+AO	2240449	Praceta Rei Katyavala	residential	1	0	0	
+AO	2240449	R. Gamek a Direita	secondary	1	0	0	
+AO	2240449	R. do Jindungo	unclassified	1	0	0	
+AO	2240449	RUA ANTÓNIO CARDOSO	residential	1	0	0	
+AO	2240449	RUA CARLOS BURITY GASPAR	residential	1	0	0	
+AO	2240449	RUA DO OURO NEGRO	residential	1	0	0	
+AO	2240449	RUA EUCLIDES DE FONTES PEREIRA	residential	1	0	0	
+AO	2240449	RUA GRUPO TEATRAL NGONGO	residential	1	0	0	
+AO	2240449	Rua 1	unclassified	1	0	0	
+AO	2240449	Rua 1 de Agosto	secondary	1	0	0	
+AO	2240449	Rua 111	residential	1	0	0	
+AO	2240449	Rua 112	residential	1	0	0	
+AO	2240449	Rua 115	residential	1	0	0	
+AO	2240449	Rua 121	residential	1	0	0	
+AO	2240449	Rua 122	residential	1	0	0	
+AO	2240449	Rua 131	residential	1	0	0	
+AO	2240449	Rua 15	unclassified	1	0	0	
+AO	2240449	Rua 15 (Rua Mbanza Congo)	residential	1	0	0	
+AO	2240449	Rua 15, Rua da Comissão de Moradores	residential	1	0	0	
+AO	2240449	Rua 1º de Agosto	secondary	1	0	0	
+AO	2240449	Rua 2	residential	1	0	0	
+AO	2240449	Rua 2 (MAFAMAR)	residential	1	0	0	
+AO	2240449	Rua 2 do Buraco	residential	1	0	0	
+AO	2240449	Rua 27	residential	1	0	0	
+AO	2240449	Rua 28 (Rua Maria de Lourdes Pereira dos Santos Van Dúnem)	tertiary	1	0	0	
+AO	2240449	Rua 28 de Agosto	tertiary	1	0	0	
+AO	2240449	Rua 3 do Buraco	residential	1	0	0	
+AO	2240449	Rua 38	residential	1	0	0	
+AO	2240449	Rua 4 do Buraco	residential	1	0	0	
+AO	2240449	Rua 5 do Buraco	residential	1	0	0	
+AO	2240449	Rua 52 (Rua Nicola Berardineli)	residential	1	0	0	
+AO	2240449	Rua 54 (Rua Lúcio Rodrigo Leito Barreto de Lara)	tertiary	1	0	0	
+AO	2240449	Rua 55	tertiary	1	0	0	
+AO	2240449	Rua 6 do Buraco	residential	1	0	0	
+AO	2240449	Rua 7 do Buraco	residential	1	0	0	
+AO	2240449	Rua 8 do Buraco	residential	1	0	0	
+AO	2240449	Rua 9	residential	1	0	0	
+AO	2240449	Rua A	unclassified	1	0	0	
+AO	2240449	Rua Ambrizete	residential	1	0	0	
+AO	2240449	Rua Américo Julio Lobato	residential	1	0	0	
+AO	2240449	Rua Ana Paula	residential	1	0	0	
+AO	2240449	Rua António Bruto	residential	1	0	0	
+AO	2240449	Rua António Feliciano de Castilho	residential	1	0	0	
+AO	2240449	Rua António de Castro Feijó	residential	1	0	0	
+AO	2240449	Rua Antônio Monteiro	residential	1	0	0	
+AO	2240449	Rua Aníbal de Melo	tertiary	1	0	0	
+AO	2240449	Rua Arnaldo Novais	residential	1	0	0	
+AO	2240449	Rua Augusta	residential	1	0	0	
+AO	2240449	Rua Augusto Silvério Ferreira	residential	1	0	0	
+AO	2240449	Rua B	residential	1	0	0	
+AO	2240449	Rua B 14	residential	1	0	0	
+AO	2240449	Rua B2	tertiary	1	0	0	
+AO	2240449	Rua C	residential	1	0	0	
+AO	2240449	Rua C do Tala Alice	residential	1	0	0	
+AO	2240449	Rua Cabral Moncada	residential	1	0	0	
+AO	2240449	Rua Cerâmica da Cazenga	residential	1	0	0	
+AO	2240449	Rua Chico Negrita	residential	1	0	0	
+AO	2240449	Rua Cidade Ondjiva	residential	1	0	0	
+AO	2240449	Rua Cidade de Evora	unclassified	1	0	0	
+AO	2240449	Rua Cirilo Conceição Silva	tertiary	1	0	0	
+AO	2240449	Rua Comandante Arguelles	primary	1	0	0	
+AO	2240449	Rua Comandante Bula	unclassified	1	0	0	
+AO	2240449	Rua Comandante Dangereux	residential	1	0	0	
+AO	2240449	Rua Comandante Gika	unclassified	1	0	0	
+AO	2240449	Rua Comandante Jorge Capelo	unclassified	1	0	0	
+AO	2240449	Rua Comandante Nazji	residential	1	0	0	
+AO	2240449	Rua D	residential	1	0	0	
+AO	2240449	Rua Da Liberdade	residential	1	0	0	
+AO	2240449	Rua Damião António Franklin	residential	1	0	0	
+AO	2240449	Rua Damão (Daman)	residential	1	0	0	
+AO	2240449	Rua Do Kikombo	secondary	1	0	0	
+AO	2240449	Rua Do Loulé	residential	1	0	0	
+AO	2240449	Rua Do Sney	residential	1	0	0	
+AO	2240449	Rua Dom Abreu Brito	residential	1	0	0	
+AO	2240449	Rua Dom Manuel I	tertiary	1	0	0	
+AO	2240449	Rua Doutor José Pereira do Nascimento	residential	1	0	0	
+AO	2240449	Rua E	residential	1	0	0	
+AO	2240449	Rua Emilio M'Bidi	residential	1	0	0	
+AO	2240449	Rua Eng Francisco Sande Lemos	residential	1	0	0	
+AO	2240449	Rua Eugênio de Castro	tertiary	1	0	0	
+AO	2240449	Rua Eça de Queiroz	residential	1	0	0	
+AO	2240449	Rua F	residential	1	0	0	
+AO	2240449	Rua Farinha Leitào	residential	1	0	0	
+AO	2240449	Rua Fernando Lencastre	residential	1	0	0	
+AO	2240449	Rua Fernando Sofia Rosa	residential	1	0	0	
+AO	2240449	Rua Fernando de Almeida	residential	1	0	0	
+AO	2240449	Rua Fernão Mendes Pinto	residential	1	0	0	
+AO	2240449	Rua Ferraz Bomboco	residential	1	0	0	
+AO	2240449	Rua Francisco Imperial Santana	residential	1	0	0	
+AO	2240449	Rua Francisco Pereira Africano	residential	1	0	0	
+AO	2240449	Rua Francisco Soto Mayor	unclassified	1	0	0	
+AO	2240449	Rua Frederico Santos	unclassified	1	0	0	
+AO	2240449	Rua Frederico Welwitsch	tertiary	1	0	0	
+AO	2240449	Rua G	residential	1	0	0	
+AO	2240449	Rua G Soba Kapassa	residential	1	0	0	
+AO	2240449	Rua Gal. Monteiro Lubório	residential	1	0	0	
+AO	2240449	Rua Gil Liberdade	residential	1	0	0	
+AO	2240449	Rua H	residential	1	0	0	
+AO	2240449	Rua Hélder Neto	residential	1	0	0	
+AO	2240449	Rua I	residential	1	0	0	
+AO	2240449	Rua III	residential	1	0	0	
+AO	2240449	Rua Isabel Salomé Benedito de Palma	residential	1	0	0	
+AO	2240449	Rua J	residential	1	0	0	
+AO	2240449	Rua Jaime Zuzarte Cortesão	residential	1	0	0	
+AO	2240449	Rua Joaquim Kapango	tertiary	1	0	0	
+AO	2240449	Rua Joaquim Rodrigues Graça	unclassified	1	0	0	
+AO	2240449	Rua José Agapito da Silva Carvalho	unclassified	1	0	0	
+AO	2240449	Rua José Correia	residential	1	0	0	
+AO	2240449	Rua Jovens do Prenda	residential	1	0	0	
+AO	2240449	Rua João Conrad Langue	residential	1	0	0	
+AO	2240449	Rua João de Barros	unclassified	1	0	0	
+AO	2240449	Rua Júlio Lacerda	residential	1	0	0	
+AO	2240449	Rua Kruame Krumah	tertiary	1	0	0	
+AO	2240449	Rua Kwamme Nkrumah	tertiary	1	0	0	
+AO	2240449	Rua L	residential	1	0	0	
+AO	2240449	Rua Lourenço Mendes Conceição	residential	1	0	0	
+AO	2240449	Rua Luís Pasteur	residential	1	0	0	
+AO	2240449	Rua Lúcio Rodrigo Leito Barreto de Lara	tertiary	1	0	0	
+AO	2240449	Rua M	residential	1	0	0	
+AO	2240449	Rua M. Luther King	unclassified	1	0	0	
+AO	2240449	Rua Machado Saldanha	tertiary	1	0	0	
+AO	2240449	Rua Major Kanhangulo	tertiary	1	0	0	
+AO	2240449	Rua Manuel de Almeida Vasconcelos	residential	1	0	0	
+AO	2240449	Rua Massano de Amrim	residential	1	0	0	
+AO	2240449	Rua Matadidi	tertiary	1	0	0	
+AO	2240449	Rua Mfulupimga Nlando Victor	residential	1	0	0	
+AO	2240449	Rua Miguel Adão Banga	residential	1	0	0	
+AO	2240449	Rua Miguel Angelo Lupi	residential	1	0	0	
+AO	2240449	Rua Moçambique	unclassified	1	0	0	
+AO	2240449	Rua Mário Octávio	residential	1	0	0	
+AO	2240449	Rua Mãe Isabel	residential	1	0	0	
+AO	2240449	Rua N	residential	1	0	0	
+AO	2240449	Rua N. Sra. de Fátima	residential	1	0	0	
+AO	2240449	Rua N1	residential	1	0	0	
+AO	2240449	Rua Narciso Espírito Santo	residential	1	0	0	
+AO	2240449	Rua Nelson Mandela	residential	1	0	0	
+AO	2240449	Rua Ngola Mbandi	tertiary	1	0	0	
+AO	2240449	Rua Nicolau Castelo Branco	residential	1	0	0	
+AO	2240449	Rua Nicolau Gomes Spencer	tertiary	1	0	0	
+AO	2240449	Rua Nola Precol	unclassified	1	0	0	
+AO	2240449	Rua N’gola Rítmo	residential	1	0	0	
+AO	2240449	Rua O	residential	1	0	0	
+AO	2240449	Rua Olímpio Macuéria	tertiary	1	0	0	
+AO	2240449	Rua PNA electrónica	tertiary	1	0	0	
+AO	2240449	Rua Padre Manuel Antunes	primary	1	0	0	
+AO	2240449	Rua Padre Manuel Ruela Pombo	residential	1	0	0	
+AO	2240449	Rua Paulo	residential	1	0	0	
+AO	2240449	Rua Pedro Bernardes	residential	1	0	0	
+AO	2240449	Rua Peso da Régua	residential	1	0	0	
+AO	2240449	Rua Porto Moniz	residential	1	0	0	
+AO	2240449	Rua Presidente Marien N'gouabi	tertiary	1	0	0	
+AO	2240449	Rua Projectada	secondary	1	0	0	
+AO	2240449	Rua R	residential	1	0	0	
+AO	2240449	Rua Rainha Jinga	tertiary	1	0	0	
+AO	2240449	Rua Ribeira Brava	residential	1	0	0	
+AO	2240449	Rua Robert Shields	tertiary	1	0	0	
+AO	2240449	Rua Rod. Henriques	residential	1	0	0	
+AO	2240449	Rua Rod. M. Henriques	residential	1	0	0	
+AO	2240449	Rua Sabugal	residential	1	0	0	
+AO	2240449	Rua Sagrada Esperança	tertiary	1	0	0	
+AO	2240449	Rua Samba Mar	residential	1	0	0	
+AO	2240449	Rua Santa Luzia	unclassified	1	0	0	
+AO	2240449	Rua Santa Teresinha	residential	1	0	0	
+AO	2240449	Rua Santo Antonio da Serra	residential	1	0	0	
+AO	2240449	Rua Sao Vicente	residential	1	0	0	
+AO	2240449	Rua Serpa	unclassified	1	0	0	
+AO	2240449	Rua Shido	residential	1	0	0	
+AO	2240449	Rua Soba Mandume	secondary	1	0	0	
+AO	2240449	Rua Tenente Berberan	residential	1	0	0	
+AO	2240449	Rua Tomáz Vieira da Cruz	residential	1	0	0	
+AO	2240449	Rua Unidade e Luta	tertiary	1	0	0	
+AO	2240449	Rua Vale do Tâmega	residential	1	0	0	
+AO	2240449	Rua Vereador Prazeres	residential	1	0	0	
+AO	2240449	Rua da 8ª Esquadra	unclassified	1	0	0	
+AO	2240449	Rua da Alegria	residential	1	0	0	
+AO	2240449	Rua da Almada	residential	1	0	0	
+AO	2240449	Rua da Angoalissar	residential	1	0	0	
+AO	2240449	Rua da BCA/KIA	residential	1	0	0	
+AO	2240449	Rua da BCA/Kapolo	unclassified	1	0	0	
+AO	2240449	Rua da Boavista	primary	1	0	0	
+AO	2240449	Rua da Caala	residential	1	0	0	
+AO	2241371	Alto Dondo/Quibala	primary	1	0	0	
+AO	2241371	Dondo/Alto Dondo	primary	1	0	0	
+AO	2241371	Dondo/N'dalatando	primary	1	0	0	
+AO	2241371	Dondo/Quibala	primary	1	0	0	
+AO	2241372	Samba Caju-Lucala	primary	1	0	0	
+AO	2241668	Estrada Nacional 165	secondary	1	0	0	
+AO	2241954	Camabatela-Samba Caju	primary	1	0	0	
+AO	2241954	Samba Caju-Lucala	primary	1	0	0	
+AO	2242885	Camabatela-Samba Caju	primary	1	0	0	
+AO	2242885	Camabatela/Dange	tertiary	1	0	0	
+AO	2242885	Estrada pra Banga	residential	1	0	0	
+AO	2242885	Estrada pra Cangola	tertiary	1	0	0	
+AO	2242999	Cacuso-Calandula	secondary	1	0	0	
+AO	2242999	Calandula - Massango	secondary	1	0	0	
+AO	2242999	Estrada de Calandula	secondary	1	0	0	
+AO	2242999	Ligação Quedas Calandula	unclassified	1	0	0	
+AO	2242999	Ponte sobre O Lucala	secondary	1	0	0	
+AO	2242999	Rotunda Das Quedas	secondary	1	0	0	
+AO	2243181	Bitchequete - Cacongo (Lândana)	primary	1	0	0	
+AO	2243181	Cacongo (Lândana) - Malembo	primary	1	0	0	
+AO	2243271	Av. Duque de Chiazi		5	95	95	
+AO	2243271	Mbaca - Ntó	primary	4	959	9675	
+AO	2243271	Cabassango - Cabinda	primary	3	0	0	
+AO	2243271	Rua 1 de Maio	tertiary	3	0	0	
+AO	2243271	Avenida das Forças Armadas	secondary	1	0	0	
+AO	2243271	Bucomazi - Cabassango	primary	1	0	0	
+AO	2243271	Cabassango - Lelo Mau	tertiary	1	0	0	
+AO	2243271	Estrada do Chiweca	tertiary	1	0	0	
+AO	2243271	Estrada do Comercio	primary	1	0	0	
+AO	2243271	Rotunda do Cabassango	primary	1	0	0	
+AO	2243271	Rua 1º de Maio	tertiary	1	0	0	
+AO	2243271	Rua Amaro Tati	tertiary	1	0	0	
+AO	2243271	Rua António Brissac	residential	1	0	0	
+AO	2243271	Rua Dr. Antonio Agostinho Neto	secondary	1	0	0	
+AO	2243271	Rua GEN. Francisco Higino Craveiro Lopes	unclassified	1	0	0	
+AO	2243271	Rua General Francisco Higino Craveiro Lopes	tertiary	1	0	0	
+AO	2243271	Rua Irmão Evaristo	tertiary	1	0	0	
+AO	2243271	Rua da Bencon	residential	1	0	0	
+AO	2243271	Rua da Jeova	tertiary	1	0	0	
+AO	2243271	Rua da Padaria	residential	1	0	0	
+AO	2243271	Rua da Policia	unclassified	1	0	0	
+AO	2243271	Rua da Praia	residential	1	0	0	
+AO	2243271	Rua da praça	residential	1	0	0	
+AO	2243271	Rua das Forças Armadas	secondary	1	0	0	
+AO	2243271	Rua de Macau	tertiary	1	0	0	
+AO	2243271	Rua do Comercio	secondary	1	0	0	
+AO	2243271	Rua do Nascimento	residential	1	0	0	
+AO	2243271	Rua do Papa Ngoma	tertiary	1	0	0	
+AO	2243271	Rua do kilamba 2	residential	1	0	0	
+AO	2243271	Rue 1er Mai	tertiary	1	0	0	
+AO	2243271	Rue de l'Inde	unclassified	1	0	0	
+AO	2243458	Buco Zau - Chiaca	primary	1	0	0	
+AO	2243458	Buco Zau - Quinssamano	primary	1	0	0	
+AO	2243458	Dinge - Buco Zau	primary	1	0	0	
+AO	2243458	Sanga Mongo- Buco Zau	primary	1	0	0	
+AO	2243646	Belize - Quissoqui	primary	1	0	0	
+AO	2243646	Canda Cango - Belize	primary	1	0	0	
+AO	2243646	Luali - Belize	tertiary	1	0	0	
+AO	2243677	Desvio para o Mar	unclassified	1	0	0	
+AO	2243677	Estrada da Barra do Dande	primary	1	0	0	
+AO	2243677	Estrada pro N'zeto	primary	1	0	0	
+AO	2243677	Ponte do Dande	primary	1	0	0	
+AO	2591933	Estrada da Barra do Dande	primary	1	0	0	
+AO	2591933	Estrada pra Fazenda Gratidao	unclassified	1	0	0	
+AO	2591949	5ª Avenida	tertiary	1	0	0	
+AO	2591949	5º Avenida	tertiary	1	0	0	
+AO	2591949	6ª Avenida	residential	1	0	0	
+AO	2591949	7ª Avenida	residential	1	0	0	
+AO	2591949	Avenida Ngola Kiluanje	secondary	1	0	0	
+AO	2591949	Estrada Nova de Cacuaco	primary	1	0	0	
+AO	2591949	Estrada de Cacuaco	primary	1	0	0	
+AO	2591949	Estrada do Kimbango	tertiary	1	0	0	
+AO	2591949	Estrada do Mulenvos	tertiary	1	0	0	
+AO	2591949	Ngola Kiluanje	secondary	1	0	0	
+AO	2591949	Ngola Kiluanje (Interceção entre Desvio da Simangola e a Kianda)	secondary	1	0	0	
+AO	2591949	Nzinga	residential	1	0	0	
+AO	2591949	Quinta Muxima	residential	1	0	0	
+AO	2591949	Rua 3	residential	1	0	0	
+AO	2591949	Rua 4	residential	1	0	0	
+AO	2591949	Rua 5	residential	1	0	0	
+AO	2591949	Rua 6	residential	1	0	0	
+AO	2591949	Rua 7	residential	1	0	0	
+AO	2591949	Rua 8	residential	1	0	0	
+AO	2591949	Rua Achados da Cruz	residential	1	0	0	
+AO	2591949	Rua Ngola Kanine	unclassified	1	0	0	
+AO	2591949	Rua Sema	residential	1	0	0	
+AO	2591949	Rua da Antena	residential	1	0	0	
+AO	2591949	Rua da GLANKENI	tertiary	1	0	0	
+AO	2591949	Rua da Imporáfrica	unclassified	1	0	0	
+AO	2591949	Rua da Mesquita	tertiary	1	0	0	
+AO	2591949	Rua da Sapú	unclassified	1	0	0	
+AO	2591949	Rua das Condutas	tertiary	1	0	0	
+AO	2591949	Rua do Coelho	residential	1	0	0	
+AO	2591949	Rua do Comércio	residential	1	0	0	
+AO	2591949	Rua do Grafanil	unclassified	1	0	0	
+AO	2591949	Rua do Kapolo II	unclassified	1	0	0	
+AO	2591949	Rua do Paraiso	unclassified	1	0	0	
+AO	2591949	Rua do Patrício	unclassified	1	0	0	
+AO	2591949	Rua dos Fieis	unclassified	1	0	0	
+AO	2591949	Ruas Condutas	tertiary	1	0	0	
+AO	2591949	Travessa A - R. do Paraiso	residential	1	0	0	
+AO	2591949	Travessa B - R. do Paraiso	residential	1	0	0	
+AO	2591949	Travessa C - R. do Paraiso	residential	1	0	0	
+AO	2591976	Condomínio Ocean Ville - Via C4		62	104	411	
+AO	2591976	Condomínio Lady Yasmin, Avenida Samora Machel		35	2	34	
+AO	2591976	Via Luanda Sul		35	150	150	
+AO	2591976	Condominio Kojima, Via S7A		29	2	28	
+AO	2591976	Condomínio São Paulo de Loanda, Via S8/Via Luanda Sul		24	2	23	
+AO	2591976	Condomínio Mares do Sul, Via Luanda Sul		14	1	14	
+AO	2591976	Condomínio Status, Via S7A		14	1	12	
+AO	2591976	Condomínio Cidade Financeira - Via S8		12	0	0	
+AO	2591976	Condomínio Poche Four Vilas, Avenida Samora Machel		12	1	4	
+AO	2591976	Complexo Administrativo Clássicos de Talatona, Edifício 3		9	0	0	
+AO	2591976	Avenida Samora Machel	secondary	8	0	0	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 1		8	1	1	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 2		6	2	2	
+AO	2591976	Smart Business Park - Via S10		5	0	0	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 3		5	3	3	
+AO	2591976	Avenida do Patriota	secondary	4	1	152	
+AO	2591976	Condomínio Terraços do Atlântico, Avenida Samora Machel, Torre 2		4	0	0	
+AO	2591976	Largo Nzinga a Mbande		4	0	0	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 5		4	5	5	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 9		4	9	9	
+AO	2591976	Complexo Administrativo Clássicos de Talatona, Edifício 1		3	0	0	
+AO	2591976	Complexo Administrativo Clássicos de Talatona, Edifício 2		3	0	0	
+AO	2591976	Condomínio Terraços do Atlântico, Avenida Samora Machel, Torre 1		3	0	0	
+AO	2591976	Condomínio Terraços do Atlântico, Avenida Samora Machel, Torre 3		3	0	0	
+AO	2591976	Rua Rei Mwana a Mwlaza	residential	3	0	0	
+AO	2591976	Torre MKO, Masuika Office Plaza, Avenida Samora Machel		3	0	0	
+AO	2591976	Via S7A		3	0	0	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 7		3	7	7	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 8		3	8	8	
+AO	2591976	Condomínio Noblesse Residence, Via S10, Torre 11		2	11	11	
+AO	2591976	Condomínio Noblesse Residence, Via S10, Torre 12		2	12	12	
+AO	2591976	Condomínio Noblesse Residence, Via S10, Torre 13		2	13	13	
+AO	2591976	Rua Carlos dos Santos Van-Dunem (Beto)	residential	2	26	27	
+AO	2591976	Rua Ekuiki II		2	0	0	
+AO	2591976	Via S8, Condomínio Dolce Vita, Lote 4		2	4	4	
+AO	2591976	1ª Travessia	residential	1	0	0	
+AO	2591976	2ª Travessia	residential	1	0	0	
+AO	2591976	3ª Travessia	residential	1	0	0	
+AO	2591976	AL16	residential	1	0	0	
+AO	2591976	Alameda Piero Bruno	tertiary	1	0	0	
+AO	2591976	Alameda Rafael Sapilinha Sambalanga	residential	1	0	0	
+AO	2591976	Alameda do Carnaval	tertiary	1	0	0	
+AO	2591976	Alameda dos Reinos do Ndongo e Matamba	secondary	1	0	0	
+AO	2591976	Avenida "O Lar do Patriota"	secondary	1	0	0	
+AO	2591976	Avenida 21 de Janeiro	primary	1	0	0	
+AO	2591976	Avenida Luther Rescova	secondary	1	0	0	
+AO	2591976	Avenida Rio Cuanza	residential	1	0	0	
+AO	2591976	Avenida Rio Longa	residential	1	0	0	
+AO	2591976	Avenida Samora Machel (Rua do Mundo Verde)	secondary	1	0	0	
+AO	2591976	Avenida Talatona	secondary	1	0	0	
+AO	2591976	Açucenas	residential	1	0	0	
+AO	2591976	Benfica Beira Mar	residential	1	0	0	
+AO	2591976	Benfica T223W	unclassified	1	0	0	
+AO	2591976	Benfica T223W.L16S	residential	1	0	0	
+AO	2591976	Benfica T223W.L25S	residential	1	0	0	
+AO	2591976	Benfica T223W.L51E	residential	1	0	0	
+AO	2591976	Benfica T223W.L58E	residential	1	0	0	
+AO	2591976	Benfica T223W.L58E.A	residential	1	0	0	
+AO	2591976	Benfica T223W.L9S	residential	1	0	0	
+AO	2591976	Benfica T223W.L9S.A	residential	1	0	0	
+AO	2591976	Benfica T223W.L9S.B	residential	1	0	0	
+AO	2591976	Benfica T223W.L9S.C	residential	1	0	0	
+AO	2591976	Benfica T233W	residential	1	0	0	
+AO	2591976	Benfica T233W.L18W	residential	1	0	0	
+AO	2591976	Benfica T233W.L24W	residential	1	0	0	
+AO	2591976	Benfica T233W.L29E	residential	1	0	0	
+AO	2591976	Benfica T233W.L31W	residential	1	0	0	
+AO	2591976	Benfica T233W.L34W	residential	1	0	0	
+AO	2591976	Benfica T233W.L34W.A	residential	1	0	0	
+AO	2591976	Benfica T233W.L40W	residential	1	0	0	
+AO	2591976	Benfica T2346W.L6S	residential	1	0	0	
+AO	2591976	Benfica T246W	residential	1	0	0	
+AO	2591976	Benfica T246W.L6S.A	residential	1	0	0	
+AO	2591976	Benfica T263W	unclassified	1	0	0	
+AO	2591976	Benfica T263W.L12S	residential	1	0	0	
+AO	2591976	Benfica T263W.L24S	residential	1	0	0	
+AO	2591976	Benfica T263W.L33S	residential	1	0	0	
+AO	2591976	Benfica T263W.L40S	residential	1	0	0	
+AO	2591976	Benfica T263W.L40S.A	residential	1	0	0	
+AO	2591976	Benfica T287W	residential	1	0	0	
+AO	2591976	Benfica T287W.L14N	residential	1	0	0	
+AO	2591976	Benfica T287W.L23S	residential	1	0	0	
+AO	2591976	Benfica T287W.L6s	residential	1	0	0	
+AO	2591976	Benfica T304W	residential	1	0	0	
+AO	2591976	Benfica T315W	unclassified	1	0	0	
+AO	2591976	Benfica T315W.L16N	residential	1	0	0	
+AO	2591976	Benfica T315W.L35S	residential	1	0	0	
+AO	2591976	Benfica T315W.L41S	residential	1	0	0	
+AO	2591976	Benfica T315W.L50N	residential	1	0	0	
+AO	2591976	Benfica T315W.L55N	residential	1	0	0	
+AO	2591976	Benfica T315W.L57S	residential	1	0	0	
+AO	2591976	Benfica T315W.L8W	residential	1	0	0	
+AO	2591976	Benfica T317W	residential	1	0	0	
+AO	2591976	Benfica T317W.L20N	residential	1	0	0	
+AO	2591976	Benfica T317W.L21W	residential	1	0	0	
+AO	2591976	Benfica T317W.L21W.A	residential	1	0	0	
+AO	2591976	Benfica T317W.L22W	residential	1	0	0	
+AO	2591976	Benfica T318E	residential	1	0	0	
+AO	2591976	Benfica T318W	residential	1	0	0	
+AO	2591976	Benfica T318W.L7S	residential	1	0	0	
+AO	2591976	Benfica T338E	residential	1	0	0	
+AO	2591976	Benfica T346W	residential	1	0	0	
+AO	2591976	Benfica T353W	residential	1	0	0	
+AO	2591976	Benfica T368W	residential	1	0	0	
+AO	2591976	Benfica T370W	unclassified	1	0	0	
+AO	2591976	Benfica T370W.L4N	residential	1	0	0	
+AO	2591976	Benfica T370W.L5N	residential	1	0	0	
+AO	2591976	Benfica T370W.L5N.A	residential	1	0	0	
+AO	2591976	Benfica T381W	residential	1	0	0	
+AO	2591976	Benfica T431E	residential	1	0	0	
+AO	2591976	Benfica T440W	residential	1	0	0	
+AO	2591976	Benfica T452E	residential	1	0	0	
+AO	2591976	Benfica T502E	residential	1	0	0	
+AO	2591976	Benfica T502E.68S	residential	1	0	0	
+AO	2591976	Benfica T502E.L108S	residential	1	0	0	
+AO	2591976	Benfica T502E.L134S	residential	1	0	0	
+AO	2591976	Benfica T502E.L134S.A	residential	1	0	0	
+AO	2591976	Benfica T502E.L134S.B	residential	1	0	0	
+AO	2591976	Benfica T502E.L139S	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.A	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.B	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.C	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.D	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.E	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.F	residential	1	0	0	
+AO	2591976	Benfica T502E.L144S.G	residential	1	0	0	
+AO	2591976	Benfica T502E.L164S	residential	1	0	0	
+AO	2591976	Benfica T502E.L164S.A	residential	1	0	0	
+AO	2591976	Benfica T502E.L164S.B	residential	1	0	0	
+AO	2591976	Benfica T502E.L164S.C	residential	1	0	0	
+AO	2591976	Benfica T502E.L175S	residential	1	0	0	
+AO	2591976	Benfica T502E.L180S	residential	1	0	0	
+AO	2591976	Benfica T502E.L82S	residential	1	0	0	
+AO	2591976	Benfica T502E.L87S	residential	1	0	0	
+AO	2591976	Benfica T502E.L95S	residential	1	0	0	
+AO	2591976	Benfica T542E	residential	1	0	0	
+AO	2591976	Benfica t342w	residential	1	0	0	
+AO	2591976	Benfica-Palmeirinhas	primary	1	0	0	
+AO	2591976	BenficaL233W.L6W	residential	1	0	0	
+AO	2591976	Bengo	residential	1	0	0	
+AO	2591976	Boca do Leão	residential	1	0	0	
+AO	2591976	Bromélia	residential	1	0	0	
+AO	2591976	Camélias	residential	1	0	0	
+AO	2591976	Cubango	residential	1	0	0	
+AO	2591976	Cuilo	residential	1	0	0	
+AO	2591976	Cuito	residential	1	0	0	
+AO	2591976	Cunene	residential	1	0	0	
+AO	2591976	Dangere-Patriota	unclassified	1	0	0	
+AO	2591976	Dangereux-Patriota	secondary	1	0	0	
+AO	2591976	Dangereux-Talatona	secondary	1	0	0	
+AO	2591976	Estrada da Corimba	primary	1	0	0	
+AO	2591976	Estrada da UGP	secondary	1	0	0	
+AO	2591976	Estrada do Bairro Sossego	tertiary	1	0	0	
+AO	2591976	Estrada do Dangereux	secondary	1	0	0	
+AO	2591976	Estrada do Futungo	primary	1	0	0	
+AO	2591976	Estrada do Mercado do Areal	residential	1	0	0	
+AO	2591976	Estrada do Mercado do Chinguari	residential	1	0	0	
+AO	2591976	Fubu-Jardin do Eden	unclassified	1	0	0	
+AO	2591976	Fubu-Patriota	residential	1	0	0	
+AO	2591976	Gango	residential	1	0	0	
+AO	2591976	Kuanza	residential	1	0	0	
+AO	2591976	Largo Arcos e Flechas	tertiary	1	0	0	
+AO	2591976	Largo Rainha Nzinga a Mbande	secondary	1	0	0	
+AO	2591976	Largo Samora Machel	secondary	1	0	0	
+AO	2591976	Largo Óscar Ribas	secondary	1	0	0	
+AO	2591976	Loge	residential	1	0	0	
+AO	2591976	Lomba	residential	1	0	0	
+AO	2591976	Longa	residential	1	0	0	
+AO	2591976	Lote 1	pedestrian	1	0	0	
+AO	2591976	Lote 2	pedestrian	1	0	0	
+AO	2591976	Lote 3	pedestrian	1	0	0	
+AO	2591976	Luando	residential	1	0	0	
+AO	2591976	Margaridas	residential	1	0	0	
+AO	2591976	Maternidade do Chimbicato	residential	1	0	0	
+AO	2591976	Narciso	residential	1	0	0	
+AO	2591976	Patriota-Dangereux	secondary	1	0	0	
+AO	2591976	Ponte	residential	1	0	0	
+AO	2591976	Rotunda do Sapú	secondary	1	0	0	
+AO	2591976	Rua	residential	1	0	0	
+AO	2591976	Rua 1	residential	1	0	0	
+AO	2591976	Rua 108	residential	1	0	0	
+AO	2591976	Rua 11	residential	1	0	0	
+AO	2591976	Rua 116	residential	1	0	0	
+AO	2591976	Rua 118	residential	1	0	0	
+AO	2591976	Rua 12	residential	1	0	0	
+AO	2591976	Rua 121	residential	1	0	0	
+AO	2591976	Rua 14	residential	1	0	0	
+AO	2591976	Rua 141	residential	1	0	0	
+AO	2591976	Rua 145	residential	1	0	0	
+AO	2591976	Rua 147	residential	1	0	0	
+AO	2591976	Rua 149	residential	1	0	0	
+AO	2591976	Rua 15	residential	1	0	0	
+AO	2591976	Rua 15 de Março	tertiary	1	0	0	
+AO	2591976	Rua 16	residential	1	0	0	
+AO	2591976	Rua 163A	residential	1	0	0	
+AO	2591976	Rua 163B	residential	1	0	0	
+AO	2591976	Rua 165	residential	1	0	0	
+AO	2591976	Rua 166	residential	1	0	0	
+AO	2591976	Rua 17	residential	1	0	0	
+AO	2592145	Lombe-Cota	secondary	1	0	0	
+AO	3345492	Estrada do aeroporto	residential	1	0	0	
+AO	3345492	Ponte do Xangongo	primary	1	0	0	
+AO	3345495	Alto Hama-Bailundo	primary	1	0	0	
+AO	3345495	Alto Hama-Huambo	primary	1	0	0	
+AO	3345495	Alto Hama-Londuimbali	primary	1	0	0	
+AO	3345495	Cruzamento-Alto Hama	primary	1	0	0	
+AO	3345497	Kibala-Waku Kungo	primary	1	0	0	
+AO	3345517	Chiqueia-Virei	tertiary	1	0	0	
+AO	3345517	Virei - Cainde	secondary	1	0	0	
+AO	3345669	Rua Martires	residential	1	0	0	
+AO	3345669	Rua do Comércio	residential	1	0	0	
+AO	3345669	Seles-Cassongue	primary	1	0	0	
+AO	3346015	Avenida 4 de Fev. (Marginal)	unclassified	1	0	0	
+AO	3346015	Avenida Joaquim Kapango	residential	1	0	0	
+AO	3346015	Avenida dos Aliados	primary	1	0	0	
+AO	3346015	Chingo - Forno de Cal	primary	1	0	0	
+AO	3346015	Comandante Kassange	residential	1	0	0	
+AO	3346015	Estrada do Aeroporto	unclassified	1	0	0	
+AO	3346015	Forno de Cal - Sumbe	primary	1	0	0	
+AO	3346015	Morro do Chingo	unclassified	1	0	0	
+AO	3346015	Para a Praia	unclassified	1	0	0	
+AO	3346015	Pra praia	unclassified	1	0	0	
+AO	3346015	Rua 1	unclassified	1	0	0	
+AO	3346015	Rua 2	unclassified	1	0	0	
+AO	3346015	Rua do Quicombo	residential	1	0	0	
+AO	3346015	Rua dos Pescadores	residential	1	0	0	
+AO	3346015	Sumbe - Quicombo	primary	1	0	0	
+AO	3346015	praia	unclassified	1	0	0	
+AO	3346497	Bairro Ferroviário	residential	1	0	0	
+AO	3346497	Estrada	unclassified	1	0	0	
+AO	3346497	Estrada Menor	unclassified	1	0	0	
+AO	3346497	Estrada da Barragem	unclassified	1	0	0	
+AO	3346497	Mae Mae (CFM-Sanzala)	unclassified	1	0	0	
+AO	3346497	Mae Mae-Quipungo	secondary	1	0	0	
+AO	3346497	Quipungo-Matala	primary	1	0	0	
+AO	3346497	Quipungo-Vindangala	tertiary	1	0	0	
+AO	3346497	Rua Res	unclassified	1	0	0	
+AO	3346497	Rua Resdencial	residential	1	0	0	
+AO	3346497	Rua Residencial	residential	1	0	0	
+AO	3346497	Rua de Quipungo	residential	1	0	0	
+AO	3346559	Botera - Intersecção EN 245	tertiary	1	0	0	
+AO	3346564	Estrada da Missao	unclassified	1	0	0	
+AO	3346564	Pedreira	unclassified	1	0	0	
+AO	3346598	Alto Dondo/Quibala	primary	1	0	0	
+AO	3346598	Kibala-Gabela	primary	1	0	0	
+AO	3346598	Kibala-Waku Kungo	primary	1	0	0	
+AO	3346661	Estrada pra Zona Industrial	tertiary	1	0	0	
+AO	3346661	Pecuária da Barra do longa - Porto Amboim	primary	1	0	0	
+AO	3346661	Porto Amboim - Chingo	primary	1	0	0	
+AO	3346821	Avenida 11 de Novembro	secondary	1	0	0	
+AO	3346821	Rua do Pastor	residential	1	0	0	
+AO	3346821	Rua do aeroporto	secondary	1	0	0	
+AO	3347019	Rua Eurico Gonçalves	residential	15	21	75	
+AO	3347019	Rua 14 de Abril	residential	13	24	72	
+AO	3347019	Avenida 11 de Novembro	tertiary	1	0	0	
+AO	3347019	Avenida 14 de Abril	residential	1	0	0	
+AO	3347019	Avenida Chilupela	residential	1	0	0	
+AO	3347019	Avenida Extrema a Esquerda	residential	1	0	0	
+AO	3347019	Avenida Gregório Semedo	residential	1	0	0	
+AO	3347019	Avenida Hospital Materno Liepey	residential	1	0	0	
+AO	3347019	Avenida Hospital Ngola Kimbanda	residential	1	0	0	
+AO	3347019	Avenida Hospital Sanatório	residential	1	0	0	
+AO	3347019	Avenida Joaquim Morais	tertiary	1	0	0	
+AO	3347019	Avenida Marginal	residential	1	0	0	
+AO	3347019	Avenida N'gola Kiluange	residential	1	0	0	
+AO	3347019	Avenida Ngola Kimbanda	residential	1	0	0	
+AO	3347019	Avenida Nova Solução	residential	1	0	0	
+AO	3347019	Avenida Pereira da Cruz	residential	1	0	0	
+AO	3347019	Avenida Praia Azul	secondary	1	0	0	
+AO	3347019	Avenida Principal Bairro da Juventude	residential	1	0	0	
+AO	3347019	Avenida Principal a Direita	residential	1	0	0	
+AO	3347019	Avenida Principal a Esquerda	residential	1	0	0	
+AO	3347019	Avenida Urbanização Praia Amélia	residential	1	0	0	
+AO	3347019	Avenida Welwitschia Mirabilis	residential	1	0	0	
+AO	3347019	Avenida da Cortina Florestal	residential	1	0	0	
+AO	3347019	Avenida do Aeroporto	primary	1	0	0	
+AO	3347019	Avenida do Aeroporto Antigo	residential	1	0	0	
+AO	3347019	Avenida do Bispado	residential	1	0	0	
+AO	3347019	Calçada do Hospital Velho	residential	1	0	0	
+AO	3347019	Estrada das Hortas	unclassified	1	0	0	
+AO	3347019	Estrada do Bairro 5 de Abril	tertiary	1	0	0	
+AO	3347019	Estrada para Sacomar	tertiary	1	0	0	
+AO	3347019	Estrada para Virei	tertiary	1	0	0	
+AO	3347019	Intersecção NBE 207.3 / NBE 101.3	tertiary	1	0	0	
+AO	3347019	Minha Rua	residential	1	0	0	
+AO	3347019	Moçâmedes-Virei	tertiary	1	0	0	
+AO	3347019	Nova Marginal	unclassified	1	0	0	
+AO	3347019	Parada	pedestrian	1	0	0	
+AO	3347019	Porto do Sacomar	tertiary	1	0	0	
+AO	3347019	Rua Adjacente ao Parque Bloco A	residential	1	0	0	
+AO	3347019	Rua Adjacente ao Parque Bloco C	residential	1	0	0	
+AO	3347019	Rua Adjacente ao Parque Bloco D	residential	1	0	0	
+AO	3347019	Rua Adjacente ao Parque Bloco F	residential	1	0	0	
+AO	3347019	Rua Augusto Ngangula	residential	1	0	0	
+AO	3347019	Rua Comandante Cowboy	residential	1	0	0	
+AO	3347019	Rua Comandante Dangereux	residential	1	0	0	
+AO	3347019	Rua Comandante Gika	tertiary	1	0	0	
+AO	3347019	Rua Entreparques dos Blocos D e E	residential	1	0	0	
+AO	3347019	Rua Entreparques dos Blocos E e F	residential	1	0	0	
+AO	3347019	Rua Entreparques dos Blocos I e L	residential	1	0	0	
+AO	3347019	Rua Entreparques dos Blocos J e K	residential	1	0	0	
+AO	3347019	Rua Entreparques dos Blocos K e L	residential	1	0	0	
+AO	3347019	Rua Gerrilheiro Faria	residential	1	0	0	
+AO	3347019	Rua Kahumba	residential	1	0	0	
+AO	3347019	Rua Lisandro Figueiredo	residential	1	0	0	
+AO	3347019	Rua Santa Rita	residential	1	0	0	
+AO	3347019	Rua Saíde Mingas	residential	1	0	0	
+AO	3347019	Rua São João Baptista	residential	1	0	0	
+AO	3347019	Rua da Cabine Elétrica	residential	1	0	0	
+AO	3347019	Rua da ETA	residential	1	0	0	
+AO	3347019	Rua da Faculdade de Engenharia	residential	1	0	0	
+AO	3347019	Rua da Identificação	residential	1	0	0	
+AO	3347019	Rua da Marginal	residential	1	0	0	
+AO	3347019	Rua da Maxnet	residential	1	0	0	
+AO	3347019	Rua da Radio	residential	1	0	0	
+AO	3347019	Rua do Arquivo Histórico	tertiary	1	0	0	
+AO	3347019	Rua do Centro Infatil Colmeia das Abelhas	residential	1	0	0	
+AO	3347019	Rua do Centro Médico Praia Amélia	residential	1	0	0	
+AO	3347019	Rua do Complexo Escolar	residential	1	0	0	
+AO	3347019	Rua do Mercado	residential	1	0	0	
+AO	3347019	Travessa da Vila Celeste	residential	1	0	0	
+AO	3347019	rua da cidade do namibe	residential	1	0	0	
+AO	3347019	rua do interior do bairro	residential	1	0	0	
+AO	3347260	Môngua-Evale	unclassified	1	0	0	
+AO	3347353	Intersecção EN 280/EN 140 (Menongue)-Matias	tertiary	1	0	0	
+AO	3347353	Menongue-Caico-Mussemena	unclassified	1	0	0	
+AO	3347353	Rua 1 de Maio	residential	1	0	0	
+AO	3347353	Rua 4de Abril	residential	1	0	0	
+AO	3347424	Avenida do Aeródromo	residential	1	0	0	
+AO	3347424	Estação CFM Laceiras	unclassified	1	0	0	
+AO	3347424	Estrada de acesso a nova ADM Matala	unclassified	1	0	0	
+AO	3347424	Praça da Estação	residential	1	0	0	
+AO	3347424	Rua da ALSSA	residential	1	0	0	
+AO	3347424	Rua da Nova Administração da Matala	primary	1	0	0	
+AO	3347719	Rua 02	residential	1	0	0	
+AO	3347719	Rua 10 de Dezembro	residential	1	0	0	
+AO	3347719	Rua da Coca Cola	residential	1	0	0	
+AO	3347762	Rua 1	residential	58	2	28	
+AO	3347762	Rua 5	residential	52	2	27	
+AO	3347762	Zona Industrial II (Boa Viagem) - Lubango/Chibia		29	0	0	
+AO	3347762	Rua 3	residential	26	2	25	
+AO	3347762	Rua da Mitcha	primary	19	0	0	
+AO	3347762	Rua 9	residential	18	2	19	
+AO	3347762	Rua3	residential	18	1	24	
+AO	3347762	Rua 11	residential	17	1	17	
+AO	3347762	Rua 7	residential	16	1	19	
+AO	3347762	Chicolongilo/Bibala/Lubango	primary	13	2	26	
+AO	3347762	Avenida Deolinda Rodrigues	tertiary	12	0	0	
+AO	3347762	Rua 13	residential	8	2	16	
+AO	3347762	Rua Patrice Lumumba	tertiary	8	9398	9398	
+AO	3347762	Rua 1º de Agosto	primary	7	0	0	
+AO	3347762	Avenida Mártires de 8 de Novembro	primary	6	1	1	
+AO	3347762	Rua 10 de Dezembro	residential	5	0	0	
+AO	3347762	Avenida Comandante Hoji-ya-Henda	tertiary	4	1	1	
+AO	3347762	Rua Domingos Pedro	residential	4	0	0	
+AO	3347762	Rua da Môngua	residential	4	0	0	
+AO	3347762	Rua da Sociedade Geográfica	residential	4	0	0	
+AO	3347762	Desconhecida		3	0	0	
+AO	3347762	Rua 29 de Novembro	residential	3	0	0	
+AO	3347762	Rua Comandante Saydi Mingas	tertiary	3	0	0	
+AO	3347762	desconhecido		3	0	0	
+AO	3347762	Avenida Boulevard do Mucufi	tertiary	2	0	0	
+AO	3347762	Avenida Paiva Domingos da Silva	primary	2	0	0	
+AO	3347762	Rua 8 de Março	residential	2	0	0	
+AO	3347762	Rua Comandante Vidigal	residential	2	0	0	
+AO	3347762	Rua Rei Katyavala	secondary	2	0	0	
+AO	3347762	VIA CIRCULAR EXTERNA AO LUBANGO		2	0	0	
+AO	3347762	Acesso à Clínica Margom	residential	1	0	0	
+AO	3347762	Acesso à Paragens de Moqueiros	residential	1	0	0	
+AO	3347762	Alameda Feira Agro-pecuária	living_street	1	0	0	
+AO	3347762	Alameda da Piscina	pedestrian	1	0	0	
+AO	3347762	Alameda da Sé Catedral	pedestrian	1	0	0	
+AO	3347762	Alameda do Parque	pedestrian	1	0	0	
+AO	3347762	Alameda dos Ferroviários	residential	1	0	0	
+AO	3347762	Alternativa Senhora Monte Millennium	tertiary	1	0	0	
+AO	3347762	Avenida 11 de Novembro	tertiary	1	0	0	
+AO	3347762	Avenida 21 de Janeiro	secondary	1	0	0	
+AO	3347762	Avenida 8 de Fevereiro	primary	1	0	0	
+AO	3347762	Avenida Amílcar Cabral	primary	1	0	0	
+AO	3347762	Avenida Comandante Eurico Gonçalves	secondary	1	0	0	
+AO	3347762	Avenida Comandante Kwenha	secondary	1	0	0	
+AO	3347762	Avenida Doutor Agostinho Neto	primary	1	0	0	
+AO	3347762	Avenida Heróis do Cuito-Cuanavale	residential	1	0	0	
+AO	3347762	Avenida Lúcio Lara	secondary	1	0	0	
+AO	3347762	Avenida Martin Luther King	primary	1	0	0	
+AO	3347762	Avenida Presidente Marien Ngouabi	primary	1	0	0	
+AO	3347762	Avenida Presidente Samora Machel	secondary	1	0	0	
+AO	3347762	Avenida da Indústria	tertiary	1	0	0	
+AO	3347762	Avenida do Caminho de Ferro de Moçâmedes	tertiary	1	0	0	
+AO	3347762	Avenida do Estádio Nacional da Tundavala	tertiary	1	0	0	
+AO	3347762	Avenida do Mucufi	residential	1	0	0	
+AO	3347762	Bairro dos Cubanos	residential	1	0	0	
+AO	3347762	Bravo 5	residential	1	0	0	
+AO	3347762	Captação de Nossa Senhora do Monte	unclassified	1	0	0	
+AO	3347762	Captação de Nª Srª do Monte	unclassified	1	0	0	
+AO	3347762	Captação de Água do Calumue	unclassified	1	0	0	
+AO	3347762	Correios Mapunda	residential	1	0	0	
+AO	3347762	E	tertiary	1	0	0	
+AO	3347762	Entrada do alto Nambambe	residential	1	0	0	
+AO	3347762	Estação Caminho de Ferro de Moçâmedes (CFM)	unclassified	1	0	0	
+AO	3347762	Estrada Adjacente ao Mercado do Sófrio	residential	1	0	0	
+AO	3347762	Estrada Kuawa	tertiary	1	0	0	
+AO	3347762	Estrada da Levada	tertiary	1	0	0	
+AO	3347762	Estrada da Tundavala	secondary	1	0	0	
+AO	3347762	Estrada do Estadio Alternativa	residential	1	0	0	
+AO	3347762	Estrada do Estádio Alternativa	residential	1	0	0	
+AO	3347762	Estrada do SOS	tertiary	1	0	0	
+AO	3347762	Estrada para Estatua do Cristo Rei	tertiary	1	0	0	
+AO	3347762	I Iº Rua da escola Wandi	residential	1	0	0	
+AO	3347762	Igreja Evangélica Sinodal em Angola (IESA, Emaús)	residential	1	0	0	
+AO	3347762	João de Almeida	tertiary	1	0	0	
+AO	3347762	Largo Afonso Cerqueira	residential	1	0	0	
+AO	3347762	Largo Augusto Ngangula	residential	1	0	0	
+AO	3347762	Largo Demóstenes de Almeida	primary	1	0	0	
+AO	3347762	Largo Patrice Lumumba	tertiary	1	0	0	
+AO	3347762	Largo Tenente-Coronel Oriog	primary	1	0	0	
+AO	3347762	Largo do Soweto	residential	1	0	0	
+AO	3347762	Largo dos PALOP	secondary	1	0	0	
+AO	3347762	P. Estacionamento	unclassified	1	0	0	
+AO	3347762	Parada	pedestrian	1	0	0	
+AO	3347762	Picadeiro	pedestrian	1	0	0	
+AO	3347762	Ponte da guedal	primary	1	0	0	
+AO	3347762	Praça 17 de Setembro	tertiary	1	0	0	
+AO	3347762	Praça Comandante Cowboy	tertiary	1	0	0	
+AO	3347762	Praça Comandante Gabriel Calofe	tertiary	1	0	0	
+AO	3347762	Praça Doutor Agostinho Neto	primary	1	0	0	
+AO	3347762	Praça João Paulo II	tertiary	1	0	0	
+AO	3347762	Praça Norte - Estádio Nacional da Tundavala	tertiary	1	0	0	
+AO	3347762	Praça dos Barracões da Huíla	tertiary	1	0	0	
+AO	3347762	Pululukwa Resort	unclassified	1	0	0	
+AO	3347762	Rota Animal	unclassified	1	0	0	
+AO	3347762	Rota do Sol	unclassified	1	0	0	
+AO	3347762	Rota dos Lagos	pedestrian	1	0	0	
+AO	3347762	Rotunda Aeroporto	primary	1	0	0	
+AO	3347762	Rotunda do Estádio Nacional da Tundavala	tertiary	1	0	0	
+AO	3347762	Rua 1 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 1 de Setembro	tertiary	1	0	0	
+AO	3347762	Rua 1º de Setembro	residential	1	0	0	
+AO	3347762	Rua 2 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 28 de Fevereiro	residential	1	0	0	
+AO	3347762	Rua 3 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 4	residential	1	0	0	
+AO	3347762	Rua 4 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 4 de Abril	tertiary	1	0	0	
+AO	3347762	Rua 5 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 6	residential	1	0	0	
+AO	3347762	Rua 6 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 7 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua 8	residential	1	0	0	
+AO	3347762	Rua 9 - Zona Industrial I	residential	1	0	0	
+AO	3347762	Rua Alternativa Casa Pato-Tchioco	tertiary	1	0	0	
+AO	3347762	Rua Anastácio Francisco	residential	1	0	0	
+AO	3347762	Rua António Garcia Neto	residential	1	0	0	
+AO	3347762	Rua Castro Soromenho	residential	1	0	0	
+AO	3347762	Rua Chimucua	tertiary	1	0	0	
+AO	3347762	Rua Comandante Major Pedrei	residential	1	0	0	
+AO	3347762	Rua Degrao do Saber	residential	1	0	0	
+AO	3347762	Rua Deolinda Rodrigues	tertiary	1	0	0	
+AO	3347762	Rua Gamal Abdel Nasser	residential	1	0	0	
+AO	3347762	Rua General Joaquim Guilherme Tchiloya	residential	1	0	0	
+AO	3347762	Rua Ilídio Machado	residential	1	0	0	
+AO	3347762	Rua Indira Gandhi	residential	1	0	0	
+AO	3347762	Rua Jeanette Schoon	residential	1	0	0	
+AO	3347762	Rua Kwame Nkrumah	residential	1	0	0	
+AO	3347762	Rua Lalula	residential	1	0	0	
+AO	3347762	Rua Monsenhor Alves da Cunha	residential	1	0	0	
+AO	3347762	Rua Mário Carlos	residential	1	0	0	
+AO	3347762	Rua Paiva Couceiro	residential	1	0	0	
+AO	3347762	Rua Que da Acesso a Boca da Humpata	tertiary	1	0	0	
+AO	3347762	Rua Rainha Lussinga	residential	1	0	0	
+AO	3347762	Rua Rei Ekuikui	residential	1	0	0	
+AO	3347762	Rua Secundaria da Mapunda	residential	1	0	0	
+AO	3347762	Rua Secundaria do Helder Neto	residential	1	0	0	
+AO	3347762	Rua Secundária Rainha Lussinga	residential	1	0	0	
+AO	3347762	Rua Secundária, Avenida Agostinho Neto	residential	1	0	0	
+AO	3347762	Rua Secundária, Avenida Comandante Satanás	residential	1	0	0	
+AO	3347762	Rua Senhora do Monte	residential	1	0	0	
+AO	3347762	Rua Terciaria, Avenida Herói da Cahama	residential	1	0	0	
+AO	3347762	Rua Tomáz Canhangulo	residential	1	0	0	
+AO	3347762	Rua da Administração do Bairro Hélder Neto	tertiary	1	0	0	
+AO	3347762	Rua da Africarnes	residential	1	0	0	
+AO	3347762	Rua da Aldeia de Orações	unclassified	1	0	0	
+AO	3347762	Rua da Base Aérea Nº2	unclassified	1	0	0	
+AO	3347762	Rua da Berbearia do Laton	living_street	1	0	0	
+AO	3347762	Rua da Casa Mortuária	residential	1	0	0	
+AO	3347762	Rua da Comarca	residential	1	0	0	
+AO	3347762	Rua da Escola Portuguesa	residential	1	0	0	
+AO	3347762	Rua da Escola Portuguesa do Lubango	residential	1	0	0	
+AO	3347762	Rua da Farmacia Kafumbelo	residential	1	0	0	
+AO	3347762	Rua da Fazenda da Comarca	residential	1	0	0	
+AO	3347762	Rua da Feira Popular	residential	1	0	0	
+AO	3347762	Rua da Huíla Nice	residential	1	0	0	
+AO	3347762	Rua da IESA	unclassified	1	0	0	
+AO	3347762	Rua da India	residential	1	0	0	
+AO	3347762	Rua da Lage	residential	1	0	0	
+AO	3347762	Rua da Machiqueira	tertiary	1	0	0	
+AO	3347762	Rua da Maxiqueira	residential	1	0	0	
+AO	3347762	Rua da Moagem de Chapa	residential	1	0	0	
+AO	3347762	Rua da Povoação de Dentro	residential	1	0	0	
+AO	3347762	Rua da Pracinha de burros	residential	1	0	0	
+AO	3347762	Rua da Subestação	tertiary	1	0	0	
+AO	3347762	Rua da Tourada	residential	1	0	0	
+AO	3347762	Rua da Vila Paula	unclassified	1	0	0	
+AO	3347762	Rua da Yougurtaria do Nambambe	residential	1	0	0	
+AO	3347762	Rua da cantina Preta	residential	1	0	0	
+AO	3347762	Rua da igreja Católica "João Baptista" ou Lassalet	residential	1	0	0	
+AO	3347762	Rua da moagem do Meio	residential	1	0	0	
+AO	3347762	Rua da oficina de Hiaces e do Colégio Fundo Bíblico	residential	1	0	0	
+AO	3347762	Rua da oficina de camiões	residential	1	0	0	
+AO	3347762	Rua da ponte de ferro- Chimucua	residential	1	0	0	
+AO	3347762	Rua das Escolas	residential	1	0	0	
+AO	3347762	Rua de Acesso ao Comité do Bairro	residential	1	0	0	
+AO	3347762	Rua de Acesso ao Nosso Super	residential	1	0	0	
+AO	3347762	Rua de Acesso à Clínica Margom	residential	1	0	0	
+AO	3347762	Rua de Acesso à Igreja Visão Cristã e Administração Municipal	unclassified	1	0	0	
+AO	3347762	Rua de Angola	residential	1	0	0	
+AO	3347762	Rua de Moçambique	residential	1	0	0	
+AO	3347762	Rua de acesso ao Gomito de Baixo	residential	1	0	0	
+AO	3347762	Rua do Alto da Mitcha Acesso ao Cemitério	residential	1	0	0	
+AO	3347762	Rua do Bairro da Lage	residential	1	0	0	
+AO	3347762	Rua do Banco BIC	unclassified	1	0	0	
+AO	3347762	Rua do Bela vista	residential	1	0	0	
+AO	3347762	Rua do Cantinho do George	residential	1	0	0	
+AO	3347762	Rua do Cemitério do Nambambi	residential	1	0	0	
+AO	3347762	Rua do Centro de Formação Profissional Mecanização	residential	1	0	0	
+AO	3347762	Rua do Colegio Cleusia Alexandre	unclassified	1	0	0	
+AO	3347762	Rua do Cristo Rei	tertiary	1	0	0	
+AO	3347762	Rua do Cémiterio da Mapunda	unclassified	1	0	0	
+AO	3347762	Rua do Emifel	residential	1	0	0	
+AO	3347762	Rua do Estado Maior	residential	1	0	0	
+AO	3347762	Rua do Hospital	residential	1	0	0	
+AO	3347762	Rua do Jango	residential	1	0	0	
+AO	3347762	Rua do Matadouro	tertiary	1	0	0	
+AO	3347762	Rua do Meio	residential	1	0	0	
+AO	3347762	Rua do Miradouro	secondary	1	0	0	
+AO	3347762	Rua do Mucufi	residential	1	0	0	
+AO	3347762	Rua do Muxima	residential	1	0	0	
+AO	3347853	Longonjo/Caala/Huambo	primary	1	0	0	
+AO	3347853	Ukuma-Longonjo	primary	1	0	0	
+AO	3347880	Alto Hama-Londuimbali	primary	1	0	0	
+AO	3347880	Londuimbali-Ussoque	primary	1	0	0	
+AO	3347939	Avenida Craveiro Lopes	tertiary	1	0	0	
+AO	3347939	Avenida Gonçalo Cabral	primary	1	0	0	
+AO	3347939	Avenida Norton de Matos	primary	1	0	0	
+AO	3347939	Avenida Salvador Correia	primary	1	0	0	
+AO	3347939	Avenida Sá da Bandeira	unclassified	1	0	0	
+AO	3347939	Avenida São Felipe	tertiary	1	0	0	
+AO	3347939	Avenida da Independencia	tertiary	1	0	0	
+AO	3347939	Avenida da República	tertiary	1	0	0	
+AO	3347939	Avenida de Lisboa	residential	1	0	0	
+AO	3347939	Avenida do Império	tertiary	1	0	0	
+AO	3347939	Catumbela-Lobito	primary	1	0	0	
+AO	3347939	Estrada do Aeroporto	residential	1	0	0	
+AO	3347939	Largo 28 de Agosto	residential	1	0	0	
+AO	3347939	Largo 5 de Agosto	residential	1	0	0	
+AO	3347939	Largo Comandante Albano Machado	residential	1	0	0	
+AO	3347939	Largo Kamule	tertiary	1	0	0	
+AO	3347939	Largo da Restauração	residential	1	0	0	
+AO	3347939	Largo de António da Costa	residential	1	0	0	
+AO	3347939	Largo do Massangano	residential	1	0	0	
+AO	3347939	Praceta Gonçalo Cabral	residential	1	0	0	
+AO	3347939	Praça Luís de Camões	residential	1	0	0	
+AO	3347939	Praça da Independência	residential	1	0	0	
+AO	3347939	Praça do Guerrilheiro Heróico	residential	1	0	0	
+AO	3347939	Rotunda do Caminhoneiro	primary	1	0	0	
+AO	3347939	Rua 15 de Agosto	secondary	1	0	0	
+AO	3347939	Rua 1º de Dezembro	secondary	1	0	0	
+AO	3347939	Rua 3 de Março	residential	1	0	0	
+AO	3347939	Rua 5 de Outubro	residential	1	0	0	
+AO	3347939	Rua Acácio Ribeiro	residential	1	0	0	
+AO	3347939	Rua Almirante Carlos D’Ápras	residential	1	0	0	
+AO	3347939	Rua Anjo da Guarda	unclassified	1	0	0	
+AO	3347939	Rua Augusto Gil	residential	1	0	0	
+AO	3347939	Rua Avenida Brasil	residential	1	0	0	
+AO	3347939	Rua Bartolomeu Dias	unclassified	1	0	0	
+AO	3347939	Rua Carreira de Tiro	unclassified	1	0	0	
+AO	3347939	Rua Cerveira Pereira	secondary	1	0	0	
+AO	3347939	Rua Cidade Cabinda	residential	1	0	0	
+AO	3347939	Rua Cidade Ponta Delgado	residential	1	0	0	
+AO	3347939	Rua Cidade de Bela	tertiary	1	0	0	
+AO	3347939	Rua Cidade de Moçamedes	residential	1	0	0	
+AO	3347939	Rua Diogo Cão	residential	1	0	0	
+AO	3347939	Rua Dona Maria Segunda	residential	1	0	0	
+AO	3347939	Rua Dr. Vieira Machado	residential	1	0	0	
+AO	3347939	Rua Eduardo Costa	residential	1	0	0	
+AO	3347939	Rua Engº Vicente Ferreira	residential	1	0	0	
+AO	3347939	Rua Faria Leal	residential	1	0	0	
+AO	3347939	Rua Fragoso de Matos	residential	1	0	0	
+AO	3347939	Rua Guiné Bissau	residential	1	0	0	
+AO	3347939	Rua Henriques Correia da Silva	residential	1	0	0	
+AO	3347939	Rua Ilha da Madeira	residential	1	0	0	
+AO	3347939	Rua José Anchieta	tertiary	1	0	0	
+AO	3347939	Rua José Maria dos Santos	tertiary	1	0	0	
+AO	3347939	Rua Marechal Gomes da Costa	residential	1	0	0	
+AO	3347939	Rua Maria Resende	residential	1	0	0	
+AO	3347939	Rua Miramar	residential	1	0	0	
+AO	3347939	Rua Novo Redondo	residential	1	0	0	
+AO	3347939	Rua Oliveira Cardonega	unclassified	1	0	0	
+AO	3347939	Rua Pacheco Ferreira	tertiary	1	0	0	
+AO	3347939	Rua Patrice Lumumba	residential	1	0	0	
+AO	3347939	Rua Porto Amboim	residential	1	0	0	
+AO	3347939	Rua Robert Williams	residential	1	0	0	
+AO	3347939	Rua Romeiro Macedo	unclassified	1	0	0	
+AO	3347939	Rua Santarém	unclassified	1	0	0	
+AO	3347939	Rua da Alfândega	residential	1	0	0	
+AO	3347939	Rua da Ganda	residential	1	0	0	
+AO	3347939	Rua de Alvaro de Carvalho	unclassified	1	0	0	
+AO	3347939	Rua de Capelo Eievens	residential	1	0	0	
+AO	3347939	Rua de Sagres	residential	1	0	0	
+AO	3347939	Rua de Sousa Coutinho	unclassified	1	0	0	
+AO	3347939	Rua do Aveiro	residential	1	0	0	
+AO	3347939	Rua do Bailundo	primary	1	0	0	
+AO	3347939	Rua do Bocoio	residential	1	0	0	
+AO	3347939	Rua do Massangano	residential	1	0	0	
+AO	3347939	Rua do Município	residential	1	0	0	
+AO	3347939	Rua do Seles	residential	1	0	0	
+AO	3347939	Rua dos Açores	unclassified	1	0	0	
+AO	3347939	Trav. da Igreja	residential	1	0	0	
+AO	3347939	Trav.de S. José	residential	1	0	0	
+AO	3347939	Travessa Gil Aines	residential	1	0	0	
+AO	3348078	Rua 1	residential	1	0	0	
+AO	3348078	Rua 2	residential	1	0	0	
+AO	3348078	Rua 3	residential	1	0	0	
+AO	3348078	Rua 4	residential	1	0	0	
+AO	3348078	Rua 5	residential	1	0	0	
+AO	3348078	Rua 6	residential	1	0	0	
+AO	3348078	Rua 7	residential	1	0	0	
+AO	3348078	Rua 8	residential	1	0	0	
+AO	3348078	Rua 9	residential	1	0	0	
+AO	3348078	Rua Artur de Paiva	residential	1	0	0	
+AO	3348078	Rua Capitão Ângelo de Lima	residential	1	0	0	
+AO	3348078	Rua Cidade de Lisboa	unclassified	1	0	0	
+AO	3348078	Rua Cidade de Luanda	unclassified	1	0	0	
+AO	3348078	Rua Colégio Militar	residential	1	0	0	
+AO	3348078	Rua Coronel Lopes de Matos	tertiary	1	0	0	
+AO	3348078	Rua Gastão de Sousa Dias	residential	1	0	0	
+AO	3348078	Rua General Norton de Matos	residential	1	0	0	
+AO	3348078	Rua Joaquim Kapango	primary	1	0	0	
+AO	3348078	Rua Marcelo Caetano	residential	1	0	0	
+AO	3348078	Rua Miguel Bombarda	residential	1	0	0	
+AO	3348078	Rua Padre Fidalgo	tertiary	1	0	0	
+AO	3348078	Rua Raimundo Serrão	residential	1	0	0	
+AO	3348078	Rua Sagrada Esperança	residential	1	0	0	
+AO	3348078	Rua Salazar	residential	1	0	0	
+AO	3348078	Rua Serpa Pinto	tertiary	1	0	0	
+AO	3348078	Rua Silva Porto	residential	1	0	0	
+AO	3348078	Rua Sociedade Geografia de Lisboa	residential	1	0	0	
+AO	3348078	Rua Teófilo Braga	residential	1	0	0	
+AO	3348078	Rua da TPA	unclassified	1	0	0	
+AO	3348078	Rua do Soba	residential	1	0	0	
+AO	3348313	Rua Doutor Lacerda	secondary	2	131	131	
+AO	3348313	Avenida 28 de Maio	tertiary	1	0	0	
+AO	3348313	Avenida Comandante N'zaji	tertiary	1	0	0	
+AO	3348313	Avenida Doutor Marcelo Caetano	tertiary	1	0	0	
+AO	3348313	Avenida General Pinto Monteiro	tertiary	1	0	0	
+AO	3348313	Avenida Governador Geral Horácio Rebelo	secondary	1	0	0	
+AO	3348313	Avenida Norton de Matos	secondary	1	0	0	
+AO	3348313	Avenida Nuno Alves	tertiary	1	0	0	
+AO	3348313	Avenida Torres Garcia	secondary	1	0	0	
+AO	3348313	Avenida da Independência	primary	1	0	0	
+AO	3348313	Avenida da Republica	tertiary	1	0	0	
+AO	3348313	Estrada da Cuca	residential	1	0	0	
+AO	3348313	Praceta SN	residential	1	0	0	
+AO	3348313	Praça 11 de Novembro	secondary	1	0	0	
+AO	3348313	Praça Eugenio de Castro	residential	1	0	0	
+AO	3348313	Rua Alexandre Herculano	secondary	1	0	0	
+AO	3348313	Rua Benfica	secondary	1	0	0	
+AO	3348313	Rua Bié	residential	1	0	0	
+AO	3348313	Rua Capitão Sousa Gentil	residential	1	0	0	
+AO	3348313	Rua Chiva	tertiary	1	0	0	
+AO	3348313	Rua Coluna do Sul	residential	1	0	0	
+AO	3348313	Rua Comandante Nzangi	tertiary	1	0	0	
+AO	3348313	Rua Daniel Junqueira	residential	1	0	0	
+AO	3348313	Rua Doutor Ferreira da Silva	residential	1	0	0	
+AO	3348313	Rua Eduardo Costa	tertiary	1	0	0	
+AO	3348313	Rua Egas Moniz	residential	1	0	0	
+AO	3348313	Rua Ferreia do Amaral	tertiary	1	0	0	
+AO	3348313	Rua Francisco Sanches	residential	1	0	0	
+AO	3348313	Rua Gregório	residential	1	0	0	
+AO	3348313	Rua Imaculada da Conceição	unclassified	1	0	0	
+AO	3348313	Rua Joel Estevão	residential	1	0	0	
+AO	3348313	Rua José Anchieta	residential	1	0	0	
+AO	3348313	Rua Kandimba	residential	1	0	0	
+AO	3348313	Rua Padre Antonia Viera	residential	1	0	0	
+AO	3348313	Rua Pedro Nunes	residential	1	0	0	
+AO	3348313	Rua Principal	residential	1	0	0	
+AO	3348313	Rua Serpa Pinto	tertiary	1	0	0	
+AO	3348313	Rua Silva Porto	unclassified	1	0	0	
+AO	3348313	Rua Silva da Carvalho	tertiary	1	0	0	
+AO	3348313	Rua Sociedade Geografia	residential	1	0	0	
+AO	3348313	Rua Teixeira da Silva	tertiary	1	0	0	
+AO	3348313	Rua Wasanjuca	residential	1	0	0	
+AO	3348313	Rua das Flores	tertiary	1	0	0	
+AO	3348313	Rua do Comércio	unclassified	1	0	0	
+AO	3348313	Rua do Rich	unclassified	1	0	0	
+AO	3348581	Cubal-Ganda	primary	1	0	0	
+AO	3348581	Rua dos Padres	residential	1	0	0	
+AO	3348613	Curva das Novidades	primary	1	0	0	
+AO	3348613	Kibala-Gabela	primary	1	0	0	
+AO	3348613	Rua Americo Boavida	residential	1	0	0	
+AO	3348613	Sumbe-Gabela	primary	1	0	0	
+AO	3348794	Wako Kungo-Ebo	tertiary	1	0	0	
+AO	3348896	Avenida Fernanda Alonso	unclassified	1	0	0	
+AO	3348896	Estrada Calundo I	residential	1	0	0	
+AO	3348896	Estrada Calundo II	residential	1	0	0	
+AO	3348896	Estrada Calundo III	residential	1	0	0	
+AO	3348896	Rua Afonso Ferreira	residential	1	0	0	
+AO	3348896	Rua Júlio Caportela	residential	1	0	0	
+AO	3348896	Rua da Dona Beatriz Mourão	residential	1	0	0	
+AO	3348896	Rua da Igreja	unclassified	1	0	0	
+AO	3348896	Rua das Portas D'Água	unclassified	1	0	0	
+AO	3348896	Rua do Hospital	unclassified	1	0	0	
+AO	3349229	Caimbambo-Cubal	primary	1	0	0	
+AO	3349229	Cubal Entrada	tertiary	1	0	0	
+AO	3349229	Estrada para Lomaum	tertiary	1	0	0	
+AO	3349324	Cambuio - Conda	secondary	1	0	0	
+AO	3349324	Conda - Cunjo	secondary	1	0	0	
+AO	3349324	Conda - Dumbo	secondary	1	0	0	
+AO	3349324	Conda-Gabela	primary	1	0	0	
+AO	3349324	Road to Piscina	unclassified	1	0	0	
+AO	3349406	Chongoroi-Quilengues	primary	1	0	0	
+AO	3349870	Chila-Chicombo	unclassified	1	0	0	
+AO	3349930	Cabiche-Chicuaqueia	tertiary	1	0	0	
+AO	3349997	Rua 4	residential	23	3	43	
+AO	3349997	Rua 13	residential	21	2	21	
+AO	3349997	Rua 2	residential	20	2	49	
+AO	3349997	Rua 15	residential	12	2	24	
+AO	3349997	Rua 11	residential	8	1	15	
+AO	3349997	Rua Eurico Pereira Miranda	residential	2	7	7	
+AO	3349997	Avenida Principal da Chibia	secondary	1	0	0	
+AO	3349997	Estrada da Barragem das Gangelas	unclassified	1	0	0	
+AO	3349997	Mucuma-Chibia	secondary	1	0	0	
+AO	3349997	Ponte Sobre o Rio Tchimpumpunhime	secondary	1	0	0	
+AO	3349997	Rua 1	residential	1	0	0	
+AO	3349997	Rua 10	residential	1	0	0	
+AO	3349997	Rua 12	residential	1	0	0	
+AO	3349997	Rua 14	residential	1	0	0	
+AO	3349997	Rua 17	residential	1	0	0	
+AO	3349997	Rua 19	residential	1	0	0	
+AO	3349997	Rua 3	residential	1	0	0	
+AO	3349997	Rua 5	residential	1	0	0	
+AO	3349997	Rua 6	residential	1	0	0	
+AO	3349997	Rua 7	residential	1	0	0	
+AO	3349997	Rua 8	residential	1	0	0	
+AO	3349997	Rua 9	residential	1	0	0	
+AO	3349997	Rua de S. Pedro	residential	1	0	0	
+AO	3349997	Rua do Cemitério	residential	1	0	0	
+AO	3349999	Estrada do Chiange	tertiary	1	0	0	
+AO	3350123	Cela - Caninda	tertiary	1	0	0	
+AO	3350246	Ponte Luís Filipe	tertiary	1	0	0	
+AO	3350246	Rua 28 de Maio	residential	1	0	0	
+AO	3350246	Rua Alameda	residential	1	0	0	
+AO	3350246	Rua Alameda Padre Américo	residential	1	0	0	
+AO	3350246	Rua Avenida da República	tertiary	1	0	0	
+AO	3350246	Rua Bernadito Correia	residential	1	0	0	
+AO	3350246	Rua Capelo Iven	residential	1	0	0	
+AO	3350246	Rua Cerveira Pereira	residential	1	0	0	
+AO	3350246	Rua Eduardo Costa	tertiary	1	0	0	
+AO	3350246	Rua Ferreira do Amaral	tertiary	1	0	0	
+AO	3350246	Rua Gago Coutinho	residential	1	0	0	
+AO	3350246	Rua Jacob de Paiva	residential	1	0	0	
+AO	3350246	Rua Leite Mendes	residential	1	0	0	
+AO	3350246	Rua Mon Sr. Alves da Cunha	residential	1	0	0	
+AO	3350246	Rua Neves Ferreira	tertiary	1	0	0	
+AO	3350246	Rua Novais da Silva	residential	1	0	0	
+AO	3350246	Rua da Madre Efígenia de Carvalho	unclassified	1	0	0	
+AO	3350430	Cassimbas-Cavola	tertiary	1	0	0	
+AO	3350550	Conda - Cunjo	secondary	1	0	0	
+AO	3350625	Estrada do Tchivinguiro	unclassified	1	0	0	
+AO	3350867	Camucuio - Caitou	secondary	1	0	0	
+AO	3351215	Border Post Road	unclassified	1	0	0	
+AO	3351215	Mbwangungu Hamutenya Street	residential	1	0	0	
+AO	3351215	Sarusungu Road	unclassified	1	0	0	
+AO	3351229	Caitou - Mutipa (Monupa)	secondary	1	0	0	
+AO	3351229	Camucuio - Caitou	secondary	1	0	0	
+AO	3351268	Catengue-Caimbambo	primary	1	0	0	
+AO	3351307	Estrada da Oncocua	secondary	1	0	0	
+AO	3351307	Estrada do Aeroporto	unclassified	1	0	0	
+AO	3351362	Cacula-Cabiche	tertiary	1	0	0	
+AO	3351362	Cacula-Viemba	primary	1	0	0	
+AO	3351362	Viemba/Cacula	primary	1	0	0	
+AO	3351380	Avenida José Anchieta	primary	1	0	0	
+AO	3351380	Estrada da Missão	unclassified	1	0	0	
+AO	3351500	Rua Das Luzes	residential	1	0	0	
+AO	3351599	Bocoio-Lobito	primary	1	0	0	
+AO	3351599	Estrada pro Chila	primary	1	0	0	
+AO	3351599	Monte Belo-Bocoio	primary	1	0	0	
+AO	3351647	Bibala/Lola	secondary	1	0	0	
+AO	3351647	Chicolongilo/Bibala/Lubango	primary	1	0	0	
+AO	3351647	Estrada da Tundavala	secondary	1	0	0	
+AO	3351657	Bentiaba-Tambor	secondary	1	0	0	
+AO	3351657	Farol da Ponta Grossa	unclassified	1	0	0	
+AO	3351657	Pátio	pedestrian	1	0	0	
+AO	3351663	Rua Afonso Albuquerque		2	10	10	
+AO	3351663	Av. Combatentes da Grande Guerra	residential	1	0	0	
+AO	3351663	Avenida 10 de Fevereiro	tertiary	1	0	0	
+AO	3351663	Avenida Barbante	residential	1	0	0	
+AO	3351663	Avenida Brasil	tertiary	1	0	0	
+AO	3351663	Avenida Bucassa	residential	1	0	0	
+AO	3351663	Avenida Dr. Antonio Agostinho Neto	tertiary	1	0	0	
+AO	3351663	Avenida Dr. Fausto Frazão	primary	1	0	0	
+AO	3351663	Celestino Madeira	residential	1	0	0	
+AO	3351663	Estrada da Baia Farta	residential	1	0	0	
+AO	3351663	Largo do Pioneiro	residential	1	0	0	
+AO	3351663	Praia	residential	1	0	0	
+AO	3351663	Rua 1	residential	1	0	0	
+AO	3351663	Rua 10	residential	1	0	0	
+AO	3351663	Rua 11	residential	1	0	0	
+AO	3351663	Rua 12	residential	1	0	0	
+AO	3351663	Rua 13	residential	1	0	0	
+AO	3351663	Rua 2	residential	1	0	0	
+AO	3351663	Rua 3	residential	1	0	0	
+AO	3351663	Rua 31 de Janeiro	residential	1	0	0	
+AO	3351663	Rua 4	residential	1	0	0	
+AO	3351663	Rua 5	residential	1	0	0	
+AO	3351663	Rua 6	residential	1	0	0	
+AO	3351663	Rua 7	residential	1	0	0	
+AO	3351663	Rua 8	residential	1	0	0	
+AO	3351663	Rua 9	residential	1	0	0	
+AO	3351663	Rua Afonso de Albuquerque	residential	1	0	0	
+AO	3351663	Rua Alexandre Alberto da Rocha de Serpa Pinto	tertiary	1	0	0	
+AO	3351663	Rua Alexandre Herculano	residential	1	0	0	
+AO	3351663	Rua Alvaro de Almeida	residential	1	0	0	
+AO	3351663	Rua Azevedo Gomes	residential	1	0	0	
+AO	3351663	Rua Bartolomeu Dias	residential	1	0	0	
+AO	3351663	Rua Bernadino Correia	residential	1	0	0	
+AO	3351663	Rua Cardoso	residential	1	0	0	
+AO	3351663	Rua Cidade de Lisboa	residential	1	0	0	
+AO	3351663	Rua Cidade de Lobito	residential	1	0	0	
+AO	3351663	Rua Cidade de Luanda	residential	1	0	0	
+AO	3351663	Rua Cidade de Nova Lisboa	residential	1	0	0	
+AO	3351663	Rua Cidade do Porto	residential	1	0	0	
+AO	3351663	Rua Comandante Eurico Gonçalves	residential	1	0	0	
+AO	3351663	Rua Comandante Kassangi	tertiary	1	0	0	
+AO	3351663	Rua Comendador Inácio da Fonceca	residential	1	0	0	
+AO	3351663	Rua Damas Moura	residential	1	0	0	
+AO	3351663	Rua Das Lojas	residential	1	0	0	
+AO	3351663	Rua Diogo Cão	residential	1	0	0	
+AO	3351663	Rua Dom Vasco da Gama	residential	1	0	0	
+AO	3351663	Rua Domingos do Ó	residential	1	0	0	
+AO	3351663	Rua Dr. Amilcar Barca M. da Cruz	residential	1	0	0	
+AO	3351663	Rua Dr. Antonio José de Almeida	residential	1	0	0	
+AO	3351663	Rua Dr. Carlos Tavares	residential	1	0	0	
+AO	3351663	Rua Dr. Egas Moniz	residential	1	0	0	
+AO	3351663	Rua Dr. João Ornelas	residential	1	0	0	
+AO	3351663	Rua Estado da India	residential	1	0	0	
+AO	3351663	Rua Fernão de Magalhães	residential	1	0	0	
+AO	3351663	Rua Ford GT40	tertiary	1	0	0	
+AO	3351663	Rua Francisco Simoes do Amaral	residential	1	0	0	
+AO	3351663	Rua General Faria Leal	residential	1	0	0	
+AO	3351663	Rua General João de Almeida	primary	1	0	0	
+AO	3351663	Rua General Massano de Amorim	residential	1	0	0	
+AO	3351663	Rua General Pereira de Eça	residential	1	0	0	
+AO	3351663	Rua Hermenegildo Carlos de Brito Capelo	unclassified	1	0	0	
+AO	3351663	Rua Herois de Angola	residential	1	0	0	
+AO	3351663	Rua Iha da Madeira	residential	1	0	0	
+AO	3351663	Rua Infante D. Henrique	residential	1	0	0	
+AO	3351663	Rua Infante D. Henriques	residential	1	0	0	
+AO	3351663	Rua José Estevão	residential	1	0	0	
+AO	3351663	Rua José Falcão	residential	1	0	0	
+AO	3351663	Rua João de Deus	residential	1	0	0	
+AO	3351663	Rua Machado dos Santos	residential	1	0	0	
+AO	3351663	Rua Manuel Cerveira Pereira	residential	1	0	0	
+AO	3351663	Rua Miguel Bombarda	residential	1	0	0	
+AO	3351663	Rua Ministro Vieira Machado	residential	1	0	0	
+AO	3351663	Rua Paralela	residential	1	0	0	
+AO	3351663	Rua Paulo Dias de Novais	residential	1	0	0	
+AO	3351663	Rua Pedro Alvares Cabral	residential	1	0	0	
+AO	3351663	Rua Pedro Nolasco Pereira de Andrade	residential	1	0	0	
+AO	3351663	Rua Pedro Nunes	residential	1	0	0	
+AO	3351663	Rua Pedro Álvares Cabral	residential	1	0	0	
+AO	3351663	Rua S. Tomé e Príncipe	residential	1	0	0	
+AO	3351663	Rua Serpa Pinto	tertiary	1	0	0	
+AO	3351663	Rua Silva Porto	residential	1	0	0	
+AO	3351663	Rua Sá da Bandeira	residential	1	0	0	
+AO	3351663	Rua Vasco da Gama	residential	1	0	0	
+AO	3351663	Rua Volkswagen Kombi	residential	1	0	0	
+AO	3351663	Rua Xavier Barreto	residential	1	0	0	
+AO	3351663	Rua da Catequese João Baptista	residential	1	0	0	
+AO	3351663	Rua da Coringe	residential	1	0	0	
+AO	3351663	Rua da Dona Linda	residential	1	0	0	
+AO	3351663	Rua da Escola	residential	1	0	0	
+AO	3351663	Rua da Escola Cardoso	residential	1	0	0	
+AO	3351663	Rua da Policia	residential	1	0	0	
+AO	3351663	Rua da Sociedade de Geografia	residential	1	0	0	
+AO	3351663	Rua da Team Irmãos Unidos	residential	1	0	0	
+AO	3351663	Rua de Angola	tertiary	1	0	0	
+AO	3351663	Rua de Cabo Verde	residential	1	0	0	
+AO	3351663	Rua de Dr. Damas Moura	residential	1	0	0	
+AO	3351663	Rua de Gil Eannes	residential	1	0	0	
+AO	3351663	Rua de Macau	residential	1	0	0	
+AO	3351663	Rua de Malange	residential	1	0	0	
+AO	3351663	Rua de Mocamedes	residential	1	0	0	
+AO	3351663	Rua de Moçambique	residential	1	0	0	
+AO	3351663	Rua de Moçamedes	residential	1	0	0	
+AO	3351663	Rua de Timor	residential	1	0	0	
+AO	3351663	Rua de Vila Nova de Gaia	residential	1	0	0	
+AO	3351663	Rua do Cassoco	residential	1	0	0	
+AO	3351663	Rua do Clube Tuku Tuku de Benguela	residential	1	0	0	
+AO	3351663	Rua do Golfinho	residential	1	0	0	
+AO	3351663	Rua do Governador de Souza Coutinho	tertiary	1	0	0	
+AO	3351663	Rua do Mercado	residential	1	0	0	
+AO	3351663	Rua dos Açores	residential	1	0	0	
+AO	3351663	Rua dos Marinheiros	residential	1	0	0	
+AO	3351663	Rua Álvaro de Almeida	unclassified	1	0	0	
+AO	3351663	Travessa Bernadino Correia	residential	1	0	0	
+AO	3351663	Travessa Domingos do Ó	residential	1	0	0	
+AO	3351663	Travessa Flores	residential	1	0	0	
+AO	3351663	Travessa Guerra Junqueiro	residential	1	0	0	
+AO	3351663	Travessa Jardim	residential	1	0	0	
+AO	3351663	Travessa Luis Gomes	residential	1	0	0	
+AO	3351764	Balombo-Monte Belo	primary	1	0	0	
+AO	3351764	Ussoque-Balombo	primary	1	0	0	
+AO	3351786	Baia Farta-Chamume	unclassified	1	0	0	
+AO	3351786	Benguela-Baía Azul	tertiary	1	0	0	
+AO	3351786	Benguela-Baía Farta	tertiary	1	0	0	
+AO	3351786	Rua 10 de Dezembro	tertiary	1	0	0	
+AO	3351786	Rua 1º de Maio	residential	1	0	0	
+AO	3351786	Via Baia Chamume	unclassified	1	0	0	
+AO	3371641	Canjala - Balabaia	primary	1	0	0	
+AO	3371641	Ponte Sobre o Rio Balombo	primary	1	0	0	
+AO	3371641	Rio Evale - Canjala	primary	1	0	0	
+AO	7860624	Colo Colo - Cela	tertiary	1	0	0	
+AO	7860624	Kibala-Waku Kungo	primary	1	0	0	
+AO	10627325	Rua Rainha Ginga	tertiary	2	10	18	
+AO	10627325	Avenida 10 de Agosto	tertiary	1	0	0	
+AO	10627325	Avenida Agostinho Neto	primary	1	0	0	
+AO	10627325	Avenida Revolução de Outubro	secondary	1	0	0	
+AO	10627325	Avenida de Portugal	secondary	1	0	0	
+AO	10627325	Avenida do 1º Congresso do MPLA	primary	1	0	0	
+AO	10627325	Beco Monte Pio	residential	1	0	0	
+AO	10627325	Beco XIV	residential	1	0	0	
+AO	10627325	C.B. e Aragão	residential	1	0	0	
+AO	10627325	Calcada do Pelorinho	unclassified	1	0	0	
+AO	10627325	Calçada Comandante Veneno	unclassified	1	0	0	
+AO	10627325	Doutor Américo Boavida	residential	1	0	0	
+AO	10627325	Doutor António Saldanha	residential	1	0	0	
+AO	10627325	Governador Silva Carvalho	residential	1	0	0	
+AO	10627325	Irene Cohen	unclassified	1	0	0	
+AO	10627325	João Rodrigues	residential	1	0	0	
+AO	10627325	Largo Amilcar Cabral	secondary	1	0	0	
+AO	10627325	Largo Avelino Dias	residential	1	0	0	
+AO	10627325	Largo Irene Cohen	residential	1	0	0	
+AO	10627325	Largo Lumeji	primary	1	0	0	
+AO	10627325	Largo T. da Cunha	residential	1	0	0	
+AO	10627325	Largo das Ingombotas	tertiary	1	0	0	
+AO	10627325	Largo do Seque	residential	1	0	0	
+AO	10627325	Nossa Senhora da Muxima	unclassified	1	0	0	
+AO	10627325	Praça da República	pedestrian	1	0	0	
+AO	10627325	Rua 17 de Setembro	tertiary	1	0	0	
+AO	10627325	Rua 25 Abril	tertiary	1	0	0	
+AO	10627325	Rua Alexandre Peres	residential	1	0	0	
+AO	10627325	Rua Amilcar Cabral	secondary	1	0	0	
+AO	10627325	Rua Assalto da Moncada	residential	1	0	0	
+AO	10627325	Rua C.P. Andrade	residential	1	0	0	
+AO	10627325	Rua Cerqueira de Lukoki	tertiary	1	0	0	
+AO	10627325	Rua Cirilo Conceição Silva	tertiary	1	0	0	
+AO	10627325	Rua Conselheiro Júlio de Vilhena	unclassified	1	0	0	
+AO	10627325	Rua D. Antônia	residential	1	0	0	
+AO	10627325	Rua Diogo Cão	residential	1	0	0	
+AO	10627325	Rua Dom Jorge Lencastre	tertiary	1	0	0	
+AO	10627325	Rua Doutor Américo Boavida	tertiary	1	0	0	
+AO	10627325	Rua Engenheiro Fragoso	residential	1	0	0	
+AO	10627325	Rua Fernando Brigue	residential	1	0	0	
+AO	10627325	Rua Fernando Tavares	residential	1	0	0	
+AO	10627325	Rua Francisco das Necessidades Castelo Branco	tertiary	1	0	0	
+AO	10627325	Rua Frederich Engels	tertiary	1	0	0	
+AO	10627325	Rua Guilherme Capelo	tertiary	1	0	0	
+AO	10627325	Rua Guilherme Pereira Inglês	tertiary	1	0	0	
+AO	10627325	Rua Henriques de Carvalho	unclassified	1	0	0	
+AO	10627325	Rua Higino Ayres	tertiary	1	0	0	
+AO	10627325	Rua III	residential	1	0	0	
+AO	10627325	Rua Joaquim Kapango	tertiary	1	0	0	
+AO	10627325	Rua José Lamera	residential	1	0	0	
+AO	10627325	Rua José Pedro Tuca	residential	1	0	0	
+AO	10627325	Rua Kwamme Nkrumah	tertiary	1	0	0	
+AO	10627325	Rua Lara Cordeiro	unclassified	1	0	0	
+AO	10627325	Rua Major Kanhangulo	tertiary	1	0	0	
+AO	10627325	Rua Manuel Caldeira	tertiary	1	0	0	
+AO	10627325	Rua Moisés Cardoso	residential	1	0	0	
+AO	10627325	Rua Pedro Cardoso	residential	1	0	0	
+AO	10627325	Rua Pedro Felix Machado	tertiary	1	0	0	
+AO	10627325	Rua Pedro Furtado	residential	1	0	0	
+AO	10627325	Rua Presidente Marien N'gouabi	tertiary	1	0	0	
+AO	10627325	Rua R. Souza	residential	1	0	0	
+AO	10627325	Rua Reverendo Agostinho Pedro Neto	tertiary	1	0	0	
+AO	10627325	Rua Samuel Bernardo Mingo	residential	1	0	0	
+AO	10627325	Rua Simão Masc	residential	1	0	0	
+AO	10627325	Rua Tereza Afonso	residential	1	0	0	
+AO	10627325	Rua V. Pinheiro R. Gomes	residential	1	0	0	
+AO	10627325	Rua da Alfândega	residential	1	0	0	
+AO	10627325	Rua da Missão	secondary	1	0	0	
+AO	10627325	Rua da Tipografia Mama Tita	residential	1	0	0	
+AO	10627325	Rua das Flores	residential	1	0	0	
+AO	10627325	Rua de D. Francisco do Soveral	unclassified	1	0	0	
+AO	10627325	Rua de Diogo Cao	residential	1	0	0	
+AO	10627325	Rua de Henrique de Carvalho	residential	1	0	0	
+AO	10627325	Rua de Lopes de Lima	unclassified	1	0	0	
+AO	10627325	Rua de Matozo da Camara	residential	1	0	0	
+AO	10627325	Rua de Pedro Alexandre	primary	1	0	0	
+AO	10627325	Rua de Quartel Lopes	tertiary	1	0	0	
+AO	10627325	Rua de Santo António	tertiary	1	0	0	
+AO	10627325	Rua de T. Lavrador	residential	1	0	0	
+AO	10627325	Rua do Cazuno	residential	1	0	0	
+AO	10627325	Rua do Clube Maritimo Africano	residential	1	0	0	
+AO	10627325	Rua do Doutor Gil	residential	1	0	0	
+AO	10627325	Rua do Palácio	tertiary	1	0	0	
+AO	10627325	Rua do Quiban	unclassified	1	0	0	
+AO	10627325	Rua do Sol	residential	1	0	0	
+AO	10627325	Rua do Tenente Valadim	residential	1	0	0	
+AO	10627325	Rua dos Coqueiros	unclassified	1	0	0	
+AO	10627325	Rua dos Heróis	primary	1	0	0	
+AO	10627325	Travessa Alexandre Peres	residential	1	0	0	
+AO	10627325	Travessa da Sé	unclassified	1	0	0	
+AO	10627325	Travessa de Luis	residential	1	0	0	
+AO	10627325	Travessa de Monte Pio Ferrovia	residential	1	0	0	
+AO	10627325	Travessa do Cazuno	residential	1	0	0	
+AO	12333115	Ponte sobre o rio Tunda	primary	1	0	0	
+AO	13546341	Avenida Hoji Ya Henda	secondary	1	0	0	
+AO	13546341	Avenida Hoji Ya Henda (ex Avenida Brasil)	secondary	1	0	0	
+AO	13546341	Avenida Kandende	unclassified	1	0	0	
+AO	13546341	Avenida Ngola Kiluanje	secondary	1	0	0	
+AO	13546341	Beco	residential	1	0	0	
+AO	13546341	Beco do Euclides	residential	1	0	0	
+AO	13546341	Beco do Henda	residential	1	0	0	
+AO	13546341	Largo Demóstenes de Almeida	unclassified	1	0	0	
+AO	13546341	Largo das Cores	residential	1	0	0	
+AO	13546341	Rua 13	residential	1	0	0	
+AO	13546341	Rua 14	residential	1	0	0	
+AO	13546341	Rua 15	residential	1	0	0	
+AO	13546341	Rua 16	residential	1	0	0	
+AO	13546341	Rua 17	residential	1	0	0	
+AO	13546341	Rua 18	residential	1	0	0	
+AO	13546341	Rua 19	residential	1	0	0	
+AO	13546341	Rua 20	residential	1	0	0	
+AO	13546341	Rua 21	residential	1	0	0	
+AO	13546341	Rua 22	residential	1	0	0	
+AO	13546341	Rua 225	residential	1	0	0	
+AO	13546341	Rua 23	residential	1	0	0	
+AO	13546341	Rua 24	residential	1	0	0	
+AO	13546341	Rua 26	residential	1	0	0	
+AO	13546341	Rua 27	residential	1	0	0	
+AO	13546341	Rua 28	residential	1	0	0	
+AO	13546341	Rua 8 de Novembro	residential	1	0	0	
+AO	13546341	Rua Adelino Quintino	unclassified	1	0	0	
+AO	13546341	Rua Alva	residential	1	0	0	
+AO	13546341	Rua Amarela	unclassified	1	0	0	
+AO	13546341	Rua Amizade	residential	1	0	0	
+AO	13546341	Rua Arco-Iris	residential	1	0	0	
+AO	13546341	Rua Azul	residential	1	0	0	
+AO	13546341	Rua Azul Celeste	residential	1	0	0	
+AO	13546341	Rua Azul Marinho	residential	1	0	0	
+AO	13546341	Rua Branca	residential	1	0	0	
+AO	13546341	Rua Brilhante	residential	1	0	0	
+AO	13546341	Rua C11	residential	1	0	0	
+AO	13546341	Rua C12	residential	1	0	0	
+AO	13546341	Rua C12 de baixo	residential	1	0	0	
+AO	13546341	Rua C12 de cima	residential	1	0	0	
+AO	13546341	Rua Carmim	residential	1	0	0	
+AO	13546341	Rua Castanha	residential	1	0	0	
+AO	13546341	Rua Lino Amezaga	tertiary	1	0	0	
+AO	13546341	Rua Mirandela (Rua B7)	unclassified	1	0	0	
+AO	13546341	Rua Moncao (Rua B5)	residential	1	0	0	
+AO	13546341	Rua Prateada	residential	1	0	0	
+AO	13546341	Rua Purpurinha	residential	1	0	0	
+AO	13546341	Rua Rosada	residential	1	0	0	
+AO	13546341	Rua Roxa	residential	1	0	0	
+AO	13546341	Rua Rubra	residential	1	0	0	
+AO	13546341	Rua Tenente Berberan	unclassified	1	0	0	
+AO	13546341	Rua Tras os Montes	residential	1	0	0	
+AO	13546341	Rua Verde	residential	1	0	0	
+AO	13546341	Rua Verde Mar	residential	1	0	0	
+AO	13546341	Rua Violeta	unclassified	1	0	0	
+AO	13546341	Rua da Beira de Baixo	residential	1	0	0	
+AO	13546341	Rua da Beira de Cima	residential	1	0	0	
+AO	13546341	Rua da Bolama	residential	1	0	0	
+AO	13546341	Rua da Brigada	tertiary	1	0	0	
+AO	13546341	Rua da Converse	residential	1	0	0	
+AO	13546341	Rua da Estremadura	residential	1	0	0	
+AO	13546341	Rua da Funda (Rua B6)	residential	1	0	0	
+AO	13546341	Rua da Lama	residential	1	0	0	
+AO	13546341	Rua da Saúde	residential	1	0	0	
+AO	13546341	Rua da Taag	residential	1	0	0	
+AO	13546341	Rua da Vaidade	residential	1	0	0	
+AO	13546341	Rua da cidade de Faro	residential	1	0	0	
+AO	13546341	Rua de Almerim	residential	1	0	0	
+AO	13546341	Rua de Amarante	unclassified	1	0	0	
+AO	13546341	Rua de Ambaca	residential	1	0	0	
+AO	13546341	Rua de Bissau	residential	1	0	0	
+AO	13546341	Rua de Cacuso (Rua B4)	residential	1	0	0	
+AO	13546341	Rua de Caxito	unclassified	1	0	0	
+AO	13546341	Rua de Dili	residential	1	0	0	
+AO	13546341	Rua de Dirico (Rua B2)	residential	1	0	0	
+AO	13546341	Rua de Espinhos	unclassified	1	0	0	
+AO	13546341	Rua de Gaia (Rua B3)	residential	1	0	0	
+AO	13546341	Rua de Gaia (Rua C4 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Gaia (Rua C4 de cima)	residential	1	0	0	
+AO	13546341	Rua de Landana (Rua C11 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Landana (Rua C11 de cima)	residential	1	0	0	
+AO	13546341	Rua de Lousã (Rua C6 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Lousã (Rua C6 de cima)	residential	1	0	0	
+AO	13546341	Rua de Maquela (Rua C7 de Cima)	residential	1	0	0	
+AO	13546341	Rua de Maquela (Rua C7 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Murtosa	residential	1	0	0	
+AO	13546341	Rua de Murtosa (Rua C10 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Murtosa (Rua C10 de cima)	residential	1	0	0	
+AO	13546341	Rua de Negage (Rua C5 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Negage (Rua C5 de cima)	residential	1	0	0	
+AO	13546341	Rua de Olivença	unclassified	1	0	0	
+AO	13546341	Rua de Ovar	residential	1	0	0	
+AO	13546341	Rua de Ovar (Rua C8 de baixo)	unclassified	1	0	0	
+AO	13546341	Rua de Ovar (Rua C8 de cima)	unclassified	1	0	0	
+AO	13546341	Rua de Quilengues (Rua C9 de baixo)	residential	1	0	0	
+AO	13546341	Rua de Quilengues (Rua C9 de cima)	residential	1	0	0	
+AO	13546341	Rua do Alentejo	residential	1	0	0	
+AO	13546341	Rua do Bairro Augusto	residential	1	0	0	
+AO	13546341	Rua do Caputo	residential	1	0	0	
+AO	13546341	Rua do Comandante Cantiga	unclassified	1	0	0	
+AO	13546341	Rua do Fundao	unclassified	1	0	0	
+AO	13546341	Rua do Gelado	residential	1	0	0	
+AO	13546341	Rua do Mexico	residential	1	0	0	
+AO	13546341	Rua do Minho	residential	1	0	0	
+AO	13546341	Rua do Mormugão	residential	1	0	0	
+AO	13546341	Rua do Ngongo	residential	1	0	0	
+AO	13546341	Rua do Parana	residential	1	0	0	
+AO	13546341	Rua do Penafiel (Rua B1)	residential	1	0	0	
+AO	13546341	Rua do Pernambuco	residential	1	0	0	
+AO	13546341	Rua do Pica Pau	residential	1	0	0	
+AO	13546341	Rua do Povo	residential	1	0	0	
+AO	13546341	Rua do Sangue e Furia	residential	1	0	0	
+AO	13546341	Rua dos Acores	secondary	1	0	0	
+AO	13546341	Rua dos Coronéis	residential	1	0	0	
+AO	13546341	Rua dos Eucaliptos (Rua C3 de Cima)	residential	1	0	0	
+AO	13546341	Rua dos Eucaliptos (Rua C3 de baixo)	residential	1	0	0	
+AO	13546341	Sao Francisco de Xavier	residential	1	0	0	
+AO	13546341	Sebastião Desta Vez	residential	1	0	0	
+AO	13546341	Travessa B1-Rua do Penafiel	residential	1	0	0	
+AO	13546341	Travessa Rua C10	residential	1	0	0	
+AO	13546341	Travessa de Gaia	residential	1	0	0	
+AO	13546341	Travessa do Douro	residential	1	0	0	
+AO	13546341	Travessa dos Eucaliptos	residential	1	0	0	
+AO	13546343	Avenida Comandante Kima Kyenda	primary	1	0	0	
+AO	13546343	Avenida Murtala Mohamed	tertiary	1	0	0	
+AO	13546343	Estrada Pra São Pedro da Barra	tertiary	1	0	0	
+AO	13546343	Estrada de Cacuaco	primary	1	0	0	
+AO	13546343	Largo dos Pescadores	residential	1	0	0	
+AO	13546343	Lueji Ankonda	secondary	1	0	0	
+AO	13546343	Rua Ndunduma	secondary	1	0	0	
+AO	13546343	Rua Portão B Sonils	primary	1	0	0	
+AO	13546343	Rua da Boavista	primary	1	0	0	
+AO	13546343	Rua da Saloca	residential	1	0	0	
+AO	13546343	Rua de Santa Clara	residential	1	0	0	
+AO	13546343	Rua de Santa Clara A	residential	1	0	0	
+AO	13546343	Rua de Santa Clara B	residential	1	0	0	
+AO	13546343	Rua de Santa Clara C	residential	1	0	0	
+AO	13546343	Rua de Santa Clara D	residential	1	0	0	
+AO	13546343	Rua de Santa Clara E	residential	1	0	0	
+AO	13546343	Rua de Santa Clara F	tertiary	1	0	0	
+AO	13546343	Rua do Cacuaco	residential	1	0	0	
+AO	13546343	Rua do São Pedro da Barra	tertiary	1	0	0	
+AO	13608165	Baixera 2	residential	1	0	0	
+AO	13608165	Cuba	residential	1	0	0	
+AO	13608165	Estrada Kimbango-Calemba 2	secondary	1	0	0	
+AO	13608165	Kuanza Sul	residential	1	0	0	
+AO	13608165	Rua Kimbango	unclassified	1	0	0	
+AO	13608165	Rua Simão Toco	residential	1	0	0	
+AO	13608165	Rua da Cometa	tertiary	1	0	0	
+AO	13608165	Rua da Comissão	unclassified	1	0	0	
+AO	13608165	Rua da GLANKENI	tertiary	1	0	0	
+AO	13608165	Rua da carne de caça	residential	1	0	0	
+AO	13608165	Rua do Calemba 2	secondary	1	0	0	
+AO	13608165	Rua do Quilanba	residential	1	0	0	
+AO	13608240	Caimbambo-Cubal	primary	1	0	0	

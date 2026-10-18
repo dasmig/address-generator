@@ -1,0 +1,3348 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+SA	100425	Fish in a Basket - Roundabout	tertiary	1	0	0	
+SA	100425	شارع الحنان	secondary	1	0	0	Omar Ibn Abdelaziz Road
+SA	100425	شارع عمر بن الخطاب	secondary	1	0	0	Omar Ibn Elkhattab street
+SA	100425	طريق الملك فهد	secondary	1	0	0	
+SA	100425	علي بن ابي طالب	secondary	1	0	0	Ali Ibn Abi Taleb street
+SA	100732	طريق الأمير سلطان بن عبدالعزيز	tertiary	1	0	0	
+SA	100732	طريق الأمير فيصل بن بندر بن عبدالعزيز	tertiary	1	0	0	
+SA	100732	طريق المحلاني - عقلة الصقور	secondary	1	0	0	Al Mahalani - Oglat Asugour Road
+SA	100732	طريق الملك عبدالعزيز	primary	1	0	0	King Abdul Aziz Road
+SA	100732	طريق الملك عبدالله	secondary	1	0	0	King Abdullah Road
+SA	100732	طريق الملك فهد	tertiary	1	0	0	
+SA	100768	طريق المذنب - عنيزة - المطار		2	8612	8906	
+SA	100768	جادة الإصلاح	tertiary	1	0	0	
+SA	100768	جادة الروضة	secondary	1	0	0	
+SA	100768	شارع عبد الله الخالد السليم	tertiary	1	0	0	Abdullah Khaled Al Sulaim St
+SA	100768	طريق الحفيرة	tertiary	1	0	0	
+SA	100768	طريق المدينة المنورة	primary	1	0	0	Al Madenah Al Munawarah Rd
+SA	100768	طريق جادة الرايسية	secondary	1	0	0	
+SA	100768	طريق عثمان بن عفان	secondary	1	0	0	
+SA	100926	طريق الدقم	tertiary	1	0	0	
+SA	100926	طريق الملك عبد العزيز	residential	1	0	0	
+SA	101312	شارع ابن الهيثم	tertiary	1	0	0	
+SA	101313	ابن النفيس	tertiary	1	0	0	
+SA	101313	الملك عبدالعزيز	tertiary	1	0	0	
+SA	101313	خالد بن الوليد	tertiary	1	0	0	
+SA	101313	شارع ابن الهيثم	tertiary	1	0	0	
+SA	101313	شارع ابن سينا	residential	1	0	0	
+SA	101313	شارع ابو هريرة	residential	1	0	0	
+SA	101313	شارع الامير نايف بن عبدالعزيز	tertiary	1	0	0	
+SA	101313	شارع المعتصم	residential	1	0	0	
+SA	101313	شارع امنة بنت وهب	residential	1	0	0	
+SA	101313	طريق ابو بكر الصديق	tertiary	1	0	0	
+SA	101313	طريق الملك سعود	tertiary	1	0	0	
+SA	101313	طريق الملك فيصل	tertiary	1	0	0	
+SA	101313	طريق سلطان بن عبدالعزيز	tertiary	1	0	0	
+SA	101313	طريق عثمان بن عفان	tertiary	1	0	0	
+SA	101313	عمر ابن الخطاب	tertiary	1	0	0	
+SA	101516	الملك سعود	secondary	1	0	0	
+SA	101516	شارع ابوبكر الصديق	tertiary	1	0	0	
+SA	101516	شارع الملك عبدالله	tertiary	1	0	0	
+SA	101516	شارع الملك فهد	tertiary	1	0	0	
+SA	101554	10th st الشارع العاشر	residential	1	0	0	
+SA	101554	5A st. شارع 5أ	residential	1	0	0	
+SA	101554	Riyadh Road	tertiary	1	0	0	
+SA	101554	الحارث التميمي	secondary	1	0	0	
+SA	101554	جسر الأئمة	primary	1	0	0	
+SA	101554	حمزة بن عبدالمطلب	tertiary	1	0	0	
+SA	101554	شارع أحد	primary	1	0	0	
+SA	101554	شارع الرياض	primary	1	0	0	Riyadh Road
+SA	101554	شارع عمار بن ياسر	tertiary	1	0	0	Ammar Ibn Yasir St.
+SA	101554	طريق أحد	primary	1	0	0	
+SA	101628	طريق الملك فهد		2	3456	3713	
+SA	101628	Praying Ground	pedestrian	1	0	0	
+SA	101628	البازعي	secondary	1	0	0	
+SA	101628	شارع الامير عبدالمجيد	secondary	1	0	0	
+SA	101628	شارع معاذ بن جبل	tertiary	1	0	0	
+SA	101628	طريق الأمير فهد بن سلطان بن عبد العزيز	primary	1	0	0	
+SA	101628	طريق الملك سعود	primary	1	0	0	
+SA	101628	طريق الملك عبد العزيز	primary	1	0	0	
+SA	101628	طريق الملك عبد الله	secondary	1	0	0	
+SA	101628	عمر المختار	residential	1	0	0	Omar Al Mokhtar
+SA	101732	الشارع التجاري	tertiary	1	0	0	
+SA	101732	الشبيلي	primary	1	0	0	
+SA	101732	الطريق الدائري الداخلي الشرقي	primary	1	0	0	
+SA	101732	بدون اسم	unclassified	1	0	0	
+SA	101732	جادة الإصلاح	tertiary	1	0	0	
+SA	101732	جادة القنارة	tertiary	1	0	0	
+SA	101732	جادة الوهلان	tertiary	1	0	0	Jaddat Al Wahlan St
+SA	101732	جادة دمشية	residential	1	0	0	Jaddat Damshyah St
+SA	101732	دوار طريق المدينة	primary	1	0	0	
+SA	101732	شارع ابن تيمية	tertiary	1	0	0	
+SA	101732	شارع الأمير سلطان بن عبد العزيز	tertiary	1	0	0	King Abdullah St
+SA	101732	شارع البويطن	tertiary	1	0	0	Al Bowayten St
+SA	101732	شارع الرحمة	tertiary	1	0	0	Al Rahmah St
+SA	101732	شارع السفير	primary	1	0	0	Asafeer St
+SA	101732	شارع السلسلة	tertiary	1	0	0	Aselselah St
+SA	101732	شارع الشريمية	tertiary	1	0	0	
+SA	101732	شارع الشيخ عبد الرحمن ابن سعدي	tertiary	1	0	0	
+SA	101732	شارع الصالحية	tertiary	1	0	0	Asalehyah St
+SA	101732	شارع الضليعة	tertiary	1	0	0	Ad Dulayah St
+SA	101732	شارع الملاح	tertiary	1	0	0	Al Mallah St
+SA	101732	شارع براكة	tertiary	1	0	0	Barrakah St
+SA	101732	شارع عبد الله الخالد السليم	tertiary	1	0	0	Abdullah Khaled Al Sulaim St
+SA	101732	شارع متروك	tertiary	1	0	0	Matrook St
+SA	101732	شارع هلالة	tertiary	1	0	0	Helalah St
+SA	101732	طريق الأمير فيصل بن بندر	tertiary	1	0	0	Faysal Ibn Bandar St
+SA	101732	طريق الحفيرة	tertiary	1	0	0	
+SA	101732	طريق الزلفي	primary	1	0	0	
+SA	101732	طريق الشيخ محمد ابن عثيمين	tertiary	1	0	0	Ashekh Mohammad Ibn Othaymeen St
+SA	101732	طريق العوشزية	secondary	1	0	0	
+SA	101732	طريق المدينة المنورة	primary	1	0	0	Al Madenah Al Munawarah Rd
+SA	101732	طريق الملك خالد	tertiary	1	0	0	King khaled Road
+SA	101732	طريق الملك سعود	secondary	1	0	0	King Saoud Rd
+SA	101732	طريق عثمان بن عفان	secondary	1	0	0	
+SA	101732	طريق علي بن أبي طالب	primary	1	0	0	Ali Ibn Abi Taleb Road
+SA	101732	طريق عمر بن الخطاب	secondary	1	0	0	Omar Ibn Alkhtab Road
+SA	101732	فهد العماري	tertiary	1	0	0	
+SA	101760	( شارع السلام ) أبو بكر الصديق	primary	1	0	0	Abu Bakr Asseddeq Road (Al Salam Road)
+SA	101760	Abdullah Ibn Jubair Street	secondary	1	0	0	
+SA	101760	Abi Dhar Al Ghafari Street	primary	1	0	0	
+SA	101760	Al Amir Abdul Majid Road	secondary	1	0	0	
+SA	101760	As-Sih Street	secondary	1	0	0	
+SA	101760	Ibn Taher	residential	1	0	0	
+SA	101760	Khulaida Ibn Thabet	residential	1	0	0	
+SA	101760	Mas Ud Bin Nasir Street	secondary	1	0	0	
+SA	101760	Othman Ibn Affan Road	primary	1	0	0	
+SA	101760	Rafih Ibn Amr	residential	1	0	0	
+SA	101760	Saad Bin Thabit Street	residential	1	0	0	
+SA	101760	Sikkat Al Hadeed Street	secondary	1	0	0	
+SA	101760	Sultana Road	primary	1	0	0	
+SA	101760	اسامة بن زید	tertiary	1	0	0	
+SA	101760	الامير عبدالمجيد بن عبدالعزيز	primary	1	0	0	Price Abdul Majeed Road
+SA	101760	خالد بن الوليد	secondary	1	0	0	
+SA	101760	دوار الازهری	secondary	1	0	0	Al-Azahari Square
+SA	101760	شارع الامام البخاري	tertiary	1	0	0	
+SA	101760	شارع الربيع الانصاري	tertiary	1	0	0	Al Rabi'e Ansari street
+SA	101760	شارع محمد بن اسحاق الموروذي	residential	1	0	0	
+SA	101760	طريق الملك فهد	primary	1	0	0	King Fahd Road
+SA	101760	طريق تبوك الفرعي	secondary	1	0	0	tabuk branch road
+SA	101760	طريق سلطانة	primary	1	0	0	Sultana Road
+SA	101760	نسيبة بن كعب	primary	1	0	0	Nasebah bin Ka'ab
+SA	102170	طريق الملك فهد	primary	7	2167	9394	King Fahad Road
+SA	102170	طريق الملك فيصل		5	2397	7441	
+SA	102170	الغيهب		4	2256	7728	
+SA	102170	king abdul aziz road		2	3758	6997	
+SA	102170	Abu Bakr	tertiary	1	0	0	
+SA	102170	King Abdullah Road	tertiary	1	0	0	
+SA	102170	ابن الأثير	residential	1	0	0	ibn alathir
+SA	102170	ابن كثير	residential	1	0	0	ibn katheer
+SA	102170	اسماء بنت ابي بكر	residential	1	0	0	
+SA	102170	السياحين	residential	1	0	0	As Sayaheen
+SA	102170	سعد بن مالك	residential	1	0	0	Saad bin Malik
+SA	102170	طريق الملك خالد	tertiary	1	0	0	King Khalid Road
+SA	102170	فلسطين	residential	1	0	0	
+SA	102170	محمد بن قاسم	residential	1	0	0	Mohammad bin Qassim
+SA	102318	32 Street	tertiary	1	0	0	
+SA	102318	613	primary	1	0	0	
+SA	102318	شارع الملك سعود	primary	1	0	0	King Saud Street
+SA	102318	شارع عمر بن الخطاب	primary	1	0	0	Omar Ibn Al Khatteb Street
+SA	102318	شارع عمر بن عبد العزيز	secondary	1	0	0	
+SA	102318	طريق الخليج	primary	1	0	0	Al Khaleej Road
+SA	102451	طريق الطرشية والنجمية - صامطة	secondary	1	0	0	
+SA	102451	طريق المضايا - الجروب- الدغارير	secondary	1	0	0	
+SA	102451	طريق الملك سلمان بن عبدالعزيز	primary	1	0	0	King Salman Bin Abdul Aziz Rd
+SA	102451	طريقالمضايا - الجروب- صامطة	tertiary	1	0	0	
+SA	102527	طريق الأمير عبدالرحمن السديري	secondary	1	0	0	
+SA	102527	طريق الأمير فهد بن بدر بن عبدالعزبز	tertiary	1	0	0	
+SA	102527	طريق الامير نواف بن عبدالعزيز	tertiary	1	0	0	
+SA	102527	طريق الملك خالد	tertiary	1	0	0	
+SA	102527	طريق الملك خالد - الحزام	secondary	1	0	0	
+SA	102527	طريق الملك عبدالعزيز	secondary	1	0	0	
+SA	102585	النعمان بن بشير		3	0	0	
+SA	102585	طريق النعمان بن بشير		2	3870	4767	
+SA	102585	طريق الإمام علي بن أبي طالب	secondary	1	0	0	
+SA	102585	طريق المطار	primary	1	0	0	Airport Road
+SA	102651	الملك عبدالله بن عبدالعزيز	primary	1	0	0	King Abdullah bin Abdulaziz
+SA	102651	الملك فيصل بن عبد العزيز	tertiary	1	0	0	King Faisal bin Abdulaziz
+SA	102651	طريق الملك خالد	tertiary	1	0	0	King Khaled Road
+SA	102651	طريق عيسى الحمزي	living_street	1	0	0	
+SA	102744	طريق رماح	primary	1	0	0	Ramah Rd
+SA	102891	King Abdullah bin Abdulaziz Street		3	16	2604	
+SA	102891	Acacia Street	unclassified	1	0	0	
+SA	102891	Almond Lane	residential	1	0	0	
+SA	102891	Anchor Drive	residential	1	0	0	
+SA	102891	Avocet Street	residential	1	0	0	
+SA	102891	Breezy Place	residential	1	0	0	
+SA	102891	Coral Avenue	residential	1	0	0	
+SA	102891	Crane Court	residential	1	0	0	
+SA	102891	Dhahran Lane	residential	1	0	0	
+SA	102891	Eagle Lane	residential	1	0	0	
+SA	102891	Egret Street	residential	1	0	0	
+SA	102891	Falcon Drive	residential	1	0	0	
+SA	102891	Flamingo Street	residential	1	0	0	
+SA	102891	Gannet Street	residential	1	0	0	
+SA	102891	Hawk Lane	residential	1	0	0	
+SA	102891	Heron Street	residential	1	0	0	
+SA	102891	Ibis Street	residential	1	0	0	
+SA	102891	Jasmine Street	residential	1	0	0	
+SA	102891	King Saud bin Abdulaziz Street	secondary	1	0	0	
+SA	102891	Kingfisher Avenue	residential	1	0	0	
+SA	102891	Laurel Lane	residential	1	0	0	
+SA	102891	Linden Street	residential	1	0	0	
+SA	102891	Mallard Drive	residential	1	0	0	
+SA	102891	Manifah Court	residential	1	0	0	
+SA	102891	Nariyah Court	residential	1	0	0	
+SA	102891	Oleander Street	residential	1	0	0	
+SA	102891	Palm Drive	unclassified	1	0	0	
+SA	102891	Pebble Avenue	residential	1	0	0	
+SA	102891	Pelican Drive	residential	1	0	0	
+SA	102891	Pelican Street	residential	1	0	0	
+SA	102891	Periwinkle Avenue	residential	1	0	0	
+SA	102891	Plover Street	residential	1	0	0	
+SA	102891	Prince Muhammad bin Abdulaziz Street	tertiary	1	0	0	
+SA	102891	Quail Drive	residential	1	0	0	
+SA	102891	Reef Road	residential	1	0	0	
+SA	102891	Saihat Lane	residential	1	0	0	
+SA	102891	Sand Dollar Lane	residential	1	0	0	
+SA	102891	Sandpiper Avenue	residential	1	0	0	
+SA	102891	Seashell Lane	residential	1	0	0	
+SA	102891	Seashore Drive	residential	1	0	0	
+SA	102891	Spinnaker Court	residential	1	0	0	
+SA	102891	Sunfish Lane	residential	1	0	0	
+SA	102891	Sunset Drive	residential	1	0	0	
+SA	102891	Surf Avenue	residential	1	0	0	
+SA	102891	Surfboard Lane	residential	1	0	0	
+SA	102891	Swan Lane	residential	1	0	0	
+SA	102891	Vine	residential	1	0	0	
+SA	102891	Widgeon Court	residential	1	0	0	
+SA	102891	شارع أم المؤمنين زينب الأسدية	residential	1	0	0	
+SA	102891	شارع القدس	tertiary	1	0	0	
+SA	102891	شارع الملك خالد	secondary	1	0	0	King Khalid Road
+SA	102891	شارع الملك فهد بن عبد العزيز	secondary	1	0	0	King Fahad bin Abdulaziz Road
+SA	102891	شارع الملك فيصل بن عبدالعزيز	secondary	1	0	0	King Faisal bin Abdulaziz Street
+SA	102985	King Abdullah bin Abdulaziz Street		9	26	30	
+SA	102985	شارع البيهقي	residential	4	3	6	Al Bayhaqi Street
+SA	102985	شارع 1	residential	1	0	0	Street 1
+SA	102985	شارع 1 (أ)	residential	1	0	0	1 (A) St.
+SA	102985	شارع 3 (ب)	residential	1	0	0	3 (B) St.
+SA	102985	شارع 5	residential	1	0	0	5 St.
+SA	102985	شارع 8	residential	1	0	0	8 St.
+SA	102985	شارع 9 (أ)	residential	1	0	0	9 (A) st.
+SA	102985	شارع الأمير محمد بن فهد بن عبدالعزيز	secondary	1	0	0	
+SA	102985	شارع الأمير نايف بن عبد العزيز	secondary	1	0	0	Prince Nayef bin Abdulaziz Street
+SA	102985	شارع الأوزاعي	residential	1	0	0	Al Uzae St.
+SA	102985	شارع الإمام أبو حنيفة	tertiary	1	0	0	Al Imam Abu Hanifah St.
+SA	102985	شارع الإمام مالك	residential	1	0	0	Imam Malik Street
+SA	102985	شارع الإمام مسلم	residential	1	0	0	Al Imam Muslim St.
+SA	102985	شارع البيروني	residential	1	0	0	Al Bairuni St.
+SA	102985	شارع الخوارزمي	residential	1	0	0	Al Khawarizmi St.
+SA	102985	شارع الرازي	residential	1	0	0	Al Razi St.
+SA	102985	شارع الغزالي	residential	1	0	0	Al Ghazali St.
+SA	102985	شارع الملك سعود	secondary	1	0	0	King Saud Road
+SA	102985	شارع الملك عبدالله بن عبدالعزيز	secondary	1	0	0	King Abdullah bin Abdulaziz Street
+SA	102985	شارع الملك فهد بن عبد العزيز	secondary	1	0	0	King Fahad bin Abdulaziz Road
+SA	102985	شارع النعمان بن ثابت	residential	1	0	0	Al Nouman Bin Thabet St.
+SA	102985	طريق الملك عبدالعزيز	secondary	1	0	0	King Abdulaziz Road
+SA	103035	Roundabout	primary	1	0	0	
+SA	103035	طريق الملك عبدالله بن عبد العزيز	primary	1	0	0	King Abdullah Bin Abdulaziz Road
+SA	103035	طريق الملك فيصل بن عبد العزيز	primary	1	0	0	King Faisal Bin Abdulaziz Road
+SA	103035	طريق عبر بن الخطاب	secondary	1	0	0	
+SA	103220	طريق قبه الطراق	primary	1	0	0	
+SA	103220	طريق قبه سامودة	primary	1	0	0	
+SA	103369	الإمام احمد بن حنبل	residential	1	0	0	
+SA	103369	الملك عبد العزيز	residential	1	0	0	
+SA	103369	شارع الرياض	secondary	1	0	0	
+SA	103369	شارع الملك فيصل	tertiary	1	0	0	king faisal street
+SA	103369	طريق الملك سعود	primary	1	0	0	King Saud Road
+SA	103630	شارع أحمد اللبان	residential	1	0	0	Ahmed Al Labban Street
+SA	103630	شارع أحمد بن إدريس	residential	1	0	0	Ahmad Bin Edris Street
+SA	103630	شارع الجربة	secondary	1	0	0	Al Jurba Street
+SA	103630	شارع الحلفاء	residential	1	0	0	Al Halfa Street
+SA	103630	شارع الخطيب ابن تيمية	residential	1	0	0	
+SA	103630	شارع الطرائفي	residential	1	0	0	Aal Tra'efi Street
+SA	103630	شارع الملك فيصل	tertiary	1	0	0	King Faisal Street
+SA	103630	شارع شهيد الدين ثم الوطن هادي صالح مسفر آل مهري	tertiary	1	0	0	
+SA	103630	شارع علي بن معسععور	residential	1	0	0	
+SA	103630	طريق الملك عبدالعزيز	tertiary	1	0	0	King Abdul Aziz Road
+SA	104376	شارع القدس	secondary	1	0	0	Al Quds street
+SA	104376	شارع الملك عبدالله	secondary	1	0	0	King Abdullah Street
+SA	104376	شارع الملك فهد	secondary	1	0	0	King Fahed street
+SA	104515	Street-204		16	1	25	
+SA	104515	طريق إبراهيم الخليل	tertiary	15	6616	7094	Ibrahim Al Khalil Road
+SA	104515	Street-227-Suq-Alarab		11	1	17	
+SA	104515	St-2		9	1	11	
+SA	104515	Jabal Omar	residential	4	6813	6945	
+SA	104515	Jabal Omar Street	residential	3	3535	7264	
+SA	104515	King Abdul Aziz Road		3	4479	4683	
+SA	104515	St-3	unclassified	3	3	5	
+SA	104515	شارع ابو بكر الصديق	residential	3	3138	8772	Abu Bakr Al Siddiq Street
+SA	104515	طريق أم القرى		3	3156	3258	
+SA	104515	1		2	4	6	
+SA	104515	Abdullah Ibn al-Abbas Street		2	7591	7591	
+SA	104515	Al Jamaraat	pedestrian	2	2	14	
+SA	104515	Al Masjid Al Haram Road		2	1	2424	
+SA	104515	At Taif Road طريق الأمير سلطان		2	0	0	
+SA	104515	Ibrahim Al Khalil Road	tertiary	2	2677	7089	
+SA	104515	شَارِع إبراهيم الخليل	primary	2	2771	3783	Ibrahim Al Khalil Street
+SA	104515	105	residential	1	0	0	
+SA	104515	108	residential	1	0	0	
+SA	104515	110	residential	1	0	0	
+SA	104515	111	unclassified	1	0	0	
+SA	104515	112	unclassified	1	0	0	
+SA	104515	114	unclassified	1	0	0	
+SA	104515	115	residential	1	0	0	
+SA	104515	116	unclassified	1	0	0	
+SA	104515	120	residential	1	0	0	
+SA	104515	122	residential	1	0	0	
+SA	104515	126	living_street	1	0	0	
+SA	104515	128	residential	1	0	0	
+SA	104515	202	unclassified	1	0	0	
+SA	104515	203	residential	1	0	0	
+SA	104515	204	unclassified	1	0	0	
+SA	104515	206	secondary	1	0	0	
+SA	104515	209	unclassified	1	0	0	
+SA	104515	210	living_street	1	0	0	
+SA	104515	211	residential	1	0	0	
+SA	104515	212	residential	1	0	0	
+SA	104515	213	unclassified	1	0	0	
+SA	104515	214	living_street	1	0	0	
+SA	104515	215	unclassified	1	0	0	
+SA	104515	216	living_street	1	0	0	
+SA	104515	217	unclassified	1	0	0	
+SA	104515	219	residential	1	0	0	
+SA	104515	221	unclassified	1	0	0	
+SA	104515	223	unclassified	1	0	0	
+SA	104515	225	residential	1	0	0	
+SA	104515	227	residential	1	0	0	
+SA	104515	231	residential	1	0	0	
+SA	104515	303	unclassified	1	0	0	
+SA	104515	305	unclassified	1	0	0	
+SA	104515	307	unclassified	1	0	0	
+SA	104515	309	residential	1	0	0	
+SA	104515	312	residential	1	0	0	
+SA	104515	401	residential	1	0	0	
+SA	104515	402	living_street	1	0	0	
+SA	104515	404	unclassified	1	0	0	
+SA	104515	406	tertiary	1	0	0	
+SA	104515	407	residential	1	0	0	
+SA	104515	408	unclassified	1	0	0	
+SA	104515	415	unclassified	1	0	0	
+SA	104515	417	living_street	1	0	0	
+SA	104515	419	living_street	1	0	0	
+SA	104515	421	tertiary	1	0	0	
+SA	104515	423	living_street	1	0	0	
+SA	104515	425	living_street	1	0	0	
+SA	104515	427	living_street	1	0	0	
+SA	104515	508	living_street	1	0	0	
+SA	104515	510	living_street	1	0	0	
+SA	104515	511	secondary	1	0	0	
+SA	104515	524	living_street	1	0	0	
+SA	104515	602	residential	1	0	0	
+SA	104515	604	residential	1	0	0	
+SA	104515	606	living_street	1	0	0	
+SA	104515	608	residential	1	0	0	
+SA	104515	610	living_street	1	0	0	
+SA	104515	611	residential	1	0	0	
+SA	104515	612	living_street	1	0	0	
+SA	104515	613	residential	1	0	0	
+SA	104515	614	living_street	1	0	0	
+SA	104515	615	living_street	1	0	0	
+SA	104515	616	residential	1	0	0	
+SA	104515	617	living_street	1	0	0	
+SA	104515	618	living_street	1	0	0	
+SA	104515	620	living_street	1	0	0	
+SA	104515	621	living_street	1	0	0	
+SA	104515	622	living_street	1	0	0	
+SA	104515	623	living_street	1	0	0	
+SA	104515	625	living_street	1	0	0	
+SA	104515	627	living_street	1	0	0	
+SA	104515	629	residential	1	0	0	
+SA	104515	630	residential	1	0	0	
+SA	104515	631	living_street	1	0	0	
+SA	104515	632	living_street	1	0	0	
+SA	104515	633	living_street	1	0	0	
+SA	104515	634	living_street	1	0	0	
+SA	104515	635	living_street	1	0	0	
+SA	104515	637	living_street	1	0	0	
+SA	104515	641	living_street	1	0	0	
+SA	104515	642	living_street	1	0	0	
+SA	104515	643	living_street	1	0	0	
+SA	104515	644	living_street	1	0	0	
+SA	104515	645	living_street	1	0	0	
+SA	104515	646	living_street	1	0	0	
+SA	104515	647	living_street	1	0	0	
+SA	104515	648	living_street	1	0	0	
+SA	104515	649	living_street	1	0	0	
+SA	104515	650	living_street	1	0	0	
+SA	104515	651	living_street	1	0	0	
+SA	104515	652	living_street	1	0	0	
+SA	104515	653	living_street	1	0	0	
+SA	104515	655	living_street	1	0	0	
+SA	104515	656	living_street	1	0	0	
+SA	104515	Abdullah Arif St	primary	1	0	0	
+SA	104515	Al Amal Street	residential	1	0	0	
+SA	104515	Al Amir Abdullah Ibn Saud Street	residential	1	0	0	
+SA	104515	Al Amir Nasar Ibn Masud Street	tertiary	1	0	0	
+SA	104515	Al Amjad Street	residential	1	0	0	
+SA	104515	Al Amudi Street	residential	1	0	0	
+SA	104515	Al Andalus Street	residential	1	0	0	
+SA	104515	Al Balad Al Amin Street	residential	1	0	0	
+SA	104515	Al Bardi Street	residential	1	0	0	
+SA	104515	Al Barkat Street	residential	1	0	0	
+SA	104515	Al Bashair Street	residential	1	0	0	
+SA	104515	Al Bayah Street	residential	1	0	0	
+SA	104515	Al Birkah Tunnel	tertiary	1	0	0	
+SA	104515	Al Farah Street	residential	1	0	0	
+SA	104515	Al Fikr Street	unclassified	1	0	0	
+SA	104515	Al Ful Street	residential	1	0	0	
+SA	104515	Al Haya Street	residential	1	0	0	
+SA	104515	Al Husna Street	residential	1	0	0	
+SA	104515	Al Ijabah Street	tertiary	1	0	0	
+SA	104515	Al Ilam Street	residential	1	0	0	
+SA	104515	Al Ilm Street	residential	1	0	0	
+SA	104515	Al Imam Al Bukhari Street	residential	1	0	0	
+SA	104515	Al Imam Muslim Street	residential	1	0	0	
+SA	104515	Al Imarat Street	tertiary	1	0	0	
+SA	104515	Al Inshira Street	residential	1	0	0	
+SA	104515	Al Istiqrar Street	residential	1	0	0	
+SA	104515	Al Ithar Street	residential	1	0	0	
+SA	104515	Al Jamiyyah Al Khayriyyah Street	residential	1	0	0	
+SA	104515	Al Khandamah Street	tertiary	1	0	0	
+SA	104515	Al Kidwah Tunnel	tertiary	1	0	0	
+SA	104515	Al Kullyyah Al Mutawwasitah Street	residential	1	0	0	
+SA	104515	Al Maaskar Al Kashfi	residential	1	0	0	
+SA	104515	Al Mabadi Street	residential	1	0	0	
+SA	104515	Al Mahakim Street	tertiary	1	0	0	
+SA	104515	Al Makarim Street	residential	1	0	0	
+SA	104515	Al Malawi Street	tertiary	1	0	0	
+SA	104515	Al Maliki Street	residential	1	0	0	
+SA	104515	Al Mansur Street	residential	1	0	0	
+SA	104515	Al Marifah Street	residential	1	0	0	
+SA	104515	Al Masjidul Al Qatri Street	residential	1	0	0	
+SA	104515	Al Mufti Street	residential	1	0	0	
+SA	104515	Al Muhandis Street	residential	1	0	0	
+SA	104515	Al Mustashfa Al Ahli Street	residential	1	0	0	
+SA	104515	Al Mutawwif Street	residential	1	0	0	
+SA	104515	Al Qasim Street	residential	1	0	0	
+SA	104515	Al Qirtas Street	residential	1	0	0	
+SA	104515	Al Rahma Street	unclassified	1	0	0	
+SA	104515	Al Salawati Street	unclassified	1	0	0	
+SA	104515	Al Tayyib Street	residential	1	0	0	
+SA	104515	Al Ulum Street	residential	1	0	0	
+SA	104515	Al Umrah Street	residential	1	0	0	
+SA	104515	Al Wasam Street	residential	1	0	0	
+SA	104515	Al-Jawharah Road 56	residential	1	0	0	
+SA	104515	Ali Ibn Abi Talib Street	residential	1	0	0	
+SA	104515	An Naim Street	residential	1	0	0	
+SA	104515	An Nakhil Street	residential	1	0	0	
+SA	104515	An Narjas Street	residential	1	0	0	
+SA	104515	An Nur Street	tertiary	1	0	0	
+SA	104515	Ar Rida Street	residential	1	0	0	
+SA	104515	As Sabil Street	tertiary	1	0	0	
+SA	104515	As Salam Street	tertiary	1	0	0	
+SA	104515	As Sarra Street	residential	1	0	0	
+SA	104515	As Shaikh Abdullah Ibn Dahish Street	tertiary	1	0	0	
+SA	104515	As Shajar Street	residential	1	0	0	
+SA	104515	As Shuhada Street	tertiary	1	0	0	
+SA	104515	As Shura Street	tertiary	1	0	0	
+SA	104515	As Surur Street	residential	1	0	0	
+SA	104515	As-Sadah Street	unclassified	1	0	0	
+SA	104515	Ash Shaikh Abdullah Al Khalifi Street	residential	1	0	0	
+SA	104515	Ash Shaikh Abdullah Al Qarawi	tertiary	1	0	0	
+SA	104515	Ash Sheikh Al Mushat Street	tertiary	1	0	0	
+SA	104515	At Tanim Street	residential	1	0	0	
+SA	104515	At Thaqafah Street	residential	1	0	0	
+SA	104515	At Tilawah Street	residential	1	0	0	
+SA	104515	Az Zakah Street	tertiary	1	0	0	
+SA	104515	Az Zamzami Street	residential	1	0	0	
+SA	104515	Bab Al Malik Kuday Tunnel	tertiary	1	0	0	
+SA	104515	Bir Balilah Street	unclassified	1	0	0	
+SA	104515	Dar Al Hadith Street	residential	1	0	0	
+SA	104515	Fazilat Street	residential	1	0	0	
+SA	104515	Fourth Ring Road	tertiary	1	0	0	
+SA	104515	Ghazi Ibn Dhafir Street	tertiary	1	0	0	
+SA	104515	Hamza Ibn Abdul Mutalib Street	residential	1	0	0	
+SA	104515	Hassan Ibn Thabit	unclassified	1	0	0	
+SA	104515	Hassan Ibn Thabit Street	unclassified	1	0	0	
+SA	104515	Hidaya Street	secondary	1	0	0	
+SA	104515	Hira Street	residential	1	0	0	
+SA	104515	Husain Sarhan Street	secondary	1	0	0	
+SA	104515	Ibn As Saqim Street	unclassified	1	0	0	
+SA	104515	Idarat Talim Al Banat Street	tertiary	1	0	0	
+SA	104515	Jisr al Malik Abd al Aziz	primary	1	0	0	
+SA	104515	Jurhum Street	residential	1	0	0	
+SA	104515	King Abdullah Hospital Road	residential	1	0	0	
+SA	104515	King Adullah Medical city Road	residential	1	0	0	
+SA	104515	King Fahd Road	primary	1	0	0	
+SA	104515	King Fahd Road 68	primary	1	0	0	
+SA	104515	King Fahd Road Tunnel	primary	1	0	0	
+SA	104515	King Faisal Road 50	unclassified	1	0	0	
+SA	104515	Majed Al Fayruwzi	residential	1	0	0	
+SA	104515	Mashail Street	residential	1	0	0	
+SA	104515	Muhammad Ali Maghrabi	tertiary	1	0	0	
+SA	104515	Muhammad Ali Maghrabi Street	tertiary	1	0	0	
+SA	104515	Muhammad Dheash Street	residential	1	0	0	
+SA	104515	Muhammad Salih Jamal Street	tertiary	1	0	0	
+SA	104515	Muhammad Salih Qazzas Street	tertiary	1	0	0	
+SA	104515	Mustashfa Ar Rafi Street	residential	1	0	0	
+SA	104515	Mutlaq Ibn Jaban Street	residential	1	0	0	
+SA	104515	Muzdalifah Road	primary	1	0	0	
+SA	104515	Muzdalifah Street	primary	1	0	0	
+SA	104515	Prince Majid Ibn Abdulaziz	primary	1	0	0	
+SA	104515	Prince Majid Ibn Abdulaziz Road	primary	1	0	0	
+SA	104515	Prince Majid ibn Abdulaziz Street	primary	1	0	0	
+SA	104515	Ray Zakhir Street	secondary	1	0	0	
+SA	104515	Raya Al Masakin Street	unclassified	1	0	0	
+SA	104515	Road 44 Royal Palace	residential	1	0	0	
+SA	104515	Sheikh Abdullah Khayat	tertiary	1	0	0	
+SA	104515	Shiab Amir Street	tertiary	1	0	0	
+SA	104515	Souk Al-Arab Road 62	secondary	1	0	0	
+SA	104515	St-4	unclassified	1	0	0	
+SA	104515	Tadhiha Street	residential	1	0	0	
+SA	104515	Taiba Street	residential	1	0	0	
+SA	104515	Talat Al Masafi Street	unclassified	1	0	0	
+SA	104515	Talat Al Mullaqiyyah Street	residential	1	0	0	
+SA	104515	Talha Reh Bakhsh Street	unclassified	1	0	0	
+SA	104515	Taqadam Street	residential	1	0	0	
+SA	104515	Thabir Street	residential	1	0	0	
+SA	104515	Um Al Momeneen Road	secondary	1	0	0	
+SA	104515	Umar Ibn Abdul Aziz Street	unclassified	1	0	0	
+SA	104515	أبو حرام عمرو بن قيس	tertiary	1	0	0	
+SA	104515	أجياد	pedestrian	1	0	0	Ajyad
+SA	104515	ابراهيم الخليل	secondary	1	0	0	Ibrahim Al Khalil Road
+SA	104515	ابو ضياح	tertiary	1	0	0	
+SA	104515	الأبطح	primary	1	0	0	Al Abtah Road
+SA	104515	الأخلاق	residential	1	0	0	Akhlaq Street
+SA	104515	الأمير ناصر بن عبد العزيز آل سعود	secondary	1	0	0	
+SA	104515	الاخلاق	residential	1	0	0	
+SA	104515	الخطاب	residential	1	0	0	
+SA	104515	الشيخ عبدالله الخياط	tertiary	1	0	0	Ash Shaikh Abdullah Khayyat
+SA	104515	الكفاح	residential	1	0	0	
+SA	104515	المكاتيم	tertiary	1	0	0	
+SA	104515	الهجرة	unclassified	1	0	0	Al Hijra Street
+SA	104515	جسر أجياد	pedestrian	1	0	0	Ajyad Bridge
+SA	104515	جسر الصفا	pedestrian	1	0	0	Safa Bridge
+SA	104515	جسر باب النبي	pedestrian	1	0	0	Nabi Bridge
+SA	104515	د. عبدالقادر كوشك	primary	1	0	0	Abdul Qader Koshak Street
+SA	104515	ذات النطاقين	primary	1	0	0	Dhat An Nitaqain Street
+SA	104515	راكان ابن حثلين	tertiary	1	0	0	
+SA	104515	شارع 253	residential	1	0	0	
+SA	104515	شارع 352	residential	1	0	0	
+SA	104515	شارع أجياد	primary	1	0	0	Ajyad Street
+SA	104515	شارع الأناناس	residential	1	0	0	
+SA	104515	شارع التفاح	residential	1	0	0	
+SA	104515	شارع التقوى	tertiary	1	0	0	Al Taqwa Street
+SA	104515	شارع التوت	residential	1	0	0	Al-Tut
+SA	104515	شارع الجزائر	tertiary	1	0	0	Al Jazair Street
+SA	104515	شارع الحج	primary	1	0	0	Al-Hajj Street
+SA	104515	شارع الحجون	primary	1	0	0	Al Hujoon Street
+SA	104515	شارع الحفاوة	residential	1	0	0	
+SA	104515	شارع الخيال	residential	1	0	0	Al-Khail Street
+SA	104515	شارع الرجال	residential	1	0	0	Al Rijal Street
+SA	104515	شارع الزهد	tertiary	1	0	0	
+SA	104515	شارع الساحة	tertiary	1	0	0	As Sahah Street
+SA	104515	شارع الشيخ عبدالله الخياط	tertiary	1	0	0	Sheikh Abdullah Khayat
+SA	104515	شارع الشيخ محمد بن جبير	primary	1	0	0	
+SA	104515	شارع العزيزية	primary	1	0	0	Prince Majid Ibn Abdulaziz Road
+SA	104515	شارع الفواكه	tertiary	1	0	0	
+SA	104515	شارع اللبلاب	tertiary	1	0	0	Al-Liblab Street
+SA	104515	شارع اللوز	residential	1	0	0	Al-Laws Street
+SA	104515	شارع المحامي	residential	1	0	0	Al Muhami Street
+SA	104515	شارع المنار	residential	1	0	0	Al Manar Street
+SA	104515	شارع المنصور	primary	1	0	0	Prince Mansour Bin Abdulaziz Street
+SA	104515	شارع الهجرة	tertiary	1	0	0	Al Hijra Street
+SA	104515	شارع الهيئة	residential	1	0	0	Al Haya Street
+SA	104515	شارع حسين عرب	primary	1	0	0	Hussain Arab Street
+SA	104515	شارع سعيد بن زيد القرشي	tertiary	1	0	0	
+SA	104515	شارع صدقي	tertiary	1	0	0	Sidqi Street
+SA	104515	شارع عبدالله بن عباس	primary	1	0	0	Abdullah Ibn Al Abbas St
+SA	104515	شَارِع ابراهيم الخليل	primary	1	0	0	Ibrahim Al Khalil Street
+SA	104515	طريق 15- جسر الملك خالد	primary	1	0	0	King Khalid Bridge 15
+SA	104515	طريق 15- طريق الملك خالد	primary	1	0	0	Road 15 - King Khalid Road
+SA	104515	طريق 25 - جسر الملك عبدالله بن عبدالعزيز	primary	1	0	0	King Abdullah Bridge - Road 25
+SA	104515	طريق 25 - طريق الملك عبدالله بن عبدالعزيز	primary	1	0	0	King Abdullah Road - Road 25
+SA	104515	طريق 38 - طريق الملك عبدالعزيز	primary	1	0	0	King Abdul Aziz Road 38
+SA	104515	طريق 56 - الجوهرة	pedestrian	1	0	0	Al-Jawharah Road 56
+SA	104515	طريق 56 الجوهرة	residential	1	0	0	Road 56 Al Jawharah
+SA	104515	طريق أمير المؤمنين عمر بن الخطاب رضي الله عنه	primary	1	0	0	Omar Ibn Al Khattab Road
+SA	104515	طريق الأمير نايف بن عبدالعزيز	primary	1	0	0	Prince Nayef bin Abdulaziz Road
+SA	104515	طريق الامير نايف	primary	1	0	0	Prince Naif Road
+SA	104515	طريق الجوهرة	primary	1	0	0	Al Jawhara Street
+SA	104515	طريق القاضي	secondary	1	0	0	AlQadi Raod
+SA	104515	طريق الليث الفرعي	tertiary	1	0	0	
+SA	104515	طريق المدينة المنورة	primary	1	0	0	Al Madinah Al Munawarah Road
+SA	104515	طريق المسجد الحرام	primary	1	0	0	Al Masjid Al Haram Road
+SA	104515	طريق المسيال	pedestrian	1	0	0	Al Mesial Road
+SA	104515	طريق المشاة	secondary	1	0	0	Pedestrian Road
+SA	104515	طريق المشاة 1	pedestrian	1	0	0	Al-Mishaat Road 1
+SA	104515	طريق المشاة 11	pedestrian	1	0	0	Pedestrian Road - 11
+SA	104515	طريق المشاة 12	pedestrian	1	0	0	Pedestrian Road -12
+SA	104515	طريق المشاة 13	pedestrian	1	0	0	Al-Mishaat 13 - Pedestrian Road
+SA	104515	طريق المشاة 14	pedestrian	1	0	0	Pedestrian Road - 14
+SA	104515	طريق المشاة 15	pedestrian	1	0	0	Al-Mishaat 15 - Pedestrian Road
+SA	104515	طريق المشاة 16	pedestrian	1	0	0	Pedestrian Road - 16
+SA	104515	طريق المشاة 25	pedestrian	1	0	0	Al-Mishaat 25 - Pedestrian Road
+SA	104515	طريق المشاة 30	pedestrian	1	0	0	Al-Mishaat 30 - Pedestrian Road
+SA	104515	طريق المشاة 35	pedestrian	1	0	0	Pedestrian Road - 35
+SA	104515	طريق الملك خالد	primary	1	0	0	King Khalid Road
+SA	104515	طريق الملك عبدالعزيز	primary	1	0	0	King Abdul Aziz Road
+SA	104515	طريق الملك فهد	primary	1	0	0	King Fahd Road
+SA	104515	طريق سوق العرب 62	pedestrian	1	0	0	Suq Al-Arab Road 62
+SA	104515	طريق عبدالله عريف	primary	1	0	0	Abdullah Arif Street
+SA	104515	طريق مشاة	secondary	1	0	0	Pedestrian Road
+SA	104515	طريق ميمونى	tertiary	1	0	0	
+SA	104515	عبدالله عريف	primary	1	0	0	Abdullah Arif Street
+SA	104515	قصر الضيافة	primary	1	0	0	Quasr Ad Diyafa Street
+SA	104515	محمد الجواني	tertiary	1	0	0	
+SA	104515	مشاه	pedestrian	1	0	0	
+SA	104515	ممشى الشوقية	residential	1	0	0	
+SA	104515	ممشي الكعكيه	tertiary	1	0	0	
+SA	104515	نفق الفيصلية	primary	1	0	0	Al Faisalyyah Tunnel
+SA	104515	نفق طريق 15 - نفق طريق الملك خالد	primary	1	0	0	Road 15 Tunnel - King Khalid Road Tunnel
+SA	104515	نفق طريق 25 - نفق طريق الملك عبدالله بن عبدالعزيز	primary	1	0	0	Road 25 Tunnel - King Abdullah Ibn Abdul Aziz Road Tunnel
+SA	104515	نفق كدي أجياد	primary	1	0	0	Kudai Ajyad Tunnel
+SA	104716	Imam Abdulrahman Al Faisal	residential	1	0	0	
+SA	104716	King Abdullah Road	tertiary	1	0	0	
+SA	104716	Prayer Ground	pedestrian	1	0	0	
+SA	104716	Prince Abdulmajeed Bin Abdulaziz Road	tertiary	1	0	0	
+SA	104716	Prince Mohammed Bin Abdulaziz	secondary	1	0	0	
+SA	104923	وصله صعبر	secondary	1	0	0	
+SA	105072	شارع الثمانين	tertiary	1	0	0	
+SA	105072	شارع الملك فهد	secondary	1	0	0	King Fahad Street
+SA	105072	شارع سعد بن أبي وقاص	secondary	1	0	0	Saad Bin Abi Waqas Street
+SA	105072	شارع معاذ الأنصاري	residential	1	0	0	
+SA	105072	طريق الملك خالد	primary	1	0	0	King Khalid Road
+SA	105072	طريق الملك فهد	secondary	1	0	0	King Fahad Road
+SA	105072	طريق سعد بن ابي وقاص	secondary	1	0	0	
+SA	105299	10 ح	living_street	1	0	0	10 H
+SA	105299	10 ز	living_street	1	0	0	
+SA	105299	100 ح	living_street	1	0	0	100 H
+SA	105299	105 ح	living_street	1	0	0	105 H
+SA	105299	106 ح	living_street	1	0	0	106 H
+SA	105299	112 ح	living_street	1	0	0	112 H
+SA	105299	114 H	living_street	1	0	0	
+SA	105299	119 ح	living_street	1	0	0	119 H
+SA	105299	12 ح	living_street	1	0	0	12 H
+SA	105299	12 و	living_street	1	0	0	
+SA	105299	120 ح	living_street	1	0	0	120 H
+SA	105299	121 ح	living_street	1	0	0	121 H
+SA	105299	122 ح	living_street	1	0	0	122 H
+SA	105299	123 ح	living_street	1	0	0	123 H
+SA	105299	124 ح	residential	1	0	0	124 H
+SA	105299	125 ح	living_street	1	0	0	125 H
+SA	105299	130 ح	living_street	1	0	0	130 H
+SA	105299	133 ح	residential	1	0	0	133 H
+SA	105299	133 و	residential	1	0	0	
+SA	105299	134 ح	living_street	1	0	0	134 H
+SA	105299	14 ح	living_street	1	0	0	14 H
+SA	105299	14 و	living_street	1	0	0	
+SA	105299	141 ح	residential	1	0	0	141 H
+SA	105299	142 ح	living_street	1	0	0	142 H
+SA	105299	143 و	living_street	1	0	0	
+SA	105299	144 H	living_street	1	0	0	
+SA	105299	145 ح	living_street	1	0	0	145 H
+SA	105299	147 ح	living_street	1	0	0	147 H
+SA	105299	151 ح	living_street	1	0	0	151 H
+SA	105299	153 ح	living_street	1	0	0	153 H
+SA	105299	157 ح	living_street	1	0	0	157 H
+SA	105299	16 ح	living_street	1	0	0	16 H
+SA	105299	16 و	living_street	1	0	0	
+SA	105299	17 ح	living_street	1	0	0	17 H
+SA	105299	171 ح	living_street	1	0	0	171 H
+SA	105299	177 ح	living_street	1	0	0	177 H
+SA	105299	179 ح	living_street	1	0	0	179 H
+SA	105299	18 و	living_street	1	0	0	
+SA	105299	181 ح	living_street	1	0	0	181 H
+SA	105299	183 ح	living_street	1	0	0	183 H
+SA	105299	19 ح	living_street	1	0	0	19 H
+SA	105299	20 و	living_street	1	0	0	
+SA	105299	201 ح	residential	1	0	0	201 H
+SA	105299	203 ح	living_street	1	0	0	203 H
+SA	105299	205 ح	living_street	1	0	0	205 H
+SA	105299	207 ح	living_street	1	0	0	207 H
+SA	105299	209 ح	living_street	1	0	0	209 H
+SA	105299	21 ح	living_street	1	0	0	21 H
+SA	105299	21 ز	living_street	1	0	0	
+SA	105299	21 و	residential	1	0	0	
+SA	105299	22 ز	living_street	1	0	0	
+SA	105299	22 و	living_street	1	0	0	
+SA	105299	23 ح	living_street	1	0	0	23 H
+SA	105299	23 ز	living_street	1	0	0	
+SA	105299	23 و	residential	1	0	0	
+SA	105299	24 ح	living_street	1	0	0	24 H
+SA	105299	24 ز	living_street	1	0	0	
+SA	105299	25 ح	residential	1	0	0	25 H
+SA	105299	25 ز	living_street	1	0	0	
+SA	105299	27 ح	living_street	1	0	0	27 H
+SA	105299	27 ز	living_street	1	0	0	
+SA	105299	28 ز	living_street	1	0	0	
+SA	105299	28 و	residential	1	0	0	
+SA	105299	30 و	living_street	1	0	0	
+SA	105299	31 ح	living_street	1	0	0	31 H
+SA	105299	32 و	living_street	1	0	0	
+SA	105299	33 ح	living_street	1	0	0	33 H
+SA	105299	35 ز	living_street	1	0	0	
+SA	105299	36 و	living_street	1	0	0	
+SA	105299	37 ز	living_street	1	0	0	
+SA	105299	4 و	living_street	1	0	0	
+SA	105299	40 ح	living_street	1	0	0	40 H
+SA	105299	40 ز	living_street	1	0	0	
+SA	105299	42 ز	living_street	1	0	0	
+SA	105299	43 ز	living_street	1	0	0	
+SA	105299	44 ح	living_street	1	0	0	44 H
+SA	105299	44 و	living_street	1	0	0	
+SA	105299	45 ح	residential	1	0	0	45 H
+SA	105299	46 ز	living_street	1	0	0	
+SA	105299	48 ح	living_street	1	0	0	48 H
+SA	105299	48 ز	living_street	1	0	0	
+SA	105299	48 و	living_street	1	0	0	
+SA	105299	49 ح	living_street	1	0	0	49 H
+SA	105299	5 ح	living_street	1	0	0	5 H
+SA	105299	51 ح	living_street	1	0	0	51 H
+SA	105299	54 ح	living_street	1	0	0	54 H
+SA	105299	54 ز	living_street	1	0	0	
+SA	105299	56 ح	living_street	1	0	0	56 H
+SA	105299	60 ح	living_street	1	0	0	60 H
+SA	105299	61 ح	residential	1	0	0	61 H
+SA	105299	65 ح	living_street	1	0	0	65 H
+SA	105299	66 ح	living_street	1	0	0	66 H
+SA	105299	68 ح	living_street	1	0	0	68 H
+SA	105299	70 ح	living_street	1	0	0	70 H
+SA	105299	8 و	living_street	1	0	0	
+SA	105299	89 و	living_street	1	0	0	
+SA	105299	I12 شهيد الدين ثم الوطن عطيه شوعي راجح عاتي	living_street	1	0	0	
+SA	105299	أحمد الحنفي	residential	1	0	0	
+SA	105299	أسماء بنت أبي بكر	residential	1	0	0	Asma bint Abi Bakr
+SA	105299	أم سلمة الانصارية	living_street	1	0	0	
+SA	105343	أم المؤمنين سودة	residential	8	0	0	
+SA	105343	إياس بن أوس		8	0	0	
+SA	105343	سليمان بن حبيب		8	0	0	
+SA	105343	Abi Muhammad Al Qasi - ابي محمد القاصي		7	0	0	
+SA	105343	Al Khalifah Al Mustadi - الخليفة المستضيء		6	0	0	
+SA	105343	اربد بن رنيش	residential	6	0	0	
+SA	105343	شارع التحلية	primary	4	3	111	Tahlia Street
+SA	105343	Corniche Road		3	6601	7403	
+SA	105343	شارع الامير سلطان		3	7312	7402	
+SA	105343	طريق المدينة	primary	3	7522	7522	Medina Road
+SA	105343	Baladya st. شارع البلدية		2	4	3194	
+SA	105343	Hail st. شارع حائل		2	0	0	
+SA	105343	King Abdul Aziz Rd		2	2206	7436	
+SA	105343	الامير ماجد - الثغر		2	4448	4448	
+SA	105343	شارع احمد العطاس		2	10	7216	
+SA	105343	شارع عبدالله سليمان	primary	2	7612	7612	Abdulla Sulaiman st.
+SA	105343	طريق الأمير سلطان	primary	2	2343	2343	Prince Sultan Road
+SA	105343	عزالدين ابن فهد		2	0	0	
+SA	105343	ALNAKHEL	residential	1	0	0	
+SA	105343	ANAKHEL	residential	1	0	0	
+SA	105343	Abdul Hamid al Kahtib	residential	1	0	0	
+SA	105343	Abraq Al Rebthah	residential	1	0	0	
+SA	105343	Ahmad Al-Hisai	residential	1	0	0	
+SA	105343	Ahmad Al-Madni	residential	1	0	0	
+SA	105343	Al Abbasi Street	residential	1	0	0	
+SA	105343	Al Hamra Street شارع الحمرا	primary	1	0	0	
+SA	105343	Al Maadi	tertiary	1	0	0	
+SA	105343	Al Matar st. شارع المطار	residential	1	0	0	
+SA	105343	Al Mathaf Lane	residential	1	0	0	
+SA	105343	Al Mustaqbal Al Mudi	residential	1	0	0	
+SA	105343	Al Mustaqbal Azzahir	residential	1	0	0	
+SA	105343	Al Nahdah Alhadeethah	unclassified	1	0	0	
+SA	105343	Al Onshodah	residential	1	0	0	
+SA	105343	Al jameah شارع الجامعة	secondary	1	0	0	
+SA	105343	Al-Maqrizi	residential	1	0	0	
+SA	105343	Al-Muarikheen	residential	1	0	0	
+SA	105343	Al-Sakhawi	residential	1	0	0	
+SA	105343	Al-Ulama	residential	1	0	0	
+SA	105343	Alfaihaa	tertiary	1	0	0	
+SA	105343	Alfihaa	tertiary	1	0	0	
+SA	105343	Ali Al Harithi	residential	1	0	0	
+SA	105343	Ali Al-Murtada St.	secondary	1	0	0	
+SA	105343	Ali Murtada st. شارع علي مرتضى	secondary	1	0	0	
+SA	105343	Alzarqah	residential	1	0	0	
+SA	105343	Amana st. شارع الامانة	secondary	1	0	0	
+SA	105343	Ar Rabi	residential	1	0	0	
+SA	105343	Ba Khashab st. شارع باخشب	residential	1	0	0	
+SA	105343	Bariq Al Amal	residential	1	0	0	
+SA	105343	Dhahab Street	primary	1	0	0	
+SA	105343	El Semant El Taibah Street	residential	1	0	0	
+SA	105343	Fahad Alroshodi	residential	1	0	0	
+SA	105343	Fayd as Samaa	residential	1	0	0	
+SA	105343	Hadara	residential	1	0	0	
+SA	105343	Hail	residential	1	0	0	
+SA	105343	Hamzah Nur Street	residential	1	0	0	
+SA	105343	Ibn-e-Nabatah	residential	1	0	0	
+SA	105343	Jami'e Souk	pedestrian	1	0	0	
+SA	105343	Jeddah International Market	residential	1	0	0	
+SA	105343	Lahn Al Amani	residential	1	0	0	
+SA	105343	Mohammed Shalhoub	residential	1	0	0	
+SA	105343	Nahdat Al Asr	residential	1	0	0	
+SA	105343	Nahdat Al Fan	residential	1	0	0	
+SA	105343	Nahdat Al Fikr	residential	1	0	0	
+SA	105343	Nahdat Al Ghad	residential	1	0	0	
+SA	105343	Nahdat Al Islah	residential	1	0	0	
+SA	105343	Nahdat Al Jil	residential	1	0	0	
+SA	105343	Nahdat Al Marifah	residential	1	0	0	
+SA	105343	Nahdat Al Qalam	residential	1	0	0	
+SA	105343	Nahdat Al Wai	residential	1	0	0	
+SA	105343	Nahdat Aladab	residential	1	0	0	
+SA	105343	Nahdat Alelm	residential	1	0	0	
+SA	105343	Nahdat Alruqi	residential	1	0	0	
+SA	105343	Nahdat An Nashr	residential	1	0	0	
+SA	105343	Nahdat Ash Shabab	residential	1	0	0	
+SA	105343	Nahdat Ash Shir	residential	1	0	0	
+SA	105343	Nahdat At Talif	residential	1	0	0	
+SA	105343	Nahdat At Talim	residential	1	0	0	
+SA	105343	Nahdat At Tarikh	residential	1	0	0	
+SA	105343	Nahdat Ath Thaqafah	residential	1	0	0	
+SA	105343	Nasif	residential	1	0	0	
+SA	105343	Nur Al Qamar	residential	1	0	0	
+SA	105343	Onshudat AlNida	residential	1	0	0	
+SA	105343	Safinat al saadah	residential	1	0	0	
+SA	105343	Shawat Al Mustaqbal	residential	1	0	0	
+SA	105343	Souq Jiddah	residential	1	0	0	
+SA	105343	Taj-ud-Deen Al Makki Road	residential	1	0	0	
+SA	105343	Taj-ud-Deen Al-Makki Road	residential	1	0	0	
+SA	105343	Thabit Bin An Numan	residential	1	0	0	
+SA	105343	Tijani Bashir	residential	1	0	0	
+SA	105343	Turath Al Fikr	residential	1	0	0	
+SA	105343	Turath Al Hadarah	residential	1	0	0	
+SA	105343	Yaqdhat Al Fikr	residential	1	0	0	
+SA	105343	Zahab Street	tertiary	1	0	0	
+SA	105343	Zayd Bn Amro	secondary	1	0	0	
+SA	105343	al Basatin Basatin	residential	1	0	0	
+SA	105343	al Qahirah	residential	1	0	0	
+SA	105343	al Rawabi Al Khudr	residential	1	0	0	
+SA	105343	al Rubu Al Arabiyyah	residential	1	0	0	
+SA	105343	alfaisal	residential	1	0	0	
+SA	105343	أبن علية	residential	1	0	0	
+SA	105343	أبي أمامة بن سهل	residential	1	0	0	
+SA	105343	أبي الحسن الخلعي	residential	1	0	0	
+SA	105343	أبي الضياء	residential	1	0	0	
+SA	105343	أبي العباس الحديثي	residential	1	0	0	
+SA	105343	أبي العباس القباب	residential	1	0	0	
+SA	105343	أبي العباس بن المؤدب	residential	1	0	0	
+SA	105343	أبي العيش	residential	1	0	0	
+SA	105343	أبي بكر الجراعي	residential	1	0	0	
+SA	105343	أبي بكر الدينوري	residential	1	0	0	
+SA	105343	أبي بكر الشريشي	residential	1	0	0	
+SA	105343	أبي بكر القبشي	residential	1	0	0	
+SA	105343	أبي جعفر الأزحي	residential	1	0	0	
+SA	105343	أبي سدرة	residential	1	0	0	
+SA	105343	أبي طالب النفيسي	residential	1	0	0	
+SA	105343	أبي عبدالله الهمامي	residential	1	0	0	
+SA	105343	أبي عبدالله الوزان	residential	1	0	0	
+SA	105343	أبي علي التغلبي	residential	1	0	0	
+SA	105343	أبي عمرو البعلبكي	residential	1	0	0	
+SA	105343	أبي عمرو بن العماد	residential	1	0	0	
+SA	105343	أبي محمد القاصي	residential	1	0	0	
+SA	105343	أبي محمد بن بري	residential	1	0	0	
+SA	105343	أبي منصور البزاز	residential	1	0	0	
+SA	105343	أحمد السندوبي	residential	1	0	0	
+SA	105343	أحمد المرصفي	residential	1	0	0	
+SA	105343	أحمد بن عمر الجوهري	residential	1	0	0	
+SA	105343	أحمد بن نعمه النابلسي	residential	1	0	0	
+SA	105343	أدهم بن حظره اللخمي	residential	1	0	0	
+SA	105343	أسيد بن عروة	residential	1	0	0	
+SA	105343	أم المومنين أم حبيبة	residential	1	0	0	
+SA	105343	أم المومنين صفية	residential	1	0	0	
+SA	105343	أمين خالد الجندي	residential	1	0	0	
+SA	105343	إبراهيم بن ابي بكر	residential	1	0	0	
+SA	105343	إبراهيم بن ميسرة	residential	1	0	0	
+SA	105343	إبن حبيب البغدادي	residential	1	0	0	
+SA	105343	إسماعيل ابو داؤود	secondary	1	0	0	Ismaeel Abu Dawood
+SA	105343	إسماعيل بن أمية	residential	1	0	0	
+SA	105343	إسماعيل بن الصنيعة	residential	1	0	0	
+SA	105343	ابان بن العاص	residential	1	0	0	
+SA	105343	ابراهيم البقاعي	residential	1	0	0	
+SA	105343	ابراهيم الختني	residential	1	0	0	
+SA	105343	ابراهيم الخطيب	residential	1	0	0	
+SA	105343	ابراهيم الزيد	residential	1	0	0	
+SA	105343	ابراهيم الشامي	residential	1	0	0	
+SA	105343	ابراهيم الصديقي	residential	1	0	0	
+SA	105343	ابراهيم الصعابي	residential	1	0	0	
+SA	105343	ابراهيم الغريب	residential	1	0	0	
+SA	105343	ابراهيم القيرواني	residential	1	0	0	
+SA	105343	ابراهيم المصري	residential	1	0	0	
+SA	105343	ابراهيم المهتار	residential	1	0	0	
+SA	105343	ابراهيم بن المهنا	residential	1	0	0	
+SA	105343	ابراهيم بيري	residential	1	0	0	
+SA	105343	ابراهيم رفعت	residential	1	0	0	
+SA	105343	ابراهيم فوزي	residential	1	0	0	
+SA	105343	ابزاهيم البغدادي	residential	1	0	0	
+SA	105343	ابقيق	residential	1	0	0	
+SA	105343	ابن ابي البر	residential	1	0	0	
+SA	105343	ابن ابي بركات	residential	1	0	0	
+SA	105343	ابن ايوب الشافعى 9	residential	1	0	0	
+SA	105343	ابن شاكر الكتبي	residential	1	0	0	
+SA	105343	ابن شجاع	residential	1	0	0	
+SA	105343	ابن عتبة الهذلي	residential	1	0	0	
+SA	105343	ابو الحسن المقرئ	residential	1	0	0	
+SA	105343	ابو الخير	residential	1	0	0	
+SA	105343	ابو الفضل العقاد	residential	1	0	0	
+SA	105343	ابو بكر اليماني	residential	1	0	0	
+SA	105343	ابو طاهر بن الحارث	residential	1	0	0	
+SA	105343	ابو ليلي الخزاعي	residential	1	0	0	
+SA	105343	ابو مزلى الاسلمي	residential	1	0	0	
+SA	105343	ابوبكر زرعه	residential	1	0	0	
+SA	105343	ابوقتادة	residential	1	0	0	
+SA	105343	ابي اسحاق العسكري	residential	1	0	0	
+SA	105343	ابي البكر البيهني	residential	1	0	0	
+SA	105343	ابي الحسن بن العماد	residential	1	0	0	
+SA	105343	ابي الخير المكي	residential	1	0	0	
+SA	105343	ابي السعود القسطلاني	residential	1	0	0	
+SA	105343	ابي الشيخ الاصبهاني	residential	1	0	0	
+SA	105343	ابي العاص بن الربيع	residential	1	0	0	
+SA	105343	ابي العباس الشاهد	residential	1	0	0	
+SA	105343	ابي العباس المكي	residential	1	0	0	
+SA	105343	ابي العشر	residential	1	0	0	
+SA	105343	ابي الفرج السمهودي	residential	1	0	0	
+SA	105343	ابي المظفر الواسطي	residential	1	0	0	
+SA	105343	ابي المكارم اللبان	residential	1	0	0	
+SA	105343	ابي بكر الجراعي	residential	1	0	0	
+SA	105343	ابي بكر الكتبي	residential	1	0	0	
+SA	105343	ابي بكرة	residential	1	0	0	
+SA	105343	ابي جعفر البتي	residential	1	0	0	
+SA	105343	ابي حبيب القرطبي	residential	1	0	0	
+SA	105343	ابي حدرية	residential	1	0	0	
+SA	105343	ابي عبدالرحمن السلمي	residential	1	0	0	
+SA	105343	ابي عبدالله البصري	residential	1	0	0	
+SA	105343	ابي عبدالملك الثقفي	residential	1	0	0	
+SA	105343	ابي عروة	residential	1	0	0	
+SA	105343	ابي محمد الدويك	residential	1	0	0	
+SA	105343	ابي محمد الطبري	residential	1	0	0	
+SA	105343	ابي مسلمة المخزومي	residential	1	0	0	
+SA	105343	ابي هبيرة بن الحارث	residential	1	0	0	
+SA	105343	ابي يزيد القارطي	residential	1	0	0	
+SA	105343	ابي يعلي الثقفي	residential	1	0	0	
+SA	105343	احمد ابراهيم الطيبي	residential	1	0	0	
+SA	105343	احمد اسماعيل	residential	1	0	0	
+SA	105343	احمد البري	residential	1	0	0	
+SA	105343	احمد البسكري	residential	1	0	0	
+SA	105343	احمد الحمصي	residential	1	0	0	
+SA	105343	احمد الحميري	residential	1	0	0	
+SA	105343	احمد الرسمي	residential	1	0	0	
+SA	105343	احمد الرهوني	residential	1	0	0	
+SA	105343	احمد الروياني	residential	1	0	0	
+SA	105343	احمد الزيلي	residential	1	0	0	
+SA	105343	احمد السلفي	residential	1	0	0	
+SA	105343	احمد السيواسي	residential	1	0	0	
+SA	105343	احمد الشهاب	residential	1	0	0	
+SA	105343	احمد الصوفي	residential	1	0	0	
+SA	105343	احمد الصيخوي	residential	1	0	0	
+SA	105343	احمد الطبري	residential	1	0	0	
+SA	105343	احمد الطيبي	residential	1	0	0	
+SA	105343	احمد العطار	residential	1	0	0	
+SA	105343	احمد العكبري	residential	1	0	0	
+SA	105343	احمد العليف	residential	1	0	0	
+SA	105343	احمد المدرس	residential	1	0	0	
+SA	105343	احمد المعقري	residential	1	0	0	
+SA	105343	احمد بساطي	residential	1	0	0	
+SA	105343	احمد بن اسماعيل الطهطاوي	residential	1	0	0	
+SA	105343	احمد بن الاشعت	residential	1	0	0	
+SA	105343	احمد بن الحمصي	residential	1	0	0	
+SA	105343	احمد بن الصقر	residential	1	0	0	
+SA	105343	احمد بن جابر	residential	1	0	0	
+SA	105343	احمد بن حارث الخراز	residential	1	0	0	
+SA	105343	احمد بن حجي السعدي	residential	1	0	0	
+SA	105343	احمد بن حفصون	residential	1	0	0	
+SA	105343	احمد بن شريح	residential	1	0	0	
+SA	105343	احمد بن عبدالرضى	residential	1	0	0	
+SA	105343	احمد بن محمد الحاج	residential	1	0	0	
+SA	105343	احمد بن مرار	residential	1	0	0	
+SA	105343	احمد بن مطير	residential	1	0	0	
+SA	105343	احمد حسن الزيات	residential	1	0	0	
+SA	105343	احمد رافع الطهطاوي	residential	1	0	0	
+SA	105343	احمد شمس	residential	1	0	0	
+SA	105343	احمد عباس الازهري	residential	1	0	0	
+SA	105343	احمد عبيد	residential	1	0	0	
+SA	105343	احمد علي الصبارك	residential	1	0	0	
+SA	105343	احمد مفتي	residential	1	0	0	
+SA	105343	احمد نصر	residential	1	0	0	
+SA	105343	ادهم بن محرز	residential	1	0	0	
+SA	105343	اريحاء	residential	1	0	0	
+SA	105343	اسامة بن منقذ الكناني	residential	1	0	0	
+SA	105343	اسحاق الفزاري	residential	1	0	0	
+SA	105343	اسحاق القيني	residential	1	0	0	
+SA	105343	اسد الدين الحسني	residential	1	0	0	
+SA	105343	اسماء بنت سعيد	residential	1	0	0	
+SA	105343	اسماعيل الاسكداري	residential	1	0	0	
+SA	105343	اسماعيل الانصاري	residential	1	0	0	
+SA	105343	اسماعيل العظم 17	residential	1	0	0	
+SA	105343	اصبغ بن محمد	residential	1	0	0	
+SA	105343	اعشى حرماز	residential	1	0	0	
+SA	105343	الأقرع بن عبدالله	residential	1	0	0	
+SA	105343	الأمير ماجد - السبعين	primary	1	0	0	
+SA	105343	الإبراهيمية	residential	1	0	0	
+SA	105343	الإمام البغوي	residential	1	0	0	
+SA	105343	الإمام الزمخشري	residential	1	0	0	
+SA	105343	الإنشراح	living_street	1	0	0	
+SA	105343	الابروان	residential	1	0	0	
+SA	105343	الاجدع بن مالك	residential	1	0	0	
+SA	105343	الاسعد القيسي	residential	1	0	0	
+SA	105343	الاسود	residential	1	0	0	
+SA	105343	الاشعب بن الحارث	residential	1	0	0	
+SA	105343	الاقصر	residential	1	0	0	
+SA	105343	الامير ماجد - السبعين	primary	1	0	0	
+SA	105343	الاندلس الفرعي	primary	1	0	0	
+SA	105343	البرمكية	residential	1	0	0	
+SA	105343	البريمة	residential	1	0	0	
+SA	105343	البشير	living_street	1	0	0	
+SA	105343	البضيع	residential	1	0	0	
+SA	105343	البقاعي	residential	1	0	0	
+SA	105343	البهاء الخطيب	residential	1	0	0	
+SA	105343	البياسي	residential	1	0	0	
+SA	105343	التدمري	residential	1	0	0	
+SA	105343	الثامرية	residential	1	0	0	
+SA	105343	الثقبة	residential	1	0	0	
+SA	105343	الثنيات	residential	1	0	0	
+SA	105343	الجابرية	residential	1	0	0	
+SA	105343	الجبرتي	residential	1	0	0	
+SA	105343	الجحفة	residential	1	0	0	
+SA	105343	الحارث القباع	residential	1	0	0	
+SA	105343	الحارث المخزومي	residential	1	0	0	
+SA	105343	الحالة	residential	1	0	0	
+SA	105343	الحديبية	residential	1	0	0	
+SA	105343	الحسن بن سفيان	residential	1	0	0	
+SA	105343	الحسن بن قتادة	residential	1	0	0	
+SA	105343	الحسين المحاملي	residential	1	0	0	
+SA	105343	الحيزاء	residential	1	0	0	
+SA	105343	الخالدة بنت عبدالمطلب	residential	1	0	0	
+SA	105343	الخزاعي	residential	1	0	0	
+SA	105343	الخليفة المستغني	residential	1	0	0	
+SA	105343	الدري	residential	1	0	0	
+SA	105343	الدمام	residential	1	0	0	
+SA	105343	الرغامة	residential	1	0	0	
+SA	105343	الرفاعي	residential	1	0	0	
+SA	105343	الروحان	residential	1	0	0	
+SA	105343	الروضة الذهبية	residential	1	0	0	
+SA	105343	الزبير بن موسي	residential	1	0	0	
+SA	105343	السائب بن عمر	residential	1	0	0	
+SA	105343	السخاء	residential	1	0	0	
+SA	105343	السدوسي	residential	1	0	0	
+SA	105343	السدي	residential	1	0	0	
+SA	105343	السرور	residential	1	0	0	
+SA	105343	السفراء 15	residential	1	0	0	
+SA	105343	السقطي	residential	1	0	0	
+SA	105343	السمهودي	residential	1	0	0	
+SA	105343	السنباطي	residential	1	0	0	
+SA	105343	السهيلي	residential	1	0	0	
+SA	105343	السود	residential	1	0	0	
+SA	105343	الشهاب بن العماد	residential	1	0	0	
+SA	105343	الشيخ عبدالله خياط	tertiary	1	0	0	
+SA	105343	الشيخ علي كمال	residential	1	0	0	
+SA	105343	الشيخ يوسف زينل	residential	1	0	0	
+SA	105343	الصفوة	living_street	1	0	0	
+SA	105343	الطبري	residential	1	0	0	
+SA	105343	الطرف	residential	1	0	0	
+SA	105343	العابد	living_street	1	0	0	
+SA	105343	العصامي	residential	1	0	0	
+SA	105343	العطاء	residential	1	0	0	
+SA	105343	العقيلي	residential	1	0	0	
+SA	105343	العمودي	residential	1	0	0	
+SA	105343	العيدروس	residential	1	0	0	
+SA	105343	الفرغاني	residential	1	0	0	
+SA	105343	الفكر الإسلامي	residential	1	0	0	
+SA	105343	القاسم بن عبد الواحد	residential	1	0	0	
+SA	105343	القدس	residential	1	0	0	
+SA	105343	القريات	residential	1	0	0	
+SA	105343	القسطلاني	residential	1	0	0	
+SA	105343	القطبي	residential	1	0	0	
+SA	105343	الكيلني	residential	1	0	0	
+SA	105343	المثني بن الصباح	residential	1	0	0	
+SA	105343	المحجر	secondary	1	0	0	
+SA	105343	المدارس	residential	1	0	0	
+SA	105343	المدوان	residential	1	0	0	
+SA	105343	المزاحمية	residential	1	0	0	
+SA	105343	المسكي	residential	1	0	0	
+SA	105343	المشرق العربي	residential	1	0	0	
+SA	105343	المظفر بن الاغطس	residential	1	0	0	
+SA	105343	المعاقي بن عمران	residential	1	0	0	
+SA	105343	المعتصم	residential	1	0	0	
+SA	105343	المغرب العربي	residential	1	0	0	
+SA	105343	المغيرة الثقفي	residential	1	0	0	
+SA	105343	المغيرة المخزومي	residential	1	0	0	
+SA	105343	المقداد بن الاسود	residential	1	0	0	
+SA	105343	المنذر بن الزبير	residential	1	0	0	
+SA	105343	المنشاوي	residential	1	0	0	
+SA	105343	المنصورة	residential	1	0	0	
+SA	105343	المولى الحافظ	residential	1	0	0	
+SA	105343	الميرغني	residential	1	0	0	
+SA	105343	الناصرة	residential	1	0	0	
+SA	105343	النعمان بن مقرن	residential	1	0	0	
+SA	105343	النقشبندي	residential	1	0	0	
+SA	105343	الهلال الخصيب	residential	1	0	0	
+SA	105343	الواحة	residential	1	0	0	
+SA	105343	ام الدار	residential	1	0	0	
+SA	105343	ام المؤمنين زين الهلالية	residential	1	0	0	
+SA	105343	امير الشعراء	residential	1	0	0	
+SA	105343	امين السفرجلاني	residential	1	0	0	
+SA	105343	اهل البركة	residential	1	0	0	
+SA	105343	اهل المنزلة	residential	1	0	0	
+SA	105343	ايمن بن عبيد	residential	1	0	0	
+SA	105343	بافقيه	residential	1	0	0	
+SA	105343	باكثير	residential	1	0	0	
+SA	105343	بدر الدين خوج	residential	1	0	0	
+SA	105343	بذور الايمان	residential	1	0	0	
+SA	105343	بذور القناعة 44	residential	1	0	0	
+SA	105343	بركات بن عبدالمطلب	residential	1	0	0	
+SA	105343	برودان	residential	1	0	0	
+SA	105343	بطحان	residential	1	0	0	
+SA	105343	بكري شطا	residential	1	0	0	
+SA	105343	بهاء العاملي	residential	1	0	0	
+SA	105343	تاج الدين	residential	1	0	0	
+SA	105343	تاروت	residential	1	0	0	
+SA	105343	تربة	residential	1	0	0	
+SA	105343	تقي الدين	residential	1	0	0	
+SA	105343	تقي الدين السنجاري	residential	1	0	0	
+SA	105343	تمام السبكي	residential	1	0	0	
+SA	105343	تميز الاشعري	residential	1	0	0	
+SA	105343	تيماء	residential	1	0	0	
+SA	105343	ثابت بن وديعه	residential	1	0	0	
+SA	105343	ثلاب الدوسري	residential	1	0	0	
+SA	105343	جابر بن سمرة	residential	1	0	0	
+SA	105343	جاهمة بن العباس	residential	1	0	0	
+SA	105343	جبل الحمام	residential	1	0	0	
+SA	105343	جبل الستار	residential	1	0	0	
+SA	105343	جعفر البيتي	residential	1	0	0	
+SA	105343	جمال الليل	residential	1	0	0	
+SA	105343	جمال مالكي	residential	1	0	0	
+SA	105343	جميل الحجيلان	residential	1	0	0	
+SA	105343	جميل العظم	residential	1	0	0	
+SA	105343	جنوب بن لادن	tertiary	1	0	0	
+SA	105343	جوهر الصقلي	residential	1	0	0	
+SA	105343	حبيب بن زيد	residential	1	0	0	
+SA	105343	حجاج بن ارطاه	residential	1	0	0	
+SA	105343	حرة تبوك	residential	1	0	0	
+SA	105343	حسن الحانيني	residential	1	0	0	
+SA	105343	حسن الحسيني	residential	1	0	0	
+SA	105586	'Al Shahba	residential	1	0	0	
+SA	105586	10	residential	1	0	0	
+SA	105586	10th Roundabout	tertiary	1	0	0	
+SA	105586	2nd Roundabout	tertiary	1	0	0	
+SA	105586	3rd Roundabout	tertiary	1	0	0	
+SA	105586	4	residential	1	0	0	
+SA	105586	4th Roundabout	tertiary	1	0	0	
+SA	105586	5	residential	1	0	0	
+SA	105586	5th Roundabout	tertiary	1	0	0	
+SA	105586	6	residential	1	0	0	
+SA	105586	6th Roundabout	tertiary	1	0	0	
+SA	105586	7	residential	1	0	0	
+SA	105586	7th Roundabout	tertiary	1	0	0	
+SA	105586	8	residential	1	0	0	
+SA	105586	9	residential	1	0	0	
+SA	105586	9th Roundabout	tertiary	1	0	0	
+SA	105586	A Street	living_street	1	0	0	
+SA	105586	Abdullah Bin Yarboua	residential	1	0	0	
+SA	105586	Abi Al-Hasan As-Salmi	residential	1	0	0	
+SA	105586	Abi Al-Hasan Bin Mubarak	residential	1	0	0	
+SA	105586	Abu Bukker Arrahzy	tertiary	1	0	0	
+SA	105586	Afifa Bint Ahmad	unclassified	1	0	0	
+SA	105586	Ahmad Ibn Roshd	tertiary	1	0	0	
+SA	105586	Ak-Khbar	tertiary	1	0	0	
+SA	105586	Al Aiania	tertiary	1	0	0	
+SA	105586	Al Alamein	residential	1	0	0	
+SA	105586	Al Ardeya	residential	1	0	0	
+SA	105586	Al Aredh	residential	1	0	0	
+SA	105586	Al Areen	residential	1	0	0	
+SA	105586	Al Ata	residential	1	0	0	
+SA	105586	Al Awas	residential	1	0	0	
+SA	105586	Al Balda	residential	1	0	0	
+SA	105586	Al Batah Valley	living_street	1	0	0	
+SA	105586	Al Fadhila	residential	1	0	0	
+SA	105586	Al Fairouz	residential	1	0	0	
+SA	105586	Al Farein	residential	1	0	0	
+SA	105586	Al Farisha	residential	1	0	0	
+SA	105586	Al Fawanis	residential	1	0	0	
+SA	105586	Al Faydhiya	residential	1	0	0	
+SA	105586	Al Frah	tertiary	1	0	0	
+SA	105586	Al Ghamasia	residential	1	0	0	
+SA	105586	Al Ghasaq	residential	1	0	0	
+SA	105586	Al Ibsat	residential	1	0	0	
+SA	105586	Al Jazi Valley	residential	1	0	0	
+SA	105586	Al Madra	residential	1	0	0	
+SA	105586	Al Modawara	residential	1	0	0	
+SA	105586	Al Oraija	secondary	1	0	0	
+SA	105586	Al Qabel	residential	1	0	0	
+SA	106102	الثلاثين	tertiary	1	0	0	
+SA	106102	طريق معاذ بن جبل	residential	1	0	0	
+SA	106281	Hisn Al Qabel		3	7234	7569	
+SA	106281	Ala Ud Din Al Hanfi Street		2	4396	4396	
+SA	106281	الأمير تركي بن عبدالعزيز	tertiary	1	0	0	Prince Turki Ibn Abdulaziz Street
+SA	106281	شارع أبي أيوب بن المهلب	residential	1	0	0	Abo Ayoob Ibn Almuhalleb Street
+SA	106281	شارع أبي العلاء المعري	residential	1	0	0	Abo Alalaa Almaerri Street
+SA	106281	شارع أبي القاسم الشابي	unclassified	1	0	0	Abo Algasim Ashabbi Street
+SA	106281	شارع أبي جندل	residential	1	0	0	Abo Jandal Street
+SA	106281	شارع أبي حنيفة	residential	1	0	0	Abo hanifah Street
+SA	106281	شارع أبي حنيفة النعمان	residential	1	0	0	Abo Hanifah Anoeman Street
+SA	106281	شارع أبي ذر الغفاري	tertiary	1	0	0	Abo thar Alghifari Street
+SA	106281	شارع أبي رشيد الأصبهاني	residential	1	0	0	Abo Rasheed Alasbahani Street
+SA	106281	شارع أبي علي الطوسي	residential	1	0	0	Abo Ali Attosi Street
+SA	106281	شارع أحمد بن سعيد الأندلسي	tertiary	1	0	0	Ahmad Ibn Said Alandalusi Street
+SA	106281	شارع أسيد بن الأخنس	residential	1	0	0	Osaid Ibn Alakhnas Street
+SA	106281	شارع أم المؤمنين أم سلمة	tertiary	1	0	0	Om Almomeneen Om Salmah Street
+SA	106281	شارع أم المؤمنين جويرية بنت الحارث	tertiary	1	0	0	Om Almomeneen Jwayreyah Bint Alhareth Street
+SA	106281	شارع أم المؤمنين عائشة بنت أبي بكر	residential	1	0	0	Om Almomeneen Aysha Bint Abi Bakr Street
+SA	106281	شارع أمير المؤمنين أبي بكر الصديق	tertiary	1	0	0	Amir Almomeneen Abo Bakr Assiddig Street
+SA	106281	شارع أمير المؤمنين علي بن أبي طالب	tertiary	1	0	0	Amir Almomeneen Ali Ibn Abi Talib Street
+SA	106281	شارع أمير المؤمنين عمر بن الخطاب	tertiary	1	0	0	Amir Almomeneen Omar Ibn Akhattab Street
+SA	106281	شارع أميمة بنت شراحيل	unclassified	1	0	0	Omaymah Bint Sharahil Street
+SA	106281	شارع أنس بن مالك	tertiary	1	0	0	Anas Ibn Malik Street
+SA	106281	شارع إبراهيم بن محمد الدمشقي	residential	1	0	0	Ibrahim Ibn Muhammad Ademeshgi Street
+SA	106281	شارع إحسان عباس	residential	1	0	0	Ihsan Abbas Street
+SA	106281	شارع إسماعيل حمزة	residential	1	0	0	Ismail Hmazah Street
+SA	106281	شارع ابن تيمية	residential	1	0	0	Ibn Taymeyah Street
+SA	106281	شارع ابن سابق	residential	1	0	0	Ibn Sabig Street
+SA	106281	شارع ابن سلطان	tertiary	1	0	0	Ibn Sultan Street
+SA	106281	شارع ابن كثير	tertiary	1	0	0	Ibn Kathir Street
+SA	106281	شارع ابن مسلمة	tertiary	1	0	0	Ibn Maslamah Street
+SA	106281	شارع ابن مفلح	tertiary	1	0	0	Ibn Mufleh Street
+SA	106281	شارع الأديرع	tertiary	1	0	0	Alidere Street
+SA	106281	شارع الأسود بن المحاربي	residential	1	0	0	Alaswad Ibn Almuharibi Street
+SA	106281	شارع الأسود بن سلمة الكندي	residential	1	0	0	Alaswad Ibn Salamah Alkindi Street
+SA	106281	شارع الأغلب العجلي	residential	1	0	0	Alaghlab Alijli Street
+SA	106281	شارع الأمير سعد بن فهد	tertiary	1	0	0	Prince Sad Ibn Fahad Street
+SA	106281	شارع الأمير سعود بن عبدالمحسن	tertiary	1	0	0	
+SA	106281	شارع الأمير سلطان بن عبدالعزيز	tertiary	1	0	0	Prince Sultan Ibn Abdulaziz Street
+SA	106281	شارع الأمير عبدالعزيز بن سعد بن عبدالعزيز	tertiary	1	0	0	Prince Abdulaziz Ibn Sad Ibn Abdulaziz Street
+SA	106281	شارع الأمير عبدالعزيز بن مساعد	tertiary	1	0	0	Prince Abdulaziz Ibn Musaed Street
+SA	106281	شارع الأمير عبدالمحسن بن عبدالعزيز	tertiary	1	0	0	Prince Abdulmuhsin Ibn Abdulaziz Street
+SA	106281	شارع الأمير مقرن بن عبدالعزيز	tertiary	1	0	0	Prince Migrin Ibn Abdulaziz Street
+SA	106281	شارع الأمير ممدوح بن عبدالعزيز	residential	1	0	0	Prince Mamdooh Ibn Abdulaziz Street
+SA	106281	شارع الأمير نايف بن عبدالعزيز	tertiary	1	0	0	Prince Naif Ibn Abdulaziz Street
+SA	106281	شارع الإسكندرية	residential	1	0	0	Aliskandaryah Street
+SA	106281	شارع الإمام أحمد بن حنبل	residential	1	0	0	Alimam Ahmad Ibn Hanbal Street
+SA	106281	شارع الإمام الشافعي	residential	1	0	0	Alimam Ashaafei Street
+SA	106281	شارع الإمام فيصل بن تركي	tertiary	1	0	0	Alimam Faisal Ibn Turki Street
+SA	106281	شارع الإمام محمد بن سعود	tertiary	1	0	0	Alimam Muhammad Ibn Saud Street
+SA	106281	شارع البراري	residential	1	0	0	Albarari Street
+SA	106281	شارع الحافظ بن رجب	residential	1	0	0	Alhafidh Ibn Rajab Street
+SA	106281	شارع الحسن البصري	residential	1	0	0	Alhasan Albasri Street
+SA	106281	شارع الحسن الليثي	residential	1	0	0	Alhasn Allaythi Street
+SA	106281	شارع الحسين بن علي	residential	1	0	0	Alhusain Ibn Ali Street
+SA	106281	شارع الدمام	tertiary	1	0	0	Addammam Street
+SA	106281	شارع الديعجان	tertiary	1	0	0	Adeajaan Street
+SA	106281	شارع الرس	tertiary	1	0	0	Arras Street
+SA	106281	شارع السائب بن خباب	residential	1	0	0	Assaeb Ibn Khabbab Street
+SA	106281	شارع الشيخ عيسى بن سعود العلي	tertiary	1	0	0	Ashikh Isa Ibn Saud Alali Street
+SA	106281	شارع الشيخ محمد بن صالح العثيمين	residential	1	0	0	Ashikh Muhammad Ibn Salih Alothaymeen Street
+SA	106281	شارع الطائف	tertiary	1	0	0	Ataief Street
+SA	106281	شارع الطبري	residential	1	0	0	Attabari Street
+SA	106281	شارع الظهران	tertiary	1	0	0	Adhahran Street
+SA	106281	شارع الفرات	residential	1	0	0	Alfurat Street
+SA	106281	شارع الفرج	tertiary	1	0	0	Alfarj Street
+SA	106281	شارع القرطبي	unclassified	1	0	0	Algurtubi Street
+SA	106281	شارع الكويت	tertiary	1	0	0	Alkuwait Street
+SA	106281	شارع المتنبي	residential	1	0	0	Almutanabbi Street
+SA	106281	شارع الملك خالد	secondary	1	0	0	King Khalid Street
+SA	106281	شارع النصباء	tertiary	1	0	0	Annasba Street
+SA	106281	شارع النعام	tertiary	1	0	0	Annaam Street
+SA	106281	شارع النعمان بن عمرو	tertiary	1	0	0	Annua'man Ibn Amr Street
+SA	106281	شارع الهجرة	tertiary	1	0	0	Alhijrah Street
+SA	106281	شارع الوسيطاء	tertiary	1	0	0	Alwsyta Street
+SA	106281	شارع بريك راعي بقعاء	residential	1	0	0	Burayk Raei Bagea Street
+SA	106281	شارع جدة	tertiary	1	0	0	Jiddah Street
+SA	106281	شارع جرير	tertiary	1	0	0	Jarir Street
+SA	106281	شارع جرير بن عبدالله	tertiary	1	0	0	Jarir Ibn Abdellah Street
+SA	106281	شارع جمانة بنت أبي طالب	residential	1	0	0	Jumanah Bint Abi Talib Street
+SA	106281	شارع حاتم الطائي	tertiary	1	0	0	Hatim Attaei Street
+SA	106281	شارع حرملة بن إياس	residential	1	0	0	Harmalah Ibn Ias Street
+SA	106281	شارع حسين العصامي	residential	1	0	0	Husayn Alisami Street
+SA	106281	شارع حمود العقلاء	tertiary	1	0	0	Hmood Alogla Street
+SA	106281	شارع حنظلة الجمحي	residential	1	0	0	Handhalah Aljumahi Street
+SA	106281	شارع خالد بن الوليد	residential	1	0	0	Khalid Ibn Alwaleed Street
+SA	106281	شارع خالد بن عبدالعزيز العيد	residential	1	0	0	Khalid Ibn Abdulaziz Aleed Street
+SA	106281	شارع خلف الأحمر	residential	1	0	0	Khalaf Alahmar Street
+SA	106281	شارع خلف بن محمد الشمري	residential	1	0	0	Khalaf Ibn Muhammad Ashammiri Street
+SA	106281	شارع خليفة بن عبدالله بن الحارث	tertiary	1	0	0	Khalifah Ibn Abdellah Ibn Alhareth Street
+SA	106281	شارع خولة بنت ثعلبة	tertiary	1	0	0	Khawlah Bint Thaelabah Street
+SA	106281	شارع زيد الخير	tertiary	1	0	0	Zayd Alkhayr Street
+SA	106281	شارع زيد بن شراحيل	residential	1	0	0	Zayd Ibn Sharahil Street
+SA	106281	شارع سعد بن أبي وقاص	tertiary	1	0	0	Sad Ibn Abi Waggas Street
+SA	106281	شارع سلمان الفارسي	tertiary	1	0	0	Salman Alfarsi Street
+SA	106281	شارع سليم بن ثابت	residential	1	0	0	Saleem Ibn Thabit Street
+SA	106281	شارع شهيد الدين ثم الوطن عبدالهادي بن جميعان بن محمد الشمري	residential	1	0	0	Shaheed Addeen Thoma Alwatan Abdulhadi Ibn Jumean Ibn Muhammad Ashammiri Street
+SA	106281	شارع شهيد الدين ثم الوطن فارس بن رجاء بن الأدهم الشمري	residential	1	0	0	Shaheed Addeen Thoma Alwatan Faris Ibn Raja Ibn Aladham Ashammiri Street
+SA	106281	شارع صالح السالم	residential	1	0	0	Salih Asalim Street
+SA	106281	شارع صدقة بن موسى	tertiary	1	0	0	Sadagah Ibn Mosa Street
+SA	106281	شارع صفوان بن المعطل	tertiary	1	0	0	Safwan Ibn Almuattel Street
+SA	106281	شارع صقر قريش	residential	1	0	0	Sagr Guraysh Street
+SA	106281	شارع ضرار بن الأزور	tertiary	1	0	0	Dherar Ibn Alazwar Street
+SA	106281	شارع طرفة بن العبد	residential	1	0	0	Tarafah Ibn Alabd Street
+SA	106281	شارع طلحة بن الزبير	residential	1	0	0	Talhah Ibn Azubayr Street
+SA	106281	شارع طلحة بن عبيدالله	tertiary	1	0	0	Talhah Ibn Obayedellah Street
+SA	106281	شارع عبدالرحمن بن أبي علي	residential	1	0	0	Abdurrahaman Ibn Abi Ali Street
+SA	106281	شارع عبدالرحمن بن حمود السميط	residential	1	0	0	Abdurrahman Ibn Hmood Asumyt Street
+SA	106281	شارع عبدالرحمن بن قاسم	residential	1	0	0	Abdurrahman Ibn gasim Street
+SA	106281	شارع عبدالسلام ابن تيمية	unclassified	1	0	0	Abdusalam Ibn Taymiyah Street
+SA	106281	شارع عبدالله الرميسي	residential	1	0	0	Abdullah Arrumaysi Street
+SA	106281	شارع عبدالله بن الزبير بن العوام	tertiary	1	0	0	Abdullah Ibn Azubayr Ibn Alawam Street
+SA	106281	شارع عبدالله بن حارثة	tertiary	1	0	0	Abdullah Ibn Harethah Street
+SA	106281	شارع عبيدة بن همام	residential	1	0	0	Obaidah Ibn Hammam Street
+SA	106281	شارع عتبة بن سهيل	residential	1	0	0	Otbah Ibn Suhyl Street
+SA	106281	شارع عثمان بن عامر القرشي	residential	1	0	0	Othman Ibn Amer Algurashi Street
+SA	106281	شارع عدي بن حاتم	residential	1	0	0	Adi Ibn Hatim Street
+SA	106281	شارع عرعر	residential	1	0	0	Arar Street
+SA	106281	شارع علي الجميعة	residential	1	0	0	Ali Aljumeah Street
+SA	106281	شارع علي السالم	residential	1	0	0	Ali Asalim Street
+SA	106281	شارع علي بن أحمد الفارسي	residential	1	0	0	Ali Ibn Ahmad Alfaresi Street
+SA	106281	شارع عمر أبو ريشة	tertiary	1	0	0	Omar Abo Rishah Street
+SA	106281	شارع عمر بن عبدالعزيز	residential	1	0	0	Omar Ibn Abdulaziz Street
+SA	106281	شارع عمرو بن سلمة	residential	1	0	0	Amr Ibn Salmah Street
+SA	106281	شارع غطاط	unclassified	1	0	0	Ghatat Street
+SA	106281	شارع فلسطين	tertiary	1	0	0	Filistin Street
+SA	106281	شارع فهد بن سعد	tertiary	1	0	0	Prince Fahad Ibn Sad Street
+SA	106281	شارع قرطبة	tertiary	1	0	0	Gurtubah Street
+SA	106281	شارع لبدة	residential	1	0	0	Lebdah Street
+SA	106281	شارع محمد الخفاجي	residential	1	0	0	Muhammad Alkhafaji Street
+SA	106281	شارع محمد الساوي	residential	1	0	0	Muhammad Assawi Street
+SA	106281	شارع محمد بن سيرين	residential	1	0	0	Muhammad Ibn Sirin Street
+SA	106281	شارع محمد بن عبدالمحسن آل علي	tertiary	1	0	0	Muhammad Ibn Abdelmuhsin Aal Ali Street
+SA	106281	شارع محمد بن عبدالوهاب	tertiary	1	0	0	Alimam Muhammad Ibn Abdulwahhab Street
+SA	106281	شارع محمد تركي الخالدي	tertiary	1	0	0	Muhammad Turki Alkhaldi Street
+SA	106281	شارع معاذ بن جبل	tertiary	1	0	0	Moaath Ibn Jabal Street
+SA	106281	شارع مغيضة	tertiary	1	0	0	Mgheedhah Street
+SA	106281	شارع موسى بن نصير	residential	1	0	0	Moosa Ibn Nusayr Street
+SA	106281	شارع نجد	tertiary	1	0	0	Najd Street
+SA	106281	شارع نصر الأسلمي	tertiary	1	0	0	Nasr Alaslami Street
+SA	106281	شارع هاجر بنت إسماعيل	residential	1	0	0	Hajar Bent Ismail Street
+SA	106281	شارع هارون الرشيد	tertiary	1	0	0	Haroon Arrashid Street
+SA	106281	طريق ابن خلدون	tertiary	1	0	0	Ibn Khaldoon Road
+SA	106281	طريق الأمير فيصل بن فهد	tertiary	1	0	0	Prince Faisal Ibn Fahad Road
+SA	106281	طريق الملك سعود بن عبدالعزيز	primary	1	0	0	King Saud Bin Abdulaziz Road
+SA	106281	طريق الملك عبدالعزيز	primary	1	0	0	King Abdulaziz Road
+SA	106281	طريق الملك عبدالله بن عبدالعزيز الفرعي	secondary	1	0	0	King Abdullah Ibn Abdulaziz Road
+SA	106281	طريق الملك فيصل بن عبدالعزيز	tertiary	1	0	0	King Faisal Ibn Abdulaziz Road
+SA	106281	طريق جبة	secondary	1	0	0	
+SA	106281	طريق مشار	tertiary	1	0	0	Mishar Road
+SA	106281	طريق مكة المكرمة	secondary	1	0	0	Makkah Almukarramah Street
+SA	106281	عثمان بن ربيعة	tertiary	1	0	0	Othman Ibn Rabieah Street
+SA	106297	3	residential	1	0	0	
+SA	106297	ابو بكر الصديق	primary	1	0	0	
+SA	106297	الإمام النووي	tertiary	1	0	0	
+SA	106297	الاسكافي	residential	1	0	0	
+SA	106297	الترمذي	residential	1	0	0	Al-Tirmidhi
+SA	106297	جرير	residential	1	0	0	Jarir
+SA	106297	حمد الجبرين	residential	1	0	0	Hamad Al-Jabrin
+SA	106297	شارع ابن تيمية	residential	1	0	0	
+SA	106297	شارع المعارض	tertiary	1	0	0	
+SA	106297	شارع حسان بن ثابت	residential	1	0	0	
+SA	106297	شارع قتيبة بن مسلم	residential	1	0	0	Qutaiba Bin Muslim Street
+SA	106297	شارع هشام بن عبدالملك	residential	1	0	0	
+SA	106297	طريق أبو موسى الأشعري	tertiary	1	0	0	
+SA	106297	طريق ابو موسى الأشعري	tertiary	1	0	0	
+SA	106297	طريق الأمير سلطان بن عبد العزيز	primary	1	0	0	
+SA	106297	طريق الأمير طلال بن عبدالعزيز	residential	1	0	0	Prince Talal bin Abdel-Aziz Road
+SA	106297	طريق الأمير نايف بن عبدالعزيز	primary	1	0	0	
+SA	106297	طريق الخوارزمي	residential	1	0	0	
+SA	106297	طريق الصمان	primary	1	0	0	
+SA	106297	طريق المعارض	secondary	1	0	0	
+SA	106297	طريق الملك سلمان بن عبد العزيز	secondary	1	0	0	
+SA	106297	طريق الملك عبد الله بن عبد العزيز	primary	1	0	0	
+SA	106297	طريق خالد بن الوليد	tertiary	1	0	0	
+SA	106297	طريق سلطان بن عبدالعزيز	primary	1	0	0	
+SA	106297	طريق سلمان بن عبدالعزيز	secondary	1	0	0	
+SA	106297	طريق عبد المجيد بن عبد العزيز	tertiary	1	0	0	
+SA	106297	طريق عثمان بن عفان	primary	1	0	0	
+SA	106297	طريق علي بن أبي طالب	tertiary	1	0	0	
+SA	106297	طريق عمر بن الخطاب	secondary	1	0	0	
+SA	106297	طريق عمر بن عبد العزيز	tertiary	1	0	0	
+SA	106297	طريق عمر بن عبدالعزيز	living_street	1	0	0	
+SA	106297	طريق مشعل بن عبدالعزيز	primary	1	0	0	
+SA	106297	طريق مقرن بن عبدالعزيز	primary	1	0	0	
+SA	106297	عبد الله بن الخميس	residential	1	0	0	
+SA	106297	عمر المختار	residential	1	0	0	Umar Al-Mukhtar
+SA	106667	طريق العام الداير بني مالك	primary	4	1	1	Al-ddayer Bani Malik Highway
+SA	106667	طريق الجوة جبل ,فيفا		2	0	0	
+SA	106667	طريق حراز		2	1	2	
+SA	106667	الجامع الاعلى	living_street	1	0	0	
+SA	106667	خاص	living_street	1	0	0	
+SA	106667	طريق ال عمرو	tertiary	1	0	0	Al Amr Road
+SA	106667	طريق ال قطيل	tertiary	1	0	0	Al Qatail Road
+SA	106667	طريق الجازر	secondary	1	0	0	Al-Jazir Road
+SA	106667	طريق الجوة جبل فيفا	secondary	1	0	0	
+SA	106667	طريق الجوة فيفاء	secondary	1	0	0	Al Jawah & Fayfa Road
+SA	106667	طريق الحشر وادي عمود عسير	primary	1	0	0	Al Hashr Wadi Amoud Asir road
+SA	106667	طريق الحصيمة	tertiary	1	0	0	AlHusaymah Road
+SA	106667	طريق الداير عيبان	primary	1	0	0	AL-ddayer Ayban Road
+SA	106667	طريق السفينه	residential	1	0	0	alsafinih road
+SA	106667	طريق السفينه الشرقي	residential	1	0	0	Eastern alsafinih road
+SA	106667	طريق السوق	tertiary	1	0	0	Market Road
+SA	106667	طريق السوق القديم	residential	1	0	0	Old Market Road
+SA	106667	طريق العام الرئيسي	secondary	1	0	0	the main road
+SA	106667	طريق الغادي	tertiary	1	0	0	Ghadi Road
+SA	106667	طريق الملك خالد	secondary	1	0	0	King Khalid Road
+SA	106667	طريق الموطف	tertiary	1	0	0	almawtif road
+SA	106667	طريق الهجر	residential	1	0	0	Al-hajar Road
+SA	106667	طريق بدوة	tertiary	1	0	0	Badwa Road
+SA	106667	طريق بدوة الجديد	primary	1	0	0	Badwa New Road
+SA	106667	طريق بقعة عزان ال شبان	tertiary	1	0	0	
+SA	106667	طريق جبل خاشر	tertiary	1	0	0	Mount Khashir Road
+SA	106667	طريق جبل عثوان	secondary	1	0	0	Mount Athwan Road
+SA	106667	طريق حبس وادي دفا	primary	1	0	0	Habbas Wadi Dafa road
+SA	106667	طريق سوق السكة	living_street	1	0	0	Railway Market Road
+SA	106667	طريق ضمد,جبل العزه	secondary	1	0	0	Damad Road,Mountain Al Ezza
+SA	106667	طريق عيبان فيفاء	secondary	1	0	0	Ayban Fayfa Road
+SA	106667	طريق عيبان نيد الضالع	secondary	1	0	0	
+SA	106667	طريق قيار	tertiary	1	0	0	Qayyar road
+SA	106667	طريق مطل البلدية	unclassified	1	0	0	park view road
+SA	106667	طريق مطل السعادة	living_street	1	0	0	Happiness Overlook Road
+SA	106667	طريق نادي فيفاء	unclassified	1	0	0	Faifa Club Road
+SA	106667	طريق نعامة	tertiary	1	0	0	
+SA	106667	طريق نيد مجبأ	tertiary	1	0	0	Nayed Mjabba Road
+SA	106667	طريق وادي السفينه	living_street	1	0	0	ALsafinih Valley Road
+SA	106872	طريق الأحمدية دخنة	secondary	1	0	0	
+SA	107304	طريق عمر بن عبد العزيز	primary	2	37	2597	
+SA	107304	الأفق	residential	1	0	0	
+SA	107304	البدائع	residential	1	0	0	
+SA	107304	البريكة	tertiary	1	0	0	
+SA	107304	البصر	tertiary	1	0	0	
+SA	107304	الجوزات	tertiary	1	0	0	
+SA	107304	الخضيراء	tertiary	1	0	0	
+SA	107304	الدائري الداخلي الجنوبي	primary	1	0	0	
+SA	107304	الدائري الداخلي الشرقي	primary	1	0	0	
+SA	107304	الدائري الداخلي الغربي	secondary	1	0	0	
+SA	107304	الشارع الأخضر	tertiary	1	0	0	
+SA	107304	الفايزية	residential	1	0	0	
+SA	107304	شارع	residential	1	0	0	
+SA	107304	شارع الإمام مسلم	secondary	1	0	0	
+SA	107304	شارع التعليم	tertiary	1	0	0	
+SA	107304	شارع الرس	secondary	1	0	0	
+SA	107304	شارع السالمية	tertiary	1	0	0	
+SA	107304	شارع الشيخ عبدالله ابن محمد ابن حميد	tertiary	1	0	0	
+SA	107304	شارع الشيخ محمد بن ناصر العبودي	tertiary	1	0	0	
+SA	107304	شارع الصباخ	tertiary	1	0	0	
+SA	107304	شارع الصناعة	tertiary	1	0	0	
+SA	107304	شارع الضاحي الغربي	tertiary	1	0	0	
+SA	107304	شارع العدل	tertiary	1	0	0	
+SA	107304	شارع القناة	tertiary	1	0	0	
+SA	107304	شارع المستودعات	tertiary	1	0	0	
+SA	107304	شارع المشاغل	tertiary	1	0	0	
+SA	107304	شارع حي البشر	tertiary	1	0	0	
+SA	107304	طريق أبو بكر الصديق	secondary	1	0	0	
+SA	107304	طريق أم المؤمنين عائشة رضي الله عنها	primary	1	0	0	
+SA	107304	طريق الأمير سلطان بن عبد العزيز	secondary	1	0	0	
+SA	107304	طريق الأمير عبد الأله	tertiary	1	0	0	
+SA	107304	طريق الأمير فيصل بن مشعل بن سعود	primary	1	0	0	
+SA	107304	طريق الامير فيصل بن بندر بن عبدالعزيز	tertiary	1	0	0	
+SA	107304	طريق الجامعة	secondary	1	0	0	
+SA	107304	طريق الحمر	tertiary	1	0	0	
+SA	107304	طريق السلام	secondary	1	0	0	
+SA	107304	طريق الطرفية	secondary	1	0	0	
+SA	107304	طريق العليا	tertiary	1	0	0	
+SA	107304	طريق الغدير	tertiary	1	0	0	
+SA	107304	طريق اللسيب	secondary	1	0	0	
+SA	107304	طريق الملك خالد	secondary	1	0	0	King Khalid Road
+SA	107304	طريق الملك سعود	secondary	1	0	0	King Saud Road
+SA	107304	طريق الملك سلمان الفرعي	primary	1	0	0	
+SA	107304	طريق الملك عبد الله	primary	1	0	0	
+SA	107304	طريق الملك فهد	primary	1	0	0	
+SA	107304	طريق الملك فيصل	primary	1	0	0	
+SA	107304	طريق المنتزة الشرقي	residential	1	0	0	
+SA	107304	طريق الناصرية	tertiary	1	0	0	
+SA	107304	طريق النقع	tertiary	1	0	0	
+SA	107304	طريق الهدية	tertiary	1	0	0	
+SA	107304	طريق الوسيطى	tertiary	1	0	0	
+SA	107304	طريق تغيرة	secondary	1	0	0	
+SA	107304	طريق حويلان	secondary	1	0	0	
+SA	107304	طريق خضيراء	tertiary	1	0	0	
+SA	107304	طريق عثمان بن عفان	secondary	1	0	0	
+SA	107304	طريق عمر بن الخطاب	secondary	1	0	0	
+SA	107304	طريق واسط	tertiary	1	0	0	
+SA	107312	SHAMAL ROAD	residential	62	207	290	
+SA	107312	YASMEEN LANE	residential	44	203	275	
+SA	107312	TURBAN ROAD	residential	29	250	295	
+SA	107312	ZAHRA ROAD	residential	26	202	244	
+SA	107312	Remaal Lane	residential	22	204	246	
+SA	107312	WADI AVENUE	residential	22	262	294	
+SA	107312	Rajah Court	residential	19	202	246	
+SA	107312	TAIF STREET	residential	14	281	296	
+SA	107312	Rancho Court	living_street	10	0	0	
+SA	107312	SHAJAR AVENUE	residential	10	265	297	
+SA	107312	TARUT ROAD	residential	10	261	274	
+SA	107312	9th Street	unclassified	5	9	1130	
+SA	107312	C Street	residential	5	25	28	
+SA	107312	SHEDGUM STREET	residential	5	280	283	
+SA	107312	19th Street	residential	4	16	662	
+SA	107312	25th Street	residential	3	25	265	
+SA	107312	15TH STREET	residential	1	0	0	
+SA	107312	16th Street	living_street	1	0	0	
+SA	107312	17th Street	residential	1	0	0	
+SA	107312	18th Street	residential	1	0	0	
+SA	107312	18th street	living_street	1	0	0	
+SA	107312	21ST Street	unclassified	1	0	0	
+SA	107312	22ND Street	residential	1	0	0	
+SA	107312	AL-SAADAH Street	residential	1	0	0	
+SA	107312	ARNAUT Road	residential	1	0	0	
+SA	107312	Abqaiq to Al.Uqair	secondary	1	0	0	
+SA	107312	BAMBOO Court	living_street	1	0	0	
+SA	107312	C street	residential	1	0	0	
+SA	107312	CARAVAN Street	residential	1	0	0	
+SA	107312	Country Club Circle	residential	1	0	0	
+SA	107312	FALCON Street	residential	1	0	0	
+SA	107312	JOG Road	residential	1	0	0	
+SA	107312	Nomad Trail	residential	1	0	0	
+SA	107312	Old Abqaiq Road	primary	1	0	0	
+SA	107312	RIYADH ROAD	residential	1	0	0	
+SA	107312	Riyal Road	residential	1	0	0	
+SA	107312	شارع جدة	residential	1	0	0	
+SA	107744	King Faisal Road	tertiary	1	0	0	
+SA	107781	الملك عبدالعزيز		2	164	164	
+SA	107781	دوار السيح	secondary	1	0	0	
+SA	107781	شارع أبوبكر الصديق	tertiary	1	0	0	
+SA	107781	شارع أسماء بنت أبي بكر	tertiary	1	0	0	
+SA	107781	شارع ابن النفيس	residential	1	0	0	
+SA	107781	شارع ابن خلدون	tertiary	1	0	0	
+SA	107781	شارع ابن سينا	residential	1	0	0	
+SA	107781	شارع الأمير سطام ابن عبدالعزيز	tertiary	1	0	0	
+SA	107781	شارع الأمير سلطان بن عبدالعزيز	tertiary	1	0	0	
+SA	107781	شارع الإمام أبوحنيفة	tertiary	1	0	0	
+SA	107781	شارع الإمام الشافعي	tertiary	1	0	0	
+SA	107781	شارع الإمام مالك	tertiary	1	0	0	
+SA	107781	شارع الامام محمد بن عبدالوهاب	tertiary	1	0	0	
+SA	107781	شارع الخوارزمي	secondary	1	0	0	
+SA	107781	شارع الشيخ محمد بن عثيمين	tertiary	1	0	0	
+SA	107781	شارع الفرزدق	tertiary	1	0	0	
+SA	107781	شارع المتنبي	tertiary	1	0	0	
+SA	107781	شارع اليرموك	tertiary	1	0	0	
+SA	107781	شارع اليمامة	tertiary	1	0	0	
+SA	107781	شارع جرير	tertiary	1	0	0	
+SA	107781	شارع خولة بنت الأزور	tertiary	1	0	0	
+SA	107781	شارع شمس الدين عبدالله	residential	1	0	0	
+SA	107781	شارع عامر بن عوف	residential	1	0	0	
+SA	107781	شارع عبادة بن الصامت	residential	1	0	0	
+SA	107781	شارع عبدالرحمن الرازي	residential	1	0	0	
+SA	107781	شارع محمد بن الحارث	residential	1	0	0	
+SA	107781	شارع مصعب بن عمير	tertiary	1	0	0	
+SA	107781	شارع موسى بن نصير	tertiary	1	0	0	
+SA	107781	شارع نهر بن عميرة	residential	1	0	0	
+SA	107781	شارع همام بن المهذب	residential	1	0	0	
+SA	107781	طريق الأمير نايف بن عبدالعزيز	tertiary	1	0	0	
+SA	107781	طريق الحاذية	residential	1	0	0	
+SA	107781	طريق الدائري الشمالي-أبا سديرة	tertiary	1	0	0	
+SA	107781	طريق المطل الشرقي	unclassified	1	0	0	
+SA	107781	طريق الملك خالد	tertiary	1	0	0	
+SA	107781	طريق الملك سعود	tertiary	1	0	0	
+SA	107781	طريق الملك سلمان	primary	1	0	0	King Salman Road
+SA	107781	طريق الملك عبدالعزيز	primary	1	0	0	King Abdul Aziz Road
+SA	107781	طريق الملك عبدالله	secondary	1	0	0	King Abdullah Road
+SA	107781	طريق الملك فهد - الفرعي	secondary	1	0	0	
+SA	107781	طريق الملك فيصل	tertiary	1	0	0	
+SA	107781	طريق حسان بن ثابت	tertiary	1	0	0	
+SA	107781	طريق سمنان	tertiary	1	0	0	
+SA	107781	طريق عمر بن الخطاب	tertiary	1	0	0	
+SA	107781	ممر الربيع بن زياد	residential	1	0	0	
+SA	107797	Jeddah	residential	152	8007	8170	
+SA	107797	Riyal Road	residential	65	517	7770	
+SA	107797	Yamama Blvd.	secondary	65	7466	8742	
+SA	107797	Sudair	living_street	63	7103	7684	
+SA	107797	Dammam Blvd.	secondary	58	9702	9760	
+SA	107797	Nafud Drive	residential	57	7201	8246	
+SA	107797	Karan Road	residential	48	9504	9641	
+SA	107797	Namar	living_street	48	7003	7055	
+SA	107797	Khobar	secondary	46	9002	9051	
+SA	107797	Mango Circle	residential	38	301	351	
+SA	107797	Hawta	living_street	36	7513	7780	
+SA	107797	Heet	residential	36	7328	7362	
+SA	107797	As Sarawat	residential	35	8501	8543	
+SA	107797	Anak	residential	34	9301	9338	
+SA	107797	Salwa	residential	33	9201	9232	
+SA	107797	Al Shafa	residential	32	8301	8330	
+SA	107797	Fadhili	residential	31	9101	9133	
+SA	107797	Hofuf Drive	residential	28	301	473	
+SA	107797	Lime Drive	residential	25	301	400	
+SA	107797	Nomad Trail	residential	25	301	369	
+SA	107797	Shaybah	residential	24	9803	9845	
+SA	107797	Summan Circle	living_street	24	721	7563	
+SA	107797	Al Hada	residential	22	8401	8423	
+SA	107797	Prairie View Circle	residential	22	301	368	
+SA	107797	Rainbow Road	residential	22	313	366	
+SA	107797	Safaniyah Drive	residential	22	501	598	
+SA	107797	Remaal Lane	residential	21	523	558	
+SA	107797	Dariyah Avenue	living_street	20	780	799	
+SA	107797	Saihat Drive	residential	19	500	670	
+SA	107797	Mint Circle	residential	18	322	3323	
+SA	107797	Khurais Drive	residential	16	724	798	
+SA	107797	Lemon Circle	residential	16	364	399	
+SA	107797	Berri Lane	residential	14	528	579	
+SA	107797	Riyah Circle	living_street	14	500	518	
+SA	107797	Thuwal	living_street	14	8601	8627	
+SA	107797	Sanabis Road	residential	13	9900	9917	
+SA	107797	Shedgum Avenue	residential	13	300	480	
+SA	107797	Tarut Drive	residential	12	516	598	
+SA	107797	Rahima Drive	residential	11	538	627	
+SA	107797	Asfan	living_street	10	8259	8278	
+SA	107797	Hisyan Avenue	living_street	10	758	778	
+SA	107797	Lemonwood Circle	residential	10	300	323	
+SA	107797	Manifa Circle	residential	10	600	664	
+SA	107797	Mubarraz Avenue	residential	10	320	480	
+SA	107797	Sharar Circle	residential	10	600	657	
+SA	107797	Tabrak Lane	living_street	10	778	798	
+SA	107797	Tanajib Circle	residential	10	600	667	
+SA	107797	Badr	living_street	9	8900	8909	
+SA	107797	Rabigh	living_street	9	8252	8262	
+SA	107797	Granite Avenue	residential	8	101	405	
+SA	107797	Lime Tree Circle	residential	8	300	327	
+SA	107797	Marjan Circle	residential	8	544	599	
+SA	107797	Najd Street	living_street	8	7600	7614	
+SA	107797	Rainbow Circle	residential	8	300	311	
+SA	107797	Raja Lane	residential	8	550	557	
+SA	107797	Lava Circle	residential	7	401	430	
+SA	107797	Mango Court		7	353	360	
+SA	107797	Qatif Lane	residential	7	515	558	
+SA	107797	Uhod	living_street	7	8800	8806	
+SA	107797	اسماء بنت ابي بكر		7	4851	4985	
+SA	107797	Abqaiq Court	residential	6	205	217	
+SA	107797	Abu Hadriya Avenue	residential	6	550	628	
+SA	107797	Abu Jifan Avenue	residential	6	709	739	
+SA	107797	Dahna Avenue		6	746	796	
+SA	107797	Falcon Court	residential	6	100	131	
+SA	107797	Jawan Court	residential	6	576	598	
+SA	107797	Najmah Drive	residential	6	541	578	
+SA	107797	Nariya Court	residential	6	570	584	
+SA	107797	Nasiriyah Street	residential	6	700	774	
+SA	107797	Quirsh Court	residential	6	300	313	
+SA	107797	Safaniyah Court	residential	6	521	543	
+SA	107797	Salamiyah Avenue	residential	6	740	777	
+SA	107797	Tuwayq Lane		6	759	789	
+SA	107797	Abu Ali Lane	residential	5	552	579	
+SA	107797	Khursaniyah Court	residential	5	550	565	
+SA	107797	Tehamah	living_street	5	8151	8159	
+SA	107797	Aflaj Lane	residential	4	761	779	
+SA	107797	Agate Lane	residential	4	304	315	
+SA	107797	Ain Dar Lane	residential	4	402	423	
+SA	107797	Al Qara Lane		4	410	437	
+SA	107797	Darin Lane	residential	4	561	587	
+SA	107797	Eucalyptus Court	residential	4	100	117	
+SA	107797	Ghawar Lane	residential	4	360	388	
+SA	107797	Hanifa Lane	living_street	4	731	758	
+SA	107797	Harmaliyah Court	residential	4	201	209	
+SA	107797	Jana Court	residential	4	500	522	
+SA	107797	Jinnah Lane	residential	4	520	534	
+SA	107797	Ju'aymah Lane	residential	4	500	527	
+SA	107797	Jubail Lane	residential	4	510	529	
+SA	107797	Jurayd Court	residential	4	548	570	
+SA	107797	Marble Lane	residential	4	206	218	
+SA	107797	Prairie View Court	residential	4	322	342	
+SA	107797	Qurayyah Court	residential	4	201	209	
+SA	107797	Radhwa Lane	residential	4	531	544	
+SA	107797	Ras Tanura	residential	4	9401	9407	
+SA	107797	Safwa Lane	residential	4	500	519	
+SA	107797	Tamrah Lane	residential	4	741	777	
+SA	107797	Mocha Court	residential	3	361	363	
+SA	107797	6th Street	secondary	2	601	615	
+SA	107797	Abu Hadriyah Avenue		2	551	557	
+SA	107840	شارع الامير عبدالله بن عبدالعزيز	tertiary	1	0	0	
+SA	107840	شارع الامير محمد بن سعد	tertiary	1	0	0	
+SA	107840	شارع على بن أبى طالب	residential	1	0	0	
+SA	107840	طريق الأسياح -خصيبة	primary	1	0	0	
+SA	107840	طريق الربيعية - الأسياح	secondary	1	0	0	
+SA	107840	طريق الملك عبدالعزيز	primary	1	0	0	
+SA	107968	جبل المبعوث		15	3049	3149	
+SA	107968	جبل شعار		13	3042	6866	
+SA	107968	شارع البسوس	residential	9	3624	3768	Al Basous Street
+SA	107968	شارع السفانية	residential	9	5060	7802	Al Saffaniya Street
+SA	107968	جبل ابو نقطة		7	6755	6867	
+SA	107968	شارع الخميس	residential	6	7582	7815	Al Khamees Street
+SA	107968	شارع السلامة	tertiary	6	3659	3765	A Salama Street
+SA	107968	شارع سماح	residential	4	7647	7691	Samah Street
+SA	107968	شارع حرض	residential	3	7824	7892	Haarad Street
+SA	107968	شارع الأصابع	residential	2	7707	7722	Al Asabe' Street
+SA	107968	شارع الأملح	residential	2	4826	4837	Al Amlah Street
+SA	107968	شارع الحمراء	residential	2	7706	7820	Al Hamraa Street
+SA	107968	شارع العقيق	residential	2	5088	5277	Al Aqeeq Street
+SA	107968	شارع تهامة	residential	2	4593	7757	Tuhama Street
+SA	107968	Al Salamah Street	tertiary	1	0	0	
+SA	107968	ابن اسحاق	residential	1	0	0	
+SA	107968	ابن الخطيب	residential	1	0	0	Ibn Al Khateeb Street
+SA	107968	ابن خلدون	residential	1	0	0	
+SA	107968	الأمير متعب بن عبد العزيز	tertiary	1	0	0	
+SA	107968	الشهيد أحمد عبد الله أحمد الشهري	residential	1	0	0	
+SA	107968	الشهيد خالد فهد سعد الحارثي	residential	1	0	0	
+SA	107968	الشهيد خالد محمد على المالكي	residential	1	0	0	
+SA	107968	الشهيد سالم حسان هريس السفياني	residential	1	0	0	
+SA	107968	الشهيد سعد أحمد مرزوق السفياني	residential	1	0	0	
+SA	107968	الشهيد سعدون بن سعد سعدون النفيعي	residential	1	0	0	
+SA	107968	الشهيد سعود بن ضاوي العتيبي	residential	1	0	0	
+SA	107968	الشهيد صالح بن عوضه الزهراني	residential	1	0	0	
+SA	107968	الشهيد عادل فالح عايد العتيبي	residential	1	0	0	
+SA	107968	الشهيد عبد المجيد عبد الله جبور النمري	residential	1	0	0	
+SA	107968	الشهيد محمد خلوفة سعود الحلافي	residential	1	0	0	
+SA	107968	الشهيد يحيي بريكان مبروك الشلوي	residential	1	0	0	
+SA	107968	الشهيدصويبر عبيد صوبير الجعيد	residential	1	0	0	
+SA	107968	الغزالي	residential	1	0	0	
+SA	107968	جبل الاثقب	residential	1	0	0	
+SA	107968	جبل الاصبع	residential	1	0	0	
+SA	107968	جبل العقاب	residential	1	0	0	
+SA	107968	جبل امرة	residential	1	0	0	
+SA	107968	جبل برقة	residential	1	0	0	
+SA	107968	جبل خندوة	residential	1	0	0	
+SA	107968	جبل خيرة	residential	1	0	0	
+SA	107968	حمزة بن عوف	residential	1	0	0	
+SA	107968	خمسة و عشرون	tertiary	1	0	0	
+SA	107968	دوار النزهة	tertiary	1	0	0	
+SA	107968	شارع أبو السعود	residential	1	0	0	Abu Al-Saud Street
+SA	107968	شارع أبو بكر الصديق	primary	1	0	0	Abu Bakr Al Siddiq Street
+SA	107968	شارع أحمد شوقي	residential	1	0	0	Ahmad Shawqi Street
+SA	107968	شارع أم الخشب	residential	1	0	0	Um Al Khashab Street
+SA	107968	شارع إبراهيم الخليل	tertiary	1	0	0	Ibrahim Al Khaleel Street
+SA	107968	شارع ابن الرومي	residential	1	0	0	Ibn Al-Roomi Street
+SA	107968	شارع ابن الهيثم	residential	1	0	0	Ibn Al Haitham Street
+SA	107968	شارع الأخدود	residential	1	0	0	Al Ukhdood Street
+SA	107968	شارع الإمام	residential	1	0	0	Al Imam Street
+SA	107968	شارع البديع	residential	1	0	0	Al Badee' Street
+SA	107968	شارع البصيرة	residential	1	0	0	Al Baseera Street
+SA	107968	شارع البيهقي	residential	1	0	0	Al Bayihaqi Street
+SA	107968	شارع الحدائق	tertiary	1	0	0	Al Hadaayk Street
+SA	107968	شارع الحديثة	residential	1	0	0	Al Hadeethah Street
+SA	107968	شارع الحزم	residential	1	0	0	Al Hazm Street
+SA	107968	شارع الحطيئة	residential	1	0	0	Al-Hotayi'aa Street
+SA	107968	شارع الخزرج	residential	1	0	0	Al Khazraj Street
+SA	107968	شارع الخمسين	tertiary	1	0	0	Al Khamseen Street
+SA	107968	شارع الخيف	residential	1	0	0	Elkheif Alley
+SA	107968	شارع الدارة	residential	1	0	0	Al Darah Street
+SA	107968	شارع الردف	residential	1	0	0	Ar Ruddaf Street
+SA	107968	شارع الرس	residential	1	0	0	Al Rus Street
+SA	107968	شارع الرويس	residential	1	0	0	Al Ruweis Street
+SA	107968	شارع الرياضة	residential	1	0	0	Al Riyadha Street
+SA	107968	شارع السهام	residential	1	0	0	Al Seham Street
+SA	107968	شارع السوق	residential	1	0	0	Al Souk Street
+SA	107968	شارع الشاعرة الغسانية	residential	1	0	0	
+SA	107968	شارع الشيخ محمد بن عبد الوهاب	tertiary	1	0	0	Alsheikh Mohammad Ibn Abdulwahab Street
+SA	107968	شارع الضياء	residential	1	0	0	Al Dhia' Street
+SA	107968	شارع العبيلة	residential	1	0	0	Al Abeelah Street
+SA	107968	شارع المؤذن	residential	1	0	0	Al Mu'azzin Street
+SA	107968	شارع المعارض	tertiary	1	0	0	Al Maaredh Street
+SA	107968	شارع النزلة	residential	1	0	0	
+SA	107968	شارع الوفاء	residential	1	0	0	Alwafaa Street
+SA	107968	شارع برقاء الركبان	residential	1	0	0	Barka Al Rukban Street
+SA	107968	شارع بريمان	residential	1	0	0	Bureyman Street
+SA	107968	شارع بقعاء	residential	1	0	0	Bakaa Street
+SA	107968	شارع بلاد زهران	residential	1	0	0	Bilad Zahran Street
+SA	107968	شارع بن دريد	residential	1	0	0	Bin Duraid Street
+SA	107968	شارع ثلاب العجالين الدوسري	residential	1	0	0	Thalab Al-Ajalin Al-Dousary
+SA	107968	شارع حليفة	residential	1	0	0	Haleefah Street
+SA	107968	شارع خالد العبسي	residential	1	0	0	Khalid Al Absy Street
+SA	107968	شارع خالد بن الوليد	tertiary	1	0	0	Khalid ibn Al Waleed Street
+SA	107968	شارع ربيعة الثقفي	residential	1	0	0	Rabee'ah Al-Thakafi Street
+SA	107968	شارع ربيعة بن ثابت	residential	1	0	0	Rabi'ah bin Thabit Street
+SA	107968	شارع زبيدة	residential	1	0	0	Zubaydah Street
+SA	107968	شارع زين العرب	residential	1	0	0	Zein Al Arab Street
+SA	107968	شارع سعد بن بخيت	tertiary	1	0	0	Sa'ad ibn Bakheet Street
+SA	107968	شارع سلمة بن سلامة	residential	1	0	0	Salma ibn Salama Street
+SA	107968	شارع شجرة الدر	residential	1	0	0	Shajarat Aldurr Street
+SA	107968	شارع شهار	tertiary	1	0	0	Shehar Street
+SA	107968	شارع شوالة	residential	1	0	0	Shawala Street
+SA	107968	شارع صالح بن سبعان	residential	1	0	0	Saleh ibn Sab'an Street
+SA	107968	شارع صفوان بن عمرو	residential	1	0	0	Safwan bin Amr Street
+SA	107968	شارع عبد العزيز بن عبد الله آل سعود	residential	1	0	0	Abdulaziz ibn Abdullah Al-Saud Street
+SA	107968	شارع عبد الله بن شتار الدوسري	residential	1	0	0	Abdullah ibn Shattar Al Dousary
+SA	107968	شارع عبيد بن صالح	residential	1	0	0	Obaid ibn Saleh Street
+SA	107968	شارع عمر بن الخطاب رضي الله عنه	tertiary	1	0	0	
+SA	107968	شارع عنسبة بن ثعلبة	residential	1	0	0	Ansaba ibn Thalabah Street
+SA	107968	شارع فرحان بن ناصر آل سعود	residential	1	0	0	Farhan ibn Naser Al Saud
+SA	107968	شارع فهد بن ابراهيم آل سعود	residential	1	0	0	Fahad ibn Ibrahim Al Saud Street
+SA	107968	شارع فهد بن جلوي	residential	1	0	0	Fahad ibn Jalwey Street
+SA	107968	شارع فهد بن شعير الدوسري	residential	1	0	0	Fahad ibn Sha'eer Al-Dousary Street
+SA	107968	شارع قابوس بن منذر	residential	1	0	0	Kaboos ibn Munzir
+SA	107968	شارع قابيل	residential	1	0	0	Kabeel Street
+SA	107968	شارع قريش	tertiary	1	0	0	Quraish Street
+SA	107968	شارع قيس بن الخطيم	unclassified	1	0	0	Kaiys ibn Khutaim Street
+SA	107968	شارع محمد بن عبدالرحمن آل فيصل	residential	1	0	0	Mohammad ibn Abdulrahman Aal Faisal Street
+SA	107968	شارع مسلم بن مجفل السبيعي	residential	1	0	0	Muslim ibn Mijfel El-Sebe'i Street
+SA	107968	شارع مصلى العيد	tertiary	1	0	0	Musalla El-Eid Street
+SA	107968	شارع هوازن	tertiary	1	0	0	Hawazin Street
+SA	107968	شارع يعقوب	residential	1	0	0	Yakoub Street
+SA	107968	شارع يوسف بن مشخص	residential	1	0	0	Yousef ibn Mishkhes Street
+SA	107968	طريق المطار	primary	1	0	0	Airport Road
+SA	107968	طريق الملك خالد	primary	1	0	0	King Khaled Road
+SA	107968	طريق الملك عبد الله	secondary	1	0	0	King Abdullah Road
+SA	107968	طريق وادي وج	primary	1	0	0	Wadi Waj Road
+SA	107968	عبدالله بن معبد بن الحرث	residential	1	0	0	
+SA	107968	عشرون	tertiary	1	0	0	
+SA	107968	عكاظ	tertiary	1	0	0	Okaz
+SA	107968	علقمة بن عمرو بن سلمة	residential	1	0	0	
+SA	107968	ممشى سيتي ووك	pedestrian	1	0	0	
+SA	107968	نعمان بن يسار	residential	1	0	0	
+SA	107968	وائل الحضرمي	residential	1	0	0	
+SA	107991	Al Hamra, King Fahd Bin Abdulaziz Road		2	6368	6368	
+SA	107991	10th Street	residential	1	0	0	
+SA	107991	14th Street	residential	1	0	0	
+SA	107991	15th Street	residential	1	0	0	
+SA	107991	16th Street	residential	1	0	0	
+SA	107991	17th Street	residential	1	0	0	
+SA	107991	18th Street	residential	1	0	0	
+SA	107991	19th Street	residential	1	0	0	
+SA	107991	20th Street	tertiary	1	0	0	
+SA	107991	21th Street	residential	1	0	0	
+SA	107991	22th Street	residential	1	0	0	
+SA	107991	23th Street	residential	1	0	0	
+SA	107991	24th Street	residential	1	0	0	
+SA	107991	25th Street	residential	1	0	0	
+SA	107991	26th Street	residential	1	0	0	
+SA	107991	27th Street	residential	1	0	0	
+SA	107991	28th Street	residential	1	0	0	
+SA	107991	29th Street	residential	1	0	0	
+SA	107991	Abha Street	residential	1	0	0	
+SA	107991	Al Khobar Street	tertiary	1	0	0	
+SA	107991	Ali Street	residential	1	0	0	
+SA	107991	Bader Street	residential	1	0	0	
+SA	107991	Doha Road	tertiary	1	0	0	
+SA	107991	Dr. Khaled Alsultan Road	residential	1	0	0	
+SA	107991	Ferdaws Road	tertiary	1	0	0	
+SA	107991	Hail Street	residential	1	0	0	
+SA	107991	Hamza Street	residential	1	0	0	
+SA	107991	Iskan Park	residential	1	0	0	
+SA	107991	Othman Street	residential	1	0	0	
+SA	107991	Prince Faisal Bin Fahad Bin Abdul Aziz Street	primary	1	0	0	
+SA	107991	Southern Street	secondary	1	0	0	
+SA	107991	شارع 1	residential	1	0	0	Street 1
+SA	107991	شارع أبو عبدالرحمن بن عقيل	secondary	1	0	0	
+SA	107991	شارع الأمير تركي	primary	1	0	0	Al Amir Turki Street
+SA	107991	شارع الرياض	secondary	1	0	0	Riyadh Street
+SA	107991	شارع النعمان بن حارثة	secondary	1	0	0	
+SA	107991	شارع مكة المكرمة	secondary	1	0	0	Makkah Al Mukarramah Street
+SA	107991	طريف الأمير فيصل بن فهد	primary	1	0	0	Prince Faisal Bin Fahd Rd
+SA	107991	طريق الكورنيش	primary	1	0	0	Corniche Road
+SA	107991	طريق الملك خالد الفرعي	secondary	1	0	0	
+SA	108048	}	residential	1	0	0	
+SA	108410	Ibn Shamil		4	0	0	
+SA	108410	Abdullah Bin Hazafa As-Shami Road		3	84	8144	
+SA	108410	Amr Bin Umaia Azzamri Road		3	7054	7054	
+SA	108410	Omaya Abu Al Salt		3	0	0	
+SA	108410	الملك عبدالله	secondary	3	1	8	King Abdullah Rd
+SA	108410	طريق مكة المكرمة		3	4508	6388	
+SA	108410	Airport Road		2	4962	7962	
+SA	108410	Al Olaya		2	1156	1156	
+SA	108410	Al Taief		2	4414	6179	
+SA	108410	Northern Ring Rd		2	3416	3416	
+SA	108410	Olaya Road	primary	2	14	8991	
+SA	108410	Prince Mohammed Bin Salman Bin Abdulaziz Rd		2	4335	4335	
+SA	108410	أبي بكر الصديق		2	7101	7101	
+SA	108410	أحمد بن فضلان	residential	2	343	345	Ahmad Ibn Fadhlan
+SA	108410	الأمير محمد بن عبدالعزيز		2	4240	4240	
+SA	108410	الامام الشافعي	secondary	2	1421	9042	Imam Shafiee
+SA	108410	الدائري الشرقي	secondary	2	1286	1286	Eastern Ring
+SA	108410	الطريق الدائري الشمالي		2	4228	4228	
+SA	108410	شارع صلاح الدين الأيوبي		2	2071	2071	
+SA	108410	طريق التخصصي	primary	2	1233	1233	Al Takhassousi Road
+SA	108410	طريق الثمامة		2	2281	3210	
+SA	108410	طريق الملك عبدالله	secondary	2	1225	4189	King Abdullah Rd
+SA	108410	طريق الملك فهد		2	0	0	
+SA	108410	طريق صلاح الدين الأيوبي	primary	2	98	6694	Salah El Din Al Ayoubi Road
+SA	108410	طريق عبد الله بن حذافة السهمي		2	2	3293	
+SA	108410	1	residential	1	0	0	
+SA	108410	10	tertiary	1	0	0	
+SA	108410	11	living_street	1	0	0	
+SA	108410	12	residential	1	0	0	
+SA	108410	13	living_street	1	0	0	
+SA	108410	14	tertiary	1	0	0	
+SA	108410	15	living_street	1	0	0	
+SA	108410	16	living_street	1	0	0	
+SA	108410	160	living_street	1	0	0	
+SA	108410	17	residential	1	0	0	
+SA	108410	18	residential	1	0	0	
+SA	108410	19	living_street	1	0	0	
+SA	108410	2	living_street	1	0	0	
+SA	108410	20	living_street	1	0	0	
+SA	108410	22	living_street	1	0	0	
+SA	108410	224	living_street	1	0	0	
+SA	108410	228	residential	1	0	0	
+SA	108410	23	living_street	1	0	0	
+SA	108410	230	living_street	1	0	0	
+SA	108410	232	residential	1	0	0	
+SA	108410	233	living_street	1	0	0	
+SA	108410	234	living_street	1	0	0	
+SA	108410	235	living_street	1	0	0	
+SA	108410	236	living_street	1	0	0	
+SA	108410	24	residential	1	0	0	
+SA	108410	25	residential	1	0	0	
+SA	108410	253	residential	1	0	0	
+SA	108410	255	residential	1	0	0	
+SA	108410	257	living_street	1	0	0	
+SA	108410	26	living_street	1	0	0	
+SA	108410	261	living_street	1	0	0	
+SA	108410	267	living_street	1	0	0	
+SA	108410	27	residential	1	0	0	
+SA	108410	271	living_street	1	0	0	
+SA	108410	273	living_street	1	0	0	
+SA	108410	277	living_street	1	0	0	
+SA	108410	279	living_street	1	0	0	
+SA	108410	28	living_street	1	0	0	
+SA	108410	281	living_street	1	0	0	
+SA	108410	282	living_street	1	0	0	
+SA	108410	283	living_street	1	0	0	
+SA	108410	284	living_street	1	0	0	
+SA	108410	285	living_street	1	0	0	
+SA	108410	286	living_street	1	0	0	
+SA	108410	287	living_street	1	0	0	
+SA	108410	288	living_street	1	0	0	
+SA	108410	29	residential	1	0	0	
+SA	108410	296	living_street	1	0	0	
+SA	108410	298	living_street	1	0	0	
+SA	108410	3	living_street	1	0	0	
+SA	108410	30	residential	1	0	0	
+SA	108410	306	residential	1	0	0	
+SA	108410	31	residential	1	0	0	
+SA	108410	317	living_street	1	0	0	
+SA	108410	32	living_street	1	0	0	
+SA	108410	33	residential	1	0	0	
+SA	108410	34	living_street	1	0	0	
+SA	108410	36	living_street	1	0	0	
+SA	108410	38	living_street	1	0	0	
+SA	108410	390	living_street	1	0	0	
+SA	108410	394	living_street	1	0	0	
+SA	108410	395	living_street	1	0	0	
+SA	108410	4	living_street	1	0	0	
+SA	108410	40	residential	1	0	0	
+SA	108410	41	residential	1	0	0	
+SA	108410	46	residential	1	0	0	
+SA	108410	48	living_street	1	0	0	
+SA	108410	5	residential	1	0	0	
+SA	108410	58	residential	1	0	0	
+SA	108410	6	living_street	1	0	0	
+SA	108410	62	living_street	1	0	0	
+SA	108410	7	tertiary	1	0	0	
+SA	108410	8	living_street	1	0	0	
+SA	108410	9	living_street	1	0	0	
+SA	108410	Abdullah Al Ashgar	living_street	1	0	0	
+SA	108410	Abdullah Al Haris	living_street	1	0	0	
+SA	108410	Abdullateef Al Mashooq	residential	1	0	0	
+SA	108410	Abdulrahman Bin Ali Al Sheh St.	residential	1	0	0	
+SA	108410	Abdulrahman Bin Hassan Al-Qusaibi	tertiary	1	0	0	
+SA	108410	Abi Al Arab	unclassified	1	0	0	
+SA	108410	Abi Al Hakam ibn Hazm	residential	1	0	0	
+SA	108410	Abu Al Mudhaffar Al Wasty	residential	1	0	0	
+SA	108410	Abu Bakar As-Sudiq Road	primary	1	0	0	
+SA	108410	Al Ajila	living_street	1	0	0	
+SA	108410	Al Alaa Bin Zyadh	living_street	1	0	0	
+SA	108410	Al Amir Abdul	tertiary	1	0	0	
+SA	108410	Al Amir Mansur Ibn Abdul Aziz Street	residential	1	0	0	
+SA	108410	Al Amir Sultan Ibn Abdul Aziz	tertiary	1	0	0	
+SA	108410	Al Amlah Mountain	residential	1	0	0	
+SA	108410	Al Athkhar	pedestrian	1	0	0	
+SA	108410	Al Bab Valley	living_street	1	0	0	
+SA	108410	Al Baha	residential	1	0	0	
+SA	108410	Al Basatain;Al basatain	unclassified	1	0	0	
+SA	108410	Al Bitar	residential	1	0	0	
+SA	108410	Al Dahd	residential	1	0	0	
+SA	108410	Al Dawla	residential	1	0	0	
+SA	108410	Al Ein Mountain	residential	1	0	0	
+SA	108410	Al Fao Mountain	residential	1	0	0	
+SA	108410	Al Farzdaq Street	tertiary	1	0	0	
+SA	108410	Al Hadaeq	residential	1	0	0	
+SA	108410	Al Hair Road	primary	1	0	0	
+SA	108410	Al Hajeb	residential	1	0	0	
+SA	108410	Al Hamama Valley	living_street	1	0	0	
+SA	108410	Al Istiqama	living_street	1	0	0	
+SA	108410	Al Jadi	residential	1	0	0	
+SA	108410	Al Jalil Valley	living_street	1	0	0	
+SA	108410	Al Jamuh Al Ansarii	tertiary	1	0	0	
+SA	108410	Al Jamuh Al Ansarii St.	unclassified	1	0	0	
+SA	108410	Al Jamuh Al Ansarii Street	tertiary	1	0	0	
+SA	108410	Al Joud	living_street	1	0	0	
+SA	108410	Al Karmal Mountain	living_street	1	0	0	
+SA	108410	Al Khadar Valley	residential	1	0	0	
+SA	108410	Al Labban	residential	1	0	0	
+SA	108410	Al Madar Mountain	residential	1	0	0	
+SA	108410	Al Mahd	residential	1	0	0	
+SA	108410	Al Marsad	residential	1	0	0	
+SA	108410	Al Marwah	unclassified	1	0	0	
+SA	108410	Al Mashayekh Mountain	residential	1	0	0	
+SA	108410	Al Munaizilah St.	residential	1	0	0	
+SA	108410	Al Nahdha road	primary	1	0	0	
+SA	108410	Al Neer Mountain	living_street	1	0	0	
+SA	108410	Al Omra	living_street	1	0	0	
+SA	108410	Al Orouba	primary	1	0	0	
+SA	108410	Al Ossa Mopuntain	residential	1	0	0	
+SA	108410	Al Oweinat Mountain	residential	1	0	0	
+SA	108410	Al Qasim Bin Umar	residential	1	0	0	
+SA	108410	Al Raba'H	tertiary	1	0	0	
+SA	108410	Al Sarqasti	living_street	1	0	0	
+SA	108410	Al Taban	tertiary	1	0	0	
+SA	108410	Al Thaleth	tertiary	1	0	0	
+SA	108410	Al Waha	living_street	1	0	0	
+SA	108410	Al Washm	tertiary	1	0	0	
+SA	108410	Al Zaeakah St.	residential	1	0	0	
+SA	108410	Al Zomorod	living_street	1	0	0	
+SA	108410	Al-Safi	pedestrian	1	0	0	
+SA	108410	Al-Sunbulah	pedestrian	1	0	0	
+SA	108410	Aldargzi	residential	1	0	0	
+SA	108410	Ali Bin Abi Al Saadat	residential	1	0	0	
+SA	108410	Alim Al Shatbi St	residential	1	0	0	
+SA	108410	Alsafa	tertiary	1	0	0	
+SA	108410	Arisala	residential	1	0	0	
+SA	108410	Arwi Bint Kanz	residential	1	0	0	
+SA	108410	Ash Shaikh Abdul Rahman Ibn Hasan	residential	1	0	0	
+SA	108410	Athlam Bin Rabia Street	residential	1	0	0	
+SA	108410	Azeb Mountain	living_street	1	0	0	
+SA	108410	BRT 11	secondary	1	0	0	
+SA	108410	BRT 13	secondary	1	0	0	
+SA	108410	BRT11	secondary	1	0	0	
+SA	108410	BRT11 & BRT12	secondary	1	0	0	
+SA	108410	BRT12	secondary	1	0	0	
+SA	108410	Bani Hilal St.	residential	1	0	0	
+SA	108410	Barqah St.	residential	1	0	0	
+SA	108410	Bashawr	living_street	1	0	0	
+SA	108410	Buraidah St.	tertiary	1	0	0	
+SA	108410	Fahd Almark	residential	1	0	0	
+SA	108410	Faidhah Noman St.	residential	1	0	0	
+SA	108410	Haifa	tertiary	1	0	0	
+SA	108410	Hail	tertiary	1	0	0	
+SA	108410	Hajar Bin Al Noaman	residential	1	0	0	
+SA	108410	Hibat Allah Bin Ibrahim	residential	1	0	0	
+SA	108410	Hijrat Al Zaheed St.	residential	1	0	0	
+SA	108410	Holy Makkah	unclassified	1	0	0	
+SA	108410	Huhaifah Ibn Jabal	residential	1	0	0	
+SA	108410	Hunaider St.	residential	1	0	0	
+SA	108410	Ibn ABi Al Shukur Al Falaki St.	residential	1	0	0	
+SA	108410	Ibn Al Ma'Moon	residential	1	0	0	
+SA	108410	Ibn Al Tabani St.	residential	1	0	0	
+SA	108410	Ibrahim Ibn Hamad Ibn Issa	living_street	1	0	0	
+SA	108410	Jaber Bin Morah St.	residential	1	0	0	
+SA	108410	Jabr Ibn Rashid	residential	1	0	0	
+SA	108410	Jurl Bin Saad St.	residential	1	0	0	
+SA	108410	Khaled Bin Qais	residential	1	0	0	
+SA	108410	Khalid Bin Yazid Bin Mu'awiah Street	tertiary	1	0	0	
+SA	108410	Khzam	residential	1	0	0	
+SA	108410	King Saud	primary	1	0	0	
+SA	108410	Mohammad Al Khashab Street	residential	1	0	0	
+SA	108410	Nasseriyah	secondary	1	0	0	
+SA	108410	No. 11	residential	1	0	0	
+SA	108410	No. 4	residential	1	0	0	
+SA	108410	No. 5	residential	1	0	0	
+SA	108410	No. 56	living_street	1	0	0	
+SA	108410	No. 8	residential	1	0	0	
+SA	108410	Pr. Bandar Bin Abdulaziz St.	tertiary	1	0	0	
+SA	108410	Pr. Mishari Bin Abdulaziz St.	tertiary	1	0	0	
+SA	108410	Pr. Turki Bin Abdullah St.	residential	1	0	0	
+SA	108410	Pr. Turki Bin Abdullah Street	residential	1	0	0	
+SA	108410	Prince Majed Bin Abdulaziz St.	tertiary	1	0	0	
+SA	108410	Prince Musa'ed Bin Abdulaziz St.	tertiary	1	0	0	
+SA	108410	Prince Saud Bin Faisal Bin Abdulaziz	primary	1	0	0	
+SA	108410	Prince Sultan Ibn Salman Ibn Abdulaziz	tertiary	1	0	0	
+SA	108410	Rabigh	tertiary	1	0	0	
+SA	108410	Saifuddin Street	unclassified	1	0	0	
+SA	108410	Santander	living_street	1	0	0	
+SA	108410	Shamam Mountain	residential	1	0	0	
+SA	108410	Sheikh Abdullah Babteen Street	residential	1	0	0	
+SA	108410	Shiekh Omar Bin Saleem St.	tertiary	1	0	0	
+SA	108410	Shuraih Ibn Murrah Street	residential	1	0	0	
+SA	108410	Shuriah Ibn Murra Street	residential	1	0	0	
+SA	108410	Sinjar Mountain	living_street	1	0	0	
+SA	108410	Soweid Bin Sakar	residential	1	0	0	
+SA	108410	Takhassusi Street	primary	1	0	0	
+SA	108410	Talah Bin Obaidullah St.	tertiary	1	0	0	
+SA	108410	Tamaria St	residential	1	0	0	
+SA	108410	Tarfa Mountain	living_street	1	0	0	
+SA	108410	Tlaib Al Khmi	residential	1	0	0	
+SA	108410	U-turn south of Al Takhassousi St.	residential	1	0	0	
+SA	108410	Umm Al Hamam	secondary	1	0	0	
+SA	108410	Umm Al Hamam Street	secondary	1	0	0	
+SA	108410	Wadi Al Rumah St.	tertiary	1	0	0	
+SA	108410	Yusuf Bin Ahmadat St.	residential	1	0	0	
+SA	108410	Zamzam Valley	living_street	1	0	0	
+SA	108410	Zyad Bin Ismael	living_street	1	0	0	
+SA	108410	sports stands	pedestrian	1	0	0	
+SA	108410	use for riyadh buses	unclassified	1	0	0	
+SA	108410	آبيار علي	residential	1	0	0	Abyar Ali
+SA	108410	آجلي	residential	1	0	0	Ajli
+SA	108410	آل أبي حيمد	residential	1	0	0	Al Abi Hemeid
+SA	108410	آل بكير	residential	1	0	0	Al Bekir
+SA	108410	آل ثنيان آل حوشان	residential	1	0	0	Al Thunayan Al Hoshan
+SA	108410	آل حماد	residential	1	0	0	Al Hamad
+SA	108410	آل حميدي	residential	1	0	0	Al Hamidi
+SA	108410	آل حميضان	residential	1	0	0	Aal Hmaidan
+SA	108410	آل حوق	residential	1	0	0	Al Hoq
+SA	108410	آل درع	residential	1	0	0	Al Dir
+SA	108410	آل دغيثر	residential	1	0	0	Al Dhghaithir
+SA	108410	آل راجح	residential	1	0	0	Al Rajeh
+SA	108410	آل راشد	residential	1	0	0	Al Rashed
+SA	108410	آل رميزان	residential	1	0	0	Aal Raimzan
+SA	108410	آل رويشد	residential	1	0	0	Al Roweished
+SA	108410	آل زيد	residential	1	0	0	Al Zeid
+SA	108410	آل سليمان	residential	1	0	0	Al Soleiman
+SA	108410	آل شعيبي	residential	1	0	0	Al Shoebi
+SA	108410	آل شويعر	residential	1	0	0	Al Showe'R
+SA	108410	آل صالح	residential	1	0	0	Al Saleh
+SA	108410	آل طالب	residential	1	0	0	Al Taleb
+SA	108410	آل عاطف	residential	1	0	0	Al Atef
+SA	108410	آل عساكر	tertiary	1	0	0	Al Asaker
+SA	108410	آل عمران	residential	1	0	0	Al Omran
+SA	108410	آل عواد	residential	1	0	0	Al Awad
+SA	108410	آل فياض	residential	1	0	0	Al Fayadh
+SA	108410	آل قباع	residential	1	0	0	Al Qabaa
+SA	108410	آل مرشد	tertiary	1	0	0	Al Mershed
+SA	108410	آل مشرف	residential	1	0	0	Al Meshref
+SA	108410	آل مقرن	residential	1	0	0	Al Moqren
+SA	108410	آل نمر	residential	1	0	0	Al Nemr
+SA	108410	آمنة بنت عنان	residential	1	0	0	Amena Bint Anan
+SA	108410	آمنه بنت أبي محمد	residential	1	0	0	Amena Bint Abimihammed
+SA	108410	أبا الكباش	residential	1	0	0	Abi Al Kabbash
+SA	108410	أبا النجم	residential	1	0	0	Aba Al Najm
+SA	108410	أبان بن الوليد	residential	1	0	0	Aban Bin Alwalid
+SA	108410	أبان بن تغلب	residential	1	0	0	Iban Ibn Tahghlib
+SA	108410	أبراد	residential	1	0	0	Abrad
+SA	108410	أبرق الحنان	residential	1	0	0	
+SA	108410	أبرق العمالة	residential	1	0	0	Abraq Al Amala
+SA	108410	أبرق المليحة	residential	1	0	0	Abraq Al Maliha
+SA	108410	أبلق	living_street	1	0	0	Ablq
+SA	108410	أبها	residential	1	0	0	Abha
+SA	108410	أبو عبيدة عامر بن الجراح	primary	1	0	0	Abi Obaidah BinAl Jarah
+SA	108410	أبي أحمد البناء	residential	1	0	0	Abi Ahmad Al Bina'
+SA	108410	أبي أحمد الرومي	residential	1	0	0	Abi Ahmad Al Rumi
+SA	108410	أبي أحمد الهمذاني	residential	1	0	0	Abi Ahmad Al Hamathani
+SA	108410	أبي أرطى	residential	1	0	0	Abi Arti
+SA	108410	أبي أمامة الأنصاري	residential	1	0	0	Abi Umamah All Ansari St.
+SA	108410	أبي أمامة الحارثي	residential	1	0	0	Abi Omama Al Harethi
+SA	108410	أبي أيوب بن المهلب	residential	1	0	0	Abi Ayub Ibn Al Mehalab
+SA	108410	أبي إبراهيم الحربي	residential	1	0	0	Abi Ibrahim Al Harbi
+SA	108410	أبي إبراهيم الكتاني	residential	1	0	0	Abi Ibrahim Al Kitani
+SA	108410	أبي إبراهيم النجار	residential	1	0	0	Abi Ibrahim Al Najar
+SA	108410	أبي إسحاق الأبناسي	residential	1	0	0	Abi Issaq Al Abnasi
+SA	108410	أبي إسحاق الأنصاري	residential	1	0	0	Abo Isaq Al Ansari
+SA	108410	أبي إسحاق البغدادي	residential	1	0	0	Abi Issaq Al Boghdadi
+SA	108410	أبي إسحاق التاجر	residential	1	0	0	Abi Isaq Al Tiri
+SA	108410	أبي إسحاق الحربي	residential	1	0	0	Abi Ishaq Al Harbi
+SA	108410	أبي إسحاق الحمزي	residential	1	0	0	Abi Issaq Al Hamzi
+SA	108410	أبي إسحاق الخياط	residential	1	0	0	Abi Issaq Al Khayat
+SA	108410	أبي إسحاق الشيبي	residential	1	0	0	Abi Issaq Al Shibi
+SA	108410	أبي إسحاق الغزال	residential	1	0	0	Abi Issaq Al Ghazal
+SA	108410	أبي إسحاق الماراني	residential	1	0	0	Abi Issaq Al Marani
+SA	108410	أبي إسحاق المقدسي	residential	1	0	0	Abi Isaq Al Maqdessi
+SA	108410	أبي الأسباط	residential	1	0	0	Abi Al Asbat
+SA	108410	أبي الأشبال	residential	1	0	0	Abi Al Ashbal
+SA	108410	أبي الأشبال بن رضوان	residential	1	0	0	Abi Al Ashbal Ibn Radwan
+SA	108410	أبي الأعلى المودودي	residential	1	0	0	Abi Al Aala Al Maoudoudi
+SA	108410	أبي الأمانة القيسي	residential	1	0	0	Abi Al Amana Al Qeissy
+SA	108410	أبي البدر الكرخي	residential	1	0	0	Abi Al Badr Al Karkhi
+SA	108410	أبي البدر الموصلي	residential	1	0	0	Abi Al Badr Al Mousli
+SA	108410	أبي البر	residential	1	0	0	Abi Abir
+SA	108410	أبي البركات	residential	1	0	0	Abi Al Barakat
+SA	108410	أبي البركات الأنصاري	residential	1	0	0	Abi Al Barakat Al Ansari
+SA	108410	أبي البركات البيع	unclassified	1	0	0	Abi Al Barak Al Bia
+SA	108410	أبي البركات التميمي	residential	1	0	0	Abi Al Barakat Al Tamimi
+SA	108410	أبي البركات الجمال	residential	1	0	0	Al Barakat Al Jammal
+SA	108410	أبي البركات الربعي	residential	1	0	0	Abi Al Barakat Alrabei
+SA	108410	أبي البركات الزهري	residential	1	0	0	Abi Al Barakat Al Zahri
+SA	108410	أبي البركات النسفي	residential	1	0	0	Abi Al Barakat Alnasfi
+SA	108410	أبي البقاء الأزجي	residential	1	0	0	Abi Al Baqa' Al Azji
+SA	108410	أبي البقاء التيمي	residential	1	0	0	Abi Al Baqa' Al Timi
+SA	108410	أبي البقاء العمري	residential	1	0	0	Abi Al Baqa' Al Amri
+SA	108410	أبي البقاء المحب	residential	1	0	0	Abi Al Baqa' Al Moheb
+SA	108410	أبي التقي البهنسي	unclassified	1	0	0	Abi Al Toaqi Al Bahnasi
+SA	108410	أبي الثريا	residential	1	0	0	Abi Al Thuraya
+SA	108410	أبي الثناء البغدادي	residential	1	0	0	Abi Al Thana Al Boghdadi
+SA	108410	أبي الثناء البوشي	residential	1	0	0	Abi Al Thana' Al Boshi
+SA	108410	أبي الثناء الحراني	residential	1	0	0	Abi Al Thana Al Horani
+SA	108410	أبي الثناء الحلي	residential	1	0	0	Abi Althana' Al Hali
+SA	108410	أبي الثناء المغربي	residential	1	0	0	Abi Althana' Al Maghrabi
+SA	108410	أبي الثناء المقرئ	residential	1	0	0	Abi Al Thana' Al Moqre'
+SA	108410	أبي الثناء بن القاسم	residential	1	0	0	Abi Al Thana' Ibn Al Qassem
+SA	108410	أبي الثناء بن علي	residential	1	0	0	Abi Al Than' Ibn Ali
+SA	108410	أبي الثناء محمود العدل	residential	1	0	0	Abi Al Thana' Mahmoud Al Adl
+SA	108410	أبي الجود	residential	1	0	0	Abi Al Joud
+SA	108410	أبي الحارث الشافعي	residential	1	0	0	Abi Al Hareth Al Shafeyee
+SA	108410	أبي الحارث الهاشمي	residential	1	0	0	Abi Al Hareth Al Hashemi
+SA	108410	أبي الحارث بن العمري	residential	1	0	0	Abi Al Hareth Ibn Al Amri
+SA	108410	أبي الحجاج البلوي	residential	1	0	0	Abi Al Hajjaj Al Belowi
+SA	108410	أبي الحجاج المقدسي	residential	1	0	0	Abi Al Hajjaj Al Maqdesi
+SA	108410	أبي الحرم الزهري	residential	1	0	0	Abi Al Haram Al Zahri
+SA	108410	أبي الحرم الكاتب	residential	1	0	0	Abi Al Haram Al Kateb
+SA	108410	أبي الحرم المقدسي	residential	1	0	0	Abi Al Haram Al Maqdesi
+SA	108410	أبي الحسن الأنصاري	residential	1	0	0	Abi Al Hassan Al Anssari
+SA	108410	أبي الحسن التلمساني	residential	1	0	0	Abi Al Hassan Al Telmesani
+SA	108410	أبي الحسن التهامي	residential	1	0	0	Abi Al Hassan Al Tohami
+SA	108410	أبي الحسن الجرجاني	residential	1	0	0	Abi Al Hassan Al Jerjani
+SA	108410	أبي الحسن الجلاجلي	residential	1	0	0	Abi Al Hassan Al Jalajeli
+SA	108410	أبي الحسن الحميدي	residential	1	0	0	Abi Al Hassan Al Hamidi
+SA	108410	أبي الحسن الدمشقي	residential	1	0	0	Abi Al Hassan Al Demashqi
+SA	108410	أبي الحسن الديناري	residential	1	0	0	Abi Al Hasan Al Denari
+SA	108410	أبي الحسن الرازي	residential	1	0	0	Abi Al Hassan Al Razi
+SA	108410	أبي الحسن الربعي	residential	1	0	0	Abi Al Hassan Al Rab'I
+SA	108410	أبي الحسن الرماني	residential	1	0	0	Abi Al Hassan Al Rommani
+SA	108410	أبي الحسن الساعاتي	residential	1	0	0	Abi Al Hassan Al Saati
+SA	108410	أبي الحسن الشافعي	residential	1	0	0	Abi Al Hassan Al Shafe'I
+SA	108410	أبي الحسن العطار	residential	1	0	0	Abi Al Hassan Al Attar
+SA	108410	أبي الحسن العماد	residential	1	0	0	
+SA	108410	أبي الحسن الغرافي	residential	1	0	0	Abi Al Hassan Al Gherafi
+SA	108410	أبي الحسن القلصادي	residential	1	0	0	Abi Al Hassan Al Qalsadi
+SA	108410	أبي الحسن المرادي	residential	1	0	0	Abi Al Hassan Al Maradi
+SA	108410	أبي الحسن النحوي	residential	1	0	0	Abi Al hassan Al Nahwi
+SA	108410	أبي الحسن النظام	residential	1	0	0	Abi Al Hassan Al Netham
+SA	108410	أبي الحسن الهاشمي	residential	1	0	0	
+SA	108410	أبي الحسن الواعظ	residential	1	0	0	Abi Alhassan Al Waeth
+SA	108410	أبي الحسن الوجيه	residential	1	0	0	Abi Al Hassan Al Wajih
+SA	108410	أبي الحسن بن أبي المكارم	residential	1	0	0	Abi Al Hassan Ibn Abi Al Makarem
+SA	108410	أبي الحسن بن البناء	residential	1	0	0	Abi Al Hassan Ibn Al Bena'
+SA	108410	أبي الحسن بن ثابت	residential	1	0	0	Abi Al Hassan Ibn Thabet
+SA	108410	أبي الحسن بن مكي	residential	1	0	0	Abi Al Hassan Ibn Bin Makki
+SA	108410	أبي الحسن علي	residential	1	0	0	Abi Al Hassan Ali
+SA	108410	أبي الحسن علي الجرجاني	residential	1	0	0	Abi Al Hassan Ali Al Jerjani
+SA	108410	أبي الحسين الأزدي	residential	1	0	0	Abi Al Hussein Al Azdi
+SA	108410	أبي الحسين الحبري	residential	1	0	0	Abi Al Hussein Al Habari
+SA	108410	أبي الحسين النعماني	residential	1	0	0	
+SA	108410	أبي الحق الحنفي	residential	1	0	0	Abi Al Haq Al Hanafi
+SA	108410	أبي الحياة بن الظريف	residential	1	0	0	Abi Alhayat Ibn Al Tharif
+SA	108410	أبي الحياض	residential	1	0	0	Abi Al Hayad
+SA	108410	أبي الخطاب الداني	residential	1	0	0	Abi Al Khattab Al Dani
+SA	108410	أبي الخير الأصبهاني	residential	1	0	0	Abi Al Kheir Al Asbahani
+SA	108410	أبي الخير الدقاق	residential	1	0	0	StreetNameAbi Al Kheir Al Daqaq
+SA	108410	أبي الخير السخاوي	residential	1	0	0	Abi Al Kheir Al Sekhawi
+SA	108410	أبي الخير القزويني	residential	1	0	0	Abi Al Kheir Al Qazwini
+SA	108410	أبي الخير الواسطي	residential	1	0	0	Abi Al Kheir Al Waseti
+SA	108410	أبي الدر	residential	1	0	0	Abi Al Dor
+SA	108410	أبي الدر الحربي	residential	1	0	0	Abi Al Dor Al Harbi
+SA	108410	أبي الدر الرومي	residential	1	0	0	Abi Al Dor Al Roumi
+SA	108410	أبي الدرداء	unclassified	1	0	0	Abi Al Darda
+SA	108410	أبي الذكر	residential	1	0	0	Abi Al Thikir
+SA	108410	أبي الربيع السعدي	residential	1	0	0	Abi Al Rabi Al Saadi
+SA	108410	أبي الربيع الكلاعي	residential	1	0	0	Abi Al Rabi' Al Kilaee
+SA	108410	أبي الرديف	residential	1	0	0	Abi Al Radif
+SA	108410	أبي الرشيد الرازي	residential	1	0	0	Abi Al Rashid Al Razi
+SA	108410	أبي الرضا الطبال	residential	1	0	0	Abi Al Redha Al Tabbal
+SA	108410	أبي الرضا المقرئ	residential	1	0	0	Abi Al Redha Al Moqre'
+SA	108410	أبي الرضا بن العودي	residential	1	0	0	Abi Alrida Ibn Al Oda
+SA	108410	أبي الرضى الحربي	residential	1	0	0	Abi Al Radi Al Harbi
+SA	108410	أبي الروح الشافعي	residential	1	0	0	Abi Al Rouh Al Shafe'I
+SA	108410	أبي الرين	residential	1	0	0	Abi Al Rein
+SA	108435	أبو بكر الرازي	tertiary	1	0	0	
+SA	108435	أبو تمام	tertiary	1	0	0	
+SA	108435	أحمد بن دميم	secondary	1	0	0	
+SA	108435	أسامة بن عمير الهذلي	secondary	1	0	0	
+SA	108435	أسامه بن زيد	tertiary	1	0	0	
+SA	108435	أسعد بن زراره	residential	1	0	0	
+SA	108435	أنس بن أوس	residential	1	0	0	
+SA	108435	إبراهيم الخليل	residential	1	0	0	
+SA	108435	إبراهيم بن ضويان	tertiary	1	0	0	
+SA	108435	ابن الخصيب	residential	1	0	0	
+SA	108435	ابن سينا	tertiary	1	0	0	
+SA	108435	ابن شجاع	residential	1	0	0	
+SA	108435	الأمير سلطان بن عبد العزيز	tertiary	1	0	0	
+SA	108435	الأمير عبدالله بن جلوي بن تركي	residential	1	0	0	
+SA	108435	الأمير ماجد بن عبدالعزيز بن عبدالرحمن	tertiary	1	0	0	
+SA	108435	الإحساء	tertiary	1	0	0	
+SA	108435	الامام محمد بن سعود	tertiary	1	0	0	
+SA	108435	الامير خالد الفيصل بن عبد العزيز	tertiary	1	0	0	
+SA	108435	الامير عبد العزيز بن مساعد بن جلوي	residential	1	0	0	
+SA	108435	الامير عبد الله بن تركي بن عبد الله	residential	1	0	0	
+SA	108435	الامير عبد المحسن بن جلوي	residential	1	0	0	
+SA	108435	الامير عبدالله بن الفيصل بن عبدالعزيز	tertiary	1	0	0	
+SA	108435	الامير عبدالله بن ثنيان بن ابراهيم	residential	1	0	0	
+SA	108435	الامير فهد بن سلطان بن عبد العزيز	tertiary	1	0	0	
+SA	108435	الامير فيصل بن تركي بن عبدالعزيز	residential	1	0	0	
+SA	108435	الامير متعب بن عبد الله بن عبد العزيز	tertiary	1	0	0	
+SA	108435	البدائع	tertiary	1	0	0	
+SA	108435	البكيرية	tertiary	1	0	0	
+SA	108435	الحارث الدوسي	residential	1	0	0	
+SA	108435	الحباب بن المنذر الخزرجي	residential	1	0	0	
+SA	108435	الحجاج بن يوسف الثقفي	tertiary	1	0	0	
+SA	108435	الحر بن قيس	residential	1	0	0	
+SA	108435	الحرث أبو عبدالله	residential	1	0	0	
+SA	108435	الحسن الأندلسي	residential	1	0	0	
+SA	108435	الحسن اليمني	residential	1	0	0	
+SA	108435	الحكم بن الحارث	residential	1	0	0	
+SA	108435	الرياض	tertiary	1	0	0	
+SA	108435	الشنانة	secondary	1	0	0	
+SA	108435	الشيخ احمد آل الخليفة	residential	1	0	0	
+SA	108435	الغرناطي	tertiary	1	0	0	
+SA	108435	الفرزدق	residential	1	0	0	
+SA	108435	القدس	tertiary	1	0	0	
+SA	108435	المتنبي	tertiary	1	0	0	
+SA	108435	المثني بن حارثة	tertiary	1	0	0	
+SA	108435	المحفوظ	tertiary	1	0	0	
+SA	108435	المطيه	tertiary	1	0	0	
+SA	108435	الملك خالد بن عبد العزيز	tertiary	1	0	0	
+SA	108435	الملك فيصل بن عبد العزيز	tertiary	1	0	0	
+SA	108435	المنذر الاندلسي	tertiary	1	0	0	
+SA	108435	امنه بنت وهب	residential	1	0	0	
+SA	108435	انس الحارثي	residential	1	0	0	
+SA	108435	بريدة	tertiary	1	0	0	
+SA	108435	بلال بن رباح	tertiary	1	0	0	
+SA	108435	بلال بن مالك المزني	residential	1	0	0	
+SA	108435	ثابت بن خالد	tertiary	1	0	0	
+SA	108435	ثابت بن عمرو الأنصاري	tertiary	1	0	0	
+SA	108435	جابر بن صخر	tertiary	1	0	0	
+SA	108435	جبار بن سفيان	residential	1	0	0	
+SA	108435	جعيل بن زياد الاشجعي	residential	1	0	0	
+SA	108435	حاتم الطائي	residential	1	0	0	
+SA	108435	حمزة بن عبدالمطلب	tertiary	1	0	0	
+SA	108435	حميد الأنصاري	residential	1	0	0	
+SA	108435	خالد بن الوليد	tertiary	1	0	0	
+SA	108435	خليفة بن أبي بكر	residential	1	0	0	
+SA	108435	خيبر	tertiary	1	0	0	
+SA	108435	داود بن سلمة الأنصاري	tertiary	1	0	0	
+SA	108435	ربيعة بن أمية الثقفي	tertiary	1	0	0	
+SA	108435	ربيعة بن قريش	residential	1	0	0	
+SA	108435	رفاعه بن رافع بن مالك بن العجلان	residential	1	0	0	
+SA	108435	ركب المصري الكندي	residential	1	0	0	
+SA	108435	روح بن حبيب	residential	1	0	0	
+SA	108435	روح بن سيار بن روح	residential	1	0	0	
+SA	108435	سعد بن سهل	residential	1	0	0	
+SA	108435	سعيد بن المنذر	tertiary	1	0	0	
+SA	108435	سليم بن ثابت	tertiary	1	0	0	
+SA	108435	سليمان بن عمرو	residential	1	0	0	
+SA	108435	سمير بن جندب	residential	1	0	0	
+SA	108435	سنان بن صيفي السلمي	residential	1	0	0	
+SA	108435	شارع أبي بكر الصديق	tertiary	1	0	0	
+SA	108435	شارع أحمد بن حنبل	tertiary	1	0	0	
+SA	108435	شارع الأمير فيصل بن بندر	tertiary	1	0	0	
+SA	108435	شارع الأمين	tertiary	1	0	0	
+SA	108435	شارع الامير تركي بن أحمد السديري	tertiary	1	0	0	
+SA	108435	شارع الشنانة الفرعي	residential	1	0	0	
+SA	108435	شارع عتبه بن ربيعه بن خالد بن معاويه	tertiary	1	0	0	
+SA	108435	شارع عثمان بن عفان	tertiary	1	0	0	
+SA	108435	شارع علي بن أبي طالب	tertiary	1	0	0	
+SA	108435	شارع عمر بن الخطاب	tertiary	1	0	0	
+SA	108435	شرحبيل بن عبدالله	residential	1	0	0	
+SA	108435	صلاح الدين الايوبي	tertiary	1	0	0	
+SA	108435	طارق بن زياد	tertiary	1	0	0	
+SA	108435	طريق الملك سعود	tertiary	1	0	0	
+SA	108435	طريق الملك سلمان	secondary	1	0	0	
+SA	108435	طريق الملك عبدالله	secondary	1	0	0	
+SA	108435	طريق الملك فهد الفرعي	tertiary	1	0	0	
+SA	108435	طريق سوق الماشية	tertiary	1	0	0	
+SA	108435	عامر بن عبد الله التميمي	tertiary	1	0	0	
+SA	108435	عامر بن يزيد	tertiary	1	0	0	
+SA	108435	عبد الله بن صيفي بن وبرة	residential	1	0	0	
+SA	108435	عبدالله بن العاص	residential	1	0	0	
+SA	108512	ftian bin ahmad	residential	1	0	0	
+SA	108512	شارع الأمير مشعل بن عبدالعزيز	tertiary	1	0	0	
+SA	108512	شارع الملك خالد بن عبدالعزيز	secondary	1	0	0	
+SA	108512	شارع الملك عبدالله بن عبدالعزيز	tertiary	1	0	0	
+SA	108512	شارع الملك فيصل بن عبدالعزيز	tertiary	1	0	0	
+SA	108512	طريق الأمير سلطان بن عبد العزيز	secondary	1	0	0	
+SA	108512	طريق الامير سلطان بن عبدالعزيز	tertiary	1	0	0	
+SA	108512	طريق الملك سلمان بن عبد العزيز	secondary	1	0	0	
+SA	108512	طريق الملك فهد	tertiary	1	0	0	
+SA	108617	شارع المحاكل	residential	3	123	558	
+SA	108617	شارع الضباب	tertiary	1	0	0	
+SA	108617	شارع العقبة	residential	1	0	0	
+SA	108617	شارع المصيف	unclassified	1	0	0	
+SA	108617	شارع شهيد الدين علي بن زايد آل معيوف البكري الشهري	residential	1	0	0	
+SA	108617	شارع صلاح الدين الأيوبي	residential	1	0	0	
+SA	108617	طريق الأمير سلطان بن عبدالعزيز	residential	1	0	0	
+SA	108617	طريق التوحيد (مجد - نما)	primary	1	0	0	
+SA	108617	طريق الفرعة الشمالية - النماص	secondary	1	0	0	
+SA	108617	ممشى الضباب	pedestrian	1	0	0	Mamsha Aldabab
+SA	108648	ابن البصري	residential	1	0	0	
+SA	108648	ابن الرومي	residential	1	0	0	
+SA	108648	ابن الريحان	residential	1	0	0	
+SA	108648	ابن المسيب	residential	1	0	0	
+SA	108648	ابن المعتز	residential	1	0	0	
+SA	108648	ابن المنذر	residential	1	0	0	
+SA	108648	ابن باسم	residential	1	0	0	
+SA	108648	ابن بطوطة	residential	1	0	0	
+SA	108648	ابن سيرين	residential	1	0	0	
+SA	108648	ابو العناهية	residential	1	0	0	
+SA	108648	ابو امامة الباهلي	residential	1	0	0	
+SA	108648	ابو ضبي	residential	1	0	0	
+SA	108648	ابو هريرة	residential	1	0	0	
+SA	108648	ابي العلى	residential	1	0	0	
+SA	108648	ابي ايوب الانصاري	residential	1	0	0	
+SA	108648	ابي بن كعب	residential	1	0	0	
+SA	108648	احمد بن ماجد	residential	1	0	0	
+SA	108648	اسماء بنت ابي بكر	residential	1	0	0	
+SA	108648	اسماء بنت عميس	residential	1	0	0	
+SA	108648	اشبيلية	residential	1	0	0	
+SA	108648	الاجمعي	residential	1	0	0	
+SA	108648	الاحرام	residential	1	0	0	
+SA	108648	الاعشي	residential	1	0	0	
+SA	108648	الافراح	residential	1	0	0	
+SA	108648	الامام مسلم	residential	1	0	0	
+SA	108648	الاندلس	residential	1	0	0	
+SA	108648	الانوار	residential	1	0	0	
+SA	108648	البحتري	residential	1	0	0	
+SA	108648	البحرين	residential	1	0	0	
+SA	108648	البحيري	residential	1	0	0	
+SA	108648	البخاري	residential	1	0	0	
+SA	108648	البختري	residential	1	0	0	
+SA	108648	البراق	residential	1	0	0	
+SA	108648	الثلاثين	tertiary	1	0	0	
+SA	108648	الثمردي	tertiary	1	0	0	
+SA	108648	الجاحظ	residential	1	0	0	
+SA	108648	الجزيرة	residential	1	0	0	
+SA	108648	الحسن بن الهيثم	residential	1	0	0	
+SA	108648	الخرطوم	residential	1	0	0	
+SA	108648	الخطل	tertiary	1	0	0	
+SA	108648	الخماسيين	residential	1	0	0	
+SA	108648	الدوحة	residential	1	0	0	
+SA	108648	الراس	residential	1	0	0	
+SA	108648	الرشراشية	residential	1	0	0	
+SA	108648	الزبير بن ابي سلمى	residential	1	0	0	
+SA	108648	الزبير بن العوام	residential	1	0	0	
+SA	108648	الزيتون	residential	1	0	0	
+SA	108648	السواني	residential	1	0	0	
+SA	108648	الشفاء	tertiary	1	0	0	
+SA	108648	الطبري	residential	1	0	0	
+SA	108648	الفرزدق	residential	1	0	0	
+SA	108648	القسطل	residential	1	0	0	
+SA	108648	القعقاع	residential	1	0	0	
+SA	108648	المبرد	residential	1	0	0	
+SA	108648	المربع	residential	1	0	0	
+SA	108648	المطار	residential	1	0	0	
+SA	108648	المكتبة	residential	1	0	0	
+SA	108648	المنفلوطي	residential	1	0	0	
+SA	108648	النابغة الذبياني	residential	1	0	0	
+SA	108648	النصر	residential	1	0	0	
+SA	108648	النفيس	residential	1	0	0	
+SA	108648	الهادي	residential	1	0	0	
+SA	108648	الوشم	residential	1	0	0	
+SA	108648	اليرموك	residential	1	0	0	
+SA	108648	ام حكيم المخزومية	residential	1	0	0	
+SA	108648	امرو القيس	residential	1	0	0	
+SA	108648	بريدة	residential	1	0	0	
+SA	108648	بشير ابن سعد	residential	1	0	0	
+SA	108648	بن الفرات	residential	1	0	0	
+SA	108648	تهامة	residential	1	0	0	
+SA	108648	ثابت بن قيس	residential	1	0	0	
+SA	108648	ثابت بن مسعود	residential	1	0	0	
+SA	108648	ثعلبة بن الحارث	residential	1	0	0	
+SA	108648	جابر بن حيان	residential	1	0	0	
+SA	108648	جبل طارق	residential	1	0	0	
+SA	108648	جرير	residential	1	0	0	
+SA	108648	حافظ بن حجر	residential	1	0	0	
+SA	108648	حافظ وهبة	residential	1	0	0	
+SA	108648	حبيب ابن زياد	residential	1	0	0	
+SA	108648	حسن بن ثابت	residential	1	0	0	
+SA	108648	حفصة بنت عمر	residential	1	0	0	
+SA	108648	حلب الشهباء	residential	1	0	0	
+SA	108648	حمد الجاسر	residential	1	0	0	
+SA	108648	خالد بن سعيد	residential	1	0	0	
+SA	108648	ذي الصواري	residential	1	0	0	
+SA	108648	راس الخيمة	residential	1	0	0	
+SA	108648	رجاء بن حيوة	residential	1	0	0	
+SA	108648	زرقاء اليمامة	residential	1	0	0	
+SA	108648	زيد بن الخطاب	residential	1	0	0	
+SA	108648	سعد بن ابي وقاص	residential	1	0	0	
+SA	108648	سعد بن زرارة	residential	1	0	0	
+SA	108648	شارع الرازي	tertiary	1	0	0	
+SA	108648	شارع تبوك	secondary	1	0	0	
+SA	108648	شرحبيل بن حسنة	residential	1	0	0	
+SA	108648	صفين	residential	1	0	0	
+SA	108648	صلاح الدين الايوبي	residential	1	0	0	
+SA	108648	صوامع الغلال	residential	1	0	0	
+SA	108648	طريق ابن سينا	secondary	1	0	0	
+SA	108648	طريق المدينة المنورة	secondary	1	0	0	
+SA	108648	طريق الملك خالد	tertiary	1	0	0	King Khalid Rd
+SA	108773	طريق الملك عبدالله	secondary	1	0	0	
+SA	108841	Al Nour	tertiary	1	0	0	
+SA	108841	King Abdulaziz Road	secondary	1	0	0	
+SA	108841	Minor Road	unclassified	1	0	0	
+SA	108841	طريق الملك عبدالله	secondary	1	0	0	King Abdullah
+SA	108841	طريق الملك فيصل	tertiary	1	0	0	King Faisal
+SA	108841	طريق مكة المكرمة	tertiary	1	0	0	
+SA	108852	Dammam Street	residential	23	2053	2255	
+SA	108852	Saihat Ct.	residential	22	2302	2336	
+SA	108852	14th Street	residential	21	1443	1479	
+SA	108852	Al Khobar Street	residential	20	2212	2237	
+SA	108852	Dhahran Avenue	residential	20	2020	2047	
+SA	108852	15th Street	residential	17	1542	1574	
+SA	108852	Hail Street	residential	14	2000	2210	
+SA	108852	Uthmaniyah Street	residential	13	3	1056	
+SA	108852	Yasmeen Place	residential	12	1409	1434	
+SA	108852	Khurais Street	residential	11	2080	2984	
+SA	108852	Yuhoor Place	residential	11	1427	1446	
+SA	108852	Nesmah Street	residential	10	1576	1597	
+SA	108927	Al Imam Zayn Al Abidin		2	3837	7905	
+SA	108927	613	primary	1	0	0	
+SA	108927	Al Quds St	tertiary	1	0	0	
+SA	108927	أبو العباس النضري	residential	1	0	0	
+SA	108927	الحباب بن المنذر الخزرجي	tertiary	1	0	0	
+SA	108927	الخليج	residential	1	0	0	
+SA	108927	جسر الأئمة	primary	1	0	0	
+SA	108927	جسر الرسول الأعظم	tertiary	1	0	0	
+SA	108927	شارع الخليج	tertiary	1	0	0	
+SA	108927	شارع القدس	secondary	1	0	0	Al Quds Street
+SA	108927	شارع هاجر	residential	1	0	0	Hajir Street
+SA	108927	طريق أحد	primary	1	0	0	
+SA	108927	طريق الإمام علي بن أبي طالب	residential	1	0	0	
+SA	108927	طريق المطار	primary	1	0	0	Airport Road
+SA	108957	دوار القرى الشرقية	tertiary	1	0	0	
+SA	108957	شارع الجبيل العام	tertiary	1	0	0	
+SA	108957	طريق وسط البلد	residential	1	0	0	
+SA	109008	شارع الظهران	primary	1	0	0	Dhahran Street
+SA	109059	شارع قصر أجود بن زامل	residential	1	0	0	Qasr Ajwad Bin Zamel Street
+SA	109059	طريق المنحدر	residential	1	0	0	
+SA	109101	AL Faisal		2	3211	3211	
+SA	109101	طريق عين نجم		2	7105	8205	
+SA	109101	شارع ابو الضحى	residential	1	0	0	Abu Al Duha Street
+SA	109101	شارع الأمير طلال بن عبدالعزيز	tertiary	1	0	0	
+SA	109101	شارع الشقيق	secondary	1	0	0	
+SA	109101	شارع العاص بن الأسود	tertiary	1	0	0	Al 'Aas bin Al Aswad Street
+SA	109101	شارع القدس	primary	1	0	0	
+SA	109101	شارع الملك سعود	residential	1	0	0	King Saud Street
+SA	109101	شارع خالد بن الوليد رضي الله عنه	primary	1	0	0	Khaled ibn Alwaleed Street
+SA	109101	شارع عين نجم	secondary	1	0	0	Ain Najm Street
+SA	109101	شارع معالي الدكتور حمد بن سليمان البازعي	secondary	1	0	0	Dr. Hamad Sulayman Albazey Street
+SA	109101	طريق الأمير سلطان بن عبدالعزيز	secondary	1	0	0	
+SA	109101	طريق الأمير عبدالله بن جلوي	primary	1	0	0	Prince Abdullah Bin Jiloy Road
+SA	109101	طريق الملك سعود	secondary	1	0	0	King Saud Road
+SA	109101	طريق الملك عبدالله	primary	1	0	0	King Abdullah Road
+SA	109101	طريق الملك فهد	primary	1	0	0	
+SA	109101	طريق الملك فهد بن عبدالعزيز	primary	1	0	0	King Fahd Bin Abdulaziz Road
+SA	109118	طريق سد وادي ضرك	tertiary	1	0	0	
+SA	109131	طريق الملك سلمان	secondary	1	0	0	
+SA	109131	طريق الملك عبدالله	primary	1	0	0	
+SA	109131	طريق الملك فهد	primary	1	0	0	
+SA	109131	طريق عثمان بن عفان	primary	1	0	0	
+SA	109194	King AbdulAziz Road	tertiary	1	0	0	
+SA	109194	طريق الأمير سلطان	secondary	1	0	0	
+SA	109194	طريق الملك سلمان	primary	1	0	0	King Salman Road
+SA	109194	طريق الملك فهد	primary	1	0	0	King Fahad Road
+SA	109194	طريق عمر بن الخطاب	secondary	1	0	0	
+SA	109223	شارع عبدالرحمن بن عوف	residential	5	136	2747	Abd Al-Rahman bin Awf Street
+SA	109223	طريق السلام	tertiary	5	202	308	
+SA	109223	طريق الملك عبدالله		3	123	6114	
+SA	109223	Abu Bakr Asseddeq Road (Al Salam Road)		2	4231	4255	
+SA	109223	Al Amir Mohammed Bin Abdul Aziz Street	secondary	2	5055	7702	
+SA	109223	Mus'ab bin Umair Street, Buddaah Dist.		2	0	0	
+SA	109223	Zaid ibn Thabit Street		2	3054	6949	
+SA	109223	شارع أبو دجانة الأنصاري	residential	2	176	178	Abu Dujana Al-Ansari Street
+SA	109223	شارع البراء بن عازب الاوسي	residential	2	15	2165	Al Barraa Bin Azeb Street
+SA	109223	( شارع السلام ) أبو بكر الصديق	secondary	1	0	0	Abu Bakr Asseddeq Road (Al Salam Road)
+SA	109223	3	residential	1	0	0	
+SA	109223	Abdal Rahman Bin Suwyid Street	residential	1	0	0	
+SA	109223	Abdallah Bin Abi Labayd Street	residential	1	0	0	
+SA	109223	Abdallah Bin Mazahir Street	residential	1	0	0	
+SA	109223	Abdallaha Bin Awf	residential	1	0	0	
+SA	109223	Abdul Hamid Bin Jafar Street	residential	1	0	0	
+SA	109223	Abdul Muhsin Ibn Abdulaziz	secondary	1	0	0	
+SA	109223	Abdullah Bin Salam	residential	1	0	0	
+SA	109223	Abi Al Buhturi Al Qurashi Street	residential	1	0	0	
+SA	109223	Abi Bakr Bin Nafi Street	residential	1	0	0	
+SA	109223	Abi Dhar Al Ghafari Street	primary	1	0	0	
+SA	109223	Abi Shuray Al Khuzai Street	residential	1	0	0	
+SA	109223	Abo Houraira Street	residential	1	0	0	
+SA	109223	Abu Amru Al Qadi	residential	1	0	0	
+SA	109223	Abu Bakr Al Asadi Street	residential	1	0	0	
+SA	109223	Abu Khaythamah Street	residential	1	0	0	
+SA	109223	Abu Muslim Al Lythi Street	residential	1	0	0	
+SA	109223	Abu Qatadah Al Ansari	secondary	1	0	0	
+SA	109223	Abu Yusif Al Qazwini Street	residential	1	0	0	
+SA	109223	Ad Dahhak Bin Abi Jubayrah Street	tertiary	1	0	0	
+SA	109223	Ahmad Az Zubairi Street	residential	1	0	0	
+SA	109223	Ahmed Al Halabi Street	residential	1	0	0	
+SA	109223	Airport Road	primary	1	0	0	
+SA	109223	Al Amir Abdul Majid Road	secondary	1	0	0	
+SA	109223	Al Amir Abdul Majid Road طريق الأمير عبد المجيد	secondary	1	0	0	Al Amir Abdul Majid Road
+SA	109223	Al Arqam Ibn Abi Al Arqam Street	residential	1	0	0	
+SA	109223	Al Barraa Bin Malik Street	residential	1	0	0	
+SA	109223	Al Ghazi Street	residential	1	0	0	
+SA	109223	Al Hakam Bin Abdallah Street	residential	1	0	0	
+SA	109223	Al Hassan Ibn Ali Street	secondary	1	0	0	
+SA	109223	Al Muhajir Bin Abi Umayyah Street	tertiary	1	0	0	
+SA	109223	Al Mustanir Sa Sa Ah Street	residential	1	0	0	
+SA	109223	Al Mutalib Bin Abdallah Street	residential	1	0	0	
+SA	109223	Al Numan Bin Malik Street	secondary	1	0	0	
+SA	109223	Al Saydah Khadija Street	unclassified	1	0	0	
+SA	109223	Al Saydah Safyah Street	residential	1	0	0	
+SA	109223	Al Tufayl Bin Ubai Street	residential	1	0	0	
+SA	109223	Al-Manarat Street	tertiary	1	0	0	
+SA	109223	Al-Seeh Street	secondary	1	0	0	
+SA	109223	Ali Bin Abi Talib (Awali Nazil)	secondary	1	0	0	
+SA	109223	Ali Ibn Abi Talib Road طريق علي بن أبي طالب	secondary	1	0	0	Ali Ibn Abi Talib Road
+SA	109223	Amir Abdul Majeed Ibn Abdul Aziz Road	primary	1	0	0	
+SA	109223	Amir Ibn Salamah Street	residential	1	0	0	
+SA	109223	An Nu Man Bin Qays Street	residential	1	0	0	
+SA	109223	Ar Rabi Bint Muawadh Street	residential	1	0	0	
+SA	109223	As Saib Bin Habab Street	secondary	1	0	0	
+SA	109223	As Shifa Bint Awf Street	tertiary	1	0	0	
+SA	109223	As Sikkah Al Hadid Street	secondary	1	0	0	
+SA	109223	As Zubayr Bin Al Awam Street	residential	1	0	0	
+SA	109223	As ad Bin Zurarah Street	residential	1	0	0	
+SA	109223	As-Sih Street	secondary	1	0	0	
+SA	109223	Ash Shiab Bin Abdul Rahman Street	residential	1	0	0	
+SA	109223	Asma Bint E Zayed Street	secondary	1	0	0	
+SA	109223	Bachir Bin Abi Zaid	secondary	1	0	0	
+SA	109223	Badr Bin Uthman Street	residential	1	0	0	
+SA	109223	Bakr Bin Habib Street	residential	1	0	0	
+SA	109223	Hajib Ibn Zararah Street	residential	1	0	0	
+SA	109223	Hamnah Bint Jahsh Street	residential	1	0	0	
+SA	109223	Hassan Ibn Thabit Street	tertiary	1	0	0	
+SA	109223	Ibn Mandhur Street	residential	1	0	0	
+SA	109223	Ibn Mujashi Street	residential	1	0	0	
+SA	109223	Ibn Wad An Street	residential	1	0	0	
+SA	109223	Ibrahim Bin Saad Street	residential	1	0	0	
+SA	109223	Imru Al Qays Bin Adl Street	residential	1	0	0	
+SA	109223	Jabir Bin Atiq Street	residential	1	0	0	
+SA	109223	Jubarah Al Maliki Street	residential	1	0	0	
+SA	109223	Kathir Bin Abbas Street	residential	1	0	0	
+SA	109223	Khouzaima Bin Thabit Street	secondary	1	0	0	
+SA	109223	Kind Fahd Road	pedestrian	1	0	0	
+SA	109223	Mahmud Al Tabari Street	residential	1	0	0	
+SA	109223	Manakah Tunnel	primary	1	0	0	
+SA	109223	Mas Ud Bin Nasir Street	secondary	1	0	0	
+SA	109223	Ms. Maymonah Street	residential	1	0	0	
+SA	109223	Muhammad As Salmi Street	residential	1	0	0	
+SA	109223	Muslim Ibn Hani Street	residential	1	0	0	
+SA	109223	Nofal Bin Abdullah Street شارع نوفل بن عبد الله	secondary	1	0	0	Nofal Bin Abdullah Street
+SA	109223	Okasha Bin Mohsen Street	residential	1	0	0	
+SA	109223	Omar Bin Mabad Street	secondary	1	0	0	
+SA	109223	Othman Bin Affan (Al-Ayoon.)	primary	1	0	0	
+SA	109223	Prince Abdul Majeed Ibn Abdul Aziz Road	primary	1	0	0	
+SA	109223	Prince Muqrin ibn Abdul Aziz	tertiary	1	0	0	
+SA	109223	Prince Naif Ibn Abdulaziz Road	primary	1	0	0	
+SA	109223	Prince Sultan Bin Abdulaziz	secondary	1	0	0	
+SA	109223	Saad Bin Ebada Street	unclassified	1	0	0	
+SA	109223	Saad Bin Khaytama	secondary	1	0	0	
+SA	109223	Safiya Bint Abs Al Moutalib	residential	1	0	0	
+SA	109223	Safwan ibn Malik al Tamimi	tertiary	1	0	0	
+SA	109223	Said Bin Al Musayyib Street	residential	1	0	0	
+SA	109223	Said Ibn Al Mousayeb	residential	1	0	0	
+SA	109223	Salman the Persian Street	residential	1	0	0	
+SA	109223	Saud Ibn Al-Rabi Street	residential	1	0	0	
+SA	109223	Sawadah Bint Zimaah	residential	1	0	0	
+SA	109223	Sayid Ash-Shuhada Road	unclassified	1	0	0	
+SA	109223	Sayyar Bin Hatim Street	residential	1	0	0	
+SA	109223	Sikkat Al Hadeed Street	secondary	1	0	0	
+SA	109223	Sinan Bin Dhahir Street	residential	1	0	0	
+SA	109223	Talaq Bin Ghannam Street	residential	1	0	0	
+SA	109223	Umar Bin Al Khattab Road طريق الخليفة عمر بن الخطاب	secondary	1	0	0	
+SA	109223	Umar Ibn Harith Street	residential	1	0	0	
+SA	109223	Umm Kulthum Bint Uqbah Street	residential	1	0	0	
+SA	109223	Umm Mani Asma Bin Amr Road	secondary	1	0	0	
+SA	109223	Yusif Al Hamzani Street	residential	1	0	0	
+SA	109223	Yusif Al Mahrawani Street	residential	1	0	0	
+SA	109223	Ziyad Bin Labid Street	residential	1	0	0	
+SA	109223	الأمير مقرن بن عبد العزيز	tertiary	1	0	0	
+SA	109223	الامير عبدالمجيد بن عبدالعزيز	primary	1	0	0	Price Abdul Majeed Road
+SA	109223	البحيره	residential	1	0	0	
+SA	109223	الدائري الأول - طريق الملك فيصل	residential	1	0	0	First Ring Road (King Faisal Road)
+SA	109223	الهيثم بن ابي سنان	residential	1	0	0	Al-Haytham bin Abi Sinan Street
+SA	109223	جادة قباء	pedestrian	1	0	0	Quba Avenue
+SA	109223	شارع أبى عبيدة بن الجراح	residential	1	0	0	Abu Obaida Amer Bin Al-jaraah Street
+SA	109223	شارع أم سلمة بنت أبي أمية	unclassified	1	0	0	Umm Salamah bint Abi Umayya Street
+SA	109223	شارع أنس بن مالك	tertiary	1	0	0	Anas bin Malik Street
+SA	109223	شارع ابى سعيد الخدرى	residential	1	0	0	Abi Saeed Al Khudary Street
+SA	109223	شارع الإمام أحمد بن حنبل	secondary	1	0	0	Al Imam Ahmed Bin Hanbal Street
+SA	109223	شارع الحسن بن على	secondary	1	0	0	Al Hassan Ibn Ali Street
+SA	109223	شارع الحسين بن علي	tertiary	1	0	0	Al-Hussein Bin Ali Street
+SA	109223	شارع باب السلام	residential	1	0	0	Assalam Gate Street
+SA	109223	شارع جابر بن عبدالله	residential	1	0	0	Jabir Bin Abdullah Street
+SA	109223	شارع جعفر بن ابى طالب	residential	1	0	0	Jafar Ibn Abi Thalib Street
+SA	109223	شارع حاجب بن زرارة	residential	1	0	0	Hajib Ibn Zararah Street
+SA	109223	شارع حفصة بنت عمر	residential	1	0	0	Hafsa bint Omar Street
+SA	109223	شارع زيد بن حارثه	residential	1	0	0	Zaid Bin Harithah Street
+SA	109223	شارع سعد بن ابى وقاص	residential	1	0	0	Sa'ad Bin Abi Waqaas Street
+SA	109223	شارع سعد بن عباده	residential	1	0	0	Saad Bin Ubadah Street
+SA	109223	شارع سعد بن معاذ	residential	1	0	0	Sa'ad bin Mu'adh Street
+SA	109223	شارع سعيد بن زيد القرشي	tertiary	1	0	0	Saeed Bin Zaid Street
+SA	109223	شارع طلحه بن عبيدالله	residential	1	0	0	Abd Al-Rahman bin Awf Street
+SA	109223	شارع عبد الرحمن بن عبد الله	residential	1	0	0	
+SA	109223	شارع عبدالعزيز بن صالح	secondary	1	0	0	Abdulaziz Bin Saleh Street
+SA	109223	شارع عبدالله بن حرام	residential	1	0	0	Abdullah Bin Haram Street
+SA	109223	شارع عبدالله بن رواحة	residential	1	0	0	Abdulla Bin Rawaha Street
+SA	109223	شارع عمرو بن الجموح	residential	1	0	0	Amar Bin Al Jamuh Street
+SA	109223	شارع عمرو بن العاص	tertiary	1	0	0	
+SA	109223	شارع مخيريق	residential	1	0	0	Mkhiriq Street
+SA	109223	طريق -سيد الشهداء	primary	1	0	0	Sayid Ash-Shuhada Road
+SA	109223	طريق أم المؤمنين عائشة	tertiary	1	0	0	Sayyedah Al-Aisha Road
+SA	109223	طريق أمير المؤمنين عمر بن الخطاب رضي الله عنه	secondary	1	0	0	Amir Al Mo'menin Umar Bin Al Khattab Road
+SA	109223	طريق أمير المؤنين عمر بن الخطاب رضي الله عنه	secondary	1	0	0	
+SA	109223	طريق الأمير عبد المحسن	secondary	1	0	0	Prince Abdul Mohsen Road
+SA	109223	طريق الامير عبدالمحسن بن عبدالعزيز	primary	1	0	0	Prince Abdul Mohsen Road
+SA	109223	طريق الملك فهد	primary	1	0	0	King Fahd Road
+SA	109223	طريق الملك فيصل	tertiary	1	0	0	
+SA	109223	طريق سلطانة	primary	1	0	0	Sultana Road
+SA	109223	طريق علي ابن طالب	secondary	1	0	0	Ali Ibn Talib Road
+SA	109223	طريق قباء	secondary	1	0	0	Qaba Road
+SA	109253	شارع اسامة بن زيد	tertiary	1	0	0	
+SA	109253	شارع البحر الاحمر	residential	1	0	0	
+SA	109253	شارع المستشفى	residential	1	0	0	
+SA	109253	شارع الملك عبدالعزيز	tertiary	1	0	0	
+SA	109253	شارع الملك فيصل	tertiary	1	0	0	
+SA	109253	شارع عكرمة بن ابي جهل	tertiary	1	0	0	
+SA	109253	شارع عمرو بن العاص	secondary	1	0	0	Amro Bin Al Aas Street
+SA	109253	طريق الملك سلمان	tertiary	1	0	0	
+SA	109323	King Khalid Street	tertiary	4	7120	7158	
+SA	109323	Prince Faisal bin Fahed Road	primary	3	11	4790	
+SA	109323	Prince Turki Street	tertiary	3	1	6536	
+SA	109323	King Faisal Road		2	0	0	
+SA	109323	Makkah Al Mukarramah Street		2	8016	8016	
+SA	109323	حي الروابي طريق الملك فيصل		2	8422	8422	
+SA	109323	طريق الملك فيصل	primary	2	7284	8422	King Faisal Road
+SA	109323	10th St	residential	1	0	0	
+SA	109323	11th Street	residential	1	0	0	
+SA	109323	13th Street	residential	1	0	0	
+SA	109323	14th Street	residential	1	0	0	
+SA	109323	15th Street	residential	1	0	0	
+SA	109323	16th Street	residential	1	0	0	
+SA	109323	17th Street	residential	1	0	0	
+SA	109323	18th Street	residential	1	0	0	
+SA	109323	1st Street	residential	1	0	0	
+SA	109323	20th Street	tertiary	1	0	0	
+SA	109323	21 Street	residential	1	0	0	
+SA	109323	21th Street	residential	1	0	0	
+SA	109323	22 Street	residential	1	0	0	
+SA	109323	2nd Street	residential	1	0	0	
+SA	109323	2nd strret	residential	1	0	0	
+SA	109323	3rd Street	residential	1	0	0	
+SA	109323	4th Street	residential	1	0	0	
+SA	109323	5A street	residential	1	0	0	
+SA	109323	5th Street	residential	1	0	0	
+SA	109323	6th Street	residential	1	0	0	
+SA	109323	7th Street	tertiary	1	0	0	
+SA	109323	8th Street	residential	1	0	0	
+SA	109323	9th Street	residential	1	0	0	
+SA	109323	A Street	residential	1	0	0	
+SA	109323	Abdullah bin Al-Abbas Street	tertiary	1	0	0	
+SA	109323	Abdullah bin Omar Street	tertiary	1	0	0	
+SA	109323	Ahmad Bin Hanbal Street	residential	1	0	0	
+SA	109323	Al Hawtah	residential	1	0	0	
+SA	109323	Al Khobar Street	tertiary	1	0	0	
+SA	109323	Al Sail Al Kabeer Street	residential	1	0	0	
+SA	109323	Al-Quds Street	tertiary	1	0	0	
+SA	109323	AlQuds Street	tertiary	1	0	0	
+SA	109323	Alawali road	residential	1	0	0	
+SA	109323	Alnawawi street	residential	1	0	0	
+SA	109323	Bashar bin Bard Street	residential	1	0	0	
+SA	109323	Feras Al-Nadher Street	tertiary	1	0	0	
+SA	109323	Granada St	residential	1	0	0	
+SA	109323	King Abdullah Street	residential	1	0	0	
+SA	109323	King Faisal Street	residential	1	0	0	
+SA	109323	King Salman Stree	residential	1	0	0	
+SA	109323	King Salman Street	residential	1	0	0	
+SA	109323	King Saud Road	secondary	1	0	0	
+SA	109323	King Saud Street	residential	1	0	0	
+SA	109323	Mohammed Iqbal Street	tertiary	1	0	0	
+SA	109323	Musa Ibn An Nusayr	residential	1	0	0	
+SA	109323	Prince Abdulelah Street	residential	1	0	0	
+SA	109323	Prince Badr Street	residential	1	0	0	
+SA	109323	Prince Humud Street	tertiary	1	0	0	
+SA	109323	Prince Majid Street	residential	1	0	0	
+SA	109323	Prince Mansour Street	residential	1	0	0	
+SA	109323	Prince Misha'al Street	residential	1	0	0	
+SA	109323	Prince Mohammed Street	residential	1	0	0	
+SA	109323	Prince Musaid Street	residential	1	0	0	
+SA	109323	Prince Naif Street	residential	1	0	0	
+SA	109323	Prince Nasser Street	residential	1	0	0	
+SA	109323	Prince Nawaf Street	residential	1	0	0	
+SA	109323	Prince Saad Street	residential	1	0	0	
+SA	109323	Prince Sultan Street	residential	1	0	0	
+SA	109323	Prince Talal Street	residential	1	0	0	
+SA	109323	Prince Thamer Street	residential	1	0	0	
+SA	109323	Radisson Blu Access Lane	residential	1	0	0	
+SA	109323	Salahuddin Al-Ayoubi Street	tertiary	1	0	0	
+SA	109323	Street 3	residential	1	0	0	
+SA	109323	Tariq Bin Ziad Street	tertiary	1	0	0	
+SA	109323	Yazim Ibn Al Jarrah	residential	1	0	0	
+SA	109323	ali street	residential	1	0	0	
+SA	109323	dead end due to road barrier	residential	1	0	0	
+SA	109323	شارع أنس بن مالك	tertiary	1	0	0	Anas bin Malik Street
+SA	109323	شارع الامير بندر	tertiary	1	0	0	Prince Bandar Street
+SA	109323	شارع الحافظ الاموي	primary	1	0	0	
+SA	109323	شارع الرياض	secondary	1	0	0	Riyadh Street
+SA	109323	شارع الملك خالد	tertiary	1	0	0	King Khalid Street
+SA	109323	شارع الملك فهد	tertiary	1	0	0	King Fahd Street
+SA	109323	شارع حمد القصيبي	residential	1	0	0	Hamad Al Qusaybil Street
+SA	109323	شارع مكة المكرمة	secondary	1	0	0	Makkah Al Mukarramah Street
+SA	109323	طرق خادم الحرمين الشريفين	primary	1	0	0	Custodian of the Two Holly Mosques Road
+SA	109323	طريف الأمير فيصل بن فهد	primary	1	0	0	Prince Faisal Bin Fahd Rd
+SA	109323	طريق الأمير سلطان	primary	1	0	0	Prince Sultan Road
+SA	109323	طريق الملك سعود	primary	1	0	0	King Saud Road
+SA	109323	طريق الملك سلمان بن عبدالعزيز	primary	1	0	0	King Salman Bin Abdulaziz Road
+SA	109323	طريق الملك فهد الفرعي	secondary	1	0	0	King Fahd Rd EB
+SA	109323	طريق الملك فهد بن عبد العزيز	secondary	1	0	0	
+SA	109380	King Abdulaziz Street	tertiary	1	0	0	
+SA	109380	King Abdullah Rd	primary	1	0	0	
+SA	109380	King Faisal Rd	tertiary	1	0	0	
+SA	109380	King Khaled St	tertiary	1	0	0	
+SA	109380	Prince Naif Rd	tertiary	1	0	0	
+SA	109380	Prince Sultan Rd	tertiary	1	0	0	
+SA	109380	شارع 1 ج	residential	1	0	0	
+SA	109380	شارع 1 د	residential	1	0	0	
+SA	109380	شارع 16 ب	residential	1	0	0	
+SA	109380	شارع 1ب	residential	1	0	0	
+SA	109380	شارع 2	residential	1	0	0	
+SA	109380	شارع 2 ا	residential	1	0	0	
+SA	109380	شارع 2 ب	residential	1	0	0	
+SA	109380	شارع 20	residential	1	0	0	
+SA	109380	شارع 21	residential	1	0	0	
+SA	109380	شارع 23	residential	1	0	0	
+SA	109380	شارع 24	residential	1	0	0	
+SA	109380	شارع 25	residential	1	0	0	
+SA	109380	شارع 3	residential	1	0	0	
+SA	109380	شارع 5	residential	1	0	0	
+SA	109380	شارع 5 ب	residential	1	0	0	
+SA	109380	شارع 6	residential	1	0	0	
+SA	109380	شارع 7	residential	1	0	0	
+SA	109380	شارع 8	residential	1	0	0	
+SA	109380	شارع 8 ب	residential	1	0	0	
+SA	109380	شارع 9	residential	1	0	0	
+SA	109380	شارع ابن تيمية	tertiary	1	0	0	
+SA	109380	شارع ابوبكر الحنفي	residential	1	0	0	
+SA	109380	شارع ابي بشير الانصاري	residential	1	0	0	
+SA	109380	شارع الأمير طلال بن عبدالعزيز	residential	1	0	0	
+SA	109380	شارع الابتكار	residential	1	0	0	
+SA	109380	شارع الامير احمد بن عبد العزيز	tertiary	1	0	0	
+SA	109380	شارع البحتري	tertiary	1	0	0	
+SA	109380	شارع الجنادرية	tertiary	1	0	0	
+SA	109380	شارع الجوزي	residential	1	0	0	
+SA	109380	شارع الحجاز	tertiary	1	0	0	
+SA	109380	شارع الحسن البصري	tertiary	1	0	0	
+SA	109380	شارع الرازي	tertiary	1	0	0	
+SA	109380	شارع الرياض	tertiary	1	0	0	
+SA	109380	شارع الزراعة	residential	1	0	0	
+SA	109380	شارع الصادق	residential	1	0	0	
+SA	109380	شارع الصخرة	residential	1	0	0	
+SA	109380	شارع الصدفة	residential	1	0	0	
+SA	109380	شارع الصياد	residential	1	0	0	
+SA	109380	شارع الطبيعة	residential	1	0	0	
+SA	109380	شارع العدل	residential	1	0	0	
+SA	109380	شارع العفاف	residential	1	0	0	
+SA	109380	شارع العقير	residential	1	0	0	
+SA	109380	شارع الغواصات	residential	1	0	0	
+SA	109380	شارع الفرزدق	tertiary	1	0	0	
+SA	109380	شارع الفضول	residential	1	0	0	
+SA	109380	شارع القدوة	residential	1	0	0	
+SA	109380	شارع المحار	residential	1	0	0	
+SA	109380	شارع المعراج	residential	1	0	0	
+SA	109380	شارع المنتدى	residential	1	0	0	
+SA	109380	شارع النووي	tertiary	1	0	0	
+SA	109380	شارع ايمن بن المعلي	residential	1	0	0	
+SA	109380	شارع عمرو بن العاص	tertiary	1	0	0	
+SA	109380	شارع عمرو بن ربيعة	residential	1	0	0	
+SA	109380	شارع كعب الاحباري	residential	1	0	0	
+SA	109380	طريق الملك عبدالله	primary	1	0	0	
+SA	109391	طريق الملك عبدالله	secondary	1	0	0	King Abdullah Road
+SA	109417	طريق الملك فيصل	secondary	1	0	0	King Faisal Road
+SA	109435	شارع الأصدقاء	residential	2	6	10	Al Asdiqa'a St
+SA	109435	5th Street	residential	1	0	0	
+SA	109435	Abu Hasan Bin Al Jawzi street	unclassified	1	0	0	
+SA	109435	Al Madinah street round about	primary	1	0	0	
+SA	109435	Exit 5	secondary	1	0	0	
+SA	109435	Highway 121	secondary	1	0	0	
+SA	109435	Highway 218	primary	1	0	0	
+SA	109435	Ibn Majed Street	residential	1	0	0	
+SA	109435	Jeddah Street	secondary	1	0	0	
+SA	109435	Jeddah Street (Road 274)	secondary	1	0	0	
+SA	109435	King Abdul Aziz street	primary	1	0	0	
+SA	109435	Madeena Street	secondary	1	0	0	
+SA	109435	Mina port round about	secondary	1	0	0	
+SA	109435	Road 113	secondary	1	0	0	
+SA	109435	Road 143	unclassified	1	0	0	
+SA	109435	Road 162	secondary	1	0	0	
+SA	109435	Road 163	unclassified	1	0	0	
+SA	109435	Road 183	unclassified	1	0	0	
+SA	109435	Road 184	unclassified	1	0	0	
+SA	109435	Road 195	secondary	1	0	0	
+SA	109435	Road 204	unclassified	1	0	0	
+SA	109435	Road 218	primary	1	0	0	
+SA	109435	Road 230	secondary	1	0	0	
+SA	109435	Road 241	secondary	1	0	0	
+SA	109435	Road 251	secondary	1	0	0	
+SA	109435	Road 261	secondary	1	0	0	
+SA	109435	Road 265	secondary	1	0	0	
+SA	109435	Road 272	secondary	1	0	0	
+SA	109435	Road 274 to Jeddah Street	secondary	1	0	0	
+SA	109435	To Royal Commission	secondary	1	0	0	
+SA	109435	jeddah Street	secondary	1	0	0	
+SA	109435	king Faisal northern street	secondary	1	0	0	
+SA	109435	u-turn slot	secondary	1	0	0	
+SA	109435	شارع 1	residential	1	0	0	
+SA	109435	شارع 2	residential	1	0	0	
+SA	109435	شارع 3 أ	residential	1	0	0	
+SA	109435	شارع 3ب	residential	1	0	0	3B Street
+SA	109435	شارع 4	residential	1	0	0	Street 4
+SA	109435	شارع ابن ماجه	residential	1	0	0	
+SA	109435	شارع الأثير	residential	1	0	0	Al Atheer St.
+SA	109435	شارع الأطلال	residential	1	0	0	
+SA	109435	شارع الأفراح	residential	1	0	0	
+SA	109435	شارع الأمواج	residential	1	0	0	Al Amwaj St.
+SA	109435	شارع الأمير سعود بن ثنيان آل سعود	unclassified	1	0	0	
+SA	109435	شارع الأمير سعود بن عبدالله بن جلوي الفرعي	secondary	1	0	0	
+SA	109435	شارع الأمير متعب بن عبدالله	unclassified	1	0	0	
+SA	109435	شارع الأمير محمد بن فهد بن عبدالعزيز	secondary	1	0	0	
+SA	109435	شارع الأوائل	residential	1	0	0	Al Awae'el St.
+SA	109435	شارع الإزدهار	residential	1	0	0	
+SA	109435	شارع الإعتدال	residential	1	0	0	Al Etidal St.
+SA	109435	شارع الإنشراح	residential	1	0	0	Al Enshirah St.
+SA	109435	شارع البساتين	residential	1	0	0	
+SA	109435	شارع الدفاع	residential	1	0	0	
+SA	109435	شارع السراج	residential	1	0	0	
+SA	109435	شارع العوالي	residential	1	0	0	
+SA	109435	شارع الملك فيصل	secondary	1	0	0	King Faisal street
+SA	109435	شارع الملك فيصل الشرقي	secondary	1	0	0	
+SA	109435	شارع النقاء	residential	1	0	0	
+SA	109435	شارع النور	residential	1	0	0	
+SA	109435	شارع الهدى	residential	1	0	0	
+SA	109435	شارع الوقار	residential	1	0	0	
+SA	109435	طريق الملك عبدالله	secondary	1	0	0	King Abdullah Road
+SA	109435	طريق الملك فيصل	secondary	1	0	0	King Faisal Road
+SA	109435	طريق الملك فيصل الغربي	residential	1	0	0	
+SA	109436	شارع الجبيل	tertiary	1	0	0	
+SA	109436	شارع الجبيل العام	tertiary	1	0	0	
+SA	109436	طريق حي الزهراء	residential	1	0	0	
+SA	109436	طريق دوار سلطانة	tertiary	1	0	0	
+SA	109481	طريق المضايا - الجروب- الدغارير	secondary	1	0	0	
+SA	109481	طريق المضايا - ديحمة- الحضرور	secondary	1	0	0	
+SA	109571	الامير سعود بن جلوي		6	5194	8046	
+SA	109571	الرياض		5	2405	3642	
+SA	109571	طريق الرياض		4	3072	3430	
+SA	109571	شارع أبو الفداء	residential	1	0	0	Abo Al Fdaa Street
+SA	109571	شارع أبو بكر الصديق	tertiary	1	0	0	
+SA	109571	شارع أبو ريالين	residential	1	0	0	
+SA	109571	شارع أدهم بن حظره	residential	1	0	0	
+SA	109571	شارع ابن الطاهري	residential	1	0	0	Ibn Al Tahry Street
+SA	109571	شارع ابن سينا	tertiary	1	0	0	Ibn Sina St
+SA	109571	شارع احمد بن الفرات	residential	1	0	0	Ahmed Bin Al Forat Street
+SA	109571	شارع الأحنف بن قيس	residential	1	0	0	Al Ahnaf Bin Qais Street
+SA	109571	شارع الأمير سعود بن جلوي	tertiary	1	0	0	Prince Saud Bin Jalawi Street
+SA	109571	شارع الأمير عبدالله بن جلوي	tertiary	1	0	0	Prince Abdullah Bin Jalawi Street
+SA	109571	شارع الأمير محمد بن فهدوبن جاوي	tertiary	1	0	0	Prince Mohammed Bin Fahad Bin Jalawi Street
+SA	109571	شارع الأمير مشهور بن عبدلعزيز	residential	1	0	0	Prince Mashhur Bin Abdulaziz Street
+SA	109571	شارع الأمير نايف	tertiary	1	0	0	Prince Naif Street
+SA	109571	شارع الأمير هذلول بن عبدالعزيز	tertiary	1	0	0	Prince Abdulaziz bin Hzlol Street
+SA	109571	شارع الاحقاب	residential	1	0	0	
+SA	109571	شارع الاراك	residential	1	0	0	
+SA	109571	شارع الامير سلطان	tertiary	1	0	0	
+SA	109571	شارع الترباد	residential	1	0	0	
+SA	109571	شارع التربية	residential	1	0	0	Al Trbiah Street
+SA	109571	شارع الجابريه	residential	1	0	0	Al Jabriah Street
+SA	109571	شارع الشيخ عبد الله بن عبد اللطيف آل شيخ	residential	1	0	0	Al Shaikh Abduallah Bin Abdulallatif Al Shaikh Street
+SA	109571	شارع العباس الكندي	residential	1	0	0	Al Abbas Al Knady Street
+SA	109571	شارع العباس بن حاتم	residential	1	0	0	Al A'bbas Bin Hatem Street
+SA	109571	شارع الكاتب	residential	1	0	0	Al Kateb Street
+SA	109571	شارع ثابت الثمالي	residential	1	0	0	
+SA	109571	شارع جهم الأسلمي	residential	1	0	0	
+SA	109571	شارع حسام الملك	residential	1	0	0	Hosam Al Malik Street
+SA	109571	شارع زياد الأعجم	residential	1	0	0	Zeyad Al A'jam Street
+SA	109571	شارع زيد الخير	residential	1	0	0	Zayd Al Khair Street
+SA	109571	شارع زيد بن اسامه	residential	1	0	0	Zayd Bin Osamah Street
+SA	109571	شارع سليمان الانصاري	residential	1	0	0	
+SA	109571	شارع شرحبيل بن حسنه	residential	1	0	0	Sharhabil Bin Hsnah Street
+SA	109571	شارع صفوان	residential	1	0	0	
+SA	109571	شارع صيدون	residential	1	0	0	
+SA	109571	شارع ضرار بن أزور	residential	1	0	0	
+SA	109571	شارع علي بن الحكم السلمي	residential	1	0	0	Ali Bin Al Hakam Al Salamy Street
+SA	109571	شارع غالب بن فهر	residential	1	0	0	
+SA	109571	شارع قتادة بن الحارث	residential	1	0	0	
+SA	109571	شارع كرمان	residential	1	0	0	
+SA	109571	شارع معتوق الغزالي	residential	1	0	0	Ma'toq Al Gazaly Street
+SA	109571	شارع موسى بن نصير	tertiary	1	0	0	Mousa Bin Nysair Street
+SA	109571	شارع يوسف الداودي	residential	1	0	0	Yosef Al Dowody Street
+SA	109571	طريق أبوبكر الصديق رضي الله عنه	residential	1	0	0	
+SA	109571	طريق الأمير سعود بن جلوي	tertiary	1	0	0	Prince Saud Bin Jilowy Road
+SA	109571	طريق الأمير سلطان بن عبدالعزيز	primary	1	0	0	
+SA	109571	طريق الأمير فيصل بن فهد	secondary	1	0	0	Prince Faisal Bin Fahad Road
+SA	109571	طريق الأمير محمد بن عبدالعزيز	tertiary	1	0	0	
+SA	109571	طريق الأمير نايف بن عبدالعزيز	tertiary	1	0	0	Prince Naif Bbin Abdulaziz Road
+SA	109571	طريق العقير	primary	1	0	0	Al Ugair Road
+SA	109571	طريق الملك عبدالعزيز	unclassified	1	0	0	King Abdulaziz Road
+SA	109571	طريق الملك فهد	primary	1	0	0	King Fahad Road
+SA	109571	طريق عين نجم	secondary	1	0	0	Ain Najm Street
+SA	109571	ميدان عين نجم	tertiary	1	0	0	Ain Najm Square
+SA	109878	شارع	tertiary	1	0	0	
+SA	109878	شارع الامام ابن تيمية	residential	1	0	0	
+SA	109878	شارع الاندلس	residential	1	0	0	
+SA	109878	شارع السوق التجاري	tertiary	1	0	0	
+SA	109878	صلاح الدين الايوبي	residential	1	0	0	
+SA	109878	طريق الأمير مقرن بن عبدالعزيز	tertiary	1	0	0	
+SA	109878	طريق الامير سلطان	secondary	1	0	0	
+SA	109878	طريق الملك خالد	secondary	1	0	0	
+SA	109878	طريق الملك سعود	residential	1	0	0	
+SA	109878	طريق الملك عبد العزيز	primary	1	0	0	King Abdulaziz Road
+SA	109878	طريق الملك عبدالعزيز	primary	1	0	0	
+SA	109878	طريق الملك عبدالله	secondary	1	0	0	King Abdullah Road
+SA	109878	طريق الملك فيصل	tertiary	1	0	0	
+SA	109878	طريق خدمة	residential	1	0	0	
+SA	109878	طريق عبدالرحمن العواد	secondary	1	0	0	
+SA	109953	دوار الملك فهد	primary	1	0	0	
+SA	109953	شارع الشيخ سعود السديري	tertiary	1	0	0	
+SA	109953	طريق الأمير محمد بن سعود	tertiary	1	0	0	
+SA	109953	طريق الأمير نايف بن عبدالعزيز	tertiary	1	0	0	
+SA	109953	طريق الملك خالد	tertiary	1	0	0	
+SA	109953	طريق الملك سعود	tertiary	1	0	0	
+SA	109953	طريق الملك عبدالله	secondary	1	0	0	
+SA	109953	طريق الملك عبدالله بن عبدالعزيز	secondary	1	0	0	
+SA	109953	طريق الملك فهد	primary	1	0	0	
+SA	109953	طريق الملك فيصل	secondary	1	0	0	
+SA	109998	طريق الإمام علي بن أبي طالب	tertiary	1	0	0	
+SA	109998	طريق المطار	primary	1	0	0	Airport Road
+SA	110107	شارع الأوجام العام	tertiary	1	0	0	
+SA	110107	شارع زيد بن أسامة	tertiary	1	0	0	
+SA	110107	شارع مهدي بن ميمون	tertiary	1	0	0	
+SA	110107	طريق أحد	primary	1	0	0	
+SA	110107	طريق الظهران الجبيل الفرعي	primary	1	0	0	Dhahran Jubail Branch road
+SA	110107	طريق المطار	primary	1	0	0	Airport Road
+SA	110250	شارع المعارض	tertiary	1	0	0	
+SA	110250	طريق المطار	secondary	1	0	0	
+SA	110250	طريق الملك سلمان	secondary	1	0	0	
+SA	110250	طريق الملك عبد العزيز	secondary	1	0	0	
+SA	110250	طريق الملك فيصل	secondary	1	0	0	
+SA	110250	طريق ضرية عفيف	primary	1	0	0	
+SA	110275	طريق المدينة المنورة القديم	primary	1	0	0	Old Medina Road
+SA	110312	الإمام عبدالله بن سعود	residential	20	7830	8152	Al Imam Abdullah Bin Saud
+SA	110312	أسامة بن زيد	residential	18	7836	8099	Usama Bin Zaid
+SA	110312	الإمام تركي بن عبدالله	tertiary	8	3582	8041	Al Imam Turkey Bin Abdullah St
+SA	110312	Hitteen Dist.		2	2211	2211	
+SA	110312	الملك فهد	tertiary	2	8241	8263	King Fahad Rd
+SA	110312	سعد بن عبادة	residential	2	8248	8270	Saad Bin Obaida
+SA	110312	مانع المريدي	residential	2	7853	8216	Manea Al Mreidi
+SA	110312	1 St	pedestrian	1	0	0	
+SA	110312	2 St	pedestrian	1	0	0	
+SA	110312	Abdul Aziz Ibn Suwailim	residential	1	0	0	
+SA	110312	Abdulhassein Albaqmi	residential	1	0	0	
+SA	110312	Abdullah Bin Omar	residential	1	0	0	
+SA	110312	Al Ashqar	tertiary	1	0	0	
+SA	110312	Al Athar	unclassified	1	0	0	
+SA	110312	Al Athkhar	residential	1	0	0	
+SA	110312	Al Atraf	residential	1	0	0	
+SA	110312	Al Behqi	living_street	1	0	0	
+SA	110312	Al Halat	living_street	1	0	0	
+SA	110312	Al Jasar	tertiary	1	0	0	
+SA	110312	Al Kifah	residential	1	0	0	
+SA	110312	Al Madarat	residential	1	0	0	
+SA	110312	Al Mahalah	tertiary	1	0	0	
+SA	110312	Al Majd	residential	1	0	0	
+SA	110312	Al Maktabah	residential	1	0	0	
+SA	110312	Al Marabie	tertiary	1	0	0	
+SA	110312	Al Marwa	residential	1	0	0	
+SA	110312	Al Moshtari	residential	1	0	0	
+SA	110312	Al Nasser	tertiary	1	0	0	
+SA	110312	Al Oad	tertiary	1	0	0	
+SA	110312	Al Qartalbi	living_street	1	0	0	
+SA	110312	Al Qoweiya	residential	1	0	0	
+SA	110312	Al Rushda	residential	1	0	0	
+SA	110312	Al Shaikh Abdulrahman Ibn Hassan	living_street	1	0	0	
+SA	110312	Al Shaikh Salah Bin Ghswan	living_street	1	0	0	
+SA	110312	Al Thibiani Mountain	residential	1	0	0	
+SA	110312	Al Tirmizi	residential	1	0	0	
+SA	110312	Al Zaher	residential	1	0	0	
+SA	110312	Al-Firdous	living_street	1	0	0	
+SA	110312	Alemam Mohamed Bin Masoud	tertiary	1	0	0	
+SA	110312	As Sunbul	residential	1	0	0	
+SA	110312	Asia	tertiary	1	0	0	
+SA	110312	Bilal Bin Rabah	residential	1	0	0	
+SA	110312	Hidaa Valley	residential	1	0	0	
+SA	110312	Ibn Ateeq	residential	1	0	0	
+SA	110312	Ibn Kaseer	residential	1	0	0	
+SA	110312	Ibn Majah	living_street	1	0	0	
+SA	110312	Kada	residential	1	0	0	
+SA	110312	Karachi	residential	1	0	0	
+SA	110312	Karkouk	residential	1	0	0	
+SA	110312	Kinana	residential	1	0	0	
+SA	110312	Kinda	tertiary	1	0	0	
+SA	110312	Koalalampour	living_street	1	0	0	
+SA	110312	Koukab	tertiary	1	0	0	
+SA	110312	Lazmah	tertiary	1	0	0	
+SA	110312	Lina	residential	1	0	0	
+SA	110312	Loqman	residential	1	0	0	
+SA	110312	Mahayeda	residential	1	0	0	
+SA	110312	Mahayel	residential	1	0	0	
+SA	110312	Mahbouba	residential	1	0	0	
+SA	110312	Mahda	residential	1	0	0	
+SA	110312	Masacfi	residential	1	0	0	
+SA	110312	Mashraq	residential	1	0	0	
+SA	110312	Masiama	residential	1	0	0	
+SA	110312	Mastoura	residential	1	0	0	
+SA	110312	Meshref	residential	1	0	0	
+SA	110312	Missan	residential	1	0	0	
+SA	110312	Mo'Ta	residential	1	0	0	
+SA	110312	Mohammed Ali Alqahtany	residential	1	0	0	
+SA	110312	Nawar Valley	residential	1	0	0	
+SA	110312	No 13	residential	1	0	0	
+SA	110312	No. 1	residential	1	0	0	
+SA	110312	No. 10	residential	1	0	0	
+SA	110312	No. 100	residential	1	0	0	
+SA	110312	No. 101	residential	1	0	0	
+SA	110312	No. 102	living_street	1	0	0	
+SA	110312	No. 103	living_street	1	0	0	
+SA	110312	No. 104	living_street	1	0	0	
+SA	110312	No. 105	living_street	1	0	0	
+SA	110312	No. 106	living_street	1	0	0	
+SA	110312	No. 107	living_street	1	0	0	
+SA	110312	No. 108	living_street	1	0	0	
+SA	110312	No. 109	living_street	1	0	0	
+SA	110312	No. 110	living_street	1	0	0	
+SA	110312	No. 111	residential	1	0	0	
+SA	110312	No. 112	living_street	1	0	0	
+SA	110312	No. 113	residential	1	0	0	
+SA	110312	No. 114	living_street	1	0	0	
+SA	110312	No. 115	living_street	1	0	0	
+SA	110312	No. 116	living_street	1	0	0	
+SA	110312	No. 117	living_street	1	0	0	
+SA	110312	No. 118	living_street	1	0	0	
+SA	110312	No. 119	living_street	1	0	0	
+SA	110312	No. 12	residential	1	0	0	
+SA	110312	No. 120	living_street	1	0	0	
+SA	110312	No. 121	living_street	1	0	0	
+SA	110312	No. 122	living_street	1	0	0	
+SA	110312	No. 123	residential	1	0	0	
+SA	110312	No. 124	living_street	1	0	0	
+SA	110312	No. 125	residential	1	0	0	
+SA	110312	No. 126	living_street	1	0	0	
+SA	110314	prayer ground	pedestrian	1	0	0	
+SA	110314	الأمير سلمان بن محمد آل سعود	secondary	1	0	0	
+SA	110314	شارع الثلاثين	secondary	1	0	0	
+SA	110325	King Abdullah Bin Abdulaziz Road	secondary	1	0	0	
+SA	110325	King Abdullah Bin Abdulaziz Road1	secondary	1	0	0	
+SA	110336	طريق الخليج	primary	4	2614	3685	Al Khaleej Road
+SA	110336	ابو الدرداء		3	3615	7905	
+SA	110336	شارع الملك سعود بن عبدالعزيز	primary	3	2563	9403	King Saud St
+SA	110336	طريق الملك فهد		3	568	3276	
+SA	110336	Al Ashreah	tertiary	2	96	5103	
+SA	110336	10H Street	residential	1	0	0	
+SA	110336	10a Street	residential	1	0	0	
+SA	110336	10b Street	residential	1	0	0	
+SA	110336	11th	secondary	1	0	0	
+SA	110336	14a Street	residential	1	0	0	
+SA	110336	15 Street	residential	1	0	0	
+SA	110336	15th st	residential	1	0	0	
+SA	110336	18B	residential	1	0	0	
+SA	110336	18th Street	tertiary	1	0	0	
+SA	110336	28th Street	primary	1	0	0	
+SA	110336	613	primary	1	0	0	
+SA	110336	7a Street	residential	1	0	0	
+SA	110336	8c Street	residential	1	0	0	
+SA	110336	Abu Jehad Alansari	residential	1	0	0	
+SA	110336	Abu Mansur As Sam'ani	residential	1	0	0	
+SA	110336	Al Aqiq Street	residential	1	0	0	
+SA	110336	Al Hufuf	residential	1	0	0	
+SA	110336	Al Kaurnish Road	tertiary	1	0	0	
+SA	110336	Al Khaleej Road	secondary	1	0	0	
+SA	110336	Al Zwawi Street	residential	1	0	0	
+SA	110336	Ali Al Qattan Street	residential	1	0	0	
+SA	110336	Ali Ibn Abi Taleb Street	tertiary	1	0	0	
+SA	110336	Ammar Ibn Yassir	tertiary	1	0	0	
+SA	110336	D8	residential	1	0	0	
+SA	110336	Dhahran Jubail Branch Rd	primary	1	0	0	
+SA	110336	Halima Al-Sadiyah Street	tertiary	1	0	0	
+SA	110336	Jabir Ibn Yassin Street	residential	1	0	0	
+SA	110336	King Abdul Aziz Street	tertiary	1	0	0	
+SA	110336	King Faisal Street	residential	1	0	0	
+SA	110336	King Saud Street	tertiary	1	0	0	
+SA	110336	Murjan St.	tertiary	1	0	0	
+SA	110336	Prince Mohammed Bin Fahd Road	tertiary	1	0	0	
+SA	110336	SRO: Checkpoint and entrance for all vehicles	residential	1	0	0	
+SA	110336	Saad Ibn Abi Waqqas St.	tertiary	1	0	0	
+SA	110336	Safwan Street	residential	1	0	0	
+SA	110336	Sibawih Street	residential	1	0	0	
+SA	110336	Street 10	residential	1	0	0	
+SA	110336	Street 8	residential	1	0	0	
+SA	110336	Sulaiman Ibn Al Athir Street	residential	1	0	0	
+SA	110336	Umar Ibn Abdul Aziz Street	secondary	1	0	0	
+SA	110336	fatma alzahra street	tertiary	1	0	0	
+SA	110336	المحار	tertiary	1	0	0	almahar
+SA	110336	حيان بن المنذر	tertiary	1	0	0	
+SA	110336	دوار الاشرعة	primary	1	0	0	Al Ashriah Roundabout
+SA	110336	شارع 10	residential	1	0	0	Street 10
+SA	110336	شارع 11	tertiary	1	0	0	11th Street
+SA	110336	شارع 11أ	residential	1	0	0	
+SA	110336	شارع 12	tertiary	1	0	0	Street 12
+SA	110336	شارع 12أ	residential	1	0	0	
+SA	110336	شارع 13أ	residential	1	0	0	
+SA	110336	شارع 14	residential	1	0	0	Street 14
+SA	110336	شارع 14أ	residential	1	0	0	
+SA	110336	شارع 16أ	residential	1	0	0	
+SA	110336	شارع 17	residential	1	0	0	Street 17
+SA	110336	شارع 17أ	residential	1	0	0	
+SA	110336	شارع 28	primary	1	0	0	Street 28
+SA	110336	شارع 7	residential	1	0	0	Street 7
+SA	110336	شارع 8	residential	1	0	0	Street 8
+SA	110336	شارع 9	tertiary	1	0	0	9th Street
+SA	110336	شارع أبان بن سعيد بن العاص	residential	1	0	0	
+SA	110336	شارع أبو أيوب اليمامي	residential	1	0	0	
+SA	110336	شارع أبو القاسم البنا	unclassified	1	0	0	Abo Al Gasem Al Banna
+SA	110336	شارع أبو حفص بن برد	secondary	1	0	0	
+SA	110336	شارع أبو راشد الازدي	residential	1	0	0	
+SA	110336	شارع ابو ريحان القرنى	residential	1	0	0	
+SA	110336	شارع الأشرعة	tertiary	1	0	0	Al Ashreah
+SA	110336	شارع الأمير عبدالمحسن بن جلوي	residential	1	0	0	Prince Abdulmohsin Bin Jlawy Street
+SA	110336	شارع الأمير متعب	primary	1	0	0	
+SA	110336	شارع الإمام محمد بن عبدالوهاب	secondary	1	0	0	alley Imam Muhammad Ibn Abd Al-Wahab street
+SA	110336	شارع القاسم الجوهري	residential	1	0	0	AlQasim AlJawhary Street
+SA	110336	شارع الملك خالد	primary	1	0	0	
+SA	110336	شارع الياقوت	tertiary	1	0	0	yaqoot street
+SA	110336	شارع بكر بن حزام	residential	1	0	0	Baker Bin Hezam St.
+SA	110336	شارع ربيعة بن قيس	residential	1	0	0	
+SA	110336	شارع سلمان الفارسي	tertiary	1	0	0	Salman Al Farisi St.
+SA	110336	شارع طارق الأنصاري	tertiary	1	0	0	
+SA	110336	شارع عثمان بن عفان	primary	1	0	0	Othman Bin Affan Street
+SA	110336	شارع عثمان بن عفان الفرعي	secondary	1	0	0	Othman Bin Affan Street
+SA	110336	شارع عمر بن الخطاب	primary	1	0	0	Omar Ibn Al Khatteb Street
+SA	110336	شارع عمر بن عبد العزيز	secondary	1	0	0	Umar Ibn Abdul Aziz Street
+SA	110336	شارع نجد	tertiary	1	0	0	
+SA	110336	طريق الأمير محمد بن فهد	tertiary	1	0	0	Prince Mohammed Bin Fahd Road
+SA	110336	طريق الأمير نايف بن عبدالعزيز	primary	1	0	0	Prince Naif Road
+SA	110336	طريق الإمام محمد بن سعود	secondary	1	0	0	
+SA	110336	طريق القاعدة	secondary	1	0	0	
+SA	110336	طريق الملك فهد الفرعي	secondary	1	0	0	King Fahd Branch Rd
+SA	110336	عبدالرحمن بن حارث	residential	1	0	0	
+SA	110336	معاذ بن الجموح	residential	1	0	0	
+SA	110619	الامير محمد بن ناصر	secondary	1	0	0	Prince Muhammad bin Nasser
+SA	110619	الحسن بن الهيثم	secondary	1	0	0	Al Hassan Bin Al Haitham St
+SA	110619	الشيخ عبد العزيز بن باز	tertiary	1	0	0	Al Shaikh Abdulaziz Bin Baz
+SA	110619	القنوات	secondary	1	0	0	Alqanawat
+SA	110619	الملك سعود	tertiary	1	0	0	King Saud
+SA	110619	الملك سلمان	residential	1	0	0	king Salman
+SA	110619	شارع ابو بكر الصديق	secondary	1	0	0	Abu Bakr Al Siddiq St
+SA	110619	شارع الأمير ناصر بن عبد العزيز	tertiary	1	0	0	Prince Nasser Ibn Abdulaziz St
+SA	110619	شارع الملك خالد	secondary	1	0	0	King Khalid St
+SA	110619	شارع الملك عبدالعزيز	tertiary	1	0	0	King Abdulaziz St
+SA	110619	شارع الملك فيصل	tertiary	1	0	0	King Faisal Street
+SA	110619	شارع جرير	tertiary	1	0	0	Jarir St
+SA	110619	شارع خالد بن الوليد	tertiary	1	0	0	Khalid Ibn Alwalid St
+SA	110619	شارع دار النصر	tertiary	1	0	0	Dar Annasr St
+SA	110619	طارق بن زياد	primary	1	0	0	Tariq bin Ziyad
+SA	110619	طريق الملك عبدالله	primary	1	0	0	King Abdullah Rd.
+SA	110619	علي ابن ابي طالب	tertiary	1	0	0	Ali Ibn Abi Talib
+SA	110619	عمر بن الخطاب	tertiary	1	0	0	Omar bin al-khattab
+SA	110619	قنبورة	residential	1	0	0	
+SA	110619	نايف بن عبدالعزيز	tertiary	1	0	0	Nayef bin Abdulaziz
+SA	110690	king fisal road	tertiary	1	0	0	
+SA	110690	الرياض	tertiary	1	0	0	
+SA	110690	جسر القابل	pedestrian	1	0	0	
+SA	110690	شارع حمعان بن عبدالله ال سلطان	residential	1	0	0	Jamaan bin Abdullah Al Sultan Rd
+SA	110690	طريق الامام عبد الرحمن بن فيصل بن تركي	tertiary	1	0	0	
+SA	110690	طريق السودة	primary	1	0	0	
+SA	110690	طريق الملك خالد	tertiary	1	0	0	
+SA	110690	طريق الملك فيصل	tertiary	1	0	0	King Faisal Road
+SA	110690	عمر بن الخطاب	tertiary	1	0	0	Umar Ibn Abdulaziz
+SA	395628	أبو سديرة	residential	1	0	0	
+SA	395628	شارع الملعب	living_street	1	0	0	
+SA	395628	طريق الملك عبدالعزيز	secondary	1	0	0	
+SA	395628	فيضة أبان الأحمر	residential	1	0	0	
+SA	395628	وادي النخيل	secondary	1	0	0	
+SA	396550	شارع أبو امامة الباهلي	residential	1	0	0	
+SA	396550	شارع أبو ذر الغفاري	residential	1	0	0	
+SA	396550	شارع أبوبكر الصديق	tertiary	1	0	0	
+SA	396550	شارع أبوجعفر المنصور	residential	1	0	0	
+SA	396550	شارع أبوحذيفة بن الزبير	residential	1	0	0	
+SA	396550	شارع أبوداود	residential	1	0	0	
+SA	396550	شارع أبوعبيدة بن الجراح	residential	1	0	0	
+SA	396550	شارع أبوموسى الأنصاري	residential	1	0	0	
+SA	396550	شارع أبوهريرة	residential	1	0	0	
+SA	396550	شارع أبي بن كعب بن قيس	residential	1	0	0	
+SA	396550	شارع أبيض بن أسود	residential	1	0	0	
+SA	396550	شارع أبيض بن هني بن معاوية	residential	1	0	0	
+SA	396550	شارع أحيحة بن امية بن خلف	residential	1	0	0	
+SA	396550	شارع أسامة بن زيد	residential	1	0	0	
+SA	396550	شارع أسد بن خويلد	residential	1	0	0	
+SA	396550	شارع أسد مولي رسول الله	residential	1	0	0	
+SA	396550	شارع أسماء بن خالد بن عوف البارقي	residential	1	0	0	
+SA	396550	شارع أسماء بن ربان بن معاوية	residential	1	0	0	
+SA	396550	شارع أسماء بنت أبي بكر الصديق	residential	1	0	0	
+SA	396550	شارع أم سلمة	residential	1	0	0	
+SA	396550	شارع أم عمارة	residential	1	0	0	
+SA	396550	شارع أنس بن مالك	residential	1	0	0	
+SA	396550	شارع أوس بن ثابت	tertiary	1	0	0	
+SA	396550	شارع إبراهيم بن عباد بن اساف	residential	1	0	0	
+SA	397513	الفويلق - ساق	secondary	1	0	0	Alfweleg - Sag St
+SA	397513	حنظلة بن أبي حنظلة الأنصاري	residential	1	0	0	Handhalah Ibn Abi Handhalah Alansari
+SA	397513	شارع آدم بن ربيعة	residential	1	0	0	Adam Ibn Rabeeah Street
+SA	397513	شارع آمنة بنت سعد	residential	1	0	0	Amenah Bent Sad Street
+SA	397513	شارع آمنة بنت قيس	residential	1	0	0	Amenh Bint Gayes Street
+SA	397513	شارع أبو أمامة الأنصاري	residential	1	0	0	Abo Omamah Alansari Street
+SA	397513	شارع أبو العاص بن ربيع	residential	1	0	0	Abo Alaas Ibn Rabee Street
+SA	397513	شارع أبو جعفر القرشي	residential	1	0	0	Abo Jafar Algorashi Street
+SA	397513	شارع أبو جندل	residential	1	0	0	Abo Jandal Street
+SA	397513	شارع أبو خيثمة	residential	1	0	0	Abo Khaythamah Street
+SA	397513	شارع أبو سفيان بن حرب	residential	1	0	0	Abo Sofyan Ibn Harb Street
+SA	397513	شارع أبو عبيد بن مسعود الثقفي	residential	1	0	0	Abo Obayed Ibn Masoud Athagafi Street
+SA	397513	شارع أبو عبيدة بن الجراح	tertiary	1	0	0	Abo Obayedah Ibn Aljarrah Street
+SA	397513	شارع أبو عبيدة بن الحارث	residential	1	0	0	Abo Obaydah Ibn Alhareth Street
+SA	397513	شارع أبو قتادة الأنصاري	residential	1	0	0	Abo Gatadah Alansari Street
+SA	397513	شارع أبو واقد الليثي	residential	1	0	0	Abo waged Alaythi Street
+SA	397513	شارع أبو يحي بن صهيب	residential	1	0	0	Abo Yahya Ibn Sohayb Street
+SA	397513	شارع أبي بكر الصديق	residential	1	0	0	Abi Bakr Asseddeeg Street
+SA	397513	شارع أبي بكر بن أبي الدنيا	residential	1	0	0	Abi Bakr Ibn Abi Addonia Street
+SA	397513	شارع أبي بكر بن العربي	residential	1	0	0	Abo Bakr Ibn Alarabi Street
+SA	397513	شارع أبي بن كعب	residential	1	0	0	Obay Ibn Kab Street
+SA	397513	شارع أبي جعفر المنصور	residential	1	0	0	Abo jafar Almansour Street
+SA	397513	شارع أبي سليمان العدواني	residential	1	0	0	Abi Sulayman Aladwani Street
+SA	397513	شارع أبي عيسي الترمذي	residential	1	0	0	Abo Eesa Attermethi Street
+SA	397833	soil road	unclassified	1	0	0	
+SA	397833	طريق الأمير سلطان بن عبدالعزيز	tertiary	1	0	0	
+SA	397833	طريق البدائع - رياض الخبراء	tertiary	1	0	0	
+SA	397833	طريق الملك فهد	tertiary	1	0	0	
+SA	399518	Street 1	primary	1	0	0	
+SA	400009	الشارع الاول	residential	1	0	0	
+SA	400009	الشارع الثالث	residential	1	0	0	
+SA	400009	الشارع الثاني	residential	1	0	0	
+SA	400009	الشارع الخامس	residential	1	0	0	
+SA	400009	الشارع الرابع	residential	1	0	0	
+SA	400009	شارع 15	living_street	1	0	0	
+SA	400009	شارع 20	living_street	1	0	0	
+SA	400009	شارع 25	living_street	1	0	0	
+SA	400009	شارع الجامع	residential	1	0	0	
+SA	400009	شارع الحديقة العامة	residential	1	0	0	
+SA	400009	شارع العليا	living_street	1	0	0	
+SA	400009	شارع المجد	residential	1	0	0	
+SA	409682	Transformation Boulevard	residential	216	0	0	
+SA	409682	Mishmish Lane	residential	113	0	0	
+SA	409682	Shaheen Lane	residential	108	0	0	
+SA	409682	Nawras Lane	residential	102	0	0	
+SA	409682	Discovery Boulevard	residential	99	0	0	
+SA	409682	Salmani Street	residential	77	0	0	
+SA	409682	Rihan Lane	residential	71	0	0	
+SA	409682	Kadi Lane	residential	69	0	0	
+SA	409682	Nargis Lane	residential	68	0	0	
+SA	409682	Butterfly Lane	residential	66	0	0	
+SA	409682	Island Street	residential	66	0	0	
+SA	409682	Bayt Al Hikma Boulevard	tertiary	61	0	0	
+SA	409682	Jasmine Lane	residential	59	0	0	
+SA	409682	Exploration Avenue	residential	56	0	0	
+SA	409682	Nakhil Lane	residential	56	0	0	
+SA	409682	Cactus Lane	residential	53	0	0	
+SA	409682	Oasis Lane	residential	47	0	0	
+SA	409682	Yamamah Lane	residential	47	0	0	
+SA	409682	Beacon Avenue	residential	42	0	0	
+SA	409682	Canary Lane	residential	40	0	0	
+SA	409682	Unity Boulevard	tertiary	37	18	18	
+SA	409682	Mangrove Street	residential	36	0	0	
+SA	409682	Maha Lane	residential	34	0	0	
+SA	409682	Reem Street	residential	27	0	0	
+SA	409682	Khail Lane	residential	24	0	0	
+SA	409682	Tamar Lane	residential	24	0	0	
+SA	409682	Pelican Lane	residential	21	0	0	
+SA	409682	Parakeet Lane	residential	20	0	0	
+SA	409682	Sawsan Lane	residential	20	0	0	
+SA	409682	Hoopoe Lane	residential	19	0	0	
+SA	409682	Tulip Lane	residential	19	0	0	
+SA	409682	Zubaidi Street	residential	19	0	0	
+SA	409682	Gardena Lane	residential	18	0	0	
+SA	409682	Coral Street	residential	16	0	0	
+SA	409682	Saffron Lane	residential	15	0	0	
+SA	409682	Hammour Street	residential	13	0	0	
+SA	409682	Rasberry Lane	residential	13	0	0	
+SA	409682	Dhab Lane	residential	9	0	0	
+SA	409682	Jamal Lane	residential	7	0	0	
+SA	409682	Henna Lane1	residential	6	0	0	
+SA	409682	Henna Lane2	residential	6	0	0	
+SA	409682	Ibex Lane	residential	6	0	0	
+SA	409682	Jouri Lane	residential	6	0	0	
+SA	409682	Owl Lane	residential	6	0	0	
+SA	409682	Quatta Lane	residential	6	0	0	
+SA	409682	Sagger Lane	residential	6	0	0	
+SA	409682	Mishmish Lane 1	residential	5	0	0	
+SA	409682	Mishmish Lane 2	residential	5	0	0	
+SA	410084	طريق الهدا الدائري	secondary	1	0	0	Al Hada Ring Rd
+SA	410096	طريق الشفاء الدائري	tertiary	1	0	0	
+SA	410874	الحزام	tertiary	1	0	0	
+SA	410874	طريق المضايا السويس	unclassified	1	0	0	
+SA	6692745	King Abdullah Road	tertiary	1	0	0	
+SA	6692745	طريق مكة القديم	primary	1	0	0	Old Makkah Road
+SA	9031043	طريق ضرية الهواوية	secondary	1	0	0	
+SA	9031043	طريق ضرية عفيف	primary	1	0	0	
+SA	9031043	طريق ضرية مسكة	primary	1	0	0	
+SA	11670045	King Fahad Ibn Abdulaziz		2	312	8420	
+SA	11670045	Old Souq	residential	1	0	0	
+SA	11670045	ابن خلدون	tertiary	1	0	0	
+SA	11670045	ابو القاسم الشابي	tertiary	1	0	0	
+SA	11670045	البراء بن مالك	tertiary	1	0	0	
+SA	11670045	السوق القديم	residential	1	0	0	
+SA	11670045	العقبة	pedestrian	1	0	0	Alaqba footpath
+SA	11670045	الكواكب	tertiary	1	0	0	
+SA	11670045	الملك عبدالعزيز	primary	1	0	0	
+SA	11670045	الملك فهد بن عبدالعزيز	secondary	1	0	0	
+SA	11670045	حسان بن ثابت	residential	1	0	0	
+SA	11670045	شارع أويس القرني	tertiary	1	0	0	
+SA	11670045	شارع الإبداع	secondary	1	0	0	
+SA	11670045	طريق جامعة سبت العلاية	secondary	1	0	0	
+SA	11670045	معاذ بن جبل	secondary	1	0	0	
+SA	11829674	طريق أمير المؤمنين عثمان بن عفان	tertiary	1	0	0	
+SA	11829674	طريق الأمير فيصل بن مشعل بن سعود	tertiary	1	0	0	Prince Faisal Bin Mishal Bin Saud Street
+SA	11829674	طريق الحمر	secondary	1	0	0	
+SA	11829674	طريق الملك سلمان الفرعي	primary	1	0	0	
+SA	11829674	طريق الملك عبد العزيز	primary	1	0	0	King Abdulaziz Road
+SA	11829674	طريق دائري جامعة القصيم	secondary	1	0	0	
+SA	11829674	عنيزة المطار	secondary	1	0	0	
+SA	11835536	طريق البدائع - رياض الخبراء	tertiary	1	0	0	
+SA	11835536	مزارع	unclassified	1	0	0	
+SA	11835536	ممشى	residential	1	0	0	
+SA	12495738	7840	secondary	1	0	0	
+SA	12500245	الوادي الأبيض	tertiary	1	0	0	
+SA	12500245	شارع الشيخ عبدالله سالم بن قاسم	tertiary	1	0	0	Al Sheik Abdullah Bin Salem Bin Qasim Street
+SA	12500245	طريق البحة حي الربوة	tertiary	1	0	0	

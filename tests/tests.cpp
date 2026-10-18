@@ -89,7 +89,7 @@ TEST_CASE("load(dataset::lite) loads every table", "[loading]")
     REQUIRE(gen.count() > 30000);
     REQUIRE(gen.countries().size() > 200);
     REQUIRE(gen.has_streets("PT"));
-    REQUIRE_FALSE(gen.has_streets("ZA"));
+    REQUIRE_FALSE(gen.has_streets("VA"));
     for (const auto t : {address_table::places, address_table::formats, address_table::streets,
                          address_table::postcodes, address_table::street_types, address_table::street_names})
     {
@@ -373,6 +373,48 @@ TEST_CASE("the Latin layout changes only the layout", "[layout][script]")
     REQUIRE(gen.get_address(us, std::uint64_t{4}).lines() == gen.get_address(in("US"), std::uint64_t{4}).lines());
 }
 
+TEST_CASE("a street named in another script has a Latin name for the Latin script", "[layout][script][latin]")
+{
+    auto gen = make_small_generator();
+    // Replace Springfield's streets with one that has a Latin name and one that has not.
+    gen.extend_from_string(address_table::streets,
+                           "geonameid\tcountry_code\tname\tweight\tname_latin\n"
+                           "1\tUS\t\u0428\u043e\u0442\u0430 \u0440\u0443\u0441\u0442\u0430\u0432\u0435\u043b\u0438\t1\tShota Rustaveli Street\n"
+                           "1\tUS\t\u0443\u043b\u0438\u0446\u0430 \u0411\u0435\u0437\u044b\u043c\u044f\u043d\u043d\u0430\u044f\t1\t\n",
+                           "latin", layer_mode::replace);
+    auto latin = in("US");
+    latin.script = dasmig::address_script::latin;
+    dasmig::street_request lat_street;
+    lat_street.country = "US";
+    lat_street.script = dasmig::address_script::latin;
+    dasmig::street_request loc_street;
+    loc_street.country = "US";
+    bool saw_latin = false;
+    bool saw_local_only = false;
+    for (std::uint64_t s = 0; s < 40; ++s)
+    {
+        const auto local = gen.get_address(in("US"), s);
+        const auto roman = gen.get_address(latin, s);
+        // Same draw either way; only the written name differs.
+        REQUIRE(local.number == roman.number);
+        REQUIRE(local.postcode == roman.postcode);
+        REQUIRE(gen.get_street(loc_street, s).name == local.street);
+        REQUIRE(gen.get_street(lat_street, s).name == roman.street);
+        if (local.street.starts_with("\u0428"))
+        {
+            REQUIRE(roman.street == "Shota Rustaveli Street");
+            saw_latin = true;
+        }
+        else
+        {
+            REQUIRE(roman.street == local.street); // no Latin name: the local one
+            saw_local_only = true;
+        }
+    }
+    REQUIRE(saw_latin);
+    REQUIRE(saw_local_only);
+}
+
 TEST_CASE("Japanese house numbers are blocks and the municipality has a line", "[layout][jp]")
 {
     const auto gen = make_loaded_generator();
@@ -608,15 +650,15 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
     gen.load(std::filesystem::path{"resources/lite"});
     if (!gen.has_data()) gen.load(std::filesystem::path{"../resources/lite"});
     REQUIRE(gen.has_data());
-    REQUIRE(gen.data_hash() == 0xe864d42e79fb6ab3ULL);
+    REQUIRE(gen.data_hash() == 0xceef0ca841ce1d47ULL);
 
-    REQUIRE(gen.get_address(dasmig::address_request{}, std::uint64_t{1}).to_json() == R"({"country_code":"DE","city":"Sindelfingen","region":"Baden-Wurttemberg","street":"Wilhelm-Haspel-Straße","number":76,"unit":"","postcode":"71069","real_street":true,"geonameid":2831948,"lines":["Wilhelm-Haspel-Straße 76","71069 Sindelfingen"],"formatted":"Wilhelm-Haspel-Straße 76, 71069 Sindelfingen","signature":{"seed":"0000000000000001","data":"e864d42e79fb6ab3"}})");
-    REQUIRE(gen.get_address(in("PT"), std::uint64_t{1}).to_json() == R"({"country_code":"PT","city":"Portalegre","region":"Portalegre","street":"Rua 31 de Janeiro","number":109,"unit":"","postcode":"7300-022","real_street":true,"geonameid":2264508,"lines":["Rua 31 de Janeiro, 109","7300-022 Portalegre"],"formatted":"Rua 31 de Janeiro, 109, 7300-022 Portalegre","signature":{"seed":"0000000000000001","data":"e864d42e79fb6ab3"}})");
-    REQUIRE(gen.get_address(in("US"), std::uint64_t{1}).to_json() == R"({"country_code":"US","city":"Kenner","region":"LA","street":"Williams Boulevard","number":3370,"unit":"","postcode":"70097","real_street":true,"geonameid":4329753,"lines":["3370 Williams Boulevard","Kenner, LA 70097"],"formatted":"3370 Williams Boulevard, Kenner, LA 70097","signature":{"seed":"0000000000000001","data":"e864d42e79fb6ab3"}})");
-    REQUIRE(gen.get_address(in("JP"), std::uint64_t{1}).to_json() == R"({"country_code":"JP","city":"Tokyo","region":"Tokyo","street":"PROMINENCE ROKA","number":8,"unit":"","postcode":"100-6013","real_street":true,"geonameid":1850147,"lines":["〒100-6013","Tokyo","PROMINENCE ROKA 8-16-11"],"formatted":"〒100-6013, Tokyo, PROMINENCE ROKA 8-16-11","signature":{"seed":"0000000000000001","data":"e864d42e79fb6ab3"}})");
+    REQUIRE(gen.get_address(dasmig::address_request{}, std::uint64_t{1}).to_json() == R"({"country_code":"DE","city":"Sindelfingen","region":"Baden-Wurttemberg","street":"Wilhelm-Haspel-Straße","number":76,"unit":"","postcode":"71069","real_street":true,"geonameid":2831948,"lines":["Wilhelm-Haspel-Straße 76","71069 Sindelfingen"],"formatted":"Wilhelm-Haspel-Straße 76, 71069 Sindelfingen","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
+    REQUIRE(gen.get_address(in("PT"), std::uint64_t{1}).to_json() == R"({"country_code":"PT","city":"Portalegre","region":"Portalegre","street":"Rua 31 de Janeiro","number":109,"unit":"","postcode":"7300-022","real_street":true,"geonameid":2264508,"lines":["Rua 31 de Janeiro, 109","7300-022 Portalegre"],"formatted":"Rua 31 de Janeiro, 109, 7300-022 Portalegre","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
+    REQUIRE(gen.get_address(in("US"), std::uint64_t{1}).to_json() == R"({"country_code":"US","city":"Kenner","region":"LA","street":"Williams Boulevard","number":3370,"unit":"","postcode":"70097","real_street":true,"geonameid":4329753,"lines":["3370 Williams Boulevard","Kenner, LA 70097"],"formatted":"3370 Williams Boulevard, Kenner, LA 70097","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
+    REQUIRE(gen.get_address(in("JP"), std::uint64_t{1}).to_json() == R"({"country_code":"JP","city":"Tokyo","region":"Tokyo","street":"PROMINENCE ROKA","number":8,"unit":"","postcode":"100-6013","real_street":true,"geonameid":1850147,"lines":["〒100-6013","Tokyo","PROMINENCE ROKA 8-16-11"],"formatted":"〒100-6013, Tokyo, PROMINENCE ROKA 8-16-11","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
     dasmig::street_request fr;
     fr.country = "FR";
-    REQUIRE(gen.get_street(fr, std::uint64_t{1}).to_json() == R"({"name":"Rue du Mail","country_code":"FR","city":"Savigny-sur-Orge","real_street":true,"geonameid":2975525,"signature":{"seed":"0000000000000001","data":"e864d42e79fb6ab3"}})");
+    REQUIRE(gen.get_street(fr, std::uint64_t{1}).to_json() == R"({"name":"Rue du Mail","country_code":"FR","city":"Savigny-sur-Orge","real_street":true,"geonameid":2975525,"signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
     dasmig::postcode_request gb;
     gb.country = "GB";
     REQUIRE(gen.get_postcode(gb, std::uint64_t{1}) == "PE9 4DU");
@@ -630,7 +672,7 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
             h *= 0x100000001b3ULL;
         }
     }
-    REQUIRE(h == 0xc2dd65c358493b49ULL);
+    REQUIRE(h == 0x7f2373941c4c1f1bULL);
 }
 
 // ---------------------------------------------------------------------------
@@ -656,7 +698,7 @@ TEST_CASE("known answers: 10,000 streets and postcodes", "[kat][street][postcode
         streets = fold(streets, gen.get_street(dasmig::street_request{}, s).to_json());
         codes = fold(codes, gen.get_postcode(dasmig::postcode_request{}, s));
     }
-    REQUIRE(streets == 0xc152ef3a2ec2cbf8ULL);
+    REQUIRE(streets == 0x3da4510111f2bc3cULL);
     REQUIRE(codes == 0xa9f87680b354eb21ULL);
 }
 
@@ -765,7 +807,7 @@ TEST_CASE("compiled-in data needs no files and matches them", "[embed]")
 
     REQUIRE(loaded);
     REQUIRE(gen.layers(address_table::places).front().source == "embedded:lite/places.tsv");
-    REQUIRE(gen.data_hash() == 0xe864d42e79fb6ab3ULL); // same as the files
+    REQUIRE(gen.data_hash() == 0xceef0ca841ce1d47ULL); // same as the files
 }
 #endif
 
@@ -831,7 +873,7 @@ TEST_CASE("address batch: known answer of 10,000 items", "[batch][kat]")
     gen.for_each_address(request, {.count = 10000, .threads = 4}, 1,
                         [&](std::uint64_t, const dasmig::address& item)
                         { hash = dasmig::core::hash_combine(hash, dasmig::core::fnv1a64(item.to_json())); });
-    REQUIRE(hash == 0xb23b52c6b995778aULL);
+    REQUIRE(hash == 0xdc83cbe9adadcbbdULL);
 }
 
 // ---------------------------------------------------------------------------

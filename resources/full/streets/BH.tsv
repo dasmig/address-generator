@@ -1,0 +1,791 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+BH	290104	2618		9	7	909	
+BH	290104	442		5	2865	2889	
+BH	290104	453		5	3150	3175	
+BH	290104	2609		4	392	433	
+BH	290104	423		4	1902	1918	
+BH	290104	440		3	2826	2884	
+BH	290104	2347		2	2497	2504	
+BH	290104	2617		2	1995	2003	
+BH	290104	3417		2	367	369	
+BH	290104	407		2	668	672	
+BH	290104	425		2	2154	2156	
+BH	290104	438		2	2733	2734	
+BH	290104	Nuwaidirat Avenue		2	127	147	
+BH	290104	404	residential	1	0	0	
+BH	290104	شارع 1	secondary	1	0	0	Avenue 1
+BH	290104	شارع 15	tertiary	1	0	0	Avenue 15
+BH	290104	شارع 17	unclassified	1	0	0	Avenue 17
+BH	290104	شارع 2	residential	1	0	0	Avenue 2
+BH	290104	شارع 24	residential	1	0	0	Avenue 24
+BH	290104	شارع 25	residential	1	0	0	Avenue 25
+BH	290104	شارع 26	residential	1	0	0	Avenue 26
+BH	290104	شارع 27	residential	1	0	0	Avenue 27
+BH	290104	شارع 34	residential	1	0	0	Avenue 34
+BH	290104	شارع 43	residential	1	0	0	Avenue 43
+BH	290104	شارع 44	residential	1	0	0	Avenue 44
+BH	290104	شارع 45	residential	1	0	0	Avenue 45
+BH	290104	شارع 5	residential	1	0	0	Avenue 5
+BH	290104	شارع 6	tertiary	1	0	0	Avenue 6
+BH	290104	شارع 7	tertiary	1	0	0	Avenue 7
+BH	290104	شارع أم السعد	tertiary	1	0	0	Um Al Saad Avenue
+BH	290104	شارع الرفاينري	unclassified	1	0	0	Refinery Avenue
+BH	290104	شارع الشيخ جابر الأحمد الصباح	primary	1	0	0	Shaikh Jaber Al Ahmed Al Subah Highway
+BH	290104	شارع العكر الشرقي	residential	1	0	0	West Eker Avenue
+BH	290104	شارع المعامير	tertiary	1	0	0	Ma'Ameer Avenue
+BH	290104	شارع نويديرات	tertiary	1	0	0	Nuwaidirat Avenue
+BH	290104	طريق 104	residential	1	0	0	Road 104
+BH	290104	طريق 105	tertiary	1	0	0	Road 105
+BH	290104	طريق 109	tertiary	1	0	0	Road 109
+BH	290104	طريق 111	residential	1	0	0	Road 111
+BH	290104	طريق 112	residential	1	0	0	Road 112
+BH	290104	طريق 1123	residential	1	0	0	Road 1123
+BH	290104	طريق 113	tertiary	1	0	0	Road 113
+BH	290104	طريق 114	unclassified	1	0	0	Road 114
+BH	290104	طريق 115	tertiary	1	0	0	Road 115
+BH	290104	طريق 1402	unclassified	1	0	0	Road 1402
+BH	290104	طريق 1531	unclassified	1	0	0	Road 1531
+BH	290104	طريق 1539	unclassified	1	0	0	Road 1539
+BH	290104	طريق 201	residential	1	0	0	Road 201
+BH	290104	طريق 210	residential	1	0	0	Road 210
+BH	290104	طريق 212	residential	1	0	0	Road 212
+BH	290104	طريق 213	residential	1	0	0	Road 213
+BH	290104	طريق 214	residential	1	0	0	Road 214
+BH	290104	طريق 215	residential	1	0	0	Road 215
+BH	290104	طريق 216	residential	1	0	0	Road 216
+BH	290104	طريق 217	residential	1	0	0	Road 217
+BH	290104	طريق 218	residential	1	0	0	Road 218
+BH	290104	طريق 219	residential	1	0	0	Road 219
+BH	290104	طريق 220	residential	1	0	0	Road 220
+BH	290104	طريق 221	residential	1	0	0	Road 221
+BH	290104	طريق 222	residential	1	0	0	Road 222
+BH	290104	طريق 223	residential	1	0	0	Road 223
+BH	290104	طريق 224	residential	1	0	0	Road 224
+BH	290104	طريق 225	residential	1	0	0	Road 225
+BH	290104	طريق 226	residential	1	0	0	Road 226
+BH	290104	طريق 228	residential	1	0	0	Road 228
+BH	290104	طريق 230	residential	1	0	0	Road 230
+BH	290104	طريق 2313	residential	1	0	0	Road 2313
+BH	290104	طريق 2314	residential	1	0	0	Road 2314
+BH	290104	طريق 2319	residential	1	0	0	Road 2319
+BH	290104	طريق 2325	residential	1	0	0	Road 2325
+BH	290104	طريق 2326	residential	1	0	0	Road 2326
+BH	290104	طريق 2335	residential	1	0	0	Road 2335
+BH	290104	طريق 2336	residential	1	0	0	Road 2336
+BH	290104	طريق 2339	residential	1	0	0	Road 2339
+BH	290104	طريق 234	residential	1	0	0	Road 234
+BH	290104	طريق 2340	residential	1	0	0	Road 2340
+BH	290104	طريق 2341	residential	1	0	0	Road 2341
+BH	290104	طريق 2342	residential	1	0	0	Road 2342
+BH	290104	طريق 2344	residential	1	0	0	Road 2344
+BH	290104	طريق 2346	residential	1	0	0	Road 2346
+BH	290104	طريق 2347	residential	1	0	0	Road 2347
+BH	290104	طريق 2348	residential	1	0	0	Road 2348
+BH	290104	طريق 2350	residential	1	0	0	Road 2350
+BH	290104	طريق 2352	residential	1	0	0	Road 2352
+BH	290104	طريق 2354	residential	1	0	0	Road 2354
+BH	290104	طريق 2355	residential	1	0	0	Road 2355
+BH	290104	طريق 2356	residential	1	0	0	Road 2356
+BH	290104	طريق 2357	residential	1	0	0	Road 2357
+BH	290104	طريق 2358	residential	1	0	0	Road 2358
+BH	290104	طريق 2360	residential	1	0	0	Road 2360
+BH	290104	طريق 2362	residential	1	0	0	Road 2362
+BH	290104	طريق 2367	residential	1	0	0	Road 2367
+BH	290104	طريق 2368	residential	1	0	0	Road 2368
+BH	290104	طريق 2371	residential	1	0	0	Road 2371
+BH	290104	طريق 2372	residential	1	0	0	Road 2372
+BH	290104	طريق 2373	residential	1	0	0	Road 2373
+BH	290104	طريق 2381	residential	1	0	0	Road 2381
+BH	290104	طريق 2403	residential	1	0	0	Road 2403
+BH	290104	طريق 2407	residential	1	0	0	Road 2407
+BH	290104	طريق 2408	residential	1	0	0	Road 2408
+BH	290121	شارع 16	tertiary	1	0	0	Avenue 16
+BH	290121	شارع 18	secondary	1	0	0	Avenue 18
+BH	290121	طريق 1010	unclassified	1	0	0	Road 1010
+BH	290121	طريق 5123	residential	1	0	0	Road 5123
+BH	290121	طريق 5126	residential	1	0	0	Road 5126
+BH	290121	طريق 5127	residential	1	0	0	Road 5127
+BH	290121	طريق 810	residential	1	0	0	Road 810
+BH	290121	طريق 812	residential	1	0	0	Road 812
+BH	290121	طريق 814	residential	1	0	0	Road 814
+BH	290121	طريق 817	residential	1	0	0	Road 817
+BH	290121	طريق 818	residential	1	0	0	Road 818
+BH	290121	طريق 819	residential	1	0	0	Road 819
+BH	290121	طريق 821	residential	1	0	0	Road 821
+BH	290121	طريق 841	residential	1	0	0	Road 841
+BH	290121	طريق 845	residential	1	0	0	Road 845
+BH	290121	طريق 846	residential	1	0	0	Road 846
+BH	290121	طريق 847	residential	1	0	0	Road 847
+BH	290121	طريق 848	residential	1	0	0	Road 848
+BH	290187	1824 Road		7	1276	1295	
+BH	290187	1826 Road		6	1389	1402	
+BH	290187	7522		5	1475	1488	
+BH	290187	Avenue 8		2	170	174	
+BH	290187	طريق 4025	unclassified	2	21	21	Road 4025
+BH	290187	بوابة مدينة عيسى	primary	1	0	0	Isa Town Gate Flyover
+BH	290187	شارع 1	residential	1	0	0	Avenue 1
+BH	290187	شارع 10	tertiary	1	0	0	Avenue 10
+BH	290187	شارع 105	residential	1	0	0	Avenue 105
+BH	290187	شارع 11	residential	1	0	0	Avenue 11
+BH	290187	شارع 12	secondary	1	0	0	Avenue 12
+BH	290187	شارع 16 ديسمبر	secondary	1	0	0	16 December Highway
+BH	290187	شارع 19	residential	1	0	0	Avenue 19
+BH	290187	شارع 20	tertiary	1	0	0	Avenue 20
+BH	290187	شارع 21	residential	1	0	0	Avenue 21
+BH	290187	شارع 23	residential	1	0	0	Avenue 23
+BH	290187	شارع 29	unclassified	1	0	0	Avenue 29
+BH	290187	شارع 3	tertiary	1	0	0	Avenue 3
+BH	290187	شارع 40	unclassified	1	0	0	Avenue 4
+BH	290187	شارع 5	tertiary	1	0	0	Avenue 5
+BH	290187	شارع 77	tertiary	1	0	0	Avenue 77
+BH	290187	شارع 8	tertiary	1	0	0	Avenue 8
+BH	290187	شارع أبو ظبي	unclassified	1	0	0	Abu Dhabi Avenue
+BH	290187	شارع الاستقلال	primary	1	0	0	Al-Estiqlal Highway
+BH	290187	شارع الخرطوم	residential	1	0	0	Khartoum Avenue
+BH	290187	شارع الدوحه	tertiary	1	0	0	Doha Avenue
+BH	290187	شارع الرياض	residential	1	0	0	Riyadh Avenue
+BH	290187	شارع الشباب البحريني	tertiary	1	0	0	Bahraini Youth Avenue
+BH	290187	شارع الشيخ سلمان	primary	1	0	0	Shaikh Salman Highway
+BH	290187	شارع القاهرة	tertiary	1	0	0	Cairo Avenue
+BH	290187	شارع القدس	secondary	1	0	0	Quds Avenue
+BH	290187	شارع المحرق	tertiary	1	0	0	Muharraq Avenue
+BH	290187	شارع النخيل	residential	1	0	0	Al Nakhil Street
+BH	290187	شارع بغداد	tertiary	1	0	0	Baghdad Avenue
+BH	290187	شارع بيروت	residential	1	0	0	Beirut Avenue
+BH	290187	شارع تونس	residential	1	0	0	Tunis Avenue
+BH	290187	شارع دمشق	residential	1	0	0	Damascus Avenue
+BH	290187	شارع سالمباد	residential	1	0	0	Salmabad Avenue
+BH	290187	شارع صنعاء	residential	1	0	0	San'aa Avenue
+BH	290187	شارع طرابلس	residential	1	0	0	Tripoli Avenue
+BH	290187	شارع عمان	tertiary	1	0	0	Amman Avenue
+BH	290187	شارع مسقط	tertiary	1	0	0	Muscat Avenue
+BH	290187	طريق 1001	residential	1	0	0	Road 1001
+BH	290187	طريق 1002	residential	1	0	0	Road 1002
+BH	290187	طريق 1003	residential	1	0	0	Road 1003
+BH	290187	طريق 1004	residential	1	0	0	Road 1004
+BH	290187	طريق 1005	residential	1	0	0	Road 1005
+BH	290187	طريق 1006	unclassified	1	0	0	Road 1006
+BH	290215	3035		14	1785	1895	
+BH	290215	Daih Avenue		10	23	175	
+BH	290215	3027		7	1375	1387	
+BH	290215	5009		6	383	394	
+BH	290215	219		5	547	565	
+BH	290215	2429		5	993	1013	
+BH	290215	1328		4	1190	1216	
+BH	290215	611		4	275	412	
+BH	290215	Jannusan Avenue		4	60	803	
+BH	290215	طريق 607	residential	4	192	192	Road 607
+BH	290215	2428		3	855	875	
+BH	290215	425		3	614	836	
+BH	290215	7516		3	922	977	
+BH	290215	2427		2	998	1004	
+BH	290215	609		2	311	319	
+BH	290215	619		2	756	758	
+BH	290215	621		2	886	902	
+BH	290215	Al Naqeel Highway		2	328	808	
+BH	290215	Avenue 22		2	31	35	
+BH	290215	Avenue 32		2	100	104	
+BH	290215	Avenue 6		2	139	197	
+BH	290215	Budaiya Highway		2	748	1167	
+BH	290215	شارع بلاد القديم	tertiary	2	593	593	Bilad Al-Qadeem Avenue
+BH	290215	طريق 2804	unclassified	2	266	274	Road 2804
+BH	290215	Ishbilliya Village Walkway	residential	1	0	0	
+BH	290215	Road 2730	residential	1	0	0	
+BH	290215	lkokoj	residential	1	0	0	
+BH	290215	دار كينداه	residential	1	0	0	Dar Kindah
+BH	290215	دوار القدم	primary	1	0	0	Al-Qadam Roundabout
+BH	290215	دوار جدحفص	primary	1	0	0	Jidhafs Roundbout
+BH	290215	شارع 10	residential	1	0	0	Avenue 10
+BH	290215	شارع 11	residential	1	0	0	Avenue 11
+BH	290215	شارع 12	residential	1	0	0	Avenue 12
+BH	290215	شارع 13	tertiary	1	0	0	Avenue 13
+BH	290215	شارع 16	residential	1	0	0	Avenue 16
+BH	290215	شارع 17	residential	1	0	0	Avenue 17
+BH	290215	شارع 18	unclassified	1	0	0	Avenue 18
+BH	290215	شارع 19	residential	1	0	0	Avenue 19
+BH	290215	شارع 2	secondary	1	0	0	Avenue 2
+BH	290215	شارع 20	residential	1	0	0	Avenue 20
+BH	290215	شارع 21	residential	1	0	0	Avenue 21
+BH	290215	شارع 22	tertiary	1	0	0	Avenue 22
+BH	290215	شارع 23	tertiary	1	0	0	Avenue 23
+BH	290215	شارع 24	unclassified	1	0	0	Avenue 24
+BH	290215	شارع 25	residential	1	0	0	Avenue 25
+BH	290215	شارع 26	residential	1	0	0	Avenue 26
+BH	290215	شارع 27	tertiary	1	0	0	Avenue 27
+BH	290215	شارع 28	secondary	1	0	0	Avenue 28
+BH	290215	شارع 29	residential	1	0	0	Avenue 29
+BH	290215	شارع 30	residential	1	0	0	Avenue 30
+BH	290215	شارع 32	residential	1	0	0	Avenue 32
+BH	290215	شارع 33	residential	1	0	0	Avenue 33
+BH	290215	شارع 35	tertiary	1	0	0	Avenue 35
+BH	290215	شارع 37	residential	1	0	0	Avenue 37
+BH	290215	شارع 39	residential	1	0	0	Avenue 39
+BH	290215	شارع 4	residential	1	0	0	Avenue 4
+BH	290215	شارع 40	unclassified	1	0	0	Avenue 40
+BH	290215	شارع 41	residential	1	0	0	Avenue 41
+BH	290215	شارع 44	residential	1	0	0	Avenue 44
+BH	290215	شارع 45	tertiary	1	0	0	Avenue 45
+BH	290215	شارع 47	residential	1	0	0	Avenue 47
+BH	290215	شارع 48	residential	1	0	0	Avenue 48
+BH	290215	شارع 49	residential	1	0	0	Avenue 49
+BH	290215	شارع 51	residential	1	0	0	Avenue 51
+BH	290215	شارع 52	tertiary	1	0	0	Avenue 52
+BH	290215	شارع 53	residential	1	0	0	Avenue 5
+BH	290215	شارع 54	residential	1	0	0	Avenue 54
+BH	290215	شارع 55	residential	1	0	0	Avenue 55
+BH	290215	شارع 57	residential	1	0	0	Avenue 57
+BH	290215	شارع 59	residential	1	0	0	Avenue 59
+BH	290215	شارع 6	residential	1	0	0	Avenue 6
+BH	290215	شارع 60	tertiary	1	0	0	Avenue 60
+BH	290215	شارع 61	residential	1	0	0	Avenue 61
+BH	290215	شارع 62	residential	1	0	0	Avenue 23
+BH	290215	شارع 67	residential	1	0	0	Avenue 67
+BH	290215	شارع 68	secondary	1	0	0	Highway 68
+BH	290215	شارع 69	residential	1	0	0	Avenue 69
+BH	290215	شارع 7	residential	1	0	0	Avenue 7
+BH	290215	شارع 71	residential	1	0	0	Avenue 71
+BH	290215	شارع 73	residential	1	0	0	Avenue 73
+BH	290215	شارع 75	residential	1	0	0	Avenue 75
+BH	290215	شارع 77	residential	1	0	0	Avenue 77
+BH	290215	شارع 79	residential	1	0	0	Avenue 79
+BH	290215	شارع 8	residential	1	0	0	Avenue 8
+BH	290215	شارع 89	residential	1	0	0	Avenue 89
+BH	290215	شارع 9	residential	1	0	0	Avenue 9
+BH	290215	شارع أبو شيبا	residential	1	0	0	Abu Shiba Avenue
+BH	290215	شارع البديع	primary	1	0	0	Budaiya Highway
+BH	290215	شارع الدراز	residential	1	0	0	Al-Diraz Avenue
+BH	290215	شارع الديه	residential	1	0	0	Daih Avenue
+BH	290215	شارع الشيخ خليفة بن سلمان	secondary	1	0	0	Shaikh Khalifa Bin Salman Highway
+BH	290215	شارع الشيخ سلمان	primary	1	0	0	Shaikh Salman Highway
+BH	290215	شارع الشيخ سليمان المدني	tertiary	1	0	0	Sheikh Sulayman Al-Madanl Avenue
+BH	290215	شارع القفول	residential	1	0	0	Al Guful Avenue
+BH	290215	شارع الكارانة	residential	1	0	0	Karranah Avenue
+BH	290215	شارع المرخ	residential	1	0	0	Markh Avenue
+BH	290215	شارع المصلى	residential	1	0	0	Al-Musalla Avenue
+BH	290215	شارع المقبة	residential	1	0	0	Muqabah Avenue
+BH	290215	شارع الملك عبدالله الثاني ابن الحسين	secondary	1	0	0	King Abdulla II Ibn Al Hussein Avenue
+BH	290215	شارع الملك فيصل	secondary	1	0	0	King Faisal Highway
+BH	290247	طريق 7536	residential	2	2377	2377	Road 7536
+BH	290247	Road 1012	residential	1	0	0	
+BH	290247	Road 2744	residential	1	0	0	
+BH	290247	Road 2745	residential	1	0	0	
+BH	290247	ألكوهيجي ماجلز	residential	1	0	0	AlKooheji Majles Main Road
+BH	290247	دوار 1	secondary	1	0	0	Roundabout 1
+BH	290247	دوار 2	secondary	1	0	0	Roundabout 2
+BH	290247	دوار 3	secondary	1	0	0	Roundabout 3
+BH	290247	دوار 4	secondary	1	0	0	Roundabout 4
+BH	290247	دوار 5	secondary	1	0	0	Roundabout 5
+BH	290247	دوار 6	secondary	1	0	0	Roundabout 6
+BH	290247	دوار 7	secondary	1	0	0	Roundabout 7
+BH	290247	دوار 8	tertiary	1	0	0	Roundabout 8
+BH	290247	دوار 9	tertiary	1	0	0	Roundabout 9
+BH	290247	شارع 10	unclassified	1	0	0	Avenue 10
+BH	290247	شارع 105	residential	1	0	0	Avenue 105
+BH	290247	شارع 11	tertiary	1	0	0	Avenue 11
+BH	290247	شارع 12	secondary	1	0	0	Avenue 12
+BH	290247	شارع 19	unclassified	1	0	0	Avenue 19
+BH	290247	شارع 20	residential	1	0	0	Avenue 20
+BH	290247	شارع 21	unclassified	1	0	0	Avenue 21
+BH	290247	شارع 22	residential	1	0	0	Avenue 22
+BH	290247	شارع 23	unclassified	1	0	0	Avenue 2
+BH	290247	شارع 24	tertiary	1	0	0	Avenue 24
+BH	290247	شارع 26	secondary	1	0	0	Avenue 26
+BH	290247	شارع 27	tertiary	1	0	0	Avenue 27
+BH	290247	شارع 28	unclassified	1	0	0	Avenue 28
+BH	290247	شارع 3	tertiary	1	0	0	Avenue 3
+BH	290247	شارع 30	residential	1	0	0	Avenue 30
+BH	290247	شارع 34	tertiary	1	0	0	Avenue 34
+BH	290247	شارع 35	unclassified	1	0	0	Avenue 3
+BH	290247	شارع 36	tertiary	1	0	0	Avenue 36
+BH	290247	شارع 37	residential	1	0	0	Avenue 37
+BH	290247	شارع 38	tertiary	1	0	0	Avenue 38
+BH	290247	شارع 4	residential	1	0	0	Avenue 4
+BH	290247	شارع 46	residential	1	0	0	Avenue 46
+BH	290247	شارع 48	tertiary	1	0	0	Avenue 48
+BH	290247	شارع 49	unclassified	1	0	0	Avenue 49
+BH	290247	شارع 5	tertiary	1	0	0	Avenue 5
+BH	290247	شارع 54	residential	1	0	0	Avenue 54
+BH	290247	شارع 56	residential	1	0	0	Avenue 56
+BH	290247	شارع 58	residential	1	0	0	Avenue 58
+BH	290247	شارع 6	unclassified	1	0	0	Avenue 6
+BH	290247	شارع 62	residential	1	0	0	Avenue 62
+BH	290247	شارع 7	residential	1	0	0	Avenue 7
+BH	290247	شارع 71	tertiary	1	0	0	Highway 71
+BH	290247	شارع 77	residential	1	0	0	Avenue 77
+BH	290247	شارع 79	residential	1	0	0	Avenue 79
+BH	290247	شارع 8	residential	1	0	0	Avenue 8
+BH	290247	شارع 9	secondary	1	0	0	Avenue 9
+BH	290247	شارع 90	unclassified	1	0	0	90 Highway
+BH	290247	شارع 905	residential	1	0	0	RD 905
+BH	290247	شارع 92	tertiary	1	0	0	Avenue 92
+BH	290247	شارع إيزيل	residential	1	0	0	Ezel Avenue
+BH	290247	شارع الجسرة	residential	1	0	0	Jasrah Avenue
+BH	290247	شارع الجنبية	primary	1	0	0	Janabiyah Highway
+BH	290247	شارع الزلاق	primary	1	0	0	Zallaq Highway
+BH	290247	شارع الشيخ حمد	secondary	1	0	0	Shaikh Hamad Avenue
+BH	290247	شارع الشيخ خليفة	unclassified	1	0	0	Shaikh Khalifa Avenue
+BH	290247	شارع الشيخ خليفة بن سلمان	secondary	1	0	0	Shaikh Khalifa Bin Salman Highway
+BH	290247	شارع الشيخ زايد	secondary	1	0	0	Shaikh Zayed Highway
+BH	290247	شارع المالكية	unclassified	1	0	0	Malkiya Avenue
+BH	290247	شارع المزارع	tertiary	1	0	0	Mazare'a Highway
+BH	290247	شارع المنامة	unclassified	1	0	0	Manama Avenue
+BH	290247	شارع الهملة	unclassified	1	0	0	Hamalah Avenue
+BH	290247	شارع زيد بن عميرة	tertiary	1	0	0	Zaid Bin Omeera Highway
+BH	290247	شارع زيد بن عميره	tertiary	1	0	0	Zaid Bin Omeera Highway
+BH	290247	شارع عبد الرحمن بن حسن القصيبي	unclassified	1	0	0	Abdulrahman Bin Hasan Al Gosaibi Avenue
+BH	290247	شارع ولي العهد	primary	1	0	0	Wali Al Ahd Highway
+BH	290247	طريق 10	unclassified	1	0	0	Road 10
+BH	290247	طريق 1001	residential	1	0	0	Road 1001
+BH	290247	طريق 1003	residential	1	0	0	Road 1003
+BH	290247	طريق 1005	residential	1	0	0	Road 1005
+BH	290247	طريق 1006	residential	1	0	0	Road 1006
+BH	290247	طريق 1007	residential	1	0	0	Road 1007
+BH	290247	طريق 1008	residential	1	0	0	Road 1008
+BH	290247	طريق 1011	residential	1	0	0	Road 1011
+BH	290247	طريق 1013	residential	1	0	0	Road 1013
+BH	290247	طريق 1014	residential	1	0	0	Road 1014
+BH	290247	طريق 1015	residential	1	0	0	Road 1015
+BH	290247	طريق 1016	residential	1	0	0	Road 1016
+BH	290247	طريق 1017	residential	1	0	0	Road 1017
+BH	290247	طريق 1018	residential	1	0	0	Road 1018
+BH	290247	طريق 1020	residential	1	0	0	Road 1020
+BH	290247	طريق 1022	residential	1	0	0	Road 1022
+BH	290247	طريق 1023	living_street	1	0	0	Road 1023
+BH	290247	طريق 1024	residential	1	0	0	Road 1024
+BH	290247	طريق 1028	residential	1	0	0	Road 1028
+BH	290247	طريق 1029	tertiary	1	0	0	Road 1029
+BH	290247	طريق 1030	residential	1	0	0	Road 1030
+BH	290247	طريق 1031	residential	1	0	0	Road 1031
+BH	290247	طريق 1032	residential	1	0	0	Road 1032
+BH	290247	طريق 1033	residential	1	0	0	Road 1033
+BH	290247	طريق 1034	residential	1	0	0	Road 1034
+BH	290247	طريق 1035	residential	1	0	0	Road 1035
+BH	290247	طريق 1036	residential	1	0	0	Road 1036
+BH	290247	طريق 1038	residential	1	0	0	Road 1038
+BH	290247	طريق 1041	residential	1	0	0	Road 1041
+BH	290247	طريق 1042	residential	1	0	0	Road 1042
+BH	290247	طريق 1043	residential	1	0	0	Road 1043
+BH	290269	Road 5643	residential	1	0	0	
+BH	290269	Road 5644	residential	1	0	0	
+BH	290269	Road 5645	residential	1	0	0	
+BH	290269	Road 5646	residential	1	0	0	
+BH	290269	شارع 11	residential	1	0	0	Avenue 11
+BH	290269	شارع 14	tertiary	1	0	0	Avenue 14
+BH	290269	شارع 16	tertiary	1	0	0	Avenue 16
+BH	290269	شارع 18	residential	1	0	0	Avenue 18
+BH	290269	شارع 23	unclassified	1	0	0	Avenue 23
+BH	290269	شارع 41	residential	1	0	0	Avenue 41
+BH	290269	شارع 47	residential	1	0	0	Avenue 47
+BH	290269	شارع 48	tertiary	1	0	0	Avenue 48
+BH	290269	شارع 49	unclassified	1	0	0	Avenue 49
+BH	290269	شارع 51	unclassified	1	0	0	Avenue 51
+BH	290269	شارع 55	tertiary	1	0	0	Avenue 55
+BH	290269	شارع 60	unclassified	1	0	0	Avenue 60
+BH	290269	شارع 76	tertiary	1	0	0	Avenue 76
+BH	290269	شارع الزلاق	primary	1	0	0	Zallaq Highway
+BH	290269	شارع الشيخ حمد	secondary	1	0	0	Shaikh Hamad Avenue
+BH	290269	شارع بلاج الجزائر	tertiary	1	0	0	Jazaer Beach Avenue
+BH	290269	شارع خليج البحرين	secondary	1	0	0	Gulf of Bahrain Avenue
+BH	290269	شارع دار كليب	tertiary	1	0	0	Dar Kulaib Avenue
+BH	290269	شارع زيد بن عميرة	tertiary	1	0	0	Zaid Bin Omairah Highway
+BH	290269	شارع شهركان	residential	1	0	0	Shahrakkan Avenue
+BH	290269	طريق 1041	unclassified	1	0	0	Road 1041
+BH	290269	طريق 1115	tertiary	1	0	0	Road 1115
+BH	290269	طريق 1128	residential	1	0	0	Road 1128
+BH	290269	طريق 1132	residential	1	0	0	Road 1132
+BH	290269	طريق 1138	residential	1	0	0	Road 1138
+BH	290269	طريق 1139	residential	1	0	0	Road 1139
+BH	290269	طريق 1141	residential	1	0	0	Road 1141
+BH	290269	طريق 1143	residential	1	0	0	Road 1143
+BH	290269	طريق 1144	residential	1	0	0	Road 1144
+BH	290269	طريق 1146	residential	1	0	0	Road 1146
+BH	290269	طريق 1148	residential	1	0	0	Road 1148
+BH	290269	طريق 1150	residential	1	0	0	Road 1150
+BH	290269	طريق 1152	residential	1	0	0	Road 1152
+BH	290269	طريق 1154	residential	1	0	0	Road 1154
+BH	290269	طريق 1223	tertiary	1	0	0	Road 1223
+BH	290269	طريق 1227	residential	1	0	0	Road 1227
+BH	290269	طريق 1301	residential	1	0	0	Road 1301
+BH	290269	طريق 1302	residential	1	0	0	Road 1302
+BH	290269	طريق 1303	residential	1	0	0	Road 1303
+BH	290269	طريق 1307	residential	1	0	0	Road 1307
+BH	290269	طريق 1308	residential	1	0	0	Road 1308
+BH	290269	طريق 1309	residential	1	0	0	Road 1309
+BH	290269	طريق 1310	residential	1	0	0	Road 1310
+BH	290269	طريق 1312	residential	1	0	0	Road 1312
+BH	290269	طريق 1314	residential	1	0	0	Road 1314
+BH	290269	طريق 1315	residential	1	0	0	Road 1315
+BH	290269	طريق 1317	residential	1	0	0	Road 1317
+BH	290269	طريق 1401	residential	1	0	0	Road 1401
+BH	290269	طريق 1402	residential	1	0	0	Road 1402
+BH	290269	طريق 1403	residential	1	0	0	Road 1403
+BH	290269	طريق 1404	residential	1	0	0	Road 1404
+BH	290269	طريق 1405	residential	1	0	0	Road 1405
+BH	290269	طريق 1406	residential	1	0	0	Road 1406
+BH	290269	طريق 1407	residential	1	0	0	Road 1407
+BH	290269	طريق 1408	residential	1	0	0	Road 1408
+BH	290269	طريق 1409	residential	1	0	0	Road 1409
+BH	290269	طريق 1411	residential	1	0	0	Road 1411
+BH	290269	طريق 1414	residential	1	0	0	Road 1414
+BH	290269	طريق 1415	residential	1	0	0	Road 1415
+BH	290269	طريق 1416	residential	1	0	0	Road 1416
+BH	290269	طريق 1419	tertiary	1	0	0	Road 1419
+BH	290269	طريق 1420	residential	1	0	0	Road 1420
+BH	290269	طريق 1421	residential	1	0	0	Road 1421
+BH	290269	طريق 1422	residential	1	0	0	Road 1422
+BH	290269	طريق 1423	residential	1	0	0	Road 1423
+BH	290269	طريق 1424	residential	1	0	0	Road 1424
+BH	290269	طريق 1425	residential	1	0	0	Road 1425
+BH	290269	طريق 1429	residential	1	0	0	Road 1429
+BH	290269	طريق 1430	residential	1	0	0	Road 1430
+BH	290269	طريق 1432	residential	1	0	0	Road 1432
+BH	290269	طريق 1433	residential	1	0	0	Road 1433
+BH	290269	طريق 1434	residential	1	0	0	Road 1434
+BH	290269	طريق 1436	residential	1	0	0	Road 1436
+BH	290269	طريق 1437	residential	1	0	0	Road 1437
+BH	290269	طريق 1438	residential	1	0	0	Road 1438
+BH	290269	طريق 1439	residential	1	0	0	Road 1439
+BH	290269	طريق 1443	residential	1	0	0	Road 1443
+BH	290269	طريق 1444	residential	1	0	0	Road 1444
+BH	290269	طريق 1445	residential	1	0	0	Road 1445
+BH	290269	طريق 1447	residential	1	0	0	Road 1447
+BH	290269	طريق 1449	unclassified	1	0	0	Road 1449
+BH	290269	طريق 1450	residential	1	0	0	Road 1450
+BH	290269	طريق 1451	residential	1	0	0	Road 1451
+BH	290269	طريق 1452	residential	1	0	0	Road 1452
+BH	290269	طريق 1504	residential	1	0	0	Road 1504
+BH	290269	طريق 1505	residential	1	0	0	Road 1505
+BH	290269	طريق 1506	residential	1	0	0	Road 1506
+BH	290269	طريق 1507	residential	1	0	0	Road 1507
+BH	290269	طريق 1508	residential	1	0	0	Road 1508
+BH	290269	طريق 1509	residential	1	0	0	Road 1509
+BH	290269	طريق 1510	residential	1	0	0	Road 1510
+BH	290269	طريق 1511	residential	1	0	0	Road 1511
+BH	290269	طريق 1512	residential	1	0	0	Road 1512
+BH	290269	طريق 1513	residential	1	0	0	Road 1513
+BH	290269	طريق 1514	residential	1	0	0	Road 1514
+BH	290269	طريق 1516	residential	1	0	0	Road 1516
+BH	290332	6418		37	1918	1995	
+BH	290332	2863		29	4605	4822	
+BH	290332	6426		28	2496	2631	
+BH	290332	Municipality Avenue		26	83	251	
+BH	290332	2861		25	4544	4577	
+BH	290332	6419		24	2020	2043	
+BH	290332	6425		24	2421	2454	
+BH	290332	702		24	95	293	
+BH	290332	727		24	364	1213	
+BH	290332	4261		21	2542	2883	
+BH	290332	6421		21	2129	2179	
+BH	290332	6416		20	1835	1856	
+BH	290332	6424		20	2363	2382	
+BH	290332	6423		19	2301	2320	
+BH	290332	3655		17	2111	2151	
+BH	290332	6415		17	1800	1816	
+BH	290332	Avenue 36		17	146	234	
+BH	290332	2866		16	4996	5042	
+BH	290332	4123		16	89	191	
+BH	290332	607		14	137	195	
+BH	290332	6420		14	2075	2108	
+BH	290332	6427		14	2605	2636	
+BH	290332	219		13	380	561	
+BH	290332	3427		13	714	743	
+BH	290332	4262		13	2908	2949	
+BH	290332	2867		12	5063	5093	
+BH	290332	214		11	145	4456	
+BH	290332	2651		11	2501	3553	
+BH	290332	2860		11	4468	4513	
+BH	290332	4154		11	2559	2579	
+BH	290332	3613		10	315	327	
+BH	290332	4158		10	2753	2807	
+BH	290332	4259		10	2717	2749	
+BH	290332	710		10	386	423	
+BH	290332	Avenue 45		10	86	104	
+BH	290332	2813		9	667	790	
+BH	290332	2821		9	1282	1319	
+BH	290332	Shaikh Isa Avenue		9	2	847	
+BH	290332	2823		8	1085	1487	
+BH	290332	5219		8	608	632	
+BH	290332	2503		7	171	229	
+BH	290332	2652		7	2635	2717	
+BH	290332	2829		7	1658	1985	
+BH	290332	2843		7	2064	2854	
+BH	290332	2864		7	4881	4896	
+BH	290332	6422		7	2186	2198	
+BH	290332	Avenue 12		7	19	205	
+BH	290332	Avenue 26		7	32	75	
+BH	290332	Avenue 28		7	229	2875	
+BH	290332	Sheik Mohammed Bin Salman Avenue		7	276	415	
+BH	290332	Shaik Khalifa Bin Mohammed Avenue		6	126	196	
+BH	290332	Wali Al Alahed Avenue		6	13	114	
+BH	290332	Avenue 1		5	16	774	
+BH	290332	Avenue 7		5	57	89	
+BH	290332	2307		4	45	55	
+BH	290332	2865		4	4957	4973	
+BH	290332	3509		4	241	245	
+BH	290332	4402		4	53	111	
+BH	290332	Al Khalifa Avenue		4	464	731	
+BH	290332	Galali Avenue		4	3	49	
+BH	290332	Sheikh Khalifa Bin Salman		4	45	149	
+BH	290332	1223		3	562	576	
+BH	290332	226		3	665	773	
+BH	290332	706		3	163	175	
+BH	290332	Airport Avenue		3	119	139	
+BH	290332	Avenue 8		3	10	23	
+BH	290332	Shaik Salman Avenue		3	17	49	
+BH	290332	231		2	769	771	
+BH	290332	2811		2	791	794	
+BH	290332	2870		2	5267	5273	
+BH	290332	3109		2	1	57	
+BH	290332	403		2	18	20	
+BH	290332	5718		2	2397	2409	
+BH	290332	701		2	12	20	
+BH	290332	Avenue 19		2	79	91	
+BH	290332	Jamaldin Al Afghani Avenue		2	52	60	
+BH	290332	3471	residential	1	0	0	
+BH	290332	الشيخ خليفة بن سلمان	tertiary	1	0	0	Sheikh Khalifa Bin Salman Avenue
+BH	290332	الطريق الدائري للمحرق	secondary	1	0	0	Muharraq Ring Road
+BH	290332	جسر الشيخ حمد	secondary	1	0	0	Shaikh Hamad Causeway
+BH	290332	جسر الشيخ خليفة بن سلمان	tertiary	1	0	0	Shaikh Khalifa Bin Salman Causeway
+BH	290332	شارع 1	tertiary	1	0	0	Avenue 1
+BH	290332	شارع 11	secondary	1	0	0	Avenue 11
+BH	290332	شارع 12	tertiary	1	0	0	Avenue 12
+BH	290332	شارع 120	residential	1	0	0	Avenue 120
+BH	290332	شارع 13	tertiary	1	0	0	Avenue 13
+BH	290332	شارع 14	residential	1	0	0	Avenue 14
+BH	290332	شارع 16	tertiary	1	0	0	Avenue 16
+BH	290332	شارع 161	residential	1	0	0	Avenue 161
+BH	290332	شارع 17	tertiary	1	0	0	Avenue 17
+BH	290332	شارع 170	tertiary	1	0	0	Avenue 170
+BH	290332	شارع 19	tertiary	1	0	0	Avenue 19
+BH	290332	شارع 20	secondary	1	0	0	Avenue 20
+BH	290332	شارع 23	residential	1	0	0	Avenue 23
+BH	290332	شارع 24	residential	1	0	0	Avenue 24
+BH	290332	شارع 26	residential	1	0	0	Avenue 26
+BH	290332	شارع 28	tertiary	1	0	0	Avenue 28
+BH	290332	شارع 29	tertiary	1	0	0	Avenue 29
+BH	290332	شارع 36	residential	1	0	0	Avenue 36
+BH	290332	شارع 37	unclassified	1	0	0	Avenue 37
+BH	290340	Omar Bin Abdulaziz Avenue		22	79	199	
+BH	290340	610		19	9	735	
+BH	290340	1856		18	2999	3175	
+BH	290340	1831		16	1763	1820	
+BH	290340	2148		16	3108	3191	
+BH	290340	Abdulrahman Al-Dakhil Avenue		14	66	2844	
+BH	290340	Aby Fa Al Ghaffari Avenue		13	10	127	
+BH	290340	2113		12	1099	1241	
+BH	290340	2103		11	128	220	
+BH	290340	2152		11	3370	3434	
+BH	290340	2161		11	2152	4160	
+BH	290340	2144		9	2948	2991	
+BH	290340	2153		9	3439	3554	
+BH	290340	Mutanabbi Avenue		9	170	1185	
+BH	290340	2143		8	2843	2881	
+BH	290340	Tariq Bin Ziyad Avenue		7	5	219	
+BH	290340	1231 Road		6	1276	1283	
+BH	290340	2158		6	3900	3926	
+BH	290340	639		6	1927	1964	
+BH	290340	1210 Road		5	376	403	
+BH	290340	1219 Road		5	650	685	
+BH	290340	2114		5	1292	1314	
+BH	290340	2136		5	2465	2482	
+BH	290340	Lane 210		5	515	537	
+BH	290340	1216 Road		4	509	638	
+BH	290340	1828		4	1611	1625	
+BH	290340	2124		4	1877	1968	
+BH	290340	645		4	2119	2126	
+BH	290340	Al Jasser Avenue		4	67	75	
+BH	290340	Khalaf Al-Asfoor Avenue		4	92	100	
+BH	290340	1212 Road		3	441	459	
+BH	290340	1224 Road		3	972	976	
+BH	290340	1841		3	2084	2102	
+BH	290340	209		3	477	498	
+BH	290340	646		3	2118	2170	
+BH	290340	Gudaibiya Avenue		3	282	282	
+BH	290340	طريق 2804	residential	3	231	245	Road 2804
+BH	290340	1210		2	375	379	
+BH	290340	1225 Road		2	1029	1039	
+BH	290340	1815		2	1063	1081	
+BH	290340	1816		2	1130	1132	
+BH	290340	1826		2	1557	1561	
+BH	290340	1829		2	1665	1666	
+BH	290340	1830		2	1726	1727	
+BH	290340	1848		2	18	28	
+BH	290340	1905		2	134	140	
+BH	290340	1908		2	265	277	
+BH	290340	1911		2	356	358	
+BH	290340	2115		2	1340	1368	
+BH	290340	213		2	687	701	
+BH	290340	214		2	924	940	
+BH	290340	2150		2	3260	3269	
+BH	290340	2431		2	275	277	
+BH	290340	2833		2	1237	1257	
+BH	290340	8222		2	784	786	
+BH	290340	Al Emam Al Hussein Avenue		2	207	211	
+BH	290340	Al Hoora Avenue		2	47	55	
+BH	290340	Shaikh Isa Avenue		2	416	457	
+BH	290340	طريق 2417	residential	2	995	999	Road 2417
+BH	290340	طريق 2420	residential	2	1161	1161	Road 2420
+BH	290340	طريق 4625	primary	2	1306	1306	Road 4625
+BH	290340	Bahrain Bay Park Bridge	pedestrian	1	0	0	
+BH	290340	بوليفارد	unclassified	1	0	0	The Boulevard
+BH	290340	جسر الشيخ حمد	secondary	1	0	0	Shaikh Hamad Causeway
+BH	290340	دوار 1	tertiary	1	0	0	Roundabout 1
+BH	290340	دوار 2	tertiary	1	0	0	Roundabout 2
+BH	290340	دوار 3	tertiary	1	0	0	Roundabout 3
+BH	290340	دوار 4	tertiary	1	0	0	Roundabout 4
+BH	290340	دوار 5	tertiary	1	0	0	Roundabout 5
+BH	290340	شارع 13	tertiary	1	0	0	Avenue 13
+BH	290340	شارع 200	unclassified	1	0	0	Avenue 200
+BH	290340	شارع 28	secondary	1	0	0	Avenue 28
+BH	290340	شارع 29	unclassified	1	0	0	Avenue 29
+BH	290340	شارع 35	secondary	1	0	0	Highway 35
+BH	290340	شارع 42	unclassified	1	0	0	Avenue 42
+BH	290340	شارع 63	residential	1	0	0	Avenue 63
+BH	290340	شارع 66	residential	1	0	0	Avenue 66
+BH	290340	شارع 73	residential	1	0	0	Avenue 73
+BH	290340	شارع 782	unclassified	1	0	0	Avenue 82
+BH	290340	شارع 80	unclassified	1	0	0	Avenue 80
+BH	290340	شارع 82	unclassified	1	0	0	Avenue 82
+BH	290340	شارع أبو عبيدة	residential	1	0	0	Abu Aubaydah Avenue
+BH	290340	شارع أبو هريرة	residential	1	0	0	Abu Hurayrah Avenue
+BH	290340	شارع أبي ثار الغفاري	residential	1	0	0	Aby Fa Al Ghaffari Avenue
+BH	290340	شارع أحمد العمران	residential	1	0	0	Ahmed Al-Omran Avenue
+BH	290340	شارع أحمد الفاتح	unclassified	1	0	0	Ahmed Al-Fatih Avenue
+BH	290340	شارع أحمد علي كانو	secondary	1	0	0	Ahmed Ali Kanoo Avenue
+BH	290340	شارع أم الحصم	tertiary	1	0	0	Um Al-Hassam Avenue
+BH	290340	شارع ابراهيم عبد الحسين العريض	tertiary	1	0	0	Ebrahim A Hussein Al-Orayed Avenue
+BH	290340	شارع ابو غزال	residential	1	0	0	Abu Ghazal Avenue
+BH	290340	شارع اسامة بن زيد	secondary	1	0	0	Osama Bin Zaid Avenue
+BH	290340	شارع الأمير سعود الفيصل	tertiary	1	0	0	Prince Saud Al-Faisal Avenue
+BH	290340	شارع الامام الحسين	tertiary	1	0	0	Al Emam Al Hussein Avenue
+BH	290340	شارع البديع	tertiary	1	0	0	Budaiya Highway
+BH	290340	شارع البلدية	unclassified	1	0	0	Municipality Avenue
+BH	290340	شارع التجار	unclassified	1	0	0	Tijjar Avenue
+BH	290340	شارع الجاسر	residential	1	0	0	Al Jasser Avenue
+BH	290340	شارع الجفير	residential	1	0	0	Juffair Avenue
+BH	290340	شارع الحضرمي	tertiary	1	0	0	Al Hadrami Avenue
+BH	290340	شارع الحكومة	secondary	1	0	0	Government Avenue
+BH	290363	Hidd Avenue		4	619	632	
+BH	290363	Ibn Almukarab Avenue		4	19	47	
+BH	290363	819		2	597	613	
+BH	290363	جسر الشيخ خليفة بن سلمان	tertiary	1	0	0	Shaikh Khalifa Bin Salman Causeway
+BH	290363	شارع 10	residential	1	0	0	Avenue 10
+BH	290363	شارع 12	secondary	1	0	0	Avenue 12
+BH	290363	شارع 14	unclassified	1	0	0	Avenue 14
+BH	290363	شارع 2	residential	1	0	0	Avenue 2
+BH	290363	شارع 47	tertiary	1	0	0	Avenue 47
+BH	290363	شارع آل المحمود	tertiary	1	0	0	Al-Mahmood Avenue
+BH	290363	شارع آل محمود	tertiary	1	0	0	Al-Mahmood Avenue
+BH	290363	شارع أحمد بن ماجد	tertiary	1	0	0	Ahmed Bin Majed Avenue
+BH	290363	شارع الحد	primary	1	0	0	Hidd Avenue
+BH	290363	شارع الحوض الجاف	primary	1	0	0	Dry Dock Highway
+BH	290363	شارع بن المقرب	tertiary	1	0	0	Ibn Almukarab Avenue
+BH	290363	شارع ريا	secondary	1	0	0	Rayya Highway
+BH	290363	شارع عمرو بن كلثوم	residential	1	0	0	Amr Bin Kulthoom Avenue
+BH	290363	طريق 1001	residential	1	0	0	Road 1001
+BH	290363	طريق 1002	residential	1	0	0	Road 1002
+BH	290363	طريق 1004	residential	1	0	0	Road 1004
+BH	290363	طريق 1006	residential	1	0	0	Road 1006
+BH	290363	طريق 1009	residential	1	0	0	Road 1009
+BH	290363	طريق 1011	residential	1	0	0	Road 1011
+BH	290363	طريق 1015	residential	1	0	0	Road 1015
+BH	385038	Abu Shahin Avenue		20	40	82	
+BH	385038	طريق 1401	residential	12	44	1191	Road 1401
+BH	385038	2901		5	111	119	
+BH	385038	طريق 4363	residential	3	1964	1964	Road 4363
+BH	385038	1311		2	617	627	
+BH	385038	Mua'tarid Avenue		2	43	850	
+BH	385038	طريق 1312	residential	2	684	684	Road 1312
+BH	385038	طريق 1314	residential	2	830	832	Road 1314
+BH	385038	طريق 545	residential	2	2117	2121	Road 545
+BH	385038	Riffa Avenue	residential	1	0	0	
+BH	385038	Road 3415	residential	1	0	0	
+BH	385038	أوسبري رود	residential	1	0	0	Osprey Road
+BH	385038	أويستر رود	residential	1	0	0	Oyster Road
+BH	385038	البحيرات	residential	1	0	0	Lagoons
+BH	385038	الطاووس الطريق	residential	1	0	0	Peacock Road
+BH	385038	بارك أفينيو	residential	1	0	0	Park Avenue
+BH	385038	شارع 10	residential	1	0	0	Avenue 10
+BH	385038	شارع 15	tertiary	1	0	0	Avenue 15
+BH	385038	شارع 16 ديسمبر	secondary	1	0	0	16 December Highway
+BH	385038	شارع 20	residential	1	0	0	Avenue 20
+BH	385038	شارع 24	residential	1	0	0	Avenue 24
+BH	385038	شارع 30	tertiary	1	0	0	Avenue 30
+BH	385038	شارع 31	residential	1	0	0	Avenue 31
+BH	385038	شارع 32	tertiary	1	0	0	Avenue 32
+BH	385038	شارع 33	tertiary	1	0	0	Avenue 33
+BH	385038	شارع 34	tertiary	1	0	0	Avenue 34
+BH	385038	شارع 36	tertiary	1	0	0	Avenue 36
+BH	385038	شارع 37	residential	1	0	0	Avenue 37
+BH	385038	شارع 38	tertiary	1	0	0	Avenue 38
+BH	385038	شارع 39	unclassified	1	0	0	Avenue 39
+BH	385038	شارع 41	residential	1	0	0	Avenue 41
+BH	385038	شارع 43	residential	1	0	0	Avenue 43
+BH	385038	شارع 46	tertiary	1	0	0	Avenue 46
+BH	385038	شارع 47	tertiary	1	0	0	Avenue 47
+BH	385038	شارع 48	residential	1	0	0	Avenue 48
+BH	385038	شارع 49	tertiary	1	0	0	Avenue 49
+BH	385038	شارع 77	tertiary	1	0	0	Avenue 77
+BH	385038	شارع 85	tertiary	1	0	0	Avenue 85
+BH	385038	شارع 96	tertiary	1	0	0	Highway 96
+BH	385038	شارع أبو شاهين	tertiary	1	0	0	Abu Shahin Avenue
+BH	385038	شارع إيزيل	residential	1	0	0	Ezel Avenue
+BH	385038	شارع الاستقلال	primary	1	0	0	Estiqlal Highway
+BH	385038	شارع الحجيات	residential	1	0	0	Hajjiyat Avenue
+BH	385038	شارع الحنينية	unclassified	1	0	0	Hunainiyah Avenue
+BH	385038	شارع الديبل	residential	1	0	0	Deebel Avenue
+BH	385038	شارع الرفاع	primary	1	0	0	Riffa Avenue
+BH	385038	شارع الرفاينري	unclassified	1	0	0	Refinery Avenue
+BH	385038	شارع الزلاق	primary	1	0	0	Zallaq Highway
+BH	385038	شارع الزنج	residential	1	0	0	Zinj Avenue
+BH	385038	شارع الساية	tertiary	1	0	0	Sayeh Avenue
+BH	385038	شارع الشباب البحريني	tertiary	1	0	0	Bahraini Youth Avenue
+BH	385038	شارع الشيخ إبراهيم بن علي	residential	1	0	0	Shaikh Ebrahim Bin Ali Avenue
+BH	385038	شارع الشيخ جابر الأحمد الصباح	primary	1	0	0	Shaikh Jaber Al Ahmed Al Subah Highway
+BH	385038	شارع الشيخ حمد	tertiary	1	0	0	Sheikh Hamad Avenue
+BH	385038	شارع الشيخ حمود بن صباح	residential	1	0	0	Shaikh Humood Bin Subah Avenue
+BH	385038	شارع الشيخ خالد	tertiary	1	0	0	Shaikh Khalid Avenue
+BH	385038	شارع الشيخ خليفة	tertiary	1	0	0	Shaikh Khalifa Avenue
+BH	385038	شارع الشيخ زايد	secondary	1	0	0	Shaikh Zayed Highway
+BH	385038	شارع الشيخ سلمان	primary	1	0	0	Shaikh Salman Highway
+BH	385038	شارع الشيخ عيسى	tertiary	1	0	0	Shaikh Isa Avenue
+BH	385038	شارع الشيخ محمد	tertiary	1	0	0	Shaikh Mohammed Avenue
+BH	385038	شارع الشيخ محمد أحمد سلمان	residential	1	0	0	Shaikh Mohammed Ahmed Salman Avenue
+BH	385038	شارع القدس	secondary	1	0	0	Quds Avenue
+BH	385038	شارع المحرق	secondary	1	0	0	Muharraq Avenue
+BH	385038	شارع المحزوره	secondary	1	0	0	Mahzorah Avenue
+BH	385038	شارع المعارتيد	tertiary	1	0	0	Mua'tarid Avenue
+BH	385038	شارع المعترض	tertiary	1	0	0	Mua'tarid Avenue
+BH	385038	شارع المعسكر	primary	1	0	0	Muaskar Highway
+BH	385038	شارع الملك حمد	primary	1	0	0	King Hamad Highway
+BH	385038	شارع المنامة	tertiary	1	0	0	Manama Avenue
+BH	385038	شارع المهزورة	secondary	1	0	0	Mahzorah Avenue
+BH	385038	شارع الواحة	residential	1	0	0	Oasis Avenue
+BH	385038	شارع الياسمين	residential	1	0	0	Jasmine Road
+BH	385038	شارع ام النعسان	secondary	1	0	0	Um Al-Nasan Avenue
+BH	385038	شارع باسل	residential	1	0	0	Basil Road
+BH	385038	شارع بالم	residential	1	0	0	Palm Road
+BH	385038	شارع بينه	tertiary	1	0	0	Baineh Avenue
+BH	385038	شارع جرادة	tertiary	1	0	0	Jaradah Avenue
+BH	385038	شارع جراده	tertiary	1	0	0	Jaradah Avenue
+BH	385038	شارع جيده	residential	1	0	0	Jedeh Avenue
+BH	385038	شارع حد	residential	1	0	0	Jiddah Avenue
+BH	385038	شارع خسيفة	residential	1	0	0	Khusaifeh Avenue
+BH	385038	شارع ديبيل	residential	1	0	0	Deebel Avenue
+BH	385038	شارع روبود	residential	1	0	0	Robodh Avenue
+BH	385038	شارع عجيرة	tertiary	1	0	0	Ajirah Avenue
+BH	385038	شارع مشتان	tertiary	1	0	0	Mashtan Avenue
+BH	385038	شارع نون	residential	1	0	0	Noon Avenue
+BH	385038	شارع ولي العهد	primary	1	0	0	Wali Al Ahd Highway
+BH	385038	شحرور، شارع	residential	1	0	0	Blackbird Road
+BH	385038	طريق 1005	residential	1	0	0	Road 1005
+BH	385038	طريق 101	residential	1	0	0	Road 101
+BH	385038	طريق 1011	residential	1	0	0	Road 1011
+BH	385038	طريق 1014	residential	1	0	0	Road 1014
+BH	385038	طريق 1015	residential	1	0	0	Road 1015
+BH	385038	طريق 1018	residential	1	0	0	Road 1018
+BH	385038	طريق 1021	residential	1	0	0	Road 1021
+BH	385038	طريق 1022	residential	1	0	0	Road 1022
+BH	385038	طريق 1023	residential	1	0	0	Road 1023
+BH	385038	طريق 1027	residential	1	0	0	Road 1027
+BH	385038	طريق 1028	residential	1	0	0	Road 1028

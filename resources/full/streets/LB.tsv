@@ -1,0 +1,1293 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+LB	265846	سارع 4	secondary	1	0	0	street4
+LB	265846	سارع 5	residential	1	0	0	street5
+LB	265846	سارع 7	residential	1	0	0	street7
+LB	265846	طريق طرابس - الضنية	secondary	1	0	0	
+LB	266045	Municipal Street		2	37	37	
+LB	266045	Antoine Farah Residence	residential	1	0	0	
+LB	266045	Besta	unclassified	1	0	0	
+LB	266045	Boulevard Zahlé	secondary	1	0	0	
+LB	266045	Farah's Garden	residential	1	0	0	
+LB	266045	Harkat	residential	1	0	0	
+LB	266045	Harkat Digital	residential	1	0	0	
+LB	266045	Kfar Selouan - Zahle	secondary	1	0	0	
+LB	266045	Rajaa H. Road	residential	1	0	0	
+LB	266045	Route Ferzol Terbol	tertiary	1	0	0	
+LB	266045	Route Ksara	secondary	1	0	0	
+LB	266045	Route Vallée Ferzol	tertiary	1	0	0	
+LB	266045	Rue De Jesus	tertiary	1	0	0	
+LB	266045	Rue De Sœr Marie-Noel	residential	1	0	0	
+LB	266045	Rue Des Maisons Privee	residential	1	0	0	
+LB	266045	Rue Haoch El Zaraané	unclassified	1	0	0	
+LB	266045	Rue Haouch El Oumara	secondary	1	0	0	
+LB	266045	Rue Norair	residential	1	0	0	
+LB	266045	Rue Principale de Maalaka	secondary	1	0	0	
+LB	266045	Rue Saïd	residential	1	0	0	
+LB	266045	Rue Serenity	residential	1	0	0	
+LB	266045	Rue St-Hubert	residential	1	0	0	
+LB	266045	Rue St-Joseph	residential	1	0	0	
+LB	266045	Rue Sœr Nancy	residential	1	0	0	
+LB	266045	Rue Taleet El Maalaka	unclassified	1	0	0	
+LB	266045	Rue Talet Al Central	unclassified	1	0	0	
+LB	266045	Rue Talet Joseph Skaf	residential	1	0	0	
+LB	266045	Rue Tilal	residential	1	0	0	
+LB	266045	Rue des Écoles	residential	1	0	0	
+LB	266045	Sahet El Maalaka	residential	1	0	0	
+LB	266045	Sahet El Sahel	residential	1	0	0	
+LB	266045	Taleet Mar Nkoula	residential	1	0	0	
+LB	266045	Talet El Saraya	tertiary	1	0	0	
+LB	266045	Tarik Ain El Ghsain	residential	1	0	0	
+LB	266045	Tarik E'farrin	tertiary	1	0	0	
+LB	266045	Tarik Ksara	secondary	1	0	0	
+LB	266045	الفرزل	secondary	1	0	0	Town
+LB	266045	الفرزل الساحة	secondary	1	0	0	Ferzol
+LB	266045	تعلبيا-جديتا	tertiary	1	0	0	Taalabaya-Jdita
+LB	266045	حابيس	unclassified	1	0	0	Habis
+LB	266045	شارع الأونروا	residential	1	0	0	
+LB	266045	شارع الريس موسى عراجي	residential	1	0	0	
+LB	266045	شارع الشهيد زياد عراجي	residential	1	0	0	
+LB	266045	شارع المدارس	residential	1	0	0	
+LB	266045	شارع بنك الاعتماد اللبناني	residential	1	0	0	Road Credit Liban Bank
+LB	266045	شارع سوق الخضرة	tertiary	1	0	0	
+LB	266045	طلعة الحمّار	residential	1	0	0	
+LB	266826	طريق البحر	primary	4	175	903	Sea Road
+LB	266826	tripoli		2	167	172	
+LB	266826	شارع رياض الصلح	tertiary	2	423	1300	Riad El Solh Street
+LB	266826	AL se3a	tertiary	1	0	0	
+LB	266826	Akram Ouayda	residential	1	0	0	
+LB	266826	Condor Street	residential	1	0	0	
+LB	266826	Dr. Hachem El Husseini	residential	1	0	0	
+LB	266826	Farah Antoun	unclassified	1	0	0	
+LB	266826	Lilium Venue Road	residential	1	0	0	
+LB	266826	Marj el zuhoor	residential	1	0	0	
+LB	266826	Mitain-Azmi-Central	residential	1	0	0	
+LB	266826	Nazih Mazloum	residential	1	0	0	
+LB	266826	Nour-Qasr Karameh	residential	1	0	0	
+LB	266826	Rue Achraf Kabbara	residential	1	0	0	
+LB	266826	Rue Akram Ouayda	residential	1	0	0	
+LB	266826	Rue Bab el Ramel	residential	1	0	0	
+LB	266826	Rue Cheikh Hasan Khaled	residential	1	0	0	
+LB	266826	Rue Cheikh Mohammad Salaheddine Kabbara	residential	1	0	0	
+LB	266826	Rue Cheikh Sobhi El Saleh	residential	1	0	0	
+LB	266826	Rue El Biaa	residential	1	0	0	
+LB	266826	Rue Mitain-Azmi-Central	residential	1	0	0	
+LB	266826	Rue Salim Takla	residential	1	0	0	
+LB	266826	Wadi Heb	tertiary	1	0	0	
+LB	266826	تقاطع رأس مسقا الشمالية	tertiary	1	0	0	Ras Masqa El Chmeliyeh Interchange
+LB	266826	شارع 26	residential	1	0	0	Street 26
+LB	266826	شارع أشرف كبارة	residential	1	0	0	Achraf Kabbara Street
+LB	266826	شارع أمين المقدم	residential	1	0	0	Amin Mokadem Street
+LB	266826	شارع البطريرك إلياس الحويك	residential	1	0	0	
+LB	266826	شارع الشيخ جميل عدرة	residential	1	0	0	
+LB	266826	شارع الشيخ حسن خالد	residential	1	0	0	
+LB	266826	شارع الشيخ كاظم الميقاتي	residential	1	0	0	Elcheikh Kazem Mikati Street
+LB	266826	شارع الكاردينال السمعاني	residential	1	0	0	
+LB	266826	شارع المئتين	tertiary	1	0	0	Mitein street
+LB	266826	شارع المطران	residential	1	0	0	
+LB	266826	شارع جبران خليل جبران	residential	1	0	0	
+LB	266826	شارع حازم الجسر	tertiary	1	0	0	Hazem El Jeser Street
+LB	266826	شارع رشيد كرامة	tertiary	1	0	0	Rashid Karameh Boulevard
+LB	266826	شارع رفيق فتال	residential	1	0	0	
+LB	266826	شارع سابا زريق	residential	1	0	0	Saba Zariek Street
+LB	266826	شارع سعدي المنلا	residential	1	0	0	
+LB	266826	شارع سوريا	tertiary	1	0	0	Syria Street
+LB	266826	شارع شفيق كرامي	residential	1	0	0	Chafik Karameh Street
+LB	266826	شارع طرابلس	residential	1	0	0	Tripoli Boulevard
+LB	266826	شارع عبد الحميد الرفاعي	residential	1	0	0	
+LB	266826	شارع عبد القادر المنلا	residential	1	0	0	Abdel Kader Almollah Street
+LB	266826	شارع عدنان درويش أغا	residential	1	0	0	
+LB	266826	شارع عزمي بك	residential	1	0	0	Aazmi Street
+LB	266826	شارع عشير الدايه	tertiary	1	0	0	Achie El Daya
+LB	266826	شارع عمر بن عبد العزيز	residential	1	0	0	Omar Ben Abdel Aziz Street
+LB	266826	شارع فؤاد المنلا	residential	1	0	0	
+LB	266826	شارع فوزي قاوقجي	tertiary	1	0	0	
+LB	266826	شارع مار إلياس	tertiary	1	0	0	Mar Elias street
+LB	266826	شارع متال الأزرق	tertiary	1	0	0	
+LB	266826	شارع محي الدين مكوك	tertiary	1	0	0	Mohieddine Makkouk Street
+LB	266826	شارع نديم الجسر	residential	1	0	0	Nadim El Jisr Street
+LB	266826	طريق زغرتا - طرابلس	primary	1	0	0	
+LB	266826	طريق طرابس - الضنية	secondary	1	0	0	
+LB	266826	طلعة الرفاعية	residential	1	0	0	Rifaiyeh
+LB	266826	طلعة القلعة	residential	1	0	0	Taleet Al Kalaa
+LB	266826	مستديرة المئتين	tertiary	1	0	0	
+LB	267008	El Kouds	secondary	1	0	0	
+LB	267008	Rue Abel Alhussein Basma	residential	1	0	0	
+LB	267008	Rue Adib Moussa Baalbaki	residential	1	0	0	
+LB	267008	Rue Assad Mohamad Watfa	residential	1	0	0	
+LB	267008	Rue Consul General Hussein Docteur Antar	unclassified	1	0	0	
+LB	267008	Rue Imam Moussa Sadr	residential	1	0	0	
+LB	267008	Rue Mohamad Al Zayat	secondary	1	0	0	
+LB	267008	Rue Mohamad Ali Basma	residential	1	0	0	
+LB	267008	Rue Zein Basma	residential	1	0	0	
+LB	267008	dr ali al khalil	tertiary	1	0	0	
+LB	267008	el kouks	secondary	1	0	0	
+LB	267008	شارع 1	residential	1	0	0	street1
+LB	267008	شارع أبو ديب	secondary	1	0	0	
+LB	267008	شارع الأوقاف	tertiary	1	0	0	Rue de Dotations
+LB	267008	شارع السنغال	tertiary	1	0	0	Senegal Street
+LB	267008	شارع حافظ الأسد	secondary	1	0	0	Rue Hafez el-Assad
+LB	267008	شارع حيرام	tertiary	1	0	0	
+LB	267099	Zrarieh Bridge	secondary	1	0	0	
+LB	267099	residential street	residential	1	0	0	
+LB	267099	طريق وادي الحجير	secondary	1	0	0	
+LB	267156	درب الجبل لبناني قسم 3	unclassified	1	0	0	Lebanon Mountain Trail Section 3
+LB	267156	طريق الضنية - الهرمل	secondary	1	0	0	
+LB	268064	7ay al Salam	tertiary	1	0	0	
+LB	268064	Kefraya Saida	residential	1	0	0	
+LB	268064	بولفار معروف سعد	primary	1	0	0	Maarouf Saad Boulevard
+LB	268064	بوليفارد مرعي أبو مرعي	primary	1	0	0	Merhi Abou Merhi Boulevard
+LB	268064	جادة الحج أحمد الشماع	primary	1	0	0	Hajj Ahmad Shamaa Avenue
+LB	268064	جادة نبيه بري	tertiary	1	0	0	Nabih Berri Avenue
+LB	268064	دوار الأمريكان	secondary	1	0	0	
+LB	268064	دوار الجبيلي	primary	1	0	0	Jubeily Roundabout
+LB	268064	دوار القناية	primary	1	0	0	Qanay Roundabout
+LB	268064	ساحة الشهداء	primary	1	0	0	Martyrs Square
+LB	268064	ساحة القدس	tertiary	1	0	0	Al Quds Square
+LB	268064	ساحة النجمة	primary	1	0	0	
+LB	268064	شارع أحمد محمود النداف	residential	1	0	0	Ahmad Mahmoud Naddaf Street
+LB	268064	شارع الحج حافظ	residential	1	0	0	
+LB	268064	شارع الدكتور بازيل عبود	residential	1	0	0	
+LB	268064	شارع الدكتور عبدالله يوسف كنعان	residential	1	0	0	Dr. Abdallah Youssef Kanaan Street
+LB	268064	شارع الدكتور عدنان النوام	primary	1	0	0	
+LB	268064	شارع الدكتور فؤاد عسيران	unclassified	1	0	0	
+LB	268064	شارع الدكتور لبيب أبو ظهر	unclassified	1	0	0	
+LB	268064	شارع الست نفيسة	residential	1	0	0	
+LB	268064	شارع السراي	primary	1	0	0	Seray Street
+LB	268064	شارع الشهيد رفيق الحريري	tertiary	1	0	0	
+LB	268064	شارع الشهيدين سليم أمين حجازي و بلال محي الدين عزام	residential	1	0	0	Salim Hijazi & Bilal Azam Street
+LB	268064	شارع الشيخ عمر الحلاق	secondary	1	0	0	Sheikh Omar al-Hallaq Street
+LB	268064	شارع الشيخ محرم عارفي	tertiary	1	0	0	Cheikh Mouharram Aarify Street
+LB	268064	شارع القاضي أحمد أكرم عزالدين بعاصيري	residential	1	0	0	
+LB	268064	شارع القدس	tertiary	1	0	0	Al Quds Street
+LB	268064	شارع المختار حسيب مخول	residential	1	0	0	
+LB	268064	شارع المطران سليم غزال	residential	1	0	0	Salim Ghazzal Street
+LB	268064	شارع المواساة	residential	1	0	0	Al Moasat Street
+LB	268064	شارع باسيليوس حجار	residential	1	0	0	Basilios Hajjar Street
+LB	268064	شارع جباع العام	secondary	1	0	0	Jebaa Public Street
+LB	268064	شارع حسام الدين رفيق حريري	primary	1	0	0	Houssam Eddine Rafic Hariri Street
+LB	268064	شارع خالد جنبلاط	residential	1	0	0	
+LB	268064	شارع دلاعة	residential	1	0	0	
+LB	268064	شارع رقم ١	residential	1	0	0	
+LB	268064	شارع رقم ٢	residential	1	0	0	
+LB	268064	شارع رقم ٣	tertiary	1	0	0	
+LB	268064	شارع غسان حمود	residential	1	0	0	Ghassan Hammoud Street
+LB	268064	شارع محمد علي زعتري	residential	1	0	0	Muhammad Ali Zaatari Street
+LB	268064	شارع مرعي أبو مرعي	secondary	1	0	0	
+LB	268064	شارع مصطفى سعد	tertiary	1	0	0	
+LB	268064	شارع نزلة صيدون	residential	1	0	0	Nazlet Sidoun Street
+LB	268064	شارع وفيق علاء الدين	residential	1	0	0	
+LB	268064	شارع ٣١	residential	1	0	0	
+LB	268064	شارع ٣٣	residential	1	0	0	
+LB	268064	شراع القصور	tertiary	1	0	0	Caslte Road
+LB	268064	طريق البحر	primary	1	0	0	Sea Road
+LB	268064	طريق صيدا جباع الرئيسي	secondary	1	0	0	Sidon - Jbaa Main Road
+LB	268064	طلعت المحافظ	tertiary	1	0	0	
+LB	268064	نزلت الجيش	residential	1	0	0	
+LB	268743	شارع دار المريسة	residential	3	22	72	Rue Dar El-Mreissé
+LB	268743	شارع صوراتي	tertiary	3	125	494	Sourati
+LB	268743	شارع إميل أده	secondary	2	442	448	Emile Eddé Street
+LB	268743	شارع روضة	residential	2	37	43	Rawda Street
+LB	268743	Abdallah El Rassi	residential	1	0	0	
+LB	268743	Georges Zouein	residential	1	0	0	
+LB	268743	Place Mufti Cheikh Mhd Toufic Khaled	residential	1	0	0	
+LB	268743	Place Rachid El Solh	residential	1	0	0	
+LB	268743	Rue City Suite	residential	1	0	0	
+LB	268743	Rue El-Oud	residential	1	0	0	
+LB	268743	Rue Ibrahim Abed El Aal	residential	1	0	0	
+LB	268743	Rue Jamil Houssami	residential	1	0	0	
+LB	268743	Rue Jeanne d'Arc	pedestrian	1	0	0	
+LB	268743	اسكندر رياشي	residential	1	0	0	Iskandar Riachi
+LB	268743	ساحة جميل لحود	pedestrian	1	0	0	
+LB	268743	شارع 46	residential	1	0	0	
+LB	268743	شارع 48	residential	1	0	0	48 Street
+LB	268743	شارع 49	pedestrian	1	0	0	Street 49
+LB	268743	شارع 52	pedestrian	1	0	0	Street 52
+LB	268743	شارع 54	residential	1	0	0	
+LB	268743	شارع 55	residential	1	0	0	
+LB	268743	شارع 56	residential	1	0	0	Rue Hassan Idriss
+LB	268743	شارع 57	residential	1	0	0	Street 57
+LB	268743	شارع 58	residential	1	0	0	
+LB	268743	شارع 59	residential	1	0	0	
+LB	268743	شارع 60	residential	1	0	0	Dr. Muhieddine Bargout
+LB	268743	شارع 62	residential	1	0	0	Street 62
+LB	268743	شارع 64	pedestrian	1	0	0	
+LB	268743	شارع 65	residential	1	0	0	
+LB	268743	شارع 67	residential	1	0	0	
+LB	268743	شارع 69	residential	1	0	0	
+LB	268743	شارع 70	residential	1	0	0	
+LB	268743	شارع 72	residential	1	0	0	
+LB	268743	شارع 73	residential	1	0	0	
+LB	268743	شارع 76	residential	1	0	0	Street 76
+LB	268743	شارع 78	residential	1	0	0	
+LB	268743	شارع 81	residential	1	0	0	
+LB	268743	شارع 82	residential	1	0	0	
+LB	268743	شارع 84	residential	1	0	0	Street 84
+LB	268743	شارع 86	residential	1	0	0	
+LB	268743	شارع 87	residential	1	0	0	
+LB	268743	شارع 88	unclassified	1	0	0	Street 88
+LB	268743	شارع 90	residential	1	0	0	
+LB	268743	شارع 91	unclassified	1	0	0	Street 91
+LB	268743	شارع 92	unclassified	1	0	0	Street 92
+LB	268743	شارع 94	residential	1	0	0	
+LB	268743	شارع أبو الفدا	residential	1	0	0	Rue Aboul-Fida
+LB	268743	شارع أبي تمام	residential	1	0	0	Rue Abi Tammam
+LB	268743	شارع أبي نواس	residential	1	0	0	Abi-Nouwass
+LB	268743	شارع أحمد مختار خالد	tertiary	1	0	0	Rue Ahmad Mokhtar Khaled
+LB	268743	شارع أدونيس	residential	1	0	0	Adonis
+LB	268743	شارع أديب قدورة	residential	1	0	0	Adib Kaddoura
+LB	268743	شارع أرسلان سنو	residential	1	0	0	Arslane Sinno
+LB	268743	شارع أستراليا	residential	1	0	0	Australia street
+LB	268743	شارع ألفرد نوبل	tertiary	1	0	0	Alfred Nobel
+LB	268743	شارع أميركا	residential	1	0	0	Amérique
+LB	268743	شارع أمين منيمنة	residential	1	0	0	Amine Mneimné
+LB	268743	شارع أنطون الجميل	residential	1	0	0	
+LB	268743	شارع أنيس الشيخ	residential	1	0	0	Anis El-Cheikh
+LB	268743	شارع أولبيانوس	residential	1	0	0	Ulpien
+LB	268743	شارع إسكندر عازار	residential	1	0	0	
+LB	268743	شارع ابن رشد	residential	1	0	0	Ibn Rushd Street
+LB	268743	شارع الأب لامنس	residential	1	0	0	Father Lammens
+LB	268743	شارع الأب لوبريه	residential	1	0	0	Père Lebret
+LB	268743	شارع الأمير حيدر	residential	1	0	0	Emir Haidar
+LB	268743	شارع الأهرام	residential	1	0	0	El-Ahram
+LB	268743	شارع الباروك	residential	1	0	0	Rue Barouk
+LB	268743	شارع البحرين	secondary	1	0	0	Bahrein
+LB	268743	شارع البريستول	residential	1	0	0	Bristol
+LB	268743	شارع البصرة	residential	1	0	0	Rue Basra
+LB	268743	شارع التنوخيين	residential	1	0	0	Tannoukhiyne
+LB	268743	شارع الجامعة الأميركية	residential	1	0	0	American University Street
+LB	268743	شارع الحاج محمد النصولي	residential	1	0	0	Hajj Mohammed Nsouli
+LB	268743	شارع الحسين	residential	1	0	0	El-Hussein
+LB	268743	شارع الحمرا	secondary	1	0	0	Hamra Street
+LB	268743	شارع الخالدي	residential	1	0	0	Rue Khalidy
+LB	268743	شارع الدكتور نقولا ربيز	residential	1	0	0	Dr. Nicolas Rebeiz
+LB	268743	شارع الرياض	residential	1	0	0	El-Riad
+LB	268743	شارع السادات	secondary	1	0	0	Sadat
+LB	268743	شارع الست نسب	residential	1	0	0	Sitt Nassab
+LB	268743	شارع الشيخ الياس كسبار	residential	1	0	0	Cheikh Elias Gaspard
+LB	268743	شارع الشيخ عبد الله الصباح	residential	1	0	0	Cheikh Abdallah El-Sabah
+LB	268743	شارع الطبري	residential	1	0	0	Rue Tabary
+LB	268743	شارع العيتاني	residential	1	0	0	Rue Itani
+LB	268743	شارع القاهرة	residential	1	0	0	Cairo
+LB	268743	شارع القلعة	secondary	1	0	0	Qalaa Street
+LB	268743	شارع الكويت	residential	1	0	0	Kuwait Street
+LB	268743	شارع اللبان	residential	1	0	0	Labbane
+LB	268743	شارع المعماري	residential	1	0	0	Maamari Street
+LB	268743	شارع المغربل	residential	1	0	0	Mougarbel
+LB	268743	شارع المفتي الشيخ محمد توفيق خالد	residential	1	0	0	Mufti Cheikh Mhd Toufic Khaled
+LB	268743	شارع المقدسي	residential	1	0	0	Makdissi
+LB	268743	شارع المكحول	residential	1	0	0	Makhoul Street
+LB	268743	شارع المنارة	residential	1	0	0	Manara
+LB	268743	شارع المنفلوطي	residential	1	0	0	Manfalouti
+LB	268743	شارع المهتما غاندي	residential	1	0	0	Mahatma Gandhi
+LB	268743	شارع المونسينيور روفايل	residential	1	0	0	Mgr. Rouphael
+LB	268743	شارع الهدى	residential	1	0	0	Rue El-Houda
+LB	268743	شارع الوحدة الوطنية	residential	1	0	0	Abdallah Machnouk
+LB	268743	شارع بخعازي	residential	1	0	0	Rue Bekhaazi
+LB	268743	شارع بدر	residential	1	0	0	Rue Badr
+LB	268743	شارع بدر دمشقية	secondary	1	0	0	Badr Demachkieh Street
+LB	268743	شارع برلين	residential	1	0	0	Berlin
+LB	268743	شارع بعلبك	residential	1	0	0	Rue de Baalbek
+LB	268743	شارع بني معروف	secondary	1	0	0	Bani Maarouf
+LB	268743	شارع تابت	residential	1	0	0	Tabet
+LB	268743	شارع تقي الدين الصلح	secondary	1	0	0	Taki Eddine El-Solh
+LB	268743	شارع جبر ضومط	residential	1	0	0	Rue Jabre Doumit
+LB	268743	شارع جبرائيل نصار	residential	1	0	0	Rue Gibrael Nassar
+LB	268743	شارع جبور	pedestrian	1	0	0	Rue Jabbour
+LB	268743	شارع جستنيان	residential	1	0	0	Rue Justinien
+LB	268743	شارع جميل الحسامي	residential	1	0	0	Rue Jamil Houssami
+LB	268743	شارع جورج بوست	residential	1	0	0	Georges Post
+LB	268743	شارع جورج زوين	residential	1	0	0	Georges Zouein
+LB	268743	شارع جون كينيدي	tertiary	1	0	0	John Kennedy
+LB	268743	شارع حبيب سرور	residential	1	0	0	Habib Srour
+LB	268743	شارع حسن كامل الصباح	residential	1	0	0	Hassan Kamel El-Sabbah
+LB	268743	شارع حسين تلحوق	residential	1	0	0	Hussein Talhouk
+LB	268743	شارع خالد إبن الوليد	secondary	1	0	0	Khaled Ibn-El Walid
+LB	268743	شارع خالد ابن الوليد	secondary	1	0	0	Khaled Ibn-El Walid
+LB	268743	شارع خالد بن الوليد	secondary	1	0	0	Rue Khalid ibn al-Walid
+LB	268743	شارع خالد شهاب	residential	1	0	0	Khaled Chehab
+LB	268743	شارع خضر السجعان	residential	1	0	0	Khodr Sajhane
+LB	268743	شارع دونان	tertiary	1	0	0	Dunant
+LB	268743	شارع رابندرانات طاغور	residential	1	0	0	
+LB	268743	شارع ربيز	residential	1	0	0	Rebeiz
+LB	268743	شارع رشيد كرامة	tertiary	1	0	0	Rachid Karame Street
+LB	268743	شارع رفيق أرسلان	residential	1	0	0	Rafic Arslane
+LB	268743	شارع رفيق نجا	residential	1	0	0	Rafic Naja
+LB	268743	شارع روزفلت	residential	1	0	0	Rue Roosevelt
+LB	268743	شارع رياض طه	residential	1	0	0	Riad Taha
+LB	268743	شارع زكي مزبودي	residential	1	0	0	Zaki Mazboudi
+LB	268743	شارع ساقية الجنزير	residential	1	0	0	Mufti Cheikh Mhd Toufic Khaled
+LB	268743	شارع سامح فاخوري	residential	1	0	0	Sameh Fakhoury
+LB	268743	شارع سليم الأعور	pedestrian	1	0	0	Rue Selim El-Awar
+LB	268743	شارع سوبرة	residential	1	0	0	
+LB	268743	شارع سيمون بوليفار	residential	1	0	0	Simon Bolivar
+LB	268743	شارع شاتيلا	secondary	1	0	0	Rue Chatila
+LB	268743	شارع شبلي العريان	residential	1	0	0	Chebli El-Aariane
+LB	268743	شارع شكري غانم	residential	1	0	0	Chucri Ghanem
+LB	268743	شارع شيلي	residential	1	0	0	Chili
+LB	268743	شارع صلاح الدين الأيوبي	unclassified	1	0	0	Salaheddine El Ayoubi
+LB	268743	شارع صلاح الدين عيتاني	secondary	1	0	0	Salah Eddine Itani
+LB	268743	شارع صوفر	residential	1	0	0	Sofar
+LB	268743	شارع طبارة	residential	1	0	0	Rue Tabbara
+LB	268743	شارع عائشة بكار	residential	1	0	0	Rue Aicha Bakkar
+LB	268743	شارع عادل الصلح	residential	1	0	0	Adel El-Solh
+LB	268743	شارع عبد الرحيم دياب	residential	1	0	0	Rue Abdel Rahim Diab
+LB	268743	شارع عبد الرزاق حماده	tertiary	1	0	0	Abdel-Razzak Hamadé
+LB	268743	شارع عبد الله التنوخي	residential	1	0	0	Rue Abdallah El Tanoukhi
+LB	268743	شارع عبد الله المشنوق	residential	1	0	0	Abdallah Machnouk
+LB	268743	شارع عبد المنعم رياض	residential	1	0	0	Abdel Rahman Itani
+LB	268743	شارع عبد الوهاب الرفاعي	residential	1	0	0	Abdul Wahab Rifahi
+LB	268743	شارع عرمان	residential	1	0	0	Rue Araman
+LB	268743	شارع عشتروت	residential	1	0	0	
+LB	268743	شارع فرسان الهيكل	residential	1	0	0	Chevaliers du Temple
+LB	268743	شارع فوزي المعلوف	residential	1	0	0	Rue Faouzi Maalouf
+LB	268743	شارع فينا	residential	1	0	0	Vienne
+LB	268743	شارع فينوس	secondary	1	0	0	Rue Vénus
+LB	268743	شارع قسطنطين زريق	residential	1	0	0	Constantine Zreik
+LB	268743	شارع كامل حمية	residential	1	0	0	
+LB	268743	شارع كليوبترا	residential	1	0	0	Cléopatre
+LB	268743	شارع كمال جنبلاط	secondary	1	0	0	Kamal Joumblatt
+LB	268743	شارع لويس ماسينون	residential	1	0	0	Rue Louis Massignon
+LB	268743	شارع ليوناردو دافنشي	residential	1	0	0	Léonard de Vinci street
+LB	268743	شارع ماري إدة	residential	1	0	0	Mary Eddé
+LB	268743	شارع مايكل دبغي	residential	1	0	0	Michael Dabaghi
+LB	268743	شارع محمد عبد الباقي	residential	1	0	0	Rue Mohammed Abdel Baki
+LB	268743	شارع محمد عبد الوهاب	residential	1	0	0	Mohammed Abdel Wahab
+LB	268743	شارع محي الدين النصولي	residential	1	0	0	Mouhieddine Nsouli
+LB	268743	شارع مزبودي	residential	1	0	0	Mazboudi
+LB	268743	شارع مصطفى الغلايني	residential	1	0	0	Rue Moustapha Ghalaini
+LB	268743	شارع مصطفى كامل	residential	1	0	0	Rue Moustapha Kamel
+LB	268743	شارع منصور جرداق	tertiary	1	0	0	Mansour Jurdak
+LB	268743	شارع موزار	residential	1	0	0	Mozart
+LB	268743	شارع ميسلون	residential	1	0	0	Maisaloun
+LB	268743	شارع ميكل أنج	residential	1	0	0	Rue Michel Ange
+LB	268743	شارع نجيب أبو صوان	residential	1	0	0	Rue Negib Aboussouan
+LB	268743	شارع نعمة يافت	residential	1	0	0	Nehmeh Jafet
+LB	268743	شارع نيجيريا	residential	1	0	0	Nigeria
+LB	268743	شارع هنري فورد	residential	1	0	0	Henry Ford
+LB	268743	شارع وديع صبرا	residential	1	0	0	Wadih Sabra
+LB	268743	شارع يموت	residential	1	0	0	Rue Yamout
+LB	268743	كرنيش بيروت	pedestrian	1	0	0	Corniche Beirut
+LB	269355	Houssien Mourad Street	residential	1	0	0	
+LB	269355	طريق زبقين - جبل النمرة	residential	1	0	0	
+LB	271226	جيش لبنان الجنوبي	residential	1	0	0	South Lebanon Army
+LB	272816	طريق الفرديس-الهبارية	tertiary	1	0	0	
+LB	272849	United Nations Road	unclassified	1	0	0	
+LB	272849	גשר ע'ג'ר	unclassified	1	0	0	Ghajar Bridge
+LB	272849	דרך הביטחון	unclassified	1	0	0	Israel Security Road
+LB	272849	האשד	residential	1	0	0	HaEshed
+LB	272849	הבלוע	residential	1	0	0	HaBalua
+LB	272849	הגורן	residential	1	0	0	HaGoren
+LB	272849	הגפן	living_street	1	0	0	HaGefen
+LB	272849	החרמון	residential	1	0	0	HaHermon
+LB	272849	הטחנה	residential	1	0	0	HaTahana
+LB	272849	הכלנית	residential	1	0	0	HaKalanit
+LB	272849	הלבנון	residential	1	0	0	HaLevanon
+LB	272849	המורג	residential	1	0	0	HaMorag
+LB	272849	המפל	residential	1	0	0	HaMapal
+LB	272849	הסביון	residential	1	0	0	HaSavyon
+LB	272849	הראשונים	residential	1	0	0	HaRishonim
+LB	272849	הרקפת	residential	1	0	0	HaRakefet
+LB	272849	השמורה	residential	1	0	0	HaShmura
+LB	272849	התנור	residential	1	0	0	HaTanur
+LB	272849	מעלה ארז	residential	1	0	0	Maale Erez
+LB	272849	עיון	residential	1	0	0	Iyun
+LB	272849	الطريق السريع المرج	primary	1	0	0	Marj Autostrad
+LB	272849	النبطية - طريق القليعة	residential	1	0	0	Nabatieh - Klayaa Road
+LB	272849	النبطية - طريق برج الملوك	primary	1	0	0	Nabatieh - Burj al Muluk Road
+LB	272849	جسر أبو زبلة	secondary	1	0	0	Jisr Abou Zeble
+LB	273140	Immigrants Street	tertiary	10	4	977	
+LB	273140	شارع 8	residential	9	7	53	Street 8
+LB	273140	شارع العيون	residential	9	263	302	
+LB	273140	Street 5		7	209	806	
+LB	273140	Street 7		7	229	243	
+LB	273140	El Deir Street	tertiary	6	135	164	
+LB	273140	7th Street		5	11	20	
+LB	273140	Street 4	residential	4	173	206	
+LB	273140	Rue 2	secondary	3	430	460	
+LB	273140	شارع 4	residential	3	1	9	Street 4
+LB	273140	شارع 7	residential	3	7	10	Street 7
+LB	273140	Rue V1		2	8	12	
+LB	273140	Street 6		2	227	232	
+LB	273140	1601	residential	1	0	0	
+LB	273140	4e Rue	tertiary	1	0	0	
+LB	273140	Ain El Rihaneh Road	tertiary	1	0	0	
+LB	273140	Aintoura-Ain El Rihaneh Road	secondary	1	0	0	
+LB	273140	Arc de Lemgo	tertiary	1	0	0	
+LB	273140	Avenue J. P. Karam	tertiary	1	0	0	
+LB	273140	Avenue Shakri Hanna Shammas	tertiary	1	0	0	
+LB	273140	Casino Street	residential	1	0	0	
+LB	273140	Chahtoul -Dlebta	residential	1	0	0	
+LB	273140	Deutsche Schule Street	tertiary	1	0	0	
+LB	273140	Impasse 19	residential	1	0	0	
+LB	273140	Jardin Public de Jounieh	residential	1	0	0	
+LB	273140	Monastery Street	residential	1	0	0	
+LB	273140	Road 4	residential	1	0	0	
+LB	273140	Route Chahtoûl - Dlebta	tertiary	1	0	0	
+LB	273140	Route Harîssa	unclassified	1	0	0	
+LB	273140	Route Jounieh - Chnanir	secondary	1	0	0	
+LB	273140	Route Saint-Antonios	residential	1	0	0	
+LB	273140	Route principale de Zakrît	tertiary	1	0	0	
+LB	273140	Rue 102	residential	1	0	0	
+LB	273140	Rue 1104	residential	1	0	0	
+LB	273140	Rue 17	residential	1	0	0	
+LB	273140	Rue 18	residential	1	0	0	
+LB	273140	Rue 28	tertiary	1	0	0	
+LB	273140	Rue 3	residential	1	0	0	
+LB	273140	Rue 4	secondary	1	0	0	
+LB	273140	Rue 4-13	residential	1	0	0	
+LB	273140	Rue 507	residential	1	0	0	
+LB	273140	Rue 706	residential	1	0	0	
+LB	273140	Rue 707	residential	1	0	0	
+LB	273140	Rue 710	residential	1	0	0	
+LB	273140	Rue 711	residential	1	0	0	
+LB	273140	Rue 7B	residential	1	0	0	
+LB	273140	Rue 801	residential	1	0	0	
+LB	273140	Rue 8A	residential	1	0	0	
+LB	273140	Rue A	secondary	1	0	0	
+LB	273140	Rue Bougainvillier	residential	1	0	0	
+LB	273140	Rue Hôpital Saint Louis	tertiary	1	0	0	
+LB	273140	Rue Khoury et Baroud	tertiary	1	0	0	
+LB	273140	Rue V8	residential	1	0	0	
+LB	273140	Rue des Cedres	residential	1	0	0	
+LB	273140	Rue des Chenes	residential	1	0	0	
+LB	273140	Rue des Jamins	residential	1	0	0	
+LB	273140	Rue des Jasmins	residential	1	0	0	
+LB	273140	Rue des Lauriers	residential	1	0	0	
+LB	273140	Rue des Palmiers	residential	1	0	0	
+LB	273140	Street 14	residential	1	0	0	
+LB	273140	Street 20	residential	1	0	0	
+LB	273140	Street 203	residential	1	0	0	
+LB	273140	Street 205	residential	1	0	0	
+LB	273140	Street 53	residential	1	0	0	
+LB	273140	Val Verde St.	residential	1	0	0	
+LB	273140	Zone Bleue - Rue 1	residential	1	0	0	
+LB	273140	Zone Bleue - Rue 2	residential	1	0	0	
+LB	273140	Zone Rouge - Rue 2	residential	1	0	0	
+LB	273140	Zone Rouge - Rue 3	residential	1	0	0	
+LB	273140	Zone Rouge - Rue 4	residential	1	0	0	
+LB	273140	Zone Verte - Rue 1	residential	1	0	0	
+LB	273140	Zone Verte - Rue 2	residential	1	0	0	
+LB	273140	Zone Verte - Rue 3	residential	1	0	0	
+LB	273140	زنقة 22	residential	1	0	0	Impasse 22
+LB	273140	شارع 1 أ	residential	1	0	0	1A Street
+LB	273140	شارع 10	residential	1	0	0	Street 10
+LB	273140	شارع 101	residential	1	0	0	Street 101
+LB	273140	شارع 102	residential	1	0	0	Street 102
+LB	273140	شارع 105	tertiary	1	0	0	Street 105
+LB	273140	شارع 10أ	residential	1	0	0	Street 10A
+LB	273140	شارع 11	residential	1	0	0	11th Street
+LB	273140	شارع 12	residential	1	0	0	Street 12
+LB	273140	شارع 1203	residential	1	0	0	Street 1203
+LB	273140	شارع 1204	residential	1	0	0	Street 1204
+LB	273140	شارع 123	residential	1	0	0	ٍStreet 123
+LB	273140	شارع 12أ	residential	1	0	0	Street 12A
+LB	273140	شارع 13	residential	1	0	0	13th Street
+LB	273140	شارع 14	residential	1	0	0	Street 14
+LB	273140	شارع 1401	residential	1	0	0	1401 Street
+LB	273140	شارع 1402	residential	1	0	0	1402 Street
+LB	273140	شارع 15	residential	1	0	0	Street 15
+LB	273140	شارع 1502	residential	1	0	0	Street 1502
+LB	273140	شارع 1601	residential	1	0	0	1601 Street
+LB	273140	شارع 1701	residential	1	0	0	1701 Road
+LB	273140	شارع 1702	residential	1	0	0	1702 Road
+LB	273140	شارع 1704	residential	1	0	0	1704 Road
+LB	273140	شارع 2	residential	1	0	0	Street 2
+LB	273140	شارع 20	residential	1	0	0	
+LB	273140	شارع 204	residential	1	0	0	Street 204
+LB	273140	شارع 205	residential	1	0	0	Street 205
+LB	273185	1st Main Street	residential	1	0	0	
+LB	273185	2nd Main Street	residential	1	0	0	
+LB	273185	Avenida Brasil	residential	1	0	0	
+LB	273185	Farm Street	residential	1	0	0	
+LB	273185	JLSI Main Street	residential	1	0	0	
+LB	273185	JLSI Residential Street	residential	1	0	0	
+LB	273185	Kherbet Qanafar Main Road	primary	1	0	0	
+LB	273185	Lower JLSI Street	residential	1	0	0	
+LB	273185	Main Street	residential	1	0	0	
+LB	273185	Route Ghazzé - Mansoura	tertiary	1	0	0	
+LB	273185	Rue WBCC	residential	1	0	0	
+LB	273185	Sultan Yaakoub Main Street	residential	1	0	0	
+LB	273203	Rue 104		2	28	87	
+LB	273203	Saydet Al Najat Street	residential	2	3	10	
+LB	273203	219	residential	1	0	0	
+LB	273203	Bejje - Amchit	secondary	1	0	0	
+LB	273203	Blat Jbeil Byblos	residential	1	0	0	
+LB	273203	El Namous	residential	1	0	0	
+LB	273203	Gharzouz - Jeddeyil	primary	1	0	0	
+LB	273203	Lycee Nahr Ibrahim	residential	1	0	0	
+LB	273203	Nahr Ibrahim Maaysra	secondary	1	0	0	
+LB	273203	Nahr Ibrahim-Vahchouch	secondary	1	0	0	
+LB	273203	Route Beit El Boumeh	tertiary	1	0	0	
+LB	273203	Rue 03	primary	1	0	0	
+LB	273203	Rue 06	secondary	1	0	0	
+LB	273203	Rue 07	residential	1	0	0	
+LB	273203	Rue 10	residential	1	0	0	
+LB	273203	Rue 100	unclassified	1	0	0	
+LB	273203	Rue 1001	residential	1	0	0	
+LB	273203	Rue 101	residential	1	0	0	
+LB	273203	Rue 207	residential	1	0	0	
+LB	273203	Rue 214	residential	1	0	0	
+LB	273203	Rue 218	residential	1	0	0	
+LB	273203	Rue 220	residential	1	0	0	
+LB	273203	Rue 222	residential	1	0	0	
+LB	273203	Rue 223	residential	1	0	0	
+LB	273203	Rue 24	residential	1	0	0	
+LB	273203	Rue 29	pedestrian	1	0	0	
+LB	273203	Rue 300	residential	1	0	0	
+LB	273203	Rue 301	residential	1	0	0	
+LB	273203	Rue 32	pedestrian	1	0	0	
+LB	273203	Rue 37	residential	1	0	0	
+LB	273203	Rue 402	residential	1	0	0	
+LB	273203	Rue 405	unclassified	1	0	0	
+LB	273203	Rue 504	residential	1	0	0	
+LB	273203	Rue 505	residential	1	0	0	
+LB	273203	Rue 506	residential	1	0	0	
+LB	273203	Rue 507	residential	1	0	0	
+LB	273203	Rue 508	residential	1	0	0	
+LB	273203	Rue 6	tertiary	1	0	0	
+LB	273203	Rue 603	residential	1	0	0	
+LB	273203	Rue 603 A	residential	1	0	0	
+LB	273203	Rue 608	residential	1	0	0	
+LB	273203	Rue 609	residential	1	0	0	
+LB	273203	Rue 611	residential	1	0	0	
+LB	273203	Rue 702	residential	1	0	0	
+LB	273203	Rue 72	residential	1	0	0	
+LB	273203	Rue 9	residential	1	0	0	
+LB	273203	Rue 901	residential	1	0	0	
+LB	273203	Rue 902	residential	1	0	0	
+LB	273360	Anane	primary	1	0	0	
+LB	273360	Machgarah - Ain El Tineh Road	primary	1	0	0	
+LB	273360	Route Roûm - Anâne - Jezzîne	primary	1	0	0	
+LB	273360	Route Sidon - Jezzîne	primary	1	0	0	
+LB	273360	Rue General de Gaulle	primary	1	0	0	
+LB	273360	Rue Général de Gaulle	primary	1	0	0	
+LB	273360	النبطية - طريق جزين	primary	1	0	0	Nabatieh - Jezzine Road
+LB	273360	حارة الحرافشة	residential	1	0	0	
+LB	273360	طريق الحرش	tertiary	1	0	0	
+LB	273360	طريق بسري	secondary	1	0	0	
+LB	274313	طريق الفرديس-أبو قمحة	tertiary	1	0	0	
+LB	274313	طريق الفرديس-الهبارية	tertiary	1	0	0	
+LB	274499	Baskinta - Bqaatouta - Kfar Debiane	secondary	1	0	0	
+LB	274499	Rue Bou Nour	residential	1	0	0	
+LB	274499	Rue J2	residential	1	0	0	
+LB	274499	Rue J5	residential	1	0	0	
+LB	274499	Yahchouch Aibri	unclassified	1	0	0	
+LB	274499	mrah chedad	residential	1	0	0	
+LB	274499	طريق عرمون-حياطة-شحتول	unclassified	1	0	0	Aramoun - Hiyata- Chahtoul
+LB	274499	ممر نهر الذهب	residential	1	0	0	Nahr Ed Dahab Trail
+LB	274723	طريق حلبا	residential	1	0	0	Route Halba
+LB	274723	طريق حلبا-منيارة	tertiary	1	0	0	Route Halba Miniara
+LB	274874	النبطية - طريق جزين	primary	1	0	0	Nabatieh - Jezzine Road
+LB	274874	جسر حبوش	secondary	1	0	0	Jisr Habbouch
+LB	275368	Bejje - Amchit	secondary	1	0	0	
+LB	275368	Fadous-فدعوس	residential	1	0	0	
+LB	275368	Maad - Bejje	secondary	1	0	0	
+LB	275368	Rue 1	secondary	1	0	0	
+LB	275368	Sea Road Fadous	primary	1	0	0	
+LB	275368	SeaSide Road FAdous	primary	1	0	0	
+LB	275368	شارع فدعوس	residential	1	0	0	
+LB	275368	طريق البحر	primary	1	0	0	Sea Road
+LB	275368	طريق البحر فدعوس	residential	1	0	0	SeaSide Road Fadous
+LB	275368	فدعوس	residential	1	0	0	Fadous
+LB	276359	Garakia Street	tertiary	1	0	0	
+LB	276359	Old Souk Hasroun	tertiary	1	0	0	
+LB	276359	Rue Sainte-Hanne	residential	1	0	0	
+LB	276359	Sentier de Montagne du Liban Section 5	residential	1	0	0	
+LB	276359	Souk Hasroun	tertiary	1	0	0	
+LB	276359	St Hanne Street	residential	1	0	0	
+LB	276359	Venessa	residential	1	0	0	
+LB	276359	شارع 30	tertiary	1	0	0	Street 30
+LB	276359	طريق إهدن الرئيسي	secondary	1	0	0	Ehden Main Road
+LB	276359	طريق بقاع كفرا	tertiary	1	0	0	
+LB	276592	Route Rmeich-Bent Jbaïl	primary	1	0	0	
+LB	276632	Professeur Georges Elphajj	tertiary	1	0	0	
+LB	276632	Route Principale de Qoubbeyaa	secondary	1	0	0	
+LB	276632	Rue De L'Advocat Nadim El Rami	tertiary	1	0	0	
+LB	276632	Rue Du Colonel Kamal Al Aawar	tertiary	1	0	0	
+LB	276632	Rue Hamdan	residential	1	0	0	
+LB	276632	Rue Professeur Georges Elphajj	tertiary	1	0	0	
+LB	276632	Street 1	secondary	1	0	0	
+LB	276632	الرملية - المشرفة	tertiary	1	0	0	
+LB	276632	صليما - العربانية	tertiary	1	0	0	
+LB	276632	قنابة - دليبة - العربانية	tertiary	1	0	0	
+LB	276632	كفرنيس - الرملية	tertiary	1	0	0	
+LB	276632	نبع الصفا - عين زحلتا - الباروك	primary	1	0	0	
+LB	276633	مجد المعوش - كفرنيس	secondary	1	0	0	
+LB	276771	Barouk main road	primary	1	0	0	
+LB	276771	Ej Jaayel - Majdel El Meoush	secondary	1	0	0	
+LB	276771	Kfarhaseed	residential	1	0	0	
+LB	276771	جسر القاضي	tertiary	1	0	0	Jisr Al Qad
+LB	276771	طريق بقعاتا الرئيسي	secondary	1	0	0	
+LB	276781	Street 9-04		28	60	550	
+LB	276781	75	tertiary	27	10	205	
+LB	276781	Street 105		27	90	475	
+LB	276781	Street 9		26	60	810	
+LB	276781	Street 100		23	37	524	
+LB	276781	70		22	8	102	
+LB	276781	Rue des Pavillons	living_street	21	6	17	
+LB	276781	Street 115		20	7	451	
+LB	276781	43		19	6	53	
+LB	276781	Electricity Street 109		19	29	260	
+LB	276781	71		17	8	83	
+LB	276781	58		15	18	95	
+LB	276781	Street 117		15	21	232	
+LB	276781	Street 104		14	74	327	
+LB	276781	Street 107		14	46	373	
+LB	276781	Route Principale du Mont la Salle	living_street	13	6	160	
+LB	276781	Street 9-05		13	15	275	
+LB	276781	44		12	11	47	
+LB	276781	Road 9		12	28	515	
+LB	276781	Street 102		12	9	130	
+LB	276781	Street 108		11	12	212	
+LB	276781	Street 9-03		11	60	335	
+LB	276781	62		10	17	48	
+LB	276781	Road 1		10	20	494	
+LB	276781	شارع حارة حريك (96)	tertiary	10	164	1216	Haret Hraik Street (96)
+LB	276781	40		9	6	32	
+LB	276781	45		8	3	248	
+LB	276781	50		8	3	37	
+LB	276781	74		8	4	36	
+LB	276781	Street 116		8	16	88	
+LB	276781	Street 119		8	10	108	
+LB	276781	شارع غورو	tertiary	7	337	752	Gouraud Street
+LB	276781	54	residential	6	8	18	
+LB	276781	60		6	7	35	
+LB	276781	81		6	3	21	
+LB	276781	83		6	9	44	
+LB	276781	Street 101		6	91	277	
+LB	276781	Street 110		6	35	98	
+LB	276781	41		5	4	26	
+LB	276781	51		5	10	18	
+LB	276781	76	residential	5	8	26	
+LB	276781	78		5	4	90	
+LB	276781	Entrée/Sortie 2	living_street	5	4	52	
+LB	276781	IMP 70		5	4	16	
+LB	276781	Rue 60	residential	5	71	135	
+LB	276781	Street 10		5	205	360	
+LB	276781	Street 10-4		5	20	125	
+LB	276781	Street 106		5	27	70	
+LB	276781	Street 9-06		5	10	90	
+LB	276781	Street 9-07		5	25	160	
+LB	276781	شارع حارة حريك	tertiary	5	176	1200	Haret Hraik Street
+LB	276781	Commandant Rizkallah		4	22	55	
+LB	276781	Street 103		4	4	61	
+LB	276781	61		3	6	17	
+LB	276781	Street 111		3	113	153	
+LB	276781	Street 112		3	15	111	
+LB	276781	Street 113		3	18	45	
+LB	276781	Street 114		3	24	42	
+LB	276781	Street 118		3	10	60	
+LB	276781	Street 9-02		3	25	75	
+LB	276781	شارع 11	tertiary	3	320	360	Street 11
+LB	276781	شارع عمر بن عبد العزيز		3	4	4	
+LB	276781	شارع مدرسة السلام	residential	3	91	112	Al Salam School
+LB	276781	53		2	19	25	
+LB	276781	Hekmeh st.		2	335	335	
+LB	276781	Rue Vitalium	living_street	2	10	110	
+LB	276781	Street 10-2		2	110	140	
+LB	276781	Street 9-01		2	60	135	
+LB	276781	أوتوستراد هادي نصرالله		2	42	42	
+LB	276781	شارع 111	residential	2	62	62	Street 111
+LB	276781	شارع 202ج	residential	2	19	41	Street 202C
+LB	276781	شارع 9	tertiary	2	200	310	Street 9
+LB	276781	شارع 9-03	residential	2	165	310	
+LB	276781	شارع 900	tertiary	2	444	455	Street 900
+LB	276781	شارع الشهيد محمد العزير		2	47	48	
+LB	276781	شارع كليمنصو	tertiary	2	70	464	Clémenceau Street
+LB	276781	16	primary	1	0	0	
+LB	276781	200 شارع السلاف	residential	1	0	0	Slav Street 200
+LB	276781	59	residential	1	0	0	
+LB	276781	601 Road	residential	1	0	0	
+LB	276781	65	residential	1	0	0	
+LB	276781	7 طريق	unclassified	1	0	0	Road 7
+LB	276781	800 شارع	residential	1	0	0	Street 800
+LB	276781	Abdel-Ghani El-Mikati	residential	1	0	0	
+LB	276781	Adiba Ishac	tertiary	1	0	0	
+LB	276781	Antoine Choueiri	tertiary	1	0	0	
+LB	276781	Avenue Antoine Chakhtoura	secondary	1	0	0	
+LB	276781	Avenue Fouad Chéhab	tertiary	1	0	0	
+LB	276781	Boulevard Kamil Chamoun	secondary	1	0	0	
+LB	276781	Castle Square	pedestrian	1	0	0	
+LB	276781	Ceratonia	residential	1	0	0	
+LB	276781	Deir El-Mkhalles	residential	1	0	0	
+LB	276781	Des Liberateurs	residential	1	0	0	
+LB	276781	Des Libérateurs	residential	1	0	0	
+LB	276781	Dimitri El Hayek	tertiary	1	0	0	
+LB	276781	Fouad Souleiman	tertiary	1	0	0	
+LB	276781	Gare	residential	1	0	0	
+LB	276781	Ghandour El-Saad	residential	1	0	0	
+LB	276781	Hasbani	pedestrian	1	0	0	
+LB	276781	Hortance Tamer	residential	1	0	0	
+LB	276781	Ibn Khalboun	residential	1	0	0	
+LB	276781	Impasse 28	pedestrian	1	0	0	
+LB	276781	Impasse 32	residential	1	0	0	
+LB	276781	Impasse 36	pedestrian	1	0	0	
+LB	276781	Impasse 37	residential	1	0	0	
+LB	276781	Impasse 84	pedestrian	1	0	0	
+LB	276781	Impasse 92	residential	1	0	0	
+LB	276781	Jdeideh	tertiary	1	0	0	
+LB	276781	Karme	residential	1	0	0	
+LB	276781	Kouatly	residential	1	0	0	
+LB	276781	Mere Marguerite Marie	unclassified	1	0	0	
+LB	276781	Mont La Salle Entrée 1	living_street	1	0	0	
+LB	276781	Mont la Salle Entrée 1	living_street	1	0	0	
+LB	276781	Montée Accaoui	tertiary	1	0	0	
+LB	276781	Mufti Cheikh Hassan Khaled	secondary	1	0	0	
+LB	276781	Omar Farroukh	tertiary	1	0	0	
+LB	276781	Open Air Theatre	pedestrian	1	0	0	
+LB	276781	Place Centrale	residential	1	0	0	
+LB	276781	Place de Sa Sainteté Le Pape	unclassified	1	0	0	
+LB	276781	Place de l'Étoile	pedestrian	1	0	0	
+LB	276781	Place des Martyrs Assyriens	unclassified	1	0	0	
+LB	276781	Route 20	secondary	1	0	0	
+LB	276781	Route Comité/Logement	living_street	1	0	0	
+LB	276781	Rue 1	tertiary	1	0	0	
+LB	276781	Rue 1-01	residential	1	0	0	
+LB	276781	Rue 1-02	residential	1	0	0	
+LB	276781	Rue 1-03	residential	1	0	0	
+LB	276781	Rue 1-06	residential	1	0	0	
+LB	276781	Rue 1-08	residential	1	0	0	
+LB	276781	Rue 1-09	residential	1	0	0	
+LB	276781	Rue 1-11	tertiary	1	0	0	
+LB	276781	Rue 10-2	residential	1	0	0	
+LB	276781	Rue 10-3	residential	1	0	0	
+LB	276781	Rue 10-4	residential	1	0	0	
+LB	276781	Rue 101	residential	1	0	0	
+LB	276781	Rue 102	residential	1	0	0	
+LB	276781	Rue 103	residential	1	0	0	
+LB	276781	Rue 105	tertiary	1	0	0	
+LB	276781	Rue 106	residential	1	0	0	
+LB	276781	Rue 11-01	residential	1	0	0	
+LB	276781	Rue 11-G	residential	1	0	0	
+LB	276781	Rue 12	tertiary	1	0	0	
+LB	276781	Rue 12-01	residential	1	0	0	
+LB	276781	Rue 12-02	residential	1	0	0	
+LB	276781	Rue 12-06	residential	1	0	0	
+LB	276781	Rue 12-07	residential	1	0	0	
+LB	276781	Rue 13-06	residential	1	0	0	
+LB	276781	Rue 15	tertiary	1	0	0	
+LB	276781	Rue 15-05	residential	1	0	0	
+LB	276781	Rue 15-06	tertiary	1	0	0	
+LB	276781	Rue 15-07	residential	1	0	0	
+LB	276781	Rue 15-08	residential	1	0	0	
+LB	276781	Rue 15-09	tertiary	1	0	0	
+LB	276781	Rue 16	primary	1	0	0	
+LB	276781	Rue 16-01	residential	1	0	0	
+LB	276781	Rue 16-02	living_street	1	0	0	
+LB	276781	Rue 16-03	residential	1	0	0	
+LB	276781	Rue 16-04	residential	1	0	0	
+LB	276781	Rue 16-06	residential	1	0	0	
+LB	276781	Rue 16-07	living_street	1	0	0	
+LB	276781	Rue 16-09	residential	1	0	0	
+LB	276781	Rue 16-10	residential	1	0	0	
+LB	276781	Rue 16-11	residential	1	0	0	
+LB	276781	Rue 16-14	residential	1	0	0	
+LB	276781	Rue 16-15	residential	1	0	0	
+LB	276781	Rue 16-16	living_street	1	0	0	
+LB	276781	Rue 16-17	residential	1	0	0	
+LB	276781	Rue 16-19	tertiary	1	0	0	
+LB	276781	Rue 16-21	tertiary	1	0	0	
+LB	276781	Rue 16-22	residential	1	0	0	
+LB	276781	Rue 16-24	residential	1	0	0	
+LB	276781	Rue 17	residential	1	0	0	
+LB	276781	Rue 18	residential	1	0	0	
+LB	276781	Rue 1801-A	residential	1	0	0	
+LB	276781	Rue 19	tertiary	1	0	0	
+LB	276781	Rue 1B	residential	1	0	0	
+LB	276781	Rue 2	tertiary	1	0	0	
+LB	276781	Rue 2-01	residential	1	0	0	
+LB	276781	Rue 202D	residential	1	0	0	
+LB	276781	Rue 23	tertiary	1	0	0	
+LB	276781	Rue 3-02	residential	1	0	0	
+LB	276781	Rue 3-03	residential	1	0	0	
+LB	276781	Rue 311A	residential	1	0	0	
+LB	276781	Rue 4-01	residential	1	0	0	
+LB	276781	Rue 4-02	residential	1	0	0	
+LB	276781	Rue 40	residential	1	0	0	
+LB	276781	Rue 402	residential	1	0	0	
+LB	276781	Rue 403	residential	1	0	0	
+LB	276781	Rue 41	residential	1	0	0	
+LB	276781	Rue 43	residential	1	0	0	
+LB	276781	Rue 44	residential	1	0	0	
+LB	276781	Rue 49	residential	1	0	0	
+LB	276781	Rue 5-01	residential	1	0	0	
+LB	276781	Rue 50	residential	1	0	0	
+LB	276781	Rue 502	residential	1	0	0	
+LB	276781	Rue 502A	residential	1	0	0	
+LB	276781	Rue 503	residential	1	0	0	
+LB	276781	Rue 503A	residential	1	0	0	
+LB	276781	Rue 503B	residential	1	0	0	
+LB	276781	Rue 504	residential	1	0	0	
+LB	276781	Rue 505	residential	1	0	0	
+LB	276781	Rue 51	unclassified	1	0	0	
+LB	276781	Rue 514A	residential	1	0	0	
+LB	276781	Rue 52	residential	1	0	0	
+LB	276781	Rue 53	residential	1	0	0	
+LB	276781	Rue 54	residential	1	0	0	
+LB	276781	Rue 55	residential	1	0	0	
+LB	276781	Rue 56	residential	1	0	0	
+LB	276781	Rue 58	residential	1	0	0	
+LB	276781	Rue 6	residential	1	0	0	
+LB	276781	Rue 6-01	residential	1	0	0	
+LB	276781	Rue 602A	residential	1	0	0	
+LB	276781	Rue 605	residential	1	0	0	
+LB	276781	Rue 605A	residential	1	0	0	
+LB	276781	Rue 62	residential	1	0	0	
+LB	276781	Rue 64	residential	1	0	0	
+LB	276781	Rue 65	residential	1	0	0	
+LB	276781	Rue 66	residential	1	0	0	
+LB	276781	Rue 68	residential	1	0	0	
+LB	276781	Rue 7	residential	1	0	0	
+LB	276781	Rue 70	unclassified	1	0	0	
+LB	276781	Rue 71	residential	1	0	0	
+LB	276781	Rue 72	residential	1	0	0	
+LB	276781	Rue 74	residential	1	0	0	
+LB	276781	Rue 75	tertiary	1	0	0	
+LB	276781	Rue 76	residential	1	0	0	
+LB	276781	Rue 78	residential	1	0	0	
+LB	276781	Rue 8-01	residential	1	0	0	
+LB	276781	Rue 8-02	residential	1	0	0	
+LB	276781	Rue 8-03	residential	1	0	0	
+LB	276781	Rue 8-04	residential	1	0	0	
+LB	276781	Rue 801	residential	1	0	0	
+LB	276781	Rue 802	residential	1	0	0	
+LB	276781	Rue 81	unclassified	1	0	0	
+LB	276781	Rue 82	residential	1	0	0	
+LB	276781	Rue 83	residential	1	0	0	
+LB	276781	Rue 86	residential	1	0	0	
+LB	276781	Rue 87	residential	1	0	0	
+LB	276781	Rue 88	residential	1	0	0	
+LB	276781	Rue 9	secondary	1	0	0	
+LB	276781	Rue 9-01	residential	1	0	0	
+LB	276781	Rue 9-04	residential	1	0	0	
+LB	276781	Rue 9-07	residential	1	0	0	
+LB	276781	Rue 9-10	residential	1	0	0	
+LB	276781	Rue 9-17	residential	1	0	0	
+LB	276781	Rue 9-18	residential	1	0	0	
+LB	276781	Rue 901	residential	1	0	0	
+LB	276781	Rue 91	residential	1	0	0	
+LB	276781	Rue Abdel Hamid Fayed	residential	1	0	0	
+LB	276781	Rue Abou El-Faraj	pedestrian	1	0	0	
+LB	276781	Rue Abourousse	residential	1	0	0	
+LB	276781	Rue Adel Arslan	tertiary	1	0	0	
+LB	276781	Rue Adex	residential	1	0	0	
+LB	276781	Rue Adiba Ishac	tertiary	1	0	0	
+LB	276781	Rue Ahmad Al Asaad	tertiary	1	0	0	
+LB	276781	Rue Al Bash Maroun Khoury	secondary	1	0	0	
+LB	276781	Rue Al Radouf	tertiary	1	0	0	
+LB	276781	Rue Alias Azar	residential	1	0	0	
+LB	276781	Rue Antoine Ghattas	residential	1	0	0	
+LB	276781	Rue Antoine Kazan	residential	1	0	0	
+LB	276781	Rue Asaad Rachid	residential	1	0	0	
+LB	276781	Rue At-Tawil	residential	1	0	0	
+LB	276781	Rue Auguste Bakhost	tertiary	1	0	0	
+LB	276781	Rue Auguste Pacha Adib	residential	1	0	0	
+LB	276781	Rue Baaqrif	tertiary	1	0	0	
+LB	276781	Rue Bechara El Khoury	secondary	1	0	0	
+LB	276781	Rue Boutros Dagher	residential	1	0	0	
+LB	276781	Rue Catholicos Zareh	residential	1	0	0	
+LB	276781	Rue Chafic Mouaiyad	residential	1	0	0	
+LB	276781	Rue Chahrouri	residential	1	0	0	
+LB	276781	Rue Chalet Suisse	residential	1	0	0	
+LB	276781	Rue Charles Corm	residential	1	0	0	
+LB	276781	Rue Dakkach	residential	1	0	0	
+LB	276781	Rue Daoud Amoun	residential	1	0	0	
+LB	276781	Rue Edmond Gharios	unclassified	1	0	0	
+LB	276781	Rue El-Messarra	residential	1	0	0	
+LB	276781	Rue El-Mrouje	residential	1	0	0	
+LB	276781	Rue Emilie Sursock	residential	1	0	0	
+LB	276781	Rue Furn El-Hayek	residential	1	0	0	
+LB	276781	Rue Galien	tertiary	1	0	0	
+LB	276781	Rue Gebran Abou Nader	residential	1	0	0	
+LB	276781	Rue Georges Choueri	residential	1	0	0	
+LB	276781	Rue Georges Philippides	tertiary	1	0	0	
+LB	276781	Rue Ghozaiyel	residential	1	0	0	
+LB	276781	Rue Gouraud	tertiary	1	0	0	
+LB	276781	Rue Hatoum	unclassified	1	0	0	
+LB	276781	Rue Huvelin	residential	1	0	0	
+LB	276781	Rue Hôtel Dieu	tertiary	1	0	0	
+LB	276781	Rue Jean de Cruet	unclassified	1	0	0	
+LB	276781	Rue Jérusalem	tertiary	1	0	0	
+LB	276781	Rue Kamel El-Baba	pedestrian	1	0	0	
+LB	276781	Rue Karmel-Zettoun	residential	1	0	0	
+LB	276781	Rue Khalil Abou-Hamad	residential	1	0	0	
+LB	276781	Rue Mar Maroun	residential	1	0	0	
+LB	276781	Rue Maroun Misk	residential	1	0	0	
+LB	276781	Rue Maurice Gemayel	tertiary	1	0	0	
+LB	276781	Rue Mehio	pedestrian	1	0	0	
+LB	276781	Rue Melhem Khalaf	residential	1	0	0	
+LB	276781	Rue Mgr. Youssef Hobeiche	residential	1	0	0	
+LB	276781	Rue Michel Feghali	residential	1	0	0	
+LB	276781	Rue Michel Murr	residential	1	0	0	
+LB	276781	Rue Mike	residential	1	0	0	
+LB	276781	Rue Moawad	residential	1	0	0	
+LB	276781	Rue Monseigneur Ghophrael	residential	1	0	0	
+LB	276781	Rue Nakhle Kamil Kahale	residential	1	0	0	
+LB	276781	Rue Nassim Matar	residential	1	0	0	
+LB	276781	Rue Negib Azouri	residential	1	0	0	
+LB	276781	Rue Negib Trad	residential	1	0	0	
+LB	276781	Rue Nicolas Ghosn	residential	1	0	0	
+LB	276781	Rue Osman Moabbi	residential	1	0	0	
+LB	276781	Rue PV3/2	unclassified	1	0	0	
+LB	276781	Rue Pavillon 1	unclassified	1	0	0	
+LB	276781	Rue Pavillon 2	unclassified	1	0	0	
+LB	276781	Rue Pavillon 3	unclassified	1	0	0	
+LB	276781	Rue Pavillon 4	unclassified	1	0	0	
+LB	276781	Rue Pavillon 5	unclassified	1	0	0	
+LB	276781	Rue Pere Yaacoub	tertiary	1	0	0	
+LB	276781	Rue Pierre Sadeq	residential	1	0	0	
+LB	276781	Rue Président Elias Sarkis	secondary	1	0	0	
+LB	276781	Rue Père Afif Assayran	residential	1	0	0	
+LB	276781	Rue Rabih	residential	1	0	0	
+LB	276781	Rue Raphael	residential	1	0	0	
+LB	276781	Rue Raymond Raphael	residential	1	0	0	
+LB	276781	Rue Said Akl (Poete)	residential	1	0	0	
+LB	276781	Rue Said Sirbeih	residential	1	0	0	
+LB	276781	Rue Saint Nicolas	residential	1	0	0	
+LB	276781	Rue Saint Rock	tertiary	1	0	0	
+LB	276781	Rue Saint Vartan	residential	1	0	0	
+LB	276781	Rue Sainte Thérèse	residential	1	0	0	
+LB	276781	Rue Sami Chaoul	tertiary	1	0	0	
+LB	276781	Rue Seif Eddine El-Khatib	tertiary	1	0	0	
+LB	276781	Rue Sen El Fil	residential	1	0	0	
+LB	276781	Rue Stavro Jabra	residential	1	0	0	
+LB	276781	Rue Ste. Mere Teresa	tertiary	1	0	0	
+LB	276781	Rue Tanios Chaoul	residential	1	0	0	
+LB	276781	Rue Toufic Youssef Awad	tertiary	1	0	0	
+LB	276781	Rue Villa Jaber	residential	1	0	0	
+LB	276781	Rue Yahaya El-Arab	tertiary	1	0	0	
+LB	276781	Rue Youssef Hoyek	residential	1	0	0	
+LB	276781	Rue de l'Arménie	tertiary	1	0	0	
+LB	276781	Rue de la Maternelle 2	unclassified	1	0	0	
+LB	276781	Rue de la Sainte Famille	residential	1	0	0	
+LB	276781	Rue des Perses	tertiary	1	0	0	
+LB	276781	Rue du Kesrouane	residential	1	0	0	
+LB	276781	Rue du Liban	residential	1	0	0	
+LB	276781	Rue du Lycée	residential	1	0	0	
+LB	276781	Rue du Pavillon Central	unclassified	1	0	0	
+LB	276781	Rue15-01	living_street	1	0	0	
+LB	276781	Rue15-02	residential	1	0	0	
+LB	276781	Rue15-03	residential	1	0	0	
+LB	276781	Rue15-04	residential	1	0	0	
+LB	276781	Ruelle des Pavillons	living_street	1	0	0	
+LB	276781	Sortie Cour Centrale	living_street	1	0	0	
+LB	276781	Souk Ayyas	pedestrian	1	0	0	
+LB	276781	Souk El Arwam	pedestrian	1	0	0	
+LB	276781	Souk El Tawileh	pedestrian	1	0	0	
+LB	276781	Souk Sayyour	pedestrian	1	0	0	
+LB	276781	Souq Al Jami	pedestrian	1	0	0	
+LB	276781	Souq Bab Idriss	pedestrian	1	0	0	
+LB	276781	Souq Busros	pedestrian	1	0	0	
+LB	276781	Youssef El-Khazen	residential	1	0	0	
+LB	276781	Zein	residential	1	0	0	
+LB	276781	أحمد البدوي	residential	1	0	0	Ahmed Badaoui
+LB	276781	البطريك الدويي	residential	1	0	0	Patriach Douaihy
+LB	276781	الرويس شارع كرواسون الطيب	residential	1	0	0	
+LB	276781	الشيخ توفيق خالد	tertiary	1	0	0	Cheikh Toufic Khaled
+LB	276781	الشيخ عبد الرحمن حوت	residential	1	0	0	Cheikh Abde-Rahman El-Hout
+LB	276781	المغادرة طريق المطار	primary	1	0	0	Departures - Airport Road
+LB	276781	الوصول طريق المطار	primary	1	0	0	Arrivals - Airport Road
+LB	276781	برج البرنجة	residential	1	0	0	Bourj El Branjne
+LB	276781	تقاطع نهر الموت	tertiary	1	0	0	Nahr el Mot Interchange
+LB	276781	جادة إلياس الهراوي	tertiary	1	0	0	Elias Al Hrawi Highway
+LB	276781	جادة إلياس سركيس	secondary	1	0	0	Elias Sarkis Avenue
+LB	276781	جادة الأفنسيين	residential	1	0	0	Avenue des Français
+LB	276781	جادة الاستقلال	secondary	1	0	0	Independence Avenue
+LB	276781	جادة الرئيس اللواء فؤاد شهاب	secondary	1	0	0	General Fouad Chéhab Avenue
+LB	276781	جادة الياس الهراوي	tertiary	1	0	0	Elias Al Hrawi Highway
+LB	276781	جادة حميد فرنجية	primary	1	0	0	Hamid Frangieh Avenue
+LB	276781	جادة رفيق الحريري	tertiary	1	0	0	Avenue Rafic Hariri
+LB	276781	جادة صائب سلام	secondary	1	0	0	Saëb Salam Boulevard
+LB	276781	جادة عبدالله اليافي	tertiary	1	0	0	Abdallah El-Yafi Avenue
+LB	276781	جادة قاسم سليماني	tertiary	1	0	0	
+LB	276781	جادة كميل شمعون	secondary	1	0	0	Avenue Camille Chamoun
+LB	276781	جسر الباشا	secondary	1	0	0	
+LB	276781	جسر المشرفية	primary	1	0	0	
+LB	276781	جوزيف شادر	secondary	1	0	0	Joseph Chader
+LB	276781	حي الجديد	residential	1	0	0	Street 53
+LB	276781	دوار المكلس	tertiary	1	0	0	Roundabout Mkalles
+LB	276781	دوار فخر الدين	tertiary	1	0	0	
+LB	276781	زقاق مروه	residential	1	0	0	Zoqaq Mroueh
+LB	276781	زنقة	residential	1	0	0	Impasse
+LB	276781	زنقة 11	pedestrian	1	0	0	Impasse 11
+LB	276781	زنقة 28	pedestrian	1	0	0	Impasse 28
+LB	276781	زنقة 36	pedestrian	1	0	0	Impasse 36
+LB	276781	زنقة 503	residential	1	0	0	
+LB	276781	زنقة 70	pedestrian	1	0	0	
+LB	276781	زنقة 80	residential	1	0	0	
+LB	276781	زنقة 89	residential	1	0	0	Impasse 89
+LB	276781	سارع البرلمان	pedestrian	1	0	0	Parlement
+LB	276781	سارع البوست	pedestrian	1	0	0	La Poste
+LB	277130	جسر المفرق	unclassified	1	0	0	Jisr El Mafraq
+LB	277130	طريق دورس - مجدلون	tertiary	1	0	0	
+LB	277130	طريق نحلة - بعلبك	tertiary	1	0	0	
+LB	277130	طريق يونين - نحلة	tertiary	1	0	0	
+LB	277226	طريق صيدا القديمة		3	0	0	
+LB	277226	Botchay - Baabda	secondary	1	0	0	
+LB	277226	Route Wadi Shahrour - Houmal	secondary	1	0	0	
+LB	277226	Rue 19	residential	1	0	0	
+LB	277226	Rue Akram Radwan	residential	1	0	0	
+LB	277226	Rue Antoine Rayes	residential	1	0	0	
+LB	277226	Rue Charbine	residential	1	0	0	
+LB	277226	Rue Maktabet El Bachir	residential	1	0	0	
+LB	277226	Rue Mousaui	residential	1	0	0	
+LB	277226	Rue Nakhel	residential	1	0	0	
+LB	277226	Rue Snoubar	residential	1	0	0	
+LB	277226	الينار 1/14	residential	1	0	0	
+LB	277226	الينار 1/16	residential	1	0	0	
+LB	277226	الينار 1/17	residential	1	0	0	
+LB	277226	الينار1/15	residential	1	0	0	
+LB	277226	شارع 101	residential	1	0	0	Street 101
+LB	277226	شارع 102	residential	1	0	0	102 Street
+LB	277226	شارع 103	residential	1	0	0	103 Road
+LB	277226	شارع 110	residential	1	0	0	110 Road
+LB	277226	شارع 111	residential	1	0	0	111 Road
+LB	277226	شارع 114	residential	1	0	0	Road 114
+LB	277226	شارع 12	secondary	1	0	0	12 Road
+LB	277226	شارع 1210	residential	1	0	0	1210 Road
+LB	277226	شارع 1305	residential	1	0	0	1305 Road
+LB	277367	Ain Zebdeh Main Road	unclassified	1	0	0	
+LB	277367	Aitanit - Lake View Road	unclassified	1	0	0	
+LB	277367	Bab Mareh - Aitanit Road	primary	1	0	0	
+LB	277367	Saghbine - Lake View Road	unclassified	1	0	0	
+LB	277367	Saghbine Main Road	primary	1	0	0	
+LB	277367	Tal3it Ain Zebde	residential	1	0	0	
+LB	277367	Tal3it El Knise	residential	1	0	0	
+LB	277467	شارع القليعة	unclassified	1	0	0	
+LB	277467	شارع مارون الرأس	tertiary	1	0	0	
+LB	277467	طريق الناقورة-رميش	primary	1	0	0	
+LB	277467	طريق رميش-بنت جبيل	primary	1	0	0	
+LB	278040	باحة حسينية الزهراء	living_street	1	0	0	
+LB	278040	حي السكة	residential	1	0	0	
+LB	278040	حي القرش	residential	1	0	0	
+LB	278040	شارع حي الشق	residential	1	0	0	
+LB	278040	شارع حي الصراصير	tertiary	1	0	0	
+LB	278040	شارع حي الضيعة	residential	1	0	0	
+LB	278040	طريق الأنصارية - السكسكية	secondary	1	0	0	
+LB	278040	طريق الجبانة القديمة	residential	1	0	0	
+LB	278040	طريق الدلتا	residential	1	0	0	
+LB	278040	طريق الزحلة	residential	1	0	0	
+LB	278040	طريق الساحة	tertiary	1	0	0	
+LB	278040	طريق العين	residential	1	0	0	
+LB	278040	طريق حي السهل	residential	1	0	0	
+LB	278040	طريق حي السهل 2	residential	1	0	0	
+LB	278040	طريق ضهر عمار	unclassified	1	0	0	
+LB	278040	طلعة الجبانة	residential	1	0	0	
+LB	278040	طلعة الحسينية	tertiary	1	0	0	
+LB	278040	نزلة الساقية	residential	1	0	0	
+LB	278832	طريق البياضة	secondary	1	0	0	
+LB	278832	طريق الناقورة - رميش	primary	1	0	0	
+LB	278913	khallet el Hawa		3	108	110	
+LB	278913	River Road	unclassified	1	0	0	
+LB	278913	جادة الرئيس نبيه بري	secondary	1	0	0	Nabih Berri Avenue
+LB	278913	حي السرايا	residential	1	0	0	Old Assaraya ST
+LB	278913	دوار كفرتبنيت	secondary	1	0	0	
+LB	278913	شارع أرنون	tertiary	1	0	0	Arnoun Street
+LB	278913	شارع البياض	tertiary	1	0	0	Bayyad St
+LB	278913	شارع الجزاير	primary	1	0	0	Al Jazayer Street
+LB	278913	شارع الراهبات	unclassified	1	0	0	Rahibat Street
+LB	278913	شارع الشقيف	secondary	1	0	0	Shaqeef Street
+LB	278913	شارع المسلخ	unclassified	1	0	0	Maslakh Street
+LB	278913	شارع حسن كامل الصباح	primary	1	0	0	Hasan Kamel el Sabbah Street
+LB	278913	شارع خلة الهوا	residential	1	0	0	Khallet El Hawa
+LB	278913	شارع محمود فقيه	primary	1	0	0	Mahmoud Fakih Street
+LB	278913	طريق الرئيسي تول - الدوير	primary	1	0	0	
+LB	278913	طريق المشاع	residential	1	0	0	Mashaa Street
+LB	278913	طريق النبطية - مرجعيون	secondary	1	0	0	Nabatiyeh - Marjayoun Road
+LB	278913	طريق شوكين حاروف	primary	1	0	0	Choukine - Harrouf Road
+LB	278913	طريق كفررمان	secondary	1	0	0	Kafarrouman Road
+LB	278913	طريق ميفدون	primary	1	0	0	Mayfadoun Road
+LB	278913	مرجعيون - طريق جزين	primary	1	0	0	Marjayoun - Jezzine Road
+LB	278925	شارع نديم مراد	residential	2	3	4	Nadim Mrad Street
+LB	278925	Anjar Kfarzabad Route	tertiary	1	0	0	
+LB	278925	Anjar Roundabout	tertiary	1	0	0	
+LB	278925	Chemin de la Municipalité	residential	1	0	0	
+LB	278925	Route Principale d'Anjar	residential	1	0	0	
+LB	278925	Rue Adonis	residential	1	0	0	
+LB	278925	Rue Aghajanian	residential	1	0	0	
+LB	278925	Rue Al Arz	residential	1	0	0	
+LB	278925	Rue Anjar Kfarzabad	tertiary	1	0	0	
+LB	278925	Rue Arax	residential	1	0	0	
+LB	278925	Rue Chiraz	residential	1	0	0	
+LB	278925	Rue Der Kaloustian	residential	1	0	0	
+LB	278936	Bdebba	tertiary	1	0	0	
+LB	278936	M3	primary	1	0	0	
+LB	278936	Rue Al Arz	primary	1	0	0	
+LB	278936	Rue Tripoli	primary	1	0	0	
+LB	278936	الشارع الرئيسي	tertiary	1	0	0	Main Street
+LB	278936	بطرام	tertiary	1	0	0	
+LB	278936	شارع البريد	secondary	1	0	0	Al-Barid Street
+LB	278936	شارع الحرية	primary	1	0	0	El Horrieh Street
+LB	278936	شارع السوق العتيق	secondary	1	0	0	As-Souq Al-'Atiq
+LB	278936	طريق البحر	primary	1	0	0	Sea Road
+LB	278936	كفرحاتا - شكا	primary	1	0	0	Kfarhata - Chekka
+LB	279854	207A Street		2	32	62	
+LB	279854	Rue 102	secondary	1	0	0	
+LB	279854	Rue 1201A	residential	1	0	0	
+LB	279854	Rue 203A	residential	1	0	0	
+LB	279854	Rue 21B	residential	1	0	0	
+LB	279854	Rue 22B	residential	1	0	0	
+LB	279854	Rue 22C	residential	1	0	0	
+LB	279854	Rue 22D	residential	1	0	0	
+LB	279854	Rue 5A	residential	1	0	0	
+LB	279854	Rue 67	secondary	1	0	0	
+LB	279854	Rue D.M.	residential	1	0	0	
+LB	279854	Rue F.R.A.	residential	1	0	0	
+LB	279997	Route Danniyé - Hermel	secondary	1	0	0	
+LB	279997	طريق الهرمل - رأس بعلبك	primary	1	0	0	Hermel Ras Baalbek Road
+LB	279997	طريق الهرمل - راس بعلبك	primary	1	0	0	Hermel Ras Baalbek Road
+LB	280155	الشارع الرئيسي	unclassified	1	0	0	
+LB	280155	طريق صيدا جباع الرئيسي	secondary	1	0	0	Sidon - Jbaa Main Road
+LB	280328	Hara		2	848	848	
+LB	280328	Diaspora Square	pedestrian	1	0	0	
+LB	280328	Kafifane Road	residential	1	0	0	
+LB	280328	Rue 1	tertiary	1	0	0	
+LB	280328	Rue 101	residential	1	0	0	
+LB	280328	Rue 1104	pedestrian	1	0	0	
+LB	280328	Rue 1105	residential	1	0	0	
+LB	280328	Rue 12	residential	1	0	0	
+LB	280328	Rue 120	residential	1	0	0	
+LB	280328	Rue 120B	residential	1	0	0	
+LB	280328	Rue 122	residential	1	0	0	
+LB	280328	Rue 1507	residential	1	0	0	
+LB	280328	Rue 18	residential	1	0	0	
+LB	280328	Rue 401	residential	1	0	0	
+LB	280328	Rue 41	residential	1	0	0	
+LB	280328	Rue 5	residential	1	0	0	
+LB	280328	Rue 6	tertiary	1	0	0	
+LB	280328	Rue 8	tertiary	1	0	0	
+LB	280328	Seaside Road	primary	1	0	0	
+LB	280328	Street 10	residential	1	0	0	
+LB	280328	Street 109	residential	1	0	0	
+LB	280328	Street 111	residential	1	0	0	
+LB	280328	Street 118	residential	1	0	0	
+LB	280328	Street 119	residential	1	0	0	
+LB	280425	Haret EI Sett	residential	1	0	0	
+LB	280425	Place Fontaine du Bonheur	residential	1	0	0	
+LB	280425	Place Mar Sassine	residential	1	0	0	
+LB	280425	Rond-Point Wakim	secondary	1	0	0	
+LB	280425	Route Principale Aïn Saadé	tertiary	1	0	0	
+LB	280425	Rue 11A	residential	1	0	0	
+LB	280425	Rue 11B	residential	1	0	0	
+LB	280425	Rue 12A	residential	1	0	0	
+LB	280425	Rue 3A	residential	1	0	0	
+LB	280425	Rue 514B	residential	1	0	0	
+LB	280425	Rue 514C	residential	1	0	0	
+LB	280425	Rue 515A	residential	1	0	0	
+LB	280425	Rue 515B	residential	1	0	0	
+LB	280425	Rue 515C	residential	1	0	0	
+LB	280425	Rue Al Malaab	residential	1	0	0	
+LB	280425	Rue Bdédoun	residential	1	0	0	
+LB	280425	Rue Fares Elias	residential	1	0	0	
+LB	280425	Rue Principale	primary	1	0	0	
+LB	280425	Rue de la Piscine	tertiary	1	0	0	
+LB	280425	Rue des Jardins	residential	1	0	0	
+LB	280425	Rue des Jardins;Rue des Oliviers	residential	1	0	0	
+LB	280425	Rue des Oliviers	residential	1	0	0	
+LB	280425	Rue des Pins	residential	1	0	0	
+LB	280425	Shari' Bakhistay	unclassified	1	0	0	
+LB	280425	الطريق العسكرية	secondary	1	0	0	Houmel - Bdedoun Military Road
+LB	280425	المشرفة - مجدل بعنا	secondary	1	0	0	
+LB	280425	بتاتر - سبعل	tertiary	1	0	0	
+LB	280425	برمانا	secondary	1	0	0	Broumana Road
+LB	280425	بسايا-سوق الغرب	tertiary	1	0	0	Bsaba-Souk el Gharb
+LB	280425	بسرين - بتاتر	secondary	1	0	0	
+LB	280425	حي الحوير	residential	1	0	0	Al Houweir Street
+LB	280425	حي النجمة	residential	1	0	0	
+LB	280425	حي النجمة السفلي	residential	1	0	0	
+LB	280425	حي مرعب	residential	1	0	0	Merheb Street
+LB	280425	رويسات النعمان - شرتون	tertiary	1	0	0	
+LB	280425	سبعل - رويسات النعمان	tertiary	1	0	0	
+LB	280425	شارع 1	unclassified	1	0	0	Street 1
+LB	280425	شارع 10	residential	1	0	0	Street 10
+LB	280425	شارع 1001	residential	1	0	0	Street 1001
+LB	280425	شارع 1004	residential	1	0	0	Street 1004
+LB	280425	شارع 1005	residential	1	0	0	Street 1005
+LB	280425	شارع 102	residential	1	0	0	Street 102
+LB	280425	شارع 103	residential	1	0	0	
+LB	280425	شارع 104	residential	1	0	0	
+LB	280425	شارع 105	residential	1	0	0	
+LB	280425	شارع 107	residential	1	0	0	
+LB	280425	شارع 107 المنتزه	residential	1	0	0	Al Mountazah 107th Street
+LB	280425	شارع 108	residential	1	0	0	
+LB	280425	شارع 109	residential	1	0	0	
+LB	280425	شارع 11	residential	1	0	0	11 Street
+LB	280425	شارع 110	residential	1	0	0	
+LB	280425	شارع 1102	residential	1	0	0	Street 1102
+LB	280425	شارع 1103	residential	1	0	0	Street 1103
+LB	280425	شارع 1104	residential	1	0	0	Street 1104
+LB	280425	شارع 12	residential	1	0	0	Street 12
+LB	280425	شارع 13	residential	1	0	0	Street 13
+LB	280425	شارع 1307	residential	1	0	0	1307 Road
+LB	280425	شارع 14	residential	1	0	0	Street 14
+LB	280425	شارع 15	residential	1	0	0	Street 15
+LB	280425	شارع 1502	residential	1	0	0	1502 Road
+LB	280425	شارع 1505	residential	1	0	0	1505 Road
+LB	280425	شارع 1604	residential	1	0	0	1604 Road
+LB	280425	شارع 19	secondary	1	0	0	19 Street
+LB	280425	شارع 1915	residential	1	0	0	1915 Road
+LB	280425	شارع 1916	residential	1	0	0	1916 Road
+LB	280425	شارع 1917	residential	1	0	0	1917 Road
+LB	280425	شارع 2	residential	1	0	0	2 Street
+LB	280425	شارع 2001	residential	1	0	0	
+LB	280425	شارع 2002	residential	1	0	0	
+LB	280425	شارع 202ب	residential	1	0	0	Street 202B
+LB	280425	شارع 3	residential	1	0	0	Street 3
+LB	280425	شارع 31	secondary	1	0	0	Street 31
+LB	280425	شارع 310	residential	1	0	0	
+LB	280425	شارع 4	residential	1	0	0	Street 4
+LB	280425	شارع 5	residential	1	0	0	Street 5
+LB	280425	شارع 50	residential	1	0	0	Street 50
+LB	280425	شارع 514	residential	1	0	0	
+LB	280425	شارع 515	residential	1	0	0	
+LB	280425	شارع 52	residential	1	0	0	Street 52
+LB	280425	شارع 54	residential	1	0	0	Street 54
+LB	280425	شارع 6	residential	1	0	0	Street 6
+LB	280425	شارع 6 كفرا	residential	1	0	0	Kafra 6th Street
+LB	280425	شارع 604	residential	1	0	0	604 Road
+LB	280425	شارع 62	residential	1	0	0	Street 62
+LB	280425	شارع 64	residential	1	0	0	Street 64
+LB	280425	شارع 7	residential	1	0	0	Street 7
+LB	280425	شارع 703	residential	1	0	0	703 Street
+LB	280425	شارع 71	residential	1	0	0	Street 71
+LB	280425	شارع 8	residential	1	0	0	Street 8
+LB	280425	شارع 801	residential	1	0	0	Street 801
+LB	280425	شارع 803	residential	1	0	0	803 Street
+LB	280425	شارع 9	residential	1	0	0	Street 9
+LB	280425	شارع 902	residential	1	0	0	Street 902
+LB	280425	شارع الارز	residential	1	0	0	Arz Street
+LB	280425	شارع الاستقلال	residential	1	0	0	Istiklal Street
+LB	280425	شارع بدادون الرئيسي	secondary	1	0	0	Bdedoun Main Street
+LB	280425	شارع مار إلياس	residential	1	0	0	
+LB	280425	شارع ميشال شيحا	unclassified	1	0	0	Michel Chiha Street
+LB	280425	شناي المنصورية	secondary	1	0	0	
+LB	280425	شويت - عاليه	tertiary	1	0	0	
+LB	280602	222Bشارع	residential	1	0	0	Street 222B
+LB	280602	604A شارع	residential	1	0	0	Street 604A
+LB	280602	Rue 1	secondary	1	0	0	
+LB	280602	Rue 101	residential	1	0	0	
+LB	280602	Rue 104	residential	1	0	0	
+LB	280602	Rue 105	residential	1	0	0	
+LB	280602	Rue 106	residential	1	0	0	
+LB	280602	Rue 106 A	residential	1	0	0	
+LB	280602	Rue 107	residential	1	0	0	
+LB	280602	Rue 108	residential	1	0	0	
+LB	280602	Rue 109	tertiary	1	0	0	
+LB	280602	Rue 11	tertiary	1	0	0	
+LB	280602	Rue 110	residential	1	0	0	
+LB	280602	Rue 111	residential	1	0	0	
+LB	280602	Rue 114	residential	1	0	0	
+LB	280602	Rue 13	tertiary	1	0	0	
+LB	280602	Rue 2	residential	1	0	0	
+LB	280602	Rue 2-04	residential	1	0	0	
+LB	280602	Rue 2-05	residential	1	0	0	
+LB	280602	Rue 203	residential	1	0	0	
+LB	280602	Rue 205	residential	1	0	0	
+LB	280602	Rue 206	residential	1	0	0	
+LB	280602	Rue 4	residential	1	0	0	
+LB	280602	Rue 404	residential	1	0	0	
+LB	6253857	طريق عيحا - كفر قوق	secondary	1	0	0	
+LB	7869857	حي فوقا	unclassified	1	0	0	
+LB	7869857	شارع بلدية مجدل سلم	unclassified	1	0	0	
+LB	7869857	طريق الزاقوق	residential	1	0	0	
+LB	7869857	طريق وادي الحجير	secondary	1	0	0	

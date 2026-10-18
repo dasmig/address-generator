@@ -1,0 +1,767 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+YE	30490	الشارع الجديد	tertiary	1	0	0	New Street
+YE	30490	خط الشحر الغيل	secondary	1	0	0	
+YE	30490	شارع الأصدقاء السبعة	tertiary	1	0	0	Seven Friends Street
+YE	30490	شارع برك	secondary	1	0	0	Bark Street
+YE	30490	شارع كورنيش الشحر	tertiary	1	0	0	Al-Shahr Corniche Street
+YE	30490	طريق الصداع - الشحر	secondary	1	0	0	AlSidae - Shihr road
+YE	30490	طريق تبالة	unclassified	1	0	0	
+YE	30543	طريق بيحان البيضاء	secondary	1	0	0	Bayhan Albaydah Road
+YE	30616	شارع البيضاء - مأرب	primary	1	0	0	Al Bayda - Ma`rib Street
+YE	30616	طريق مأرب - عتق - البيضاء	primary	1	0	0	Marib - Attaq - AlBaydah Road
+YE	30696	طريق إب - الضالع	primary	1	0	0	Ibb - Ad Dala' Road
+YE	30729	400	secondary	1	0	0	
+YE	30729	شارع طريق ربيعة سماه قلعة الذاهبي	unclassified	1	0	0	
+YE	30729	طريق ذمار الحسينية	secondary	1	0	0	Dhamar:Al-Husainiya Road
+YE	30729	طريق قلعة الذاهبي التاريخية	residential	1	0	0	
+YE	30740	خط تعز - التربة	secondary	1	0	0	
+YE	30748	طريق السويداء سوق الأحد	residential	1	0	0	
+YE	30762	النجارين مركز المديريه	unclassified	1	0	0	
+YE	30762	خط اب الحديدة	primary	1	0	0	
+YE	30762	طريق النجارين مركز المديريه	unclassified	1	0	0	
+YE	30777	طريق ذمار الحسينية	secondary	1	0	0	Dhamar:Al-Husainiya Road
+YE	30777	نقيل الشيبة	unclassified	1	0	0	Naqeel Ash-Sheiba
+YE	30777	نقيل المشعر	unclassified	1	0	0	Naqeel Al-Mash'ar
+YE	30788	200	primary	1	0	0	
+YE	34846	طريق حجة - تهامة	primary	1	0	0	Hajah Tahamah Road
+YE	34860	Sharaqiah Road	unclassified	1	0	0	
+YE	34860	طريق المحويت - تهامة	primary	1	0	0	Al Mahwit Tahamah Road
+YE	34888	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	69372	طريق صنعاء المحويت	primary	1	0	0	Sana'a - Al Mahwit Road
+YE	69426	جسر الصداقة	primary	1	0	0	
+YE	69426	طريق زنجبار	primary	1	0	0	
+YE	69426	طريق زنجبار المكلا	primary	1	0	0	Zingibar - Mukalla Road
+YE	69426	طريق زنجبار جعار	secondary	1	0	0	Zinjibar - Giaar Road
+YE	69457	طريق زراجة	secondary	1	0	0	Zarajah Road
+YE	69482	شارع لحج - البيضاء	primary	1	0	0	Laḥij - Al Bayḍa Street
+YE	69482	طريق الزاهر	tertiary	1	0	0	
+YE	69537	خط تعز - التربة	secondary	1	0	0	
+YE	69559	الشارع الرئيسي	secondary	1	0	0	Main Street
+YE	69559	الطريق الدائري ياريم	secondary	1	0	0	Yarim Ring Road
+YE	69559	شارع الدائرة الغربية	tertiary	1	0	0	Western Circle Street
+YE	69559	شارع الرضمة	primary	1	0	0	Al-Radhma Street
+YE	69559	شارع المرباع	tertiary	1	0	0	Al-Murabba Street
+YE	69559	شارع المقبرة العليا	residential	1	0	0	Upper Cemetery Street
+YE	69559	شارع باب اليمن	residential	1	0	0	Bab Al-Yemen Street
+YE	69559	شارع طمحان	tertiary	1	0	0	Tamhan Street
+YE	69559	طريق اللقايا المدينة القديمة	residential	1	0	0	
+YE	69559	طريق اللقاية	residential	1	0	0	Al-Laqaya Road
+YE	69559	طريق بني ساري	unclassified	1	0	0	
+YE	69684	خط حمام جارف	secondary	1	0	0	
+YE	69769	طريق عتق مأرب	primary	1	0	0	Ataq Ma'rib Road
+YE	69944	200	primary	1	0	0	
+YE	70160	سوق العسل		5	1	16	
+YE	70160	خط تريم	secondary	2	96	546	
+YE	70160	شارع حافة الرياض	residential	1	0	0	
+YE	70225	الاصدار الالي	unclassified	1	0	0	
+YE	70225	السائلة	tertiary	1	0	0	
+YE	70225	الطريق المؤدي لصالة	secondary	1	0	0	
+YE	70225	الطريق المؤدي للمدرسة التفاعلية اليمنية فرع المرحلة الأساسية	residential	1	0	0	
+YE	70225	جولة النقطه الرابعه	tertiary	1	0	0	
+YE	70225	خط تعز - التربة	secondary	1	0	0	
+YE	70225	دوار أسيفيرا	primary	1	0	0	Asayfira Roundabout
+YE	70225	شارع 26 سبتمبر	residential	1	0	0	26th September Street
+YE	70225	شارع التحرير	secondary	1	0	0	Liberation Street
+YE	70225	شارع الشيخ دحوه	residential	1	0	0	Sheikh Dahwa Street
+YE	70225	شارع العواضي	secondary	1	0	0	Al-Awadhi Street
+YE	70225	شارع القيادة	secondary	1	0	0	Driving Street
+YE	70225	شارع الكمب	residential	1	0	0	Al-Kamb Street
+YE	70225	شارع المستشفى الجمهوري	residential	1	0	0	Republican Hospital Street
+YE	70225	شارع المصلى	residential	1	0	0	Al-Musalla Street
+YE	70225	شارع المواصلات	secondary	1	0	0	Transportation Street
+YE	70225	شارع جمال عبد الناصر	primary	1	0	0	Jamal Abdulnaser Street
+YE	70225	شارع عصيفرة	tertiary	1	0	0	Asayfira Street
+YE	70225	طريق جبل صبر	tertiary	1	0	0	Mount Sabr Road
+YE	70225	طريق وادي القاضي	primary	1	0	0	Wadi Al-Qadi Road
+YE	70272	دائري سوق ١٤	secondary	1	0	0	
+YE	70272	شارع المفلحي	secondary	1	0	0	
+YE	70272	شارع لحج - البيضاء	primary	1	0	0	Laḥij - Al Bayḍa Street
+YE	70272	طريق قرية سلفة	unclassified	1	0	0	
+YE	70551	طريق دوعن	secondary	1	0	0	Do'an Raod
+YE	70677	خط كوكبان	tertiary	1	0	0	
+YE	70677	طريق صنعاء المحويت	primary	1	0	0	Sana'a - Al Mahwit Road
+YE	70759	طريق البيضاء -رداع	primary	1	0	0	AlBaida - Rad'a Road
+YE	70979	خط سنحان	tertiary	1	0	0	
+YE	71137	شارع حدة	primary	9	1	7719	Hadda Street
+YE	71137	شارع الستين	primary	7	11	3255	60 Meters Street
+YE	71137	شارع 16	residential	5	162	7773	16 street
+YE	71137	شارع الشيخ زايد	secondary	5	1	7726	Sheik Zayed Street
+YE	71137	شارع خولان	primary	5	6	6	Khawlan Street
+YE	71137	الخط الدائري	secondary	4	1	7700	round Road
+YE	71137	شارع الزبيري	primary	4	1	7779	Al Zubayri St
+YE	71137	شارع تعز	primary	4	66	7702	Taiz Street
+YE	71137	شارع الستين متر		3	121	7756	
+YE	71137	شارع بغداد	tertiary	3	20	2010	Baghdad Street
+YE	71137	شارع صخر	tertiary	3	11	7777	Sakher Street
+YE	71137	سوق الملح		2	148	2817	
+YE	71137	شارع 22 مايو	secondary	2	1	22	22 May Street
+YE	71137	شارع ال45	primary	2	45	86	45 Meters Street
+YE	71137	شارع التلفزيون	primary	2	123	1315	TV Street
+YE	71137	شارع الجامعة العربية	primary	2	0	0	
+YE	71137	شارع الجزائر	secondary	2	96	121	Algeria Street
+YE	71137	شارع الحكيمي		2	13	13	
+YE	71137	شارع السلام	tertiary	2	132	1286	Al Salaam Street
+YE	71137	شارع القيادة	primary	2	1	7706	Alhasaba
+YE	71137	شارع النصر	primary	2	130	130	Al-Nasr Street
+YE	71137	شارع جيبوتي	tertiary	2	30	30	Djibouti St
+YE	71137	شارع هائل	tertiary	2	147	2191	Hail Street
+YE	71137	شارع ٢		2	26	48	
+YE	71137	.	residential	1	0	0	
+YE	71137	19 Street	residential	1	0	0	
+YE	71137	AL Rayyan ST	residential	1	0	0	
+YE	71137	Al Salaam St	secondary	1	0	0	
+YE	71137	Al Salaam Street	secondary	1	0	0	
+YE	71137	Al Zubayri St	primary	1	0	0	
+YE	71137	MTN	residential	1	0	0	
+YE	71137	Madian Street	residential	1	0	0	
+YE	71137	Messar Street	residential	1	0	0	
+YE	71137	New	residential	1	0	0	
+YE	71137	SH 24	tertiary	1	0	0	
+YE	71137	Sh 24	tertiary	1	0	0	
+YE	71137	Ta'izz road	primary	1	0	0	
+YE	71137	الأنصار	residential	1	0	0	
+YE	71137	الحصبة	primary	1	0	0	Alhasaba
+YE	71137	الصديقين	residential	1	0	0	
+YE	71137	الصفا	residential	1	0	0	
+YE	71137	العمال	residential	1	0	0	
+YE	71137	المرحوم حمود عمران	residential	1	0	0	
+YE	71137	المروى	residential	1	0	0	
+YE	71137	المعلم	residential	1	0	0	
+YE	71137	المنصورة	residential	1	0	0	
+YE	71137	النور	residential	1	0	0	
+YE	71137	جولة الثقافة	secondary	1	0	0	
+YE	71137	جولة الجمنة	primary	1	0	0	
+YE	71137	جولة القيادة	primary	1	0	0	
+YE	71137	جولة اية	primary	1	0	0	
+YE	71137	جولة مذبح	primary	1	0	0	
+YE	71137	حمود عمران	residential	1	0	0	
+YE	71137	حمود عمران رحمه الله	residential	1	0	0	
+YE	71137	خط المطار	primary	1	0	0	
+YE	71137	دوار الأربعين	primary	1	0	0	
+YE	71137	ذي النورين	residential	1	0	0	
+YE	71137	راحة	tertiary	1	0	0	
+YE	71137	سبأ	residential	1	0	0	
+YE	71137	سعوان شارع 24	residential	1	0	0	
+YE	71137	شارع 1	residential	1	0	0	1st Street
+YE	71137	شارع 14	residential	1	0	0	14 Street
+YE	71137	شارع 14 أكتوبر	primary	1	0	0	14 October Street
+YE	71137	شارع 18	residential	1	0	0	18 Street
+YE	71137	شارع 2	residential	1	0	0	2nd Street
+YE	71137	شارع 20	tertiary	1	0	0	ٍStreet 20
+YE	71137	شارع 20 من ش التلفزيون - الى ش المطار	tertiary	1	0	0	
+YE	71137	شارع 21	residential	1	0	0	21 Street
+YE	71137	شارع 22	residential	1	0	0	22 Street
+YE	71137	شارع 23 يونيو	tertiary	1	0	0	23 Jul Street
+YE	71137	شارع 24	tertiary	1	0	0	
+YE	71137	شارع 3	residential	1	0	0	3rd Street
+YE	71137	شارع 4	residential	1	0	0	4th Street
+YE	71137	شارع 49	residential	1	0	0	
+YE	71137	شارع 5	residential	1	0	0	
+YE	71137	شارع 7	unclassified	1	0	0	Street 7
+YE	71137	شارع 9	residential	1	0	0	
+YE	71137	شارع آزال	tertiary	1	0	0	Azal Street
+YE	71137	شارع أبو بكر الصديق	residential	1	0	0	Abu Bakr Al-Siddiq Street
+YE	71137	شارع أبو ظبي	secondary	1	0	0	Abu Dhabi Street
+YE	71137	شارع أبوظبي	secondary	1	0	0	Abu Dhabi Street
+YE	71137	شارع ابراهيم الحمدي	primary	1	0	0	
+YE	71137	شارع احمد ذمران	residential	1	0	0	Ahmed Dhomran Street
+YE	71137	شارع الأربعين	primary	1	0	0	Forty street
+YE	71137	شارع الأمن المركزي	residential	1	0	0	Central Security Street
+YE	71137	شارع الاستثمار	tertiary	1	0	0	
+YE	71137	شارع الباشا	residential	1	0	0	
+YE	71137	شارع الثلاثين	tertiary	1	0	0	
+YE	71137	شارع الجامع الكبير	residential	1	0	0	Aljamea Alkabeer
+YE	71137	شارع الحي الراقي	residential	1	0	0	
+YE	71137	شارع الدائري	secondary	1	0	0	Ring Street
+YE	71137	شارع الرماح	tertiary	1	0	0	Al Rmmah Street
+YE	71137	شارع السبعين	primary	1	0	0	70 days Rd
+YE	71137	شارع السفارة الالمانية	residential	1	0	0	
+YE	71137	شارع السلامي	residential	1	0	0	
+YE	71137	شارع الشيخ محمد حمود عمران	residential	1	0	0	
+YE	71137	شارع الصحة	tertiary	1	0	0	
+YE	71137	شارع العدل	tertiary	1	0	0	Aladl Sreet
+YE	71137	شارع القاعة الكبرى	residential	1	0	0	
+YE	71137	شارع القاهرة	primary	1	0	0	Ring Road
+YE	71137	شارع الكويت	residential	1	0	0	
+YE	71137	شارع الكُتيع	residential	1	0	0	Alkutie Street
+YE	71137	شارع المطار	primary	1	0	0	Airport Street
+YE	71137	شارع الملابس	residential	1	0	0	
+YE	71137	شارع الميثاق	tertiary	1	0	0	Almithaq Street
+YE	71137	شارع النهضة	tertiary	1	0	0	
+YE	71137	شارع الوحدات	residential	1	0	0	
+YE	71137	شارع الوحدة	residential	1	0	0	
+YE	71137	شارع بن معمر	residential	1	0	0	
+YE	71137	شارع بيحان	residential	1	0	0	Bayhan Street
+YE	71137	شارع بيروت	secondary	1	0	0	Beirut St
+YE	71137	شارع تونس	tertiary	1	0	0	Tunis Street
+YE	71137	شارع جارالله	residential	1	0	0	
+YE	71137	شارع جبلة	residential	1	0	0	
+YE	71137	شارع جمال عبد الناصر	residential	1	0	0	Gamal Abdul Nasser Street
+YE	71137	شارع حمود عمران رحمه الله	residential	1	0	0	
+YE	71137	شارع خولة	residential	1	0	0	Khawla Street
+YE	71137	شارع دار الحياة	secondary	1	0	0	Dar Alhayat St
+YE	71137	شارع زنجبار	residential	1	0	0	
+YE	71137	شارع سقطرى	tertiary	1	0	0	Soqatra Street
+YE	71137	شارع سوق الانسي	residential	1	0	0	
+YE	71137	شارع عبد العزيز عبد الغني	residential	1	0	0	Abdul Aziz Abdul Ghani Street
+YE	71137	شارع علي عبدالمغني	primary	1	0	0	
+YE	71137	شارع كلية الشرطة	primary	1	0	0	
+YE	71137	شارع مازدا	tertiary	1	0	0	Mazda Street
+YE	71137	شارع مسيك	tertiary	1	0	0	
+YE	71137	شارع مصنع حدة	tertiary	1	0	0	Johar Street
+YE	71137	شارع مصنع حده	tertiary	1	0	0	Johar Street
+YE	71137	شارع نسيم حميد	secondary	1	0	0	Nasim Hammed St
+YE	71137	شارع نشوان الحميري	primary	1	0	0	Round Road
+YE	71137	شارع نقم	residential	1	0	0	
+YE	71137	شارع نيوشال	secondary	1	0	0	Newshal St
+YE	71137	شارع هايل امام	tertiary	1	0	0	Hayil Imam Street
+YE	71137	طريق خولان	primary	1	0	0	Khawlan Road
+YE	71137	طريق صنعاء الحديدة	primary	1	0	0	Sana'a - Hodeidah Road
+YE	71137	عتق	residential	1	0	0	
+YE	71137	كهلان	residential	1	0	0	
+YE	71137	محمد بن حمود عمران	residential	1	0	0	
+YE	71137	محمد حمود عمران	residential	1	0	0	
+YE	71137	مركز Z جمالك	residential	1	0	0	
+YE	71137	ميدان التحرير	residential	1	0	0	Tharir Square
+YE	71273	خط صنعاء - مارب	primary	1	0	0	
+YE	71273	شارع 24	tertiary	1	0	0	24 Street
+YE	71273	شارع الحربي	tertiary	1	0	0	Harby Street
+YE	71273	شارع الخمسين	primary	1	0	0	50 meters Street
+YE	71273	شارع خولان	primary	1	0	0	Khawlan Street
+YE	71273	شارع عزيز	residential	1	0	0	Aziz Street
+YE	71273	شارع نسيم عثمان	residential	1	0	0	
+YE	71273	طريق صنعاء خولان مأرب	primary	1	0	0	Sana'a Khawlan Ma'rib Road
+YE	71282	طريق الأدواس- ساه - سيئون	primary	1	0	0	Ledwas - Sah - Seiyun Road
+YE	71334	Mufrat At Tahl	residential	1	0	0	
+YE	71334	شارع المركز الثقافي	residential	1	0	0	Cultural Centre Street
+YE	71334	شارع المقبرة	residential	1	0	0	Cemetery Street
+YE	71334	طريق المطار	tertiary	1	0	0	Airport Road
+YE	71334	طريق صعدة البقع	primary	1	0	0	Sa'dah Al Buq' Road
+YE	71491	شارع الامن	residential	1	0	0	Security Street
+YE	71491	شارع رداع العام	primary	1	0	0	Rada'a Main Street
+YE	71491	طريق ذمار - رداع	primary	1	0	0	Dhamar - Rda'a Road
+YE	71491	طريق وادي رجب	unclassified	1	0	0	
+YE	71549	طريق كروشم	unclassified	1	0	0	Karooshem Road
+YE	71549	طريق وادي بدش	tertiary	1	0	0	Wadi Bidish Road
+YE	71558	طريق صنعاء - صعدة	primary	1	0	0	Sana'a - Sa'dah Road
+YE	71687	طريق رضوم	secondary	1	0	0	Rudum Raod
+YE	71904	طريق إب - الضالع	primary	1	0	0	Ibb - Ad Dala' Road
+YE	72181	طريق عتق مأرب	primary	1	0	0	Ataq Ma'rib Road
+YE	72519	طريق أبين البيضاء	secondary	1	0	0	Abyan - AlBaydah Road
+YE	72557	طريق أبين شبوة	primary	1	0	0	Abyan - Shabwa Road
+YE	72561	حد	unclassified	1	0	0	
+YE	72561	طريق المذيخرة	secondary	1	0	0	
+YE	72760	بني جميش	residential	1	0	0	
+YE	72760	بني عميرة	residential	1	0	0	
+YE	72760	شارع بني حايك	residential	1	0	0	
+YE	72760	شارع بني منه	residential	1	0	0	
+YE	72760	شارع مدرسة حفصة	residential	1	0	0	
+YE	72968	الطريق الدائري لمأرب	primary	1	0	0	Marib Ring Road
+YE	72968	شارع الخياطين	residential	1	0	0	Tailors' Street
+YE	72968	طريق الحزمة - حصون ال جلال	unclassified	1	0	0	
+YE	72968	طريق الخسيف - محطة بن معيلي	unclassified	1	0	0	
+YE	72968	طريق الفاو - الخسيف	tertiary	1	0	0	Fao Khasif Road
+YE	72968	طريق الوادي - الخسيف	tertiary	1	0	0	
+YE	72968	طريق سد مارب	tertiary	1	0	0	
+YE	72968	طريق سوق الثلوث بير المرازيق مأرب	unclassified	1	0	0	
+YE	72968	طريق صنعاء خولان مأرب	primary	1	0	0	Sana'a Khawlan Ma'rib Road
+YE	73125	طريق صعدة - حيدان - الملاحيط	secondary	1	0	0	Sa'dah - Haydan - Malahit Road
+YE	73125	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	73409	200	primary	1	0	0	
+YE	73409	شارع السلام	residential	1	0	0	
+YE	73409	طريق جبل الحصن	unclassified	1	0	0	
+YE	73409	طريق زراجة	secondary	1	0	0	Zarajah Road
+YE	73668	طريق صعدة البقع	primary	1	0	0	Sa'dah Al Buq' Road
+YE	73786	شارع الأحلام	primary	1	0	0	Dream Street
+YE	74167	طريق بيت الخردل	unclassified	1	0	0	
+YE	74185	خط اب الحديدة	primary	1	0	0	
+YE	74185	طريق االسرايم	unclassified	1	0	0	
+YE	74185	طريق السرايم الظهابي	residential	1	0	0	
+YE	74185	طريق السرايم عرشان	unclassified	1	0	0	
+YE	74185	طريق ذي البقلة المدورة	unclassified	1	0	0	
+YE	74185	طريق منازل بردان	unclassified	1	0	0	
+YE	74219	طريق أبين البيضاء	secondary	1	0	0	Abyan - AlBaydah Road
+YE	74368	طريق الملاح جعار	unclassified	1	0	0	Al Milah - Giaar Road
+YE	74477	طريق صنعاء تعز		2	7754	7754	
+YE	74477	الدائري الشمالي الغربي بالسرايم	residential	1	0	0	
+YE	74477	حي السبل	residential	1	0	0	
+YE	74477	شارع الجامعه	tertiary	1	0	0	University Street
+YE	74477	شارع الخنساء	residential	1	0	0	Al-Khansa Street
+YE	74477	شارع السبل	primary	1	0	0	Al-Sabil Street
+YE	74477	شارع العدين	primary	1	0	0	Al-Adin Street
+YE	74477	شارع المحكمه	residential	1	0	0	Court Street
+YE	74477	شارع بيت العواضي	residential	1	0	0	
+YE	74477	شارع جبله	secondary	1	0	0	
+YE	74477	شارع جيزان	residential	1	0	0	Jizan Street
+YE	74477	شعب يافع	unclassified	1	0	0	
+YE	74477	طريق إب - الضالع	primary	1	0	0	Ibb - Ad Dala' Road
+YE	74477	طريق اب القديمة	tertiary	1	0	0	
+YE	74477	طريق اجدال اقطاع	residential	1	0	0	
+YE	74477	طريق الجسر شبان	unclassified	1	0	0	
+YE	74477	طريق الجسر شبان2	unclassified	1	0	0	
+YE	74477	طريق السرايم ذي البقلة التعكر والربادي	unclassified	1	0	0	
+YE	74477	طريق المحطة الفرعية	residential	1	0	0	Substation Road
+YE	74477	طريق المقادمة	unclassified	1	0	0	
+YE	74477	طريق المقادمة - - الصيرات والمدة	unclassified	1	0	0	
+YE	74477	طريق شبان السرايم	unclassified	1	0	0	
+YE	74477	طريق شبان السرايم القديم	unclassified	1	0	0	
+YE	74477	طريق عرض صباح بالسرايم	unclassified	1	0	0	
+YE	74906	طريق إب - حيس	primary	1	0	0	Ibb - Hais Road
+YE	74906	طريق الخوخة - حيس	primary	1	0	0	Al Khawkhah - Hais Road
+YE	74906	طريق هايز الدائري	secondary	1	0	0	Hays Ring Road
+YE	74938	الشارع الرئيسي	tertiary	1	0	0	Main Street
+YE	74938	خط الراهدة - طور الباحة	primary	1	0	0	
+YE	74938	شارع إيغل	residential	1	0	0	Eagle Street
+YE	74938	شارع بلازا	residential	1	0	0	Plaza Street
+YE	74938	شارع سنو فيو	residential	1	0	0	Snow View Street
+YE	74938	شارع مونتانا	residential	1	0	0	Montana Street
+YE	74938	طريق الدمنه المدرسة	unclassified	1	0	0	
+YE	74938	طريق الدمه السد	unclassified	1	0	0	
+YE	74938	طريق الريامي	residential	1	0	0	
+YE	74938	طريق الفرعين- جريدة -بني علي	unclassified	1	0	0	
+YE	74938	طريق تم توقيفها	unclassified	1	0	0	
+YE	74938	طريق حارات دعان سوق الثلاثاء	unclassified	1	0	0	
+YE	75000	طريق الغيضة - صرفيت	primary	1	0	0	AlGhaydah - Sarfayt Road
+YE	75133	خط مارب - عتق	primary	1	0	0	
+YE	75133	شارع السوق - الفرزة	tertiary	1	0	0	Alsouq - Alfarza (St.)
+YE	75133	شارع السوق القديم	residential	1	0	0	
+YE	75133	شارع المستشفى	residential	1	0	0	Hospital St.
+YE	75133	طريق عتق مأرب	primary	1	0	0	Ataq Ma'rib Road
+YE	75163	الطريق الدائري الرئيسي	tertiary	1	0	0	Majar Ring Road
+YE	75239	200	primary	1	0	0	
+YE	75239	210	primary	1	0	0	
+YE	75337	الشارع العام	primary	1	0	0	Public Street
+YE	75337	الطريق الدائري	secondary	1	0	0	Ring Road
+YE	75337	جسر طريق عمران	primary	1	0	0	Amran Highway Bridge
+YE	75337	دوار العذارى	secondary	1	0	0	Virgin Roundabout
+YE	75337	شارع القلعة	residential	1	0	0	Castle Street
+YE	75337	شارع المرور	residential	1	0	0	Traffic Street
+YE	75357	دائري سوق ١٤	secondary	1	0	0	
+YE	75357	شارع المفلحي - سوق ١٤	secondary	1	0	0	
+YE	75357	شارع لحج - البيضاء	primary	1	0	0	Laḥij - Al Bayḍa Street
+YE	75357	طرق المحجبة - السيل - ذي ناخب	unclassified	1	0	0	
+YE	75357	طريق ترفاة	residential	1	0	0	Tarfāh Road
+YE	75357	طريق حباط	unclassified	1	0	0	
+YE	75357	طريق حباطي - لبعوس	residential	1	0	0	
+YE	75357	طريق خطهه	residential	1	0	0	Khaṭ'hah Road
+YE	75357	طريق سوق السلام	unclassified	1	0	0	Souq As-Salam Road
+YE	75357	طريق قفيزة	residential	1	0	0	
+YE	75504	شارع لحج - البيضاء	primary	1	0	0	Lahij - Al Bayda Street
+YE	75508	الشارع الخلفي	unclassified	1	0	0	
+YE	75508	طريق الحبيلين - الضالع الدائري	unclassified	1	0	0	
+YE	75518	طريق أبين شبوة	primary	1	0	0	Abyan - Shabwa Road
+YE	75518	طريق عتق - المكلا	primary	1	0	0	Attaq - Mukalla Road
+YE	75539	خط عمران - شبام	secondary	1	0	0	
+YE	75618	الغيل - القاره	tertiary	1	0	0	alghayl - alqaruh
+YE	75618	القاره - الغيل	tertiary	1	0	0	alqaruh - alghil
+YE	75618	برع السده	tertiary	1	0	0	Bare Alssddih
+YE	75618	جوله الفانوس	residential	1	0	0	Julah Alfanus
+YE	75618	شارع البدو	tertiary	1	0	0	Bedo Street
+YE	75618	شارع البريد	tertiary	1	0	0	Post street
+YE	75618	شارع التقوى	secondary	1	0	0	Al Taqawa Street
+YE	75618	شارع الحسينيه	unclassified	1	0	0	
+YE	75618	شارع الستين	primary	1	0	0	Alssttin street
+YE	75618	شارع العام	secondary	1	0	0	Main Street
+YE	75618	شارع باحميش	residential	1	0	0	
+YE	75618	شارع باهارون	secondary	1	0	0	BaharunStreet
+YE	75618	شارع برعيه	tertiary	1	0	0	Biraeiih Street
+YE	75618	شارع بونمي	secondary	1	0	0	
+YE	75618	شارع معيان الشيخ - الكوم	tertiary	1	0	0	mieyan alshshaykh - alkawm
+YE	75618	طريق الصداع - الشحر	secondary	1	0	0	AlSidae - Shihr road
+YE	75618	طريق الغيل - شحير	primary	1	0	0	Ghayl - Sheer road
+YE	75618	طريق الغيل الصداع	secondary	1	0	0	Alghayl - Alssidae Road
+YE	75618	طريق النقعة - العيون	tertiary	1	0	0	Alnnaqeih - Aloyoun Road
+YE	75618	طريق النقعة العيون	tertiary	1	0	0	Alnagah -Aloyoun Road
+YE	75618	طريق النقعه	residential	1	0	0	Alnnaqeih Rood
+YE	75618	طريق شحير -الغيل	primary	1	0	0	Ghayl - Sheer road
+YE	75618	مكله القظب	tertiary	1	0	0	mushkilat alqadib
+YE	76125	ال علي احمد الرباط	unclassified	1	0	0	
+YE	76125	الخرقاء ال سالم علي	unclassified	1	0	0	
+YE	76125	الرباط ال عمر	residential	1	0	0	
+YE	76125	الشارع العام ذي ناعم	unclassified	1	0	0	
+YE	76125	القاهر اال سالم بن علي	residential	1	0	0	
+YE	76125	القشيب الدريعاء	unclassified	1	0	0	
+YE	76125	المعزوب	tertiary	1	0	0	
+YE	76125	النسرين	tertiary	1	0	0	
+YE	76125	اليمن السعيد	residential	1	0	0	
+YE	76125	جبل الخرقاء	unclassified	1	0	0	
+YE	76125	حي المحطه تخطيط ابوعاصم	residential	1	0	0	
+YE	76125	حي المحطه ذي ناعم	residential	1	0	0	
+YE	76154	Dhras alulya	unclassified	1	0	0	
+YE	76154	Dhrass 3	unclassified	1	0	0	
+YE	76154	Dhrass road	unclassified	1	0	0	
+YE	76154	dhi eshraq road	unclassified	1	0	0	
+YE	76154	dhras2	unclassified	1	0	0	
+YE	76154	dhras22	unclassified	1	0	0	
+YE	76154	home	unclassified	1	0	0	
+YE	76154	السيد	residential	1	0	0	
+YE	76154	شارع ذي السفال	secondary	1	0	0	Dhi Asfal Street
+YE	76154	طريق الجعاشن	tertiary	1	0	0	Al-Ja'ashin Road
+YE	76154	طريق السرايم - الربادي	unclassified	1	0	0	
+YE	76154	طريق السرايم عرشان	unclassified	1	0	0	
+YE	76154	طريق النجد الأحمر عرشان السرايم	unclassified	1	0	0	
+YE	76154	طريق بردان ذنبة	unclassified	1	0	0	
+YE	76154	طريق ذنبة	unclassified	1	0	0	
+YE	76154	طريق فجرة الربادي - الشياذع	unclassified	1	0	0	
+YE	76184	شارع رداع	secondary	2	83	7754	Rada'a Street
+YE	76184	طريق صنعاء - تعز		2	7153	7777	
+YE	76184	الطريق الدائري الجنوبي	primary	1	0	0	Southern Ring Road
+YE	76184	الطريق الدائري الشرقي	primary	1	0	0	Eastern Ring Road
+YE	76184	الطريق الدائري الغربي	secondary	1	0	0	Western Ring Road
+YE	76184	الطريق الدائري القديم	tertiary	1	0	0	Old Ring Road
+YE	76184	المنزل - شارع ردعة	residential	1	0	0	Al-Manzil - Rada'a Street
+YE	76184	دوار أزان	primary	1	0	0	Azzan Roundabout
+YE	76184	دوار المحافظة	primary	1	0	0	Governorate Roundabout
+YE	76184	شارع 13 يونيو	tertiary	1	0	0	13th June Street
+YE	76184	شارع 40	residential	1	0	0	40 Street
+YE	76184	شارع السعدي	residential	1	0	0	
+YE	76184	شارع الصعدي	residential	1	0	0	Al-Saadi Street
+YE	76184	شارع المجزرة	tertiary	1	0	0	Slaughterhouse Street
+YE	76184	شارع المنزل	tertiary	1	0	0	Al-Manzil Street
+YE	76184	شارع الي مشروع الاشغال العامه - ذمار	residential	1	0	0	
+YE	76184	شارع جنوب القاعده الاداريه	residential	1	0	0	
+YE	76184	شارع حول حديقه 22مايو	residential	1	0	0	
+YE	76184	شارع حول سوق ذمار العام السوق الجديد	residential	1	0	0	
+YE	76184	شارع حول سوق ذمار للماشيه	residential	1	0	0	
+YE	76184	شارع حول مدرسه حفصه للبنات	residential	1	0	0	
+YE	76184	شارع حول مدرسه عثمان بن عفان	residential	1	0	0	
+YE	76184	شارع فرعي	residential	1	0	0	Side Street
+YE	76184	شارع مؤدي الي شارع 30	residential	1	0	0	
+YE	76184	شارع مؤدي الي مشروع الاشغال العامه - وسوق عنس	residential	1	0	0	
+YE	76184	شارع متفرع من شارع المجزره المحافظه	residential	1	0	0	
+YE	76184	شارع مجري السيول لحاره الصعدي	residential	1	0	0	
+YE	76184	شارع مدرسة جنوب حفصة للبنات	residential	1	0	0	South Hafsa Girls' School Street
+YE	76184	شارع مدرسة شمال حفصة للبنات	residential	1	0	0	North Hafsa Girls' School Street
+YE	76184	شوارع حول سوق ذمار للماشيه	residential	1	0	0	
+YE	76184	شوارع فرعيه الصعدي	residential	1	0	0	
+YE	76184	طريق المشواف	residential	1	0	0	
+YE	76184	طريق دهامار الالتفافي	secondary	1	0	0	Dhamar Bypass
+YE	76184	طريق ذمار - رداع	primary	1	0	0	Dhamar - Rda'a Road
+YE	76184	مدخل فرعي	residential	1	0	0	
+YE	76930	طريق الصيد	tertiary	1	0	0	
+YE	77017	الدائري	tertiary	1	0	0	
+YE	77017	طريق بيحان	primary	1	0	0	
+YE	77017	طريق بيحان البيضاء	secondary	1	0	0	Bayhan-Albaydah Road
+YE	77307	شارع لحج - البيضاء	primary	1	0	0	Laḥij - Al Bayḍa Street
+YE	77307	طريق الاستاذ فضل عبدالقادر	unclassified	1	0	0	
+YE	77307	طريق الجانحة - ياسار	unclassified	1	0	0	Al Jānaḥah - Yāsār Road
+YE	77307	طريق حبه سماره	unclassified	1	0	0	
+YE	77408	خط صنعاء الحديدة	primary	1	0	0	Sana'a - Hodeidah Road
+YE	77636	المشراح	residential	1	0	0	
+YE	77636	طريق الشرف	residential	1	0	0	
+YE	77636	طريق الشيخ غسان المصري المضو	unclassified	1	0	0	
+YE	77636	طريق شوبل الشرف	residential	1	0	0	
+YE	77646	B50	tertiary	1	0	0	
+YE	77646	خط الجاهلي - طور الباحة	tertiary	1	0	0	
+YE	77646	طريق التربة- نقيل الصحى	secondary	1	0	0	
+YE	77646	طريق الحنيشة	unclassified	1	0	0	
+YE	77646	طريق وادي الاشروح	unclassified	1	0	0	
+YE	77726	950	primary	1	0	0	
+YE	77726	Al Am Street	secondary	1	0	0	
+YE	77726	شارع الثلاثين	residential	1	0	0	
+YE	77726	طريق عتق - المكلا - أبين	primary	1	0	0	Attaq - Mukalla Road
+YE	77726	طريق عتق مأرب	primary	1	0	0	Ataq Ma'rib Road
+YE	77726	طريق عتق وادي حضرموت	primary	1	0	0	Ataq Wadi Hadramout Road
+YE	77791	Alsyani	residential	1	0	0	
+YE	77791	طريق الاكمة عشة	unclassified	1	0	0	
+YE	77791	طريق بردان ذنبة	unclassified	1	0	0	
+YE	77791	طريق دار المعرجي	residential	1	0	0	
+YE	77791	طريق سوق الخربة عدن الاشلوح	unclassified	1	0	0	
+YE	77791	طريق عشة منزل السماوي	unclassified	1	0	0	
+YE	77791	طريق عشة يعدش	unclassified	1	0	0	
+YE	77791	طريق قرية العبرة	unclassified	1	0	0	
+YE	77791	طريق قرية عشة	unclassified	1	0	0	
+YE	77791	طريق قرية يعدش	unclassified	1	0	0	
+YE	77791	طريق مجرن	unclassified	1	0	0	
+YE	77791	طريق مجرن السهق	unclassified	1	0	0	
+YE	77809	طريق البيضاء -رداع	primary	1	0	0	AlBaida - Rad'a Road
+YE	77881	R6	secondary	1	0	0	
+YE	77940	N1		2	99	230	
+YE	77940	دوار القاهرة		2	238	7771	
+YE	77940	90	secondary	1	0	0	
+YE	77940	R19	primary	1	0	0	
+YE	77940	اتجاه الخضراء	unclassified	1	0	0	
+YE	77940	دوار سوزوكي	primary	1	0	0	Suzuki Roundabout
+YE	77940	دوار عبد القوي	primary	1	0	0	Abdul Qawi Roundabout
+YE	77940	شارع الأحلام	primary	1	0	0	Dream Street
+YE	77940	شارع الإنشاءات	tertiary	1	0	0	Construction Street
+YE	77940	شارع الدرين	secondary	1	0	0	Al-Durain Street
+YE	77940	شارع السجن	primary	1	0	0	Prison Street
+YE	77940	شارع السلع	primary	1	0	0	Al-Sila Street
+YE	77985	طريق حجة - تهامة	primary	1	0	0	Hajah Tahamah Road
+YE	78137	خط الروضة	primary	1	0	0	Arrawdah Road
+YE	78137	شارع 12	residential	1	0	0	
+YE	78137	شارع البرطي	residential	1	0	0	
+YE	78137	شارع السايلة	tertiary	1	0	0	As Sailah Street
+YE	78137	شارع المطار	primary	1	0	0	Airport Street
+YE	78137	شارع مصعب بن عمير - الخط الجديد	primary	1	0	0	Airport New Road
+YE	78141	طريق الجول - الروضة	unclassified	1	0	0	
+YE	78141	طريق الروضة	secondary	1	0	0	Al Raudah Road
+YE	78141	طريق المجازة - جول الروضة	unclassified	1	0	0	
+YE	78141	طريق عتق - المكلا	primary	1	0	0	Attaq - Mukalla Road
+YE	78379	R6	secondary	1	0	0	
+YE	78428	خط عمران - شبام	secondary	1	0	0	Amran - Shibam Road
+YE	78428	دوار الشهيد الجزيفة	secondary	1	0	0	Martyr Al-Jazifa Roundabout
+YE	78428	شارع الشيخ حميد عمران	residential	1	0	0	Sheikh Hamid Omran Street
+YE	78428	شارع بدر حميد عمران	residential	1	0	0	Badr Hamid Omran Street
+YE	78428	شارع بن عمران	residential	1	0	0	Ibn Imran Street
+YE	78428	شارع جلال حميد عمران	residential	1	0	0	Jalal Hamid Omran Street
+YE	78428	شارع محمد ابن حمود عمران	residential	1	0	0	Mohammed Ibn Hamoud Omran Street
+YE	78428	شارع محمد حمود عمران	residential	1	0	0	Mohammed Hamoud Omran Street
+YE	78428	شارع محمد حميد عمران	residential	1	0	0	Mohammed Hamid Omran Street
+YE	78543	وادي الدور	residential	1	0	0	
+YE	78708	طريق صنعاء المحويت	primary	1	0	0	Sana'a - Al Mahwit Road
+YE	78751	الشارع الرئيسي	residential	1	0	0	Main Street
+YE	78751	طريق عدن الحديدة الساحلي	secondary	1	0	0	
+YE	78754	الشارع الاول	tertiary	2	530	7339	First Street
+YE	78754	حي غار الأحمر		2	535	535	
+YE	78754	الشارع الثالث	living_street	1	0	0	Third Street
+YE	78754	الشارع الثاني	tertiary	1	0	0	Second Street
+YE	78754	الشارع الخامس	residential	1	0	0	Fifth Street
+YE	78754	الشارع الرابع	living_street	1	0	0	Fourth Street
+YE	78754	الشارع السادس	residential	1	0	0	Sixth Street
+YE	78754	شارع 16	tertiary	1	0	0	16 Street
+YE	78754	شارع البنوك	secondary	1	0	0	Banks Street
+YE	78754	شارع السده	unclassified	1	0	0	Al-Saddah Street
+YE	78754	شارع باناعمه	tertiary	1	0	0	Bana'amah Street
+YE	78754	شارع خلف	unclassified	1	0	0	Behind Street
+YE	78754	ميدان بن عزون	secondary	1	0	0	Ben Azzoun Square
+YE	78776	.01	residential	1	0	0	
+YE	78776	.012	residential	1	0	0	
+YE	78776	0.1	residential	1	0	0	
+YE	78776	0.10	residential	1	0	0	
+YE	78776	0.2	residential	1	0	0	
+YE	78776	0.3	residential	1	0	0	
+YE	78776	0.4	residential	1	0	0	
+YE	78776	0.5	residential	1	0	0	
+YE	78776	0.6	residential	1	0	0	
+YE	78776	0.7	residential	1	0	0	
+YE	78776	0.8	residential	1	0	0	
+YE	78776	0.9	residential	1	0	0	
+YE	78905	طريق إب - حيس	primary	1	0	0	Ibb - Hais Road
+YE	78929	الطريق الدائري المنصوري	primary	1	0	0	Al Mansuriyah Ring Road
+YE	78931	Limited income unit		4	1	20	
+YE	78931	شارع السجن	primary	3	234	7799	Al-Qutaibi Street
+YE	78931	طريق عدن البريقة		2	236	236	
+YE	78931	خط الجسر الجديد	secondary	1	0	0	New Bridge Line
+YE	78931	دوار المصالحة	primary	1	0	0	Reconciliation Roundabout
+YE	78931	شارع 50	primary	1	0	0	50 Street
+YE	78931	شارع الأحلام	primary	1	0	0	Dream Street
+YE	78931	شارع القصر	tertiary	1	0	0	Palace Street
+YE	78931	شارع القطيبي	primary	1	0	0	Al-Qutaibi Street
+YE	78931	شارع الكثع	residential	1	0	0	Al-Kitha'a Street
+YE	78931	شارع الكثيري	secondary	1	0	0	Al Kathiri Street
+YE	78931	شارع صابر	tertiary	1	0	0	Saber Street
+YE	78964	خط بعدان	tertiary	1	0	0	
+YE	78964	خط تعز صنعاء	secondary	1	0	0	
+YE	78977	901	primary	1	0	0	
+YE	78977	طريق المحويت - تهامة	primary	1	0	0	Al Mahwit Tahamah Road
+YE	78991	طريق أبين شبوة	primary	1	0	0	Abyan - Shabwa Road
+YE	79015	طريق العوابل - اشمان - المضو	unclassified	1	0	0	
+YE	79088	خط حمام كرش	unclassified	1	0	0	
+YE	79131	الطريق الوطني القديم	tertiary	1	0	0	Old National Road
+YE	79131	خط الخوخة	primary	1	0	0	
+YE	79131	طريق الخوخة - حيس	primary	1	0	0	Al Khawkhah - Hais Road
+YE	79131	طريق عدن الحديدة الساحلي	primary	1	0	0	
+YE	79219	شارع المفلحي	secondary	1	0	0	
+YE	79219	طريق الصومعة	unclassified	1	0	0	
+YE	79284	طريق الحديدة - إب	primary	1	0	0	Hodeidah - Ibb Road
+YE	79384	طريق الجيف-الوبح	unclassified	1	0	0	
+YE	79415	شارع صنعاء		2	96	96	
+YE	79415	الاقتراب من المطار	tertiary	1	0	0	Airport Approach
+YE	79415	جولة الحفره	secondary	1	0	0	
+YE	79415	دوار الجمال	primary	1	0	0	Beauty Roundabout
+YE	79415	دوار الربسة	secondary	1	0	0	Al-Rabsa Roundabout
+YE	79415	دوار السمك	secondary	1	0	0	
+YE	79415	دوار الميناء	secondary	1	0	0	Port Roundabout
+YE	79415	شارع 20	residential	1	0	0	20 Street
+YE	79415	شارع 40	secondary	1	0	0	40 Street
+YE	79415	شارع 90	secondary	1	0	0	90 Street
+YE	79415	شارع أروى	residential	1	0	0	Arwa Street
+YE	79415	شارع الأسودي	primary	1	0	0	Al-Aswadi Street
+YE	79415	شارع التحرير	secondary	1	0	0	Liberation Street
+YE	79415	شارع الحكيمي	tertiary	1	0	0	Al-Hakimi Street
+YE	79415	شارع الحمدي	secondary	1	0	0	Al-Hamdi Street
+YE	79415	شارع الدهمية	residential	1	0	0	Al-Dahmiya Street
+YE	79415	شارع الشهداء	secondary	1	0	0	Al-Shuhada Street
+YE	79415	شارع القدس	secondary	1	0	0	Jerusalem Street
+YE	79415	شارع الكورنيش القديم	primary	1	0	0	Old Corniche Street
+YE	79415	شارع المطراق	tertiary	1	0	0	Matraq Street
+YE	79415	شارع النخيل	tertiary	1	0	0	Palm Street
+YE	79415	شارع جمال	primary	1	0	0	Jamal Street
+YE	79415	شارع زايد	primary	1	0	0	Zayed Street
+YE	79415	شارع شمسان	secondary	1	0	0	Shamsan Street
+YE	79415	شارع غزة	tertiary	1	0	0	Gaza Street
+YE	79415	شارع كورنيش	primary	1	0	0	Corniche Street
+YE	79415	شارع موسى	tertiary	1	0	0	Musa Street
+YE	79415	طريق المطار	primary	1	0	0	Airport Road
+YE	79455	طريق الجوف	primary	1	0	0	Al Jawf Road
+YE	79455	طريق رويك حزم الجوف	unclassified	1	0	0	
+YE	79478	طريق سيئون	primary	1	0	0	Sayaun - AlQaten Road
+YE	79478	طريق سيئون - القطن	primary	1	0	0	Sayaun - AlQaten Road
+YE	79700	شارع المطار	unclassified	1	0	0	Airport Street
+YE	79700	طريق الكورنيش	primary	1	0	0	
+YE	79700	طريق محيفيف	tertiary	1	0	0	Mohayfeef Road
+YE	79799	البريقة عدن	living_street	1	0	0	
+YE	79799	شارع البريقة	residential	1	0	0	Al-Buraiga Street
+YE	79799	شارع ساحل البريقة	residential	1	0	0	Brega Coast Street
+YE	79799	طريق فقم	secondary	1	0	0	
+YE	79799	مارين درايف	secondary	1	0	0	Marine Drive
+YE	79836	Al Bayda' Bypass	secondary	1	0	0	
+YE	79836	شارع النور	residential	1	0	0	
+YE	79836	شارع لحج - البيضاء	primary	1	0	0	Laḥij - Al Bayḍa Street
+YE	79836	طريق البيضاء الشرف	tertiary	1	0	0	
+YE	79836	مدينة البيضاء اليمن	primary	1	0	0	
+YE	80105	الطريق الدائري أحور	primary	1	0	0	
+YE	80105	طريق المحفد	tertiary	1	0	0	
+YE	80331	الشارع الأول	secondary	1	0	0	
+YE	80331	الشارع الثالث	secondary	1	0	0	
+YE	80331	طريق الديس	secondary	1	0	0	Ad Dis Road
+YE	80331	طريق الرييدة	tertiary	1	0	0	Ar royaydah road
+YE	80331	طريق هبورك	tertiary	1	0	0	
+YE	80336	طريق جعفر قحفة الكسير	tertiary	1	0	0	
+YE	80379	طريق الجبجب	secondary	1	0	0	Al-Jabjab Road
+YE	80379	طريق ذمار الحسينية	secondary	1	0	0	Dhamar:Al-Husainiya Road
+YE	80379	نقيل الحجب	unclassified	1	0	0	
+YE	80379	نقيل حميدة	unclassified	1	0	0	
+YE	402074	طريق الهجره	unclassified	1	0	0	
+YE	402074	طريق بيت الجالدي	residential	1	0	0	
+YE	402074	طريق بيت المراني	residential	1	0	0	
+YE	402074	طريق بيت المرهبي	residential	1	0	0	
+YE	402074	طريق بيت النفيش	unclassified	1	0	0	
+YE	402074	مدخل طريق بيت النفيش وبيت المرهبي وبيت المراني	residential	1	0	0	
+YE	402753	خط الحيمة	unclassified	1	0	0	
+YE	403272	بيت حزام		2	0	0	
+YE	403272	قرية المعزاب	unclassified	1	0	0	
+YE	403754	801	secondary	1	0	0	
+YE	403754	بني مطر - بوعان	tertiary	1	0	0	
+YE	403754	طريق شلال بني مطر	tertiary	1	0	0	
+YE	404914	شعب بني سليمان	tertiary	1	0	0	
+YE	404914	طريق الرجو - عيال عبدالله	secondary	1	0	0	
+YE	404914	طريق العرشان	unclassified	1	0	0	
+YE	404914	طريق بيت سنان - العرشان	tertiary	1	0	0	
+YE	404914	طريق بيت شملان	tertiary	1	0	0	
+YE	404914	طريق دائري الرجو إلى منزل محسن الحمدي	residential	1	0	0	
+YE	404914	طريق عيال بالخير	tertiary	1	0	0	
+YE	404914	طريق قرية مدر	tertiary	1	0	0	
+YE	406072	الدائري - خط تعز - التربة	secondary	1	0	0	
+YE	406072	النشمة	residential	1	0	0	
+YE	406662	طريق صعدة - حيدان - الملاحيط	secondary	1	0	0	Sa'dah - Haydan - Malahit Road
+YE	408124	طريق ذمار الحسينية	secondary	1	0	0	Dhamar:Al-Husainiya Road
+YE	408342	طريق الشيخ عبدالعليم قرية الخراف	unclassified	1	0	0	
+YE	408342	طريق قرية الخراف	unclassified	1	0	0	
+YE	409051	خط الراهدة - طور الباحة	primary	1	0	0	
+YE	409051	خط عدن - طور الباحة	primary	1	0	0	
+YE	411056	طريق صعدة - حيدان - الملاحيط	secondary	1	0	0	Sa'dah - Haydan - Malahit Road
+YE	415189	ساحل ابين		3	44	227	
+YE	415189	الخط البحري	tertiary	1	0	0	Maritime Line
+YE	415189	الشارع الخلفي	tertiary	1	0	0	Back Street
+YE	415189	الشارع الرئيسي	primary	1	0	0	Main Street
+YE	415189	الطريق الدائري	secondary	1	0	0	Roundy Road
+YE	415189	جولة البجع	primary	1	0	0	
+YE	415189	جولة بدر	primary	1	0	0	
+YE	415189	خط الجسر الجديد	secondary	1	0	0	New Bridge Line
+YE	415189	دوار الشيخ إسحاق	secondary	1	0	0	Sheikh Ishaq Roundabout
+YE	415189	شارع أبان	unclassified	1	0	0	Aban Street
+YE	415189	شارع أبو بكر الهندي	residential	1	0	0	Abu Bakr Al-Hindi Street
+YE	415189	شارع أتام	residential	1	0	0	Att'am Street
+YE	415189	شارع أروى	primary	1	0	0	Arwa Street
+YE	415189	شارع الأحمدي	residential	1	0	0	Al-Ahmadi Street
+YE	415189	شارع الاتحاد	residential	1	0	0	Al Ittihad Street
+YE	415189	شارع الباز	residential	1	0	0	Al-Baz Street
+YE	415189	شارع البحر الأحمر	tertiary	1	0	0	Red Sea Street
+YE	415189	شارع البلدية	tertiary	1	0	0	Municipality Street
+YE	415189	شارع البهرة	residential	1	0	0	Al Bohra Street
+YE	415189	شارع الحراج	residential	1	0	0	Al Haraj Street
+YE	415189	شارع الدكة	tertiary	1	0	0	Al-Dakka Street
+YE	415189	شارع الزعفران	residential	1	0	0	Zafran Street
+YE	415189	شارع السبت	primary	1	0	0	Al-Shabbat Street
+YE	415189	شارع السليل	residential	1	0	0	Al-Salil Street
+YE	415189	شارع الشريف	residential	1	0	0	Al Sharif Street
+YE	415189	شارع الشهداء	residential	1	0	0	Martyrs' Street
+YE	415189	شارع الشيخ عبدالله	residential	1	0	0	Sheikh Abdullah Street
+YE	415189	شارع الصديق	residential	1	0	0	Al-Siddiq Street
+YE	415189	شارع الطويلة	residential	1	0	0	Al-Taweelah Street
+YE	415189	شارع العاقل	primary	1	0	0	Al-Aqel Street
+YE	415189	شارع العجاز	residential	1	0	0	Al-Ajaiz Street
+YE	415189	شارع العدل (الصعيدي)	tertiary	1	0	0	Al-Adl Street (Al-Saidi)
+YE	415189	شارع العقبة	primary	1	0	0	Aqaba Street
+YE	415189	شارع العيدروس	tertiary	1	0	0	Al-Aidaroos Street
+YE	415189	شارع القدر	residential	1	0	0	Al-Kadr Street
+YE	415189	شارع القطيع	residential	1	0	0	Al-Qate'e Street
+YE	415189	شارع القلوعة	secondary	1	0	0	Al-Qalou'a Street
+YE	415189	شارع المتحف	tertiary	1	0	0	Museum Street
+YE	415189	شارع المعاري	residential	1	0	0	Al-Ma'ari Street
+YE	415189	شارع الملك سليمان	residential	1	0	0	King Solomon Street
+YE	415189	شارع بدوي	residential	1	0	0	Bedouin Street
+YE	415189	شارع جوهر	residential	1	0	0	Jawhar Street
+YE	415189	شارع حدادين	residential	1	0	0	Hadadeen Street
+YE	415189	شارع خليج هوكات	unclassified	1	0	0	Hoqat Bay Street
+YE	415189	شارع سالم علي	tertiary	1	0	0	Salem Ali Street
+YE	415189	شارع عطويل	tertiary	1	0	0	Attaweel Street
+YE	415189	شارع محمد علي لقمان	tertiary	1	0	0	Mohammed Ali Luqman Street
+YE	415189	ميدان التحرير	tertiary	1	0	0	Tahrir Square
+YE	415189	نفق القلوعة	secondary	1	0	0	Al-Qalou'a Tunnel
+YE	415189	هلال أمير ويلز	residential	1	0	0	Prince of Wales Crescent
+YE	7345723	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	7345827	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	7346082	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	7346660	طريق صعدة - رازح - الملاحيط	secondary	1	0	0	Sa'dah - Razah - Al Malalhit Road
+YE	7354697	B50	tertiary	1	0	0	
+YE	7354697	الحوبان قدس	residential	1	0	0	
+YE	7354697	خط سوق الاحد - وادي محجر	tertiary	1	0	0	
+YE	7354697	سوق الاحد	residential	1	0	0	
+YE	7364546	شارع البيضاء - مأرب	primary	1	0	0	Al Bayda - Ma`rib Street
+YE	7364913	طريق بلاد قيفه العليا	unclassified	1	0	0	
+YE	7367232	420	unclassified	1	0	0	
+YE	7367232	420 طريق الصلو	unclassified	1	0	0	
+YE	7367232	421 طريق يني يوسف	unclassified	1	0	0	
+YE	7367232	422	unclassified	1	0	0	
+YE	7367232	423	unclassified	1	0	0	
+YE	7792745	شارع الجزائر	primary	1	0	0	Algeria Street
+YE	7792748	شارع الجزائر	primary	1	0	0	Algeria Street
+YE	7792749	شارع القصر	residential	1	0	0	
+YE	7890531	شارع المطار	primary	1	0	0	Airport Street
+YE	7928384	خط الجاهلي - طور الباحة	unclassified	1	0	0	
+YE	7928384	طريق الأشبوط	unclassified	1	0	0	
+YE	7928384	طريق الحنيشة	unclassified	1	0	0	
+YE	7928384	عالبة	unclassified	1	0	0	
+YE	7931040	سباح	tertiary	1	0	0	
+YE	7931040	طريق يافع طسه سباح	tertiary	1	0	0	
+YE	7931041	طريق بيحان البيضاء	secondary	1	0	0	Bayhan-Albaydah Road
+YE	8308217	طريق المصينعة - خمار al-musiynah - khumar	unclassified	1	0	0	
+YE	8308729	طريق الأدواس- ساه - سيئون	primary	1	0	0	Ledwas - Sah - Seiyun Road
+YE	8356686	طريق الرمسة - الحزمة	residential	1	0	0	
+YE	8356686	طريق الرمسة - حصون ال جلال	residential	1	0	0	
+YE	8356686	طريق الوادي - الخسيف	tertiary	1	0	0	
+YE	8357764	خط فرعي الجائف الاعلى	tertiary	1	0	0	
+YE	8357764	خط قرية الجائف الاعلى	tertiary	1	0	0	
+YE	8357764	طريق صنعاء - صعدة	primary	1	0	0	Sana'a - Sa'dah Road
+YE	11153801	الجبيبة	unclassified	1	0	0	Al-Jabbeiba
+YE	11153801	الشبر الرعادي	unclassified	1	0	0	Al-Shabar:Ar-Ra'aady
+YE	11153801	سيلة قشط	unclassified	1	0	0	
+YE	11153801	طريق الاحيام	unclassified	1	0	0	
+YE	11153801	طريق الجبجب	secondary	1	0	0	
+YE	11153801	طريق الجبجب- بني مسلم	unclassified	1	0	0	
+YE	11153801	طريق الديادير	unclassified	1	0	0	Ad-Dayadeer Road
+YE	11153801	طريق الديادير جديد	unclassified	1	0	0	
+YE	11153801	طريق الصلحف	unclassified	1	0	0	
+YE	11153801	طريق الصلول	unclassified	1	0	0	
+YE	11153801	طريق الظاهر	unclassified	1	0	0	
+YE	11153801	طريق العنين	unclassified	1	0	0	Al-Aneen Road
+YE	11776813	شرعب الرونه		2	0	0	
+YE	11776817	خط المطار دوار الصرخة	primary	1	0	0	
+YE	11776817	شارع الأربعين	residential	1	0	0	40m Street
+YE	11776817	شارع البرطي	residential	1	0	0	
+YE	11776817	شارع الخمسين	residential	1	0	0	50m Street
+YE	11776817	شارع السايلة	tertiary	1	0	0	As Sailah Street
+YE	11776817	شارع العميري	tertiary	1	0	0	
+YE	11776817	شارع المطار	primary	1	0	0	Airport Street
+YE	11776817	شارع فلسطين	primary	1	0	0	Palestine Street
+YE	11776817	شارع ٢٤	residential	1	0	0	
+YE	11776817	طريق المهندس عبداللطيف حازب	residential	1	0	0	
+YE	11776817	طريق صنعاء المحويت	primary	1	0	0	Sana'a - Al Mahwit Road
+YE	12167139	طريق القبيطة - شعب طورالباحة	residential	1	0	0	
+YE	12217890	طريق المطار	unclassified	1	0	0	Airport Road
+YE	12217890	طريق سي بي إف	tertiary	1	0	0	CPF Road
+YE	12217890	طريق غيل بن يمين - حرو	unclassified	1	0	0	

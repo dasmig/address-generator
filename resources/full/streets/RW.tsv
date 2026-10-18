@@ -1,0 +1,527 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+RW	201463	field road	road	1	0	0	
+RW	201463	resdential road	residential	1	0	0	
+RW	201463	residental road	residential	1	0	0	
+RW	201463	residential road	residential	1	0	0	
+RW	201463	road	unclassified	1	0	0	
+RW	201521	Avenue de la Nutrition	residential	2	16	16	
+RW	201521	Musanze - Rubavu Road		2	123	456	
+RW	201521	Ruhengeri - Gisenyi Road		2	4	4	
+RW	201521	Ave de la Nutrition	residential	1	0	0	
+RW	201521	Avenue Mikeno	residential	1	0	0	
+RW	201521	Rue Muhabura	residential	1	0	0	
+RW	201521	Rue de Commerce	residential	1	0	0	
+RW	201521	Rue du Commerce	residential	1	0	0	
+RW	201521	Rue du Marche	residential	1	0	0	
+RW	201521	Rue du Pyrethre	residential	1	0	0	
+RW	201521	Volcano Guest	unclassified	1	0	0	
+RW	201650	NR 19	primary	1	0	0	
+RW	201650	NR19	primary	1	0	0	
+RW	201841	KN 2 Avenue	secondary	1	0	0	
+RW	202061	KK 567 Street	residential	318	2	73	
+RW	202061	KK 526 Street	residential	238	2	69	
+RW	202061	KK 31 Avenue	secondary	148	1	25	
+RW	202061	KK 575 Street	residential	146	4	60	
+RW	202061	KK 534 Street	residential	134	1	93	
+RW	202061	KK 622 St		98	2	84	
+RW	202061	KK 571 Street	residential	96	3	31	
+RW	202061	KK 557 Street	residential	63	1	27	
+RW	202061	KK 713 Street	residential	58	1	57	
+RW	202061	KG 28 Av		52	3	88	
+RW	202061	KK 628 Street	residential	48	3	66	
+RW	202061	KG 676 St		46	5	61	
+RW	202061	KG 2 Av		43	5	50	
+RW	202061	KK 34 Av		43	14	52	
+RW	202061	KG 551 St		38	3	46	
+RW	202061	KN 14 Av		38	3	49	
+RW	202061	KG 674 St		36	2	52	
+RW	202061	KK 553 Street	residential	36	1	13	
+RW	202061	KK 569 Street	residential	36	2	29	
+RW	202061	KG 507 St		32	2	22	
+RW	202061	KG 670 St		32	1	43	
+RW	202061	KG 439 Street	residential	28	21	49	
+RW	202061	KG 549 St		26	10	35	
+RW	202061	KK 496 Street	residential	26	1	98	
+RW	202061	KK 658 Street	residential	25	2	24	
+RW	202061	KG 649 Street	residential	23	2	69	
+RW	202061	KK 513 Street	residential	23	2	20	
+RW	202061	KN 5 Road	primary	22	3	72	
+RW	202061	KG 629 St		21	3	21	
+RW	202061	KK 432 Street	residential	21	2	21	
+RW	202061	Rue KG 506		21	1	20	
+RW	202061	KG 553 St		19	1	38	
+RW	202061	KG 572 St		18	1	35	
+RW	202061	KG 672 St		18	1	33	
+RW	202061	KK 44 Avenue	secondary	18	1	11	
+RW	202061	KK 46 Avenue	unclassified	18	1	23	
+RW	202061	KK 625 Street	residential	18	1	10	
+RW	202061	KG 666 St		17	1	23	
+RW	202061	KK 499 Street	residential	17	1	7	
+RW	202061	KK 528 Street	residential	15	1	23	
+RW	202061	KG 653 Street	residential	14	12	53	
+RW	202061	KK 15 Rd		14	1	10	
+RW	202061	KK 617 Street	residential	12	1	7	
+RW	202061	KN 29 Street	residential	12	3	13	
+RW	202061	KG 548 Street	tertiary	11	1	48	
+RW	202061	KK 34 Avenue	secondary	11	0	0	
+RW	202061	KG 604 St		10	1	22	
+RW	202061	KN 16 Avenue	residential	10	2	46	
+RW	202061	KG 621 St		9	1	9	
+RW	202061	KK 36 Avenue	unclassified	9	1	5	
+RW	202061	KK 381 Street	residential	9	1	8	
+RW	202061	KK 679 Street	residential	9	7	15	
+RW	202061	KG 602 St		8	1	15	
+RW	202061	KK 8 Avenue	secondary	8	1	7	
+RW	202061	KK 804 Street	residential	8	1	8	
+RW	202061	KG 610 St		7	1	7	
+RW	202061	KG 668 St		7	14	24	
+RW	202061	KG 610 Street	residential	6	8	13	
+RW	202061	KG 7 Avenue	primary	6	6	72	
+RW	202061	KK 700 Street	residential	6	2	9	
+RW	202061	KK 711 Street	unclassified	6	1	6	
+RW	202061	KN 6		6	23	40	
+RW	202061	KG 13 Avenue	tertiary	5	1	56	
+RW	202061	KG 5 Av		5	17	81	
+RW	202061	KG 6 Avenue	residential	5	9	44	
+RW	202061	KG 643 St		5	6	43	
+RW	202061	KG 682 St		5	1	5	
+RW	202061	KK 500 Street	residential	5	1	3	
+RW	202061	KN 43		5	4	18	
+RW	202061	KG 1 Avenue	tertiary	4	14	36	
+RW	202061	KG 3 Avenue	secondary	4	4	36	
+RW	202061	KG 4 Av		4	6	20	
+RW	202061	KG 5 Avenue	residential	4	2	34	
+RW	202061	KG 541 Street	residential	4	2	2	
+RW	202061	KG 608 St		4	1	5	
+RW	202061	KG 623 St		4	1	7	
+RW	202061	KG 637 St		4	2	8	
+RW	202061	KG 688 St		4	89	89	
+RW	202061	KK 578 Street	residential	4	1	4	
+RW	202061	KK 722 Street	residential	4	9	22	
+RW	202061	KN 1 Avenue	tertiary	4	0	0	
+RW	202061	KN 3 Avenue	secondary	4	1	123	
+RW	202061	KG 14 Avenue	secondary	3	0	0	
+RW	202061	KG 569 St		3	1	8	
+RW	202061	KG 603 St		3	13	17	
+RW	202061	KG 676 Street	residential	3	1	51	
+RW	202061	KG 680 St		3	1	10	
+RW	202061	KK 593 Street	residential	3	0	0	
+RW	202061	KN 1 Road		3	14	84	
+RW	202061	KN 12 Avenue	tertiary	3	1	15	
+RW	202061	KN 4 Avenue	secondary	3	3	22	
+RW	202061	KN 41 Street	secondary	3	34	34	
+RW	202061	KN 47		3	4	8	
+RW	202061	Avenue de la Justice	secondary	2	0	0	
+RW	202061	KG 515 Street	residential	2	9	9	
+RW	202061	KG 549 Street	residential	2	8	13	
+RW	202061	KG 563 Street	residential	2	8	8	
+RW	202061	KG 567 Street	residential	2	30	567	
+RW	202061	KG 599 St		2	5	44	
+RW	202061	KG 631 St		2	2	13	
+RW	202061	KG 633 St		2	6	8	
+RW	202061	KG 644 St		2	6	6	
+RW	202061	KG 646 St		2	1	52	
+RW	202061	KG 647 St		2	54	54	
+RW	202061	KG 690 Street	residential	2	4	7	
+RW	202061	KG 9 Av		2	15	39	
+RW	202061	KK 1 Av		2	2	3	
+RW	202061	KK 10 Avenue	unclassified	2	45	55	
+RW	202061	KK 220 Street	residential	2	0	0	
+RW	202061	KK 4 Avenue	secondary	2	0	0	
+RW	202061	KK 519 Street	residential	2	5	28	
+RW	202061	KK 6 Avenue	secondary	2	2	3	
+RW	202061	KK 627 Street	residential	2	1	2	
+RW	202061	KK 712 Street	residential	2	1	11	
+RW	202061	KK 787 Street	residential	2	9	11	
+RW	202061	KN 112 Street	tertiary	2	0	0	
+RW	202061	KN 118 St		2	14	15	
+RW	202061	KN 20 Ave		2	0	0	
+RW	202061	KN 3 Road		2	1	2	
+RW	202061	KN 41		2	27	29	
+RW	202061	KN 52		2	34	66	
+RW	202061	FLASH RADIO & TV BROADCASTING	residential	1	0	0	
+RW	202061	K 365 Street	residential	1	0	0	
+RW	202061	KG 1 Street	residential	1	0	0	
+RW	202061	KG 10 Avenue	tertiary	1	0	0	
+RW	202061	KG 107 Street	residential	1	0	0	
+RW	202061	KG 109 Street	tertiary	1	0	0	
+RW	202061	KG 11 Street	residential	1	0	0	
+RW	202061	KG 111 Street	residential	1	0	0	
+RW	202061	KG 113 Street	residential	1	0	0	
+RW	202061	KG 115 Street	residential	1	0	0	
+RW	202061	KG 117 Street	residential	1	0	0	
+RW	202061	KG 119 Street	residential	1	0	0	
+RW	202061	KG 12 Avenue	secondary	1	0	0	
+RW	202061	KG 122 Street	residential	1	0	0	
+RW	202061	KG 123 Street	residential	1	0	0	
+RW	202061	KG 124 Street	residential	1	0	0	
+RW	202061	KG 125 Street	residential	1	0	0	
+RW	202061	KG 127 Street	residential	1	0	0	
+RW	202061	KG 129 Street	tertiary	1	0	0	
+RW	202061	KG 13 Street	residential	1	0	0	
+RW	202061	KG 131 Street	residential	1	0	0	
+RW	202061	KG 133 Street	residential	1	0	0	
+RW	202061	KG 143 Street	residential	1	0	0	
+RW	202061	KG 145 Street	residential	1	0	0	
+RW	202061	KG 147 Street	residential	1	0	0	
+RW	202061	KG 149 Street	residential	1	0	0	
+RW	202061	KG 15 Avenue	secondary	1	0	0	
+RW	202061	KG 15 Street	residential	1	0	0	
+RW	202061	KG 151 Street	residential	1	0	0	
+RW	202061	KG 153 Street	tertiary	1	0	0	
+RW	202061	KG 155 Street	residential	1	0	0	
+RW	202061	KG 157 Street	residential	1	0	0	
+RW	202061	KG 159 Street	residential	1	0	0	
+RW	202061	KG 16 Avenue	tertiary	1	0	0	
+RW	202061	KG 161 Street	residential	1	0	0	
+RW	202061	KG 163 Street	residential	1	0	0	
+RW	202061	KG 165 Street	residential	1	0	0	
+RW	202061	KG 167 Street	residential	1	0	0	
+RW	202061	KG 169 Street	unclassified	1	0	0	
+RW	202061	KG 17 Avenue	tertiary	1	0	0	
+RW	202061	KG 17 Street	residential	1	0	0	
+RW	202061	KG 171 Street	residential	1	0	0	
+RW	202061	KG 173 Street	residential	1	0	0	
+RW	202061	KG 175 Street	residential	1	0	0	
+RW	202061	KG 176 Street	residential	1	0	0	
+RW	202061	KG 177 Street	residential	1	0	0	
+RW	202061	KG 178 Street	residential	1	0	0	
+RW	202061	KG 179 Street	residential	1	0	0	
+RW	202061	KG 18 Avenue	unclassified	1	0	0	
+RW	202061	KG 180 Street	tertiary	1	0	0	
+RW	202061	KG 181 Street	residential	1	0	0	
+RW	202061	KG 182 Street	residential	1	0	0	
+RW	202061	KG 183 Street	residential	1	0	0	
+RW	202061	KG 184 Street	residential	1	0	0	
+RW	202061	KG 186 Street	residential	1	0	0	
+RW	202061	KG 188 Street	residential	1	0	0	
+RW	202061	KG 189 Street	residential	1	0	0	
+RW	202061	KG 19 Street	residential	1	0	0	
+RW	202061	KG 190 Street	residential	1	0	0	
+RW	202061	KG 192 Street	residential	1	0	0	
+RW	202061	KG 193 Street	residential	1	0	0	
+RW	202061	KG 195 Street	residential	1	0	0	
+RW	202061	KG 196 Street	residential	1	0	0	
+RW	202061	KG 198 Street	residential	1	0	0	
+RW	202061	KG 199 Street	residential	1	0	0	
+RW	202061	KG 2 Avenue	secondary	1	0	0	
+RW	202061	KG 2 Street	tertiary	1	0	0	
+RW	202061	KG 200 Street	residential	1	0	0	
+RW	202061	KG 202 Street	residential	1	0	0	
+RW	202061	KG 203 Street	residential	1	0	0	
+RW	202061	KG 204 Street	residential	1	0	0	
+RW	202061	KG 205 Street	residential	1	0	0	
+RW	202061	KG 206 Street	residential	1	0	0	
+RW	202061	KG 207 Street	residential	1	0	0	
+RW	202061	KG 208 Street	tertiary	1	0	0	
+RW	202061	KG 209 Street	residential	1	0	0	
+RW	202061	KG 21 Avenue	residential	1	0	0	
+RW	202061	KG 21 Street	residential	1	0	0	
+RW	202061	KG 210 Street	residential	1	0	0	
+RW	202061	KG 211 Street	residential	1	0	0	
+RW	202061	KG 214 Street	residential	1	0	0	
+RW	202061	KG 215 Street	residential	1	0	0	
+RW	202061	KG 216 Street	residential	1	0	0	
+RW	202061	KG 217 Street	residential	1	0	0	
+RW	202061	KG 218 Street	residential	1	0	0	
+RW	202061	KG 219 Street	residential	1	0	0	
+RW	202061	KG 22 Avenue	tertiary	1	0	0	
+RW	202061	KG 220 Street	residential	1	0	0	
+RW	202061	KG 221 Street	residential	1	0	0	
+RW	202061	KG 222 Street	residential	1	0	0	
+RW	202061	KG 223 Street	residential	1	0	0	
+RW	202061	KG 224 Street	residential	1	0	0	
+RW	202061	KG 225 Street	residential	1	0	0	
+RW	202061	KG 226 Street	residential	1	0	0	
+RW	202061	KG 227 Street	residential	1	0	0	
+RW	202061	KG 229 Street	residential	1	0	0	
+RW	202061	KG 230 Street	residential	1	0	0	
+RW	202061	KG 231 Street	residential	1	0	0	
+RW	202061	KG 232 Street	residential	1	0	0	
+RW	202061	KG 233 Street	residential	1	0	0	
+RW	202061	KG 234 Street	residential	1	0	0	
+RW	202061	KG 235 Street	residential	1	0	0	
+RW	202061	KG 236 Street	residential	1	0	0	
+RW	202061	KG 238 Street	residential	1	0	0	
+RW	202061	KG 239 Street	residential	1	0	0	
+RW	202061	KG 24 Avenue	secondary	1	0	0	
+RW	202061	KG 240 Street	residential	1	0	0	
+RW	202061	KG 241 Street	residential	1	0	0	
+RW	202061	KG 242 Street	residential	1	0	0	
+RW	202061	KG 243 Street	residential	1	0	0	
+RW	202061	KG 244 Street	residential	1	0	0	
+RW	202061	KG 245 Street	residential	1	0	0	
+RW	202061	KG 246 Street	residential	1	0	0	
+RW	202061	KG 247 Street	residential	1	0	0	
+RW	202061	KG 249 Street	residential	1	0	0	
+RW	202061	KG 254 Street	residential	1	0	0	
+RW	202061	KG 255 Street	residential	1	0	0	
+RW	202061	KG 256 Street	residential	1	0	0	
+RW	202061	KG 257 Street	residential	1	0	0	
+RW	202061	KG 259 Street	residential	1	0	0	
+RW	202061	KG 261 Street	residential	1	0	0	
+RW	202061	KG 263 Street	residential	1	0	0	
+RW	202061	KG 265 Street	residential	1	0	0	
+RW	202061	KG 267 Street	tertiary	1	0	0	
+RW	202061	KG 268 Street	residential	1	0	0	
+RW	202061	KG 269 Street	residential	1	0	0	
+RW	202061	KG 270 Street	residential	1	0	0	
+RW	202061	KG 271 Street	residential	1	0	0	
+RW	202061	KG 274 Street	residential	1	0	0	
+RW	202061	KG 275 Street	residential	1	0	0	
+RW	202061	KG 277 Street	residential	1	0	0	
+RW	202061	KG 278 Street	residential	1	0	0	
+RW	202061	KG 279 Street	residential	1	0	0	
+RW	202061	KG 28 Avenue	residential	1	0	0	
+RW	202061	KG 280 Street	residential	1	0	0	
+RW	202061	KG 281 Street	residential	1	0	0	
+RW	202061	KG 287 Street	residential	1	0	0	
+RW	202061	KG 289 Street	residential	1	0	0	
+RW	202061	KG 29 Avenue	unclassified	1	0	0	
+RW	202061	KG 292 Street	residential	1	0	0	
+RW	202061	KG 293 Street	residential	1	0	0	
+RW	202061	KG 294 Street	residential	1	0	0	
+RW	202061	KG 295 Street	residential	1	0	0	
+RW	202061	KG 296 Street	residential	1	0	0	
+RW	202061	KG 297 Street	residential	1	0	0	
+RW	202061	KG 298 Street	residential	1	0	0	
+RW	202061	KG 299 Street	residential	1	0	0	
+RW	202061	KG 300 Street	residential	1	0	0	
+RW	202061	KG 301 Street	residential	1	0	0	
+RW	202061	KG 302 Street	residential	1	0	0	
+RW	202061	KG 303 Street	tertiary	1	0	0	
+RW	202061	KG 304 Street	residential	1	0	0	
+RW	202061	KG 305 Street	residential	1	0	0	
+RW	202061	KG 306 Street	residential	1	0	0	
+RW	202061	KG 307 Street	residential	1	0	0	
+RW	202061	KG 308 Street	residential	1	0	0	
+RW	202061	KG 31 Avenue	unclassified	1	0	0	
+RW	202061	KG 310 Street	residential	1	0	0	
+RW	202061	KG 311 Street	residential	1	0	0	
+RW	202061	KG 313 Street	residential	1	0	0	
+RW	202061	KG 315 Street	residential	1	0	0	
+RW	202061	KG 316 Street	residential	1	0	0	
+RW	202061	KG 317 Street	residential	1	0	0	
+RW	202061	KG 318 Street	residential	1	0	0	
+RW	202061	KG 319 Street	residential	1	0	0	
+RW	202061	KG 320 Street	residential	1	0	0	
+RW	202061	KG 321 Street	residential	1	0	0	
+RW	202061	KG 322 Street	residential	1	0	0	
+RW	202061	KG 323 Street	residential	1	0	0	
+RW	202061	KG 324 Street	residential	1	0	0	
+RW	202061	KG 325 Street	residential	1	0	0	
+RW	202061	KG 326 Street	residential	1	0	0	
+RW	202061	KG 327 Street	residential	1	0	0	
+RW	202061	KG 328 Street	residential	1	0	0	
+RW	202061	KG 329 Street	residential	1	0	0	
+RW	202061	KG 33 Avenue	secondary	1	0	0	
+RW	202061	KG 331 Street	residential	1	0	0	
+RW	202061	KG 333 Street	residential	1	0	0	
+RW	202061	KG 335 Street	residential	1	0	0	
+RW	202061	KG 338 Street	residential	1	0	0	
+RW	202061	KG 34 Street	residential	1	0	0	
+RW	202061	KG 341 Street	residential	1	0	0	
+RW	202061	KG 342 Street	residential	1	0	0	
+RW	202061	KG 346 Street	residential	1	0	0	
+RW	202061	KG 347 Street	residential	1	0	0	
+RW	202061	KG 348 Street	residential	1	0	0	
+RW	202061	KG 349 Street	residential	1	0	0	
+RW	202061	KG 35 Street	residential	1	0	0	
+RW	202061	KG 350 Street	residential	1	0	0	
+RW	202061	KG 351 Street	residential	1	0	0	
+RW	202061	KG 352 Street	residential	1	0	0	
+RW	202061	KG 353 Street	residential	1	0	0	
+RW	202061	KG 354 Street	residential	1	0	0	
+RW	202061	KG 354B Street	residential	1	0	0	
+RW	202061	KG 355 Street	residential	1	0	0	
+RW	202061	KG 356 Street	residential	1	0	0	
+RW	202061	KG 357 Street	residential	1	0	0	
+RW	202061	KG 358 Street	residential	1	0	0	
+RW	202061	KG 360 Street	residential	1	0	0	
+RW	202061	KG 361 Street	residential	1	0	0	
+RW	202061	KG 362 Street	residential	1	0	0	
+RW	202061	KG 364 Street	residential	1	0	0	
+RW	202061	KG 365 Street	residential	1	0	0	
+RW	202061	KG 366 Street	residential	1	0	0	
+RW	202061	KG 367 Street	residential	1	0	0	
+RW	202061	KG 368 Street	residential	1	0	0	
+RW	202061	KG 369 Street	residential	1	0	0	
+RW	202061	KG 370 Street	residential	1	0	0	
+RW	202061	KG 371 Street	residential	1	0	0	
+RW	202061	KG 372 Street	residential	1	0	0	
+RW	202061	KG 373 Street	secondary	1	0	0	
+RW	202061	KG 374 Street	residential	1	0	0	
+RW	202061	KG 375 Street	residential	1	0	0	
+RW	202061	KG 376 Street	residential	1	0	0	
+RW	202061	KG 378 Street	residential	1	0	0	
+RW	202061	KG 379 Street	residential	1	0	0	
+RW	202061	KG 38 Street	residential	1	0	0	
+RW	202061	KG 381 Street	residential	1	0	0	
+RW	202061	KG 382 Street	residential	1	0	0	
+RW	202061	KG 384 Street	unclassified	1	0	0	
+RW	202061	KG 388 Street	residential	1	0	0	
+RW	202061	KG 389 Street	residential	1	0	0	
+RW	202061	KG 390 Street	residential	1	0	0	
+RW	202061	KG 391 Street	residential	1	0	0	
+RW	202061	KG 392 Street	residential	1	0	0	
+RW	202061	KG 395 Street	residential	1	0	0	
+RW	202061	KG 396 Street	residential	1	0	0	
+RW	202061	KG 397 Street	residential	1	0	0	
+RW	202061	KG 399 Street	residential	1	0	0	
+RW	202061	KG 4 Street	residential	1	0	0	
+RW	202061	KG 40 Street	residential	1	0	0	
+RW	202061	KG 400 Street	residential	1	0	0	
+RW	202061	KG 401 Street	residential	1	0	0	
+RW	202061	KG 402 Street	residential	1	0	0	
+RW	202061	KG 403 Street	secondary	1	0	0	
+RW	202061	KG 404 Street	residential	1	0	0	
+RW	202061	KG 406 Street	residential	1	0	0	
+RW	202061	KG 408 Street	residential	1	0	0	
+RW	202061	KG 410 Street	residential	1	0	0	
+RW	202061	KG 412 Street	residential	1	0	0	
+RW	202061	KG 413 Street	residential	1	0	0	
+RW	202061	KG 415 Street	residential	1	0	0	
+RW	202061	KG 416 Street	residential	1	0	0	
+RW	202061	KG 417 Street	residential	1	0	0	
+RW	202061	KG 418 Street	residential	1	0	0	
+RW	202061	KG 42 Street	residential	1	0	0	
+RW	202061	KG 420 Street	residential	1	0	0	
+RW	202061	KG 421 Street	residential	1	0	0	
+RW	202061	KG 422 Street	residential	1	0	0	
+RW	202061	KG 423 Street	residential	1	0	0	
+RW	202061	KG 426 Street	residential	1	0	0	
+RW	202061	KG 428 Street	residential	1	0	0	
+RW	202061	KG 429 STREET	residential	1	0	0	
+RW	202061	KG 431 Street	residential	1	0	0	
+RW	202061	KG 433 Street	residential	1	0	0	
+RW	202061	KG 435 Street	residential	1	0	0	
+RW	202061	KG 436 Street	residential	1	0	0	
+RW	202061	KG 437 Street	secondary	1	0	0	
+RW	202061	KG 438 Street	unclassified	1	0	0	
+RW	202061	KG 44 Street	residential	1	0	0	
+RW	202061	KG 440 Street	residential	1	0	0	
+RW	202061	KG 441 Street	residential	1	0	0	
+RW	202061	KG 447 Street	residential	1	0	0	
+RW	202061	KG 449 Street	residential	1	0	0	
+RW	202061	KG 450 Street	residential	1	0	0	
+RW	202061	KG 451 Street	residential	1	0	0	
+RW	202061	KG 452 Street	residential	1	0	0	
+RW	202061	KG 453 Street	residential	1	0	0	
+RW	202061	KG 455 Street	residential	1	0	0	
+RW	202061	KG 456 Street	residential	1	0	0	
+RW	202061	KG 457 Street	residential	1	0	0	
+RW	202061	KG 458 Street	residential	1	0	0	
+RW	202061	KG 459 Street	residential	1	0	0	
+RW	202061	KG 46 Street	residential	1	0	0	
+RW	202061	KG 460 Street	residential	1	0	0	
+RW	202061	KG 462 Street	residential	1	0	0	
+RW	202061	KG 463 Street	residential	1	0	0	
+RW	202061	KG 465 Street	residential	1	0	0	
+RW	202061	KG 466 Street	residential	1	0	0	
+RW	202065	Congo-Nile Biking Trail	secondary	1	0	0	
+RW	202217	Log street, 3G		2	65	65	
+RW	202217	Kivumu Road	unclassified	1	0	0	
+RW	202300	Buyanja secondary road	residential	1	0	0	
+RW	202300	Buyanja tertiary road	residential	1	0	0	
+RW	202300	Centre de Sante Street	residential	1	0	0	
+RW	202300	Mitungo Street	residential	1	0	0	
+RW	202300	Mitungo street 3	residential	1	0	0	
+RW	202300	Nyamirambo Road	unclassified	1	0	0	
+RW	202300	Police Station Street	residential	1	0	0	
+RW	202300	rwinkuba secondary road	residential	1	0	0	
+RW	202300	same where in rwinkuba road	residential	1	0	0	
+RW	202300	the way that pass in primary school	residential	1	0	0	
+RW	202326	Avenue Patrice Emery Lumumba	primary	1	0	0	
+RW	202326	Avenue de La Montagne	residential	1	0	0	
+RW	202326	Avenue du Kahuzi	residential	1	0	0	
+RW	202326	Congo-Nile Biking Trail	secondary	1	0	0	
+RW	202326	Pont Ruzizi I	unclassified	1	0	0	
+RW	202326	Ruzizi International Bridge	primary	1	0	0	
+RW	202345	Kijigiti	unclassified	1	0	0	
+RW	202557	way	residential	1	0	0	
+RW	202572	KK 282 Street	residential	10	1	13	
+RW	202572	KK 36 Street	residential	10	5	18	
+RW	202572	KK 129 Street	residential	6	17	23	
+RW	202572	KK 127 Street	residential	3	33	33	
+RW	202572	KN 5 Road	secondary	3	0	0	
+RW	202572	KK 250 Street	residential	2	8	8	
+RW	202572	KK 254 St		2	0	0	
+RW	202572	Amahoro Street	residential	1	0	0	
+RW	202572	KG 10 Street	residential	1	0	0	
+RW	202572	KG 100 Street	residential	1	0	0	
+RW	202572	KG 101 Street	residential	1	0	0	
+RW	202572	KG 103 Street	residential	1	0	0	
+RW	202572	KG 106 Street	residential	1	0	0	
+RW	202572	KG 108 Street	residential	1	0	0	
+RW	202572	KG 11 Avenue	secondary	1	0	0	
+RW	202572	KG 110 Street	residential	1	0	0	
+RW	202572	KG 112 Street	residential	1	0	0	
+RW	202572	KG 114 Street	residential	1	0	0	
+RW	202572	KG 116 Street	residential	1	0	0	
+RW	202572	KG 118 Street	residential	1	0	0	
+RW	202572	KG 120 Street	residential	1	0	0	
+RW	202572	KG 126 Street	residential	1	0	0	
+RW	202572	KG 1277 St	residential	1	0	0	
+RW	202572	KG 128 Street	residential	1	0	0	
+RW	202572	KG 130 Street	residential	1	0	0	
+RW	202572	KG 132 Street	residential	1	0	0	
+RW	202572	KG 133 Street	residential	1	0	0	
+RW	202572	KG 134 Street	residential	1	0	0	
+RW	202572	KG 135 Street	residential	1	0	0	
+RW	202572	KG 137 Street	residential	1	0	0	
+RW	202572	KG 138 Street	residential	1	0	0	
+RW	202572	KG 139 Street	residential	1	0	0	
+RW	202572	KG 14 Street	tertiary	1	0	0	
+RW	202572	KG 141 Street	residential	1	0	0	
+RW	202572	KG 142 Street	residential	1	0	0	
+RW	202572	KG 144 Street	residential	1	0	0	
+RW	202572	KG 146 Street	residential	1	0	0	
+RW	202572	KG 148 Street	residential	1	0	0	
+RW	202572	KG 150 Street	residential	1	0	0	
+RW	202572	KG 152 Street	residential	1	0	0	
+RW	202572	KG 154 Street	residential	1	0	0	
+RW	202572	KG 156 Street	residential	1	0	0	
+RW	202572	KG 158 Street	residential	1	0	0	
+RW	202572	KG 160 Street	residential	1	0	0	
+RW	202572	KG 162 Street	residential	1	0	0	
+RW	202572	KG 168 Street	residential	1	0	0	
+RW	202572	KG 170 Street	residential	1	0	0	
+RW	202572	KG 172 Street	residential	1	0	0	
+RW	202905	Avenue Accasias	residential	1	0	0	
+RW	202905	Avenue Bougainvilliers	residential	1	0	0	
+RW	202905	Avenue Orchidée	residential	1	0	0	
+RW	202905	Avenue de l'Umuganda	tertiary	1	0	0	
+RW	202905	Avenue de la Cooperation	residential	1	0	0	
+RW	202905	Avenue de la Corniche	primary	1	0	0	
+RW	202905	Avenue de la Production	residential	1	0	0	
+RW	202905	Avenue de la Révolution	residential	1	0	0	
+RW	202905	Avenue des Grevilleas	residential	1	0	0	
+RW	202905	Avenue des Orchidées	residential	1	0	0	
+RW	202905	Avenue du Marché	tertiary	1	0	0	
+RW	202905	Congo-Nile Trail	secondary	1	0	0	
+RW	202905	Rue de l'Hôpital	tertiary	1	0	0	
+RW	202905	Rue de l'Industrie	residential	1	0	0	
+RW	203112	No name		11	0	0	
+RW	203112	Indatwa Street		9	0	44	
+RW	203112	Ubwuzuzanye		9	70	123	
+RW	203112	Intore		7	75	93	
+RW	203112	Street07		5	0	0	
+RW	203112	Street06		4	0	0	
+RW	203112	Ubudehe Street		4	64	67	
+RW	203112	ubuntu street		4	16	24	
+RW	203112	Buye Av		3	0	108	
+RW	203112	Girinka		3	72	73	
+RW	203112	Indatwa street		3	0	40	
+RW	203112	Street03		3	0	0	
+RW	203112	Street05		3	0	0	
+RW	203112	Ubwigenge Street		3	46	48	
+RW	203112	Street04		2	0	0	
+RW	203112	Street08		2	0	0	
+RW	203112	Ubuntu Street		2	27	28	
+RW	203112	Buye Avenue	residential	1	0	0	
+RW	203112	Buye avenue	residential	1	0	0	
+RW	203112	Indatua Street	residential	1	0	0	
+RW	203112	road to rwasave	unclassified	1	0	0	
+RW	384535	Trail road	unclassified	1	0	0	
+RW	7656357	Nyamata - Rilima Road	secondary	1	0	0	
+RW	12718709	KN 2 Avenue	secondary	1	0	0	

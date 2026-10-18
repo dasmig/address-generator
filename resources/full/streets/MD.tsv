@@ -1,0 +1,2680 @@
+country_code	geonameid	name	class	weight	min_number	max_number	name_latin
+MD	617053	улица Негруцци	residential	40	11	54	Negruzzi Street
+MD	617053	Советская улица	residential	17	1	21	Sovetskaya Street
+MD	617053	улица Ленина	residential	14	1	15	Lenina Street
+MD	617053	Строительный переулок	residential	7	1	7	Stroitelnyy Lane
+MD	617053	Совхозная улица	residential	6	71	81	Sovkhoznaya Street
+MD	617053	Молодёжный переулок	residential	3	5	9	Molodyozhnyy Lane
+MD	617053	переулок Новаторов		3	1	2	
+MD	617053	переулок Володи Дубинина		2	2	4	
+MD	617076	Strada Independenței	secondary	367	3	220	
+MD	617076	Strada Valentin Roșca	tertiary	290	10	195	
+MD	617076	Strada Alexandru cel Bun	residential	221	4	172	
+MD	617076	Strada Hotinului	residential	221	8	224	
+MD	617076	Strada Trifan Baltă	secondary	208	5	155	
+MD	617076	Strada Mihai Eminescu	residential	154	3	76	
+MD	617076	Strada Serghei Lazo	tertiary	146	8	134	
+MD	617076	Strada Octavian Cirimpei	residential	145	6	127	
+MD	617076	Strada Sfîntul Vasile	tertiary	142	8	154	
+MD	617076	Strada Șoseaua Bucovina	secondary	132	2	80	
+MD	617076	Strada Decebal	residential	124	2	57	
+MD	617076	Strada Vasile Stroescu	residential	116	6	120	
+MD	617076	Strada Florar	tertiary	109	5	105	
+MD	617076	Strada Petru Rareș	residential	108	6	110	
+MD	617076	Strada Ștefan cel Mare și Sfînt	residential	106	23	139	
+MD	617076	Strada Ion Creangă	residential	105	3	121	
+MD	617076	Strada Mihail Frunze	residential	95	5	94	
+MD	617076	Strada Vladimir Maikovski		95	6	118	
+MD	617076	Strada Boris Glavan	residential	94	5	89	
+MD	617076	Strada Vasile Alecsandri	residential	89	2	60	
+MD	617076	Strada Doina	residential	87	2	54	
+MD	617076	Strada Iuri Gagarin	secondary	87	6	68	
+MD	617076	Strada Dacia	residential	86	2	49	
+MD	617076	Strada 31 August 1989	tertiary	76	2	57	
+MD	617076	Strada Igor Vieru	residential	76	3	61	
+MD	617076	Strada Maxim Gorki		73	3	82	
+MD	617076	Strada Miron Costin	residential	72	2	52	
+MD	617076	Strada Staroobreadceskaia	residential	72	4	74	
+MD	617076	Strada Pescarilor	residential	62	2	55	
+MD	617076	Bulevardul Unirii	residential	58	3	58	
+MD	617076	Strada Gheorghe Asachi	residential	58	2	40	
+MD	617076	Strada Vladimir Komarov	residential	58	5	99	
+MD	617076	Strada 8 Martie	residential	57	2	38	
+MD	617076	Strada Alexei Mateevici	residential	54	2	30	
+MD	617076	Strada Latiniei	residential	52	2	42	
+MD	617076	Strada Casa Mare	residential	51	2	45	
+MD	617076	Strada Tineretului	residential	51	1	38	
+MD	617076	Strada Basarabia	residential	50	3	49	
+MD	617076	Strada Toma Ciorbă	residential	50	5	62	
+MD	617076	Strada Livezilor	tertiary	49	2	42	
+MD	617076	Strada Alexandr Pușkin	residential	48	3	40	
+MD	617076	Strada Pădurilor	residential	48	3	51	
+MD	617076	Strada Dimitrie Cantemir	residential	46	1	33	
+MD	617076	Strada Alexandru Cristea	residential	45	3	42	
+MD	617076	Strada Constantin Stere	residential	44	3	50	
+MD	617076	Bulevardul Ștefan cel Mare și Sfânt	tertiary	42	5	54	
+MD	617076	Strada Ilia Repin	residential	42	3	36	
+MD	617076	Strada Maria Cebotari	residential	42	2	47	
+MD	617081	Strada Viilor	residential	279	9	161	
+MD	617081	Strada Ștefan cel Mare și Sfânt	residential	244	7	129	
+MD	617081	Strada 31 August 1989	secondary	224	9	264	
+MD	617081	Strada Miorița	residential	167	3	101	
+MD	617081	Strada Ștefan-Vodă	secondary	156	9	190	
+MD	617081	Strada Tineretului	residential	154	2	65	
+MD	617081	Strada Sfîntul Dumitru		128	7	121	
+MD	617081	Strada Ștefan cel Mare și Sfînt	primary	124	8	106	
+MD	617081	Strada Mihai Eminescu	residential	123	4	112	
+MD	617081	Strada Dimitrie Cantemir	residential	100	2	87	
+MD	617081	Strada Doina	residential	93	4	71	
+MD	617081	Strada Constantin Negruzzi	residential	90	5	93	
+MD	617081	Strada Uliana Gromov	residential	80	5	78	
+MD	617081	Strada Meșterul Manole	residential	78	20	125	
+MD	617081	Strada Vasile Popa	residential	77	4	79	
+MD	617081	Strada Independenței	residential	63	2	37	
+MD	617081	Strada Bulgară	residential	62	7	61	
+MD	617081	Strada Păcii	residential	59	1	35	
+MD	617081	Strada Cosmonauților	residential	52	5	53	
+MD	617081	Strada Iuri Gagarin	residential	52	6	49	
+MD	617081	Strada Alexei Mateevici	residential	49	4	54	
+MD	617081	Strada Lacurilor	residential	48	2	40	
+MD	617081	Strada Trandafirilor	residential	46	2	32	
+MD	617081	Strada Litoralului	residential	42	3	57	
+MD	617096	Strada Sovetscoi Armii		261	13	234	
+MD	617096	Strada Tolstogo		161	9	170	
+MD	617096	Strada Frunze		159	6	158	
+MD	617096	Strada Lenina		159	9	133	
+MD	617096	Strada Glavana		151	10	148	
+MD	617096	Strada 28 Iunea		113	6	106	
+MD	617096	Strada Ananieva		94	3	85	
+MD	617096	Strada Jucovskogo		84	4	83	
+MD	617096	Strada Independenței	residential	77	4	80	
+MD	617096	Strada 25 Let Moldavii		76	4	72	
+MD	617096	Strada Sverdlova		69	4	77	
+MD	617096	Strada Popova		66	4	61	
+MD	617096	Strada Serghei Lazo	residential	65	4	65	
+MD	617096	Strada Gagarina		61	6	68	
+MD	617096	Strada Caguliscaia		60	2	62	
+MD	617096	Strada Iacira		60	4	62	
+MD	617096	Strada Plotnicova		59	3	65	
+MD	617096	Strada Tanchistov		59	3	68	
+MD	617096	Strada Calinina		58	3	67	
+MD	617096	Strada Goricogo		58	2	63	
+MD	617096	Strada Comsomoliscaia		56	2	61	
+MD	617096	Strada Kirova		56	3	60	
+MD	617096	Strada Cotovscogo		55	3	63	
+MD	617096	Strada Gherțena		54	2	55	
+MD	617118	Strada Teilor	residential	315	6	126	
+MD	617118	Strada Păcii	residential	295	4	90	
+MD	617118	Strada Dimitrie Cantemir	residential	198	3	80	
+MD	617118	Strada Sevastian Vișnevski	residential	182	4	92	
+MD	617118	Strada Tineretului	residential	157	2	62	
+MD	617118	Strada Ștefan cel Mare și Sfînt	residential	130	3	105	
+MD	617118	Strada Trandafirilor	residential	123	2	70	
+MD	617118	Strada Pădurilor		108	7	119	
+MD	617118	Strada 31 August 1989	residential	93	2	53	
+MD	617118	Strada Viilor	residential	90	3	86	
+MD	617118	Strada Mihai Eminescu	residential	87	2	38	
+MD	617118	Strada Ion Creangă	residential	82	2	78	
+MD	617149	Strada Tighina	living_street	189	3	111	
+MD	617149	Strada Ștefan cel Mare și Sfânt		156	4	117	
+MD	617149	Strada Nistreană	residential	114	6	130	
+MD	617149	Strada Ștefan cel Mare și Sfînt	tertiary	99	5	113	
+MD	617149	Strada 31 August 1989	residential	75	1	38	
+MD	617149	Strada Ion Creangă	residential	73	2	35	
+MD	617149	Strada Alexei Mateevici	residential	71	1	33	
+MD	617149	Strada Tineretului	residential	65	2	25	
+MD	617149	Strada Izvoarelor	residential	63	2	40	
+MD	617149	Strada Alexandru cel Bun	residential	62	4	74	
+MD	617149	Strada Iuri Gagarin		57	3	52	
+MD	617149	Strada Vasile Alecsandri	residential	57	1	31	
+MD	617164	Strada Mihai Eminescu	residential	345	5	122	
+MD	617164	Strada Ștefan cel Mare și Sfânt	tertiary	339	4	148	
+MD	617164	Strada Ștefan cel Mare și Sfînt	tertiary	332	6	108	
+MD	617164	Strada Dimitrie Cantemir	living_street	238	3	137	
+MD	617164	Strada Plopilor	living_street	237	4	32	
+MD	617164	Strada Unirii	living_street	230	4	145	
+MD	617164	Strada Păcii	living_street	225	5	196	
+MD	617164	Strada Stejarilor	residential	209	2	40	
+MD	617164	Strada Tineretului	living_street	208	2	52	
+MD	617164	Strada Florilor	living_street	206	2	54	
+MD	617164	Strada Teilor	living_street	205	2	28	
+MD	617164	Strada Nistreană	living_street	200	2	100	
+MD	617164	Strada Ion Creangă	living_street	192	2	58	
+MD	617164	Strada Chișinău	tertiary	180	4	153	
+MD	617164	Strada Vasile Alecsandri	living_street	177	2	50	
+MD	617164	Strada Boris Vitiuc	tertiary	146	7	135	
+MD	617164	Strada 31 August 1989	residential	132	3	63	
+MD	617164	Strada Grigore Vieru	living_street	126	2	44	
+MD	617164	Strada Serghei Lazo	living_street	125	3	64	
+MD	617164	Strada Voluntarilor	living_street	122	4	70	
+MD	617164	Strada Ivan Șicunov	living_street	118	75	207	
+MD	617164	Strada Școlii	living_street	118	2	41	
+MD	617164	Strada Mihail Sadoveanu	living_street	102	2	44	
+MD	617164	Strada Maria Culchina	living_street	100	37	159	
+MD	617170	Strada Păcii	residential	143	8	139	
+MD	617170	Strada Florilor	residential	112	6	117	
+MD	617170	Strada Ștefan cel Mare și Sfînt	residential	95	5	71	
+MD	617170	Strada Basarabia	residential	85	5	84	
+MD	617170	Strada Ion Creangă	residential	83	2	97	
+MD	617170	Strada Iuri Gagarin		79	4	83	
+MD	617170	Strada Simion Ciorbă	living_street	71	4	84	
+MD	617170	Strada Răut	residential	65	4	82	
+MD	617170	Strada Mihai Eminescu	residential	56	1	29	
+MD	617170	Strada Emil Loteanu	residential	55	3	57	
+MD	617170	Strada Alexandru Lăpușneanu	residential	52	3	49	
+MD	617170	Strada Nistru	residential	42	3	40	
+MD	617180	Strada Națională	primary	528	4	72	
+MD	617180	Strada Decebal	residential	382	10	270	
+MD	617180	Strada Mihai Eminescu	living_street	358	2	67	
+MD	617180	Strada Ștefan cel Mare și Sfânt	secondary	333	4	179	
+MD	617180	Strada Ștefan cel Mare și Sfînt		321	11	279	
+MD	617180	Strada Mihai Viteazul	residential	312	4	154	
+MD	617180	Strada Ion Creangă	living_street	309	2	53	
+MD	617180	Strada Romană	secondary	212	10	112	
+MD	617180	Strada Mihai Viteazu		182	11	156	
+MD	617180	Strada Alexandru cel Bun	residential	181	3	93	
+MD	617180	Strada Tudor Arghezi	residential	175	9	149	
+MD	617180	Strada Alexandru Plămădeală	tertiary	166	9	94	
+MD	617180	Strada Mihail Sadoveanu	residential	147	4	71	
+MD	617180	Strada Maria Cebotari	residential	129	44	107	
+MD	617180	Strada Barbu Lăutaru	residential	124	3	83	
+MD	617180	Strada Vasile Alecsandri	residential	124	2	56	
+MD	617180	Strada Florilor	living_street	114	2	29	
+MD	617180	Strada Dimitrie Cantemir	living_street	107	2	42	
+MD	617180	Strada Burebista	residential	105	1	47	
+MD	617180	Strada Ghenadie Crestiuc	residential	105	1	18	
+MD	617180	Strada Zamfir Arbore	residential	100	4	76	
+MD	617180	Strada Viilor	living_street	98	2	39	
+MD	617180	Strada 31 August 1989	living_street	94	2	86	
+MD	617180	Strada Industrială	tertiary	94	1	18	
+MD	617180	Strada Fîntînilor	living_street	89	4	69	
+MD	617180	Strada Miorița	living_street	88	1	94	
+MD	617180	Strada Petru Rareș	secondary	88	4	97	
+MD	617180	Strada Dănuțeni	residential	87	6	82	
+MD	617180	Strada Fоntоnilor		84	5	69	
+MD	617180	Strada Aurel David	residential	81	5	67	
+MD	617180	Strada Livezilor	living_street	80	2	42	
+MD	617180	Strada Feroviară	residential	77	3	55	
+MD	617180	Strada Luceafărul	residential	77	1	74	
+MD	617180	Strada Ion Luca Caragiale	residential	75	1	55	
+MD	617180	Strada Oleg Ungureanu	residential	74	1	15	
+MD	617180	Strada Sfântul Gheorghe	living_street	71	2	89	
+MD	617180	Strada Alexandru Bernardazzi	residential	69	3	19	
+MD	617180	Strada Mitropolit Varlaam	residential	66	3	64	
+MD	617180	Strada Tineretului	living_street	66	1	40	
+MD	617180	Strada Emil Loteanu	living_street	65	5	70	
+MD	617180	Strada Ion Neculce	residential	64	4	67	
+MD	617180	Strada Mihai Maleru	living_street	62	4	75	
+MD	617180	Strada Alexei Mateevici	residential	60	2	50	
+MD	617180	Strada Haiducilor	residential	60	3	57	
+MD	617180	Strada Gheorghe Asachi	residential	59	1	44	
+MD	617180	Strada Gărdești	residential	59	1	56	
+MD	617180	Strada Lacului	residential	58	1	60	
+MD	617180	Strada Unghiului	residential	58	1	47	
+MD	617183	Strada Mihai Eminescu	residential	147	8	142	
+MD	617183	Strada Ștefan cel Mare și Sfînt	residential	119	6	119	
+MD	617183	Strada Sfînta Maria	tertiary	115	6	131	
+MD	617183	Strada Păcii	residential	108	6	105	
+MD	617183	Strada Independenței	residential	79	4	77	
+MD	617183	Strada Alexei Mateevici	residential	77	4	79	
+MD	617183	Strada Tineretului	residential	70	4	70	
+MD	617183	Strada Drujbî	residential	29	3	91	
+MD	617183	Strada Ion Creangă	residential	13	1	16	
+MD	617183	Strada Pogranicinaia	living_street	11	2	70	
+MD	617183	Drumul de acces spre satul Zviozdocica	tertiary	1	0	0	
+MD	617183	R26-Ucrainca-frontiera cu Ucraina	secondary	1	0	0	
+MD	617187	Strada Vasili Ceapaev	residential	497	9	498	
+MD	617187	Strada Serghei Lazo	residential	383	5	228	
+MD	617187	Strada Vladimir Lenin	residential	373	7	238	
+MD	617187	Strada Mira	residential	162	3	156	
+MD	617187	Strada Gheorghi Dimitrov		151	7	140	
+MD	617187	Strada Mihail Frunze	residential	141	7	145	
+MD	617187	Strada Grigori Kotovski	residential	126	4	74	
+MD	617187	Strada Sadovaia	residential	95	2	50	
+MD	617187	Strada Gagarin	residential	88	5	84	
+MD	617187	Strada Karl Marx	residential	73	1	45	
+MD	617187	Strada Ivan Miciurin	residential	72	2	55	
+MD	617187	Strada Lenin	residential	69	1	72	
+MD	617187	Strada Partizanskaia	residential	69	4	88	
+MD	617187	Strada Sovetscaia	residential	66	4	89	
+MD	617187	Strada 28 Iunie 1940	residential	59	3	80	
+MD	617187	Strada Kotovski	residential	59	4	68	
+MD	617187	Strada Goriki	residential	57	4	60	
+MD	617187	Strada Okteabrskaia		55	3	73	
+MD	617187	Strada Pușkin	residential	53	3	50	
+MD	617187	Strada Maxim Gorki	residential	45	3	46	
+MD	617187	Strada Iuri Gagarin	residential	41	3	37	
+MD	617187	Strada Alexandr Suvorov	residential	39	3	44	
+MD	617187	Strada Nikolai Vatutin	residential	39	2	46	
+MD	617187	Strada Comsomoliscaia	residential	34	3	39	
+MD	617239	улица Карла Либкнехта	primary	357	9	377	Karla Libknekhta Street
+MD	617239	улица Ленина	residential	215	1	94	Lenina Street
+MD	617239	Советская улица	residential	171	12	114	Sovetskaya Street
+MD	617239	улица Энергетиков	residential	166	4	159	Energetikov Street
+MD	617239	улица Юности	residential	152	2	62	Yunosti Street
+MD	617239	улица 9 Января	tertiary	148	11	188	
+MD	617239	улица Кутузова	residential	146	1	187	Kutuzova Street
+MD	617239	улица Дружбы	residential	139	4	120	Druzhby Street
+MD	617239	улица 28 Июня	residential	122	7	122	28 Iyuniya Street
+MD	617239	улица Старого	residential	121	12	121	Starogo Street
+MD	617239	улица Мира	primary	120	2	85	Mira Street
+MD	617239	Одесская улица	primary	117	7	143	Odesskaya Street
+MD	617239	улица Шевченко	secondary	115	9	117	Shevchenko Street
+MD	617239	улица Маяковского	residential	113	10	109	Mayakovskogo Street
+MD	617239	улица Чапаева	tertiary	110	9	146	Chapayeva Street
+MD	617239	улица Петровского	residential	109	6	104	Petrovskogo Street
+MD	617239	улица Гоголя	residential	108	2	98	Gogolya Street
+MD	617239	улица Горького	residential	107	12	142	Gorkogo Street
+MD	617239	улица 95-й Молдавской Дивизии	residential	106	6	149	
+MD	617239	улица Гагарина	primary	105	8	270	Gagarina Street
+MD	617239	улица Дзержинского	residential	105	10	100	Dzerzhinskogo Street
+MD	617239	Краснодонская улица	tertiary	103	15	76	Krasnodonskaya Street
+MD	617239	улица Герцена	residential	102	6	109	Gertsena Street
+MD	617239	улица Карла Маркса	residential	102	2	172	Karla Marksa Street
+MD	617239	улица 25 Октября		100	13	130	
+MD	617239	улица 1 Мая	residential	93	2	127	1 Maya Street
+MD	617239	улица Сакриера	tertiary	91	2	73	Sakriyera Street
+MD	617239	улица 20 Партсъезда	residential	90	5	98	
+MD	617239	1-й Тракторный переулок	residential	89	4	119	
+MD	617239	улица Строителей	residential	85	9	133	Stroiteley Street
+MD	617239	улица Суворова	residential	85	3	77	Suvorova Street
+MD	617239	Индустриальная улица	residential	82	5	79	Industrialnaya Street
+MD	617239	улица Крупской	residential	82	3	61	Krupskoy Street
+MD	617239	переулок Крылова	residential	79	4	79	Krylova Street
+MD	617239	улица Коммунаров	unclassified	79	4	98	Kommunarov Street
+MD	617239	улица Максима Потёмкина	residential	79	7	80	
+MD	617239	Октябрьская улица	residential	77	12	110	Oktyabrskaya Street
+MD	617239	улица Свердлова	residential	77	5	94	Sverdlova Street
+MD	617239	улица Царёва	residential	77	3	109	Tsaryova Street
+MD	617239	улица Якира	residential	77	4	72	Yakira Street
+MD	617239	улица Фрунзе	residential	76	3	115	Frunze Street
+MD	617239	улица Восстания	tertiary	72	3	114	Vosstaniya Street
+MD	617239	Заречная улица	residential	70	2	65	Zarechnaya Street
+MD	617239	улица Зелинского	residential	69	1	74	Zelinskogo Street
+MD	617239	Молодёжная улица	residential	67	1	55	Molodyozhnaya Street
+MD	617239	Партизанская улица	unclassified	65	5	77	Partizanskaya Street
+MD	617239	Совхозная улица	residential	65	6	68	Sovkhoznaya Street
+MD	617239	улица Павлова	residential	65	4	62	Pavlova Street
+MD	617239	1-й Пионерский переулок	residential	64	4	58	
+MD	617239	Партизанский переулок	primary	64	8	84	Partizanskiy Lane
+MD	617239	улица Калинина	residential	64	13	71	Kalinina Street
+MD	617239	улица Курчатова	residential	62	19	114	Kurchatova Street
+MD	617239	улица Луначарского	residential	61	7	71	Lunacharskogo Street
+MD	617239	улица Профсоюзов	residential	61	5	56	Profsoyuzov Street
+MD	617239	переулок Чкалова	residential	60	3	56	Chkalova Lane
+MD	617239	улица Космонавтов	residential	60	2	81	Kosmonavtov Street
+MD	617239	улица Ткаченко	residential	59	3	58	Tkachenko Street
+MD	617239	переулок Восстания	residential	57	3	55	Vosstaniya Lane
+MD	617239	Каховская улица	tertiary	56	1	23	Kakhovskaya Street
+MD	617239	Северная улица	residential	56	1	54	Severnaya Street
+MD	617239	улица Клары Цеткин	unclassified	56	1	108	Klary Tsetkin Street
+MD	617239	улица Котовского	residential	56	2	77	Kotovskogo Street
+MD	617239	Комсомольская улица	residential	51	1	58	Komsomolskaya Street
+MD	617239	1-й Карьерный переулок	residential	50	5	50	
+MD	617239	улица Макаренко	residential	49	8	48	Makarenko Street
+MD	617239	переулок Строителей	residential	48	4	51	Stroiteley Lane
+MD	617239	Клинцовский переулок	residential	45	2	43	Klintsovskiy Lane
+MD	617239	переулок Гоголя	residential	45	3	49	Gogolya Lane
+MD	617239	улица Куйбышева	residential	45	3	53	Kuybysheva Street
+MD	617239	улица Чехова	residential	45	12	69	Chekhova Street
+MD	617239	Гвардейская улица	residential	44	4	50	Gvardeyskaya Street
+MD	617239	переулок Чехова	residential	44	3	44	Chekhova Lane
+MD	617239	ул. Заречная		44	4	45	
+MD	617239	улица Нестерова	residential	44	5	81	Nesterova Street
+MD	617239	улица Чкалова	residential	44	7	81	Chkalova Street
+MD	617239	Гравийная улица	residential	43	6	79	
+MD	617239	Заречный переулок	residential	43	2	34	Zarechnyy Lane
+MD	617239	улица Полецкого	residential	43	1	72	Poletskogo Street
+MD	617239	переулок Тарасенко	residential	42	3	48	Tarasenko Lane
+MD	617239	улица Кирова	residential	42	2	40	Kirova Street
+MD	617239	Учительская улица	residential	41	3	67	Uchitelskaya Street
+MD	617239	улица Манойлова	residential	41	3	68	Manoylova Street
+MD	617239	улица Мечникова	residential	40	7	48	Mechnikova Street
+MD	617239	Лиманный переулок	residential	39	1	41	Limannyy Lane
+MD	617239	улица Серова	residential	39	2	51	Serova Street
+MD	617239	улица Солтыса	residential	39	1	64	Soltysa Street
+MD	617239	Терновская улица	residential	38	2	52	Ternovskaya Street
+MD	617239	переулок Свердлова	secondary	38	1	56	Sverdlova Lane
+MD	617239	переулок Попова		37	2	56	
+MD	617239	проезд Генерала Осташенко	residential	37	2	69	
+MD	617239	улица Леваневского	residential	37	2	46	Levanovskogo Street
+MD	617239	улица Сергея Лазо	residential	37	2	49	Sergeya Lazo Street
+MD	617239	Бендерская улица	primary	36	2	85	Benderskaya Street
+MD	617239	переулок Володи Дубинина	residential	36	3	38	Volodi Dubinina Street
+MD	617239	улица Федько	residential	36	4	36	Fedko Street
+MD	617239	улица Чайковского	residential	36	2	53	Chaikovskogo Street
+MD	617239	ул. Котовского		34	5	62	
+MD	617239	улица Жуковского	residential	33	2	48	Zhukovskogo Street
+MD	617239	улица Циолковского	residential	33	6	40	Tsiolkovskogo Street
+MD	617239	Кучурганская улица	residential	31	3	51	
+MD	617254	Strada Ștefan cel Mare și Sfânt	residential	397	4	137	
+MD	617254	Strada Dimitrie Cantemir	residential	215	3	110	
+MD	617254	Strada Mihai Eminescu	residential	197	2	153	
+MD	617254	Strada Renașterii	residential	167	3	118	
+MD	617254	Strada Dacia	secondary	161	4	78	
+MD	617254	Strada 31 August 1989	residential	150	2	73	
+MD	617254	Strada Grigore Vieru	residential	143	2	128	
+MD	617254	Strada Ion Șoltoianu	residential	139	7	145	
+MD	617254	Strada Codrilor	residential	135	3	73	
+MD	617254	Strada 8 Martie	tertiary	128	2	91	
+MD	617254	Strada Viilor	residential	127	2	58	
+MD	617254	Strada Unirii		108	6	148	
+MD	617254	Strada Vasile Alecsandri	residential	104	2	51	
+MD	617254	Strada Mircea cel Bătrân	residential	102	3	92	
+MD	617254	Strada Budăiului	residential	100	9	137	
+MD	617254	Strada Ion Creangă	residential	88	2	59	
+MD	617254	Strada Fântânilor	residential	78	3	89	
+MD	617254	Strada Constantin Negruzzi	residential	72	4	75	
+MD	617254	Strada Pădurii	tertiary	69	2	40	
+MD	617254	Strada Ion Constantin Ciobanu	residential	68	2	40	
+MD	617254	Strada Alexandru Donici	residential	63	2	50	
+MD	617254	Strada Trandafirilor	residential	62	1	33	
+MD	617254	Strada Mihai Volontir	residential	60	2	48	
+MD	617254	Strada Păcii	residential	60	1	30	
+MD	617270	Strada Lenina	tertiary	293	14	239	
+MD	617270	Strada Pervomaiscaia		244	13	269	
+MD	617270	Strada Karla Marxa	residential	233	9	211	
+MD	617270	Strada Gogolia	tertiary	201	9	197	
+MD	617270	Strada Lesnaia	tertiary	191	6	173	
+MD	617270	Strada Sadovaia	residential	176	5	118	
+MD	617270	Strada Gagarina	residential	146	8	137	
+MD	617270	Strada Maia Serebreac		139	5	164	
+MD	617270	Strada Vladimir Lenin	residential	135	6	94	
+MD	617270	Strada Lenin	secondary	126	5	120	
+MD	617270	Strada Pavlov	residential	117	5	113	
+MD	617270	Strada 1 Mai	residential	109	3	115	
+MD	617270	Strada Sovetskaia	residential	103	4	100	
+MD	617270	Strada Ceapaeva	residential	98	5	94	
+MD	617270	Strada Pirogov	residential	97	4	93	
+MD	617270	Strada Ștefan cel Mare	residential	97	4	71	
+MD	617270	Strada Mihail Frunze	residential	95	54	142	
+MD	617270	Strada Dimitrov	residential	91	4	130	
+MD	617270	Strada Gorkii	residential	89	4	86	
+MD	617270	Strada Kutuzov	residential	88	5	79	
+MD	617270	Strada Olimpia Panova		85	5	85	
+MD	617270	Strada Pușkin	residential	84	5	76	
+MD	617270	Strada Bulgară	tertiary	80	10	93	
+MD	617270	Strada Cotovscogo	residential	79	2	72	
+MD	617279	Strada Independenței	secondary	335	10	259	
+MD	617279	Strada Ștefan cel Mare și Sfânt	tertiary	265	2	105	
+MD	617279	Strada Ștefan cel Mare și Sfînt	residential	211	5	111	
+MD	617279	Strada Mihai Eminescu	living_street	204	2	57	
+MD	617279	Strada Chișinău	tertiary	186	1	67	
+MD	617279	Strada Alexei Mateevici	secondary	176	2	60	
+MD	617279	Strada 31 August 1989	secondary	170	3	106	
+MD	617279	Strada Ion Creangă	living_street	159	1	38	
+MD	617279	Strada Grădinarilor	residential	141	82	200	
+MD	617279	Strada Serghei Lazo	living_street	138	2	42	
+MD	617279	Strada Păcii	living_street	127	1	59	
+MD	617279	Strada Decebal	living_street	118	1	50	
+MD	617279	Strada Florilor	living_street	116	2	34	
+MD	617279	Strada Iuri Gagarin	living_street	105	4	89	
+MD	617279	Strada Primăverii	living_street	98	2	48	
+MD	617279	Strada Mihail Frunze	living_street	95	3	56	
+MD	617279	Strada Dacia	residential	91	2	64	
+MD	617279	Strada Tineretului	tertiary	91	3	69	
+MD	617279	Strada Fîntîna Schinului	living_street	86	3	95	
+MD	617279	Strada Sfatul Țării	living_street	85	2	59	
+MD	617279	Strada Dimitrie Cantemir	living_street	82	2	38	
+MD	617279	Strada Doina	residential	76	4	74	
+MD	617279	Strada Suveranității	living_street	75	2	58	
+MD	617279	Strada Livezilor	living_street	72	2	28	
+MD	617284	Strada Florilor	residential	192	3	119	
+MD	617284	Strada Mihai Eminescu	residential	173	3	97	
+MD	617284	Strada Livezilor	residential	145	1	116	
+MD	617284	Strada Trandafirilor	residential	118	2	99	
+MD	617284	Strada Ștefan cel Mare și Sfînt	tertiary	107	3	90	
+MD	617284	Strada Ion Creangă	residential	101	3	87	
+MD	617284	Strada Vasile Alecsandri	residential	96	7	95	
+MD	617284	Strada Serghei Lazo	residential	92	4	88	
+MD	617284	Strada 31 August 1989	residential	90	2	24	
+MD	617284	Strada Alexandru cel Bun	residential	86	3	37	
+MD	617284	Strada Victoriei	residential	74	4	83	
+MD	617284	Strada Vasile Lupu	residential	70	5	85	
+MD	617284	Strada Mira		69	2	36	
+MD	617284	Strada Biruinței	residential	66	2	41	
+MD	617284	Strada Păcii	residential	66	2	38	
+MD	617284	Strada Mihail Frunze	residential	60	2	46	
+MD	617284	Strada Petru Dudnic	residential	60	3	87	
+MD	617284	Strada Tineretului	residential	55	2	38	
+MD	617284	Strada Libertății	secondary	47	1	32	
+MD	617284	Strada Mihai Kogălniceanu		40	2	49	
+MD	617284	Strada Gheorghe Asachi	tertiary	38	2	37	
+MD	617284	Strada Dragoș-Vodă		35	2	33	
+MD	617284	Strada Zelionaia		31	2	41	
+MD	617284	Strada Ștefan cel Mare și Sfânt	residential	31	15	79	
+MD	617302	Strada Mihai Eminescu	residential	568	5	193	
+MD	617302	Strada Ștefan cel Mare și Sfânt	tertiary	533	5	137	
+MD	617302	Strada Ștefan cel Mare și Sfînt	residential	483	8	189	
+MD	617302	Strada Mihai Viteazul	residential	422	6	267	
+MD	617302	Strada Vasile Alecsandri	residential	266	3	204	
+MD	617302	Strada Decebal	residential	234	3	91	
+MD	617302	Strada Dimitrie Cantemir	residential	225	3	89	
+MD	617302	Strada Alexandru cel Bun	residential	206	3	107	
+MD	617302	Strada Vasile Lupu	residential	186	2	76	
+MD	617302	Strada Grigore Vieru	residential	166	2	84	
+MD	617302	Strada 31 August 1989	residential	156	2	96	
+MD	617302	Strada Ion Creangă	residential	154	2	67	
+MD	617302	Strada Unirii	residential	150	2	75	
+MD	617302	Strada Veronica Micle	residential	144	2	74	
+MD	617302	Strada Grigore Ureche	residential	112	3	58	
+MD	617302	Strada Nicolae Sulac	residential	111	3	61	
+MD	617302	Strada Alecu Russo	residential	108	2	48	
+MD	617302	Strada Mihail Sadoveanu	residential	105	2	80	
+MD	617302	Strada Viilor	residential	104	2	72	
+MD	617302	Strada Tineretului	living_street	99	3	74	
+MD	617302	Strada Centinarului		97	3	86	
+MD	617302	Strada Iuri Gagarin	residential	97	3	67	
+MD	617302	Strada Mihail Frunze	residential	96	3	80	
+MD	617302	Strada Boris Glavan	residential	91	2	54	
+MD	617302	Strada Florilor	residential	89	3	75	
+MD	617302	Strada Prieteniei	residential	81	4	124	
+MD	617302	Strada Petru Rareș	residential	78	2	67	
+MD	617302	Strada Miorița	residential	76	2	34	
+MD	617302	Strada 1 Mai	residential	73	2	42	
+MD	617302	Strada Păcii	residential	71	2	27	
+MD	617302	Strada Polihronie Sârcu	residential	68	4	75	
+MD	617302	Strada Alexandru Donici	residential	65	2	32	
+MD	617302	Strada Valea Luncii	residential	64	5	73	
+MD	617302	Strada Morilor	residential	63	4	63	
+MD	617302	Strada Fața Satului	residential	62	4	62	
+MD	617302	Strada Toma Ciorbă	residential	62	4	60	
+MD	617302	Strada Alexandru Marinescu	residential	60	2	53	
+MD	617302	Strada Liviu Deleanu	residential	59	2	86	
+MD	617302	Strada Revaz Lomtadze		59	2	44	
+MD	617302	Strada Valeriu Cupcea	residential	59	3	77	
+MD	617302	Strada Mitropolit Dosoftei	residential	58	3	76	
+MD	617302	Strada Nicolae Testemițanu	residential	56	2	60	
+MD	617302	Strada Trandafirilor	residential	56	1	25	
+MD	617302	Strada Livezilor	residential	55	1	27	
+MD	617302	Strada George Coșbuc	residential	54	2	28	
+MD	617302	Strada Luceafărul	residential	54	2	32	
+MD	617302	Strada Constantin Negruzzi	residential	52	1	31	
+MD	617302	Strada Dragoș Vodă	residential	51	4	56	
+MD	617317	Strada Alexei Mateevici	residential	418	4	93	
+MD	617317	Strada Tineretului	living_street	415	5	115	
+MD	617317	Strada Livezilor	living_street	390	3	130	
+MD	617317	Strada Dimitrie Cantemir	living_street	313	5	214	
+MD	617317	Strada Ștefan cel Mare și Sfânt	residential	284	2	110	
+MD	617317	Strada Miorița	living_street	276	4	79	
+MD	617317	Strada Nucarilor	residential	244	4	83	
+MD	617317	Strada Vasile Alecsandri	living_street	232	2	43	
+MD	617317	Strada Ion Creangă	living_street	219	3	53	
+MD	617317	Strada Trandafirilor	living_street	194	1	71	
+MD	617317	Strada Bogdan Petriceicu Hașdeu	living_street	191	3	54	
+MD	617317	Strada Mihail Frunze	residential	189	1	64	
+MD	617317	Strada Mihai Eminescu	residential	184	2	66	
+MD	617317	Strada Grătiești	residential	175	1	70	
+MD	617317	Strada Viilor	residential	165	3	49	
+MD	617317	Strada Prieteniei	living_street	143	1	71	
+MD	617317	Strada 1 Mai	living_street	139	3	72	
+MD	617317	Strada Bucovina	living_street	137	1	34	
+MD	617317	Strada Renașterii	living_street	134	2	44	
+MD	617317	Strada Dragoș-Vodă		123	2	38	
+MD	617317	Strada Primăverii	living_street	123	2	44	
+MD	617317	Strada Teilor	living_street	119	2	37	
+MD	617317	Strada Păcii	tertiary	116	2	29	
+MD	617317	Strada Nicolae Sulac	living_street	112	2	54	
+MD	617345	Strada Independenței	residential	260	3	198	
+MD	617345	Strada Păcii	residential	226	3	108	
+MD	617345	Strada Tineretului	residential	126	3	94	
+MD	617345	Strada Vatra Satului	residential	116	6	112	
+MD	617345	Strada 31 August		112	6	107	
+MD	617345	Strada Presei	residential	103	4	67	
+MD	617345	Strada Libertății	residential	91	2	65	
+MD	617345	Strada Ion Creangă	residential	87	2	58	
+MD	617345	Strada Moldovița	residential	78	4	83	
+MD	617345	Strada Trandafirilor	residential	75	2	40	
+MD	617345	Strada Doinelor	residential	72	4	69	
+MD	617345	Strada Valentin Mereniuc	residential	66	5	75	
+MD	617345	Strada Victoriei	residential	66	3	70	
+MD	617345	Strada Valea Crucii	residential	62	4	68	
+MD	617345	Strada Bălți	residential	59	2	93	
+MD	617345	Strada Serghei Lazo	residential	57	3	48	
+MD	617345	Strada Steclear	residential	55	3	54	
+MD	617345	Strada Speranței	residential	54	2	40	
+MD	617345	Strada Livezilor	residential	53	2	40	
+MD	617345	Strada Mihai Eminescu	residential	51	4	55	
+MD	617345	Strada Teilor	residential	50	33	86	
+MD	617345	Strada Prieteniei	residential	45	2	35	
+MD	617345	Strada Viișoara	residential	45	3	51	
+MD	617345	Strada Parcului	residential	44	3	78	
+MD	617345	Strada Vladimir Maiakovski	residential	42	6	72	
+MD	617345	Strada Câmpiilor		39	6	79	
+MD	617345	Strada Doina	residential	39	2	39	
+MD	617345	Strada Florilor	residential	37	2	25	
+MD	617345	Strada Iternității		37	2	44	
+MD	617345	Strada Oziornaia	residential	37	2	52	
+MD	617345	Strada Morilor	residential	36	2	62	
+MD	617345	Strada Biruinței	tertiary	35	1	46	
+MD	617345	Strada Nucarilor	living_street	35	2	47	
+MD	617345	Strada Fîntînilor		32	2	31	
+MD	617345	Strada Frații Ulmadă		30	2	33	
+MD	617345	Strada Tinereței	residential	29	2	62	
+MD	617345	Strada Câmpiei		28	4	56	
+MD	617345	Strada Plopilor	residential	28	2	26	
+MD	617345	Strada Gerița	residential	27	2	29	
+MD	617345	Strada Nikolai Mirovski		25	3	30	
+MD	617345	Strada Codrilor	residential	24	4	54	
+MD	617345	Strada Hotinului	residential	24	1	15	
+MD	617345	Strada Ciulucului	tertiary	23	3	32	
+MD	617345	Strada Nicolae Milescu Spătarul		23	2	22	
+MD	617345	Strada Molodiojnaia		22	6	29	
+MD	617345	Strada Pașcani	residential	22	3	22	
+MD	617345	Strada Codrenilor	residential	21	2	25	
+MD	617345	Strada Voluntarilor	residential	21	2	22	
+MD	617367	Strada Ștefan cel Mare	residential	669	10	250	
+MD	617367	Strada Florilor	residential	209	2	44	
+MD	617367	Strada Independenței	secondary	209	3	77	
+MD	617367	Strada Trandafirilor	residential	202	2	67	
+MD	617367	Strada Mihai Eminescu	residential	182	1	52	
+MD	617367	Strada Calea Bălțului	residential	176	2	109	
+MD	617367	Strada Ion Creangă	residential	174	2	31	
+MD	617367	Strada Alexandru cel Bun	residential	162	3	72	
+MD	617367	Strada Alexei Mateevici	residential	153	2	38	
+MD	617367	Strada Dimitrie Cantemir	residential	151	3	51	
+MD	617367	Strada Vasile Stroescu	secondary	145	9	84	
+MD	617367	Strada Păcii	residential	143	2	78	
+MD	617367	Strada Viilor	residential	136	2	41	
+MD	617367	Strada Teilor	residential	132	2	73	
+MD	617367	Strada Gospodarilor	residential	127	3	74	
+MD	617367	Strada Caștanilor	residential	126	2	58	
+MD	617367	Strada Vasile Alecsandri	residential	125	2	68	
+MD	617367	Strada Renașterii	residential	124	2	92	
+MD	617367	Strada Salcîmilor	residential	123	2	42	
+MD	617367	Strada Ștefan cel Mare și Sfînt	residential	118	3	70	
+MD	617367	Strada Nicolae Testemițanu	tertiary	116	4	67	
+MD	617367	Strada Crizantemelor	residential	108	2	61	
+MD	617367	Strada Miorița	residential	105	1	42	
+MD	617367	Strada Luceafărul	residential	99	1	23	
+MD	617367	Strada Iurie Levandovschi	unclassified	98	1	84	
+MD	617367	Strada Mihail Sadoveanu	residential	95	4	77	
+MD	617367	Strada Aluniș	residential	92	3	53	
+MD	617367	Strada Boris Glavan	residential	92	3	44	
+MD	617367	Strada Cosăuțului	primary	88	2	46	
+MD	617367	Stradela Serii	residential	86	1	39	
+MD	617367	Strada Livezilor	residential	79	2	37	
+MD	617367	Strada Doina	residential	76	2	60	
+MD	617367	Strada Nicolae Testemițeanu	residential	75	3	70	
+MD	617367	Strada Meșterul Manole	residential	74	2	53	
+MD	617367	Strada Grădinarilor	residential	73	3	60	
+MD	617367	Strada Săliște	living_street	73	4	75	
+MD	617367	Strada Chișinăului	primary	70	3	62	
+MD	617367	Strada Conișescu	residential	70	4	69	
+MD	617367	Strada Dimitrie Bolintinianu	residential	68	15	72	
+MD	617367	Strada Miron Costin	residential	67	2	29	
+MD	617367	Strada Nicolae Gribov	residential	67	2	40	
+MD	617367	Strada Dmitrie Cantemir	tertiary	66	5	48	
+MD	617367	Strada Ghioceilor	residential	65	2	26	
+MD	617367	Strada Prieteniei	residential	65	2	28	
+MD	617367	Strada Vasile Lupu	residential	64	2	36	
+MD	617367	Strada Decebal	secondary	63	2	34	
+MD	617367	Strada Ion Soltîs	residential	63	2	36	
+MD	617367	Strada Nucarilor	residential	63	1	30	
+MD	617372	Strada Mihai Eminescu	residential	353	3	94	
+MD	617372	Strada Ștefan cel Mare și Sfânt	living_street	237	3	89	
+MD	617372	Strada 31 August 1989	primary	175	2	125	
+MD	617372	Strada Izvoarelor	residential	151	2	33	
+MD	617372	Strada Viilor	residential	146	2	66	
+MD	617372	Strada Trandafirilor	residential	144	1	42	
+MD	617372	Strada Ion Creangă	living_street	130	2	39	
+MD	617372	Strada Păcii	residential	127	2	28	
+MD	617372	Strada Livezilor	residential	118	2	71	
+MD	617372	Strada Ion Daghi		115	6	156	
+MD	617372	Strada Victoriei	residential	114	2	69	
+MD	617372	Strada Ștefan cel Mare și Sfînt	residential	108	3	63	
+MD	617372	Strada Regiei	residential	100	5	92	
+MD	617372	Strada Tinereții	living_street	100	2	55	
+MD	617372	Strada Muncitorilor	residential	99	4	96	
+MD	617372	Strada Nucarilor	residential	91	2	25	
+MD	617372	Strada Florilor	residential	85	1	26	
+MD	617372	Strada Independenței	residential	83	1	32	
+MD	617372	Strada Miorița	living_street	80	1	34	
+MD	617372	Strada Luceafărul	residential	78	2	36	
+MD	617372	Strada Prieteniei	residential	72	1	57	
+MD	617372	Strada Andrei Lupan	living_street	70	2	25	
+MD	617372	Strada Răzeșilor	secondary	69	4	66	
+MD	617372	Strada Dimitrie Cantemir	living_street	67	2	54	
+MD	617381	Strada Alexandru cel Bun	secondary	320	60	373	
+MD	617381	улица Ленина	primary	170	7	163	Lenina Street
+MD	617381	Колхозная улица	residential	152	5	77	Kolkhoznaya Street
+MD	617381	Набережная улица	residential	136	6	92	Naberezhnaya Street
+MD	617381	Strada Iurii Solopov	residential	93	5	88	
+MD	617381	Приднестровская улица	residential	83	5	93	Pridnestrovskaya Street
+MD	617381	улица Дзержинского	residential	80	3	88	Dzerzhinskogo Street
+MD	617381	Strada Nistreană	residential	79	4	76	
+MD	617381	улица Советской Армии	residential	79	11	281	Sovetskoy Armii Street
+MD	617381	Strada Căușenilor	tertiary	77	4	72	
+MD	617381	Молодёжная улица	residential	70	2	38	Molodyozhnaya Street
+MD	617381	Strada Gheorghe Bolfa	residential	67	4	64	
+MD	617381	Комсомольская улица	residential	60	22	138	Komsomolskaya Street
+MD	617381	улица Сергея Лазо	residential	58	1	24	Sergeya Lazo Street
+MD	617381	Речная улица	residential	56	4	21	Rechnaya Street
+MD	617381	улица Фрунзе	residential	52	5	104	Frunze Street
+MD	617381	Strada Spicului	residential	49	4	53	
+MD	617381	Strada Păcii	residential	48	3	46	
+MD	617381	улица Гагарина	residential	48	1	38	Gagarina Street
+MD	617381	Strada Independenței	residential	47	3	45	
+MD	617381	Советская улица	residential	47	4	59	Sovetskaya Street
+MD	617381	Strada Valul lui Traian	residential	46	3	43	
+MD	617381	Strada Viilor	residential	46	3	44	
+MD	617381	Strada Mihai Eminescu	residential	42	3	40	
+MD	617381	улица Макаренко	residential	41	3	45	Makarenko Street
+MD	617381	улица Терещенко	residential	40	2	57	Tereshchenko Street
+MD	617381	улица Гайдара	residential	39	3	69	Gaydara Street
+MD	617381	Strada Alecu Russo	residential	38	2	35	
+MD	617381	Strada Armatei Naționale	residential	37	1	34	
+MD	617381	Strada Constantin Negruzzi	residential	35	2	33	
+MD	617381	Strada Nikolai Gogol	residential	34	2	33	
+MD	617381	Strada Zahorna de Jos	residential	34	2	33	
+MD	617381	улица Дружбы	residential	34	2	49	Druzhby Street
+MD	617381	Strada Miron Costin	residential	32	2	29	
+MD	617381	улица Строителей	residential	32	2	68	Stroiteley Street
+MD	617381	Strada Mircea cel Bătrîn	residential	31	2	31	
+MD	617381	Школьная улица	residential	31	2	57	Shkolnaya Street
+MD	617381	улица Суворова	residential	31	18	74	Suvorova Street
+MD	617381	Strada Alba-Iulia	residential	30	2	30	
+MD	617381	Strada Anatol Donoi	residential	30	1	32	
+MD	617381	Солнечная улица	residential	30	2	36	
+MD	617381	Strada Valeri Cikalov	residential	29	2	30	
+MD	617381	улица Мира	residential	29	1	32	Mira Street
+MD	617381	улица Федько	residential	29	3	55	Fedko Street
+MD	617381	улица Победы	residential	28	2	62	Pobeby Street
+MD	617381	Strada Mihail Kogălniceanu	residential	27	2	32	
+MD	617381	Днестровская улица	residential	27	6	107	Dnestrovskaya Street
+MD	617381	Strada Sindicatelor	residential	26	2	25	
+MD	617452	Strada Ștefan cel Mare și Sfânt	residential	290	4	155	
+MD	617452	Strada 31 August 1989	residential	253	6	240	
+MD	617452	Strada Mihai Eminescu	residential	214	2	277	
+MD	617452	Strada Livezilor	residential	197	3	226	
+MD	617452	Strada Ion Creangă	residential	175	2	65	
+MD	617452	Strada Ștefan-Vodă		143	138	278	
+MD	617452	Strada Fântânilor	residential	138	2	62	
+MD	617452	Strada Tricolorului		129	7	130	
+MD	617452	Strada Valul lui Traian	secondary	124	2	97	
+MD	617452	Strada Alexei Mateevici	residential	115	2	54	
+MD	617452	Strada Dimitrie Cantemir	residential	112	2	48	
+MD	617452	Strada Trandafirilor	residential	112	2	41	
+MD	617471	Strada Nistreană	secondary	64	4	122	
+MD	617471	Strada Ion Creangă	residential	59	3	64	
+MD	617471	Strada 31 August 1989		55	6	106	
+MD	617471	Strada 8 Martie	residential	52	3	78	
+MD	617471	Strada Cireșilor	residential	52	3	56	
+MD	617471	Strada Ștefan cel Mare și Sfânt		43	3	65	
+MD	617471	Strada Vasile Alecsandri	residential	37	2	37	
+MD	617471	Strada Mihai Viteazul	residential	36	2	49	
+MD	617471	Strada Nucarilor	residential	27	2	36	
+MD	617471	Strada Alexei Mateevici	residential	24	2	23	
+MD	617471	Strada Mihai Eminescu	residential	23	2	36	
+MD	617471	Strada Dimitrie Cantemir		19	1	21	
+MD	617482	Strada Independenței	tertiary	306	2	157	
+MD	617482	Strada Taras Șevcenko	residential	251	4	242	
+MD	617482	Strada Mihail Lermontov	residential	233	8	194	
+MD	617482	Strada Iuri Gagarin	tertiary	169	4	108	
+MD	617482	Strada Păcii	residential	152	2	73	
+MD	617482	Strada Ștefan cel Mare și Sfânt		125	4	82	
+MD	617482	Strada Mihai Eminescu	residential	118	1	72	
+MD	617482	Strada Grigori Kotovski	tertiary	110	3	80	
+MD	617482	Strada Florilor	residential	103	3	72	
+MD	617482	Strada Tineretului	residential	102	3	91	
+MD	617482	Strada Nicolae Milescu Spătarul	residential	100	6	110	
+MD	617482	Strada Trudovaia	residential	100	4	55	
+MD	617482	Strada Miron Costin	residential	96	6	115	
+MD	617482	Strada Mihail Kogălniceanu	residential	94	5	105	
+MD	617482	Strada Moldavskaia		89	4	116	
+MD	617482	Strada Maxim Gorki	residential	88	5	82	
+MD	617482	Strada Mihail Frunze	residential	87	3	72	
+MD	617482	Strada Eternității	residential	84	3	105	
+MD	617482	Strada Prieteniei	residential	80	2	62	
+MD	617482	Strada Trandafirilor	residential	80	1	37	
+MD	617482	Strada Ponoarelor	living_street	75	4	115	
+MD	617482	Strada Rîșcani	residential	74	2	60	
+MD	617482	Strada Valeri Cikalov	living_street	74	6	87	
+MD	617482	Strada Școlinaia	residential	73	2	47	
+MD	617486	Strada Ștefan cel Mare și Sfânt	residential	210	4	107	
+MD	617486	улица Кирова	secondary	202	17	151	Kirova Street
+MD	617486	Степная улица	residential	172	8	197	Stepnaya Street
+MD	617486	улица Титова	tertiary	138	7	149	Titova Street
+MD	617486	Strada Mihai Eminescu	residential	115	2	53	
+MD	617486	улица Вальченко	primary	115	2	97	Valchenko Street
+MD	617486	ул. Мира		102	4	138	
+MD	617486	улица Вершигоры	residential	95	46	127	Vershigory Street
+MD	617486	Гвардейская улица	tertiary	92	2	121	Gvardeyskaya Street
+MD	617486	2-я Загородная улица	residential	90	18	98	
+MD	617486	Strada Vasile Alecsandri	secondary	88	3	137	
+MD	617486	Strada Iuri Gagarin	secondary	82	11	191	
+MD	617486	Strada Ion Creangă	residential	81	2	27	
+MD	617486	улица Ленина	residential	78	1	146	Lenina Street
+MD	617486	Заречная улица	residential	76	8	88	Zarechnaya Street
+MD	617486	ул. Ленинградская		75	4	107	
+MD	617486	Strada Sofia	residential	72	4	76	
+MD	617486	ул. Чапаева		71	4	102	
+MD	617486	Strada Trandafirilor	residential	70	2	31	
+MD	617486	Strada Gheorghe Malarciuc	residential	69	5	62	
+MD	617486	Ленинградская улица	residential	66	68	134	Leningradskaya Street
+MD	617486	улица Чапаева	residential	66	69	134	Chapayeva Street
+MD	617486	Strada Nucarilor	residential	62	2	38	
+MD	617486	Strada 31 August 1989	residential	61	2	44	
+MD	617486	ул. Мичурина		60	19	136	
+MD	617486	улица Мичурина	tertiary	60	14	82	Michurina Street
+MD	617486	Strada Miorița	residential	58	1	39	
+MD	617486	Юбилейная улица	residential	58	3	65	Yubileynaya Street
+MD	617486	ул. Советская		56	3	130	
+MD	617486	ул. Октябрьская		55	5	55	
+MD	617486	улица Мира	residential	55	66	144	Mira Street
+MD	617486	Strada Fîntînilor	residential	53	3	55	
+MD	617486	Кишинёвская улица	residential	53	4	60	Kishinyovskaya Street
+MD	617486	Strada Nicolai Gribov	residential	52	3	49	
+MD	617486	ул. Калинина		52	4	53	
+MD	617486	Strada Păcii	residential	50	1	36	
+MD	617486	ул. Кирова		50	24	140	
+MD	617486	Советская улица	residential	49	69	125	Sovetskaya Street
+MD	617486	проспект Победы	tertiary	49	3	62	Pobedy Avenue
+MD	617486	Strada Poienilor	residential	48	3	67	
+MD	617486	Strada Dimitrie Cantemir	residential	47	3	45	
+MD	617486	ул. Вершигоры		47	4	58	
+MD	617486	Strada Ciocârliei	residential	46	2	44	
+MD	617486	улица Бориса Главана	residential	44	3	64	Borisa Glavana Street
+MD	617486	Strada Mihai Viteazul	residential	43	2	38	
+MD	617486	улица 8 Марта	residential	43	3	50	8 Marta Street
+MD	617486	улица Жданова	residential	43	3	42	Zhdanova Street
+MD	617486	улица Негруцци	residential	42	4	68	Negruzzi Street
+MD	617486	улица Мицкевича	secondary	41	8	95	Mitskevicha Street
+MD	617486	Strada Livezilor	residential	40	1	18	
+MD	617486	Молодёжная улица	residential	40	2	59	Molodyozhnaya Street
+MD	617486	ул. Гвардейская		40	2	115	
+MD	617486	ул. Кутузова		40	2	54	
+MD	617486	улица Заводской спуск	residential	40	4	74	Zavodskoy spusk Street
+MD	617486	Бородинская улица	residential	39	3	50	Borodinskaya Street
+MD	617486	ул. Щусева		39	1	42	
+MD	617486	Strada Boris Glavan	residential	38	2	50	
+MD	617486	Stradela Iuri Gagarin	residential	38	1	111	
+MD	617486	улица Чернышевского	secondary	38	2	81	Chernyshevskogo Street
+MD	617486	Новая улица	residential	37	2	39	Novaya Street
+MD	617486	ул. Комарова		37	26	59	
+MD	617486	улица Будённого	residential	37	4	52	Budyonnogo Street
+MD	617486	Садовая улица	residential	36	2	50	Sadovaya Street
+MD	617486	Севастопольская улица	tertiary	36	2	28	Sevastopolskaya Street
+MD	617486	ул. Коммунаров		36	28	65	
+MD	617486	ул. Лазо		36	12	54	
+MD	617486	Strada Meșterul Manole	residential	35	2	35	
+MD	617486	Strada Tinereții	residential	35	1	24	
+MD	617486	улица Завадского	residential	35	2	53	Zavadskogo Street
+MD	617486	Strada Primăverii	residential	34	1	19	
+MD	617486	Strada Viilor	residential	33	1	42	
+MD	617486	ул. Пионерская		33	23	64	
+MD	617486	улица Гоголя	residential	33	3	70	Gogolya Street
+MD	617486	улица Димитрова	residential	33	3	49	Dimitrova Street
+MD	617486	улица Пугачёва	residential	33	2	47	Pugachova Street
+MD	617486	Strada Cireșilor	residential	32	1	20	
+MD	617486	ул. Суворова		32	3	51	
+MD	617486	улица Маяковского	residential	32	5	54	Mayakovskogo Street
+MD	617486	Strada 9 Mai	residential	31	2	31	
+MD	617486	Strada Doina și Ion Aldea-Teodorovici	residential	31	2	32	
+MD	617486	Strada Salcâmilor	living_street	31	1	16	
+MD	617486	улица Коммунаров	residential	31	4	68	Kommunarov Street
+MD	617486	улица Павлика Морозова	residential	30	4	32	Pavlika Morozova Street
+MD	617486	Strada Crizantemelor	residential	28	2	27	
+MD	617486	ул. Ленина		28	9	56	
+MD	617486	улица Костюшко	residential	28	40	76	Kostyushko Street
+MD	617486	1-я Загородная улица	residential	27	2	73	
+MD	617486	Strada Italia	residential	27	2	35	
+MD	617486	улица Комарова	residential	27	2	65	Komarova Street
+MD	617486	улица Менделеева	residential	27	3	32	Mendeleyeva Street
+MD	617486	Strada Octavian Goga	residential	26	2	26	
+MD	617486	Виноградная улица	residential	26	2	30	Vinogradnaya Street
+MD	617486	Комсомольская улица	residential	26	2	50	Komsomolskaya Street
+MD	617486	ул. Лермонтова		26	2	26	
+MD	617486	ул. Толбухина		26	2	27	
+MD	617486	улица Шевченко	residential	26	5	86	Shevchenko Street
+MD	617486	Огородный переулок	residential	25	2	22	Ogorodnyy Lane
+MD	617486	ул. Матросова		25	6	42	
+MD	617486	ул. Маяковского		25	3	30	
+MD	617486	улица Гагарина	residential	25	2	41	Gagarina Street
+MD	617502	Strada Ștefan cel Mare și Sfânt	living_street	222	5	126	
+MD	617502	Strada 27 August 1989	primary	209	2	70	
+MD	617502	Strada Păcii	residential	185	2	71	
+MD	617502	Strada Mihai Eminescu	residential	149	2	42	
+MD	617502	Strada Orhei	residential	144	4	73	
+MD	617502	Strada Alexei Mateevici	residential	139	3	46	
+MD	617502	Strada Mihail Lomonosov	residential	126	7	209	
+MD	617502	Strada Lomonosov		113	7	211	
+MD	617502	Strada Dacia	residential	110	3	91	
+MD	617502	Strada Tineretului	residential	99	2	49	
+MD	617502	Strada 1 Mai	residential	96	1	19	
+MD	617502	Strada Ion Neculce	residential	87	2	45	
+MD	617502	Strada Decebal	residential	86	4	42	
+MD	617502	Bulevardul Alexei Șciusev	residential	73	1	11	
+MD	617502	Strada Energeticienilor	residential	71	4	71	
+MD	617502	Strada Alexandr Matrosov	tertiary	63	2	18	
+MD	617502	Strada Matei Basarab	residential	61	2	29	
+MD	617502	Strada Ștefan cel Mare și Sfînt	residential	54	2	31	
+MD	617502	Strada Burebista	residential	53	2	30	
+MD	617502	Strada Lăutarilor	residential	52	2	29	
+MD	617502	Strada Roma	living_street	50	1	35	
+MD	617502	Strada Bogdan Petriceicu Hajdeu		49	3	51	
+MD	617502	Strada Bogdan Petriceicu Hașdeu	residential	49	2	49	
+MD	617502	Strada Cetatea Albă	residential	49	2	24	
+MD	617541	Strada Valeriu Dumbravă	residential	182	17	211	
+MD	617541	Strada Ștefan cel Mare și Sfânt	tertiary	177	3	84	
+MD	617541	Strada Alexandr Pușkin	residential	165	4	74	
+MD	617541	Strada Mihai Eminescu	residential	123	2	72	
+MD	617541	Strada Ion Creangă	residential	116	2	132	
+MD	617541	Strada Ștefan cel Mare și Sfînt	residential	110	3	63	
+MD	617541	Strada Păcii	residential	105	3	61	
+MD	617541	Strada Cobacului	residential	85	5	84	
+MD	617541	Strada Codrilor	residential	83	2	45	
+MD	617541	Strada Zamfir Ralli		74	4	75	
+MD	617541	Strada Alexei Mateevici	residential	72	3	42	
+MD	617541	Strada Cornești	residential	64	2	36	
+MD	617569	Strada Livezilor	residential	290	8	243	
+MD	617569	Strada 31 August 1989	living_street	215	9	169	
+MD	617569	Strada Independenței	residential	126	2	82	
+MD	617569	Strada Ion Creangă	living_street	119	2	52	
+MD	617569	Strada Trandafirilor	residential	112	5	110	
+MD	617569	Strada Băștinașilor	residential	92	7	100	
+MD	617569	Strada Renașterii	residential	89	5	87	
+MD	617569	Strada Gospodarilor	residential	86	5	88	
+MD	617569	Strada Mihai Eminescu	residential	86	5	63	
+MD	617569	Strada Ștefan cel Mare și Sfânt	living_street	84	4	54	
+MD	617569	Strada Grigore Vieru	residential	83	5	92	
+MD	617569	Strada Tineretului	residential	80	2	86	
+MD	617578	Strada Ștefan cel Mare și Sfânt	residential	359	6	242	
+MD	617578	Strada Ion Creangă	residential	110	2	62	
+MD	617578	Strada Gheorghe Asachi	residential	101	6	119	
+MD	617578	Strada Tudor Casapu	residential	92	4	124	
+MD	617578	Strada Victoriei	residential	87	5	83	
+MD	617578	Strada Alexei Mateevici	residential	85	3	76	
+MD	617578	Strada 31 August 1989	residential	74	3	77	
+MD	617578	Strada Constantin Negruzzi	residential	71	5	87	
+MD	617578	Strada Independenței	living_street	71	2	43	
+MD	617578	Strada Lăpușna	residential	59	3	77	
+MD	617578	Strada Dimitrie Cantemir	residential	58	2	56	
+MD	617578	Strada Ion Neculce	residential	57	2	62	
+MD	617602	улица Ткаченко	tertiary	76	5	85	Tkachenko Street
+MD	617602	улица Ленина	residential	34	58	111	Lenina Street
+MD	617602	Садовая улица	residential	33	1	26	Sadovaya Street
+MD	617602	улица Котовского	tertiary	3	32	33	Kotovskogo Street
+MD	617602	Владимировка-Фрунзе-Новокотовск-М5	tertiary	1	0	0	
+MD	617602	Глиное-Первомайск	tertiary	1	0	0	
+MD	617602	Липневий провулок	tertiary	1	0	0	Lypnevyi Lane
+MD	617602	Молодёжная улица	residential	1	0	0	Molodyozhnaya Street
+MD	617602	Семінарська вулиця	residential	1	0	0	Seminarska Street
+MD	617602	Степная улица	residential	1	0	0	
+MD	617602	Тирасполь-Незавертайловка-Первомайск	primary	1	0	0	
+MD	617602	Центральна вулиця	secondary	1	0	0	Central`na Street
+MD	617602	Школьная улица	unclassified	1	0	0	Shkolnaya Street
+MD	617602	вулиця Космонавтів	secondary	1	0	0	Kosmonavtiv Street
+MD	617602	переулок Дружбы	residential	1	0	0	
+MD	617602	улица Мира	residential	1	0	0	Mira Street
+MD	617602	улица Строителей	residential	1	0	0	
+MD	617602	улица Фрунзе	residential	1	0	0	Frunze Street
+MD	617602	улица Энергетиков	residential	1	0	0	
+MD	617605	Strada Ștefan cel Mare și Sfînt		300	6	182	
+MD	617605	Strada Alexei Mateevici	residential	270	4	104	
+MD	617605	Strada Ștefan-Vodă	secondary	170	9	182	
+MD	617605	Strada Poleanicikin	residential	159	15	165	
+MD	617605	Strada Trandafirilor	residential	151	4	77	
+MD	617605	Strada Mihai Eminescu	residential	148	4	93	
+MD	617605	Strada Livezilor	living_street	135	2	58	
+MD	617605	Strada Sadovaia	residential	133	5	121	
+MD	617605	Strada Pobedî	residential	129	7	125	
+MD	617605	Strada Viilor	living_street	123	6	137	
+MD	617605	Strada Pădurilor	residential	117	3	78	
+MD	617605	Strada Tinereții	living_street	116	6	158	
+MD	617633	Strada Mihai Eminescu	residential	352	7	117	
+MD	617633	Strada Nistreană	residential	251	4	82	
+MD	617633	Strada Ștefan cel Mare și Sfînt		205	11	202	
+MD	617633	Strada Tineretului	residential	186	5	69	
+MD	617633	Strada Frații Dumitrașcu	residential	170	5	83	
+MD	617633	Strada Academicianul Ghidirim	residential	132	4	76	
+MD	617633	Strada Livezilor	residential	128	4	77	
+MD	617633	Strada Cetatea Albă	residential	121	5	63	
+MD	617633	Strada Ion Creangă	residential	115	7	132	
+MD	617633	Strada Ion Palancean	residential	115	6	112	
+MD	617633	Strada Doina	residential	93	3	45	
+MD	617633	Strada Păcii	residential	92	3	66	
+MD	617638	Strada Vasile Lupu	residential	675	6	271	
+MD	617638	Strada Mihai Eminescu	residential	363	1	66	
+MD	617638	Strada Constantin Negruzzi	residential	237	4	135	
+MD	617638	Strada Tineretului	residential	228	2	67	
+MD	617638	Strada Serghei Lazo	residential	223	3	118	
+MD	617638	Strada Unirii	residential	222	3	144	
+MD	617638	Strada 31 August 1989	primary	217	5	185	
+MD	617638	Strada Ștefan cel Mare	residential	204	4	104	
+MD	617638	Strada Mihail Frunze	residential	198	3	91	
+MD	617638	Strada Livezilor	residential	193	3	105	
+MD	617638	Strada Eliberării	tertiary	187	6	194	
+MD	617638	Strada Ivan Miciurin	residential	175	9	212	
+MD	617638	Strada Trandafirilor	residential	174	2	54	
+MD	617638	Strada Ștefan cel Mare și Sfînt	residential	173	2	85	
+MD	617638	Strada Păcii	residential	169	2	61	
+MD	617638	Strada Dimitrie Cantemir	residential	161	2	38	
+MD	617638	Strada Vasile Mahu	residential	161	9	150	
+MD	617638	Strada Nicolae Dimo	residential	132	4	132	
+MD	617638	Strada Dorobanți	residential	116	6	144	
+MD	617638	Strada Ion Creangă	residential	115	1	30	
+MD	617638	Strada Ion Pelivan	residential	111	3	50	
+MD	617638	Strada Tudose Roman	residential	110	3	84	
+MD	617638	Strada Vasile Alecsandri	residential	103	2	28	
+MD	617638	Strada Scrisului Latin	residential	100	2	94	
+MD	617638	Strada Iuri Gagarin	residential	98	2	72	
+MD	617638	Strada Alexandru Donici	residential	97	2	33	
+MD	617638	Strada Haiducul Grozescu	residential	97	5	111	
+MD	617638	Strada Ion Neculce	residential	90	4	109	
+MD	617638	Strada Tricolorului	residential	89	5	88	
+MD	617638	Strada Șipotelor	residential	88	3	95	
+MD	617638	Strada Luceafărul	residential	86	2	39	
+MD	617638	Strada Florilor	residential	85	2	30	
+MD	617638	Strada Codrilor	residential	84	3	83	
+MD	617638	Strada Condrița	residential	84	5	80	
+MD	617638	Strada Nucarilor	residential	83	2	28	
+MD	617638	Strada Răzeșilor	residential	76	2	60	
+MD	617638	Strada Alunița	residential	74	4	71	
+MD	617638	Strada Iona Iakir	residential	74	3	51	
+MD	617638	Strada Renașterii	residential	74	3	50	
+MD	617638	Strada Constantin Stamati	residential	73	3	77	
+MD	617638	Strada Mihai Viteazul	residential	73	2	54	
+MD	617638	Strada Costișei	residential	72	4	93	
+MD	617638	Strada Ion Soltîs	residential	71	2	63	
+MD	617638	Strada Mihail Sadoveanu	tertiary	70	2	36	
+MD	617638	Strada Lăutarilor	residential	69	3	48	
+MD	617638	Strada Norocului	residential	68	4	66	
+MD	617638	Strada Frații Iulian	residential	65	10	74	
+MD	617638	Strada Meșterul Manole	living_street	65	2	62	
+MD	617659	Strada Ștefan cel Mare și Sfânt	living_street	572	6	139	
+MD	617659	Strada Independenței	residential	405	5	138	
+MD	617659	Strada 50 ani ai Biruinței	tertiary	376	4	184	
+MD	617659	Strada Luceafărul	residential	277	2	98	
+MD	617659	Strada Alexandr Pușkin	residential	256	3	102	
+MD	617659	Strada Livezilor	residential	232	2	91	
+MD	617659	Strada Mihai Viteazul	residential	222	4	88	
+MD	617659	Strada Iurii Gagarin	residential	213	4	103	
+MD	617659	Strada Constantin Stamati	residential	204	2	42	
+MD	617659	Strada Ion Creangă	residential	199	2	43	
+MD	617659	Strada Libertății	residential	199	2	55	
+MD	617659	Strada Vasile Alecsandri	residential	198	2	199	
+MD	617659	Strada Mihai Eminescu	residential	193	2	47	
+MD	617659	Strada Burebista	residential	185	3	61	
+MD	617659	Strada Trandafirilor	residential	177	2	106	
+MD	617659	Strada Mareșalului Malinovski	residential	162	5	86	
+MD	617659	Strada Alexei Mateevici	residential	157	2	104	
+MD	617659	Strada Păcii	residential	144	2	54	
+MD	617659	Strada Alexandru cel Bun	residential	140	2	102	
+MD	617659	Strada Doina	residential	135	2	99	
+MD	617659	Strada Tineretului	residential	131	2	35	
+MD	617659	Strada Unirii	residential	128	2	42	
+MD	617659	Strada Decebal	residential	120	2	89	
+MD	617659	Strada 1 Mai	residential	116	3	66	
+MD	617660	Strada Mărginașilor	living_street	114	6	116	
+MD	617660	Strada Independenței	residential	88	6	122	
+MD	617660	Strada Izvoarelor	residential	79	4	52	
+MD	617660	Strada Sfânta Maria	residential	68	4	77	
+MD	617660	Strada Speranței	residential	67	7	87	
+MD	617660	Strada Veaceslav Gonța	residential	67	4	84	
+MD	617660	Strada Grigore Vieru	residential	66	4	92	
+MD	617660	Strada Florilor	residential	58	2	52	
+MD	617660	Strada Trandafirilor	residential	58	5	81	
+MD	617660	Strada Viilor	living_street	39	2	46	
+MD	617660	Strada Unirii	residential	36	2	45	
+MD	617660	Strada Nistrului	residential	27	2	27	
+MD	617702	Strada Păcii	residential	374	2	92	
+MD	617702	Strada Tineretului	living_street	236	3	81	
+MD	617702	Strada Livezilor	living_street	212	2	43	
+MD	617702	Strada Mihai Eminescu	residential	199	4	105	
+MD	617702	Strada Alexandr Suvorov	residential	177	1	129	
+MD	617702	Strada Chișinăului	tertiary	173	6	85	
+MD	617702	Strada Ion Creangă	residential	172	2	80	
+MD	617702	Strada Octombrie	tertiary	161	4	128	
+MD	617702	Strada Tighina	tertiary	160	2	142	
+MD	617702	Strada Victoriei	residential	145	2	94	
+MD	617702	Strada Ștefan cel Mare și Sfînt	living_street	145	6	110	
+MD	617702	Strada Viilor	residential	138	1	32	
+MD	617702	Strada Chișinău	living_street	130	4	73	
+MD	617702	Strada Dacia	residential	110	2	71	
+MD	617702	Strada Alexandr Pușkin	residential	103	3	65	
+MD	617702	Strada Ștefan cel Mare și Sfânt	secondary	99	3	60	
+MD	617702	Strada Florilor	living_street	92	2	44	
+MD	617702	Strada 31 August 1989	residential	90	2	39	
+MD	617702	Strada Bogdan Petriceicu Hașdeu	residential	90	2	70	
+MD	617702	Strada Concelierii Naționale	tertiary	90	1	43	
+MD	617702	Strada Iuri Gagarin	residential	78	2	42	
+MD	617702	Strada Dimitrie Cantemir	residential	77	2	41	
+MD	617702	Strada Ivan Miciurin	residential	76	4	67	
+MD	617702	Strada Alexandru Donici	residential	71	2	27	
+MD	617753	Strada Alexandru cel Bun	residential	544	1	194	
+MD	617753	Strada Viilor	residential	420	5	154	
+MD	617753	Strada Suveranității	tertiary	308	4	70	
+MD	617753	Strada Dacia	residential	268	3	80	
+MD	617753	Strada Ion Creangă	residential	258	2	71	
+MD	617753	Strada Ștefan cel Mare și Sfînt		256	8	114	
+MD	617753	Strada Mihai Eminescu	residential	251	2	71	
+MD	617753	Strada Sfîntul Petru	residential	214	10	106	
+MD	617753	Strada Dimitrie Cantemir	residential	208	5	99	
+MD	617753	Strada Trandafirilor	residential	198	3	62	
+MD	617753	Strada Industrială	residential	196	5	86	
+MD	617753	Strada Victoriei	residential	193	2	79	
+MD	617753	Strada 31 August 1989	residential	184	7	91	
+MD	617753	Strada Tineretului	residential	181	3	82	
+MD	617753	Strada Petru Movilă	residential	173	4	86	
+MD	617753	Strada 1 Mai	residential	169	5	72	
+MD	617753	Strada Mihai Viteazul	residential	168	3	65	
+MD	617753	Strada Păcii	residential	168	1	64	
+MD	617753	Strada Chișinău	tertiary	163	2	114	
+MD	617753	Strada Cristeștilor	residential	163	5	90	
+MD	617753	Strada Toma Ciorbă	residential	154	1	90	
+MD	617753	Strada Vasile Alecsandri	residential	144	3	66	
+MD	617753	Strada Ioan Vodă cel Viteaz	residential	139	5	62	
+MD	617753	Strada Lăpușnița	residential	134	5	68	
+MD	617763	улица Ленина	residential	53	129	276	Lenina Street
+MD	617763	улица Мичурина	residential	26	92	167	Michurina Street
+MD	617763	улица Карла Маркса	residential	8	48	220	Karla Marksa Street
+MD	617763	улица Мира	residential	8	33	47	Mira Street
+MD	617763	Речная улица	residential	4	1	7	
+MD	617763	улица Некрасова	residential	3	1	5	Nekrasova Street
+MD	617763	Strada Mihail Frunze	residential	2	3	7	
+MD	617763	Лиманный переулок	residential	2	1	3	Limannyy Lane
+MD	617763	1-й переулок Сергея Лазо	residential	1	0	0	
+MD	617763	2-й переулок Горького	residential	1	0	0	
+MD	617763	2-й переулок Сергея Лазо	residential	1	0	0	
+MD	617763	Strada Alexandru Donici	residential	1	0	0	
+MD	617778	Strada Mihai Eminescu	residential	74	2	63	
+MD	617778	Strada Dacia	living_street	72	4	81	
+MD	617778	Strada Ștefan cel Mare și Sfînt		72	4	69	
+MD	617778	Strada Ștefan cel Mare și Sfânt	residential	68	2	54	
+MD	617778	Strada Recea	residential	43	3	48	
+MD	617778	Strada Colonel Mihalachi Grecu	residential	39	3	64	
+MD	617778	Strada Grigore Malcoci		36	2	42	
+MD	617778	Strada Silvia Șuiu	residential	31	2	41	
+MD	617778	Strada Biserica Albă	residential	30	2	33	
+MD	617778	Strada Grigore Vieru		27	2	37	
+MD	617778	Strada Independenței		27	2	34	
+MD	617778	Strada Viilor	residential	26	1	19	
+MD	617778	Strada Emanoil Catelli		23	2	25	
+MD	617778	Strada Răzeșilor	residential	23	2	30	
+MD	617778	Strada Tudor Lefter		22	2	24	
+MD	617778	Strada Florilor	residential	21	2	20	
+MD	617778	Strada Drumul Târgului	residential	19	1	30	
+MD	617778	Strada Ion Creangă	residential	19	1	20	
+MD	617778	Strada Nicolae Marinescu		17	1	19	
+MD	617778	Strada Pădurea Ciolacu	residential	16	1	68	
+MD	617778	Strada Salcâmilor	residential	16	1	19	
+MD	617778	Strada Horelor	residential	15	1	16	
+MD	617778	Strada Ion Casian		15	2	16	
+MD	617778	Strada Dimitrie Cantemir		13	1	21	
+MD	617823	Strada Ștefan cel Mare și Sfînt	residential	409	6	156	
+MD	617823	Strada Păcii	residential	360	7	367	
+MD	617823	Strada Chișinău	living_street	234	2	93	
+MD	617823	Strada Tineretului	residential	200	3	46	
+MD	617823	Strada 31 August 1989	residential	181	2	74	
+MD	617823	Strada Mihai Eminescu	living_street	156	2	89	
+MD	617823	Strada Mihail Frunze	tertiary	140	2	39	
+MD	617823	Strada Independenței	residential	126	3	74	
+MD	617823	Strada Livezilor	residential	122	2	43	
+MD	617823	Strada Iuri Gagarin	residential	97	3	85	
+MD	617823	Strada Entuziaștilor	living_street	96	1	66	
+MD	617823	Strada Prieteniei	residential	93	2	39	
+MD	617830	улица Гагарина	residential	15	1	50	
+MD	617830	улица Мира	residential	11	1	24	Mira Street
+MD	617830	улица Ленина	residential	4	31	34	Lenina Street
+MD	617830	L363-Гыртоп-Дороцкое	tertiary	1	0	0	
+MD	617830	Григориополь - Карманово	tertiary	1	0	0	Grigoriopol - Karmanovo
+MD	617830	Комсомольская улица	residential	1	0	0	
+MD	617830	Молодёжная улица	residential	1	0	0	Molodyozhnaya Street
+MD	617830	Новая Лунга-Боска	tertiary	1	0	0	
+MD	617830	Подъезд к городу Григориополь	tertiary	1	0	0	
+MD	617830	Подъезд к городу Маяк	tertiary	1	0	0	
+MD	617830	Садовая улица	tertiary	1	0	0	Sadovaya Street
+MD	617830	улица Колесниченко	tertiary	1	0	0	
+MD	617837	Strada Alexandru cel Bun	residential	143	3	100	
+MD	617837	Strada Renașterii	residential	132	3	129	
+MD	617837	Strada Mihai Eminescu	residential	128	3	140	
+MD	617837	Strada Ștefan cel Mare și Sfânt		115	4	92	
+MD	617837	Strada Ștefan cel Mare și Sfînt	residential	113	7	170	
+MD	617837	Strada Păcii	residential	95	2	47	
+MD	617837	Strada Mihail Sadoveanu	tertiary	73	4	79	
+MD	617837	Strada Alexei Mateevici	residential	71	2	63	
+MD	617837	Strada Independenței	residential	61	4	89	
+MD	617837	Strada Dacia	residential	51	1	21	
+MD	617837	Strada 31 August 1989	residential	48	1	32	
+MD	617837	Strada Alexandr Pușkin	residential	47	3	48	
+MD	617904	Strada Independenței	tertiary	285	3	60	
+MD	617904	Strada Unirii	residential	259	6	124	
+MD	617904	Strada Mihai Eminescu	residential	182	4	113	
+MD	617904	Strada Ștefan cel Mare și Sfînt		177	7	147	
+MD	617904	Strada Ștefan cel Mare și Sfânt	residential	164	3	90	
+MD	617904	Strada Doina	residential	141	3	77	
+MD	617904	Strada 31 August 1989	residential	125	2	128	
+MD	617904	Strada Tigheceanului	residential	125	10	128	
+MD	617904	Strada Decebal	residential	110	2	41	
+MD	617904	Strada Vasile Alecsandri	residential	99	3	65	
+MD	617904	Strada Cahul	primary	97	1	23	
+MD	617904	Strada Tineretului	residential	96	2	33	
+MD	617904	Strada Dimitrie Cantemir	residential	83	3	57	
+MD	617904	Strada Matei Basarab	residential	83	5	78	
+MD	617904	Strada Ion Aldea-Teodorovici		67	2	47	
+MD	617904	Strada Trandafirilor	residential	66	2	48	
+MD	617904	Strada Victoriei	residential	66	2	25	
+MD	617904	Strada Cîmpiilor		64	4	79	
+MD	617904	Strada Mihai Viteazul	residential	63	4	51	
+MD	617904	Strada Frumușica	residential	62	4	65	
+MD	617904	Strada Horelor	residential	61	4	46	
+MD	617904	Strada Prieteniei	residential	60	2	52	
+MD	617904	Strada Dmitri Mendeleev	residential	59	3	59	
+MD	617904	Strada Bucuria	residential	58	3	82	
+MD	617914	Strada Independenței	residential	413	7	218	
+MD	617914	Strada Ștefan cel Mare și Sfânt	primary	222	11	126	
+MD	617914	Strada Mihai Eminescu	residential	165	3	84	
+MD	617914	Strada Păcii	residential	151	2	97	
+MD	617914	Strada Nikolai Gogol	residential	119	3	80	
+MD	617914	Strada Alexandru cel Bun	residential	115	3	69	
+MD	617914	Strada Vasile Alecsandri	residential	115	2	83	
+MD	617914	Strada Tineretului	residential	110	2	63	
+MD	617914	Strada Ciuluc	residential	107	3	90	
+MD	617914	Strada Serghei Lazo	residential	107	3	52	
+MD	617914	Strada Codrilor	residential	100	2	43	
+MD	617914	Strada Ștefan cel Mare și Sfînt	residential	100	3	101	
+MD	617914	Strada Nicolae Testemițanu	tertiary	99	3	122	
+MD	617914	Strada Alexandru Lăpușneanu	residential	96	3	51	
+MD	617914	Strada Viilor	residential	86	2	38	
+MD	617914	Strada Trandafirilor	residential	83	2	60	
+MD	617914	Strada Alexandru Hâjdeu	residential	82	3	70	
+MD	617914	Strada Alexei Mateevici	residential	76	4	80	
+MD	617914	Strada Chișinău	residential	76	3	62	
+MD	617914	Strada Victoriei	residential	73	5	73	
+MD	617914	Strada Dimitrie Cantemir	residential	71	3	69	
+MD	617914	Strada Mihai Viteazul	residential	69	4	47	
+MD	617914	Strada Ion Creangă	residential	66	1	37	
+MD	617914	Strada Livezilor	residential	66	1	34	
+MD	617926	Strada Ulița Mare	primary	309	13	306	
+MD	617926	Strada Ștefan cel Mare	primary	261	8	126	
+MD	617926	Strada Tineretului	residential	161	4	117	
+MD	617926	Strada 31 August	residential	98	5	106	
+MD	617926	Strada Vasile Alecsandri	residential	95	3	51	
+MD	617926	Strada Mihai Eminescu	residential	92	3	63	
+MD	617926	Strada Nicolai Trifan		79	4	88	
+MD	617926	Strada Miorița	residential	78	4	88	
+MD	617926	Strada Sportivilor	residential	67	4	85	
+MD	617926	Strada Vasile Pocoi	residential	63	4	65	
+MD	617926	Strada Fîntînilor	residential	62	4	93	
+MD	617926	Strada Independenței	residential	61	4	59	
+MD	617965	Strada Chișinău	residential	235	10	120	
+MD	617965	Strada Mihai Eminescu	residential	220	2	107	
+MD	617965	Strada Păcii	residential	194	4	105	
+MD	617965	Strada Ion Creangă	living_street	177	2	46	
+MD	617965	Strada Vasile Alecsandri	living_street	167	3	44	
+MD	617965	Strada Miorița	living_street	147	3	108	
+MD	617965	Strada Alexei Mateevici	living_street	138	2	45	
+MD	617965	Strada Ștefan cel Mare și Sfânt	residential	124	2	156	
+MD	617965	Strada Ștefan cel Mare		110	10	162	
+MD	617965	Strada Mihail Frunze	living_street	93	5	77	
+MD	617965	Strada Dimitrie Cantemir	living_street	82	1	45	
+MD	617965	Strada Constantin Negruzzi	living_street	80	3	40	
+MD	617965	Strada Sfîntul Dumitru	residential	79	4	66	
+MD	617965	Strada Livezilor	living_street	78	3	61	
+MD	617965	Strada Vilan		77	30	271	
+MD	617965	Strada 31 August 1989	tertiary	69	2	17	
+MD	617965	Strada Teiului	living_street	69	2	36	
+MD	617965	Strada Alexandru cel Bun	living_street	65	1	28	
+MD	617965	Strada Mihai Viteazul	living_street	64	2	41	
+MD	617965	Strada Renașterii	living_street	60	2	56	
+MD	617965	Strada Decebal	living_street	59	1	37	
+MD	617965	Strada Tineretului	living_street	58	2	43	
+MD	617965	Strada Petru Ungureanu	residential	50	1	60	
+MD	617965	Strada Drumul Viilor	living_street	45	5	143	
+MD	617973	улица Горького	residential	29	2	60	Gorkogo Street
+MD	617973	улица 40 лет Октября	primary	25	3	21	40 let Oktyabrya Street
+MD	617973	улица 8 Марта	residential	21	8	41	8 Marta Street
+MD	617973	улица Мира	residential	20	8	199	Mira Street
+MD	617973	Мира		17	15	93	
+MD	617973	улица Сергея Лазо	residential	17	1	89	Sergeya Lazo Street
+MD	617973	Комсомольская улица	residential	15	2	30	Komsomolskaya Street
+MD	617973	улица Некрасова	residential	13	28	75	Nekrasova Street
+MD	617973	улица Суворова	residential	13	39	60	Suvorova Street
+MD	617973	улица Фрунзе	residential	11	52	101	Frunze Street
+MD	617973	Рабочая улица	residential	10	1	12	Rabochaya Street
+MD	617973	улица Котовского	residential	10	1	123	Kotovskogo Street
+MD	617993	Strada Mihai Eminescu	residential	461	3	159	
+MD	617993	Strada Mihalcea Hîncu	tertiary	454	9	211	
+MD	617993	Strada Alexandru cel Bun	residential	348	6	229	
+MD	617993	Strada Ion Creangă	residential	335	5	168	
+MD	617993	Strada Livezilor	residential	195	3	134	
+MD	617993	Strada Chișinău	primary	194	3	70	
+MD	617993	Strada 31 August 1989	primary	182	3	101	
+MD	617993	Strada Comisarul Mihai Moraru	residential	164	9	103	
+MD	617993	Alexandru cel Bun		159	8	235	
+MD	617993	Strada Grigore Vieru	residential	154	2	65	
+MD	617993	Strada Ștefan-Vodă	tertiary	150	6	147	
+MD	617993	Strada Mihai Viteazul	residential	148	2	49	
+MD	617993	Strada Maria Drăgan	residential	146	5	75	
+MD	617993	Strada Serghei Lazo	residential	139	4	97	
+MD	617993	Strada Unirii	residential	131	12	168	
+MD	617993	Strada Ștefan cel Mare și Sfânt	tertiary	123	3	123	
+MD	617993	Strada Industrială	residential	118	1	20	
+MD	617993	Gura Cotului		115	6	84	
+MD	617993	Strada Șleahul Mereșenilor	tertiary	113	3	79	
+MD	617993	Strada Gura Cotului	residential	110	6	84	
+MD	617993	Strada Renașterii	residential	107	4	84	
+MD	617993	Ion Creanga		105	61	178	
+MD	617993	Mihai Eminescu		99	23	118	
+MD	617993	Strada Codrilor	residential	99	3	98	
+MD	617993	Strada Alexandru Marinescu	residential	97	2	53	
+MD	617993	stefan Voda		97	8	151	
+MD	617993	serghei Lazo		94	26	105	
+MD	617993	sliahul Meresenilor		86	17	79	
+MD	617993	Strada Vasile Alecsandri	residential	82	2	58	
+MD	617993	Strada Alexandru Lăpușneanu	residential	81	1	41	
+MD	617993	Strada Ion Vatamanu	residential	81	5	94	
+MD	617993	Strada Nicolae Testemițanu	residential	81	3	47	
+MD	617993	Strada Vasile Lupu	residential	80	2	56	
+MD	617993	Strada Nicolae Milescu Spătarul	residential	77	3	39	
+MD	617993	Strada Valea Gălbeniței	residential	77	4	78	
+MD	617993	Strada Plugușorul	residential	76	4	61	
+MD	617993	Strada Tineretului	residential	74	3	60	
+MD	617993	Strada Pantelimon Halippa	residential	73	4	99	
+MD	617993	Ion Fulga		67	4	58	
+MD	617993	Mihai Moraru		66	8	100	
+MD	617993	Maria Dragan		65	15	77	
+MD	617993	Strada Izvoarelor	residential	65	2	62	
+MD	617993	Codrilor		64	2	84	
+MD	617993	Strada Ion Fulga	residential	64	4	56	
+MD	617993	Strada George Enescu	residential	62	4	87	
+MD	617993	Strada Petru Zadnipru	residential	62	2	42	
+MD	617993	Strada Păcii	residential	61	2	58	
+MD	617993	Strada Teilor	residential	58	1	25	
+MD	618054	Strada Costiujeni		267	1	78	
+MD	618054	Strada Schinoasa-Deal	living_street	233	8	82	
+MD	618054	Strada Schinoasa-Vale	living_street	232	5	76	
+MD	618054	Strada Prepeliței	residential	228	1	78	
+MD	618054	Strada Drumul Schinoasei	living_street	214	5	138	
+MD	618054	Strada Livădarilor	residential	214	4	241	
+MD	618054	Strada Sihastrului		214	6	84	
+MD	618054	Strada Potîrnichii		191	3	83	
+MD	618054	Strada Grenoble		183	120	196	
+MD	618054	Strada Izvoarelor	residential	176	10	135	
+MD	618054	Strada Sitarului	residential	147	1	27	
+MD	618054	Strada Sfîntul Nicolae		116	2	101	
+MD	618054	Strada Cobzarilor	residential	108	9	144	
+MD	618054	Strada Sfîntul Gheorghe		99	3	99	
+MD	618054	Strada Soarelui		85	89	198	
+MD	618054	Strada Schinoasa Deal		83	53	88	
+MD	618054	Strada Sergiu Rădăuțanu	living_street	80	2	38	
+MD	618054	Stradela 8 Cobzarilor	residential	78	2	60	
+MD	618054	Strada Anton Ablov		70	2	41	
+MD	618054	Strada Bujorilor		70	7	59	
+MD	618054	Strada Jubiliară		68	3	43	
+MD	618054	Strada Câmpului		67	3	57	
+MD	618054	Strada Puhoi		52	41	56	
+MD	618054	Strada Dumbravei		51	3	52	
+MD	618054	Strada Vierul		51	40	59	
+MD	618054	Stradela 2 Schinoasa-Deal	living_street	50	4	57	
+MD	618054	Strada Miorița	residential	47	3	54	
+MD	618054	Strada Sfîntul Ștefan		46	3	41	
+MD	618054	Strada Haiducilor		45	2	44	
+MD	618054	Strada Busuiocului		44	2	36	
+MD	618054	Stradela 1 Colinei	residential	44	2	29	
+MD	618054	Stradela 5 Bujorilor		44	3	46	
+MD	618054	Strada Sfîntul Vasile		43	5	43	
+MD	618054	Stradela 1 Sitarului	residential	42	2	21	
+MD	618054	Stradela 3 Drumul Schinoasei	living_street	42	2	41	
+MD	618054	Stradela 2 Colinei	residential	40	1	19	
+MD	618054	Strada Andrei Vînaru	living_street	39	2	34	
+MD	618054	Strada Plaiului		39	1	24	
+MD	618054	Stradela 2 Sitarului	residential	39	3	22	
+MD	618054	Strada Sfântul Petru		38	1	23	
+MD	618054	Strada Schinoasa-Nouă		36	2	34	
+MD	618054	Stradela 1 Izvoarelor		36	3	37	
+MD	618054	Stradela 4 Valea Apelor		36	1	18	
+MD	618054	Strada 31 August 1989	living_street	34	3	32	
+MD	618054	Strada Schinoasa Vale		34	52	82	
+MD	618054	Strada Valea Apelor		34	1	87	
+MD	618054	Stradela 3 Sitarului	residential	32	2	24	
+MD	618054	Strada Toma Ciorbă	living_street	31	2	24	
+MD	618057	Цветочная улица	residential	47	2	48	Tsvetochnaya Street
+MD	618057	Strada Ţărmului	tertiary	45	1	13	
+MD	618057	Набережный переулок	residential	41	8	27	
+MD	618057	Лесная улица	residential	31	3	33	Lesnaya Street
+MD	618057	улица Молдовы	residential	29	1	51	Moldovy Street
+MD	618057	Весенняя улица	residential	27	2	29	
+MD	618057	Набережная улица		23	3	31	
+MD	618057	улица Чекистов	residential	21	2	22	Chekistov Street
+MD	618057	Strada Renașterii	tertiary	20	49	108	
+MD	618057	Зелёная улица	residential	16	1	26	Zelyonaya Street
+MD	618057	Радужная улица	residential	14	1	18	Raduzhnaya Street
+MD	618057	Strada Izvoarelor		10	38	57	
+MD	618067	улица Котовского	residential	194	11	232	Kotovskogo Street
+MD	618067	улица 50 лет Октября	residential	155	8	217	50 let Oktyabrya Street
+MD	618067	Комсомольская улица	tertiary	152	22	191	Komsomolskaya Street
+MD	618067	Советская улица	residential	144	8	182	Sovetskaya Street
+MD	618067	улица Ткаченко	residential	131	6	148	Tkachenko Street
+MD	618067	улица Фадеева	residential	128	4	118	Fadeyeva Street
+MD	618067	Первомайская улица	residential	92	3	106	Pervomayskaya Street
+MD	618067	улица Молодогвардейцев	residential	70	3	79	Molodogvardeytsev Street
+MD	618067	Днестровская улица		61	3	76	
+MD	618067	улица Свердлова	residential	59	3	109	Sverdlova Street
+MD	618067	улица Щорса	residential	52	3	100	Shchorsa Street
+MD	618067	улица Кулябина	residential	51	3	58	Kulyabina Street
+MD	618067	Депутатская улица	residential	49	3	115	Deputatskaya Lane
+MD	618067	Strada Alexandru cel Bun	secondary	48	2	41	
+MD	618067	улица Калинина	residential	46	4	54	Kalinina Street
+MD	618067	улица Зелинского	residential	45	4	71	Zelinskogo Street
+MD	618067	улица Комарова	residential	40	2	50	Komarova Street
+MD	618067	улица Ленина	secondary	39	2	173	Lenina Street
+MD	618067	улица 40 лет Октября	residential	38	3	50	40 let Oktyabrya Street
+MD	618067	улица Чкалова	residential	38	1	47	Chkalova Street
+MD	618067	улица Лермонтова	residential	37	2	59	Lermontova Street
+MD	618067	улица Мира	residential	36	1	30	Mira Street
+MD	618067	улица Пушкина	residential	36	2	39	Pushkina Street
+MD	618067	улица Шарохина	residential	36	2	32	Sharokhin Street
+MD	618120	Strada Ștefan cel Mare și Sfînt		513	12	275	
+MD	618120	Strada Alexei Mateevici	tertiary	257	5	174	
+MD	618120	Strada Păcii	residential	210	4	135	
+MD	618120	Strada Mitropolit Varlaam	residential	168	9	224	
+MD	618120	Strada Dimitrie Cantemir	residential	159	4	142	
+MD	618120	Strada Ștefan cel Mare și Sfânt	residential	159	7	209	
+MD	618120	Strada 31 August 1989	residential	151	7	146	
+MD	618120	Șoseaua Tighina	primary	126	3	110	
+MD	618120	Strada Alba-Iulia	tertiary	122	1	85	
+MD	618120	Strada Alexandr Pușkin	residential	107	6	97	
+MD	618120	Strada Ion Creangă	residential	105	2	100	
+MD	618120	Strada Miron Costin	residential	105	3	58	
+MD	618120	Bulevardul Mihai Eminescu	tertiary	103	5	49	
+MD	618120	Strada Traian		101	6	103	
+MD	618120	Strada Mihai Viteazul	residential	100	3	58	
+MD	618120	Strada Burebista	residential	98	5	96	
+MD	618120	Strada Serghei Lazo	residential	96	3	182	
+MD	618120	Strada Calea Brezoaei	residential	95	26	126	
+MD	618120	Strada Bogdan-Vodă		92	4	90	
+MD	618120	Strada Petru Rareș	residential	92	5	96	
+MD	618120	Strada Ciocana	residential	91	4	80	
+MD	618120	Strada Decebal	residential	90	5	91	
+MD	618120	Strada Vasile Lupu	residential	90	4	85	
+MD	618120	Strada Pietre Vechi	residential	82	6	77	
+MD	618120	Strada Eugen Doga	residential	80	2	73	
+MD	618120	Strada Visarion Belinski		80	3	79	
+MD	618120	Strada Fîntînilor		79	2	75	
+MD	618120	Strada Mihail Frunze	secondary	79	4	75	
+MD	618120	Strada Letea	residential	75	4	84	
+MD	618120	Strada Alba Iulia		69	3	35	
+MD	618120	Strada Mihai Eminescu	secondary	69	4	66	
+MD	618120	Strada Iuri Gagarin	tertiary	66	20	107	
+MD	618120	Strada Vasile Alecsandri	residential	66	2	58	
+MD	618120	Strada Mira		65	4	72	
+MD	618120	Strada Alexandru cel Bun	residential	64	101	164	
+MD	618120	Strada Unirii	residential	64	1	32	
+MD	618120	Strada Nadejda Neaga	residential	62	4	70	
+MD	618120	Strada Trei Fîntîni	residential	62	4	64	
+MD	618120	Strada Renașterii	residential	58	3	68	
+MD	618120	Strada Anatol Roșca	residential	55	21	81	
+MD	618120	Strada Dacia	residential	54	3	50	
+MD	618120	Strada Miorița	residential	53	3	55	
+MD	618120	Strada Constantin Stamati	residential	50	3	47	
+MD	618120	Strada Dumitru Burac	residential	48	3	58	
+MD	618120	Strada Independenței	residential	48	3	63	
+MD	618120	Strada Frunza Nucului	residential	47	3	57	
+MD	618120	Strada Livezilor	residential	47	3	44	
+MD	618120	Strada Alexandru Donici	residential	45	2	36	
+MD	618196	Strada Alexandru cel Bun	secondary	576	2	92	
+MD	618196	Strada Ștefan cel Mare și Sfânt	secondary	343	3	84	
+MD	618196	Strada Mihai Viteazul	living_street	246	1	94	
+MD	618196	Strada Iuri Gagarin	secondary	195	1	58	
+MD	618196	Strada Mihai Eminescu	living_street	165	2	76	
+MD	618196	Strada Ion Creangă	residential	141	2	72	
+MD	618196	Strada 31 August 1989	living_street	138	2	41	
+MD	618196	Strada Dacia	living_street	136	2	41	
+MD	618196	Strada Nucarilor	living_street	134	3	91	
+MD	618196	Strada Grigore Vieru	secondary	125	3	31	
+MD	618196	Strada Florilor	living_street	121	2	32	
+MD	618196	Strada Grădinilor	living_street	119	1	62	
+MD	618196	Strada Moldova	tertiary	117	1	87	
+MD	618196	Strada Independenței	secondary	115	2	51	
+MD	618196	Strada Veniamin Zarzăr	living_street	115	4	85	
+MD	618196	Strada Tudor Ciorescu	tertiary	112	5	86	
+MD	618196	Șoseaua Hîncești		106	2	378	
+MD	618196	Strada Ştefan cel Mare şi Sfânt		104	6	114	
+MD	618196	Strada Decebal	living_street	103	2	54	
+MD	618196	Strada Nicolae Bălcescu	living_street	102	6	99	
+MD	618196	Strada Alexandru Hâjdeu	living_street	95	2	47	
+MD	618196	Strada Merilor	living_street	93	5	91	
+MD	618196	Strada Alexei Mateevici	living_street	91	2	35	
+MD	618196	Strada Basarabia	tertiary	90	1	23	
+MD	618234	Strada Ștefan cel Mare și Sfânt	residential	98	3	73	
+MD	618234	Strada Nistrului	living_street	82	5	113	
+MD	618234	Strada Mihai Viteazul	residential	77	4	88	
+MD	618234	Strada Ion Creangă	residential	76	2	85	
+MD	618234	Strada Alexandru cel Bun	residential	67	4	80	
+MD	618234	Strada Nistreană	living_street	50	3	51	
+MD	618234	Strada Alexandru Lăpușneanu	residential	38	2	53	
+MD	618234	Strada Victoriei	residential	38	1	35	
+MD	618234	Strada Alexandru Plămădeală	living_street	37	2	41	
+MD	618234	Strada Viilor	living_street	37	1	23	
+MD	618234	Strada Lăutarilor	residential	31	2	30	
+MD	618234	Strada Porumbeilor	residential	31	2	30	
+MD	618234	Strada Alexandru Donici	residential	30	1	28	
+MD	618234	Strada Nucarilor	residential	30	2	37	
+MD	618234	улица Ленина	residential	30	1	105	Lenina Street
+MD	618234	Strada Centrală	residential	29	2	34	
+MD	618234	Strada Sportului	residential	29	2	33	
+MD	618234	Strada Sălcioara		28	2	50	
+MD	618234	улица Карла Маркса	secondary	28	140	187	Karla Marksa Street
+MD	618234	Strada Constantin Negruzzi	residential	27	2	26	
+MD	618234	Strada Mihai Eminescu	residential	27	2	46	
+MD	618234	Strada 31 August 1989	residential	24	2	23	
+MD	618234	Strada Lalelelor	residential	24	2	24	
+MD	618234	Strada Toma Ciorbă	residential	24	2	27	
+MD	618261	Strada Ștefan cel Mare și Sfînt	residential	459	6	122	
+MD	618261	Strada Păcii	residential	261	4	111	
+MD	618261	Strada Luceafărul	residential	239	3	108	
+MD	618261	Strada Decebal	residential	213	3	64	
+MD	618261	Strada Suveranității	secondary	207	3	82	
+MD	618261	Strada Moldova	residential	192	3	58	
+MD	618261	Strada 31 August 1989	residential	185	3	64	
+MD	618261	Strada Independenței	residential	175	2	69	
+MD	618261	Strada Tineretului	residential	175	3	66	
+MD	618261	Strada Ion Creangă	residential	174	2	100	
+MD	618261	Strada Mitropolit Varlaam	residential	167	5	90	
+MD	618261	Strada Mihai Eminescu	residential	158	2	41	
+MD	618261	Strada Ciprian Porumbescu	residential	153	5	78	
+MD	618261	Strada Constantin Stere	residential	145	2	77	
+MD	618261	Strada Ștefan cel Mare	residential	145	10	144	
+MD	618261	Strada Livezilor	residential	121	2	82	
+MD	618261	Strada Vasile Olaru	residential	119	6	121	
+MD	618261	Strada 300 Ani Glodeni		116	6	110	
+MD	618261	Strada Vasile Lupu	residential	109	2	57	
+MD	618261	Strada Tricolorului	residential	100	2	50	
+MD	618261	Strada Dimitrie Cantemir	residential	95	2	49	
+MD	618261	Strada Andrei Saharov	residential	92	3	70	
+MD	618261	Strada Trandafirilor	residential	91	2	86	
+MD	618261	Strada Vasile Alecsandri	residential	90	2	40	
+MD	618267	Strada Ștefan cel Mare și Sfînt	secondary	211	13	147	
+MD	618267	Strada Ion Creangă	residential	109	4	92	
+MD	618267	Strada Luceafărul	residential	94	5	93	
+MD	618267	Strada Nicolae Testemițanu	residential	93	5	100	
+MD	618267	Strada Independenței		90	5	88	
+MD	618267	Strada Calea Basarabiei	residential	63	4	79	
+MD	618267	Strada Tinereții		62	4	80	
+MD	618267	Strada Podul de Flori	residential	55	3	60	
+MD	618267	Strada Alexandru Donici	residential	49	2	28	
+MD	618267	Strada Mitropolit Dosoftei	living_street	48	2	59	
+MD	618267	Strada Mitropolit Varlaam	residential	48	2	38	
+MD	618267	Strada Păcii		48	3	59	
+MD	618275	Strada Răut	residential	218	4	87	
+MD	618275	Strada Mihai Eminescu	residential	189	2	59	
+MD	618275	Strada Ștefan cel Mare și Sfânt	living_street	162	5	124	
+MD	618275	Strada Ștefan cel Mare și Sfînt	secondary	156	2	80	
+MD	618275	Strada Livezilor	residential	149	3	106	
+MD	618275	Strada Independenței	residential	96	2	86	
+MD	618275	Strada Gării	residential	81	1	111	
+MD	618275	Strada Tinereții	residential	78	3	58	
+MD	618275	Strada Vasile Alecsandri	residential	77	2	51	
+MD	618275	Strada Dimitrie Cantemir	residential	75	1	35	
+MD	618275	Strada Valea Răutului	living_street	74	4	102	
+MD	618275	Strada Ion Creangă	residential	70	1	30	
+MD	618329	Strada Mihai Eminescu	residential	286	5	178	
+MD	618329	Strada Independenței	residential	236	5	126	
+MD	618329	Strada Ștefan cel Mare și Sfînt	residential	200	3	104	
+MD	618329	Strada 31 August 1989	secondary	174	5	103	
+MD	618329	Strada Vasile Alecsandri	residential	168	3	111	
+MD	618329	Strada Decebal	residential	166	5	148	
+MD	618329	Strada Mihai Viteazul	residential	135	1	68	
+MD	618329	Strada Prieteniei	residential	134	2	70	
+MD	618329	Strada Florilor	residential	113	2	81	
+MD	618329	Strada Stâncii		111	6	107	
+MD	618329	Strada Miron Costin	residential	110	2	34	
+MD	618329	Strada Școlii	residential	108	2	65	
+MD	618329	Strada Alexei Mateevici	residential	104	3	99	
+MD	618329	Strada Doina	residential	103	3	110	
+MD	618329	Strada Tineretului	residential	92	3	101	
+MD	618329	Strada Boris Glavan	residential	90	3	52	
+MD	618329	Strada Ion Creangă	residential	89	1	86	
+MD	618329	Bulevardul Victoriei	secondary	85	3	64	
+MD	618329	Strada Izvorului		84	3	52	
+MD	618329	Strada Renașterii	residential	83	2	44	
+MD	618329	Strada Vasile Lupu	secondary	81	5	83	
+MD	618329	Strada Alexandru cel Bun	residential	80	1	92	
+MD	618329	Strada Gheorghe Asachi	residential	78	3	87	
+MD	618329	Strada Alexandru Plămădeală	residential	75	4	72	
+MD	618329	Strada Calea Viilor		72	4	98	
+MD	618329	Strada Maria Cebotari	residential	69	4	88	
+MD	618329	Strada Mihail Kogălniceanu	residential	67	3	66	
+MD	618329	Strada Aviatorul Pavel Beleaev		66	2	90	
+MD	618329	Strada Plaiului	residential	66	2	29	
+MD	618329	Strada Serghei Lazo	residential	64	5	75	
+MD	618329	Strada Păcii	residential	63	1	28	
+MD	618329	Strada Dimitrie Cantemir	residential	62	2	42	
+MD	618329	Strada Pârăului		62	4	61	
+MD	618329	Strada George Coșbuc	residential	61	4	66	
+MD	618329	Strada 9 Mai	residential	57	3	97	
+MD	618329	Strada Bogdan Petriceicu Hașdeu	residential	57	2	51	
+MD	618329	Strada Emilian Bucov	residential	57	2	50	
+MD	618329	Strada Mihail Frunze	residential	57	3	56	
+MD	618329	Strada Alecu Russo	residential	56	3	69	
+MD	618329	Strada Andrei Makarenko		56	3	55	
+MD	618329	Strada Crinilor	residential	56	3	87	
+MD	618329	Strada Pietrarilor	residential	55	3	56	
+MD	618329	Strada Ștefan cel Mare și Sfânt	residential	50	4	50	
+MD	618329	Strada Calea Chișinăului		47	3	46	
+MD	618329	Strada Barbu Lăutaru	residential	45	6	51	
+MD	618329	Strada Răut	residential	44	2	98	
+MD	618329	Strada Serghei Ciobanu	residential	44	2	52	
+MD	618329	Strada Toma Ciorbă	residential	44	2	34	
+MD	618344	Strada Mihai Eminescu	residential	500	1	67	
+MD	618344	Strada Ștefan cel Mare și Sfînt	secondary	422	5	127	
+MD	618344	Strada Ștefan cel Mare și Sfânt	tertiary	341	4	90	
+MD	618344	Strada Independenței	residential	322	4	125	
+MD	618344	Strada Mira	unclassified	215	6	221	
+MD	618344	Strada Ion Creangă	residential	214	2	60	
+MD	618344	Strada Alexei Mateevici	residential	185	6	123	
+MD	618344	Strada Tineretului	residential	178	2	57	
+MD	618344	Strada 31 August 1989	residential	170	3	128	
+MD	618344	Strada 1 Mai	residential	152	2	47	
+MD	618344	Strada Nucilor	residential	148	2	76	
+MD	618344	Strada Lacului	residential	140	2	120	
+MD	618344	Strada Luceafărul	residential	136	2	33	
+MD	618344	Strada Burebista	residential	131	4	113	
+MD	618344	Strada Alexandru cel Bun	residential	116	2	99	
+MD	618344	Strada Mihai Viteazul	residential	116	3	81	
+MD	618344	Strada Florilor	residential	106	2	48	
+MD	618344	Strada Ciprian Porumbescu	residential	100	3	88	
+MD	618344	Strada Nicolae Testemițanu	residential	99	5	104	
+MD	618344	Strada Prieteniei	residential	98	2	37	
+MD	618344	Strada Victoriei	residential	98	1	30	
+MD	618344	Strada Miron Costin	residential	95	1	96	
+MD	618344	Strada Teilor	residential	95	1	28	
+MD	618344	Strada 9 Mai	residential	93	2	35	
+MD	618349	Strada Independenței	primary	107	4	103	
+MD	618349	Strada Serghei Lazo	residential	84	5	88	
+MD	618349	Strada Armata Națională	residential	83	5	89	
+MD	618349	Strada Mihai Eminescu	residential	82	5	88	
+MD	618349	Strada Mihailo Koțiubinski	residential	80	4	77	
+MD	618349	Strada Mihail Sadoveanu	residential	68	4	75	
+MD	618349	Strada Doctor Habilitat Tudor Arnaut	residential	66	4	68	
+MD	618349	Strada Plotnicov		66	3	80	
+MD	618349	Strada Mecanizatorilor	residential	62	4	65	
+MD	618349	Strada Cosmonauților	residential	53	3	62	
+MD	618349	Strada Tineretului	residential	53	2	59	
+MD	618349	Strada Livezilor	residential	50	2	52	
+MD	618356	Strada Tudor Vladimirescu	primary	374	9	119	
+MD	618356	Strada Mihail Sadoveanu	living_street	318	22	150	
+MD	618356	Strada Livezilor	living_street	266	4	162	
+MD	618356	Strada Nicolae Dimo	tertiary	265	3	130	
+MD	618356	Strada 27 August 1989	residential	243	2	110	
+MD	618356	Strada Caucaz	tertiary	222	3	126	
+MD	618356	Strada Ștefan-Vodă	tertiary	211	2	143	
+MD	618356	Strada Cartușa	tertiary	209	6	103	
+MD	618356	Strada Mitropolit Gurie Grosu	secondary	191	3	129	
+MD	618356	Strada Nicolae Gribov	tertiary	181	5	100	
+MD	618356	Strada Trandafirilor	living_street	180	3	60	
+MD	618356	Strada Alexandru Donici	living_street	173	2	66	
+MD	618356	Strada Păcii	residential	173	1	104	
+MD	618356	Strada Mihai Eminescu	living_street	170	4	86	
+MD	618356	Strada Olimpicilor	secondary	170	2	61	
+MD	618356	Strada Decebal	living_street	167	1	105	
+MD	618356	Stradela Codrilor	living_street	128	7	115	
+MD	618356	Strada George Coșbuc	living_street	123	1	63	
+MD	618356	Strada Rezistenței	living_street	123	4	47	
+MD	618356	Strada Viilor	living_street	120	2	70	
+MD	618356	Strada Dimitrie Cantemir	living_street	119	2	43	
+MD	618356	Strada Stejarului	living_street	119	3	74	
+MD	618356	Strada Alexandru cel Bun	tertiary	117	3	56	
+MD	618356	Strada Alexei Mateevici	living_street	111	3	54	
+MD	618356	Strada Boris Zavatin	living_street	109	5	108	
+MD	618356	Strada Calea Unirii	living_street	109	4	66	
+MD	618356	Strada Alexandru Marinescu	living_street	104	5	57	
+MD	618356	Strada Tineretului	living_street	103	3	49	
+MD	618356	Strada Vasile Lupu	living_street	102	2	53	
+MD	618356	Strada Eremei Stratan	living_street	100	3	94	
+MD	618356	Strada Buiucani	living_street	98	1	62	
+MD	618356	Strada Petru Movilă	living_street	95	3	56	
+MD	618356	Strada Vasile Alecsandri	living_street	93	2	73	
+MD	618356	Strada Ștefan cel Mare și Sfânt	residential	91	2	214	
+MD	618356	Strada 31 August 1989	living_street	89	2	79	
+MD	618356	Strada Ion Creangă	living_street	88	1	50	
+MD	618356	Strada Ion Soltîs	living_street	88	2	63	
+MD	618356	Strada Dumbrava	living_street	84	4	106	
+MD	618356	Strada Nicolae Testemițanu	tertiary	84	4	61	
+MD	618356	Strada Junimii	living_street	83	4	47	
+MD	618356	Strada Calea Trușenilor	living_street	82	28	28	
+MD	618356	Strada Sfântul Gheorghe	living_street	81	1	42	
+MD	618356	Strada Moldovița	living_street	77	2	78	
+MD	618356	Strada Durlești	tertiary	76	2	47	
+MD	618356	Strada Victoriei	living_street	74	2	72	
+MD	618356	Strada Burebista	living_street	73	2	40	
+MD	618356	Strada Cantinei	living_street	73	2	45	
+MD	618356	Strada Dacilor	living_street	73	4	46	
+MD	618365	улица Ленина	tertiary	258	57	319	Lenina Street
+MD	618365	улица Свердлова	tertiary	201	9	227	Sverdlova Street
+MD	618365	ул. Петровского		162	13	160	
+MD	618365	ул. Набатная		116	9	123	
+MD	618365	улица Дзержинского	residential	110	2	100	Dzerzhinskogo Street
+MD	618365	Первомайская улица	residential	105	6	89	Pervomayskaya Street
+MD	618365	Красная улица	residential	91	4	81	Krasnaya Street
+MD	618365	ул.Котовского		89	21	134	
+MD	618365	улица Космонавтов	tertiary	89	9	123	Kosmonavtov Street
+MD	618365	Знаменская улица	residential	88	4	76	Znamenskaya Street
+MD	618365	Комсомольская улица	residential	88	5	83	Komsomolskaya Street
+MD	618365	Пролетарская улица	residential	84	3	73	Proletarskaya Street
+MD	618365	Фонтанная улица	residential	84	5	91	Fontannaya Street
+MD	618365	улица Карла Маркса	residential	84	6	94	Karla Marksa Street
+MD	618365	Октябрьская улица	tertiary	75	5	90	Oktyabrskaya Street
+MD	618365	улица Корнеева	residential	74	4	70	Korneyeva Street
+MD	618365	улица Фрунзе	residential	72	2	63	Frunze Street
+MD	618365	улица Лермонтова	residential	66	3	69	Lermontova Street
+MD	618365	ул. Шевченко		65	3	63	
+MD	618365	улица Пугачёва	residential	65	4	74	Pugachova Street
+MD	618365	улица Громовой	residential	64	3	90	Gromovoy Street
+MD	618365	улица Космодемьянской	residential	64	6	65	Kosmodemyanskoy Street
+MD	618365	улица Красикова	residential	64	4	61	Krasikova Street
+MD	618365	улица Ткаченко	residential	64	6	63	Tkachenko Street
+MD	618365	Колхозная улица	residential	63	9	58	Kolkhoznaya Street
+MD	618365	улица Димитрова	residential	63	2	69	Dimitrova Street
+MD	618365	улица Кирова	residential	62	40	229	Kirova Street
+MD	618365	улица Щорса	residential	62	8	71	Shchorsa Street
+MD	618365	Молдавская улица	residential	61	3	64	Moldavskaya Street
+MD	618365	ул. Калинина		61	5	70	
+MD	618365	Московская улица	residential	60	3	53	Moskovskaya Street
+MD	618365	улица Чкалова	residential	60	3	53	Chkalova Street
+MD	618365	улица 25 Октября	residential	56	4	81	25 Oktyabrya Street
+MD	618365	улица Ломоносова	tertiary	56	3	51	Lomonosova Street
+MD	618365	Школьная улица	residential	55	2	43	Shkolnaya Street
+MD	618365	ул.Красина		54	5	55	
+MD	618365	улица Ворошилова	residential	53	3	70	Voroshilova Street
+MD	618365	улица Терешковой	residential	50	4	49	Tereshkovoy Street
+MD	618365	Восточная улица	residential	49	2	46	Vostochnaya Street
+MD	618365	Киевская улица	residential	47	1	53	Kiyevskaya Street
+MD	618365	улица Штефана Великого	residential	47	3	45	Shtefana Velikogo Street
+MD	618365	улица Быковского	residential	44	3	41	Bykovskogo Street
+MD	618365	улица Островского	residential	44	3	43	Ostrovskogo Street
+MD	618365	Солнечная улица	residential	43	2	39	
+MD	618365	улица Энгельса	residential	43	4	46	Engelsa Street
+MD	618365	2-я улица Суворова	residential	41	3	47	2-ya Suvorova Street
+MD	618365	улица Айвазовского	residential	41	4	51	Ayvazovskogo Street
+MD	618365	улица Готвальда	residential	41	4	59	Gottvalda Street
+MD	618370	Strada Mihai Eminescu	residential	378	4	81	
+MD	618370	Strada Independenței	residential	274	3	130	
+MD	618370	Strada Ștefan cel Mare și Sfânt	residential	227	4	184	
+MD	618370	Strada Burebista	residential	224	3	136	
+MD	618370	Strada Vasile Alecsandri	residential	221	3	145	
+MD	618370	Strada 31 August 1989	residential	218	2	58	
+MD	618370	Strada Dumitru Roman	tertiary	216	12	217	
+MD	618370	Strada Dacia	residential	215	3	80	
+MD	618370	Strada Dorohoi	living_street	195	5	171	
+MD	618370	Strada Ștefan cel Mare și Sfînt	tertiary	190	4	156	
+MD	618370	Strada Dimitrie Cantemir	residential	189	5	124	
+MD	618370	Strada Grigore Ghica-Vodă	residential	184	2	86	
+MD	618370	Strada Alexandru Donici	residential	179	4	126	
+MD	618370	Strada Mitropolit Varlaam	living_street	173	2	143	
+MD	618370	Strada Decebal	residential	163	3	61	
+MD	618370	Strada Calea Basarabiei	residential	156	5	123	
+MD	618370	Strada Vasile Lupu	living_street	142	4	119	
+MD	618370	Strada Nicolae Iorga	residential	121	3	51	
+MD	618370	Strada Florilor	living_street	120	3	72	
+MD	618370	Strada Ion Creangă	residential	115	2	48	
+MD	618370	Strada Mihai Volontir	residential	109	6	122	
+MD	618370	Strada Alexei Mateevici	residential	107	2	52	
+MD	618370	Strada Bogdan Petriceicu Hașdeu	residential	106	3	66	
+MD	618370	Strada 27 August 1989	living_street	104	2	94	
+MD	618370	Strada Alexandru Plămădeală	residential	102	3	60	
+MD	618370	Strada Mihail Sadoveanu	residential	100	2	83	
+MD	618370	Bulevardul Independenței	secondary	97	4	79	
+MD	618370	Strada Aurel Coțofană	residential	97	5	102	
+MD	618370	Strada Libertății	residential	97	4	68	
+MD	618370	Strada Alecu Russo	residential	96	2	76	
+MD	618370	Strada Constantin Stere	residential	92	2	55	
+MD	618370	Strada Grădinilor	living_street	92	3	59	
+MD	618370	Strada Renașterii	residential	87	2	44	
+MD	618370	Strada Mira		86	5	93	
+MD	618370	Strada Ioan Vodă cel Viteaz	residential	83	4	71	
+MD	618370	Strada Boris Glavan	residential	81	4	62	
+MD	618370	Strada Ion Druță	residential	80	8	83	
+MD	618370	Strada Valea Curechiului	residential	80	3	52	
+MD	618370	Strada Ion Potcoavă	residential	79	4	62	
+MD	618370	Strada Ivan Miciurin	residential	79	11	86	
+MD	618370	Strada George Topârceanu		77	2	70	
+MD	618370	Strada Doina	residential	76	1	32	
+MD	618370	Strada Evgheni Gudanov	residential	76	11	55	
+MD	618370	Strada Păcii	living_street	74	2	60	
+MD	618370	Strada Cetatea Sorocii	residential	71	3	54	
+MD	618370	Strada Aurel David	residential	69	3	64	
+MD	618370	Strada Valeriu Cupcea	residential	68	2	64	
+MD	618370	Strada Alexandru cel Bun	residential	66	2	37	
+MD	618382	Strada Independenței	residential	532	2	181	
+MD	618382	Strada Mihai Eminescu	living_street	397	4	88	
+MD	618382	Strada 31 August 1989	residential	391	4	151	
+MD	618382	Strada Ștefan cel Mare și Sfânt	living_street	296	5	166	
+MD	618382	Strada Ștefan cel Mare și Sfînt	residential	289	4	85	
+MD	618382	Strada Dimitrie Cantemir	residential	277	2	134	
+MD	618382	Strada Florilor	residential	247	3	82	
+MD	618382	Strada Vasile Alecsandri	residential	233	3	85	
+MD	618382	Strada Igor Vieru	living_street	208	3	115	
+MD	618382	Strada Păcii	residential	189	1	123	
+MD	618382	Strada Vasile Gangal	residential	177	9	139	
+MD	618382	Strada Livezilor	residential	171	2	38	
+MD	618382	Strada Mihail Frunze	residential	157	3	138	
+MD	618382	Strada Vasili Ceapaev	residential	132	7	123	
+MD	618382	Strada Iacob Voitov	residential	131	7	125	
+MD	618382	Strada Alexandru Donici	residential	129	2	56	
+MD	618382	Strada Trandafirilor	residential	118	2	56	
+MD	618382	Strada Ion Creangă	living_street	116	1	35	
+MD	618382	Strada Ion Cernov	residential	114	6	108	
+MD	618382	Strada Mihail Kalinin	residential	110	6	104	
+MD	618382	Strada Serghei Kirov	residential	102	8	102	
+MD	618382	Strada Cocoarelor	living_street	93	2	46	
+MD	618382	Strada Feroviarilor	residential	87	3	58	
+MD	618382	Strada Filip Marcoci	living_street	85	8	136	
+MD	618387	улица Ленина	residential	173	9	198	Lenina Street
+MD	618387	улица Строителей	tertiary	61	5	53	Stroiteley Street
+MD	618387	Кирова		40	21	187	
+MD	618387	улица Мичурина	residential	33	70	135	Michurina Street
+MD	618387	улица Котовского	tertiary	31	3	49	Kotovskogo Street
+MD	618387	улица Мира	residential	30	1	29	Mira Street
+MD	618387	улица Чкалова	residential	24	4	107	Chkalova Street
+MD	618387	улица Кирова	primary	22	1	139	Kirova Street
+MD	618387	Садовая улица	residential	19	3	20	Sadovaya Street
+MD	618387	бульвар Энергетиков	pedestrian	19	1	12	Energetikov Boulevard
+MD	618387	Первомайская улица	residential	18	2	18	Pervomayskaya Street
+MD	618387	улица Горького	residential	14	109	136	Gorkogo Street
+MD	618387	Комсомольская улица	tertiary	9	2	14	Komsomolskaya Street
+MD	618387	улица Космонавтов	living_street	9	2	24	Kosmonavtov Street
+MD	618387	улица Лазо	tertiary	7	1	7	Lazo Street
+MD	618387	улица Терпиловского	residential	7	2	5	Terpilovskogo Street
+MD	618387	улица Фрунзе	residential	7	1	48	Frunze Street
+MD	618387	улица Жукова	tertiary	6	1	35	Zhukova Street
+MD	618387	Зелёная улица	residential	4	1	7	Zelyonaya Street
+MD	618387	Лиманная улица	tertiary	3	1	1	Limannaya Street
+MD	618387	Советская		3	2	50	
+MD	618387	Тираспольская улица	primary	3	1	2	Tiraspolskaya Street
+MD	618387	улица 25 Октября	living_street	3	5	9	25 Oktyabrya Street
+MD	618387	улица Саланского	residential	3	1	12	Salanskogo Street
+MD	618400	Strada Independenței	residential	168	7	161	
+MD	618400	Strada 31 August 1989		126	7	131	
+MD	618400	Strada Mihai Eminescu	residential	91	4	70	
+MD	618400	Strada Păcii	residential	73	2	50	
+MD	618400	Strada Mihai Viteazul	residential	67	6	67	
+MD	618400	Strada Ion Creangă	residential	62	3	54	
+MD	618400	Strada Biruinței	residential	61	4	72	
+MD	618400	Strada Eugen Doga	residential	60	5	62	
+MD	618400	Strada Tineretului	residential	56	3	67	
+MD	618400	Strada Hîncești	residential	52	4	67	
+MD	618400	Strada Nicolae Dabija	residential	52	6	59	
+MD	618400	Strada Lunca Prutului		49	4	57	
+MD	618400	Strada Teodor Volcu	residential	37	6	101	
+MD	618400	Strada Miron Costin	residential	34	2	47	
+MD	618400	Strada Grigore Vieru	residential	32	2	90	
+MD	618400	Strada Unirii	residential	28	66	91	
+MD	618400	Strada Basarabia	residential	25	2	28	
+MD	618400	Strada Dobrei	residential	20	1	21	
+MD	618400	Strada Ion Druță		20	1	31	
+MD	618400	Strada Boierilor	residential	19	1	27	
+MD	618400	Strada Petru Codreanu	residential	19	1	20	
+MD	618400	Strada Ion Neculce	residential	18	1	23	
+MD	618400	Strada Dimitrie Cantemir	residential	17	2	34	
+MD	618400	Strada Mihail Sadoveanu	residential	16	1	22	
+MD	618403	Strada 31 August 1989	secondary	379	2	183	
+MD	618403	Strada Păcii	residential	302	3	106	
+MD	618403	Strada Ștefan cel Mare și Sfânt	residential	224	1	101	
+MD	618403	Strada Orhei	residential	198	10	57	
+MD	618403	Strada Livezilor	living_street	182	2	90	
+MD	618403	Strada Ion Creangă	residential	165	3	86	
+MD	618403	Strada Mihai Eminescu	living_street	165	3	77	
+MD	618403	Strada Victoriei	residential	148	2	65	
+MD	618403	Strada Coșnița	living_street	130	8	146	
+MD	618403	Strada Nistrului		121	8	117	
+MD	618403	Strada Serghei Lazo	residential	121	2	60	
+MD	618403	Strada Miorița	residential	111	2	57	
+MD	618403	Bulevardul Biruinței	pedestrian	110	2	39	
+MD	618403	Strada Doina	residential	103	3	119	
+MD	618403	Strada Ștefan cel Mare și Sfînt		90	1	51	
+MD	618403	Strada Tineretului	living_street	81	3	61	
+MD	618403	Strada Izvoarelor	residential	76	1	35	
+MD	618403	Strada Mihail Frunze	residential	76	1	67	
+MD	618403	Strada Alexandru cel Bun	residential	72	2	64	
+MD	618403	Strada Viilor	residential	65	2	46	
+MD	618403	Strada Ivan Șicunov	residential	62	3	66	
+MD	618403	Strada Internațională	residential	58	4	67	
+MD	618403	Strada Vasila Alecsandri		55	3	56	
+MD	618403	Strada Trandafirilor	living_street	53	1	27	
+MD	618404	Strada Vladimir Lenin		272	8	239	
+MD	618404	Strada Octeabriscaia	residential	260	7	234	
+MD	618404	Strada 40 let Octeabrea	residential	258	10	221	
+MD	618404	Strada Sadovaia	residential	255	4	141	
+MD	618404	Strada Lenin	residential	249	9	206	
+MD	618404	Strada Serghei Lazo	residential	214	4	139	
+MD	618404	Strada Grigore Kotovski		162	8	156	
+MD	618404	Strada Mihail Kalinin		153	4	136	
+MD	618404	Strada Kliment Voroșilov		146	7	139	
+MD	618404	Strada Karl Marx	residential	144	9	130	
+MD	618404	Strada Molodiojnaia	residential	144	2	85	
+MD	618404	Strada Serghei Kirov		139	7	124	
+MD	618404	Strada Chirov	residential	127	3	85	
+MD	618404	Strada 28 iunie		119	4	115	
+MD	618404	Strada Iacov Sverdlov		113	6	105	
+MD	618404	Strada Ohotnicia	residential	103	6	100	
+MD	618404	Strada Maxim Gorki		102	4	94	
+MD	618404	Strada Anton Buiuclî	residential	100	4	97	
+MD	618404	Strada Ștefan cel Mare și Sfînt	residential	95	3	54	
+MD	618404	Strada Sovetscaia		91	6	83	
+MD	618404	Strada Suvorov	residential	89	5	89	
+MD	618404	Strada Școlinaia	residential	86	3	73	
+MD	618404	Strada 8 Marta	residential	85	5	98	
+MD	618404	Strada Vinogradnaia	residential	77	2	99	
+MD	618405	Strada Lenina	primary	506	9	365	
+MD	618405	Strada Pobedî		350	11	307	
+MD	618405	Strada Sadovaia		281	4	210	
+MD	618405	Strada Cotovscogo		258	11	235	
+MD	618405	Strada Lenin	primary	248	12	196	
+MD	618405	Strada Cotovschi		232	11	225	
+MD	618405	Strada Pușkina		204	6	170	
+MD	618405	Strada Novaia	residential	178	2	64	
+MD	618405	Strada Gavrilova		176	7	170	
+MD	618405	Strada Tretiacova		173	11	140	
+MD	618405	Strada 28 Iunie	residential	167	9	178	
+MD	618405	Strada Fedico		162	10	116	
+MD	618405	Strada Gavriliuca		152	1	130	
+MD	618405	Strada Gogolia		151	8	118	
+MD	618405	Strada Cikalova		147	5	127	
+MD	618405	Strada Comsomolscaia		147	8	144	
+MD	618405	Strada Olimpică	residential	137	4	110	
+MD	618405	Strada Gagarin	residential	131	6	95	
+MD	618405	Strada Ostrovskogo		128	5	120	
+MD	618405	Strada Șevcenko		125	1	139	
+MD	618405	Strada Suvorova		122	7	109	
+MD	618405	Strada Osipenco	residential	121	7	114	
+MD	618405	Strada Galațan	residential	106	3	80	
+MD	618405	Strada Comsomolskaia		101	5	69	
+MD	618405	Strada Benderskaia		97	5	103	
+MD	618405	Strada Lermontova		92	1	85	
+MD	618405	Strada Gorikogo		91	5	95	
+MD	618405	Strada Mihail Tanasoglo	residential	91	3	54	
+MD	618405	Strada Serghei Lazo	residential	91	4	66	
+MD	618405	Strada Solnecinaia		91	5	87	
+MD	618405	Strada Mira	residential	89	3	65	
+MD	618405	Strada Vladimir Lenin	secondary	89	6	204	
+MD	618405	Strada Dnestrovscaia		88	5	87	
+MD	618405	Strada Ialpugscaia		87	2	85	
+MD	618405	Strada Dostoevskogo		86	4	76	
+MD	618405	Strada Alexandra Nevskogo		85	5	84	
+MD	618405	Strada Gherasimova		85	4	82	
+MD	618405	Strada Gagarina		79	4	96	
+MD	618405	Strada Budjacscaia		73	4	69	
+MD	618405	Strada Dimitrov	residential	71	4	56	
+MD	618405	Strada Ferapontievscaia		70	1	97	
+MD	618405	Strada Frunze		57	3	55	
+MD	618405	Strada Vinnica		55	2	61	
+MD	618405	Strada S.Lazo		53	27	76	
+MD	618405	Strada Crupskoi		51	3	65	
+MD	618405	Strada Odesscaia	residential	50	2	53	
+MD	618405	Strada Dobrovoliscogo	residential	49	1	49	
+MD	618405	Strada Osvobojdenia		49	1	60	
+MD	618406	Strada Traian	residential	233	7	162	
+MD	618406	Strada Alexandru cel Bun	residential	196	10	138	
+MD	618406	Strada Mihai Viteazul	residential	196	7	171	
+MD	618406	Strada Decebal	primary	160	3	125	
+MD	618406	Strada Vasile Alecsandri	tertiary	150	7	126	
+MD	618406	Strada Ștefan cel Mare și Sfînt	primary	145	6	142	
+MD	618406	Strada Hîncești		143	8	136	
+MD	618406	Strada Nicolae Iorga	primary	128	4	109	
+MD	618406	Strada Ion Creangă	residential	120	1	114	
+MD	618406	Strada Mihai Eminescu	tertiary	120	1	64	
+MD	618406	Strada Mihail Sadoveanu	residential	111	6	109	
+MD	618406	Strada Vladimir Lenin	residential	111	6	113	
+MD	618406	Strada Cetatea Albă	primary	102	4	55	
+MD	618406	Strada Serghei Lazo	residential	89	3	46	
+MD	618406	Strada Mihail Frunze	residential	83	2	46	
+MD	618406	Strada Taras Șevcenco	residential	81	5	93	
+MD	618406	Strada Viilor	residential	79	2	45	
+MD	618406	Strada 27 August 1989	residential	77	3	67	
+MD	618406	Strada Alexandru Donici	residential	77	4	79	
+MD	618406	Strada Alexei Mateevici	residential	77	4	79	
+MD	618406	Strada Petru Zadnipru	residential	76	4	94	
+MD	618406	Strada Petru Rareș		74	4	73	
+MD	618406	Strada Anton Cehov	residential	71	3	78	
+MD	618406	Strada Cogîlnic	residential	67	5	77	
+MD	618426	Șoseaua Muncești	primary	1242	49	804	
+MD	618426	Bulevardul Dacia	primary	1047	4	67	
+MD	618426	Strada Uzinelor	primary	758	2	205	
+MD	618426	Strada Ion Creangă	primary	756	4	82	
+MD	618426	Strada Calea Ieșilor	primary	716	1	61	
+MD	618426	Bulevardul Ștefan cel Mare și Sfânt	primary	700	6	194	
+MD	618426	Șoseaua Hâncești	primary	656	20	224	
+MD	618426	Strada Alba Iulia	primary	616	5	202	
+MD	618426	Bulevardul Mircea cel Bătrân	primary	590	2	39	
+MD	618426	Strada Columna	secondary	558	46	180	
+MD	618426	Strada Vasile Lupu	primary	512	8	87	
+MD	618426	Strada Vasile Alecsandri	secondary	474	6	139	
+MD	618426	Strada Doina	secondary	451	7	193	
+MD	618426	Strada Petricani	primary	403	10	304	
+MD	618426	Bulevardul Moscova	primary	402	1	23	
+MD	618426	Strada Alexei Șciusev	residential	392	10	135	
+MD	618426	Bulevardul Decebal	primary	378	6	139	
+MD	618426	Strada Bucovina	primary	369	3	5	
+MD	618426	Strada 31 August 1989	tertiary	367	15	135	
+MD	618426	Strada București	secondary	348	10	109	
+MD	618426	Strada Alexei Mateevici	primary	342	2	113	
+MD	618426	Strada Mihail Sadoveanu	secondary	342	2	42	
+MD	618426	Strada Ismail	primary	316	16	116	
+MD	618426	Strada Calea Orheiului	primary	307	19	127	
+MD	618426	Strada Valea Dicescu	residential	307	13	152	
+MD	618426	Strada Alexandru cel Bun	secondary	306	3	128	
+MD	618426	Strada Nicolae Costin	secondary	303	7	65	
+MD	618426	Strada Albișoara	primary	302	4	84	
+MD	618426	Strada Independenței	secondary	299	2	50	
+MD	618426	Strada Alecu Russo	primary	291	1	61	
+MD	618426	Strada Gheorghe Asachi	primary	291	4	73	
+MD	618426	Strada Nicolae Testemițanu	secondary	288	4	29	
+MD	618426	Strada Podgorenilor	residential	288	6	108	
+MD	618426	Strada Grenoble	primary	287	17	257	
+MD	618426	Strada Mihail Kogălniceanu	secondary	284	6	89	
+MD	618426	Strada Aleksandr Pușkin		281	11	58	
+MD	618426	Strada Armenească	secondary	271	10	98	
+MD	618426	Strada Mihai Eminescu	residential	271	4	68	
+MD	618426	Strada Cetatea Albă	residential	268	11	158	
+MD	618426	Strada Ginta Latină	tertiary	268	2	42	
+MD	618426	Strada Ialoveni	tertiary	260	2	104	
+MD	618426	Strada Nicolae Milescu Spătarul	primary	260	2	75	
+MD	618426	Strada Sarmizegetusa	secondary	257	1	92	
+MD	618426	Strada Valeriu Cupcea	residential	253	4	101	
+MD	618426	Strada Doina și Ion Aldea-Teodorovici	residential	249	7	62	
+MD	618426	Strada Victor Crăsescu	residential	248	5	112	
+MD	618426	Strada Pietrăriei	residential	245	1	58	
+MD	618426	Strada Mihail Lermontov	residential	244	6	142	
+MD	618426	Strada Bucuriei	residential	240	1	22	
+MD	618426	Strada Drumul Crucii	residential	238	8	107	
+MD	618426	Strada Maria Drăgan	secondary	233	2	49	
+MD	618426	Strada Constructorilor	residential	232	5	175	
+MD	618426	Strada Liviu Deleanu	secondary	227	1	18	
+MD	618426	Strada Vissarion Belinski	secondary	227	2	89	
+MD	618426	Strada Sfânta Vineri	residential	225	5	98	
+MD	618426	Strada Mesager	tertiary	223	1	22	
+MD	618426	Stradela Victor Crăsescu	residential	222	5	93	
+MD	618426	Strada Ion Inculeț	secondary	218	10	105	
+MD	618426	Strada Nikolai Zelinski	tertiary	216	4	40	
+MD	618426	Strada Milano	residential	213	1	84	
+MD	618426	Strada Toader Bubuiog	residential	209	1	89	
+MD	618426	Strada Miron Costin	tertiary	206	2	26	
+MD	618426	Strada Pădurii	unclassified	205	6	36	
+MD	618426	Strada Drumul Viilor	residential	204	2	97	
+MD	618426	Strada Gheorghe Codreanu	residential	203	4	85	
+MD	618426	Strada Miorița	primary	202	1	50	
+MD	618426	Strada Călărași	residential	200	3	93	
+MD	618426	Strada Gheorghe Madan	residential	200	4	87	
+MD	618426	Strada Vadul lui Vodă	primary	200	5	172	
+MD	618426	Bulevardul Grigore Vieru	primary	198	5	27	
+MD	618426	Strada Cireșilor	residential	198	5	86	
+MD	618426	Strada Ioana Radu	residential	197	5	29	
+MD	618426	Strada Mitropolit Gavriil Bănulescu-Bodoni	primary	197	4	59	
+MD	618426	Strada Mihai Viteazul	primary	194	1	38	
+MD	618426	Strada Ștefan Neaga	residential	192	5	68	
+MD	618426	Bulevardul Cuza-Vodă	primary	190	3	49	
+MD	618426	Strada Pietrarilor	residential	190	2	54	
+MD	618426	Strada Serghei Lazo	secondary	190	2	48	
+MD	618426	Strada Putnei	tertiary	189	8	89	
+MD	618426	Strada Frumoasa	residential	188	6	80	
+MD	618426	Strada Tudor Vladimirescu	secondary	188	1	20	
+MD	618426	Strada Mitropolit Varlaam	residential	187	46	84	
+MD	618426	Strada Tighina	residential	186	9	65	
+MD	618426	Strada Roșiori	residential	183	5	78	
+MD	618426	Strada Paris	tertiary	181	11	51	
+MD	618426	Strada Arborilor	residential	178	5	21	
+MD	618426	Strada Așhabad	residential	177	8	134	
+MD	618426	Strada Criuleni	residential	176	4	80	
+MD	618426	Strada Burebista	secondary	175	3	116	
+MD	618426	Strada Suceava	residential	174	105	164	
+MD	618426	Strada Vlaicu Pârcălab	residential	171	5	75	
+MD	618426	Strada Drumul Taberei	residential	168	4	69	
+MD	618426	Strada Liviu Rebreanu	tertiary	168	13	129	
+MD	618426	Strada Moara Roșie	residential	168	2	43	
+MD	618426	Strada Petru Rareș	residential	168	11	62	
+MD	618426	Strada Timiș	residential	167	5	54	
+MD	618426	Strada Ciocârliei	residential	166	4	43	
+MD	618426	Strada Florilor	secondary	166	2	32	
+MD	618426	Strada Trandafirilor	secondary	165	3	37	
+MD	618426	Strada Meșterul Manole	primary	163	2	18	
+MD	618426	Strada Alexandru Hâjdeu	residential	161	33	120	
+MD	618426	Strada Liviu Damian	residential	161	4	79	
+MD	618426	Strada Grădinarilor	living_street	160	3	77	
+MD	618426	Strada Studenților	secondary	160	1	19	
+MD	618426	Strada Drumul Băcioiului	living_street	157	289	377	
+MD	618426	Strada Colonița	residential	154	81	182	
+MD	618426	Strada Plaiului	residential	154	2	132	
+MD	618426	Strada Igor Vieru	tertiary	153	2	20	
+MD	618426	Strada Lacului	residential	153	3	68	
+MD	618426	Strada Nicolae Dimo	secondary	153	1	32	
+MD	618426	Strada 8 Martie	residential	152	41	135	
+MD	618426	Strada Băcioii Noi	secondary	152	4	29	
+MD	618426	Strada Socoleni	secondary	152	1	31	
+MD	618426	Strada Școlii	living_street	150	5	105	
+MD	618426	Strada Mitropolit Dosoftei	residential	149	6	146	
+MD	618426	Strada Petru Zadnipru	tertiary	149	1	19	
+MD	618426	Strada Eugen Coca	tertiary	147	3	53	
+MD	618426	Strada Ion Pelivan	primary	144	2	36	
+MD	618426	Bulevardul Cuza Vodă		143	1	44	
+MD	618426	Strada Lev Tolstoi	secondary	142	6	63	
+MD	618426	Strada Codrilor		140	10	16	
+MD	618426	Strada Mihail Lomonosov	residential	140	3	51	
+MD	618426	Strada Sfatul Țării	secondary	140	3	67	
+MD	618426	Strada Cetatea Chilia	residential	138	10	114	
+MD	618426	Șoseaua Balcani		138	1	9	
+MD	618426	Strada Anton Crihan	residential	136	2	42	
+MD	618426	Strada Bulgară	residential	136	4	103	
+MD	618426	Strada Țarinei		136	8	116	
+MD	618426	Stradela Studenților	residential	136	2	19	
+MD	618426	Strada Alexandr Pușkin	primary	135	2	58	
+MD	618426	Strada Ghioceilor	residential	134	1	25	
+MD	618426	Strada Cărămidarilor	residential	132	19	103	
+MD	618426	Strada Industrială	secondary	132	10	75	
+MD	618426	Strada Dragomirna	residential	131	5	58	
+MD	618426	Strada Nicolae Titulescu	tertiary	131	1	53	
+MD	618426	Stradela Criuleni	residential	131	12	61	
+MD	618426	Strada Hanul Morii	residential	129	3	140	
+MD	618426	Strada George Meniuc	residential	128	5	56	
+MD	618426	Strada Movileni	residential	127	2	93	
+MD	618426	Strada Ștefan cel Mare și Sfânt	residential	127	1	29	
+MD	618426	Strada Alessandro Bernardazzi	residential	126	6	89	
+MD	618426	Strada Ion Pruncul	residential	126	1	44	
+MD	618426	Strada Kiev	primary	126	2	16	
+MD	618426	Strada Melestiu	residential	125	1	29	
+MD	618426	Strada Pășunilor		125	2	12	
+MD	618426	Strada Iazului	residential	124	1	82	
+MD	618426	Strada Odesa	residential	123	3	63	
+MD	618426	Strada Roguleni	residential	123	4	65	
+MD	618426	Strada Voluntarilor	secondary	123	2	18	
+MD	618426	Strada Andrei Doga	residential	120	19	45	
+MD	618426	Strada Bariera Sculeni	secondary	120	1	48	
+MD	618426	Strada Ion Neculce	residential	120	1	61	
+MD	618426	Strada Vlad Țepeș	residential	120	2	55	
+MD	618426	Bulevardul Traian		116	1	23	
+MD	618426	Strada Alba-Iulia	living_street	115	5	204	
+MD	618426	Strada Serghei Rahmaninov	residential	115	4	52	
+MD	618426	Strada Vasile Coroban	residential	115	3	47	
+MD	618426	Strada Țarinii	residential	115	3	118	
+MD	618426	Strada Ipate Soroceanu	residential	114	4	73	
+MD	618426	Strada Hotin	residential	113	3	56	
+MD	618426	Strada Hristo Botev	secondary	110	2	27	
+MD	618426	Strada Poștei	residential	110	3	92	
+MD	618426	Strada Spartacus	residential	110	3	36	
+MD	618426	Strada Maria Lătărețu	residential	109	2	44	
+MD	618426	Strada Dâmbului	residential	108	1	46	
+MD	618426	Strada Vasile Badiu	residential	108	3	50	
+MD	618426	Strada Bogdan Petriceicu Hașdeu	residential	107	2	48	
+MD	618426	Strada Grigore Ureche	residential	107	7	74	
+MD	618426	Strada Nucarilor	residential	107	2	46	
+MD	618426	Strada Sfîntul Nicolai		107	4	102	
+MD	618426	Strada 27 August 1989	living_street	106	5	101	
+MD	618426	Strada Alexandru Cosmescu	residential	106	2	51	
+MD	618426	Strada Barbu Lăutaru	residential	106	3	39	
+MD	618426	Strada Călătorilor	residential	106	3	65	
+MD	618426	Stradela Sfântul Andrei	residential	106	3	60	
+MD	618426	Strada Primăverii	residential	105	3	44	
+MD	618426	Strada Cantonului	residential	104	4	68	
+MD	618426	Strada Grătiești	residential	104	21	56	
+MD	618426	Strada Sfântul Andrei	residential	104	14	64	
+MD	618426	Strada Ion Luca Caragiale	residential	103	1	33	
+MD	618426	Strada Timișoara	residential	103	3	44	
+MD	618426	Strada Pandurilor	residential	102	5	68	
+MD	618426	Strada Constantin Vârnav	residential	101	3	32	
+MD	618426	Strada Tiras	residential	101	2	62	
+MD	618426	Strada Florești	residential	100	3	38	
+MD	618426	Strada Ecaterina Teodoroiu	residential	99	4	55	
+MD	618426	Strada Gheorghe Cașu	tertiary	99	2	37	
+MD	618426	Strada Mitropolit Gurie Grosu	residential	99	3	37	
+MD	618426	Strada Primar Gherman Pântea	residential	99	22	219	
+MD	618426	Strada Academician Sergiu Rădăuțanu	tertiary	98	1	100	
+MD	618426	Strada Alexandru Marinescu	residential	98	2	32	
+MD	618426	Strada Tudor Panfile	residential	98	2	58	
+MD	618426	Strada Vaslui	residential	98	2	60	
+MD	618426	Strada Ghidighici	residential	97	1	5	
+MD	618426	Strada Calea Basarabiei	primary	96	5	50	
+MD	618426	Strada Minsk	tertiary	96	2	49	
+MD	618426	Strada Nuferilor	living_street	96	2	31	
+MD	618426	Strada Calea Moșilor	primary	95	2	38	
+MD	618426	Strada Costești	residential	95	4	62	
+MD	618426	Strada Grădina Botanică	primary	95	2	22	
+MD	618450	Strada Vladimir Lenin	residential	550	9	334	
+MD	618450	Strada Lenin		335	9	213	
+MD	618450	Strada Bugeacului	residential	313	7	301	
+MD	618450	Strada Serghei Lazo	residential	236	4	100	
+MD	618450	Strada Sîrtmaci		189	8	198	
+MD	618450	Strada 1 Mai	residential	180	3	66	
+MD	618450	Strada Grigori Kotovski	unclassified	173	9	337	
+MD	618450	Strada Karl Marx	residential	160	3	114	
+MD	618450	Strada Sadovaia	residential	160	3	67	
+MD	618450	Strada Alexandr Suvorov		154	14	150	
+MD	618450	Strada Matrosov		151	7	137	
+MD	618450	Strada Jukovski	residential	145	8	148	
+MD	618450	Strada Pușkin		133	7	118	
+MD	618450	Strada Cikalov		132	2	110	
+MD	618450	Strada Serghei Kirov	residential	130	5	102	
+MD	618450	Strada Gorki		128	1	98	
+MD	618450	Strada Cehov		119	6	114	
+MD	618450	Strada Maiakovski		114	5	121	
+MD	618450	Strada Budionîi		103	6	97	
+MD	618450	Strada Bulgară	residential	99	5	96	
+MD	618450	Strada Makarenko		99	5	108	
+MD	618450	Strada Tolstoi		97	5	101	
+MD	618450	Strada Voroșilov		96	5	86	
+MD	618450	Strada Gogol		93	4	89	
+MD	618450	Strada Tanasoglo	residential	87	5	83	
+MD	618450	Strada Miciurin	primary	83	2	88	
+MD	618450	Strada Kirov	residential	81	5	76	
+MD	618450	Strada Frunze		79	4	76	
+MD	618450	Strada Zarecinaea		79	4	80	
+MD	618450	Strada Komarov		77	3	77	
+MD	618450	Strada Pobedî		74	3	70	
+MD	618450	Strada 28 Iunie	residential	69	2	40	
+MD	618450	Strada Lomonosov	residential	68	3	59	
+MD	618450	Strada Proletarilor	residential	66	4	71	
+MD	618450	Strada Turghenev		66	3	69	
+MD	618450	Strada Cekir	residential	56	3	60	
+MD	618450	Strada Izmail		55	3	54	
+MD	618450	Strada Sovetică		53	2	50	
+MD	618450	Strada Kalinin		52	3	49	
+MD	618450	Strada Lermontov		51	3	51	
+MD	618450	Strada Ostrovski		51	3	51	
+MD	618450	Strada Nagornaia	residential	49	3	47	
+MD	618450	Strada Suvorov	residential	49	3	47	
+MD	618450	Strada Ceaikovski		48	3	46	
+MD	618450	Strada Kolhoznaia		48	9	52	
+MD	618450	Strada 40 let Okteabrea		47	2	45	
+MD	618450	Strada Krîlov		47	3	46	
+MD	618450	Strada Boris Glavan	residential	46	5	46	
+MD	618452	Strada Izvoarelor	residential	459	6	213	
+MD	618452	Strada Trandafirilor	residential	270	4	198	
+MD	618452	Strada Păcii	residential	253	4	156	
+MD	618452	Strada Tineretului	residential	232	3	115	
+MD	618452	Strada Mihai Eminescu	residential	224	2	85	
+MD	618452	Strada Eroilor	residential	206	4	145	
+MD	618452	Strada 31 August 1989	residential	167	4	142	
+MD	618452	Strada Iuri Gagarin	residential	161	3	130	
+MD	618452	Strada Ștefan-Vodă	tertiary	152	2	44	
+MD	618452	Strada Krasnîi Pogranicinik	tertiary	147	9	166	
+MD	618452	Strada Ștefan cel Mare		115	6	131	
+MD	618452	Strada Ștefan cel Mare și Sfînt	residential	114	6	113	
+MD	618453	улица Кирова	primary	80	5	272	Kirova Street
+MD	618453	улица Ленина	primary	78	3	94	Lenina Street
+MD	618453	Strada Agricultorilor	residential	47	4	60	
+MD	618453	улица Комарова	primary	42	24	90	Komarova Street
+MD	618453	улица Красная Бессарабия	residential	31	49	103	Krasnaya Bessarabiya Street
+MD	618453	улица Кабака	residential	29	47	152	Kabaka Street
+MD	618453	ул. Кутковецкого		24	2	26	
+MD	618453	Виноградная улица	residential	23	18	116	Vinogradnaya Street
+MD	618453	улица Вершигоры	residential	22	2	22	Vershigory Street
+MD	618453	Колодезная улица	residential	20	2	70	Kolodeznaya Street
+MD	618453	улица Ворошилова	residential	20	31	109	Voroshilova Street
+MD	618453	улица Котовского	residential	20	29	77	Kotovskogo Street
+MD	618453	Ленинградская улица	residential	18	1	18	Leningradskaya Street
+MD	618453	Октябрьская улица	residential	18	2	30	
+MD	618453	улица Кутузова	residential	16	1	16	Kutuzova Street
+MD	618453	улица Чапаева	residential	16	1	16	Chapayeva Street
+MD	618453	Сенатовская улица	residential	15	2	31	Senatovskaya Street
+MD	618453	улица Солтыса	residential	14	1	92	Soltysa Street
+MD	618453	Заводская улица	primary	12	1	23	Zavodskaya Street
+MD	618453	ул. Железнодорожная		12	1	22	
+MD	618453	Strada Păcii	residential	11	2	45	
+MD	618453	улица Лермонтова	residential	10	1	17	Lermontova Street
+MD	618453	Заводской переулок	residential	9	1	10	Zavodskoy Lane
+MD	618453	Зелёная улица	residential	9	5	35	Zelyonaya Street
+MD	618454	Strada Alexandru cel Bun	residential	495	4	250	
+MD	618454	Strada Ștefan cel Mare și Sfânt	residential	475	4	125	
+MD	618454	Strada Mihai Eminescu	residential	469	2	129	
+MD	618454	Strada Ștefan cel Mare și Sfînt	tertiary	360	4	106	
+MD	618454	Strada Livezilor	residential	265	5	128	
+MD	618454	Strada Tineretului	residential	263	2	85	
+MD	618454	Strada Vasile Alecsandri	residential	221	2	103	
+MD	618454	Strada Mitropolit Varlaam	residential	215	5	171	
+MD	618454	Strada 31 August 1989	residential	187	3	78	
+MD	618454	Strada Alexei Mateevici	residential	170	3	118	
+MD	618454	Strada Ion Creangă	residential	166	2	40	
+MD	618454	Strada Grigore Vieru	residential	162	3	68	
+MD	618454	Strada Miron Costin	residential	139	4	75	
+MD	618454	Strada Dimitrie Cantemir	residential	129	2	50	
+MD	618454	Strada Grigore Ureche	residential	123	4	68	
+MD	618454	Strada Bojole	tertiary	119	2	53	
+MD	618454	Strada Mitropolit Dosoftei	residential	118	5	133	
+MD	618454	Strada Mihail Sadoveanu	residential	116	3	89	
+MD	618454	Strada Gheorghe Asachi	residential	112	2	65	
+MD	618454	Strada Bogdan Petriceicu Hașdeu	residential	111	3	75	
+MD	618454	Strada Valea Nucului	residential	108	7	116	
+MD	618454	Strada Ion Neculce	residential	104	2	67	
+MD	618454	Strada Zamfir Arbore	residential	104	3	51	
+MD	618454	Strada Vasile Lupu	residential	100	2	57	
+MD	618456	Strada Ștefan cel Mare și Sfînt	primary	455	7	179	
+MD	618456	Strada Mihai Eminescu	residential	301	7	135	
+MD	618456	Strada Ion Creangă	residential	271	5	108	
+MD	618456	Strada Alexei Mateevici	residential	239	6	107	
+MD	618456	Strada Vasile Alecsandri	residential	227	6	91	
+MD	618456	Strada Strada Veche	residential	166	9	147	
+MD	618456	Strada Constantin Negruzzi	residential	164	9	133	
+MD	618456	Strada 31 August 1989	residential	162	2	64	
+MD	618456	Strada Ioan Vodă cel Cumplit	residential	160	4	75	
+MD	618456	Strada Dorobanților	residential	156	4	143	
+MD	618456	Strada Vișinilor	residential	154	6	146	
+MD	618456	Strada Ivan Spirin	residential	148	6	139	
+MD	618456	Strada Alexandr Pușkin	residential	143	5	100	
+MD	618456	Strada Alexandru Donici	residential	142	4	81	
+MD	618456	Strada Mihail Kogălniceanu	residential	141	7	124	
+MD	618456	Strada Tineretului	residential	139	3	77	
+MD	618456	Strada Alexandru Lipcan	residential	125	7	140	
+MD	618456	Strada Păcii	residential	119	1	55	
+MD	618456	Strada Lăutarilor	residential	116	6	144	
+MD	618456	Strada Haiducilor	residential	108	3	64	
+MD	618456	Strada Mihail Frunze	residential	104	6	63	
+MD	618456	Strada Ion Luca Caragiale	residential	103	3	85	
+MD	618456	Strada Vasile Lupu	residential	97	5	85	
+MD	618456	Strada Teodor Nencev	residential	95	1	73	
+MD	618456	Strada Piotr Rumeanțev	residential	91	5	86	
+MD	618456	Strada prospectul Republicii		90	5	36	
+MD	618456	Strada Mihail Șolohov	residential	89	5	103	
+MD	618456	Strada Tîrgul Veche		89	4	109	
+MD	618456	Strada Libertății	residential	88	3	53	
+MD	618456	Strada Vasile Stroiescu	residential	86	2	48	
+MD	618456	Strada Alexei Șciusev	residential	84	3	54	
+MD	618456	Strada Bisericii	residential	83	5	88	
+MD	618456	Strada Bogdan Petriceicu Hașdeu	secondary	80	2	18	
+MD	618456	Strada Mihai Viteazul	primary	74	2	49	
+MD	618456	Strada Doinelor	residential	72	1	50	
+MD	618456	Strada Gheorghe Asachi	residential	72	4	70	
+MD	618456	Strada Valea Verde	residential	69	4	87	
+MD	618456	Strada Nicolae Milescu Spătarul		68	7	75	
+MD	618456	Strada Șoseaua Șcheia	secondary	68	3	66	
+MD	618456	Strada Livezilor	residential	67	2	53	
+MD	618456	Strada Dumitru Milev	residential	66	4	60	
+MD	618456	Strada Dimitrie Cantemir	residential	63	2	25	
+MD	618456	Strada Dunării	secondary	60	3	58	
+MD	618456	Strada Petru Movilă	residential	60	1	53	
+MD	618456	Strada Independenței	residential	59	1	52	
+MD	618456	Strada Mircea cel Bătrîn	residential	59	3	33	
+MD	618456	Strada Fiodor Seliviorstov	residential	58	3	21	
+MD	618456	Strada Dragoș Vodă	residential	57	2	71	
+MD	618459	Strada Ștefan cel Mare și Sfînt		354	11	322	
+MD	618459	Strada Ștefan cel Mare și Sfânt	residential	352	10	285	
+MD	618459	Strada Mihai Eminescu	residential	193	3	117	
+MD	618459	Strada Vasile Alecsandri	residential	180	2	138	
+MD	618459	Strada Livezilor	residential	144	2	79	
+MD	618459	Strada Haiducul Zubrea	residential	134	7	171	
+MD	618459	Strada Dacia	residential	109	5	81	
+MD	618459	Strada Morilor	residential	107	3	77	
+MD	618459	Strada Dimitrie Cantemir	residential	93	3	48	
+MD	618459	Strada Victoriei	residential	89	2	48	
+MD	618459	Strada Trandafirilor	residential	87	2	33	
+MD	618459	Strada Independenței	residential	78	2	75	
+MD	618491	Strada Vladimir Lenin	secondary	131	3	173	
+MD	618491	Strada Iuri Gagarin	living_street	120	6	146	
+MD	618491	Strada Stanționnaia		73	3	89	
+MD	618491	Strada Rabociaia		70	4	68	
+MD	618491	Strada Alexandr Kuprin	residential	55	3	62	
+MD	618491	Strada Alexandr Gherțen	residential	54	3	61	
+MD	618491	Strada Miciurin	residential	49	1	52	
+MD	618491	Strada Chișiniovscaia		42	3	55	
+MD	618491	Strada Oleg Koșevoi	residential	42	5	47	
+MD	618491	Strada Pobedî		41	3	41	
+MD	618491	Strada Serghei Tiulenin	residential	41	3	45	
+MD	618491	Strada Iubileinaia	residential	36	2	44	
+MD	618510	Strada Ștefan cel Mare și Sfânt	tertiary	334	5	130	
+MD	618510	Strada Mihail Frunze	residential	283	6	242	
+MD	618510	Strada Mihai Eminescu	residential	248	4	87	
+MD	618510	Strada Independenței	primary	225	2	82	
+MD	618510	Strada Prieteniei	secondary	201	1	94	
+MD	618510	Strada Speranței	residential	197	3	91	
+MD	618510	Strada Păcii	residential	196	2	85	
+MD	618510	Strada Livezilor	residential	130	2	46	
+MD	618510	Strada Ștefan cel Mara		126	8	128	
+MD	618510	Strada Profesorilor	residential	121	7	137	
+MD	618510	Strada Constantin Stamati	residential	117	2	125	
+MD	618510	Strada 31 August 1989	residential	113	3	76	
+MD	618510	Strada Valentina Tereșkova	residential	104	6	105	
+MD	618510	Strada Alexandr Karpișin	tertiary	99	4	70	
+MD	618510	Strada Mihai Viteazul	residential	95	3	94	
+MD	618510	Strada Florilor	residential	92	2	43	
+MD	618510	Strada Doina	residential	89	2	66	
+MD	618510	Strada Holmului	living_street	84	5	99	
+MD	618510	Strada Tineretului	residential	78	2	64	
+MD	618510	Strada Tinereții	residential	77	2	70	
+MD	618510	Strada Lopatnic	living_street	72	4	87	
+MD	618510	Strada Uzinelor	secondary	62	2	26	
+MD	618510	Strada Vasile Alecsandri	residential	62	2	56	
+MD	618510	Strada Primăverii	residential	61	4	58	
+MD	618512	Strada Independenței	living_street	181	3	105	
+MD	618512	Strada Mihai Eminescu	living_street	159	3	93	
+MD	618512	Strada Petru Zadnipru	residential	121	3	69	
+MD	618512	Strada Mira		118	3	68	
+MD	618512	Strada Ștefan cel Mare și Sfînt	residential	118	2	85	
+MD	618512	Strada Țentralinaia		102	6	163	
+MD	618512	Strada Vasile Alecsandri	residential	96	2	83	
+MD	618512	Strada Alexandru cel Bun	living_street	94	3	47	
+MD	618512	Strada Prieteniei	residential	92	2	54	
+MD	618512	Strada Nijneaea	residential	88	78	182	
+MD	618512	Strada Ștefan cel Mare și Sfânt	secondary	79	4	77	
+MD	618512	Strada Ion Creangă	residential	75	2	76	
+MD	618512	Strada Constantin Stamati	living_street	73	2	58	
+MD	618512	Strada Cubolta	residential	69	10	90	
+MD	618512	Strada Svobodî		61	7	79	
+MD	618512	Strada Ion Soltîs	residential	60	3	70	
+MD	618512	Strada Vânătorilor	residential	59	3	66	
+MD	618512	Strada Beriozovaia		56	5	69	
+MD	618512	Strada Molodeojnaia		56	4	69	
+MD	618512	Strada Livezilor	residential	55	1	27	
+MD	618512	Strada Sănătății	living_street	55	2	63	
+MD	618512	Strada Școlinaia		54	4	76	
+MD	618512	Strada Florilor	living_street	53	1	37	
+MD	618512	Strada Tinereții	residential	53	1	47	
+MD	618556	улица Свердлова	residential	56	17	68	Sverdlova Street
+MD	618556	улица Якира	residential	46	14	57	Yakira Street
+MD	618556	Краснодонская улица	residential	36	9	42	Krasnodonskaya Street
+MD	618556	улица Котовского	residential	33	2	32	Kotovskogo Street
+MD	618556	улица Гагарина	residential	31	2	29	Gagarina Street
+MD	618556	улица Академика Королёва		28	3	30	
+MD	618556	улица Докучаева	residential	18	5	21	Dokuchayeva Street
+MD	618556	Октябрьская улица	residential	17	113	138	Oktyabrskaya Street
+MD	618556	улица Суворова	residential	16	7	24	Suvorova Street
+MD	618556	улица Мира	residential	14	5	26	Mira Street
+MD	618556	Школьный переулок	residential	10	1	9	Shkolnyy Lane
+MD	618556	улица Кутузова	residential	8	13	24	Kutuzova Street
+MD	618556	Советская улица	residential	7	139	167	Sovetskaya Street
+MD	618556	улица Ленина	tertiary	7	48	83	Lenina Street
+MD	618556	улица Мичурина	residential	3	3	28	Michurina Street
+MD	618556	улица Нефтяников	residential	2	2	2	Neftyanikova Street
+MD	618556	улица Победы	residential	2	11	13	Pobeby Street
+MD	618556	Виноградная улица	residential	1	0	0	Vinogradnaya Street
+MD	618556	Григориопольская улица	residential	1	0	0	Grigoriopolskaya Street
+MD	618556	Зелёная улица	residential	1	0	0	Zelyonaya Street
+MD	618556	Карьерный переулок	residential	1	0	0	Karyernyy Lane
+MD	618556	Каховская улица	residential	1	0	0	Kakhovskaya Street
+MD	618556	Колхозная улица	residential	1	0	0	Kolkhoznaya Street
+MD	618556	Коммунистическая улица	residential	1	0	0	Kommunisticheskaya Street
+MD	618577	улица Суворова	primary	194	4	203	Suvorova Street
+MD	618577	Коммунистическая улица	secondary	188	7	201	Kommunisticheskaya Street
+MD	618577	Первомайская улица	residential	187	5	170	Pervomayskaya Street
+MD	618577	Strada Ștefan cel Mare și Sfînt		184	11	417	
+MD	618577	улица Ленина	residential	151	5	285	Lenina Street
+MD	618577	Кишинёвская улица	primary	147	5	214	Kishinyovskaya Street
+MD	618577	улица Кирова	residential	140	4	111	Kirova Street
+MD	618577	улица 40 лет МССР	primary	137	6	177	
+MD	618577	улица Котовского	primary	133	11	157	Kotovskogo Street
+MD	618577	улица Бендерского Восстания	primary	123	5	132	Benderskogo Vosstaniya Street
+MD	618577	улица Мира	residential	121	2	112	Mira Street
+MD	618577	Садовая улица	residential	118	6	100	Sadovaya Street
+MD	618577	улица Некрасова	residential	113	5	110	Nekrasova Street
+MD	618577	улица Ткаченко	residential	112	7	164	Tkachenko Street
+MD	618577	улица Тамары Кручок	tertiary	107	9	130	Tamary Kruchok Street
+MD	618577	Комсомольская улица	residential	104	2	68	Komsomolskaya Street
+MD	618577	Железнодорожная улица	residential	97	4	98	Zheleznodorozhnaya Street
+MD	618577	улица Шестакова	residential	94	14	109	Shestakova Street
+MD	618577	Индустриальная улица	tertiary	87	4	121	Industrialnaya Street
+MD	618577	улица Гоголя	residential	87	1	69	Gogolya Street
+MD	618577	Советская улица	residential	84	3	73	Sovetskaya Street
+MD	618577	Strada Dacia	residential	80	3	66	
+MD	618577	улица Ползунова	residential	78	7	78	Polzunova Street
+MD	618577	улица Маяковского	residential	77	15	87	Mayakovskogo Street
+MD	618577	улица Калинина	residential	76	7	90	Kalinina Street
+MD	618577	улица Кавриаго	residential	70	3	57	Kavriago Street
+MD	618577	Strada Ion Creangă	residential	66	4	63	
+MD	618577	Котовского		65	19	91	
+MD	618577	Strada Mihai Eminescu	residential	64	2	57	
+MD	618577	улица 12 Октября	residential	64	9	77	
+MD	618577	улица Дзержинского	residential	64	4	67	Dzerzhinskogo Street
+MD	618577	Гербовецкая улица	tertiary	61	8	180	Gerbovetskaya Street
+MD	618577	Strada Dimitrie Cantemir	residential	60	3	56	
+MD	618577	улица Титова	residential	60	2	80	Titova Street
+MD	618577	улица Пушкина	residential	59	3	89	Pushkin Street
+MD	618577	улица 40 лет Победы	tertiary	58	4	50	40 let Pobedy Street
+MD	618577	улица Калашникова	residential	58	3	70	Kalashnikova Street
+MD	618577	улица Шевченко	residential	56	2	43	Shevchenko Street
+MD	618577	Strada Alexei Mateevici	residential	55	2	52	
+MD	618577	Загородная улица	residential	52	3	47	Zagorodnaya Street
+MD	618577	улица Куйбышева	residential	51	3	49	Kuybyscheva Street
+MD	618577	улица Победы	residential	51	1	71	Pobedy Street
+MD	618577	улица Старого	tertiary	51	2	47	Starogo Street
+MD	618577	Московская улица	residential	50	6	71	Moskovskaya Street
+MD	618577	Суворова		50	7	118	
+MD	618577	улица Карбышева	residential	50	2	48	Karbysheva Street
+MD	618577	Молодёжная		49	3	93	
+MD	618577	Главная улица	residential	48	5	237	Glavnaya Street
+MD	618577	улица Емилиана Букова	residential	47	4	47	Emiliana Bukova Street
+MD	618577	улица Мунтяна	residential	47	3	111	Muntyana Street
+MD	618577	Strada Vasile Alecsandri	residential	46	3	45	
+MD	618577	Бельцкая улица	tertiary	46	3	53	Beltskaya Street
+MD	618577	П.Николаева		46	89	211	
+MD	618577	Strada Gavriil Musicescu	residential	45	3	43	
+MD	618577	улица Осипенко	residential	45	3	57	Osipenko Street
+MD	618577	переулок Некрасова	residential	44	3	38	Nekrasova Lane
+MD	618577	Мира		43	9	110	
+MD	618577	улица Матросова	residential	43	6	54	Matrosova Street
+MD	618577	улица Энгельса	tertiary	43	1	38	Engelsa Street
+MD	618577	улица Бориса Главана	residential	41	2	48	Borisa Glavana Street
+MD	618577	Ленинградская улица	tertiary	40	7	76	Leningradskaya Street
+MD	618577	Южная улица	residential	39	2	46	Yuzhnaya Street
+MD	618577	Strada Cuza-Vodă	residential	38	2	37	
+MD	618577	Колхозная улица	residential	37	1	31	Kolkhoznaya Street
+MD	618577	улица Зои Космодемьянской	tertiary	37	4	87	Zoi Kosmodemyanskoy Street
+MD	618577	Strada Valeriu Secară		36	4	73	
+MD	618577	Школьная улица	residential	36	2	37	Shkolnaya Street
+MD	618577	улица Алеку Руссо	residential	36	2	37	Aleku Russo Street
+MD	618577	улица Ивана Шимкова	residential	36	3	50	Ivana Shimkova Street
+MD	618577	улица Лермонтова	residential	36	5	57	Lermontova Street
+MD	618577	Strada Voluntarilor	residential	35	2	34	
+MD	618577	Первомайский переулок	residential	35	1	30	Pervomayskiy Lane
+MD	618577	улица Дружбы	primary	35	2	40	Druzhby Street
+MD	618577	Киевская улица	residential	34	2	36	Kiyevskaya Street
+MD	618577	Санаторная улица	residential	34	8	72	Sanatornaya Street
+MD	618577	Фонтанная улица	residential	33	15	61	Fontannaya Street
+MD	618577	улица Димитрова	residential	33	1	33	Dimitrova Street
+MD	618577	улица Сергея Лазо	residential	32	2	39	Sergeya Lazo Street
+MD	618577	улица Чапаева	residential	32	2	28	Chapayeva Street
+MD	618577	Strada Eugen Doga		31	25	73	
+MD	618577	улица Кутузова	residential	31	2	36	Kutuzova Street
+MD	618577	улица Ломоносова	residential	31	4	47	Lomonosova Street
+MD	618577	улица 5 Декабря	residential	30	2	32	5 Dekabrya Street
+MD	618577	улица Гагарина	residential	30	1	29	Gagarina Street
+MD	618577	улица Космонавтов	tertiary	30	1	37	Kosmonavtov Street
+MD	618577	улица Крянгэ	tertiary	30	4	42	Creangă Street
+MD	618577	улица Мичурина	residential	30	2	38	Michurina Street
+MD	618577	Донецкая улица	residential	29	3	32	Donetskaya Street
+MD	618577	улица Георге Асаке	residential	29	3	46	Asake Street
+MD	618577	Strada Păcii	residential	28	47	120	
+MD	618577	Песчанная улица	residential	28	2	29	
+MD	618577	Рыбницкая улица	residential	28	2	29	Rybnitskaya Street
+MD	618577	улица Ивана Федько	residential	28	2	37	Ivana Fedko Street
+MD	618577	улица Павлова	residential	28	1	27	Pavlova Street
+MD	618577	улица Правды	residential	28	3	53	Pravdy Street
+MD	618577	Путейская улица	residential	27	2	28	Puteyskaya Street
+MD	618577	улица 50 лет Победы	residential	27	2	60	50 let Pobedy Street
+MD	618577	улица Павлика Морозова	residential	27	1	21	Pavlika Morozova Street
+MD	618577	улица Разина	residential	27	2	167	Razina Street
+MD	618577	Молдавская улица	residential	26	2	25	Moldavskaya Street
+MD	618594	Strada Independenței	residential	305	11	235	
+MD	618594	Strada 28 Iunie	residential	218	7	196	
+MD	618594	Strada Karl Marx	primary	200	13	200	
+MD	618594	Strada Ion Secrieru	residential	193	9	154	
+MD	618594	Strada Lev Tolstoi	residential	192	5	85	
+MD	618594	Strada Okteabriskaia	residential	186	11	208	
+MD	618594	Strada Șkolinaia	residential	134	5	121	
+MD	618594	Strada Comsomolului	residential	122	9	135	
+MD	618594	Strada Mihail Frunze	residential	118	5	125	
+MD	618594	Strada Gării	primary	107	6	128	
+MD	618594	Strada Ștefan cel Mare și Sfânt	residential	96	3	62	
+MD	618594	Strada Vasili Jukovski	residential	92	5	99	
+MD	618594	Strada Trudovaia	primary	85	5	75	
+MD	618594	Strada Grigori Kotovski	residential	84	4	93	
+MD	618594	Strada Grădinilor	residential	79	1	98	
+MD	618594	Strada Alexei Mateevici	residential	77	3	126	
+MD	618594	Strada Moldavskaia	residential	76	4	74	
+MD	618594	Strada Ion Dodica	residential	72	4	101	
+MD	618594	Strada Putilovskaia	residential	71	3	86	
+MD	618594	Strada Kișiniovskaia	residential	69	3	66	
+MD	618594	Strada 24 August	residential	68	2	74	
+MD	618594	Strada Stepan Razin	residential	68	3	68	
+MD	618594	Strada Tinereții	residential	67	4	93	
+MD	618594	Strada Livezilor	residential	63	2	52	
+MD	618605	Strada Ștefan cel Mare și Sfînt	primary	289	2	268	
+MD	618605	Strada Decebal	primary	240	3	164	
+MD	618605	Strada Păcii	residential	191	3	162	
+MD	618605	Strada Igor Vieru	residential	184	9	184	
+MD	618605	Strada Bulgară	tertiary	181	11	160	
+MD	618605	Strada Kiev	secondary	168	5	143	
+MD	618605	Strada 31 August 1989	residential	167	2	127	
+MD	618605	Strada Ștefan cel Mare și Sfânt	primary	163	2	95	
+MD	618605	Strada Mihai Eminescu	residential	150	3	68	
+MD	618605	Strada Soroca	tertiary	149	8	140	
+MD	618605	Strada Muncii	residential	146	5	93	
+MD	618605	Strada Alexandr Pușkin	residential	144	3	91	
+MD	618605	Strada Independenței	residential	140	5	98	
+MD	618605	Strada Libertății	residential	140	7	127	
+MD	618605	Strada Moldovenească	residential	140	6	146	
+MD	618605	Strada Serghei Karasiov	residential	135	23	124	
+MD	618605	Strada Adam Mickiewicz	residential	134	6	131	
+MD	618605	Strada Tineretului	residential	132	2	81	
+MD	618605	Strada Calea Ieșilor	tertiary	129	6	112	
+MD	618605	Strada Iuri Gagarin	tertiary	129	3	114	
+MD	618605	Strada Dumitru Caraciobanu	residential	124	7	139	
+MD	618605	Strada Mircea cel Bătrân	unclassified	121	7	112	
+MD	618605	Strada Victoriei	tertiary	116	3	92	
+MD	618605	Strada Tamara Ciobanu	residential	114	3	98	
+MD	618605	Strada Miron Costin	residential	107	6	102	
+MD	618605	Strada Chișinău	tertiary	105	3	102	
+MD	618605	Strada Anton Cehov	residential	101	3	74	
+MD	618605	Strada George Enescu	residential	100	2	101	
+MD	618605	Strada Sfîntul Nicolae	residential	100	5	122	
+MD	618605	Strada Alexandr Radișcev	residential	99	5	98	
+MD	618605	Strada Cahul	residential	97	3	109	
+MD	618605	Strada Heciului	residential	97	8	118	
+MD	618605	Strada Taras Șevcenko	residential	97	6	100	
+MD	618605	Strada Salcîmilor	residential	96	9	110	
+MD	618605	Strada Alexandru cel Bun	residential	93	1	43	
+MD	618605	Strada Pavel Boțu	primary	89	5	83	
+MD	618605	Strada Vladimir Komarov	residential	89	3	94	
+MD	618605	Strada Mihai Viteazul	residential	88	5	63	
+MD	618605	Strada Orhei	residential	87	8	109	
+MD	618605	Strada Tudor Vladimirescu	unclassified	82	5	78	
+MD	618605	Strada Moscova	residential	81	4	83	
+MD	618605	Strada Nikolai Nekrasov	residential	80	4	80	
+MD	618605	Strada Zamfir Ralli-Arbore	residential	80	9	87	
+MD	618605	Strada Ion Magnet	residential	77	4	65	
+MD	618605	Strada Bogdan Petriceicu Hașdeu	residential	75	5	78	
+MD	618605	Strada Academician Lazăr Dubinovschi	tertiary	74	2	75	
+MD	618605	Strada Feroviarilor	residential	74	13	123	
+MD	618605	Strada Constantin Negruzzi	residential	73	2	42	
+MD	618605	Strada Serghei Lazo	residential	73	3	54	
+MD	618605	Strada Vasile Sârbu	living_street	73	4	72	
+MD	618605	Strada 1 Mai	residential	72	3	133	
+MD	618605	Strada Boris Voineac	living_street	70	4	72	
+MD	618605	Strada Ion Luca Caragiale	unclassified	70	4	63	
+MD	618605	Strada Teiului	residential	70	5	70	
+MD	618605	Strada Maria Cebotari	residential	68	2	78	
+MD	618605	Strada Valeriu Cupcea	residential	68	1	30	
+MD	618605	Strada Șalom Aleihem	residential	68	4	69	
+MD	618605	Strada Alecu Russo	residential	67	2	36	
+MD	618605	Strada Alexandr Pokrîșkin	tertiary	67	2	114	
+MD	618605	Strada Dimitrie Cantemir	residential	67	3	34	
+MD	618605	Strada Igor Dorogoi	living_street	67	5	76	
+MD	618605	Strada Pervomaiskaia		67	6	94	
+MD	618605	Strada Vasile Alecsandri	residential	65	2	51	
+MD	618605	Strada Ciprian Porumbescu	residential	64	4	57	
+MD	618605	Strada Andrei Paladi	residential	63	6	124	
+MD	618605	Strada Molodiojnaia	residential	63	4	69	
+MD	618605	Strada Vladimir Korolenko	residential	63	3	58	
+MD	618605	Strada Boris Glavan	residential	62	2	35	
+MD	618605	Strada Ivan Turghenev	residential	62	4	57	
+MD	618605	Strada Sfântul Gheorghe	residential	62	3	62	
+MD	618605	Strada Liubov Ojog	living_street	61	5	65	
+MD	618605	Strada Mărțișorilor	residential	61	2	44	
+MD	618605	Strada Burebista	unclassified	60	3	57	
+MD	618605	Strada Ștefan Neaga	residential	60	3	57	
+MD	618605	Strada Nicolae Iorga	primary	59	6	40	
+MD	618605	Strada Nikolai Gogol	residential	59	1	47	
+MD	618605	Stradela Soroca		59	1	52	
+MD	618605	Strada Ion Creangă	residential	58	3	72	
+MD	618605	Strada Ivan Cerneahovski	residential	58	2	55	
+MD	618605	Strada Nikolai Ostrovski	residential	58	3	80	
+MD	618605	Strada Igor Sereda	residential	57	2	62	
+MD	618605	Strada Petru Zadnipru	residential	57	4	59	
+MD	618605	Stradela Vissarion Belinski	residential	56	3	55	
+MD	618605	Strada Florilor	residential	55	1	25	
+MD	618605	Strada Pavel Iablocikov	residential	55	3	54	
+MD	618605	Strada Plopilor	tertiary	55	3	56	
+MD	618605	Strada Alexandr Beleakov	residential	54	2	55	
+MD	618605	Strada Alexandr Gherțen	residential	53	3	51	
+MD	618605	Strada Alexandru Donici	residential	53	2	33	
+MD	618605	Strada Constantin Brâncuși	residential	53	4	68	
+MD	618605	Strada Codrilor	residential	52	2	51	
+MD	618605	Strada Mihail Saltîkov-Șcedrin	residential	52	3	60	
+MD	618605	Strada Academician Vladimir Belousov	residential	51	3	47	
+MD	618605	Strada Ivan Konev	unclassified	51	1	46	
+MD	618605	Strada Mitropolit Dosoftei	residential	51	3	49	
+MD	618605	Strada Smolean	residential	51	19	92	
+MD	618605	Strada Constantin Stere	residential	50	3	45	
+MD	618605	Strada Grigore Martîniuc	living_street	50	4	55	
+MD	618605	Strada Palaria	residential	50	14	79	
+MD	618605	Stradela Muncii	residential	50	3	39	
+MD	618631	Strada Ștefan cel Mare și Sfânt	primary	589	7	192	
+MD	618631	Strada Dnestrovskaia		280	8	256	
+MD	618631	Strada Prieteniei	residential	173	3	163	
+MD	618631	Strada Mira		150	5	118	
+MD	618631	Strada Molodiojnaia	residential	132	3	67	
+MD	618631	Strada Libertății	residential	125	7	158	
+MD	618631	Strada Țentralinaia	tertiary	112	6	137	
+MD	618631	Strada Doina	residential	109	2	82	
+MD	618631	Strada Drujbî	living_street	109	2	86	
+MD	618631	Strada Alexandr Pușkin	residential	95	2	56	
+MD	618631	Strada Ion Creangă	residential	87	2	46	
+MD	618631	Strada Nikolai Gogol	residential	79	1	55	
+MD	618631	Strada Nijneaea	residential	70	4	89	
+MD	618631	Strada Viilor	residential	66	2	93	
+MD	618631	Strada Ştefan cel Mare şi Sfînt	primary	65	63	164	
+MD	618631	Strada Vinogradnaia	residential	64	2	30	
+MD	618631	Strada 1 Mai	tertiary	63	2	34	
+MD	618631	Strada Cîmpului	residential	58	3	88	
+MD	618631	Strada Pădurilor	residential	58	2	43	
+MD	618631	Strada Dimitrie Cantemir	residential	55	1	25	
+MD	618631	Strada Eugen Doga	residential	54	2	58	
+MD	618631	Strada Iarmarocului	residential	53	3	60	
+MD	618631	Strada Muncitorilor	residential	53	3	47	
+MD	618631	Strada Păcii	unclassified	53	47	100	
+MD	824134	Strada Ștefan cel Mare și Sfânt	tertiary	303	11	174	
+MD	824134	Strada Iuri Gagarin	living_street	195	3	94	
+MD	824134	Strada Mihai Eminescu	living_street	178	2	55	
+MD	824134	Strada Ștefan Vodă	residential	145	3	94	
+MD	824134	Strada Dacia	living_street	127	3	95	
+MD	824134	Strada Traian	residential	125	4	94	
+MD	824134	Strada Grigore Ureche	residential	121	2	97	
+MD	824134	Strada Alexandru cel Bun	residential	118	1	45	
+MD	824134	Strada Ghidighici	living_street	111	2	85	
+MD	824134	Strada Alexei Mateevici	residential	108	3	40	
+MD	824134	Strada Dimitrie Cantemir	living_street	108	4	106	
+MD	824134	Strada Veronica Micle	living_street	107	3	55	
+MD	824153	Strada Ștefan cel Mare și Sfânt	living_street	223	5	179	
+MD	824153	Strada Ștefan cel Mare și Sfînt		196	7	121	
+MD	824153	Strada Chișinău	primary	141	1	52	
+MD	824153	Strada Ion Creangă	living_street	121	1	57	
+MD	824153	Strada Independenței	living_street	119	2	50	
+MD	824153	Strada Alexandru cel Bun	residential	109	2	37	
+MD	824153	Strada 31 August 1989	living_street	107	3	65	
+MD	824153	Strada Mihai Eminescu	living_street	103	2	49	
+MD	824153	Strada Gloriei	tertiary	95	1	57	
+MD	824153	Strada Viilor	living_street	92	2	43	
+MD	824153	Strada Trandafirilor	living_street	86	2	50	
+MD	824153	Strada Boris Glavan	living_street	79	4	77	
+MD	824153	Strada Dimitrie Cantemir	living_street	79	1	22	
+MD	824153	Strada Tineretului	living_street	79	2	51	
+MD	824153	Strada Minerilor	living_street	76	3	74	
+MD	824153	Strada Teilor	living_street	75	2	32	
+MD	824153	Strada Vasile Alecsandri	living_street	73	4	63	
+MD	824153	Strada Florilor	living_street	72	2	49	
+MD	824153	Strada Păcii	living_street	72	2	26	
+MD	824153	Strada Prietenia	living_street	69	3	71	
+MD	824153	Strada Chișinăului	tertiary	67	4	71	
+MD	824153	Strada Izvoarelor	living_street	64	3	101	
+MD	824153	Strada Libertății	living_street	64	2	45	
+MD	824153	Strada Salcâmilor	living_street	63	5	69	
+MD	830975	Strada Ștefan cel Mare și Sfânt	residential	284	4	74	
+MD	830975	Strada Livezilor	residential	232	2	80	
+MD	830975	Strada Independenței	residential	215	2	76	
+MD	830975	Strada Mihai Eminescu	residential	200	2	118	
+MD	830975	Strada Unirii	residential	164	2	41	
+MD	830975	Strada Ștefan cel Mare și Sfînt	secondary	109	5	80	
+MD	830975	Strada Păcii	residential	102	1	44	
+MD	830975	Strada Lacurilor	residential	100	5	125	
+MD	830975	Strada 31 August 1989	residential	95	1	26	
+MD	830975	Strada Ion Creangă	residential	90	1	19	
+MD	830975	Strada Iazului	residential	89	5	91	
+MD	830975	Strada Dimitrie Cantemir	residential	85	1	27	
