@@ -2,7 +2,6 @@
 #include "../dasmig/addressgen.hpp"
 
 #include <algorithm>
-#include <cstdio>
 #include <filesystem>
 #include <fstream>
 #include <map>
@@ -631,15 +630,7 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
             h *= 0x100000001b3ULL;
         }
     }
-    if (h != 0xb9e652d45e4f2c41ULL) // TEMPORARY DEBUG
-    {
-        for (std::uint64_t s = 0; s < 10000; ++s)
-        {
-            std::printf("DBG %llu %016llx\n", static_cast<unsigned long long>(s),
-                        static_cast<unsigned long long>(dasmig::core::fnv1a64(gen.get_address(dasmig::address_request{}, s).to_json())));
-        }
-    }
-    REQUIRE(h == 0xb9e652d45e4f2c41ULL);
+    REQUIRE(h == 0xc2dd65c358493b49ULL);
 }
 
 // ---------------------------------------------------------------------------
@@ -840,7 +831,7 @@ TEST_CASE("address batch: known answer of 10,000 items", "[batch][kat]")
     gen.for_each_address(request, {.count = 10000, .threads = 4}, 1,
                         [&](std::uint64_t, const dasmig::address& item)
                         { hash = dasmig::core::hash_combine(hash, dasmig::core::fnv1a64(item.to_json())); });
-    REQUIRE(hash == 0xc57500d9ad79f366ULL);
+    REQUIRE(hash == 0xb23b52c6b995778aULL);
 }
 
 // ---------------------------------------------------------------------------

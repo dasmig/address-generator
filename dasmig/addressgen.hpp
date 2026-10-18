@@ -378,8 +378,10 @@ class adg
         {
             // Japan: chome-ban-go.
             v.number = core::uniform_int<std::uint32_t>(nr, 1, 9);
-            v._number_text = std::format("{}-{}-{}", v.number, core::uniform_int<int>(nr, 1, 30),
-                                         core::uniform_int<int>(nr, 1, 20));
+            // Drawn in statements: the order of a call's arguments is unspecified.
+            const int ban = core::uniform_int<int>(nr, 1, 30);
+            const int go = core::uniform_int<int>(nr, 1, 20);
+            v._number_text = std::format("{}-{}-{}", v.number, ban, go);
         }
         else
         {
