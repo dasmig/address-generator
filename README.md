@@ -2,6 +2,8 @@
 
 > **Requires C++23** (e.g., `-std=c++23` for GCC/Clang, `/std:c++latest` for MSVC).
 
+[![Address Generator for C++](https://raw.githubusercontent.com/dasmig/address-generator/main/doc/address-generator.png)](https://github.com/dasmig/address-generator/releases)
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dasmig/address-generator/main/LICENSE.MIT)
 [![CI](https://github.com/dasmig/address-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/dasmig/address-generator/actions/workflows/ci.yml)
 [![GitHub Releases](https://img.shields.io/github/release/dasmig/address-generator.svg)](https://github.com/dasmig/address-generator/releases)
