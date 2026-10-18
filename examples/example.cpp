@@ -11,7 +11,7 @@ int main()
         std::cerr << "Could not load the address data.\n";
         return 1;
     }
-    std::cout << "Loaded " << gen.count() << " places in " << gen.countries().size() << " countries.\n\n";
+    std::cout << "Loaded " << gen.place_count() << " places in " << gen.country_count() << " countries.\n\n";
 
     std::cout << "Random:\n";
     for (int i = 0; i < 5; ++i)

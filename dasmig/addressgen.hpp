@@ -660,7 +660,11 @@ class adg
 
     /// @brief Return the number of loaded places.
     /// @return The count.
-    [[nodiscard]] std::size_t count() const { return _model.places.size(); }
+    [[nodiscard]] std::size_t place_count() const { return _model.places.size(); }
+
+    /// @brief Return the number of countries that have places.
+    /// @return The count.
+    [[nodiscard]] std::size_t country_count() const { return _model.codes.size(); }
 
     /// @brief The countries that have places, sorted.
     /// @return ISO codes.

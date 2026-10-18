@@ -86,7 +86,8 @@ static dasmig::address_request in(const char* country)
 TEST_CASE("load(dataset::lite) loads every table", "[loading]")
 {
     const auto gen = make_loaded_generator();
-    REQUIRE(gen.count() > 30000);
+    REQUIRE(gen.place_count() > 30000);
+    REQUIRE(gen.country_count() == gen.countries().size());
     REQUIRE(gen.countries().size() > 200);
     REQUIRE(gen.has_streets("PT"));
     REQUIRE_FALSE(gen.has_streets("VA"));
