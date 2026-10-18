@@ -365,7 +365,7 @@ class adg
         const resolved r = resolve_place_(request.country, request.place, request.weighted, call);
         const std::string& country = r.country;
         v.geonameid = r.id;
-        const format_data& fmt = format_of_(country);
+        const format_data& fmt = format_of_(r);
 
         v.country_code = country;
         v.city = r.city;
@@ -522,7 +522,7 @@ class adg
         const core::rng call{call_seed};
         const resolved r = resolve_place_(request.country, request.place, request.weighted, call);
         auto zr = call.split("postcode");
-        return pick_postcode_(r, format_of_(r.country), zr);
+        return pick_postcode_(r, format_of_(r), zr);
     }
 
     /// @brief Generate a batch of postcodes from a seed drawn like get_postcode() draws its own.
@@ -1286,7 +1286,8 @@ class adg
     // With @p reset (load), tables without a document are emptied.
     void apply_(documents docs, core::layer_mode mode, bool reset, std::optional<shard_config> shards = {})
     {
-        tables next = _tables;
+        // A load discards the old rows, so there is nothing to copy.
+        tables next = reset ? make_tables_() : _tables;
         shard_config cfg = reset ? shard_config{} : _shard_cfg;
         if (reset && shards) cfg = std::move(*shards);
         // Street layers added while the streets are per-country files are kept
@@ -1304,7 +1305,15 @@ class adg
                 if (reset) tbl.clear();
                 continue;
             }
-            (void)tbl.extend(std::move(*doc), mode, [t](const core::tsv_row& row) { validate_(t, row); });
+            // The rows build_model_() parses are checked there, before anything commits.
+            if (t == table::street_types || t == table::street_names)
+            {
+                (void)tbl.extend(std::move(*doc), mode, [t](const core::tsv_row& row) { validate_(t, row); });
+            }
+            else
+            {
+                (void)tbl.extend(std::move(*doc), mode);
+            }
         }
         auto built = build_model_(next, cfg);
         auto built_shards = make_shards_(next, cfg);
@@ -1339,6 +1348,12 @@ class adg
     static model build_model_(const tables& tbls, const shard_config& cfg)
     {
         model m;
+        const auto place_rows = tbls.at(index_(table::places)).size();
+        m.places.reserve(place_rows);
+        m.place_of_id.reserve(place_rows);
+        m.places_by_name.reserve(place_rows);
+        m.postcodes.reserve(place_rows);
+        if (!cfg.active) m.streets.reserve(place_rows);
         for (const auto& row : tbls.at(index_(table::places)).rows())
         {
             m.places.push_back(parse_place_(row));
@@ -1398,8 +1413,8 @@ class adg
         }
 
         // Composed streets: a country's own types and names, else the generic ones.
-        for (auto& [code, c] : m.countries) fill_composed_(tbls, code, c);
-        if (!m.countries.contains("*")) fill_composed_(tbls, "*", m.countries["*"]);
+        m.countries.try_emplace("*");
+        fill_composed_(tbls, m.countries);
         return m;
     }
 
@@ -1464,19 +1479,25 @@ class adg
         return &s;
     }
 
-    static void fill_composed_(const tables& tbls, const std::string& code, country_data& c)
+    // One pass over each table, handing every row to its country; rows of a
+    // country no place or format mentions are not kept.
+    static void fill_composed_(const tables& tbls, std::map<std::string, country_data, std::less<>>& countries)
     {
         for (const auto& row : tbls.at(index_(table::street_types)).rows())
         {
             std::string country;
             auto [t, w] = parse_type_(row, country);
-            if (country != code) continue;
+            const auto it = countries.find(country);
+            if (it == countries.end()) continue;
+            auto& c = it->second;
             c.type_weights.add(c.types.size(), w);
             c.types.push_back(std::move(t));
         }
         for (const auto& row : tbls.at(index_(table::street_names)).rows())
         {
-            if (row["country_code"] != code) continue;
+            const auto it = countries.find(row["country_code"]);
+            if (it == countries.end()) continue;
+            auto& c = it->second;
             c.name_weights.add(c.names.size(), parse_weight_(row));
             c.names.push_back(row.get<std::string>("name"));
         }
@@ -1499,13 +1520,21 @@ class adg
         std::string region_code;
         std::string region;
         std::uint64_t population{0};
+        const country_data* data{nullptr}; // the country's record, null when the model has none
     };
+
+    [[nodiscard]] const country_data* country_of_(const std::string& code) const
+    {
+        const auto it = _model.countries.find(code);
+        return it != _model.countries.end() ? &it->second : nullptr;
+    }
 
     [[nodiscard]] resolved from_place_(std::size_t index) const
     {
         const auto& p = _model.places[index];
         return {.index = index, .id = p.id, .country = p.country, .city = p.name,
-                .region_code = p.region_code, .region = p.region, .population = p.population};
+                .region_code = p.region_code, .region = p.region, .population = p.population,
+                .data = country_of_(p.country)};
     }
 
     // The place an address is in: the request's, else one drawn from its
@@ -1523,25 +1552,25 @@ class adg
                                             "' is not in the data; give a country to use it as given");
             }
             return {.index = none_, .id = 0, .country = *want_country, .city = want_place->city,
-                    .region_code = want_place->region, .region = want_place->region, .population = 0};
+                    .region_code = want_place->region, .region = want_place->region, .population = 0,
+                    .data = country_of_(*want_country)};
         }
         auto cr = call.split("country");
         const std::string country = want_country ? *want_country : pick_country_(cr, weighted);
-        const auto it = _model.countries.find(country);
-        if (it == _model.countries.end() || it->second.places.empty())
+        const country_data* cd = country_of_(country);
+        if (cd == nullptr || cd->places.empty())
         {
             throw std::invalid_argument("no places for country '" + country + "'");
         }
         auto pr = call.split("place");
-        const auto& c = it->second;
+        const auto& c = *cd;
         return from_place_(weighted ? c.place_weights.pick(pr)
                                     : c.places[core::uniform_int<std::size_t>(pr, 0, c.places.size() - 1)]);
     }
 
-    [[nodiscard]] const format_data& format_of_(const std::string& country) const
+    [[nodiscard]] const format_data& format_of_(const resolved& r) const
     {
-        const auto it = _model.countries.find(country);
-        return it != _model.countries.end() && it->second.has_format ? it->second.format : _model.generic_format;
+        return r.data != nullptr && r.data->has_format ? r.data->format : _model.generic_format;
     }
 
     struct street_pick
@@ -1558,7 +1587,7 @@ class adg
     {
         const place_streets* ps = r.index != none_ ? streets_of_(r.country, r.id) : nullptr;
         if (ps != nullptr && weighted && !(ps->weights.total_weight() > 0.0)) ps = nullptr; // all switched off
-        if (ps == nullptr) return {.name = composed_street_(r.country, sr), .latin = {}, .lo = 0, .hi = 0, .real = false};
+        if (ps == nullptr) return {.name = composed_street_(r, sr), .latin = {}, .lo = 0, .hi = 0, .real = false};
         const auto& s = ps->streets[weighted ? ps->weights.pick_index(sr)
                                              : core::uniform_int<std::size_t>(sr, 0, ps->streets.size() - 1)];
         return {.name = s.name, .latin = s.latin, .lo = s.min_number, .hi = s.max_number, .real = true};
@@ -1628,14 +1657,13 @@ class adg
         return f.region_as_code && alpha ? code : name;
     }
 
-    [[nodiscard]] std::string composed_street_(const std::string& country, core::rng& r) const
+    [[nodiscard]] std::string composed_street_(const resolved& place, core::rng& r) const
     {
-        const auto it = _model.countries.find(country);
-        const country_data* c = it != _model.countries.end() ? &it->second : nullptr;
+        const country_data* c = place.data;
         if (c == nullptr || c->types.empty() || c->names.empty()) c = &_model.countries.at("*");
         if (c->types.empty() || c->names.empty())
         {
-            throw std::runtime_error("No street data and no composed-street tables loaded for country " + country);
+            throw std::runtime_error("No street data and no composed-street tables loaded for country " + place.country);
         }
         const auto& t = c->types[c->type_weights.pick_index(r)];
         const auto& n = c->names[c->name_weights.pick_index(r)];
@@ -1760,22 +1788,37 @@ class adg
 
         std::vector<std::string> out;
         const auto& templates = script == address_script::latin && !f.lines_latin.empty() ? f.lines_latin : f.lines;
+        const std::string_view none;
         for (const auto& tmpl : templates)
         {
-            std::string line = tmpl;
-            bool any = false;
-            const auto put = [&](std::string_view token, const std::string& value) {
-                if (!line.contains(token)) return;
-                if (!value.empty()) any = true;
-                replace_all_(line, token, value);
-            };
-            put("{A}", street);
-            put("{C}", v.city);
             // A region with the city's own name (Tokyo, Singapore) is not repeated on its line.
-            put("{S}", v.region == v.city && tmpl.contains("{C}") ? std::string{} : v.region);
-            put("{Z}", v.postcode);
-            put("{D}", "");
-            put("{X}", "");
+            const bool has_city = tmpl.contains("{C}");
+            const std::string_view region = v.region == v.city && has_city ? none : std::string_view{v.region};
+            std::string line;
+            line.reserve(tmpl.size() + street.size() + v.city.size() + v.postcode.size());
+            bool any = false;
+            for (std::size_t i = 0; i < tmpl.size(); ++i)
+            {
+                std::string_view value;
+                if (tmpl[i] == '{' && i + 2 < tmpl.size() && tmpl[i + 2] == '}')
+                {
+                    switch (tmpl[i + 1])
+                    {
+                    case 'A': value = street; break;
+                    case 'C': value = v.city; break;
+                    case 'S': value = region; break;
+                    case 'Z': value = v.postcode; break;
+                    case 'D':
+                    case 'X': break;
+                    default: line += tmpl[i]; continue;
+                    }
+                    any = any || !value.empty();
+                    line += value;
+                    i += 2;
+                    continue;
+                }
+                line += tmpl[i];
+            }
             if (!any) continue;
             line = tidy_(std::move(line));
             if (!line.empty()) out.push_back(std::move(line));
