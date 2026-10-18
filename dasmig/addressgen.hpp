@@ -37,7 +37,7 @@
 /// @author Diego Dasso Migotto (diegomigotto at hotmail dot com)
 /// @see See doc/usage.md for the narrative tutorial.
 
-DASMIG_CORE_REQUIRE(1, 1);
+DASMIG_CORE_REQUIRE(1, 2);
 
 namespace dasmig
 {
@@ -1049,14 +1049,9 @@ class adg
         std::unordered_map<std::uint32_t, place_postcodes> postcodes;
     };
 
-    static bool is_code_(std::string_view s)
-    {
-        return s.size() == 2 && s[0] >= 'A' && s[0] <= 'Z' && s[1] >= 'A' && s[1] <= 'Z';
-    }
-
     static void check_code_(const core::tsv_row& row)
     {
-        if (!is_code_(row["country_code"]))
+        if (!core::is_alpha2(row["country_code"]))
         {
             throw row.error("country_code", "expected two capital letters (ISO 3166-1 alpha-2)");
         }
