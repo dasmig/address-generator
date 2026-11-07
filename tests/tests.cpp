@@ -186,8 +186,22 @@ TEST_CASE("a place request anchors the address", "[generation][request]")
         REQUIRE(v.city == "Lisbon");
         REQUIRE(v.country_code == "PT");
         REQUIRE(v.geonameid == 2267057);
+        REQUIRE(v.admin1_code == "14");
         REQUIRE(v.real_street);
     }
+
+    // The GeoNames admin1 code, also where the address writes an abbreviation.
+    const auto admin1_of = [&](const char* city, const char* region) {
+        dasmig::address_request q;
+        q.place = dasmig::place_ref{city, region};
+        const auto a = gen.get_address(q, std::uint64_t{1});
+        REQUIRE(a.to_json().find("admin1_code") == std::string::npos);
+        return a.admin1_code;
+    };
+    REQUIRE(admin1_of("Curitiba", "PR") == "18");
+    REQUIRE(admin1_of("Toronto", "ON") == "08");
+    REQUIRE(admin1_of("Melbourne", "VIC") == "07");
+    REQUIRE(admin1_of("Chicago", "IL") == "IL");
 
     // A place the data lacks needs a country and is used as given.
     r.place = dasmig::place_ref{"Nowhereville", "Nowhere"};
@@ -197,6 +211,7 @@ TEST_CASE("a place request anchors the address", "[generation][request]")
     REQUIRE(v.city == "Nowhereville");
     REQUIRE_FALSE(v.real_street);
     REQUIRE(v.geonameid == 0);
+    REQUIRE(v.admin1_code.empty());
     REQUIRE(v.postcode.size() == 8); // ####-### from the pattern
 }
 
