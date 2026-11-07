@@ -125,6 +125,7 @@ class address
     std::string postcode;     ///< In the country's format; empty where there are no postcodes.
     bool real_street{false};  ///< True when the street comes from the place's own data, false when composed.
     std::uint32_t geonameid{0}; ///< The place's GeoNames id (city-generator's); 0 for a place given by name only.
+    std::string admin1_code;  ///< The place's GeoNames admin1 code (city-generator's `admin1_code`), also where `region` writes another; empty for a place given by name only. Not in the JSON.
 
     /// @brief The address lines in the country's order.
     /// @return One string per line, without the recipient lines.
@@ -370,6 +371,7 @@ class adg
         v.country_code = country;
         v.city = r.city;
         v.region = region_text_(fmt, r.region_code, r.region);
+        if (r.id != 0) v.admin1_code = admin1_of_(country, r.region_code);
 
         // Street and number.
         auto sr = call.split("street");
@@ -1647,6 +1649,34 @@ class adg
     {
         const auto it = _model.postcodes.find(id);
         return it == _model.postcodes.end() ? nullptr : &it->second;
+    }
+
+    // GeoNames numbers the divisions of these countries; the places table holds
+    // the abbreviation addresses write (scripts/prepare_places.py), so this is
+    // that table read backwards.
+    static std::string admin1_of_(std::string_view country, const std::string& region_code)
+    {
+        struct division
+        {
+            std::string_view country, abbreviation, admin1;
+        };
+        static constexpr std::array<division, 48> numbered{{
+            {"AU", "ACT", "01"}, {"AU", "NSW", "02"}, {"AU", "NT", "03"},  {"AU", "QLD", "04"}, {"AU", "SA", "05"},
+            {"AU", "TAS", "06"}, {"AU", "VIC", "07"}, {"AU", "WA", "08"},  {"BR", "AC", "01"},  {"BR", "AL", "02"},
+            {"BR", "AP", "03"},  {"BR", "AM", "04"},  {"BR", "BA", "05"},  {"BR", "CE", "06"},  {"BR", "DF", "07"},
+            {"BR", "ES", "08"},  {"BR", "MS", "11"},  {"BR", "MA", "13"},  {"BR", "MT", "14"},  {"BR", "MG", "15"},
+            {"BR", "PA", "16"},  {"BR", "PB", "17"},  {"BR", "PR", "18"},  {"BR", "PI", "20"},  {"BR", "RJ", "21"},
+            {"BR", "RN", "22"},  {"BR", "RS", "23"},  {"BR", "RO", "24"},  {"BR", "RR", "25"},  {"BR", "SC", "26"},
+            {"BR", "SP", "27"},  {"BR", "SE", "28"},  {"BR", "GO", "29"},  {"BR", "PE", "30"},  {"BR", "TO", "31"},
+            {"CA", "AB", "01"},  {"CA", "BC", "02"},  {"CA", "MB", "03"},  {"CA", "NB", "04"},  {"CA", "NL", "05"},
+            {"CA", "NS", "07"},  {"CA", "ON", "08"},  {"CA", "PE", "09"},  {"CA", "QC", "10"},  {"CA", "SK", "11"},
+            {"CA", "YT", "12"},  {"CA", "NT", "13"},  {"CA", "NU", "14"},
+        }};
+        for (const auto& d : numbered)
+        {
+            if (d.country == country && d.abbreviation == region_code) return std::string{d.admin1};
+        }
+        return region_code;
     }
 
     static std::string region_text_(const format_data& f, const std::string& code, const std::string& name)
