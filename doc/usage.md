@@ -106,7 +106,7 @@ r.script = dasmig::address_script::latin;           // the Latin layout, where a
 - **Country.** Without one, a country is drawn by the population of its places; with `weighted = false`, each country is equally likely. An unknown country throws `std::invalid_argument`.
 - **Place.** The anchor for an address whose city was drawn elsewhere (`persona-generator` passes its city). The name is matched without regard to case; `region` (a name or a code) tells places of one name apart, and without it the most populous wins. A place the data lacks needs `country` and is used as given: its street is composed and its postcode comes from the country's pattern. `address::admin1_code` gives the place's GeoNames admin1 code, the one city-generator has, for a library that encodes the region (id-generator's birthplace and residence codes). It is not in the JSON, and it is empty for a place given by name only.
 - **Weighted.** Places by population, streets by the number of addresses on them, postcodes by their weight. Unweighted draws are uniform.
-- **Unit chance.** Countries without a unit style (Japan, Korea, China, and any territory the table does not give one) never have a unit.
+- **Unit chance.** The chance of a flat's unit: by default 0.30 in a place of 250,000 people or more and 0.12 elsewhere; `1.0` always gives one (property-generator's `in_building()` says when), `0.0` never. The 157 territories with a unit convention write it their own way (`Whg. 3`, `кв. 12`, `lgh 1102`, `12/5`, `501室`; [data.md](data.md) lists them); the rest never have a unit, whatever the request says. With `script = latin`, a unit in another script is written in Latin (`kv. 12`, `Flat A, 5/F`).
 - **Script.** `address_script::local` (the default) uses the country's own layout; `latin` uses the Latin-script layout for the 14 territories that have one (AE, AM, CN, EG, HK, JP, KP, KR, MO, RU, TH, TW, UA, VN) and changes nothing elsewhere. It also writes a street named in another script by its Latin name (OpenStreetMap's `name:en` and similar) when the data has one, in every country; otherwise the street keeps its local name. Place names are the Latin names GeoNames gives, in either script.
 
 ### Japan
@@ -135,7 +135,7 @@ Each part draws from a stream split from the call seed, so a part added later le
 1. **Country and place.** By population, unless the request names them.
 2. **Street.** A street of that place, by address count. A place with no street data gets a *composed* street: a type and a name from the country's own tables (or the generic ones), such as `Rue de la Paix` or `Hauptstraße`. `real_street` tells which.
 3. **Number.** Skewed towards low numbers, within the range observed on the street when there is one.
-4. **Unit.** With the country's chance, written in the country's style (`Apt 4`, `Flat 3`, `3º B`).
+4. **Unit.** With the country's chance, written in the country's style (`Apt 4`, `Flat 3`, `3º B`, `кв. 12`), and placed where the country puts it: after the street and number, on the number (`12/5`) or before the street (Hong Kong in Latin script).
 5. **Postcode.** One of the place's own postcodes; where the data holds only the first part (Canada, the UK, the Netherlands, Ireland), the rest is drawn from the country's pattern; with no postcodes for the place, a postcode from the pattern. Countries without postcodes get none.
 6. **Layout.** The country's own line order (`{A}` street and number, `{C}` city, `{S}` region, `{Z}` postcode), the number before or after the street as the country writes it, empty parts dropped.
 
