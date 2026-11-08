@@ -25,14 +25,19 @@ Downloads data/<CC> for every territory the service lists (cached under
                  fits
   number_after   1 when the house number follows the street ("Hauptstrasse 5")
   number_sep     what joins street and number: space ("Hauptstrasse 5") or comma ("Rua X, 5")
-  unit_style     how a unit is written (see UNIT_STYLES)
+  unit_style     the name of the country's unit convention (see UNIT_STYLES)
   number_style   empty for a plain number, or `blocks` (Japan: 3-12-5)
+  unit_format    how a unit is written ({n} a number, {f} a floor, {k} a door,
+                 {l} a letter, {a|b} a word); empty: no units
+  unit_join      where it goes: comma, space, dash, slash or before
+  unit_format_latin, unit_join_latin
+                 the same in Latin script; empty when the same
 
 The postcode pattern is derived from the first example and kept only when
 2,000 postcodes drawn from it all match the service's regular expression,
 so the regular expressions are test data and are not shipped.
 
-The columns number_after, number_sep and unit_style are curated (rule 6): the
+The columns number_after, number_sep and the unit columns are curated (rule 6): the
 service does not say where the house number goes. See doc/data.md.
 """
 
@@ -68,23 +73,124 @@ LAYOUTS = {
 }
 NUMBER_STYLE = {"JP": "blocks"}
 
-# unit_style: a Python format with {n} the unit number and {l} a letter.
+# Curated. How a unit (a flat in a building) is written, as
+#   name: (format, join, format in Latin script, join in Latin script)
+# Formats: {n} a number 1-40, {f} a floor 1-9, {k} a door 1-4, {l} a letter A-D,
+# {a|b} one of the words; the rest literally. Joins: comma ("Street 12, Apt 5"),
+# space ("Street 12 lgh 1102"), dash ("Street 12-5"), slash ("Street 12/5") or
+# before ("Flat A, 5/F, 12 Street"). The Latin pair is empty when it is the same.
+# The library draws {n} first and the rest in order, so the styles of 2.2 and
+# earlier (apt, flat, ste, piso, ap_br, app_fr, whg) draw what they did.
+# See doc/data.md: the common written form of each country, not checked
+# against each postal operator's guide.
 UNIT_STYLES = {
-    "apt": "Apt {n}",
-    "flat": "Flat {n}",
-    "ste": "Suite {n}",
-    "piso": "{f}º {l}",
-    "ap_br": "apto {n}",
-    "app_fr": "Appt {n}",
-    "whg": "Whg. {n}",
-    "none": "",
+    "none": ("", "", "", ""),
+    # English
+    "apt": ("Apt {n}", "comma", "", ""),
+    "flat": ("Flat {n}", "comma", "", ""),
+    "ste": ("Suite {n}", "comma", "", ""),
+    "flat_bd": ("Flat {f}{l}", "comma", "", ""),            # Bangladesh: Flat 5B
+    # Romance languages
+    "piso": ("{f}º {l}", "comma", "", ""),                  # Spain, Portugal, Argentina: 3º A
+    "ap_br": ("apto {n}", "comma", "", ""),
+    "andar": ("{f}º andar", "comma", "", ""),               # Lusophone Africa: 3º andar
+    "app_fr": ("Appt {n}", "comma", "", ""),
+    "int_it": ("int. {n}", "comma", "", ""),                # Italian interno
+    "int_mx": ("Int. {n}", "space", "", ""),                # Mexico: Av. Reforma 123 Int. 5
+    "apto": ("Apto. {n}", "comma", "", ""),
+    "apto_floor": ("Apto. {f}0{k}", "comma", "", ""),       # Colombia, Uruguay: Apto. 501
+    "depto": ("Depto. {f}0{k}", "comma", "", ""),           # Chile
+    "dpto": ("Dpto. {f}0{k}", "comma", "", ""),             # Peru, Bolivia, Paraguay
+    "ap_ro": ("ap. {n}", "comma", "", ""),                  # Romanian, Albanian
+    # Germanic
+    "whg": ("Whg. {n}", "comma", "", ""),
+    "lgh": ("lgh 1{f}0{k}", "space", "", ""),               # Sweden's lägenhetsnummer
+    "bolig": ("H0{f}0{k}", "space", "", ""),                # Norway's bruksenhetsnummer
+    "dk": ("{f}. {th|tv|mf}", "comma", "", ""),             # Denmark: 2. th.
+    "is": ("íb. {f}0{k}", "comma", "", ""),                 # Iceland
+    "dash": ("{n}", "dash", "", ""),                        # Netherlands, the Baltics: 12-5
+    # Finnish
+    "fi": ("{l} {n}", "space", "", ""),                     # staircase and flat: 12 A 5
+    # Slavic and Hungarian
+    "slash": ("{n}", "slash", "", ""),                      # Poland: 12/5
+    "byt": ("byt {n}", "comma", "", ""),                    # Czechia, Slovakia
+    "stanovanje": ("stanovanje {n}", "comma", "", ""),      # Slovenia
+    "stan": ("stan {n}", "comma", "", ""),                  # Croatia, Bosnia, Montenegro
+    "stan_cyr": ("стан {n}", "comma", "stan {n}", ""),      # Serbia, North Macedonia
+    "ap_bg": ("ап. {n}", "comma", "ap. {n}", ""),
+    "kv": ("кв. {n}", "comma", "kv. {n}", ""),              # Russian квартира
+    "kv_latin": ("kv. {n}", "comma", "", ""),               # Uzbekistan, Turkmenistan
+    "em_hu": ("{f}. em. {n}.", "space", "", ""),            # Hungary: 3. em. 12.
+    # Other European scripts
+    "diam": ("διαμ. {n}", "comma", "Apt {n}", ""),          # Greece
+    "diam_cy": ("διαμ. {n}", "comma", "Flat {n}", ""),      # Cyprus
+    "daire": ("D:{n}", "space", "", ""),                    # Turkey: No:12 D:5
+    "ge": ("ბინა {n}", "comma", "apt. {n}", ""),
+    "am": ("բն. {n}", "comma", "apt. {n}", ""),
+    "az": ("mənzil {n}", "comma", "", ""),
+    "toot": ("{n} тоот", "comma", "{n} toot", ""),          # Mongolia
+    # Middle East
+    "arab": ("شقة {n}", "comma", "Flat {n}", ""),
+    "dira": ("דירה {n}", "comma", "Apt {n}", ""),
+    "vahed": ("واحد {n}", "comma", "Unit {n}", ""),         # Iran: plak, vahed
+    # East Asia: room numbers are the floor and the door
+    "cn": ("{f}0{k}室", "space", "Room {f}0{k}", "comma"),
+    "tw": ("{f}樓", "space", "{f}F.", "before"),
+    "hk": ("{n}樓{l}室", "space", "Flat {l}, {n}/F", "before"),
+    "mo": ("{n}樓{l}", "space", "{n}º andar {l}", "comma"),
+    "jp": ("{f}0{k}号室", "space", "{f}0{k}", "dash"),
+    "kr": ("{f}0{k}호", "comma", "#{f}0{k}", "comma"),
 }
-UNIT = {
-    "US": "apt", "CA": "apt", "AU": "flat", "NZ": "flat", "GB": "flat", "IE": "apt",
-    "FR": "app_fr", "BE": "app_fr", "LU": "app_fr", "CH": "whg", "DE": "whg", "AT": "whg",
-    "ES": "piso", "PT": "piso", "BR": "ap_br", "AR": "piso", "MX": "apt", "CL": "apt",
-    "CO": "apt", "IT": "apt", "NL": "apt", "JP": "none", "KR": "none", "CN": "none",
+_UNIT_BY_STYLE = {
+    "apt": "US CA IE PW MH FM BS JM BB TT ET ER SO SC MU",
+    "flat": "GB AU NZ MT FJ NR KI SB TV TO WS PG VU ZM TZ KE UG MW RW SS NG GM IN PK NP BT MV",
+    "flat_bd": "BD",
+    "piso": "ES PT AR AD GQ",
+    "ap_br": "BR",
+    "andar": "AO ST MZ CV",
+    "app_fr": "FR BE LU MC TN DZ MA GA DJ CM CG CD KM MG CF BI TD HT",
+    "int_it": "IT VA SM",
+    "int_mx": "MX",
+    "apto": "CR DO CU PA SV NI HN GT VE",
+    "apto_floor": "CO UY",
+    "depto": "CL",
+    "dpto": "PE BO PY",
+    "ap_ro": "RO MD AL XK",
+    "whg": "DE AT CH LI",
+    "lgh": "SE",
+    "bolig": "NO",
+    "dk": "DK",
+    "is": "IS",
+    "dash": "NL EE LV LT",
+    "fi": "FI",
+    "slash": "PL",
+    "byt": "CZ SK",
+    "stanovanje": "SI",
+    "stan": "HR BA ME",
+    "stan_cyr": "RS MK",
+    "ap_bg": "BG",
+    "kv": "RU BY UA KZ KG TJ",
+    "kv_latin": "UZ TM",
+    "em_hu": "HU",
+    "diam": "GR",
+    "diam_cy": "CY",
+    "daire": "TR",
+    "ge": "GE",
+    "am": "AM",
+    "az": "AZ",
+    "toot": "MN",
+    "arab": "EG LY SD JO IQ SY YE PS LB SA AE BH KW QA OM",
+    "dira": "IL",
+    "vahed": "IR",
+    "cn": "CN",
+    "tw": "TW",
+    "hk": "HK",
+    "mo": "MO",
+    "jp": "JP",
+    "kr": "KR KP",
 }
+UNIT = {cc: style for style, codes in _UNIT_BY_STYLE.items() for cc in codes.split()}
+assert len(UNIT) == sum(len(c.split()) for c in _UNIT_BY_STYLE.values()), "a country in two styles"
 
 
 def fetch(code, cache):
@@ -200,7 +306,8 @@ def main():
         before = code in NUMBER_BEFORE
         sep = "comma" if code in NUMBER_COMMA else "space"
         rows.append((code, lines, latin, require, style, pat, COMPLETIONS.get(code, ""), "~".join(examples),
-                     "0" if before else "1", sep, UNIT.get(code, "none"), NUMBER_STYLE.get(code, "")))
+                     "0" if before else "1", sep, UNIT.get(code, "none"), NUMBER_STYLE.get(code, ""),
+                     *UNIT_STYLES[UNIT.get(code, "none")]))
         if meta.get("zip"):
             regexes.append((code, meta["zip"]))
 
@@ -210,7 +317,8 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
         with open(d / "formats.tsv", "w", encoding="utf-8", newline="\n") as f:
             f.write("country_code\tlines\tlines_latin\trequire\tregion_style\tzip_pattern\tzip_completion\tzip_examples\t"
-                    "number_after\tnumber_sep\tunit_style\tnumber_style\n")
+                    "number_after\tnumber_sep\tunit_style\tnumber_style\t"
+                    "unit_format\tunit_join\tunit_format_latin\tunit_join_latin\n")
             for r in rows:
                 f.write("\t".join(r).replace("\n", " ") + "\n")
     rx = Path(a.regex_out)

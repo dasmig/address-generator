@@ -396,7 +396,7 @@ class adg
         // Unit.
         auto ur = call.split("unit");
         const double chance = unit_chance_(request, fmt, r.population);
-        if (core::bernoulli(ur, chance)) v.unit = unit_text_(fmt.unit_style, ur);
+        if (core::bernoulli(ur, chance)) v.unit = unit_text_(unit_of_(fmt, request.script).text, ur);
 
         // Postcode.
         auto zr = call.split("postcode");
@@ -906,7 +906,8 @@ class adg
             return {.key = {"country_code"},
                     .required = {"lines", "number_after"},
                     .optional = {"lines_latin", "require", "region_style", "zip_pattern", "zip_completion",
-                                 "zip_examples", "number_sep", "unit_style", "number_style"}};
+                                 "zip_examples", "number_sep", "unit_style", "number_style", "unit_format",
+                                 "unit_join", "unit_format_latin", "unit_join_latin"}};
         case table::streets:
             return {.key = {"geonameid", "name"},
                     .required = {"country_code", "weight"},
@@ -944,6 +945,20 @@ class adg
 
     enum class position : std::uint8_t { before, after, suffix };
 
+    // Where a unit goes: after the street and number, joined by ", " or " ";
+    // on the house number, as "12-5" or "12/5"; or before the street, "Flat A, 5/F, 12 Nathan Road".
+    enum class unit_join : std::uint8_t { comma, space, dash, slash, before };
+
+    // A unit's text: `{n}` a number 1 to 40, `{f}` a floor 1 to 9, `{k}` a door
+    // 1 to 4, `{l}` a letter A to D, `{a|b|c}` one of the words; anything else
+    // literally. The number is drawn first and then the rest in order, so the
+    // older named styles draw what they always did.
+    struct unit_format
+    {
+        std::string text;
+        unit_join join{unit_join::comma};
+    };
+
     struct format_data
     {
         std::vector<std::string> lines;       // templates with {A} {C} {S} {Z} {D} {X}
@@ -955,7 +970,8 @@ class adg
         std::vector<std::string> zip_examples;
         bool number_after{false};
         bool number_comma{false};
-        std::string unit_style;
+        unit_format unit;       // empty text: the country has no units
+        unit_format unit_latin; // for address_script::latin
     };
 
     struct street_data
@@ -1130,8 +1146,62 @@ class adg
         const auto sep = row.get_or<std::string>("number_sep", "space");
         if (sep != "space" && sep != "comma") throw row.error("number_sep", "expected space or comma");
         f.number_comma = sep == "comma";
-        f.unit_style = row.get_or<std::string>("unit_style", "none");
+        const auto style = row.get_or<std::string>("unit_style", "none");
+        f.unit.text = row.get_or<std::string>("unit_format", "");
+        if (f.unit.text.empty()) f.unit.text = named_unit_(style);
+        f.unit.join = parse_unit_join_(row, "unit_join");
+        check_unit_format_(row, "unit_format", f.unit.text);
+        f.unit_latin.text = row.get_or<std::string>("unit_format_latin", "");
+        if (f.unit_latin.text.empty()) f.unit_latin.text = f.unit.text;
+        f.unit_latin.join = row.get_or<std::string>("unit_join_latin", "").empty()
+                                ? f.unit.join
+                                : parse_unit_join_(row, "unit_join_latin");
+        check_unit_format_(row, "unit_format_latin", f.unit_latin.text);
+        if (f.unit.text.empty() != f.unit_latin.text.empty())
+            throw row.error("unit_format_latin", "a country with units needs a local format");
         return {row.get<std::string>("country_code"), std::move(f)};
+    }
+
+    // The styles of address-generator 2.2 and earlier, for a formats table
+    // without a unit_format column; any other name but `none` was "Apt".
+    static std::string named_unit_(std::string_view style)
+    {
+        if (style.empty() || style == "none") return {};
+        if (style == "flat") return "Flat {n}";
+        if (style == "ste") return "Suite {n}";
+        if (style == "piso") return "{f}º {l}";
+        if (style == "ap_br") return "apto {n}";
+        if (style == "app_fr") return "Appt {n}";
+        if (style == "whg") return "Whg. {n}";
+        return "Apt {n}";
+    }
+
+    static unit_join parse_unit_join_(const core::tsv_row& row, std::string_view column)
+    {
+        const auto j = row.get_or<std::string>(column, "comma");
+        if (j.empty() || j == "comma") return unit_join::comma;
+        if (j == "space") return unit_join::space;
+        if (j == "dash") return unit_join::dash;
+        if (j == "slash") return unit_join::slash;
+        if (j == "before") return unit_join::before;
+        throw row.error(column, "expected comma, space, dash, slash or before");
+    }
+
+    static void check_unit_format_(const core::tsv_row& row, std::string_view column, std::string_view text)
+    {
+        for (std::size_t i = 0; i < text.size(); ++i)
+        {
+            if (text[i] == '}') throw row.error(column, "unmatched '}'");
+            if (text[i] != '{') continue;
+            const auto close = text.find('}', i);
+            if (close == std::string_view::npos) throw row.error(column, "unmatched '{'");
+            const auto token = text.substr(i + 1, close - i - 1);
+            const bool simple = token == "n" || token == "f" || token == "k" || token == "l";
+            const bool choice = token.contains('|') && !token.starts_with('|') && !token.ends_with('|') &&
+                                !token.contains("||");
+            if (!simple && !choice) throw row.error(column, "expected {n}, {f}, {k}, {l} or {word|word}");
+            i = close;
+        }
     }
 
     struct street_row
@@ -1721,25 +1791,47 @@ class adg
 
     static double unit_chance_(const address_request& request, const format_data& f, std::uint64_t population)
     {
-        if (f.unit_style.empty() || f.unit_style == "none") return 0.0;
+        if (f.unit.text.empty()) return 0.0;
         if (request.unit_chance) return std::clamp(*request.unit_chance, 0.0, 1.0);
         return population >= 250'000 ? 0.30 : 0.12;
     }
 
-    static std::string unit_text_(const std::string& style, core::rng& r)
+    static const unit_format& unit_of_(const format_data& f, address_script script)
+    {
+        return script == address_script::latin ? f.unit_latin : f.unit;
+    }
+
+    // The tokens are checked when the row is read (check_unit_format_).
+    static std::string unit_text_(std::string_view text, core::rng& r)
     {
         const auto n = core::uniform_int<int>(r, 1, 40);
-        if (style == "flat") return "Flat " + std::to_string(n);
-        if (style == "app_fr") return "Appt " + std::to_string(n);
-        if (style == "whg") return "Whg. " + std::to_string(n);
-        if (style == "ap_br") return "apto " + std::to_string(n);
-        if (style == "piso")
+        std::string out;
+        out.reserve(text.size() + 4);
+        for (std::size_t i = 0; i < text.size(); ++i)
         {
-            const int floor = core::uniform_int<int>(r, 1, 9);
-            const char letter = static_cast<char>('A' + core::uniform_int<int>(r, 0, 3));
-            return std::to_string(floor) + "º " + std::string(1, letter);
+            if (text[i] != '{')
+            {
+                out += text[i];
+                continue;
+            }
+            const auto close = text.find('}', i);
+            const auto token = text.substr(i + 1, close - i - 1);
+            i = close;
+            if (token == "n") out += std::to_string(n);
+            else if (token == "f") out += std::to_string(core::uniform_int<int>(r, 1, 9));
+            else if (token == "k") out += std::to_string(core::uniform_int<int>(r, 1, 4));
+            else if (token == "l") out += static_cast<char>('A' + core::uniform_int<int>(r, 0, 3));
+            else
+            {
+                const auto words = static_cast<int>(std::ranges::count(token, '|')) + 1;
+                auto pick = core::uniform_int<int>(r, 0, words - 1);
+                std::size_t b = 0;
+                while (pick-- > 0) b = token.find('|', b) + 1;
+                const auto e = token.find('|', b);
+                out += token.substr(b, e == std::string_view::npos ? std::string_view::npos : e - b);
+            }
         }
-        return "Apt " + std::to_string(n);
+        return out;
     }
 
     // '#' a digit, 'N' a digit 1-9, 'A' a capital letter, 'L' a letter that is
@@ -1807,13 +1899,20 @@ class adg
 
     static std::vector<std::string> layout_(const format_data& f, const address& v, address_script script)
     {
+        const auto join = unit_of_(f, script).join;
+        const bool on_number = !v.unit.empty() && v.number != 0 && (join == unit_join::dash || join == unit_join::slash);
         std::string street = v.street;
         if (v.number != 0)
         {
-            const auto n = v._number_text.empty() ? std::to_string(v.number) : v._number_text;
+            auto n = v._number_text.empty() ? std::to_string(v.number) : v._number_text;
+            if (on_number) n += (join == unit_join::dash ? "-" : "/") + v.unit;
             street = f.number_after ? street + (f.number_comma ? ", " : " ") + n : n + " " + street;
         }
-        if (!v.unit.empty()) street += ", " + v.unit;
+        if (!v.unit.empty() && !on_number)
+        {
+            if (join == unit_join::before) street = v.unit + ", " + street;
+            else street += (join == unit_join::space ? " " : ", ") + v.unit;
+        }
 
         std::vector<std::string> out;
         const auto& templates = script == address_script::latin && !f.lines_latin.empty() ? f.lines_latin : f.lines;

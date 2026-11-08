@@ -307,6 +307,66 @@ TEST_CASE("a unit follows the country's style", "[layout][unit]")
     for (std::uint64_t s = 0; s < 200; ++s) REQUIRE(gen.get_address(us, s).unit.empty());
 }
 
+TEST_CASE("unit formats: tokens, joins and the Latin form", "[layout][unit]")
+{
+    const auto gen = make_loaded_generator();
+    const auto first_line = [&](const char* cc, std::uint64_t s, dasmig::address_script script)
+    {
+        auto r = in(cc);
+        r.unit_chance = 1.0;
+        r.script = script;
+        return gen.get_address(r, s);
+    };
+    const auto local = dasmig::address_script::local;
+    const auto latin = dasmig::address_script::latin;
+    for (std::uint64_t s = 0; s < 30; ++s)
+    {
+        // On the number: Poland 12/5, the Netherlands 12-5.
+        const auto pl = first_line("PL", s, local);
+        REQUIRE(pl.lines()[0].ends_with(" " + std::to_string(pl.number) + "/" + pl.unit));
+        const auto nl = first_line("NL", s, local);
+        REQUIRE(nl.lines()[0].ends_with(" " + std::to_string(nl.number) + "-" + nl.unit));
+        // After a space, with floor and door tokens: Sweden's lgh 1102.
+        const auto se = first_line("SE", s, local);
+        REQUIRE(std::regex_match(se.unit, std::regex{"lgh 1[1-9]0[1-4]"}));
+        REQUIRE(se.lines()[0].ends_with(std::to_string(se.number) + " " + se.unit));
+        // A word from a list: Denmark's 2. th.
+        REQUIRE(std::regex_match(first_line("DK", s, local).unit, std::regex{"[1-9]\\. (th|tv|mf)"}));
+        // Another script, and its Latin form: Russia's кв. and kv.
+        REQUIRE(first_line("RU", s, local).unit.starts_with("кв. "));
+        const auto ru = first_line("RU", s, latin);
+        REQUIRE(ru.unit.starts_with("kv. "));
+        REQUIRE(ru.lines()[0].ends_with(", " + ru.unit));
+        // Before the street in Latin script: Hong Kong's Flat A, 5/F.
+        const auto hk = first_line("HK", s, latin);
+        REQUIRE(std::regex_match(hk.unit, std::regex{"Flat [A-D], [0-9]+/F"}));
+        REQUIRE(hk.lines()[0].starts_with(hk.unit + ", "));
+        // Japan: a room in the local script, on the block number in Latin.
+        REQUIRE(std::regex_match(first_line("JP", s, local).unit, std::regex{"[1-9]0[1-4]号室"}));
+        const auto jp = first_line("JP", s, latin);
+        REQUIRE(jp.lines()[0].ends_with("-" + jp.unit));
+    }
+}
+
+TEST_CASE("unit formats: a formats row is checked", "[layout][unit][errors]")
+{
+    const auto with = [](const std::string& columns, const std::string& values)
+    {
+        dasmig::adg gen;
+        gen.extend_from_string(address_table::formats,
+                               "country_code\tlines\tnumber_after\t" + columns + "\nUS\t{A}|{C}\t0\t" + values + "\n",
+                               "formats.tsv", layer_mode::replace);
+    };
+    REQUIRE_NOTHROW(with("unit_format\tunit_join", "No. {n}{l}\tspace"));
+    REQUIRE_NOTHROW(with("unit_format\tunit_join_latin", "{f}. {a|b}\tbefore"));
+    REQUIRE_THROWS_AS(with("unit_format", "Apt {x}"), dasmig::core::tsv_error);
+    REQUIRE_THROWS_AS(with("unit_format", "Apt {n"), dasmig::core::tsv_error);
+    REQUIRE_THROWS_AS(with("unit_format", "Apt n}"), dasmig::core::tsv_error);
+    REQUIRE_THROWS_AS(with("unit_format", "{a||b}"), dasmig::core::tsv_error);
+    REQUIRE_THROWS_AS(with("unit_format\tunit_join", "Apt {n}\tafter"), dasmig::core::tsv_error);
+    REQUIRE_THROWS_AS(with("unit_style\tunit_format_latin", "none\tApt {n}"), dasmig::core::tsv_error);
+}
+
 TEST_CASE("a partial postcode is completed from the pattern", "[layout][postcode]")
 {
     const auto gen = make_small_generator();
@@ -434,7 +494,8 @@ TEST_CASE("a street named in another script has a Latin name for the Latin scrip
 TEST_CASE("Japanese house numbers are blocks and the municipality has a line", "[layout][jp]")
 {
     const auto gen = make_loaded_generator();
-    const std::regex blocks{R"( [1-9]-[0-9]{1,2}-[0-9]{1,2}$)"};
+    // A room number may follow (101号室).
+    const std::regex blocks{R"( [1-9]-[0-9]{1,2}-[0-9]{1,2}( [1-9]0[1-4]号室)?$)"};
     for (std::uint64_t s = 0; s < 50; ++s)
     {
         const auto v = gen.get_address(in("JP"), s);
@@ -666,15 +727,15 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
     gen.load(std::filesystem::path{"resources/lite"});
     if (!gen.has_data()) gen.load(std::filesystem::path{"../resources/lite"});
     REQUIRE(gen.has_data());
-    REQUIRE(gen.data_hash() == 0xceef0ca841ce1d47ULL);
+    REQUIRE(gen.data_hash() == 0x3b3ef970eeea6a8eULL);
 
-    REQUIRE(gen.get_address(dasmig::address_request{}, std::uint64_t{1}).to_json() == R"({"country_code":"DE","city":"Sindelfingen","region":"Baden-Wurttemberg","street":"Wilhelm-Haspel-Straße","number":76,"unit":"","postcode":"71069","real_street":true,"geonameid":2831948,"lines":["Wilhelm-Haspel-Straße 76","71069 Sindelfingen"],"formatted":"Wilhelm-Haspel-Straße 76, 71069 Sindelfingen","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
-    REQUIRE(gen.get_address(in("PT"), std::uint64_t{1}).to_json() == R"({"country_code":"PT","city":"Portalegre","region":"Portalegre","street":"Rua 31 de Janeiro","number":109,"unit":"","postcode":"7300-022","real_street":true,"geonameid":2264508,"lines":["Rua 31 de Janeiro, 109","7300-022 Portalegre"],"formatted":"Rua 31 de Janeiro, 109, 7300-022 Portalegre","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
-    REQUIRE(gen.get_address(in("US"), std::uint64_t{1}).to_json() == R"({"country_code":"US","city":"Kenner","region":"LA","street":"Williams Boulevard","number":3370,"unit":"","postcode":"70097","real_street":true,"geonameid":4329753,"lines":["3370 Williams Boulevard","Kenner, LA 70097"],"formatted":"3370 Williams Boulevard, Kenner, LA 70097","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
-    REQUIRE(gen.get_address(in("JP"), std::uint64_t{1}).to_json() == R"({"country_code":"JP","city":"Tokyo","region":"Tokyo","street":"PROMINENCE ROKA","number":8,"unit":"","postcode":"100-6013","real_street":true,"geonameid":1850147,"lines":["〒100-6013","Tokyo","PROMINENCE ROKA 8-16-11"],"formatted":"〒100-6013, Tokyo, PROMINENCE ROKA 8-16-11","signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
+    REQUIRE(gen.get_address(dasmig::address_request{}, std::uint64_t{1}).to_json() == R"({"country_code":"DE","city":"Sindelfingen","region":"Baden-Wurttemberg","street":"Wilhelm-Haspel-Straße","number":76,"unit":"","postcode":"71069","real_street":true,"geonameid":2831948,"lines":["Wilhelm-Haspel-Straße 76","71069 Sindelfingen"],"formatted":"Wilhelm-Haspel-Straße 76, 71069 Sindelfingen","signature":{"seed":"0000000000000001","data":"3b3ef970eeea6a8e"}})");
+    REQUIRE(gen.get_address(in("PT"), std::uint64_t{1}).to_json() == R"({"country_code":"PT","city":"Portalegre","region":"Portalegre","street":"Rua 31 de Janeiro","number":109,"unit":"","postcode":"7300-022","real_street":true,"geonameid":2264508,"lines":["Rua 31 de Janeiro, 109","7300-022 Portalegre"],"formatted":"Rua 31 de Janeiro, 109, 7300-022 Portalegre","signature":{"seed":"0000000000000001","data":"3b3ef970eeea6a8e"}})");
+    REQUIRE(gen.get_address(in("US"), std::uint64_t{1}).to_json() == R"({"country_code":"US","city":"Kenner","region":"LA","street":"Williams Boulevard","number":3370,"unit":"","postcode":"70097","real_street":true,"geonameid":4329753,"lines":["3370 Williams Boulevard","Kenner, LA 70097"],"formatted":"3370 Williams Boulevard, Kenner, LA 70097","signature":{"seed":"0000000000000001","data":"3b3ef970eeea6a8e"}})");
+    REQUIRE(gen.get_address(in("JP"), std::uint64_t{1}).to_json() == R"({"country_code":"JP","city":"Tokyo","region":"Tokyo","street":"PROMINENCE ROKA","number":8,"unit":"704号室","postcode":"100-6013","real_street":true,"geonameid":1850147,"lines":["〒100-6013","Tokyo","PROMINENCE ROKA 8-16-11 704号室"],"formatted":"〒100-6013, Tokyo, PROMINENCE ROKA 8-16-11 704号室","signature":{"seed":"0000000000000001","data":"3b3ef970eeea6a8e"}})");
     dasmig::street_request fr;
     fr.country = "FR";
-    REQUIRE(gen.get_street(fr, std::uint64_t{1}).to_json() == R"({"name":"Rue du Mail","country_code":"FR","city":"Savigny-sur-Orge","real_street":true,"geonameid":2975525,"signature":{"seed":"0000000000000001","data":"ceef0ca841ce1d47"}})");
+    REQUIRE(gen.get_street(fr, std::uint64_t{1}).to_json() == R"({"name":"Rue du Mail","country_code":"FR","city":"Savigny-sur-Orge","real_street":true,"geonameid":2975525,"signature":{"seed":"0000000000000001","data":"3b3ef970eeea6a8e"}})");
     dasmig::postcode_request gb;
     gb.country = "GB";
     REQUIRE(gen.get_postcode(gb, std::uint64_t{1}) == "PE9 4DU");
@@ -688,7 +749,7 @@ TEST_CASE("known answers for fixed seeds", "[kat]")
             h *= 0x100000001b3ULL;
         }
     }
-    REQUIRE(h == 0x7f2373941c4c1f1bULL);
+    REQUIRE(h == 0xf527b45c3c5e30eeULL);
 }
 
 // ---------------------------------------------------------------------------
@@ -714,7 +775,7 @@ TEST_CASE("known answers: 10,000 streets and postcodes", "[kat][street][postcode
         streets = fold(streets, gen.get_street(dasmig::street_request{}, s).to_json());
         codes = fold(codes, gen.get_postcode(dasmig::postcode_request{}, s));
     }
-    REQUIRE(streets == 0x3da4510111f2bc3cULL);
+    REQUIRE(streets == 0xb68f6eb44defd904ULL);
     REQUIRE(codes == 0xa9f87680b354eb21ULL);
 }
 
@@ -823,7 +884,7 @@ TEST_CASE("compiled-in data needs no files and matches them", "[embed]")
 
     REQUIRE(loaded);
     REQUIRE(gen.layers(address_table::places).front().source == "embedded:lite/places.tsv");
-    REQUIRE(gen.data_hash() == 0xceef0ca841ce1d47ULL); // same as the files
+    REQUIRE(gen.data_hash() == 0x3b3ef970eeea6a8eULL); // same as the files
 }
 #endif
 
@@ -889,7 +950,7 @@ TEST_CASE("address batch: known answer of 10,000 items", "[batch][kat]")
     gen.for_each_address(request, {.count = 10000, .threads = 4}, 1,
                         [&](std::uint64_t, const dasmig::address& item)
                         { hash = dasmig::core::hash_combine(hash, dasmig::core::fnv1a64(item.to_json())); });
-    REQUIRE(hash == 0xdc83cbe9adadcbbdULL);
+    REQUIRE(hash == 0xd7f5544d0a53fc80ULL);
 }
 
 // ---------------------------------------------------------------------------
